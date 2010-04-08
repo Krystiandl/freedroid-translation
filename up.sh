@@ -6,8 +6,7 @@ cd ../src ;
 git svn rebase ;
 cd ../dialogs ;
 git svn rebase ; 
-cd ..
-cd dialogs ;
+cd ../dialogs ;
 for i in *.dialog ; do  # update the pot files
     ../extract-strings-from-data.py . "${i}" "../po/${i/.dialog/.pot}" ;
 done ;
