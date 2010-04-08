@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CHANGE THIS\n"
+"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
+"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"PO-Revision-Date: 2010-04-08 14:10+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:41
+msgid "Hi! I'm new here."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:43
+msgid "You don't say. I'm not living here either. I'm just on vacation."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:44
+msgid ""
+"Normally I'm a fighter. But now I try to relax, chill, take it easy and have a"
+" lot of fun."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:45
+msgid "And in case you couldn't tell, that was sarcasm."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:50
+msgid "Could you teach me how to fight?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:53
+msgid "NO! NO! Er... I mean, not right now. I am busy. Come again later."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:55
+msgid "Sure. I can help you."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:56
+msgid "For a price. Hundred bucks should be enough."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:62
+msgid "Teach me the basic stuff."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:64
+msgid "Are you sure?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:65
+msgid "I only accept students that already have some experience in fighting bots."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:70
+msgid "Yes (cost 100 valuable circuits, 5 ability points)"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:75
+msgid "Let us begin then."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:76
+msgid "Come closer..."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:77
+msgid "HA!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:78
+msgid "Ouch! What the hell are you doing?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:79
+msgid "Lesson number one. Never trust the opponent."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:80
+msgid "Just let me get up an -- ouch! Stop it."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:81
+msgid "Lesson number two. The bots have no mercy."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:82
+msgid "They won't let you get up if you fall down. They will kill you."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:83
+msgid "Now, lesson number -- ugh! That hurt!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:84
+msgid "Lesson number three. Never underestimate the enemy."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:85
+msgid "Ugh. Yes. You are correct."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:86
+msgid "I need to... Lie down for a while... My head hurts..."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:87
+msgid "Lesson number four. Never hit your sparring partner with full force."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:88
+msgid "I think you broke my ribs..."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:89
+msgid "This is enough training for today."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:95
+msgid "You don't have enough experience. I can't teach you anything more right now."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:96
+msgid "First collect more experience. Then we can go on."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:100
+msgid ""
+"You don't have enough valuable circuits on you! Come back when you have the mo"
+"ney."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:103
+msgid ""
+"Hey, wake up! I taught you that stuff already. Go practice on the bots, if you"
+" really want more training."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:109
+msgid "Teach me how to smash concrete blocks with my bare hands."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:111
+msgid "Oh, Linarian, you amuse me so."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:112
+msgid "You are quite an ambitious fellow."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:113
+msgid ""
+"First learn the basics. Spend a year working on that, and then I'll be able to"
+" teach you some advanced tricks."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:118
+msgid "Teach me Ninjitsu."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:120
+msgid "Go away."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:125
+msgid ""
+"I want to know the Crazy Double-Fang Wolf-Sunlight I-Like-Tea Death Touch of M"
+"ajor Destruction Flesh-Bursting Attack!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:127
+msgid "Wow."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:128
+msgid "You have a very rich imagination. There is no such thing. Get a life."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:133
+msgid "I want to know the forbidden skill of furuike ya kawazu tobikomu mizu no oto."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:135
+msgid "This is starting to make me angry. Shut up and go away."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:140
+msgid "Teach me how to flip out and kill people!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:142
+msgid "*sigh*"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:143
+msgid "Very well. Observe very carefully."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:144
+msgid "You will see this only once, so make sure to pay attention."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:145
+msgid "DIEEEE!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:151
+msgid "Enough for now."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:153
+msgid "Fine."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:158
+msgid "See you later."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:160
+msgid "Have courage."
+msgstr ""
+
