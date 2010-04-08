@@ -19,8 +19,9 @@ msgid ".. bot_name().."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:39
+#, fuzzy
 msgid "cd .."
-msgstr ""
+msgstr ". . ."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:45
 msgid "./est_repair.plx"
@@ -75,16 +76,18 @@ msgid "Settings saved"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:104
+#, fuzzy
 msgid "No, don't ask"
-msgstr ""
+msgstr "Даже не спрашивай."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:106
 msgid "./hcf.py will be executed without asking for confirmation."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:118
+#, fuzzy
 msgid "Closing remote connection..."
-msgstr ""
+msgstr "Жду соединений...."
 
 #~ msgid "Go0d. H3re is th3 con7ract. S1gn it!"
 #~ msgstr "Х0р0w0. 80т к0н7рАк7. п0DпiсbI8Аi!"
@@ -426,9 +429,6 @@ msgstr ""
 
 #~ msgid "I'll be going then."
 #~ msgstr "Ну, я пойду."
-
-#~ msgid ". . ."
-#~ msgstr ". . ."
 
 #~ msgid "Good. I need sleep."
 #~ msgstr "Хорошо. А мне нужно поспать."
@@ -2397,9 +2397,6 @@ msgstr ""
 #~ "Хотел бы я, чтобы боты меня просто прикончили, но нет, мне \"повезло\" и "
 #~ "я оказался этой чёртовой дыре."
 
-#~ msgid "Don't ask."
-#~ msgstr "Даже не спрашивай."
-
 #~ msgid "'Terribly' would be a huge understatement."
 #~ msgstr "Мягко говоря, ужасающе."
 
@@ -3903,9 +3900,6 @@ msgstr ""
 
 #~ msgid "Advertising update to clients..."
 #~ msgstr "Сообщаю об обновлении клиентам..."
-
-#~ msgid "Waiting for all connections...."
-#~ msgstr "Жду соединений...."
 
 #~ msgid "Firmware update propagated!"
 #~ msgstr "Прошивка обновлена!"

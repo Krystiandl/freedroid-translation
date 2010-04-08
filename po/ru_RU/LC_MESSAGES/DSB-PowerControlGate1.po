@@ -39,8 +39,11 @@ msgid " "
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControlGate1.dialog:43
+#, fuzzy
 msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
 msgstr ""
+"Последнее посещение было зарегистрировано на /dev/ttyS0 в субботу 23 mar "
+"2057. admin@sadefence: ~ #"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControlGate1.dialog:53
 msgid "GAME BUG. PLEASE REPORT."
@@ -104,8 +107,9 @@ msgid "Exiting"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControlGate1.dialog:102
+#, fuzzy
 msgid "Have a nice day."
-msgstr ""
+msgstr "Может быть, однажды..."
 
 #~ msgid "Go0d. H3re is th3 con7ract. S1gn it!"
 #~ msgstr "Х0р0w0. 80т к0н7рАк7. п0DпiсbI8Аi!"
@@ -1065,11 +1069,6 @@ msgstr ""
 #~ msgid "You better be. AND DON'T COME BACK!"
 #~ msgstr "Да уж следовало бы. И НЕ ВОЗВРАЩАЙСЯ!"
 
-#~ msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057. admin@sadefence: ~ #"
-#~ msgstr ""
-#~ "Последнее посещение было зарегистрировано на /dev/ttyS0 в субботу 23 mar "
-#~ "2057. admin@sadefence: ~ #"
-
 #~ msgid "Disabling guns..."
 #~ msgstr "Отключаю автопушки..."
 
@@ -1650,9 +1649,6 @@ msgstr ""
 #~ msgid "Maybe then you will tell us other gut jokes that you know."
 #~ msgstr ""
 #~ "Может быть тогда ты расскажешь нам другие хороший шутки, которые знаешь."
-
-#~ msgid "Maybe one day..."
-#~ msgstr "Может быть, однажды..."
 
 #~ msgid "I was a bot constructor. Built the killers of my mother."
 #~ msgstr "Я конструировал ботов. Строил убийц своей матери."

@@ -15,8 +15,9 @@ msgstr ""
 "X-Generator: Launchpad (build Unknown)\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:49
+#, fuzzy
 msgid "Um, hi."
-msgstr ""
+msgstr "Ээ, привет."
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:51
 msgid "Oh! It happened! I have been waiting for you for 3226 hours!"
@@ -35,10 +36,13 @@ msgid "Imaginary?! I am as real as you are."
 msgstr "Воображаемый?! Да я такой же реальный, как и ты."
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:65
+#, fuzzy
 msgid ""
 "This place is locked. Hermetically sealed and guarded by bots. So you can't "
 "possibly be anything more than the product of my imagination."
 msgstr ""
+"Это помещение закрыто, герметично законсервированно и охраняется роботами. "
+"Так что ты не можешь быть ничем иным, кроме как продуктом моего воображения."
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:70
 msgid "Where am I?"
@@ -182,14 +186,18 @@ msgid "Autoguns have made a hole in the wall. I came through this hole."
 msgstr "Автопушки пробили дырку в стене. Я вошел через неё."
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:135
+#, fuzzy
 msgid "Do you mean I can go out to the surface?!"
-msgstr ""
+msgstr "Ты хочешь сказать, что я могу выбраться на поверхность?!"
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:136
+#, fuzzy
 msgid ""
 "Oh god! I - I told Peter that he chose the wrong place, but he was so "
 "stubborn!"
 msgstr ""
+"Боже! Я же говорила Пете, что он не там копает, но он был настолько в себе "
+"уверен!"
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:141
 msgid "Yes, you can get to the surface. But the guns are still on."
@@ -228,12 +236,16 @@ msgid "How can I disable the guns?"
 msgstr "Как их отключить?"
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:164
+#, fuzzy
 msgid ""
 "Somewhere in a distant part of the lab should be an SACD - Secret Area "
 "Control Droid. It controls all the defense systems in the base. If you "
 "manage to persuade it, you would be able to control the base. However, it's "
 "very hard to find and get to the SACD."
 msgstr ""
+"Где-то в отделённой части лаборатории должен быть ДКСО - дроид контроля "
+"секретных сооружений. Он управляет обороной базы. Если тебе удастся его "
+"уболтать, то ты сможешь управлять базой. Но его довольно сложно найти."
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:169
 #, fuzzy
@@ -1896,40 +1908,6 @@ msgstr "Ладно. Но, пожалуйста, пожалуйста, приходи еще. Я так одинока."
 
 #~ msgid "Goodbye and viel gluck."
 #~ msgstr "Прощай. Viel gluck."
-
-#~ msgid "Em, hi."
-#~ msgstr "Ээ, привет."
-
-#, fuzzy
-#~ msgid ""
-#~ "This place is locked. Hermetically sealed and guarded by bots. So you can "
-#~ "be nothing more than the product of my imagination."
-#~ msgstr ""
-#~ "Это помещение закрыто, герметично законсервированно и охраняется "
-#~ "роботами. Так что ты не можешь быть ничем иным, кроме как продуктом моего "
-#~ "воображения."
-
-#~ msgid "Do you mean I can go out to the surface ?!"
-#~ msgstr "Ты хочешь сказать, что я могу выбраться на поверхность?!"
-
-#, fuzzy
-#~ msgid ""
-#~ "Oh god! I've told Peter that he chosed the wrong place, but he was so "
-#~ "stubborn!"
-#~ msgstr ""
-#~ "Боже! Я же говорила Пете, что он не там копает, но он был настолько в "
-#~ "себе уверен!"
-
-#, fuzzy
-#~ msgid ""
-#~ "Somewhere in a distant part of the lab should be an SACD - secret area "
-#~ "control droid. It controls all the defense systems in the base. If you "
-#~ "manage to persuade him, you will be able to control the base. But it's "
-#~ "very hard to find him."
-#~ msgstr ""
-#~ "Где-то в отделённой части лаборатории должен быть ДКСО - дроид контроля "
-#~ "секретных сооружений. Он управляет обороной базы. Если тебе удастся его "
-#~ "уболтать, то ты сможешь управлять базой. Но его довольно сложно найти."
 
 #~ msgid ""
 #~ "No, don't go. I will not let you go before we talk. Important things."

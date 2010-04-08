@@ -87,17 +87,23 @@ msgid "Our security wall is full of holes, and they need to be plugged up."
 msgstr "Ќаши защитные стены полны дыр, которые надо пофиксить."
 
 #: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:92
+#, fuzzy
 msgid ""
 "We need to perform a statistical analysis of the energy distribution in our "
 "power supply system, there is a leak somewhere and we are losing many "
 "megawatts."
 msgstr ""
+"Ќужно провести статистический анализ распределени€ энергии в нашей "
+"энергосистеме - где-то есть утечка и мы тер€ем кучу мегаватт!"
 
 #: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:93
+#, fuzzy
 msgid ""
 "Our defensive bots are falling into disrepair and many are in desperate need "
 "of maintenance."
 msgstr ""
+"Ќаши охранные боты изнашиваютс€ и многие отча€нно нуждаютс€ в капитальном "
+"ремонте."
 
 #: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:94
 msgid ""
@@ -212,11 +218,14 @@ msgstr ""
 "сваливай как можно быстрее."
 
 #: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:126
+#, fuzzy
 msgid ""
 "I will give you two small devices charged with plasma. If you get in trouble "
 "just activate one and it will send a shockwave of plasma around you damaging "
 "anything in its way. It should give you some breathing room."
 msgstr ""
+"я дам тебе пару плазменных гранат, если возникнут непри€тности - взорви "
+"одну. ќна разнесет все в округе и даст тебе место дл€ действий."
 
 #: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:127
 #, fuzzy
@@ -4054,30 +4063,6 @@ msgstr ""
 
 #~ msgid "Goodbye and remember: My bar is always open."
 #~ msgstr "—частливо. » запомни: мой бар всегда открыт."
-
-#, fuzzy
-#~ msgid ""
-#~ "We need to perform a statistical analysis of the energy distribution in "
-#~ "our power supply system, there is a leak somewhere and we are losing a "
-#~ "lot of megawatts."
-#~ msgstr ""
-#~ "Ќужно провести статистический анализ распределени€ энергии в нашей "
-#~ "энергосистеме - где-то есть утечка и мы тер€ем кучу мегаватт!"
-
-#~ msgid ""
-#~ "Our defensive bots are falling into disrepair and many are in desperate "
-#~ "need of a lot of maintenance."
-#~ msgstr ""
-#~ "Ќаши охранные боты изнашиваютс€ и многие отча€нно нуждаютс€ в капитальном "
-#~ "ремонте."
-
-#~ msgid ""
-#~ "I will give you two small devices charged with plasma. If you get in "
-#~ "trouble just activate one and it will send a shockwave of plasma around "
-#~ "you damaging anything in it's way. It should give you some breathing room."
-#~ msgstr ""
-#~ "я дам тебе пару плазменных гранат, если возникнут непри€тности - взорви "
-#~ "одну. ќна разнесет все в округе и даст тебе место дл€ действий."
 
 #~ msgid "Welcome to MS firmware upgrade server for region #54658."
 #~ msgstr "ƒобро пожаловать на  сервер обновлени€ MS региона #54658."

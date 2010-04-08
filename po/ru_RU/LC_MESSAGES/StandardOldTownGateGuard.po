@@ -38,10 +38,11 @@ msgstr ""
 "дел."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardOldTownGateGuard.dialog:45
+#, fuzzy
 msgid ""
 "The city is presently ruled by the Red Guard. We are the police and the "
 "soldiers here."
-msgstr ""
+msgstr "Сейчас городом управляет красная гвардия. Мы тут и милиция и солдаты. "
 
 #: /home/david/src/freedroid-translation/dialogs/StandardOldTownGateGuard.dialog:46
 msgid "There is only one law concerning outsiders here: Don't be stupid."
@@ -782,12 +783,6 @@ msgstr "Пока."
 #~ msgstr ""
 #~ "О, здесь всегда есть чем заняться. Не переживайте. Я довольно занятой на "
 #~ "этом посту."
-
-#~ msgid ""
-#~ "The city is presently ruled by the Red Guard. We are the police and the "
-#~ "soldiers here. "
-#~ msgstr ""
-#~ "Сейчас городом управляет красная гвардия. Мы тут и милиция и солдаты. "
 
 #~ msgid ""
 #~ "I've already opened the door for you. All you need to do is walk in there "

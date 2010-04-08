@@ -51,10 +51,13 @@ msgstr ""
 "цены."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:58
+#, fuzzy
 msgid ""
 "No one wants to pay 499 circs for bottom shelf swill that even Bender would "
 "not drink..."
 msgstr ""
+"Никто не хочет платить по 499 треугольников за пойло с самой последней "
+"полки, которое даже Бендер не стал бы пить."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:59
 msgid ""
@@ -237,8 +240,9 @@ msgid "I play a dice game and a coin-flipping game."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:191
+#, fuzzy
 msgid "You should come back when you have more to gamble with."
-msgstr ""
+msgstr "Лучше уж никогда. Я тебя ненавижу."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:197
 msgid "Tell me the rules for your 'dice game'."
@@ -311,16 +315,18 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:223
+#, fuzzy
 msgid "But if you are only partially wrong... well, then you get nothing."
-msgstr ""
+msgstr "Но если ты действительно этого хочешь - дверь открыта."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:235
 msgid "How about a bet of 10 circuits"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:261
+#, fuzzy
 msgid "Name your game."
-msgstr ""
+msgstr "Да пребудет с Вами СИЛА!"
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:282
 msgid "Dice it is. Roll your first die."
@@ -361,8 +367,9 @@ msgid "You won! Good job."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:336
+#, fuzzy
 msgid "You lost. Bad luck."
-msgstr ""
+msgstr "Удачи"
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:347
 msgid "Coin flipping it is."
@@ -381,8 +388,9 @@ msgid "Tails? Fits, since you've got one."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:371
+#, fuzzy
 msgid "Here goes nothing."
-msgstr ""
+msgstr "Ничего более."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:374
 msgid "Looks like it is 'tails'."
@@ -463,8 +471,9 @@ msgstr ""
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:446
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:452
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:459
+#, fuzzy
 msgid "Heads."
-msgstr ""
+msgstr "Да."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:454
 msgid "Last flip. I hope it is the one I want!"
@@ -503,8 +512,9 @@ msgid "Looks like another winning combination! Good job!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:502
+#, fuzzy
 msgid "Looks like you got everything wrong."
-msgstr ""
+msgstr "Я всё тебе расскажу."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:505
 msgid "Looks like you got everything wrong... here is some of your bet back."
@@ -857,9 +867,6 @@ msgstr "Счастливо. И запомни: мой бар всегда открыт."
 #~ msgstr ""
 #~ "Нет! Пожалуйста... Я всё сделаю, только не зови Красную Гвардию! Им не "
 #~ "нравятся те, кто оставил службу. Им не нравлюсь я. "
-
-#~ msgid "I will tell you everything."
-#~ msgstr "Я всё тебе расскажу."
 
 #~ msgid "Yes. And now I would like to go to sleep. Good night Linarian."
 #~ msgstr "Да. А сейчас я хотел бы пойти поспать. Спокойной ночи, Линарианец."
@@ -2082,9 +2089,6 @@ msgstr "Счастливо. И запомни: мой бар всегда открыт."
 #~ msgstr ""
 #~ "Теперь я продаю запчасти, которые достаю из ботов, чтоб купить снаряжение "
 #~ "и продукты."
-
-#~ msgid "Yes."
-#~ msgstr "Да."
 
 #~ msgid "I will sell the information for a lot of cybergeld."
 #~ msgstr "Я продам информацию за много киберденег."
@@ -3532,18 +3536,8 @@ msgstr "Счастливо. И запомни: мой бар всегда открыт."
 #~ "Взгляни на вход к офису среди кристальных полях. Я пошлю сообщение "
 #~ "гвардам, чтобы они тебя пропустили. Дальше ты сам по себе"
 
-#~ msgid "Good luck."
-#~ msgstr "Удачи"
-
 #~ msgid "You had better be ready."
 #~ msgstr "Ты уж приготовься"
-
-#~ msgid ""
-#~ "No one wants to pay 499 triangles for bottom shelf swill that even Bender "
-#~ "would not drink..."
-#~ msgstr ""
-#~ "Никто не хочет платить по 499 треугольников за пойло с самой последней "
-#~ "полки, которое даже Бендер не стал бы пить."
 
 #, fuzzy
 #~ msgid ""
@@ -4707,10 +4701,6 @@ msgstr "Счастливо. И запомни: мой бар всегда открыт."
 #~ "У тебя недостаточно опыта. Приходи, когда повидаешь мир и чему-то "
 #~ "научишься."
 
-#, fuzzy
-#~ msgid "So come back when you have both."
-#~ msgstr "Лучше уж никогда. Я тебя ненавижу."
-
 #~ msgid ""
 #~ "Now the most important thing is that you turn off the auto-aim on your "
 #~ "weapon, like this."
@@ -5465,9 +5455,6 @@ msgstr "Счастливо. И запомни: мой бар всегда открыт."
 #~ msgid "I pity you, silly bird. Don't go there."
 #~ msgstr "Мне тебя будет жаль, глупый птиц. Не ходи туда."
 
-#~ msgid "But if you really want it, the door is open."
-#~ msgstr "Но если ты действительно этого хочешь - дверь открыта."
-
 #, fuzzy
 #~ msgid "What!? Impossible! No one ever survives the second arena!"
 #~ msgstr "Что?! Быть того не может! Никто ещё не выживал на второй арене!"
@@ -5717,9 +5704,6 @@ msgstr "Счастливо. И запомни: мой бар всегда открыт."
 
 #~ msgid "Very simple. He likes destruction, and I am creation."
 #~ msgstr "Все очень просто. Он любит уничтожать жизнь, а я - создание."
-
-#~ msgid "There is nothing more to it."
-#~ msgstr "Ничего более."
 
 #~ msgid "This place will always wait for you."
 #~ msgstr "Здесь ты всегда будешь желанным гостем."
@@ -5973,9 +5957,6 @@ msgstr "Счастливо. И запомни: мой бар всегда открыт."
 
 #~ msgid "For a price. Hundred bucks should be enough."
 #~ msgstr "О цене. Сотни баксов хватит за глаза."
-
-#~ msgid "Have courage."
-#~ msgstr "Да пребудет с Вами СИЛА!"
 
 #~ msgid "Hi. I haven't slept for a few weeks, so I'm just a little bit tired."
 #~ msgstr ""

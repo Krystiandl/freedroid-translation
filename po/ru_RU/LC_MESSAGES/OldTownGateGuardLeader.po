@@ -27,11 +27,14 @@ msgid "Oh, great. Another curious one."
 msgstr "О, отлично. Ещё один любознательный."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:46
+#, fuzzy
 msgid ""
 "About a week ago I let in a stranger who also said he was just taking a look "
 "around. I never saw him again. And he wont be getting back in either, that's "
 "for sure."
 msgstr ""
+"Где-то с неделю назад я пропустил незнакомца, который тоже говорил, что он "
+"\"просто осматривается\". Больше я его не видал."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:51
 msgid "I'd like to get into town."
@@ -72,10 +75,13 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:75
+#, fuzzy
 msgid ""
 "On the day he visited all our computers went insane, 20 bags of food rations "
 "vanished from our storage and one of our bots was stolen."
 msgstr ""
+"В тот день все наши компьютеры спятили, пропало 20 мешков со съестными "
+"припасами и был украден один наш бот."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:76
 msgid ""
@@ -86,16 +92,19 @@ msgstr ""
 "добраться до него и выбить из него жизнь. Медленно."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:86
+#, fuzzy
 msgid "In any case..."
-msgstr ""
+msgstr " Он называется..."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:94
+#, fuzzy
 msgid "Yes. I understand."
-msgstr ""
+msgstr "Кажется мне пора."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:96
+#, fuzzy
 msgid "State your name Linarian."
-msgstr ""
+msgstr "Будь осторожен, Линарианец."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:98
 msgid "You may now enter "
@@ -106,8 +115,9 @@ msgid "No. Not at all. Your mother dresses you funny."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:107
+#, fuzzy
 msgid "What did you say you oversized duck?"
-msgstr ""
+msgstr "Молись, ты, утка-переросток!!!"
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:115
 msgid "Let me get back to you on that one."
@@ -148,8 +158,9 @@ msgid "My name is "
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:129
+#, fuzzy
 msgid "You may enter."
-msgstr ""
+msgstr "Ты... монстр..."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:139
 msgid "I said: YOUR MOTHER DRESSES YOU FUNNY."
@@ -164,8 +175,9 @@ msgid "I said: THIS PLACE LOOKS CLASSY."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:151
+#, fuzzy
 msgid "Sure you said that."
-msgstr ""
+msgstr "Увидимся позже."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:156
 msgid "Please don't hurt me."
@@ -195,8 +207,9 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:177
+#, fuzzy
 msgid "I want to talk to your manager, moron."
-msgstr ""
+msgstr "Если хочешь начать революцию, то нам с тобой не по пути."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:179
 msgid ""
@@ -225,12 +238,14 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:197
+#, fuzzy
 msgid "I'm a Linarian, not a loon. "
-msgstr ""
+msgstr "Мы тоже хотим, линарианец, очень хотим."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:198
+#, fuzzy
 msgid "Get out of here "
-msgstr ""
+msgstr "Убирайся отсюда!"
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:208
 msgid "I'll be going then."
@@ -414,9 +429,6 @@ msgstr "Хммммм."
 
 #~ msgid "And neither do I."
 #~ msgstr "И у меня тоже нет."
-
-#~ msgid "See you later."
-#~ msgstr "Увидимся позже."
 
 #~ msgid "I wish you cold winds."
 #~ msgstr "Желаю тебе прохладных крыльев."
@@ -1105,9 +1117,6 @@ msgstr "Хммммм."
 #~ msgid "We don't call this place 'hell' for nothing."
 #~ msgstr "Ну мы же не зря называем это место 'адом'."
 
-#~ msgid "Get outta here!"
-#~ msgstr "Убирайся отсюда!"
-
 #~ msgid "I'd like to go through that gate."
 #~ msgstr "IЯ бы хотел пройти через ворота."
 
@@ -1241,10 +1250,6 @@ msgstr "Хммммм."
 #~ msgid "What can I help you with?"
 #~ msgstr "Что ты достал?"
 
-#, fuzzy
-#~ msgid "I think I understand."
-#~ msgstr "Кажется мне пора."
-
 #~ msgid "..."
 #~ msgstr "..."
 
@@ -1298,20 +1303,6 @@ msgstr "Хммммм."
 
 #~ msgid "<?>"
 #~ msgstr "<?>"
-
-#~ msgid ""
-#~ "About a week ago I let in a stranger who also said he was just taking a "
-#~ "look around. I never saw him again."
-#~ msgstr ""
-#~ "Где-то с неделю назад я пропустил незнакомца, который тоже говорил, что "
-#~ "он \"просто осматривается\". Больше я его не видал."
-
-#~ msgid ""
-#~ "On that day all our computers went insane, 20 bags of food rations "
-#~ "vanished from our storage and one of our bots was stolen."
-#~ msgstr ""
-#~ "В тот день все наши компьютеры спятили, пропало 20 мешков со съестными "
-#~ "припасами и был украден один наш бот."
 
 #~ msgid ""
 #~ "Linarian, I will let you in. Do something stupid, and you aren't coming "
@@ -2367,9 +2358,6 @@ msgstr "Хммммм."
 #~ "about them."
 #~ msgstr ""
 #~ "Я уверен, что есть ещё более другие классы, но я о них ничего не знаю."
-
-#~ msgid "We all do, Linarian, we all do."
-#~ msgstr "Мы тоже хотим, линарианец, очень хотим."
 
 #~ msgid ""
 #~ "The act in question is made impossible by the quasi-infinite bots outside "
@@ -4100,9 +4088,6 @@ msgstr "Хммммм."
 #~ "Маленький намёк, Линарианин: у нас мало что осталось, но мы живы и "
 #~ "предпочитаем такими и дальше оставаться."
 
-#~ msgid "If you want to start a revolution, you're on your own."
-#~ msgstr "Если хочешь начать революцию, то нам с тобой не по пути."
-
 #~ msgid "Thanks to you I have a chance now."
 #~ msgstr "Благодаря тебе, у меня появился шанс."
 
@@ -4238,14 +4223,8 @@ msgstr "Хммммм."
 #~ msgid "So be it."
 #~ msgstr "Пусть будет так."
 
-#~ msgid "You... monster..."
-#~ msgstr "Ты... монстр..."
-
 #~ msgid "No one makes fun of Lily Stone's family store!"
 #~ msgstr "Никто не смеет смеяться над семейным магазином Лили Стоун!"
-
-#~ msgid "Say your prayers, you oversized duck!!!"
-#~ msgstr "Молись, ты, утка-переросток!!!"
 
 #~ msgid "HERE WE GO"
 #~ msgstr "HERE WE GO"
@@ -5149,10 +5128,6 @@ msgstr "Хммммм."
 #~ msgid "Too late. I'm watching this great show now."
 #~ msgstr ""
 #~ " Слишком поздно. Я сейчас занят просмотром замечательного спектакля."
-
-#, fuzzy
-#~ msgid "It is called..."
-#~ msgstr " Он называется..."
 
 #, fuzzy
 #~ msgid "Ok, I'll disable them."
@@ -6186,9 +6161,6 @@ msgstr "Хммммм."
 #~ msgstr ""
 #~ "Я был несколько занят обслуживанием одного из блоков Гидры, но я послал "
 #~ "отчет Спенсеру. Он расскажет тебе больше."
-
-#~ msgid "Take care, Linarian."
-#~ msgstr "Будь осторожен, Линарианец."
 
 #, fuzzy
 #~ msgid "Oh, thank heavens! You are still alive. Maybe all hope is not lost."

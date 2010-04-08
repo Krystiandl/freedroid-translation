@@ -66,8 +66,9 @@ msgid "What about some money instead?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:76
+#, fuzzy
 msgid "For 15 million circuits, no less, hehe."
-msgstr ""
+msgstr "За 15 лимонов, не меньше, хаха."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:81
 msgid "Maybe I could help somehow?"
@@ -90,10 +91,13 @@ msgstr ""
 "доверюсь тебе, странник."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:85
+#, fuzzy
 msgid ""
 "I've unlocked the access-way to the warehouse. It's to the north of this "
 "town, somewhat hidden in the woods northeast."
 msgstr ""
+"Я открыл доступ к складу. Он находится к северу от города, вход где-то в "
+"лесах на северо-востоке."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:86
 msgid ""
@@ -130,10 +134,13 @@ msgid ""
 msgstr "Парень, ты справился! Мне с трудом в это верится, но все боты ушли."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:103
+#, fuzzy
 msgid ""
 "Take these 500 circuits as a reward.  And be assured that you've earned my "
 "deepest respect, Linarian."
 msgstr ""
+"Возми эти 500 баксов в качестве награды. Я тебя заверяю, что ты завоевал мое "
+"глубочайшее уважение, Линарианец."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:104
 msgid ""
@@ -494,10 +501,11 @@ msgid "Good. You should be well prepared if you intend to go."
 msgstr "Хорошо. Ты должен быть полностью готов, когда собирешься идти."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:233
+#, fuzzy
 msgid ""
 "Also there is no need to hurry with this. After all, the installation is not "
 "running away, so it's best to take a cautious approach."
-msgstr ""
+msgstr "Торопиться не надо. Не убежит же от тебя база, так что не спеши."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:238
 msgid ""
@@ -3213,29 +3221,6 @@ msgstr "Увидимся позже."
 #~ msgid "They said it was already fed to their reactor as fuel."
 #~ msgstr ""
 #~ "Они сказали, что уже переплавили его в топливо для ядерного реактора."
-
-#~ msgid "For 15 million bucks, no less, hehe."
-#~ msgstr "За 15 лимонов, не меньше, хаха."
-
-#~ msgid ""
-#~ "I've unlocked the accessway to the warehouse. It's to the north of this "
-#~ "town, somewhat hidden in the woods northeast."
-#~ msgstr ""
-#~ "Я открыл доступ к складу. Он находится к северу от города, вход где-то в "
-#~ "лесах на северо-востоке."
-
-#~ msgid ""
-#~ "Take these 500 bucks as a reward.  And be assured that you've earned my "
-#~ "deepest respect, Linarian."
-#~ msgstr ""
-#~ "Возми эти 500 баксов в качестве награды. Я тебя заверяю, что ты завоевал "
-#~ "мое глубочайшее уважение, Линарианец."
-
-#, fuzzy
-#~ msgid ""
-#~ "Also there is no need to hurry with this. After all, the installation is "
-#~ "not running away, so it's best take a cautious approach."
-#~ msgstr "Торопиться не надо. Не убежит же от тебя база, так что не спеши."
 
 #~ msgid "Hey! I'm Ewald. I'm a bartender."
 #~ msgstr "Эй! Я Эвальд. Я бармен."

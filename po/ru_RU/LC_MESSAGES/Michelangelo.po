@@ -57,10 +57,13 @@ msgid "There is no food here, just the odious military rations."
 msgstr "Здесь нет еды, лишь эти противные военпайки."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:84
+#, fuzzy
 msgid ""
 "They are made fully out of artificial nutrients and carcinogenic flavors. "
 "Even the army hated them."
 msgstr ""
+"Сделанные из искусственных компонентов и канцерогенных добавок. Даже военные "
+"их ненавидят."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:85
 msgid ""
@@ -126,17 +129,24 @@ msgid "Just look at this stupid town!"
 msgstr "Ты только погляди на этот идиотский город!"
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:113
+#, fuzzy
 msgid ""
 "We are constantly pushed around by our 'saviors' the damn Red Guard. I hope "
 "they all die from rat bites as soon as possible and go to the deepest hells "
 "to boil in lava forever."
 msgstr ""
+"Нас постоянно терроризирут наши 'спасители': чертовы красногвардейцы. Да "
+"сожрут их крысы и да отправятся они в самые глубокие круги ада и будут "
+"гореть в кипящей лаве."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:114
+#, fuzzy
 msgid ""
 "And the bots are keeping us busy by murdering, chopping, slicing, cleaving, "
 "rending and wounding us. How wonderful."
 msgstr ""
+"А эти боты развлекают нас тем, что убивают, рубят, нарезают, колют, "
+"раздирают и увечат нас. Как прекрасно. "
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:115
 msgid ""
@@ -289,8 +299,9 @@ msgid "I am racked with hunger pains, give me some army snacks!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:182
+#, fuzzy
 msgid "I thought you would have learned by now."
-msgstr ""
+msgstr "Ага, я знал, что тебе понравится. Вот ещё."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:183
 msgid "As you wish."
@@ -355,10 +366,13 @@ msgid "What was I supposed to do again?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:215
+#, fuzzy
 msgid ""
 "Get me three dilithium crystals before the whole stupid town commits mass "
 "suicide because of poor food quality."
 msgstr ""
+"Достань мне дилития, пока вся эта гребаная колония не совершила массовое "
+"самоубийство из-за этой отвратной жрачки."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:216
 msgid ""
@@ -370,12 +384,16 @@ msgstr ""
 "с тарелки."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:220
+#, fuzzy
 msgid "Where can I find dilithium crystals?"
-msgstr ""
+msgstr "Где мне искать ДКСО?"
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:222
+#, fuzzy
 msgid "There is an old abandoned dilithium mine is to the east of the town."
 msgstr ""
+"На востоке отсюда есть старая дилитиумная шахта. Я уверен, что там этого "
+"добра навалом."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:223
 msgid "Be careful if you go down there!"
@@ -427,8 +445,9 @@ msgstr ""
 "что-нибудь подобное сделай. Так гораздо проще."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:245
+#, fuzzy
 msgid "Don't worry, I'll be fine."
-msgstr ""
+msgstr "Не беспокойся обо мне, как только я высплюсь я буду в полном порядке."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:247
 msgid ""
@@ -439,16 +458,22 @@ msgstr ""
 "быстрее... Другие же хотят растянуть удовольствие."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:248
+#, fuzzy
 msgid ""
 "I have seen corpses with nearly all of the fingers ripped off. People with "
 "eyes drilled out by some big tool."
 msgstr ""
+"Я видел трупы, у которых почти все пальцы были вырваны. Тела людей, у "
+"которых глазницы были просверлены какими-то крупными инструментами. "
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:249
+#, fuzzy
 msgid ""
 "I smelled burnt meat and heard the screams of the captives as they were "
 "incinerated alive outside the city walls."
 msgstr ""
+"Я чувствовал запах паленого мяса и крики заживо сжигаемых за городсикими "
+"стенами пленных. "
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:250
 msgid ""
@@ -518,10 +543,13 @@ msgstr ""
 "Вселенной. Но всё же..."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:269
+#, fuzzy
 msgid ""
 "Dilithium is a substance which is usually seen in the form of a small "
 "crystal."
 msgstr ""
+"Дилитий - это вещество, которое, как правило, встречается в форме небольших "
+"кристаллов. "
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:270
 msgid ""
@@ -2424,9 +2452,6 @@ msgstr "Увидимся позже."
 #~ msgid "I hope these books will help you survive in this world."
 #~ msgstr "Надеюсь эти книги помогут тебе выжить в этом мире."
 
-#~ msgid "Where can I find that SACD?"
-#~ msgstr "Где мне искать ДКСО?"
-
 #, fuzzy
 #~ msgid ""
 #~ "To the right from the entrance of the area, there is a hall. In the south "
@@ -2908,59 +2933,6 @@ msgstr "Увидимся позже."
 #~ msgid "Feel free to come here any time you want."
 #~ msgstr "Заходи в любой момент когда пожелаешь."
 
-#~ msgid ""
-#~ "Made fully out of artificial nutrients and carcinogenic flavors. Even the "
-#~ "army hated them."
-#~ msgstr ""
-#~ "Сделанные из искусственных компонентов и канцерогенных добавок. Даже "
-#~ "военные их ненавидят."
-
-#~ msgid ""
-#~ "We are constantly pushed around by our 'saviours' the damn Red Guard. I "
-#~ "hope they all die from rat bites as soon as possible and go to the "
-#~ "deepest hells to boil in lava forever."
-#~ msgstr ""
-#~ "Нас постоянно терроризирут наши 'спасители': чертовы красногвардейцы. Да "
-#~ "сожрут их крысы и да отправятся они в самые глубокие круги ада и будут "
-#~ "гореть в кипящей лаве."
-
-#~ msgid ""
-#~ "And the bots are keeping us busy by murdering, chopping, slicing, "
-#~ "cleaving, rending and wounding us. How wonderful. "
-#~ msgstr ""
-#~ "А эти боты развлекают нас тем, что убивают, рубят, нарезают, колют, "
-#~ "раздирают и увечат нас. Как прекрасно. "
-
-#, fuzzy
-#~ msgid ""
-#~ "Get me some dilithium before the whole stupid town commits mass suicide "
-#~ "because of poor food quality."
-#~ msgstr ""
-#~ "Достань мне дилития, пока вся эта гребаная колония не совершила массовое "
-#~ "самоубийство из-за этой отвратной жрачки."
-
-#, fuzzy
-#~ msgid ""
-#~ "I have seen corpses with nearly all of the fingers ripped off. People "
-#~ "with eyes drilled out by some big tool. "
-#~ msgstr ""
-#~ "Я видел трупы, у которых почти все пальцы были вырваны. Тела людей, у "
-#~ "которых глазницы были просверлены какими-то крупными инструментами. "
-
-#~ msgid ""
-#~ "I smelled burnt meat and heard the screams of the captives as they were "
-#~ "incinerated alive outside the city walls. "
-#~ msgstr ""
-#~ "Я чувствовал запах паленого мяса и крики заживо сжигаемых за городсикими "
-#~ "стенами пленных. "
-
-#~ msgid ""
-#~ "Dilithium is a substance which is usually seen in the form of a small "
-#~ "crystal. "
-#~ msgstr ""
-#~ "Дилитий - это вещество, которое, как правило, встречается в форме "
-#~ "небольших кристаллов. "
-
 #~ msgid "A small crystal would power my oven for weeks."
 #~ msgstr "Небольшого кристала хватит, чтобы питать мою печь неделями."
 
@@ -3383,9 +3355,6 @@ msgstr "Увидимся позже."
 
 #~ msgid "Uh... Sure..."
 #~ msgstr "Угм.... Конечно..."
-
-#~ msgid "Yeah, I thought you would like it. Here is more."
-#~ msgstr "Ага, я знал, что тебе понравится. Вот ещё."
 
 #~ msgid "One double water coming up."
 #~ msgstr "Двойная вода на подходе.."
@@ -5872,10 +5841,6 @@ msgstr "Увидимся позже."
 #~ msgid "Hi. I haven't slept for a few weeks, so I'm just a little bit tired."
 #~ msgstr ""
 #~ "Привет. Я просто не спал уже несколько недель и поэтому слегка уставший."
-
-#~ msgid "Don't worry about me. I'll be fine."
-#~ msgstr ""
-#~ "Не беспокойся обо мне, как только я высплюсь я буду в полном порядке."
 
 #~ msgid "I'm Kevin, a computer security expert."
 #~ msgstr "Я Кевин, эксперт по информационной безопасности."

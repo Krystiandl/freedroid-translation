@@ -23,10 +23,13 @@ msgstr ""
 "разнести всех четырех ботов на куски."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:52
+#, fuzzy
 msgid ""
 "I've already opened the door. What are you waiting for? All you need to do "
 "is go down to the master arena and fight the bots."
 msgstr ""
+"Но я уже открыл дверь. Чего же ты ждешь? Все, что тебе надо сделать, это "
+"спуститься на арену и победить ботов."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:53
 msgid ""
@@ -104,10 +107,13 @@ msgid "Yeah. I want to fight."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:115
+#, fuzzy
 msgid ""
 "Good. I opened up the novice arena gate. Just climb down the ladder south of "
 "here."
 msgstr ""
+"Хорошо. Я открыл южные ворота на арену, тебе осталось только спуститься по "
+"лестнице."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:116
 #, fuzzy
@@ -204,8 +210,9 @@ msgid "I pity you, silly bird. Don't go there."
 msgstr "Мне тебя будет жаль, глупый птиц. Не ходи туда."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:155
+#, fuzzy
 msgid "But if you really want it, the door is now open."
-msgstr ""
+msgstr "Но если ты действительно этого хочешь - дверь открыта."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:163
 msgid "The master arena is clear."
@@ -217,12 +224,14 @@ msgid "What!? Impossible! No one ever survives the second arena!"
 msgstr "Что?! Быть того не может! Никто ещё не выживал на второй арене!"
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:166
+#, fuzzy
 msgid "One has to be out of his mind to try the second arena."
-msgstr ""
+msgstr "Только у тебя одного ума хватило испытать себя на второй арене."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:167
+#, fuzzy
 msgid "You are not a newbie, but you are COMPLETELY INSANE!"
-msgstr ""
+msgstr "Ты не салага, ты АБСОЛЮТНЫЙ ИДИОТ!"
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:168
 msgid "I pity you, poor fool. You will die young."
@@ -272,8 +281,9 @@ msgid "Hey, the bots bleed black. With oil."
 msgstr "Эй, а у ботов-то - чёрная. Из машинного масла."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:207
+#, fuzzy
 msgid "But... But..."
-msgstr ""
+msgstr "Угм.... Конечно..."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:208
 msgid "No 'but' about it, newbie."
@@ -1115,13 +1125,6 @@ msgstr "Конечно."
 #~ msgstr ""
 #~ "У тебя должна быть либо хорошая броня, или тебе просто надо убить их "
 #~ "очень быстро. Удачи!"
-
-#~ msgid ""
-#~ "But I've already opened the door. What are you waiting for? All you need "
-#~ "to do is go down to the master arena and fight the bots."
-#~ msgstr ""
-#~ "Но я уже открыл дверь. Чего же ты ждешь? Все, что тебе надо сделать, это "
-#~ "спуститься на арену и победить ботов."
 
 #, fuzzy
 #~ msgid ""
@@ -3342,9 +3345,6 @@ msgstr "Конечно."
 #~ msgid "Eh... Sure, as you wish. Here you go."
 #~ msgstr "Э-э... Конечно, как пожелаешь. А вот и воде!"
 
-#~ msgid "Uh... Sure..."
-#~ msgstr "Угм.... Конечно..."
-
 #~ msgid "Yeah, I thought you would like it. Here is more."
 #~ msgstr "Ага, я знал, что тебе понравится. Вот ещё."
 
@@ -5249,23 +5249,6 @@ msgstr "Конечно."
 
 #~ msgid "The underground arena."
 #~ msgstr "Подземная арена."
-
-#, fuzzy
-#~ msgid ""
-#~ "Good. I opened up the south arena gate for you, so just climb down the "
-#~ "ladder."
-#~ msgstr ""
-#~ "Хорошо. Я открыл южные ворота на арену, тебе осталось только спуститься "
-#~ "по лестнице."
-
-#~ msgid "But if you really want it, the door is open."
-#~ msgstr "Но если ты действительно этого хочешь - дверь открыта."
-
-#~ msgid "One has to be insane to try the second arena."
-#~ msgstr "Только у тебя одного ума хватило испытать себя на второй арене."
-
-#~ msgid "You are not a newbie, but you are a TOTAL IDIOT!"
-#~ msgstr "Ты не салага, ты АБСОЛЮТНЫЙ ИДИОТ!"
 
 #~ msgid "No. The hostiles have not shown up within the last 24 hours."
 #~ msgstr "Нет. Враги не показывались уже более 24 часов."

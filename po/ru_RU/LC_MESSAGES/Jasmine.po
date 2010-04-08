@@ -121,8 +121,9 @@ msgid "Traceback printed to stdout."
 msgstr "Traceback printed to stdout."
 
 #: /home/david/src/freedroid-translation/dialogs/Jasmine.dialog:124
+#, fuzzy
 msgid "Kernel panic in module: Jasmine"
-msgstr ""
+msgstr "Kernel panic in module: Jasmine "
 
 #: /home/david/src/freedroid-translation/dialogs/Jasmine.dialog:125
 msgid "Buffer overrun in anger.c:1532"
@@ -743,9 +744,6 @@ msgstr "Core dumped. System halted."
 #, fuzzy
 #~ msgid "Resuming guard program."
 #~ msgstr " Восстановление охранной программы."
-
-#~ msgid "Kernel panic in module: Jasmine "
-#~ msgstr "Kernel panic in module: Jasmine "
 
 #~ msgid ""
 #~ "A newcomer! Great! We can always use more people. Welcome to the Red "

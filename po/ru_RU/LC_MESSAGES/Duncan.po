@@ -200,8 +200,9 @@ msgid "What are those bots?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:152
+#, fuzzy
 msgid "We call them 'Harvester'."
-msgstr ""
+msgstr "Мы называем их 'Лесопилками'."
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:153
 msgid "They were designed to chop down trees in the mountains."
@@ -221,12 +222,14 @@ msgstr ""
 "смог оставаться в живых достаточно долго, чтобы взломать их."
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:160
+#, fuzzy
 msgid "What is it that he took from you?"
-msgstr ""
+msgstr "ЧТО?! Что это ты такое хочешь сказать?"
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:162
+#, fuzzy
 msgid "A cube. Trust me, you can't miss it."
-msgstr ""
+msgstr "Куб. Ты не сможешь его не заметить, поверь мне."
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:167
 msgid "That is all I need to know. I will find Koan."
@@ -243,8 +246,9 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:171
+#, fuzzy
 msgid "Good luck!"
-msgstr ""
+msgstr "Удачи"
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:178
 msgid "No, I don't find bloodshed a pleasurable activity."
@@ -283,8 +287,9 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:213
+#, fuzzy
 msgid "Just a memento from a friend."
-msgstr ""
+msgstr "Всего лишь памятка о друге."
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:214
 msgid ""
@@ -304,10 +309,11 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:222
+#, fuzzy
 msgid ""
 "There were only one hundred and twenty bots in the entire desert region. "
 "This hardly qualifies as many, considering the size of the area."
-msgstr ""
+msgstr "Да там всего-то сорок ботов. По-моему это немного."
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:223
 msgid ""
@@ -362,8 +368,9 @@ msgid "But then again, neither are you, so my thoughts are we are even."
 msgstr "Но, опять же, и ты не тот, кто ты есть. Думаю, у нас много общего."
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:264
+#, fuzzy
 msgid "What do you mean? I am "
-msgstr ""
+msgstr "А что ты хотел бы получить?"
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:265
 msgid "And I am Duncan McNamara, the maker of grenades and nothing else."
@@ -637,14 +644,6 @@ msgstr "Пусть лёд дарует тебе мудрость."
 
 #~ msgid "Good. I need sleep."
 #~ msgstr "Хорошо. А мне нужно поспать."
-
-#~ msgid "Just a memento after a friend."
-#~ msgstr "Всего лишь памятка о друге."
-
-#~ msgid ""
-#~ "There were only fourty bots in the desert region. This hardly qualifies "
-#~ "as many."
-#~ msgstr "Да там всего-то сорок ботов. По-моему это немного."
 
 #~ msgid "Hello. I'm Bender, the dead man of this camp."
 #~ msgstr "Привет. Я - Бендер. Внук турецкоподданого и местный мертвец."
@@ -1787,9 +1786,6 @@ msgstr "Пусть лёд дарует тебе мудрость."
 
 #~ msgid "Real freedom is really dead."
 #~ msgstr "Настоящая свобода по-настоящему мертва."
-
-#~ msgid "WHAT?! What is it that you want to say?"
-#~ msgstr "ЧТО?! Что это ты такое хочешь сказать?"
 
 #~ msgid "WHAT!? SPIT IT OUT!"
 #~ msgstr "ЧТО!? НУ-КА, ВЯКНИ!"
@@ -3266,9 +3262,6 @@ msgstr "Пусть лёд дарует тебе мудрость."
 #~ "Взгляни на вход к офису среди кристальных полях. Я пошлю сообщение "
 #~ "гвардам, чтобы они тебя пропустили. Дальше ты сам по себе"
 
-#~ msgid "Good luck."
-#~ msgstr "Удачи"
-
 #~ msgid "You had better be ready."
 #~ msgstr "Ты уж приготовься"
 
@@ -4304,12 +4297,6 @@ msgstr "Пусть лёд дарует тебе мудрость."
 
 #~ msgid "HERE WE GO"
 #~ msgstr "HERE WE GO"
-
-#~ msgid "We call them 'Sawmill'."
-#~ msgstr "Мы называем их 'Лесопилками'."
-
-#~ msgid "A cube. You can't miss it. Trust me."
-#~ msgstr "Куб. Ты не сможешь его не заметить, поверь мне."
 
 #~ msgid ""
 #~ "Ah, so you are the new member. Welcome. My name is Benjamin, and I take "
@@ -5884,9 +5871,6 @@ msgstr "Пусть лёд дарует тебе мудрость."
 
 #~ msgid "I've already rewarded you for that. Don't steal my time. I'm busy."
 #~ msgstr "Я уже дал тебе то, что причиталось. Не трать мое время, я занят."
-
-#~ msgid "What do you want?"
-#~ msgstr "А что ты хотел бы получить?"
 
 #~ msgid ""
 #~ "Yes, since the energy supply has been constant, results were much better. "

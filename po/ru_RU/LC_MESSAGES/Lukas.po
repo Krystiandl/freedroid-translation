@@ -66,8 +66,9 @@ msgstr ""
 "этом посту."
 
 #: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:66
+#, fuzzy
 msgid "I'd like to buy an exterminator"
-msgstr ""
+msgstr "Я хотел бы забраться в шахту."
 
 #: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:68
 msgid "Haha, good one."
@@ -6084,9 +6085,6 @@ msgstr "До свидания!"
 #~ msgid "Ok!  But don't make any trouble!  Or you'll be in trouble!"
 #~ msgstr ""
 #~ "О'кей, только не создавай проблем. Иначе проблемы будут у тебя самого!"
-
-#~ msgid "I'd like to get into the mine."
-#~ msgstr "Я хотел бы забраться в шахту."
 
 #~ msgid "I'm here to make an end to your mining business."
 #~ msgstr "Я тут чтоб положить конец твоему горняцкому делу."

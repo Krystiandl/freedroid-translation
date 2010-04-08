@@ -303,10 +303,13 @@ msgid "I want to become a hacker."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:173
+#, fuzzy
 msgid ""
 "Your desire for information amuses me. Your wish will be granted. I will "
 "teach you how to improve your skill in designing hacking programs."
 msgstr ""
+"“во€ т€га к знани€м мен€ радует. “вое пожелание будет исполнено: € научу "
+"теб€ искусству взлома."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:174
 msgid ""
@@ -375,8 +378,9 @@ msgid "I want money."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:199
+#, fuzzy
 msgid "Eh... Here, take these 900 circuits. That should be enough."
-msgstr ""
+msgstr "Ёх... ¬от 500 баксов. Ётого должно быть достаточно."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:207
 msgid "Jasmine just blew up."
@@ -428,9 +432,10 @@ msgstr ""
 "ты будешь знать с какой стороны подойти ко взлому."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:231
+#, fuzzy
 msgid ""
 "Now I see the feature set of your hacking program has already improved a lot."
-msgstr ""
+msgstr "я вижу, что твои способности уже здорово возросли."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:241
 msgid "I'll be off then."
@@ -5615,16 +5620,6 @@ msgstr ""
 #~ msgid "Good riddance."
 #~ msgstr "Ћегко отделалс€."
 
-#~ msgid ""
-#~ "Your desire for information amuses me. Your wish will be granted. I will "
-#~ "teach you how to hack."
-#~ msgstr ""
-#~ "“во€ т€га к знани€м мен€ радует. “вое пожелание будет исполнено: € научу "
-#~ "теб€ искусству взлома."
-
-#~ msgid "Eh... Here, take these 500 bucks. That should be enough."
-#~ msgstr "Ёх... ¬от 500 баксов. Ётого должно быть достаточно."
-
 #~ msgid "So you have come. I knew Duncan would not let me live for too long."
 #~ msgstr ""
 #~ "»так, ты пришел. я знал, что ƒункан не успокоитс€, пока не убьет мен€."
@@ -5962,9 +5957,6 @@ msgstr ""
 #~ "You don't have enough experience. I can't teach you anything more this "
 #~ "way."
 #~ msgstr "” теб€ недостаточно опыта. я не могу научить теб€ чему-либо."
-
-#~ msgid "Now I see your hacking skill has already improved a lot."
-#~ msgstr "я вижу, что твои способности уже здорово возросли."
 
 #~ msgid ""
 #~ "Login : tux  Password : *******\n"

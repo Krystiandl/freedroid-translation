@@ -141,10 +141,11 @@ msgid "First collect more experience. Then we can go on."
 msgstr "Сначала набери больше очков тренировки и тогда мы сможем продолжить."
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:100
+#, fuzzy
 msgid ""
 "You don't have enough valuable circuits on you! Come back when you have the "
 "money."
-msgstr ""
+msgstr "Да у тебя же бабла не хватает! Приходи когда раздобудешь нужную сумму."
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:103
 msgid ""
@@ -5548,11 +5549,6 @@ msgstr "Да пребудет с Вами СИЛА!"
 
 #~ msgid "This place will always wait for you."
 #~ msgstr "Здесь ты всегда будешь желанным гостем."
-
-#~ msgid ""
-#~ "You don't have enough bucks on you! Come back when you have the money."
-#~ msgstr ""
-#~ "Да у тебя же бабла не хватает! Приходи когда раздобудешь нужную сумму."
 
 #~ msgid ""
 #~ "Great! A newcomer! Welcome! Welcome! I'm Skippy, and I'm your new best "

@@ -35,8 +35,11 @@ msgid "*******"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:38
+#, fuzzy
 msgid "Last login from dev/ttyS0 on Sun, 23 mar 2057."
 msgstr ""
+"Последнее посещение было зарегистрировано на /dev/ttyS0 в субботу 23 mar "
+"2057. admin@sadefence: ~ #"
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:41
 msgid "This "
@@ -124,16 +127,18 @@ msgid "Are you really sure you want to destroy this robot? Y/N"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:102
+#, fuzzy
 msgid "Yes"
-msgstr ""
+msgstr "Да."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:104
 msgid "Destruction confirmed."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:110
+#, fuzzy
 msgid "No"
-msgstr ""
+msgstr "Нет."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:112
 msgid "Destrucion averted."
@@ -168,8 +173,9 @@ msgid "logout"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:141
+#, fuzzy
 msgid "Closing remote connection..."
-msgstr ""
+msgstr "Жду соединений...."
 
 #~ msgid "Go0d. H3re is th3 con7ract. S1gn it!"
 #~ msgstr "Х0р0w0. 80т к0н7рАк7. п0DпiсbI8Аi!"
@@ -807,9 +813,6 @@ msgstr ""
 #~ msgid "Shitty. Now leave me alone."
 #~ msgstr "Дерьмоватенько. А сейчас оставь меня в покое."
 
-#~ msgid "No."
-#~ msgstr "Нет."
-
 #~ msgid "Nothing. Quit asking questions."
 #~ msgstr "Ничего. Перестань задавать вопросы."
 
@@ -1128,11 +1131,6 @@ msgstr ""
 
 #~ msgid "You better be. AND DON'T COME BACK!"
 #~ msgstr "Да уж следовало бы. И НЕ ВОЗВРАЩАЙСЯ!"
-
-#~ msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057. admin@sadefence: ~ #"
-#~ msgstr ""
-#~ "Последнее посещение было зарегистрировано на /dev/ttyS0 в субботу 23 mar "
-#~ "2057. admin@sadefence: ~ #"
 
 #~ msgid "Disabling guns..."
 #~ msgstr "Отключаю автопушки..."
@@ -1724,9 +1722,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Теперь я продаю запчасти, которые достаю из ботов, чтоб купить снаряжение "
 #~ "и продукты."
-
-#~ msgid "Yes."
-#~ msgstr "Да."
 
 #~ msgid "I will sell the information for a lot of cybergeld."
 #~ msgstr "Я продам информацию за много киберденег."
@@ -3985,9 +3980,6 @@ msgstr ""
 
 #~ msgid "Advertising update to clients..."
 #~ msgstr "Сообщаю об обновлении клиентам..."
-
-#~ msgid "Waiting for all connections...."
-#~ msgstr "Жду соединений...."
 
 #~ msgid "Firmware update propagated!"
 #~ msgstr "Прошивка обновлена!"

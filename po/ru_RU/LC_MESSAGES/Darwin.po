@@ -185,8 +185,9 @@ msgid "Yes."
 msgstr "Да."
 
 #: /home/david/src/freedroid-translation/dialogs/Darwin.dialog:134
+#, fuzzy
 msgid "I will sell the information for a lot of Schaltkreise."
-msgstr ""
+msgstr "Я продам информацию за много киберденег."
 
 #: /home/david/src/freedroid-translation/dialogs/Darwin.dialog:135
 msgid "Interested?"
@@ -1672,9 +1673,6 @@ msgstr "Прощай. Viel gluck."
 #~ msgstr ""
 #~ "Я рад, что смог помочь тебе. Ты должен быть осмотрителен в этих местах. "
 #~ "Лучше всего иди сейчас прямо в наш городок."
-
-#~ msgid "I will sell the information for a lot of cybergeld."
-#~ msgstr "Я продам информацию за много киберденег."
 
 #~ msgid "Em, hi."
 #~ msgstr "Ээ, привет."

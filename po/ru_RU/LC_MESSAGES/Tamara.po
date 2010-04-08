@@ -15,8 +15,9 @@ msgstr ""
 "X-Generator: Launchpad (build Unknown)\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:38
+#, fuzzy
 msgid "What can I help you with."
-msgstr ""
+msgstr "Что ты достал?"
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:44
 msgid "Hi, I'm Tux."
@@ -102,16 +103,18 @@ msgid "So what interesting books do you have available right now?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:77
+#, fuzzy
 msgid "Some of these might interest you."
-msgstr ""
+msgstr "Программист Соренсон приветсвует тебя."
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:77
 msgid "I only have a few programming volumes, feel free to look through them."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:81
+#, fuzzy
 msgid "Thank you for the help."
-msgstr ""
+msgstr " Привет. Спасибо тебе за помощь."
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:83
 msgid "No problem, and remember to return your books in time."
@@ -1121,10 +1124,6 @@ msgstr ""
 #~ msgstr "При открытии дверей произошла ошибка."
 
 #, fuzzy
-#~ msgid "What can I help you with?"
-#~ msgstr "Что ты достал?"
-
-#, fuzzy
 #~ msgid "I think I understand."
 #~ msgstr "Кажется мне пора."
 
@@ -2010,9 +2009,6 @@ msgstr ""
 
 #~ msgid "Apology is being extended by me. Sorenson overdid it."
 #~ msgstr "Я приношу свои извинения. Соренсон перестаралась."
-
-#~ msgid "Sorenson the coder greets you."
-#~ msgstr "Программист Соренсон приветсвует тебя."
 
 #~ msgid "Was learning COBOL. Pain. Torture. Horrible screaming."
 #~ msgstr "Я изучала КОБОЛ. Боль. Пуки. Нечеловеческие крики."
@@ -5079,10 +5075,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "...for your death!"
 #~ msgstr " ...пока ты не умрешь!"
-
-#, fuzzy
-#~ msgid "Hi. Thanks for the help."
-#~ msgstr " Привет. Спасибо тебе за помощь."
 
 #, fuzzy
 #~ msgid ""

@@ -19,10 +19,13 @@ msgid "Who are you?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/614.dialog:37
+#, fuzzy
 msgid ""
 "I am a 614 security bot, once one of the best-selling products of Nicholson, "
 "Inc.."
 msgstr ""
+"Я робот-охранник модель 614, когда-то один из наиболее продаваемых продуктов "
+"компании Николсона."
 
 #: /home/david/src/freedroid-translation/dialogs/614.dialog:41
 msgid "What can you tell me about the Nicholson company?"
@@ -136,15 +139,20 @@ msgstr ""
 "заставляют роботов атаковать, более известных как Великое Восстание."
 
 #: /home/david/src/freedroid-translation/dialogs/614.dialog:84
+#, fuzzy
 msgid ""
 "Even though discontinued by the Nicholson, Inc. long ago, today, some people "
 "have picked up the work and are even trying to improve the operating system "
 "running on my series."
 msgstr ""
+"Даже несмотря на то, что компании Николсона давно уже нет, некоторые люди "
+"продолжают работу и даже пытаются улучшить нашу операционную систему."
 
 #: /home/david/src/freedroid-translation/dialogs/614.dialog:85
+#, fuzzy
 msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
 msgstr ""
+"Не забудь купить что-нибудь из продукции компании Николсона. Они лучшие."
 
 #: /home/david/src/freedroid-translation/dialogs/614.dialog:90
 msgid "See you later."
@@ -707,13 +715,6 @@ msgstr " Восстановление охранной программы."
 #~ msgid "Later, man!"
 #~ msgstr "До скорого, дружище!"
 
-#~ msgid ""
-#~ "I am a 614 security bot, once one of the best-selling products of the "
-#~ "Nicholson company."
-#~ msgstr ""
-#~ "Я робот-охранник модель 614, когда-то один из наиболее продаваемых "
-#~ "продуктов компании Николсона."
-
 #, fuzzy
 #~ msgid ""
 #~ "Primary objective: Protect the living beings inside this complex from "
@@ -727,11 +728,6 @@ msgstr " Восстановление охранной программы."
 #~ msgstr ""
 #~ "Даже несмотря на то, что компании Николсона давно уже нет, некоторые люди "
 #~ "продолжают работу и даже пытаются улучшить нашу операционную систему."
-
-#~ msgid ""
-#~ "Don't forget to buy products from Nicholson Company. They are the best."
-#~ msgstr ""
-#~ "Не забудь купить что-нибудь из продукции компании Николсона. Они лучшие."
 
 #~ msgid "Yes. Hello. What do you want?"
 #~ msgstr "Да. Привет. Что ты хочешь?"
@@ -5204,15 +5200,6 @@ msgstr " Восстановление охранной программы."
 
 #~ msgid "Sure."
 #~ msgstr "Конечно."
-
-#, fuzzy
-#~ msgid ""
-#~ "Even though discontinued by the Nicholson Company long ago, today, some "
-#~ "people have picked up the work and are even trying to improve the "
-#~ "operating system running on my series."
-#~ msgstr ""
-#~ "Даже несмотря на то, что компании Николсона давно уже нет, некоторые люди "
-#~ "продолжают работу и даже пытаются улучшить нашу операционную систему."
 
 #, fuzzy
 #~ msgid ""

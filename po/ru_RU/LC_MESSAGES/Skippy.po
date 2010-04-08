@@ -59,9 +59,10 @@ msgid "Oh, that's so simple. No need to activate anything at all."
 msgstr "Все очень просто, ничего не надо активировать."
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:65
+#, fuzzy
 msgid ""
 "Just swallow the pill and the nanotechnological bots will enter your body."
-msgstr ""
+msgstr "Просто одень его на голову и нанороботы проникнут в неё."
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:66
 msgid ""
@@ -72,8 +73,9 @@ msgstr ""
 "зрительные нервы! Правда здорово?"
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:67
+#, fuzzy
 msgid "Everything within 50 meters of you will be displayed on your retinas."
-msgstr ""
+msgstr "Все в радиусе 7ми метров будет у тебя перед глазами."
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:72
 msgid "You said you make these things yourself? How do you do that?"
@@ -169,12 +171,14 @@ msgid "Resources are a bit scarce nowdays though."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:118
+#, fuzzy
 msgid "Ok, I'll take one."
-msgstr ""
+msgstr " Ладно, я отключу их."
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:121
+#, fuzzy
 msgid "Here is your pill."
-msgstr ""
+msgstr "Изволь."
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:122
 msgid "Just swallow it, and it should work."
@@ -187,16 +191,18 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:125
+#, fuzzy
 msgid "Swallow pill and Press tab to see automap."
-msgstr ""
+msgstr "(Просто нажми табулятор, чтобы увидеть карту.)"
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:127
 msgid "Hey, I'm not a bank!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:128
+#, fuzzy
 msgid "Come back when you can afford it."
-msgstr ""
+msgstr "Васфращайся, кокда бутут тенги."
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:135
 msgid "Nah, dont think so. "
@@ -3318,9 +3324,6 @@ msgstr ""
 #~ "Вот, пожалуйста. Это в наличии имеется. Если воды недостаточно, просто "
 #~ "закажи ещё!"
 
-#~ msgid "Here you go."
-#~ msgstr "Изволь."
-
 #~ msgid "Eh... Sure, as you wish. Here you go."
 #~ msgstr "Э-э... Конечно, как пожелаешь. А вот и воде!"
 
@@ -4512,10 +4515,6 @@ msgstr ""
 #~ "Конечно, мне потребуется компенсация за растраченный на тренировке "
 #~ "боезапас. Скажем... сто треугольничков будет достаточно."
 
-#, fuzzy
-#~ msgid "Come back when you have both."
-#~ msgstr "Васфращайся, кокда бутут тенги."
-
 #~ msgid ""
 #~ "You don't have enough money! I cannot afford to just give away training "
 #~ "for free."
@@ -5201,10 +5200,6 @@ msgstr ""
 #~ msgstr " Он называется..."
 
 #, fuzzy
-#~ msgid "Ok, I'll disable them."
-#~ msgstr " Ладно, я отключу их."
-
-#, fuzzy
 #~ msgid "I just need to make some preparations. You will have to wait..."
 #~ msgstr ""
 #~ " Только мне сначала надо немного подготовиться. Тебе прийдется "
@@ -5676,17 +5671,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Конечно! У меня как раз есть один, который отлично подойдет под твой "
 #~ "размер головы."
-
-#~ msgid ""
-#~ "Just put that thing on your head, and the nanotechnological bots will "
-#~ "enter your body."
-#~ msgstr "Просто одень его на голову и нанороботы проникнут в неё."
-
-#~ msgid "Everything within 7 meters of you will be displayed on your retinas."
-#~ msgstr "Все в радиусе 7ми метров будет у тебя перед глазами."
-
-#~ msgid "(Just press tab to see the automap.)"
-#~ msgstr "(Просто нажми табулятор, чтобы увидеть карту.)"
 
 #~ msgid "You don't say. I'm not living here either. I'm just on vacation."
 #~ msgstr ""

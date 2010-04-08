@@ -1067,8 +1067,9 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:454
+#, fuzzy
 msgid "Here is some more ammunition for it"
-msgstr ""
+msgstr "Ничего более."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:457
 msgid ""
@@ -6925,9 +6926,6 @@ msgstr ""
 
 #~ msgid "Very simple. He likes destruction, and I am creation."
 #~ msgstr "Все очень просто. Он любит уничтожать жизнь, а я - создание."
-
-#~ msgid "There is nothing more to it."
-#~ msgstr "Ничего более."
 
 #~ msgid "This place will always wait for you."
 #~ msgstr "Здесь ты всегда будешь желанным гостем."

@@ -99,8 +99,9 @@ msgid "GENDER SELECTION"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/c-net_sub_nethack.dialog:265
+#, fuzzy
 msgid "START GAME"
-msgstr ""
+msgstr "START HERE"
 
 #: /home/david/src/freedroid-translation/dialogs/c-net_sub_nethack.dialog:302
 msgid "Hello, welcome to NetHack! You are a "
@@ -115,8 +116,10 @@ msgid "Return with the Amulet of Yendor, and you shall be rewarded!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/c-net_sub_nethack.dialog:305
+#, fuzzy
 msgid "You are all alone on the surface. There is a stairway down."
 msgstr ""
+"Да, ты можешь выйти на поверхность. Но есть одно но: пушки все еще работают."
 
 #: /home/david/src/freedroid-translation/dialogs/c-net_sub_nethack.dialog:312
 msgid "At a new level"
@@ -148,8 +151,9 @@ msgid "Xyzzy"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/c-net_sub_nethack.dialog:508
+#, fuzzy
 msgid "Nothing happens."
-msgstr ""
+msgstr "Ничего особенного."
 
 #: /home/david/src/freedroid-translation/dialogs/c-net_sub_nethack.dialog:538
 msgid "Calculate Damage"
@@ -540,9 +544,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Немножко больше, чем переноской конец света, который я собираюсь "
 #~ "разобрать и узнать его секреты."
-
-#~ msgid "Nothing that important."
-#~ msgstr "Ничего особенного."
 
 #~ msgid ""
 #~ "There were only fourty bots in the desert region. This hardly qualifies "
@@ -1893,11 +1894,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Боже! Я же говорила Пете, что он не там копает, но он был настолько в "
 #~ "себе уверен!"
-
-#~ msgid "Yes, you can get to the surface. But the guns are still on."
-#~ msgstr ""
-#~ "Да, ты можешь выйти на поверхность. Но есть одно но: пушки все еще "
-#~ "работают."
 
 #, fuzzy
 #~ msgid "All hope is lost! I'm a scientist, not a warrior."
@@ -7021,9 +7017,6 @@ msgstr ""
 
 #~ msgid "MASTER MIGHT BE FOR YOU"
 #~ msgstr "MASTER MIGHT BE FOR YOU"
-
-#~ msgid "START HERE"
-#~ msgstr "START HERE"
 
 #~ msgid "ON MISSION 0 WAS ASSIGNED..."
 #~ msgstr "ON MISSION 0 WAS ASSIGNED..."

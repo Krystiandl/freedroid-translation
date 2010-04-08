@@ -494,8 +494,9 @@ msgid ""
 msgstr "С тех пор все новые боты были изготовлены с прошивкой от МегаСис."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:196
+#, fuzzy
 msgid "Why did you wake me up?"
-msgstr ""
+msgstr " Зачем тебе?"
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:198
 msgid ""
@@ -5067,10 +5068,6 @@ msgstr ""
 #~ msgstr ""
 #~ " В любом случае, это не твое дело. Скоро я помру, впрочем ты тоже. И "
 #~ "никто никогда сюда не войдет!"
-
-#, fuzzy
-#~ msgid "Why do you ask?"
-#~ msgstr " Зачем тебе?"
 
 #, fuzzy
 #~ msgid "Yes, it will be violated. But first order has higher priority."

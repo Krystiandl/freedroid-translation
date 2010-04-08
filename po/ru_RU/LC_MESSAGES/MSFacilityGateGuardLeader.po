@@ -65,10 +65,11 @@ msgid "* Throws a stone through the door"
 msgstr "Кидает камень через дверь"
 
 #: /home/david/src/freedroid-translation/dialogs/MSFacilityGateGuardLeader.dialog:68
+#, fuzzy
 msgid ""
 "* Stone freely flies through the gate and drops on the ground on the other "
 "side"
-msgstr ""
+msgstr "Камень свободно пролетает через дверь и падает на землю по ту сторону."
 
 #: /home/david/src/freedroid-translation/dialogs/MSFacilityGateGuardLeader.dialog:69
 msgid "SHIT! SHIELD DISABLED! PREPARE FOR BOT ATTACK!"
@@ -95,18 +96,22 @@ msgid "Go away!"
 msgstr "Уходи!"
 
 #: /home/david/src/freedroid-translation/dialogs/MSFacilityGateGuardLeader.dialog:88
+#, fuzzy
 msgid ""
 "Calm down. This is not an attack. I've disabled the shield and I'm going to "
 "disable all the bots around! Didn't Spencer inform you?"
 msgstr ""
+"Успокойся, это не атака. Это я отключил щит и собираюсь отключить всех ботов "
+"в округе! Тебе разве Спенсер ничего не говорил?"
 
 #: /home/david/src/freedroid-translation/dialogs/MSFacilityGateGuardLeader.dialog:90
 msgid "WHAT?! Not an attack?!"
 msgstr "ЧТО? Не атака?!"
 
 #: /home/david/src/freedroid-translation/dialogs/MSFacilityGateGuardLeader.dialog:91
+#, fuzzy
 msgid "I hope you are telling the truth. One second..."
-msgstr ""
+msgstr "Надеюсь ты не лжешь. Секундочку."
 
 #: /home/david/src/freedroid-translation/dialogs/MSFacilityGateGuardLeader.dialog:97
 #, fuzzy
@@ -994,22 +999,6 @@ msgstr "Да уж следовало бы. И НЕ ВОЗВРАЩАЙСЯ!"
 #~ msgstr ""
 #~ "Кроме того, по другую сторону находится дезентегрирующий щит, которым мы "
 #~ "не можем управлять."
-
-#~ msgid ""
-#~ "* Stone freely flies thourgh the gate and drops on the ground on the "
-#~ "other side"
-#~ msgstr ""
-#~ "Камень свободно пролетает через дверь и падает на землю по ту сторону."
-
-#~ msgid ""
-#~ "Calm down. This is not an attack. I've disabled the shield and I'm going "
-#~ "to disable all bots around! Didn't Spencer inform you?"
-#~ msgstr ""
-#~ "Успокойся, это не атака. Это я отключил щит и собираюсь отключить всех "
-#~ "ботов в округе! Тебе разве Спенсер ничего не говорил?"
-
-#~ msgid "I hope you are honest. One second..."
-#~ msgstr "Надеюсь ты не лжешь. Секундочку."
 
 #~ msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057. admin@sadefence: ~ #"
 #~ msgstr ""

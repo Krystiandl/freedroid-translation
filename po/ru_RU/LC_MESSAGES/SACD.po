@@ -23,16 +23,20 @@ msgid "admin"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:35
+#, fuzzy
 msgid "  Password : "
-msgstr ""
+msgstr " Введите новый пароль еще раз: "
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:36
 msgid "*******"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:37
+#, fuzzy
 msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
 msgstr ""
+"Последнее посещение было зарегистрировано на /dev/ttyS0 в субботу 23 mar "
+"2057. admin@sadefence: ~ #"
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:43
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:56
@@ -1076,11 +1080,6 @@ msgstr ""
 
 #~ msgid "You better be. AND DON'T COME BACK!"
 #~ msgstr "Да уж следовало бы. И НЕ ВОЗВРАЩАЙСЯ!"
-
-#~ msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057. admin@sadefence: ~ #"
-#~ msgstr ""
-#~ "Последнее посещение было зарегистрировано на /dev/ttyS0 в субботу 23 mar "
-#~ "2057. admin@sadefence: ~ #"
 
 #, fuzzy
 #~ msgid "What can I help you with?"
@@ -5967,9 +5966,6 @@ msgstr ""
 
 #~ msgid " Changing password for admin. Enter new password: "
 #~ msgstr " Создание пароля для пользователя admin. Введите новый пароль: "
-
-#~ msgid " Enter new password again: "
-#~ msgstr " Введите новый пароль еще раз: "
 
 #~ msgid " Password successfully changed."
 #~ msgstr " Пароль успешно изменен."

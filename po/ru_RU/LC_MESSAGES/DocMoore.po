@@ -19,9 +19,10 @@ msgid "Hello!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:56
+#, fuzzy
 msgid ""
 "Hello. I'm Doc Moore. I'm the medic of this town. I don't believe we've met?"
-msgstr ""
+msgstr "Привет. Я - док Мур. Я медик этого городка."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:57
 msgid "I'm "
@@ -32,8 +33,9 @@ msgid "Um, what are you?  Some kind of overgrown penguin?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:59
+#, fuzzy
 msgid "I'm a Linarian."
-msgstr ""
+msgstr "Будь осторожен, Линарианец."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:60
 msgid ""
@@ -50,8 +52,9 @@ msgid "Do you also sell medical equipment?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:72
+#, fuzzy
 msgid "Yes. Here is what I can offer today."
-msgstr ""
+msgstr "Конечно. Вот что у меня сейчас есть."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:78
 msgid "May I buy some medical equipment?"
@@ -70,10 +73,13 @@ msgid "Sorry, but I already gave you some medical help."
 msgstr "Сожалею, но я уже оказывал тебе медицинскую помощь."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:89
+#, fuzzy
 msgid ""
 "To poison yourself, 1 more time, that's entirely your own business and I'm "
 "not responsible."
 msgstr ""
+"Если ты отравил себя - это целиком твоё дело и я больше не в ответе за твоё "
+"здоровье."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:90
 msgid ""
@@ -274,8 +280,9 @@ msgid "I am not giving it to you, and that won't change."
 msgstr "Я тебе его и не даю. И так будет и впредь."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:194
+#, fuzzy
 msgid "What can you tell me about Strength Pills?"
-msgstr ""
+msgstr "Может ты мне дашь несколько штук?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:201
 msgid "What can you tell me about Dexterity Pills?"
@@ -290,10 +297,13 @@ msgid "THIS WILL NEVER BE VISIBLE"
 msgstr "THIS WILL NEVER BE VISIBLE"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:218
+#, fuzzy
 msgid ""
 "Those pills are only one variant of a fantastic scientific breakthrough that "
 "happened shortly before the Great Assault."
 msgstr ""
+"Пилюли силы - это один из примеров фантастического прорыва науки, которые "
+"произошли незадолго перед Великим Штурмом."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:219
 msgid ""
@@ -351,8 +361,9 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:238
+#, fuzzy
 msgid "What can you tell me about Diet supplements?"
-msgstr ""
+msgstr "Может ты мне дашь несколько штук?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:240
 msgid ""
@@ -387,8 +398,9 @@ msgid "After taking one your health should improve slightly."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:254
+#, fuzzy
 msgid "What can you tell me about Antibiotics?"
-msgstr ""
+msgstr "Может ты мне дашь несколько штук?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:256
 msgid "Basically it is bottled up poison made by bacteria."
@@ -1449,10 +1461,6 @@ msgstr "Увидимся позже."
 #, fuzzy
 #~ msgid "Well, I can think of a few reasons."
 #~ msgstr "Хорошо, тогда я не могу открыть дверь."
-
-#, fuzzy
-#~ msgid "Can you tell me how to fight the bots?"
-#~ msgstr "Может ты мне дашь несколько штук?"
 
 #, fuzzy
 #~ msgid ""
@@ -4903,23 +4911,6 @@ msgstr "Увидимся позже."
 #~ msgid "See you later!"
 #~ msgstr "До свидания!"
 
-#~ msgid "Hello. I'm Doc Moore. I'm the medic of this town."
-#~ msgstr "Привет. Я - док Мур. Я медик этого городка."
-
-#~ msgid ""
-#~ "Strength pills are only one variant of a fantastic scientific "
-#~ "breakthrough that happened shortly before the Great Assault."
-#~ msgstr ""
-#~ "Пилюли силы - это один из примеров фантастического прорыва науки, которые "
-#~ "произошли незадолго перед Великим Штурмом."
-
-#~ msgid ""
-#~ "If you poison yourself, that's entirely your business and I'm not "
-#~ "responsible."
-#~ msgstr ""
-#~ "Если ты отравил себя - это целиком твоё дело и я больше не в ответе за "
-#~ "твоё здоровье."
-
 #~ msgid ""
 #~ "He took these stupid brain enlargement pills. So no problem, he came to "
 #~ "me to fix him. But guess what?"
@@ -6281,9 +6272,6 @@ msgstr "Увидимся позже."
 #~ msgstr ""
 #~ "Я был несколько занят обслуживанием одного из блоков Гидры, но я послал "
 #~ "отчет Спенсеру. Он расскажет тебе больше."
-
-#~ msgid "Take care, Linarian."
-#~ msgstr "Будь осторожен, Линарианец."
 
 #, fuzzy
 #~ msgid "Oh, thank heavens! You are still alive. Maybe all hope is not lost."

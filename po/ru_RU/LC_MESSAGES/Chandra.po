@@ -57,31 +57,40 @@ msgid "Where can I get better equipment?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:60
+#, fuzzy
 msgid ""
 "The shop is to the north, near the gate. Ms. Stone always has a good range "
 "of equipment there, with fair prices too."
 msgstr ""
+"Магазин расположен в северной стороне города. У мис Стоун всегда богатый "
+"выбор."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:61
 msgid "Not that you have much choice."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:62
+#, fuzzy
 msgid ""
 "Of course, the Red Guard always has the biggest guns and the best armor, but "
 "they do not sell them to non-members."
 msgstr ""
+"И у Красной Гвардии самые большие пушки и лучшая броня. Но они чужаку не "
+"продадут."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:67
 msgid "So what's so strange about the attack?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:69
+#, fuzzy
 msgid ""
 "According to my calculations from the Fermi estimate, there are about seven "
 "million bots active in the region, everything from cleaner bots and servant "
 "droids to much more dangerous ones."
 msgstr ""
+"Согласно моим вычислениям по приближениям Ферми, в этом регионе около 7 "
+"миллионов ботов."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:70
 msgid ""
@@ -112,12 +121,14 @@ msgid "There is none!"
 msgstr "Но её нет!"
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:76
+#, fuzzy
 msgid "They could just enter the city and massacre everyone..."
-msgstr ""
+msgstr "Они могут просто войти в город и вырезать всех поголовно."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:77
+#, fuzzy
 msgid "But they do not even seem to try!"
-msgstr ""
+msgstr "Но они этого не делают."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:78
 msgid "This makes no sense at all!"
@@ -128,27 +139,37 @@ msgid "What do you know about the hostile bots?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:85
+#, fuzzy
 msgid ""
 "The phenomenon of hostile bots has occupied my mind for quite some time. "
 "There are some strange irrationalities in this behaviour, that I cannot "
 "explain."
 msgstr ""
+"Есть у вроаждебных ботов один феномен, который мне уже долго не даёт покоя. "
+"Есть некоторая странная иррациональность в их поведении, которую я не могу "
+"объяснить."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:86
+#, fuzzy
 msgid ""
 "This concerns not only the suddenness of the attack but also the methods and "
 "the scale of it all."
 msgstr ""
+"Это не только беспокойство об их иррациональной атаке, но и о её методах и "
+"масштабе."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:91
 msgid "What types of bots are out there?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:93
+#, fuzzy
 msgid ""
 "There are many. Each kind of bot has a number consisting of three digits. "
 "The first one is the most significant, the class of a bot."
 msgstr ""
+"Гм... Каждый тип ботов обозначается трёхзначным числом. Первая цифра "
+"наиболее важна, она обозначает класс бота."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:94
 msgid "I know a bit about three classes."
@@ -250,11 +271,14 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:127
+#, fuzzy
 msgid ""
 "My advice is to invest in a ranged weapon. While that can create a huge hole "
 "in your wallet, it also creates several in the bots, and is better than a "
 "huge hole in you."
 msgstr ""
+"Я бы посоветовал тебе делать ставку на оружие дальнего боя. Хотя это и "
+"проделает большую дыру в твоём кармане, это лучше, чем большая дырка в теле."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:128
 msgid ""
@@ -265,10 +289,13 @@ msgstr ""
 "рукам всё стоящее оружие."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:129
+#, fuzzy
 msgid ""
 "Should you fail to find something decent to shoot or swing with, there are "
 "always other options."
 msgstr ""
+"Наверняка у тебя не получится найти, из чего можно пострелять, но всегда "
+"есть другие варианты."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:130
 msgid ""
@@ -277,11 +304,14 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:131
+#, fuzzy
 msgid ""
 "There was a person selling grenades, too. Eh... I forgot his name, my memory "
 "is not serving me very well today. He's a very mysterious fellow. Perhaps he "
 "can help you."
 msgstr ""
+"Ещё там есть один типчик, который продаёт гранаты. Эх.. забыл его имя. "
+"Память сейчас у меня уже не та... Я уверен, он тебе поможет."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:132
 msgid "Other than that, you are on your own."
@@ -337,10 +367,13 @@ msgid "Many strange things have happened since the Great Assault."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:151
+#, fuzzy
 msgid ""
 "Any way, because the class 100 bots are neither fast nor dangerous, the Red "
 "Guard often uses them for target practice."
 msgstr ""
+"Поскольку они не представляют собой почти никакой опасности, Красная Гвардия "
+"использует их в качестве мишеней для практики стрельбы."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:152
 msgid "If I were you, I would not overestimate them. "
@@ -2488,57 +2521,6 @@ msgstr "Заходи в любой момент когда пожелаешь."
 #~ "менее успешное горняцкое поселение"
 
 #~ msgid ""
-#~ "The shop is to the north. Ms. Stone always has a good range of equipment "
-#~ "there."
-#~ msgstr ""
-#~ "Магазин расположен в северной стороне города. У мис Стоун всегда богатый "
-#~ "выбор."
-
-#~ msgid ""
-#~ "And the Red Guard always has the biggest guns and the best armor, but "
-#~ "they do not sell them to the non-members."
-#~ msgstr ""
-#~ "И у Красной Гвардии самые большие пушки и лучшая броня. Но они чужаку не "
-#~ "продадут."
-
-#~ msgid ""
-#~ "According to my calculations from the Fermi estimate, there are about "
-#~ "seven million bots active in the region."
-#~ msgstr ""
-#~ "Согласно моим вычислениям по приближениям Ферми, в этом регионе около 7 "
-#~ "миллионов ботов."
-
-#~ msgid "They could just enter the city and massacre everyone."
-#~ msgstr "Они могут просто войти в город и вырезать всех поголовно."
-
-#~ msgid "But they do not do so."
-#~ msgstr "Но они этого не делают."
-
-#~ msgid ""
-#~ "The phenomenon of hostile bots has occupied my mind for quite some time.  "
-#~ "There are some strange irrationalities in this behaviour, that I cannot "
-#~ "explain."
-#~ msgstr ""
-#~ "Есть у вроаждебных ботов один феномен, который мне уже долго не даёт "
-#~ "покоя. Есть некоторая странная иррациональность в их поведении, которую я "
-#~ "не могу объяснить."
-
-#~ msgid ""
-#~ "This concerns not only the irrationality of the attack but also the "
-#~ "methods and the scale of it all."
-#~ msgstr ""
-#~ "Это не только беспокойство об их иррациональной атаке, но и о её методах "
-#~ "и масштабе."
-
-#, fuzzy
-#~ msgid ""
-#~ "Hmm... Each kind of bot has a number consisting of three digits. The "
-#~ "first one is the most significant, the class of a bot."
-#~ msgstr ""
-#~ "Гм... Каждый тип ботов обозначается трёхзначным числом. Первая цифра "
-#~ "наиболее важна, она обозначает класс бота."
-
-#~ msgid ""
 #~ "The 100s are cleaning bots of old. They are not too troublesome most of "
 #~ "the time."
 #~ msgstr ""
@@ -2558,43 +2540,14 @@ msgstr "Заходи в любой момент когда пожелаешь."
 #~ "Я уверен, что есть ещё более другие классы, но я о них ничего не знаю."
 
 #~ msgid ""
-#~ "My advice is to invest in a ranged weapon. While that can create a huge "
-#~ "puncture in your wallet, it is better than a huge puncture in you."
-#~ msgstr ""
-#~ "Я бы посоветовал тебе делать ставку на оружие дальнего боя. Хотя это и "
-#~ "проделает большую дыру в твоём кармане, это лучше, чем большая дырка в "
-#~ "теле."
-
-#~ msgid ""
-#~ "Should you fail to find something decent to shoot with, there are always "
-#~ "other options."
-#~ msgstr ""
-#~ "Наверняка у тебя не получится найти, из чего можно пострелять, но всегда "
-#~ "есть другие варианты."
-
-#~ msgid ""
 #~ "Ewald sells potions which can increase your abilities to fight for a "
 #~ "while. He keeps the ingredients a secret, and the prices high."
 #~ msgstr ""
 #~ "Эвальд продаёт зелья, которые временно увеличивают свособности к бою. "
 #~ "Секретами ингридиентов он не делится и держит цены высокими."
 
-#~ msgid ""
-#~ "There was a person selling grenades too. Eh... I forgot his name, my "
-#~ "memory is not serving me very well today. I am sure he can help you out."
-#~ msgstr ""
-#~ "Ещё там есть один типчик, который продаёт гранаты. Эх.. забыл его имя. "
-#~ "Память сейчас у меня уже не та... Я уверен, он тебе поможет."
-
 #~ msgid "I know of two types. The 123 and the 139."
 #~ msgstr "Я знаю две модели - 123 и 139."
-
-#~ msgid ""
-#~ "Because they are neither fast nor dangerous, the Red Guard uses them for "
-#~ "target practice."
-#~ msgstr ""
-#~ "Поскольку они не представляют собой почти никакой опасности, Красная "
-#~ "Гвардия использует их в качестве мишеней для практики стрельбы."
 
 #~ msgid "Well, those are a bit tricky."
 #~ msgstr "Что ж, тут есть некоторая особенность."

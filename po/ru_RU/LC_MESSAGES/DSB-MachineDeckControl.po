@@ -31,44 +31,54 @@ msgid "*******"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:39
+#, fuzzy
 msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
 msgstr ""
+"Последнее посещение было зарегистрировано на /dev/ttyS0 в субботу 23 mar "
+"2057. admin@sadefence: ~ #"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:47
 msgid "passwd"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:49
+#, fuzzy
 msgid "Changing password for admin. Enter new password: "
-msgstr ""
+msgstr " Создание пароля для пользователя admin. Введите новый пароль: "
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:50
+#, fuzzy
 msgid "Enter new password again: "
-msgstr ""
+msgstr " Введите новый пароль еще раз: "
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:51
+#, fuzzy
 msgid "Password successfully changed."
-msgstr ""
+msgstr " Пароль успешно изменен."
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:58
 msgid "shieldmgr --disable --force"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:60
+#, fuzzy
 msgid "Disabling disruptor shield... "
-msgstr ""
+msgstr " Отключаю дезинтегрирующий щит... "
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:61
+#, fuzzy
 msgid "Shield disabled."
-msgstr ""
+msgstr " Щит отключен."
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:63
+#, fuzzy
 msgid "WARNING: Another user is using this computer."
-msgstr ""
+msgstr " ВНИМАНИЕ: Кто-то другой использует этот компьютер. "
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:64
+#, fuzzy
 msgid "Disruptor shield is active."
-msgstr ""
+msgstr " Щит включен."
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:73
 msgid "logout"
@@ -1035,11 +1045,6 @@ msgstr ""
 
 #~ msgid "You better be. AND DON'T COME BACK!"
 #~ msgstr "Да уж следовало бы. И НЕ ВОЗВРАЩАЙСЯ!"
-
-#~ msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057. admin@sadefence: ~ #"
-#~ msgstr ""
-#~ "Последнее посещение было зарегистрировано на /dev/ttyS0 в субботу 23 mar "
-#~ "2057. admin@sadefence: ~ #"
 
 #~ msgid "Disabling guns..."
 #~ msgstr "Отключаю автопушки..."
@@ -5963,27 +5968,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Последний вход выполнен с /dev/ttyS0 Вск, 23 мар 2057. "
 #~ "admin@shielddefense: ~ #"
-
-#~ msgid " Changing password for admin. Enter new password: "
-#~ msgstr " Создание пароля для пользователя admin. Введите новый пароль: "
-
-#~ msgid " Enter new password again: "
-#~ msgstr " Введите новый пароль еще раз: "
-
-#~ msgid " Password successfully changed."
-#~ msgstr " Пароль успешно изменен."
-
-#~ msgid " Disabling disruptor shield... "
-#~ msgstr " Отключаю дезинтегрирующий щит... "
-
-#~ msgid " Shield disabled."
-#~ msgstr " Щит отключен."
-
-#~ msgid " WARNING: somebody else is using this computer. "
-#~ msgstr " ВНИМАНИЕ: Кто-то другой использует этот компьютер. "
-
-#~ msgid " Disruptor shield is active."
-#~ msgstr " Щит включен."
 
 #~ msgid "Welcome, welcome! I'm Richard. I'm the computer guy around here."
 #~ msgstr "Добро пожаловать, добро пожаловать! Я Ричард, местный компьютерщик."

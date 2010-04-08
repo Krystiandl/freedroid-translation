@@ -23,16 +23,20 @@ msgid "admin"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControl.dialog:39
+#, fuzzy
 msgid "  Password : "
-msgstr ""
+msgstr " Введите новый пароль еще раз: "
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControl.dialog:40
 msgid "*******"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControl.dialog:41
+#, fuzzy
 msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
 msgstr ""
+"Последнее посещение было зарегистрировано на /dev/ttyS0 в субботу 23 mar "
+"2057. admin@sadefence: ~ #"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControl.dialog:49
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControl.dialog:51
@@ -1004,11 +1008,6 @@ msgstr ""
 
 #~ msgid "You better be. AND DON'T COME BACK!"
 #~ msgstr "Да уж следовало бы. И НЕ ВОЗВРАЩАЙСЯ!"
-
-#~ msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057. admin@sadefence: ~ #"
-#~ msgstr ""
-#~ "Последнее посещение было зарегистрировано на /dev/ttyS0 в субботу 23 mar "
-#~ "2057. admin@sadefence: ~ #"
 
 #~ msgid "Disabling guns..."
 #~ msgstr "Отключаю автопушки..."
@@ -5932,9 +5931,6 @@ msgstr ""
 
 #~ msgid " Changing password for admin. Enter new password: "
 #~ msgstr " Создание пароля для пользователя admin. Введите новый пароль: "
-
-#~ msgid " Enter new password again: "
-#~ msgstr " Введите новый пароль еще раз: "
 
 #~ msgid " Password successfully changed."
 #~ msgstr " Пароль успешно изменен."

@@ -200,8 +200,9 @@ msgid "Um... Your voice sounds strange. Is everything fine?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Sorenson.dialog:123
+#, fuzzy
 msgid "519n 7h3 c0n7r4c7!!!!"
-msgstr ""
+msgstr "п0Dпiwi к0н7рАк7!!!!"
 
 #: /home/david/src/freedroid-translation/dialogs/Sorenson.dialog:128
 msgid ""
@@ -235,8 +236,9 @@ msgid "Elbereth"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Sorenson.dialog:160
+#, fuzzy
 msgid "4444! 17 burn5! 7'm m3171n9!"
-msgstr ""
+msgstr "АААА! Г0рR40! R 7Аю! "
 
 #: /home/david/src/freedroid-translation/dialogs/Sorenson.dialog:161
 msgid "44444444444444444!"
@@ -335,17 +337,11 @@ msgstr ""
 msgid "Please come back later, Linarian. We must talk again."
 msgstr "Пожалуйста приходи еще, Линарин. Нам с тобой надо поговорить."
 
-#~ msgid "519n 7h3 (0n7r4(7!!!!"
-#~ msgstr "п0Dпiwi к0н7рАк7!!!!"
-
 #~ msgid "Yes! I am free!"
 #~ msgstr "Да! Я свободена!"
 
 #~ msgid "Yes! I am free at last!"
 #~ msgstr "Да! Наконец, я свободна!"
-
-#~ msgid "4444! 17 burn5! 7'm m3171n9! "
-#~ msgstr "АААА! Г0рR40! R 7Аю! "
 
 #~ msgid ""
 #~ "Duncan McNamara, The Red Guard's resident bomb maker, at your service."
