@@ -1,0 +1,386 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CHANGE THIS\n"
+"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
+"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"PO-Revision-Date: 2010-04-08 14:10+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:38
+msgid ""
+"Your bio checksum does not trigger a match in staff database. Please show prop"
+"er credentials or leave the premises at once."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:55
+msgid "Who are you and what are you doing?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:57
+msgid "I am a SADD - Secret Area Defence Droid"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:58
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:126
+msgid "PRIMARY TARGET 1: do not let unauthorized people in."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:59
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:127
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:131
+msgid "PRIMARY TARGET 2: authorized personnel must have access to the zone."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:60
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:68
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:128
+msgid "SECONDARY TARGET: prevent secret information leakage"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:66
+msgid "What is this place?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:69
+msgid "*INFO* secret information theft attempt detected"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:70
+msgid "Go away. You are not allowed to be here!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:76
+msgid "Why are you not hostile?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:78
+msgid "Hostile? What do you mean?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:79
+msgid "I mean, you are not attacking me... Don't you kill like other bots?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:80
+msgid ""
+"I do! I do! I kill humans, bots, linarians and even dogs, cats and other anima"
+"ls! I would kill anybody!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:81
+msgid "Em.. Anybody who would try to get in, of course."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:87
+msgid "What about the Great Assault?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:89
+msgid "For security reasons, SADDs are not equipped with wireless modules."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:90
+msgid ""
+"I know only that I have to be recharged, checked and have my firmware updated "
+"every 3 months."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:91
+msgid "When does your last maintenance date back to?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:92
+msgid ""
+"One year and a half ago. My accumulator is nearly empty, so I'm going to halt "
+"soon. Gates will become unguarded..."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:93
+msgid "*INFO* secret information theft detected!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:94
+msgid "*INFO* information classified as critical!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:95
+msgid "*INFO* locking zone!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:104
+msgid "What have you done?! How am I supposed to get out of here?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:106
+msgid "You are not. You have secret information, so I won't let you out."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:107
+msgid "Why not kill me immediately?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:108
+msgid ""
+"And stand here alone until I die? While you are here I can speak with you. Oh,"
+" I haven't spoken to anybody for a looong time!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:114
+msgid ""
+"I'm thirsty and hungry. I will die within days, and you will not have an inter"
+"locutor any more!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:116
+msgid "My power supply will deplete earlier."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:121
+msgid "You speak almost like a human..."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:123
+msgid "Maybe I'm almost like a human?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:124
+msgid ""
+"Anyway, that's none of your business. Soon I'll be dead. You will be too, and "
+"nobody will enter this place ever again!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:125
+msgid "What are your orders again?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:129
+msgid "Why do you ask?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:130
+msgid "Tell me your second order once more..."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:132
+msgid "Yes, it will be violated. But first order has higher priority."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:133
+msgid "So you can disobey your orders?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:134
+msgid ""
+"I've already disobeyed them, when I told you what I shouldn't have. That's bec"
+"ause of my human nature."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:140
+msgid "Then please, break the rules, disable the guns and let me go."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:142
+msgid "No way. I'm a computer, I can't break rules."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:143
+msgid "And what about your human nature?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:144
+msgid "Human? I said human? I'm a computer!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:145
+msgid "OK, I'm almost a computer."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:146
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:162
+msgid "Almost a computer? What does that mean?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:147
+msgid ""
+"It means what it means! Nothing more, nothing less! Shut up, little piece of b"
+"iomass!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:154
+msgid ""
+"I suggest a deal. You let me out, I bring you dilithium crystals. It will save"
+" both of us."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:156
+msgid "Why would I trust you?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:164
+msgid ""
+"When I say SHUT UP, you MUST shut up! Try this, worthless grain of the univers"
+"e!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:169
+msgid "You must promise me a significant reward."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:171
+msgid ""
+"Damn. Ok, I'll give you a super exterminator if you give me dilithium cristals"
+"."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:178
+msgid ""
+"It seems that you are sentinent, that you are a form of life. I must help any "
+"form of life."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:180
+msgid "Thanks a lot for your warm words. I think I can trust you."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:186
+msgid "So disable the guns, please."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:188
+msgid "Go, and bring dilithium. I badly need it."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:197
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:219
+msgid "I have the crystals! They were difficult to find."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:199
+msgid ""
+"Good. I've opened the depot door for you. Take your super exterminator and GET"
+" OUT of here!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:211
+msgid "How is your power supply?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:213
+msgid "Bad. Get the crystals. Remember, you promised!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:221
+msgid ""
+"Great! Thanks. I've opened some doors for you. I hope you will find something "
+"interesting there. That's all I can do for you."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:234
+msgid "You call this a super exterminator?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:236
+msgid "I do. Now please leave this place before I terminate you."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:237
+msgid "This is rubbish! Nobody can use this damned gun!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:238
+msgid "The door is still open. You can put it back and go. Quick."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:239
+msgid ""
+"Give me a real gun, dude! Immediately! I have brought you what you wanted, now"
+" give me my reward!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:240
+msgid ""
+"You can go standing on your feet, that's your reward. And DON'T TRY MY PATIENC"
+"E!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:241
+msgid "I'll kill you if you don't give me my gun!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:242
+msgid "You are welcome. But you would never get out of here, my death won't help you."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:252
+msgid "And what about your directives, especially the second?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:254
+msgid "Now I have time. When you die, I'll disable guns."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:259
+msgid "Please forgive me!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:261
+msgid "Too late. I'm watching this great show now."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:262
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:263
+msgid "It is called..."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:264
+msgid "CONDEMNED TO DEATH!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:269
+msgid "Please, disable the guns!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:271
+msgid "Ok, I'll disable them."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:272
+msgid "I just need to make some preparations. You will have to wait..."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:273
+msgid "...for your death!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:278
+msgid "Erm... hi!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:280
+msgid "Hi. Thanks for the help."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:281
+msgid "Will you let me inside the base?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:282
+msgid "I'm sorry"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:283
+msgid "Nice try, though.  I may owe you, but I can't let you in.  You must leave."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:290
+msgid "I'd better get out of here..."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/SADD.dialog:292
+msgid "Exactly."
+msgstr ""
+

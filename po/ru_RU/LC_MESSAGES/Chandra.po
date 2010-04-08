@@ -1,0 +1,407 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CHANGE THIS\n"
+"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
+"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"PO-Revision-Date: 2010-04-08 14:10+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:41
+msgid "Hi! I'm new here."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:43
+msgid "Welcome. I am Chandra, the local sage in this old town."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:48
+msgid "What can you tell me about this place?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:50
+msgid ""
+"This small town used to be a somewhat successful mining community, exporting r"
+"are earth materials and other resources to the rest of the solar system."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:51
+msgid ""
+"The mines have depleted recently, however. The town was under a threat of bank"
+"ruptcy. Living here became harder and many left to seek new opportunities else"
+"where."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:52
+msgid ""
+"But now after the Great Assault, the rest of the planet gets bombarded by auto"
+"mated bot ships every now and then, so being down here isn't so bad at all."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:53
+msgid "Even with the Red Guard in charge, I suppose."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:58
+msgid "Where can I get better equipment?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:60
+msgid ""
+"The shop is to the north, near the gate. Ms. Stone always has a good range of "
+"equipment there, with fair prices too."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:61
+msgid "Not that you have much choice."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:62
+msgid ""
+"Of course, the Red Guard always has the biggest guns and the best armor, but t"
+"hey do not sell them to non-members."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:67
+msgid "So what's so strange about the attack?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:69
+msgid ""
+"According to my calculations from the Fermi estimate, there are about seven mi"
+"llion bots active in the region, everything from cleaner bots and servant droi"
+"ds to much more dangerous ones."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:70
+msgid ""
+"Now, I think you will agree with me that the following statement is true: If b"
+"ots, then death to everything alive."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:71
+msgid "Now, I make the assumption that you and I are alive."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:72
+msgid "Now, if we are not dead, and if bots are killing everything alive..."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:73
+msgid "... THEN SOMETHING IS NOT LOGICAL!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:74
+msgid "Calm down. There must be some logic behind this."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:75
+msgid "There is none!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:76
+msgid "They could just enter the city and massacre everyone..."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:77
+msgid "But they do not even seem to try!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:78
+msgid "This makes no sense at all!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:83
+msgid "What do you know about the hostile bots?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:85
+msgid ""
+"The phenomenon of hostile bots has occupied my mind for quite some time. There"
+" are some strange irrationalities in this behaviour, that I cannot explain."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:86
+msgid ""
+"This concerns not only the suddenness of the attack but also the methods and t"
+"he scale of it all."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:91
+msgid "What types of bots are out there?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:93
+msgid ""
+"There are many. Each kind of bot has a number consisting of three digits. The "
+"first one is the most significant, the class of a bot."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:94
+msgid "I know a bit about three classes."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:95
+msgid ""
+"The 100s are cleaning bots of old. Being that, they are quite common. Fortunat"
+"ely for us they aren't as good at killing things as they are at cleaning up th"
+"e mess afterwards."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:96
+msgid ""
+"The 200s are servant bots, designed to come quickly when summoned and be able "
+"to lift heavy weights. That makes them more dangerous under most circumstances"
+", so beware of being attacked by more than one at the same time."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:97
+msgid ""
+"Right now, an encounter with a 300 type bot equals death, so try to avoid it. "
+"They were messenger bots before the Great Assault, which means they have super"
+"b visual sensors and some are very fast."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:98
+msgid ""
+"There are many more classes out there. The military used bots, of course, and "
+"they were used on ships, but I know nothing about those types."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:103
+msgid "I want to leave this place."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:105
+msgid "We all do, Linarian, we all do."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:106
+msgid ""
+"The act in question is made impossible by the quasi-infinite bots outside of t"
+"he city walls."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:107
+msgid "You cannot live for long out there."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:112
+msgid "No, I meant I would like to leave this world."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:114
+msgid ""
+"Simple. Walk outside the city walls, and the bots will send you to the other w"
+"orld within a few minutes."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:115
+msgid "Unless you mean leave the planet, in which case that is impossible."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:116
+msgid "Most likely all of our cosmodromes have been destroyed in the bot attacks."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:121
+msgid "I keep getting beaten up by the bots. What can I do?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:123
+msgid "There are many things you can do. The first is to fight more bots."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:124
+msgid ""
+"Er... Wouldn't that cause me to get beaten up more and therefore be counter-pr"
+"oductive?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:125
+msgid ""
+"Your logic is infallible, Linarian, but you are forgetting one thing: the more"
+" you fight, the more experienced you become, and the better at surviving you g"
+"et."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:126
+msgid ""
+"Also, if you have the money and can find a supplier, it is wise to invest in b"
+"etter equipment - more protective clothing and better weaponry."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:127
+msgid ""
+"My advice is to invest in a ranged weapon. While that can create a huge hole i"
+"n your wallet, it also creates several in the bots, and is better than a huge "
+"hole in you."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:128
+msgid ""
+"Currently there is a ban on selling such things. The Red Guard wants to be the"
+" only ones with good weapons."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:129
+msgid ""
+"Should you fail to find something decent to shoot or swing with, there are alw"
+"ays other options."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:130
+msgid ""
+"Ewald, the barkeeper, usually sells an assortment of junk, but even he sometim"
+"es has something worthwhile on display."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:131
+msgid ""
+"There was a person selling grenades, too. Eh... I forgot his name, my memory i"
+"s not serving me very well today. He's a very mysterious fellow. Perhaps he ca"
+"n help you."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:132
+msgid "Other than that, you are on your own."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:137
+msgid "Do you think I could join the guardians of this town?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:139
+msgid ""
+"The Red Guard? Unlikely. You'd have to establish a reputation beforehand, and "
+"demonstrate that you can fix things."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:140
+msgid ""
+"Also, the Red Guard is not a very popular organization, so if you do join them"
+" then you can expect to be hated by nearly everyone here."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:141
+msgid ""
+"As the ancients said, 'Boni pastoris est tondere pecus, non deglubere'. A good"
+" tax must be a reasonable tax."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:146
+msgid "What bots are in the 100 class?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:148
+msgid ""
+"I know of two types, the 123 and the 139. The former is a simple cleaning bot,"
+" and is fairly weak. The latter is a mobile trash compactor. Don't get your fl"
+"ippers get caught in one of those."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:149
+msgid "I've seen some of those on my way here. They were... Shooting at me."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:150
+msgid "Many strange things have happened since the Great Assault."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:151
+msgid ""
+"Any way, because the class 100 bots are neither fast nor dangerous, the Red Gu"
+"ard often uses them for target practice."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:152
+msgid "If I were you, I would not overestimate them. "
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:153
+msgid "Nec Hercules contra plures."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:158
+msgid "What bots are in the 200 class?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:160
+msgid ""
+"In fitting with the lazy nature of humans, there are several servant bots of t"
+"he 200 class."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:161
+msgid ""
+"The 247 is often called the 'Banshee'. Being a simple servant robot, it isn't "
+"very well equipped to kill, although its arms are quite strong."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:162
+msgid ""
+"Also, as I said, the 200s were built to report quickly. The 247 is no exceptio"
+"n, and moves faster than some of us can run. As a killer bot, it has a fast ra"
+"te of attack. It is not something to be trifled with."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:163
+msgid ""
+"The 249 is a cheaper version of the Banshee. It uses a tripedal drive instead "
+"of anti-gravity propulsion, and is therefore slower. However it is much more d"
+"angerous: its machine gun has a very high rate of fire."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:164
+msgid "Machine gun?! But... But it's a servant bot!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:165
+msgid "I know, "
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:166
+msgid ""
+"Let's see... Oh, there is also the 296, which was used for serving drinks. Ewa"
+"ld once had one of those in his bar."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:167
+msgid "Once? What happened to it?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:168
+msgid ""
+"No one knows. One day it simply wasn't there. Ewald probably remembers more th"
+"an I do, though."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:174
+msgid "What other bots are out there?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:176
+msgid ""
+"Though I do not know the details, I assure you there are many. Robots and auto"
+"mated machinery served almost every purpose you can imagine, and probably some"
+" that you can't."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:177
+msgid ""
+"They were used by the military, aboard ships, as security droids and more. Rig"
+"ht now, however, most of the people who know them up close are pushing up dais"
+"ies."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:182
+msgid "Thank you for your wise words."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:184
+msgid "Feel free to come here any time you want."
+msgstr ""
+

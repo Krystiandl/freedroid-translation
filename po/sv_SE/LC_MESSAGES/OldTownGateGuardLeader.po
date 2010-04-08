@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CHANGE THIS\n"
+"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
+"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"PO-Revision-Date: 2010-04-08 14:10+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:38
+msgid "Hey you! Linarian! What do you want here?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:43
+msgid "Just taking a look around."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:45
+msgid "Oh, great. Another curious one."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:46
+msgid ""
+"About a week ago I let in a stranger who also said he was just taking a look a"
+"round. I never saw him again. And he wont be getting back in either, that's fo"
+"r sure."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:51
+msgid "I'd like to get into town."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:53
+msgid "Funny, exactly the same could be said about all of the crazy bots out there."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:54
+msgid ""
+"Not to mention that weird guy that came by last week. The only place in town h"
+"e is going next time is straight into a holding cell."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:59
+msgid "I'm here to assassinate your leader and you won't stop me!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:61
+msgid "Ok, Linarian! You asked for it!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:62
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:142
+msgid "Open fire!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:72
+msgid "Oh? Who was he? And Why?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:74
+msgid "Heh, you sure are a curious little bird, in more than one way I might say."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:75
+msgid ""
+"On the day he visited all our computers went insane, 20 bags of food rations v"
+"anished from our storage and one of our bots was stolen."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:76
+msgid ""
+"I think that damn freak lives somewhere to the east. I would love to get my ha"
+"nds on him and beat the life out of him. Slowly."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:86
+msgid "In any case..."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:94
+msgid "Yes. I understand."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:96
+msgid "State your name Linarian."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:98
+msgid "You may now enter "
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:105
+msgid "No. Not at all. Your mother dresses you funny."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:107
+msgid "What did you say you oversized duck?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:115
+msgid "Let me get back to you on that one."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:117
+msgid "Well you aren't going anywhere. I'm watching you."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:122
+msgid ""
+"... I was only wondering who you were, and why you were wearing such a bright "
+"scarlet outfit."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:124
+msgid "My apologies, Linarian. You are new here, and do not know."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:125
+msgid ""
+"The red outfit indicates that I am of the Red Guard. We are the defenders of t"
+"he town and impose the law."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:126
+msgid ""
+"With the continued bot attacks, and the grumbling townsfolk, all of us are a l"
+"ittle on edge."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:127
+msgid "Tell me your name, and then you may pass."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:128
+msgid "My name is "
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:129
+msgid "You may enter."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:139
+msgid "I said: YOUR MOTHER DRESSES YOU FUNNY."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:141
+msgid "Nobody says things about my mother. Forget you, Linarian!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:149
+msgid "I said: THIS PLACE LOOKS CLASSY."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:151
+msgid "Sure you said that."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:156
+msgid "Please don't hurt me."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:158
+msgid ""
+"How about I punch you until you spit out your name, and get out of here and we"
+" call it even?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:159
+msgid "OW"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:160
+msgid "Your name?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:162
+msgid "OW. That HURT!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:163
+msgid "Get out of here. The Doc is the third door on the right along the main path."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:177
+msgid "I want to talk to your manager, moron."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:179
+msgid "I'll be happy to send you his way, but I need your name before I let you in."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:181
+msgid "Talk to Spencer. His office is straight ahead. You can't miss it."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:182
+msgid "Now stop bothering me! You crazy loon."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:193
+msgid "That is exactly what I said."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:195
+msgid "You are as out of your mind as that Sorenson lady."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:196
+msgid "But I guess she's already here, so it doesn't matter if we have another loon."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:197
+msgid "I'm a Linarian, not a loon. "
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:198
+msgid "Get out of here "
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:208
+msgid "I'll be going then."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:210
+msgid "Mhmmm."
+msgstr ""
+

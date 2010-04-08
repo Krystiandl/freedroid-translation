@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CHANGE THIS\n"
+"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
+"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"PO-Revision-Date: 2010-04-08 14:10+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/david/src/freedroid-translation/dialogs/Template.dialog:43
+#: /home/david/src/freedroid-translation/dialogs/Template.dialog:45
+#: /home/david/src/freedroid-translation/dialogs/Template.dialog:50
+#: /home/david/src/freedroid-translation/dialogs/Template.dialog:52
+msgid "<?>"
+msgstr ""
+
