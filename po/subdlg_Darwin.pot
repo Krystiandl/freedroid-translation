@@ -2,136 +2,136 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 08:16+0000\n"
-"PO-Revision-Date: 2010-04-09 08:16+0000\n"
+"POT-Creation-Date: 2010-04-09 13:08+0000\n"
+"PO-Revision-Date: 2010-04-09 13:08+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-15\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./subdlg_Darwin.dialog:55
-#: ./subdlg_Darwin.dialog:60
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:55
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:60
 msgid "Hmmm..."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:56
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:56
 msgid "You look green. Toughen up. Get some experience, kill some bots."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:57
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:57
 msgid "Then we can talk."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:61
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:61
 msgid "Kein geld, Keine hilfe."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:62
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:62
 msgid "Come back with some money."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:79
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:79
 msgid "Let us start with entropy inverters. This is quite simple."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:80
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:80
 msgid "Just take a hammer and hit the bot sehr hard on the head."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:81
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:81
 msgid ""
 "When you have the head open wide, look around for a part which looks like two "
 "circles around a cube. That is what you are looking for."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:89
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:89
 msgid "How about... Plasma transistors? Trivial."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:90
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:90
 msgid "Remove the bot's engine and look around somewhere close to the battery."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:91
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:91
 msgid "Plasma transistors are shaped like the letter Y. Just rip them out, it's safe."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:99
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:99
 msgid "Hmmm... Ah, gut. Superconductors."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:100
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:100
 msgid "They are relatively easy to get out."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:101
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:101
 msgid ""
 "Look around the electric system. Power coils, capacitors, generators and the l"
 "ike. Usually there are plenty of sehr gut parts there."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:102
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:102
 msgid "Wear rubber gloves. Just in case, you know."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:110
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:110
 msgid "I will tell you everything about matter-antimatter converters."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:111
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:111
 msgid "Yes... Converters are a problem."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:112
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:112
 msgid ""
 "They are easy to find, all you have to do is to get to the engine. But you mus"
 "t remember something very important:"
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:113
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:113
 msgid "Make sure you turn the converter off before you remove it."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:114
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:114
 msgid ""
 "If you do not do that, you will only succeed in converting yourself to anti-ma"
 "tter. And as you know, there is no coming back from there."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:122
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:122
 msgid "I will teach you about tachyon converters."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:123
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:123
 msgid ""
 "Tachyons are very interesting particles. Many stories have been told about the"
 "m."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:124
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:124
 msgid ""
 "I have no idea why bots have them inside. They are usually not connected to an"
 "ything and serve no function."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:125
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:125
 msgid ""
 "They are usually quite hot when you get them out, but they cool down quickly, "
 "so handling them is not a big deal."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:126
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:126
 msgid ""
 "They can be installed just about anywhere, so you have to spend some time digg"
 "ing through the circuits to find one."
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:134
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:134
 msgid "Nein, I told you everything I know about that. No use asking me twice, ja?"
 msgstr ""
 
-#: ./subdlg_Darwin.dialog:139
+#: /home/david/src/freedroid-translation/dialogs/subdlg_Darwin.dialog:139
 msgid "Maybe another time."
 msgstr ""
 

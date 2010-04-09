@@ -2,318 +2,318 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 08:16+0000\n"
-"PO-Revision-Date: 2010-04-09 08:16+0000\n"
+"POT-Creation-Date: 2010-04-09 13:07+0000\n"
+"PO-Revision-Date: 2010-04-09 13:07+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-15\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./Spencer.dialog:38
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:38
 msgid "Greetings fellow Red Guard member."
 msgstr ""
 
-#: ./Spencer.dialog:51
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:51
 msgid "Hi! I'm new here."
 msgstr ""
 
-#: ./Spencer.dialog:53
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:53
 msgid ""
 "I'm Spencer. I'm the leader of the Red Guard. Is there anything I can help you"
 " with?"
 msgstr ""
 
-#: ./Spencer.dialog:58
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:58
 msgid "I want to join the Red Guard."
 msgstr ""
 
-#: ./Spencer.dialog:60
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:60
 msgid "Hmm... Really? Well, you cannot join just like that, you know..."
 msgstr ""
 
-#: ./Spencer.dialog:61
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:61
 msgid "You must prove that you would make a good new member."
 msgstr ""
 
-#: ./Spencer.dialog:66
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:66
 msgid "I really want to become a member."
 msgstr ""
 
-#: ./Spencer.dialog:68
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:68
 msgid ""
 "This is not so easy. First you must establish a reputation around here. Ask ar"
 "ound, talk to people and build your reputation."
 msgstr ""
 
-#: ./Spencer.dialog:69
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:69
 msgid ""
 "Once you're a known character around here, we might let you join the ranks of "
 "the Guard."
 msgstr ""
 
-#: ./Spencer.dialog:74
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:74
 msgid "What about some money instead?"
 msgstr ""
 
-#: ./Spencer.dialog:76
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:76
 msgid "For 15 million circuits, no less, hehe."
 msgstr ""
 
-#: ./Spencer.dialog:81
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:81
 msgid "Maybe I could help somehow?"
 msgstr ""
 
-#: ./Spencer.dialog:83
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:83
 msgid ""
 "That would be most kind of you, but I doubt that you will be able to clear out"
 " the warehouse for us."
 msgstr ""
 
-#: ./Spencer.dialog:84
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:84
 msgid ""
 "But since you are said to be powerful and a former hero, I'll once more put tr"
 "ust into a stranger."
 msgstr ""
 
-#: ./Spencer.dialog:85
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:85
 msgid ""
 "I've unlocked the access-way to the warehouse. It's to the north of this town,"
 " somewhat hidden in the woods northeast."
 msgstr ""
 
-#: ./Spencer.dialog:86
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:86
 msgid ""
 "The stuff we need is on the first floor. Don't go any deeper, there are only b"
 "ots in there."
 msgstr ""
 
-#: ./Spencer.dialog:87
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:87
 msgid "I wish you the best of luck."
 msgstr ""
 
-#: ./Spencer.dialog:94
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:94
 msgid "How is it going?"
 msgstr ""
 
-#: ./Spencer.dialog:99
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:99
 msgid ""
 "Thanks to you, we've been able to transport all the goods we need right now. Y"
 "ou've really helped us out there."
 msgstr ""
 
-#: ./Spencer.dialog:100
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:100
 msgid "Rest assured that we will never forget your brave activity for our community."
 msgstr ""
 
-#: ./Spencer.dialog:102
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:102
 msgid "Man, you really did it! I can hardly believe it, but all the bots are gone!"
 msgstr ""
 
-#: ./Spencer.dialog:103
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:103
 msgid ""
 "Take these 500 circuits as a reward.  And be assured that you've earned my dee"
 "pest respect, Linarian."
 msgstr ""
 
-#: ./Spencer.dialog:104
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:104
 msgid ""
 "Our people are transporting the goods as we speak. It can't be too long until "
 "new bots from ships in the orbit of the planet will beam down to replace the d"
 "ead bots."
 msgstr ""
 
-#: ./Spencer.dialog:110
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:110
 msgid ""
 "Not too good. Without the supplies from the warehouse we are doomed. So my pro"
 "blems are still the same."
 msgstr ""
 
-#: ./Spencer.dialog:111
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:111
 msgid ""
 "Maybe later, when you grow more experienced you might be able to help us after"
 " all."
 msgstr ""
 
-#: ./Spencer.dialog:114
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:114
 msgid ""
 "These are bad times. Interplanetary travel is made impossible by bot ships, so"
 " we need to stick to our local resources."
 msgstr ""
 
-#: ./Spencer.dialog:115
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:115
 msgid ""
 "We've got a list of stuff we need from the automated underground storage north"
 " of town. But the bots there are numerous."
 msgstr ""
 
-#: ./Spencer.dialog:116
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:116
 msgid ""
 "And currently I can't spare a single man from the city defenses. It's quite a "
 "difficult situation."
 msgstr ""
 
-#: ./Spencer.dialog:122
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:122
 msgid "Have I done enough quests to become a member now?"
 msgstr ""
 
-#: ./Spencer.dialog:125
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:125
 msgid ""
 "I think our teleporter service man, Dixon, has some problem. You might want to"
 " talk to him."
 msgstr ""
 
-#: ./Spencer.dialog:128
-#: ./Spencer.dialog:135
-#: ./Spencer.dialog:142
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:128
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:135
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:142
 msgid "Dixon has his toolkit back."
 msgstr ""
 
-#: ./Spencer.dialog:129
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:129
 msgid ""
 "He was in bad mood and told me he had to pay you for getting his own property "
 "back."
 msgstr ""
 
-#: ./Spencer.dialog:130
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:130
 msgid "I think it is the best for him if we leave him alone the next days."
 msgstr ""
 
-#: ./Spencer.dialog:131
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:131
 msgid "I'm sure he has to do a lot now."
 msgstr ""
 
-#: ./Spencer.dialog:136
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:136
 msgid "He seemed quite aggressive and stressed."
 msgstr ""
 
-#: ./Spencer.dialog:137
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:137
 msgid ""
 "Poor guy, if we weren't in such a bad situation, he could have some work-free "
 "days, but bot attacks continue all the time."
 msgstr ""
 
-#: ./Spencer.dialog:138
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:138
 msgid "You better don't bother him the next days."
 msgstr ""
 
-#: ./Spencer.dialog:143
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:143
 msgid ""
 "He did rail against you though. He said he had to give you 400 circuits to get"
 " his toolkit back, his own property."
 msgstr ""
 
-#: ./Spencer.dialog:144
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:144
 msgid ""
 "That was nearly all money he had. He said you were too greedy to become a good"
 " member and he doesn't want to see you anymore."
 msgstr ""
 
-#: ./Spencer.dialog:145
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:145
 msgid ""
 "I think everybody has to get a chance. But look ahead! When you are negatively"
 " conspicuous again, we will ban you from our town!"
 msgstr ""
 
-#: ./Spencer.dialog:148
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:148
 msgid ""
 "Dixon told me about the matter with his toolkit. He seemed pretty impressed by"
 " you."
 msgstr ""
 
-#: ./Spencer.dialog:155
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:155
 msgid ""
 "When I was eating, Michelangelo told me about his renewed oven energy supply. "
 "He seemed very pleased, and so was I."
 msgstr ""
 
-#: ./Spencer.dialog:157
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:157
 msgid ""
 "I think you should visit the camp's cook sometime. He's usually in the restaur"
 "ant kitchen."
 msgstr ""
 
-#: ./Spencer.dialog:161
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:161
 msgid "From Butch I hear you've become a novice arena master. Congratulations."
 msgstr ""
 
-#: ./Spencer.dialog:163
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:163
 msgid ""
 "You might want to score some arena victories. That could also help your reputa"
 "tion a lot."
 msgstr ""
 
-#: ./Spencer.dialog:167
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:167
 msgid ""
 "Helping Bender along was also a smart move. But you should be very careful wit"
 "h that one. He can get mad rather easily. A bit of a security threat, but we c"
 "an't be too picky."
 msgstr ""
 
-#: ./Spencer.dialog:169
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:169
 msgid "As far as I know, Bender is still very sick."
 msgstr ""
 
-#: ./Spencer.dialog:173
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:173
 msgid ""
 "But most importantly, I was very impressed with you when you cleared out the w"
 "arehouse. That was a huge deed I will never forget."
 msgstr ""
 
-#: ./Spencer.dialog:175
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:175
 msgid ""
 "Personally I'm also worrying about how we will manage to get some necessary su"
 "pplies from our warehouse. It's filled with bots and we just dont have the man"
 "power to spare to clean them out."
 msgstr ""
 
-#: ./Spencer.dialog:180
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:180
 msgid ""
 "OK. Your list of achievements is long enough. You can join us. So I hereby dec"
 "lare you a member of the Red Guard."
 msgstr ""
 
-#: ./Spencer.dialog:181
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:181
 msgid ""
 "But now that you are in the Guard, know this: There is only one rule for us gu"
 "ards: We stick together. We survive together or we die together. But we do it "
 "together."
 msgstr ""
 
-#: ./Spencer.dialog:182
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:182
 msgid ""
 "And now you might want to inspect the guard house. Tell Tybalt to open the doo"
 "r for you. Lukas at the arms counter will give you your armor."
 msgstr ""
 
-#: ./Spencer.dialog:183
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:183
 msgid "I hope you will prove yourself a worthy member of the Red Guard."
 msgstr ""
 
-#: ./Spencer.dialog:190
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:190
 msgid ""
 "All in all, not quite so bad. But you still need to do the one thing or the ot"
 "her. Then we can talk about it."
 msgstr ""
 
-#: ./Spencer.dialog:192
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:192
 msgid ""
 "I can't accept you into the guard like this. Get going. There are still many t"
 "hings to do for you."
 msgstr ""
 
-#: ./Spencer.dialog:198
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:198
 msgid "I've heard Richard obtained new information on the town."
 msgstr ""
 
-#: ./Spencer.dialog:200
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:200
 msgid ""
 "Yes, that's right, and in fact it might be crucial. As you may have heard, the"
 " MS office is defended by a disruptor shield. They open it only to let out new"
 " armies of bots."
 msgstr ""
 
-#: ./Spencer.dialog:201
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:201
 msgid ""
 "The data on the cube he obtained indicates the existence of a secret experimen"
 "tal facility in this region. Our findings suggest that they were testing some "
@@ -321,13 +321,13 @@ msgid ""
 " facility."
 msgstr ""
 
-#: ./Spencer.dialog:202
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:202
 msgid ""
 "If the information is true, then you can take over the control droid and disab"
 "le the shield permanently so we can get in."
 msgstr ""
 
-#: ./Spencer.dialog:203
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:203
 msgid ""
 "We know that MS had a firmware update system, which could be used to propagate"
 " a malicious update to disable all bots. It is very alluring, but to perform t"
@@ -335,133 +335,133 @@ msgid ""
 " To enter HF you would have to disable the disruptor shield."
 msgstr ""
 
-#: ./Spencer.dialog:204
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:204
 msgid ""
 "This seems like a gift sent from the heavens. Cleaning the Hell Fortress is no"
 "t going to be easy, though.."
 msgstr ""
 
-#: ./Spencer.dialog:209
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:209
 msgid "I'd like to participate in this operation."
 msgstr ""
 
-#: ./Spencer.dialog:211
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:211
 msgid ""
 "That's most kind of you to volunteer. So far, I've sent two scouts into the ar"
 "ea. They have found the facility entrance and unlocked the gate."
 msgstr ""
 
-#: ./Spencer.dialog:212
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:212
 msgid ""
 "That is a good sign, because it shows that the key combinations from the data "
 "cube were correct."
 msgstr ""
 
-#: ./Spencer.dialog:213
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:213
 msgid ""
 "However, we lost contact with them shortly after they went inside. They also r"
 "eported heavy bot resistance."
 msgstr ""
 
-#: ./Spencer.dialog:214
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:214
 msgid ""
 "I'd be glad if you could take a look. But use the utmost care. We can't afford"
 " to lose another guard."
 msgstr ""
 
-#: ./Spencer.dialog:219
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:219
 msgid "OK. I'll be careful. But I'll do it."
 msgstr ""
 
-#: ./Spencer.dialog:221
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:221
 msgid ""
 "Good. The base entrance is somewhat hidden in the caves to the northeast. Best"
 " to use the north gate out of town, then head east, and turn north again along"
 " the shore."
 msgstr ""
 
-#: ./Spencer.dialog:222
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:222
 msgid ""
 "I wish you the best of luck for this operation. It might be that our survival "
 "depends on it. Don't wait for assistance."
 msgstr ""
 
-#: ./Spencer.dialog:223
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:223
 msgid ""
 "Try to get control over the disruptor shield if you can. The control droid sho"
 "uld be somewhere on the lowest level of the installation. Simply destroying th"
 "e droid might suffice in disabling the shield."
 msgstr ""
 
-#: ./Spencer.dialog:230
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:230
 msgid "I don't feel like doing it now. I'd rather prepare some more."
 msgstr ""
 
-#: ./Spencer.dialog:232
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:232
 msgid "Good. You should be well prepared if you intend to go."
 msgstr ""
 
-#: ./Spencer.dialog:233
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:233
 msgid ""
 "Also there is no need to hurry with this. After all, the installation is not r"
 "unning away, so it's best to take a cautious approach."
 msgstr ""
 
-#: ./Spencer.dialog:238
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:238
 msgid ""
 "It's done. Your soldiers were killed, but I managed to have a word with the sh"
 "ield control droid. The access to the bot factory is now open."
 msgstr ""
 
-#: ./Spencer.dialog:240
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:240
 msgid ""
 "Good. We cannot help you much in this final mission, but I can tell you what o"
 "ur recon teams gathered behind the factory doors. You will enter a zone that u"
 "sed to be a MS office."
 msgstr ""
 
-#: ./Spencer.dialog:241
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:241
 msgid ""
 "They carried out some development there, and had part of their patching divisi"
 "on and update management department. The actual factory is located behind the "
 "office."
 msgstr ""
 
-#: ./Spencer.dialog:242
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:242
 msgid ""
 "With a bit of luck, you might not need to access it. We know they have their u"
 "pdate server in the office."
 msgstr ""
 
-#: ./Spencer.dialog:243
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:243
 msgid ""
 "If you can find it and get it to propagate a faulty update, this could suffice"
 " to stopping bots dead in their tracks."
 msgstr ""
 
-#: ./Spencer.dialog:244
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:244
 msgid ""
 "Look for the entrance of the office in the crystal fields. I will send a messa"
 "ge to the guards so they let you pass. Then you will be on your own."
 msgstr ""
 
-#: ./Spencer.dialog:245
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:245
 msgid "Good luck."
 msgstr ""
 
-#: ./Spencer.dialog:251
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:251
 msgid "I will need some time to get myself ready before I clean up the Hell Fortress."
 msgstr ""
 
-#: ./Spencer.dialog:253
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:253
 msgid "You had better be ready."
 msgstr ""
 
-#: ./Spencer.dialog:257
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:257
 msgid "I'll be going then."
 msgstr ""
 
-#: ./Spencer.dialog:259
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:259
 msgid "See you later."
 msgstr ""
 

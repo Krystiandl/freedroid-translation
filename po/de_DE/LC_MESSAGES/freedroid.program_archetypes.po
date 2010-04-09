@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_data\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 08:16+0000\n"
+"POT-Creation-Date: 2010-04-09 13:08+0000\n"
 "PO-Revision-Date: 2009-02-23 00:43+0100\n"
 "Last-Translator: barbatrix <blue.bits@arcor.de>\n"
 "Language-Team: Deutsch\n"
@@ -16,11 +16,11 @@ msgstr ""
 "X-Launchpad-Export-Date: 2008-09-14 12:32+0000\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: freedroid.program_archetypes:8
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:8
 msgid "Hacking"
 msgstr "Hacken"
 
-#: freedroid.program_archetypes:9
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:9
 msgid ""
 "Tux is gifted with the ability to hack any machine in no time. With this "
 "program selected and activated by pressing down the right mouse button over "
@@ -30,11 +30,11 @@ msgstr ""
 "dieses Programm ausgewählt und durch drücken der rechten Maustaste über "
 "einer gegnerischen Maschine aktiviert wird, beginnt der Übernahmeprozess."
 
-#: freedroid.program_archetypes:19
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:19
 msgid "Repair equipment"
 msgstr "Ausrüstung reparieren"
 
-#: freedroid.program_archetypes:20
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:20
 msgid ""
 "This skill allows to repair an item from the inventory. To use this skill, "
 "select it, then open the inventory screen and then right click the mouse on "
@@ -48,11 +48,11 @@ msgstr ""
 "nichts \"kostet\", wird der Gegenstand dabei etwas an maximaler "
 "Beständigkeit verlieren."
 
-#: freedroid.program_archetypes:28
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:28
 msgid "Use weapon"
 msgstr "Benutze Waffe"
 
-#: freedroid.program_archetypes:29
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:29
 msgid ""
 "Using this skill allows you to force an attack on something not normally a "
 "target or for firing single shots with automatic weapons."
@@ -60,11 +60,11 @@ msgstr ""
 "Diese Aktion erlaubt es, einen Angriff auf ungewöhnliche Ziele zu erzwingen "
 "oder mit einer automatischen Waffe Einzelschüsse abzufeuern."
 
-#: freedroid.program_archetypes:37
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:37
 msgid "Emergency shutdown"
 msgstr "Notabschaltung"
 
-#: freedroid.program_archetypes:38
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:38
 msgid ""
 "Everyone needs to turn off and cool down a bit now and then. Just be careful "
 "so you are not still offline when enemy bots close in..."
@@ -73,21 +73,21 @@ msgstr ""
 "aber auf, dass Sie nicht noch offline sind, wenn sich schon feindliche "
 "Roboter im Anmarsch befinden..."
 
-#: freedroid.program_archetypes:50
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:50
 msgid "Check system integrity"
 msgstr "Prüfe Systemintegrität"
 
-#: freedroid.program_archetypes:51
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:51
 msgid "While repairing damage you must remember that patience is a virtue."
 msgstr ""
 "Denken Sie beim Reparieren von Schäden stets daran, dass Geduld eine Tugend "
 "ist."
 
-#: freedroid.program_archetypes:63
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:63
 msgid "Sanctuary"
 msgstr "Schutzzone"
 
-#: freedroid.program_archetypes:64
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:64
 msgid ""
 "Effect: Teleport to town or back \n"
 "The art of rapidly moving away from danger is very useful. Even when used in "
@@ -97,11 +97,11 @@ msgstr ""
 "Die Kunst, sich akuter Gefahr zu entziehen ist sehr hilfreich - auch der "
 "umgekehrte Effekt hat seine Berechtigung."
 
-#: freedroid.program_archetypes:73
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:73
 msgid "Analyze item"
 msgstr "Analysiere Gegenstand"
 
-#: freedroid.program_archetypes:74
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:74
 msgid ""
 "Effect: Identify\n"
 "There are very few items which have labels on them. Unless you happen to "
@@ -113,30 +113,30 @@ msgstr ""
 "mit der Beschriftung \"BENUTZ MICH\" haben, sollten Sie lieber "
 "sicherstellen, worum es sich handelt, bevor Sie ihn benutzen..."
 
-#: freedroid.program_archetypes:83
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:83
 msgid "Invisibility"
 msgstr "Unsichtbarkeit"
 
-#: freedroid.program_archetypes:84
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:84
 msgid "I am not the Linarian you are looking for."
 msgstr "Ich bin nicht der Linarianer, nach dem du suchst."
 
-#: freedroid.program_archetypes:94
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:94
 msgid "Malformed packet"
 msgstr "Verstümmeltes Datenpaket"
 
-#: freedroid.program_archetypes:95
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:95
 msgid ""
 "When computers are presented with the unexpected they can damage themselves."
 msgstr ""
 "Werden Computer mit dem Unerwarteten konfrontiert, können sie Schaden "
 "nehmen..."
 
-#: freedroid.program_archetypes:108
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:108
 msgid "Calculate Pi"
 msgstr "Berechne Pi"
 
-#: freedroid.program_archetypes:109
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:109
 msgid ""
 "It is not a big problem to make a badly designed system to go hunting for "
 "the impossible, causing a performance impact."
@@ -145,22 +145,22 @@ msgstr ""
 "nach dem Unmöglichen zu schicken und einen heftigen Leistungseinbruch "
 "auszulösen."
 
-#: freedroid.program_archetypes:124
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:124
 msgid "Blue Screen"
 msgstr "BSoD-Syndrom"
 
-#: freedroid.program_archetypes:125
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:125
 msgid ""
 "With a little touch a war machine comes crashing down to a halt. For a while."
 msgstr ""
 "Mit geeigneten Mitteln kommt auch schweres Kriegsgerät zum stehen. Für ein "
 "Weilchen - bis zum Reboot."
 
-#: freedroid.program_archetypes:138
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:138
 msgid "Broadcast Blue Screen"
 msgstr "Verbreite BSoD-Syndrom"
 
-#: freedroid.program_archetypes:139
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:139
 msgid ""
 "With a little touch a war machine comes crashing down to a halt. For a "
 "while. The radio network is a wonderful invention for the people who like to "
@@ -170,11 +170,11 @@ msgstr ""
 "Weilchen. Das Funknetzwerk ist eine wunderbare Erfindung für Leute, die eine "
 "Menge Zeugs auf einmal in die Luft jagen wollen."
 
-#: freedroid.program_archetypes:153
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:153
 msgid "Virus"
 msgstr "Virus"
 
-#: freedroid.program_archetypes:154
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:154
 msgid ""
 "This is not just a firmware upgrade, my dear bot. You are about to find out "
 "what exactly I want to give you."
@@ -182,11 +182,11 @@ msgstr ""
 "Das ist kein einfaches Firmware-Update, mein lieber Freund des Bleches. Du "
 "wirst gleich herausfinden, was genau ich dir zu geben habe..."
 
-#: freedroid.program_archetypes:168
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:168
 msgid "Broadcast virus"
 msgstr "Übertrage Virus"
 
-#: freedroid.program_archetypes:169
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:169
 msgid ""
 "The network is wide and dangerous. Many traps await for the weak and "
 "unprepared."
@@ -194,11 +194,11 @@ msgstr ""
 "Das Netzwerk ist groß und gefährlich. Viele Fallen warten dort auf die "
 "Schwachen und Unvorbereiteten."
 
-#: freedroid.program_archetypes:184
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:184
 msgid "Dispel smoke"
 msgstr "Rauch auflösen"
 
-#: freedroid.program_archetypes:185
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:185
 msgid ""
 "By heating up the chips with a malformed program you can cause them to "
 "release the magic smoke which keeps the bot running. "
@@ -206,11 +206,11 @@ msgstr ""
 "Indem man die Chips mit einem Schadprogramm erhitzt, kann man ihnen jenen "
 "magischen Rauch entlocken, der die Robots am Laufen hält."
 
-#: freedroid.program_archetypes:197
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:197
 msgid "Killer poke"
 msgstr "Todes-Schubser"
 
-#: freedroid.program_archetypes:198
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:198
 msgid ""
 "Messing around with the bot's memory can cause it to severly damage itself, "
 "but the damage is greatly variable."
@@ -218,11 +218,11 @@ msgstr ""
 "Beim Manipulieren des Speichers eines Robots kann man ihm Schaden zufügen, "
 "welcher allerdings sehr stark variierbar ist."
 
-#: freedroid.program_archetypes:211
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:211
 msgid "Plasma discharge"
 msgstr "Plasmaentladung"
 
-#: freedroid.program_archetypes:212
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:212
 msgid ""
 "The overload setting exists for emergencies. The plasma does not "
 "discriminate between bots and humans. Everything is equal to it, even Tux."
@@ -230,11 +230,11 @@ msgstr ""
 "Die Überladungsfunktion existiert für Notfälle. Das Plasma unterscheidet "
 "nicht zwischen Mensch und Maschine. Es behandelt alle gleich, auch Tux."
 
-#: freedroid.program_archetypes:227
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:227
 msgid "Nethack"
 msgstr "Nethack"
 
-#: freedroid.program_archetypes:228
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:228
 msgid ""
 "The open source game called Nethack is one of the world's greatest wasters "
 "of time. Machines don't care about it, but humans can get sucked in quite "
@@ -244,11 +244,11 @@ msgstr ""
 "Zeitverschwendungen überhaupt. Die Maschinen kümmert es nicht, aber Menschen "
 "können davon ziemlich heftig absorbiert werden."
 
-#: freedroid.program_archetypes:246
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:246
 msgid "Extract bot parts"
 msgstr "Roboter ausschlachten"
 
-#: freedroid.program_archetypes:247
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:247
 msgid ""
 "With a little knowledge, you can extract some useful parts out of the robots "
 "you kill. With each bot there is some hope of a part falling out. This skill "
@@ -259,11 +259,11 @@ msgstr ""
 "Baugruppe zu erbeuten. Diese Fähigkeit ist auch aktiv, wenn sie nicht "
 "ausgewählt ist."
 
-#: freedroid.program_archetypes:255
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:255
 msgid "Reverse-engineer"
 msgstr "Reverse-Engineer"
 
-#: freedroid.program_archetypes:256
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:256
 msgid ""
 "There is some dark magic in the art of turning devices or programs inside-"
 "out, picking them appart to learn all their secrets and putting them back "
@@ -273,11 +273,11 @@ msgstr ""
 "innen nach außen umzukrempeln, sie auseinanderzupflücken, um ihnen alle "
 "Geheimnisse zu entreißen und sie wieder zusammenzusetzen."
 
-#: freedroid.program_archetypes:267
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:267
 msgid "Ricer CFLAGS"
 msgstr "Ricer CFLAGS"
 
-#: freedroid.program_archetypes:268
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:268
 msgid ""
 "Optimization is the root of all evil. You can gain some temporary speed "
 "improvements to your system, but in the end you will likely overheat and "
@@ -288,21 +288,21 @@ msgstr ""
 "von Überhitzung und dauerhaften Schäden sehr groß, wenn man keine Vorsicht "
 "walten lässt."
 
-#: freedroid.program_archetypes:276
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:276
 msgid "Light"
 msgstr "Licht"
 
-#: freedroid.program_archetypes:277
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:277
 msgid ""
 "This does nothing in this version of freedroidRPG. Let there be light..."
 msgstr ""
 "Das bewirkt nichts in dieser Version von freedroidRPG. Es werde Licht ..."
 
-#: freedroid.program_archetypes:286
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:286
 msgid "Satellite image"
 msgstr "Satellitenbild"
 
-#: freedroid.program_archetypes:287
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:287
 msgid ""
 "This does nothing in this version of freedroidRPG. Getting a map of an area "
 "is pretty easy when you can look at everything from above."
@@ -310,12 +310,13 @@ msgstr ""
 "Das bewirkt nichts in dieser Version von freedroidRPG. Die Karte von einer "
 "Gegend zu erhalten ist ziemlich einfach, wenn man alles von oben sehen kann."
 
-#: freedroid.program_archetypes:295
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:295
 msgid "Plasma grenade"
 msgstr "Plasmagranate"
 
-#: freedroid.program_archetypes:296 freedroid.program_archetypes:306
-#: freedroid.program_archetypes:316
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:296
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:306
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:316
 msgid ""
 "This is a bug, report this to the developers, unless you cheated, in which "
 "case you deserve to see this stupid description."
@@ -324,11 +325,11 @@ msgstr ""
 "Sie haben gemogelt. In dem Fall verdienen Sie es natürlich, diese nervende "
 "Nachricht zu sehen,"
 
-#: freedroid.program_archetypes:305
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:305
 msgid "Gas grenade"
 msgstr "Gasgranate"
 
-#: freedroid.program_archetypes:315
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:315
 msgid "EMP grenade"
 msgstr "EMP-Granate"
 

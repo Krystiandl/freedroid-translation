@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_data\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 08:16+0000\n"
+"POT-Creation-Date: 2010-04-09 13:05+0000\n"
 "PO-Revision-Date: 2008-09-26 18:23+0200\n"
 "Last-Translator: \n"
 "Language-Team:  <en@li.org>\n"
@@ -13,13 +13,13 @@ msgstr ""
 "X-Launchpad-Export-Date: 2008-09-14 12:32+0000\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: freedroid.droid_archetypes:99
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:99
 msgid ""
 "A simple rubbish diposal robot. Common device in most space craft to "
 "maintain a clean ship."
 msgstr ""
 
-#: freedroid.droid_archetypes:132
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:132
 #, fuzzy
 msgid ""
 "Created by Dr. Masternak to clean up large heaps of rubbish. Its large scoop "
@@ -29,23 +29,24 @@ msgstr ""
 "Sa large écope est utilisée pour collecter les ordures. Elles sont ensuite "
 "compressées à l'intérieur."
 
-#: freedroid.droid_archetypes:164
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:164
 #, fuzzy
 msgid ""
 "A light duty servant robot. One of the first to use the anti-grav system."
 msgstr ""
 "Un robot serviteur. Un des premiers à utiliser le système anti-gravité."
 
-#: freedroid.droid_archetypes:196
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:196
 #, fuzzy
 msgid "Cheaper version of the anti-grav servant robot."
 msgstr "La version la moins chère du robot serviteur anti-grav."
 
-#: freedroid.droid_archetypes:228 freedroid.droid_archetypes:1124
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:228
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:1124
 msgid "Run away! This bot will kill you!"
 msgstr "Fuyez ! Ce robot va vous tuer"
 
-#: freedroid.droid_archetypes:261
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:261
 #, fuzzy
 msgid ""
 "Common device for moving small packages. Clamp is mounted on the lower body."
@@ -53,21 +54,21 @@ msgstr ""
 "Appareil standard pour le transport de petits paquets. La fixation se trouve "
 "sur le bas du corps."
 
-#: freedroid.droid_archetypes:294
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:294
 #, fuzzy
 msgid "Early type messenger robot. Large wheels impede motion on small craft."
 msgstr ""
 "Un des premiers robots de type messager. Il a des larges roues qui l'empêche "
 "d'être trop secoué."
 
-#: freedroid.droid_archetypes:326
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:326
 #, fuzzy
 msgid "A slow maintenance robot. Confined to drive maintenance during flight."
 msgstr ""
 "Robot lent de maintenance. Il est exclusivement destiné à la maintenance "
 "pendant le vol."
 
-#: freedroid.droid_archetypes:358
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:358
 #, fuzzy
 msgid ""
 "Ship maintenance robot. Fitted with multiple arms to carry out repairs to "
@@ -78,14 +79,14 @@ msgstr ""
 "efficacement les réparations du vaisseau. Toutes les carlingues construites "
 "après l'incident Jupiter sont fournies avec une équipe de tels robots."
 
-#: freedroid.droid_archetypes:390
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:390
 #, fuzzy
 msgid "Slave maintenance droid. Standard version will carry its own toolbox."
 msgstr ""
 "Esclave de maintenance de droïde. La version standard fera attention à sa "
 "boîte à outil."
 
-#: freedroid.droid_archetypes:422
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:422
 #, fuzzy
 msgid ""
 "Early crew droid. Able to carry out simple flight checks only. No longer "
@@ -94,12 +95,12 @@ msgstr ""
 "Un des premiers droïdes d'équipages. Il est seulement capable d'effectuer "
 "les vérifications de base. Son autonomie est réduite."
 
-#: freedroid.droid_archetypes:454
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:454
 #, fuzzy
 msgid "A standard crew droid. Supplied with the ship."
 msgstr "Droïde standard d'équipage. Fourni avec le vaisseau."
 
-#: freedroid.droid_archetypes:486
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:486
 #, fuzzy
 msgid ""
 "A highly sophisticated device. Able to control the Robo-Freighter on its own."
@@ -107,7 +108,7 @@ msgstr ""
 "Un périphérique hautement sophistiqué. Capable de contrôler seul le Robo-"
 "Freighter."
 
-#: freedroid.droid_archetypes:518
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:518
 #, fuzzy
 msgid ""
 "A low security sentinel droid. Used to protect areas of the ship from "
@@ -116,7 +117,7 @@ msgstr ""
 "Droïde sentinelle de basse sécurité. Utilisé pour protéger des zones du "
 "vaisseau des intrus. Lent, mais sûr."
 
-#: freedroid.droid_archetypes:550
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:550
 #, fuzzy
 msgid ""
 "Sophisticated sentinel droid. Only 2000 built by the Nicholson Company. "
@@ -125,7 +126,7 @@ msgstr ""
 "Droïde sentinelle sophistiqué. Seulement 2000 exemplaires ont été construits "
 "par la Nicholson Company. Ils sont maintenant très rares."
 
-#: freedroid.droid_archetypes:582
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:582
 #, fuzzy
 msgid ""
 "A low sentinel droid. Lasers are built into the turret. These are mounted on "
@@ -135,7 +136,7 @@ msgstr ""
 "Ils sont montés sur la partie principale d'un petit char. Ils peuvnet être "
 "assemblés avec un canon automatique sur la version Gillen."
 
-#: freedroid.droid_archetypes:614
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:614
 #, fuzzy
 msgid ""
 "A heavy duty battle droid. Disruptor is built into the head. One of the "
@@ -144,12 +145,12 @@ msgstr ""
 "Droïde de combat lourd. Un disrupteur est intégré dans la tête. Un des "
 "premiers en service avec l'armée."
 
-#: freedroid.droid_archetypes:645
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:645
 #, fuzzy
 msgid "This version is the one mainly used by the military."
 msgstr "Cette version est celle principalement utilisée par les militaires."
 
-#: freedroid.droid_archetypes:677
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:677
 #, fuzzy
 msgid ""
 "A very heavy duty battle droid. Only a few have so far entered service. "
@@ -158,7 +159,7 @@ msgstr ""
 "Droïde de combat très lourd. Seuls quelques-uns ont été mis en service. Ce "
 "sont les unités combattantes les plus puissantes jamais construites."
 
-#: freedroid.droid_archetypes:709
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:709
 #, fuzzy
 msgid ""
 "A very reliable anti-grav unit is fitted into this droid. It will patrol the "
@@ -168,7 +169,7 @@ msgstr ""
 "patrouillera le vaisseau et éliminera les intrus aussitôt qu'ils seront "
 "décelés par de puissants capteurs."
 
-#: freedroid.droid_archetypes:740
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:740
 #, fuzzy
 msgid ""
 "Early type anti-grav security droid. Fitted with an over-driven anti-grav "
@@ -177,7 +178,7 @@ msgstr ""
 "Le premier modèle de droïde anti-gravité. Equipé d'unités anti-gravité et "
 "d'accélérateur intégrés. Ce droïde est très rapide, mais pas très fiable."
 
-#: freedroid.droid_archetypes:772
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:772
 #, fuzzy
 msgid ""
 "This droid was designed from archive data. For some unknown reason it "
@@ -186,7 +187,7 @@ msgstr ""
 "Ce droïde a été conçu pour l'archivage de données. Pour quelque raison "
 "inconnue, il inculque une grande peur à ses adversaires humains."
 
-#: freedroid.droid_archetypes:806
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:806
 #, fuzzy
 msgid ""
 "Experimental command cyborg. Fitted with a new type of brain. Mounted on a "
@@ -198,7 +199,7 @@ msgstr ""
 "Attention : Des appareils de contrôle ne peuvent pas contrôler un cerveau de "
 "ce type pendant longtemps."
 
-#: freedroid.droid_archetypes:835
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:835
 msgid ""
 "This is a typical professor/sage character of some older age.  They are not "
 "armed as powerfully as e.g. the red guards."
@@ -206,7 +207,7 @@ msgstr ""
 "C'est un personnage comme un professeur/sage d'un âge respectable. Ils ne "
 "sont pas armés aussi puissamment que les gardes rouges, par exemple."
 
-#: freedroid.droid_archetypes:864
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:864
 msgid ""
 "This is a typical red (male) guard/fighter character.  They are equipped "
 "with powerful PowerExterminators."
@@ -214,11 +215,11 @@ msgstr ""
 "C'est un personnage comme un garde rouge/combattant. Ils sont équipés avec "
 "de puissants PowerExterminateurs."
 
-#: freedroid.droid_archetypes:893
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:893
 msgid "This is the hot_mama shopkeeper character model."
 msgstr "C'est le modèle de personnage hot_mama qui est tenancier de magasin."
 
-#: freedroid.droid_archetypes:922
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:922
 msgid ""
 "This is the female scientist character model.  They are not armed as "
 "powerfully as e.g. the red guards."
@@ -226,7 +227,7 @@ msgstr ""
 "C'est le modèle de personnage de scientifique femme. Elles ne sont pas aussi "
 "bien armées que les gardes rouges."
 
-#: freedroid.droid_archetypes:951
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:951
 msgid ""
 "This is the brown worker model.  They are not armed as powerfully as e.g. "
 "the red guards."
@@ -234,15 +235,15 @@ msgstr ""
 "C'est le modèle travailleur marron. Ils ne sont pas armés aussi puissamment "
 "que les gardes rouges."
 
-#: freedroid.droid_archetypes:980
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:980
 msgid "This is a useless comment. Thanks for your attention."
 msgstr "Ceci est un commentaire inutile. Merci de votre attention."
 
-#: freedroid.droid_archetypes:1009
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:1009
 msgid "This is the cook."
 msgstr "C'est le cuisinier."
 
-#: freedroid.droid_archetypes:1039
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:1039
 #, fuzzy
 msgid ""
 "This is a typical professor/sage character of some older age. They are not "
@@ -251,11 +252,11 @@ msgstr ""
 "C'est un personnage comme un professeur/sage d'un âge respectable. Ils ne "
 "sont pas armés aussi puissamment que les gardes rouges, par exemple."
 
-#: freedroid.droid_archetypes:1068
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:1068
 msgid "This is a typical sex bomb.  This one is even armed."
 msgstr "C'est une bombe sexuelle typiqye. Elle est même armée."
 
-#: freedroid.droid_archetypes:1097
+#: /home/david/src/freedroid-translation/map/freedroid.droid_archetypes:1097
 msgid "This is the bartender."
 msgstr "C'est le barman."
 

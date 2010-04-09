@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidRPG 0.10.4cvs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 08:16+0000\n"
+"POT-Creation-Date: 2010-04-09 13:06+0000\n"
 "PO-Revision-Date: 2009-01-01 21:28+0000\n"
 "Last-Translator: Alex Mr.Brightside Demurine <extrimall90@mail.ru>\n"
 "Language-Team: Russian\n"
@@ -12,199 +12,200 @@ msgstr ""
 "X-Launchpad-Export-Date: 2009-01-11 17:40+0000\n"
 "X-Generator: Launchpad (build Unknown)\n"
 
-#: freedroid.prefix_archetypes:10 freedroid.prefix_archetypes:37
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:10
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:37
 msgid "I am a big bad bug in the game. Report me. Please. "
 msgstr "Я большой баг в этой игре. Расскажие обо мне. Пожааалуйста... "
 
-#: freedroid.prefix_archetypes:64
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:64
 msgid "Living "
 msgstr "Покидаю "
 
-#: freedroid.prefix_archetypes:91
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:91
 msgid " coated in teflon"
 msgstr " покрытый тефлоном"
 
-#: freedroid.prefix_archetypes:118
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:118
 msgid " of Almost Zodiac"
 msgstr ""
 
-#: freedroid.prefix_archetypes:145
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:145
 msgid "Resonant "
 msgstr "Резонирующий "
 
-#: freedroid.prefix_archetypes:172
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:172
 msgid "Cow "
 msgstr "Корова "
 
-#: freedroid.prefix_archetypes:200
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:200
 msgid "Bull "
 msgstr "Бык "
 
-#: freedroid.prefix_archetypes:227
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:227
 msgid "Mouse "
 msgstr "Мышь "
 
-#: freedroid.prefix_archetypes:254
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:254
 msgid "Jackdaw "
 msgstr "Галка "
 
-#: freedroid.prefix_archetypes:281
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:281
 msgid "Hardcoded "
 msgstr ""
 
-#: freedroid.prefix_archetypes:308
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:308
 msgid "Melting "
 msgstr "Плавка "
 
-#: freedroid.prefix_archetypes:335
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:335
 msgid "Cursed "
 msgstr "Проклятый "
 
-#: freedroid.prefix_archetypes:362
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:362
 msgid "Perfect "
 msgstr "Отличный "
 
-#: freedroid.prefix_archetypes:388
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:388
 msgid "Quartz "
 msgstr "Кварц "
 
-#: freedroid.prefix_archetypes:415
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:415
 msgid "First aid "
 msgstr "Первая помощь "
 
-#: freedroid.prefix_archetypes:442
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:442
 msgid "Razor sharp "
 msgstr "Острая бритва "
 
-#: freedroid.prefix_archetypes:469
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:469
 msgid "Light "
 msgstr "Свет "
 
-#: freedroid.prefix_archetypes:496
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:496
 msgid "Beautiful "
 msgstr "Прекрасный "
 
-#: freedroid.prefix_archetypes:523
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:523
 msgid "Howling "
 msgstr "Воющий "
 
-#: freedroid.prefix_archetypes:550
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:550
 msgid "Accelerating "
 msgstr "Ускоренный "
 
-#: freedroid.prefix_archetypes:577
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:577
 msgid "Colorful "
 msgstr "Яркий "
 
-#: freedroid.prefix_archetypes:604
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:604
 msgid "Rainbow "
 msgstr "Радуга "
 
-#: freedroid.prefix_archetypes:631
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:631
 msgid "Suicide "
 msgstr "Самоубийство "
 
-#: freedroid.prefix_archetypes:658
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:658
 msgid "Broken "
 msgstr "Сломанный "
 
-#: freedroid.prefix_archetypes:685
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:685
 msgid "Fluorescent "
 msgstr "Флуоресцентный "
 
-#: freedroid.prefix_archetypes:712
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:712
 msgid "Luminescent "
 msgstr "Люминесцентный "
 
-#: freedroid.prefix_archetypes:739
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:739
 msgid "Blazing "
 msgstr "Пылающий "
 
-#: freedroid.prefix_archetypes:766
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:766
 msgid "Hungry "
 msgstr "Голодный "
 
-#: freedroid.prefix_archetypes:793
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:793
 msgid "Devouring "
 msgstr "Жрать "
 
-#: freedroid.prefix_archetypes:820
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:820
 msgid "Ravenous "
 msgstr "Алчный "
 
-#: freedroid.prefix_archetypes:847
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:847
 msgid "OMGWTF "
 msgstr "БЛЯ "
 
-#: freedroid.prefix_archetypes:874
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:874
 msgid " of good design"
 msgstr " из хорошего проекта"
 
-#: freedroid.prefix_archetypes:897
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:897
 msgid " (C)MegaSys"
 msgstr " (C)MegaSys"
 
-#: freedroid.prefix_archetypes:921
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:921
 msgid " with no suffix"
 msgstr " без суффиксов"
 
-#: freedroid.prefix_archetypes:944
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:944
 msgid " with sharp edges"
 msgstr " с острыми краями"
 
-#: freedroid.prefix_archetypes:969
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:969
 msgid " covered in blood"
 msgstr " покрыто кровью"
 
-#: freedroid.prefix_archetypes:992
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:992
 msgid " covered in oil"
 msgstr " покрыто нефтью"
 
-#: freedroid.prefix_archetypes:1015
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1015
 msgid ", 'the Murderer'"
 msgstr ", 'Убийца'"
 
-#: freedroid.prefix_archetypes:1038
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1038
 msgid ", 'the Healer'"
 msgstr ", 'Целитель'"
 
-#: freedroid.prefix_archetypes:1061
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1061
 msgid ", 'the Rabbit'"
 msgstr ", 'Кролик'"
 
-#: freedroid.prefix_archetypes:1084
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1084
 msgid ", 'the Seeker'"
 msgstr ", 'Искатель'"
 
-#: freedroid.prefix_archetypes:1107
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1107
 msgid ", 'the World'"
 msgstr ", 'Мир'"
 
-#: freedroid.prefix_archetypes:1130
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1130
 msgid " from hell"
 msgstr " из ада"
 
-#: freedroid.prefix_archetypes:1153
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1153
 msgid " with strange runes"
 msgstr " с странными рунами"
 
-#: freedroid.prefix_archetypes:1176
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1176
 msgid " with a curse"
 msgstr " проклятый"
 
-#: freedroid.prefix_archetypes:1199
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1199
 msgid "Cool "
 msgstr "Холодный "
 
-#: freedroid.prefix_archetypes:1222
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1222
 msgid "Frozen "
 msgstr "Замороженый "
 
-#: freedroid.prefix_archetypes:1245
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1245
 msgid " of ice"
 msgstr " льда"
 
-#: freedroid.prefix_archetypes:1268
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1268
 msgid " of chills"
 msgstr " озноба"
 

@@ -2,509 +2,509 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 08:16+0000\n"
-"PO-Revision-Date: 2010-04-09 08:16+0000\n"
+"POT-Creation-Date: 2010-04-09 13:07+0000\n"
+"PO-Revision-Date: 2010-04-09 13:07+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-15\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./Ewald.dialog:44
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:44
 msgid "Hi. You look really happy."
 msgstr ""
 
-#: ./Ewald.dialog:46
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:46
 msgid "Hey! I'm Ewald. I'm a bartender."
 msgstr ""
 
-#: ./Ewald.dialog:47
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:47
 msgid "I used to do a lot of drugs, and I destroyed my brain."
 msgstr ""
 
-#: ./Ewald.dialog:48
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:48
 msgid "I'm not too smart now, but I'm very happy all the time!"
 msgstr ""
 
-#: ./Ewald.dialog:49
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:49
 msgid "Want something to drink?"
 msgstr ""
 
-#: ./Ewald.dialog:54
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:54
 msgid "How is your business doing?"
 msgstr ""
 
-#: ./Ewald.dialog:56
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:56
 msgid "Nah, No darn good at all."
 msgstr ""
 
-#: ./Ewald.dialog:57
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:57
 msgid ""
 "The bots ruined it for me. Now the supplies are very low and I had to make the"
 " prices high."
 msgstr ""
 
-#: ./Ewald.dialog:58
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:58
 msgid ""
 "No one wants to pay 499 circs for bottom shelf swill that even Bender would no"
 "t drink..."
 msgstr ""
 
-#: ./Ewald.dialog:59
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:59
 msgid ""
 "The tax is quite brutal as well. And the Red Guard always demands discounts to"
 "o."
 msgstr ""
 
-#: ./Ewald.dialog:60
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:60
 msgid "Life is tough. I am still happy though."
 msgstr ""
 
-#: ./Ewald.dialog:65
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:65
 msgid "Are you selling something other than drinks?"
 msgstr ""
 
-#: ./Ewald.dialog:67
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:67
 msgid "Yeah, I have some junk here... Want to see?"
 msgstr ""
 
-#: ./Ewald.dialog:72
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:72
 msgid "I could use a drink. What is there to be had?"
 msgstr ""
 
-#: ./Ewald.dialog:74
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:74
 msgid "Well... We are a bit short on supplies right now... Erm... AH! I know!"
 msgstr ""
 
-#: ./Ewald.dialog:75
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:75
 msgid "I have WATER!"
 msgstr ""
 
-#: ./Ewald.dialog:77
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:77
 msgid "But you'll need a mug for me to put it in."
 msgstr ""
 
-#: ./Ewald.dialog:85
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:85
 msgid "I want double water on the rocks. Stirred, not shaken."
 msgstr ""
 
-#: ./Ewald.dialog:87
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:87
 msgid ""
 "Here you go. That one is on the house. And if the water is not enough, just as"
 "k me for more."
 msgstr ""
 
-#: ./Ewald.dialog:92
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:92
 msgid "Long Island iced water please."
 msgstr ""
 
-#: ./Ewald.dialog:94
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:94
 msgid "Here you go."
 msgstr ""
 
-#: ./Ewald.dialog:99
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:99
 msgid "I want something cheap... Give me some fortified water."
 msgstr ""
 
-#: ./Ewald.dialog:101
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:101
 msgid "Eh... Sure, as you wish. Here you go."
 msgstr ""
 
-#: ./Ewald.dialog:106
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:106
 msgid "Ugh... Ahh... I like it. Give me some more of that."
 msgstr ""
 
-#: ./Ewald.dialog:108
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:108
 msgid "Uh... Sure..."
 msgstr ""
 
-#: ./Ewald.dialog:114
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:114
 msgid "Ahh... Fresh water! Give me some more of that."
 msgstr ""
 
-#: ./Ewald.dialog:116
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:116
 msgid "Yeah, I thought you would like it. Here is more."
 msgstr ""
 
-#: ./Ewald.dialog:122
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:122
 msgid "Hmm... Lots of ice. Give me one more double water, but now without any ice."
 msgstr ""
 
-#: ./Ewald.dialog:124
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:124
 msgid "One double water coming up."
 msgstr ""
 
-#: ./Ewald.dialog:130
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:130
 msgid "MORE! I want more water!"
 msgstr ""
 
-#: ./Ewald.dialog:132
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:132
 msgid "Erm... Ok... Here, have some of my special, water colada."
 msgstr ""
 
-#: ./Ewald.dialog:138
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:138
 msgid "I am really thirsty! I want water."
 msgstr ""
 
-#: ./Ewald.dialog:140
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:140
 msgid "Well, you drank all my water, so you cannot have any more. There is none left."
 msgstr ""
 
-#: ./Ewald.dialog:141
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:141
 msgid "I heard Linarians can drink a lot of water, but seven liters..."
 msgstr ""
 
-#: ./Ewald.dialog:146
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:146
 msgid "MORE! MORE! MORE! I WANT MORE WATER. NOW!"
 msgstr ""
 
-#: ./Ewald.dialog:148
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:148
 msgid ""
 "Eh... I think you've had enough... Maybe you should just go for a walk for now"
 "?"
 msgstr ""
 
-#: ./Ewald.dialog:149
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:149
 msgid "You have had everything that I had."
 msgstr ""
 
-#: ./Ewald.dialog:155
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:155
 msgid "Any idea where I can find some entertainment here?"
 msgstr ""
 
-#: ./Ewald.dialog:157
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:157
 msgid "Well... Erm... No."
 msgstr ""
 
-#: ./Ewald.dialog:158
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:158
 msgid "What the bots did not smash, the Red Guard taxed."
 msgstr ""
 
-#: ./Ewald.dialog:159
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:159
 msgid "Fun is kinda dead right now."
 msgstr ""
 
-#: ./Ewald.dialog:160
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:160
 msgid ""
 "Well, unless you are in the Red Guard itself, of course. They have those big g"
 "uns that can destroy a dozen bots with one shot..."
 msgstr ""
 
-#: ./Ewald.dialog:161
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:161
 msgid "Now THAT'S fun, if you ask me."
 msgstr ""
 
-#: ./Ewald.dialog:163
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:163
 msgid ""
 "If you are really board, you can try gambling with me.  But the Red Guard taxe"
 "s it."
 msgstr ""
 
-#: ./Ewald.dialog:168
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:168
 msgid "Hey, I could use a refreshing drink!"
 msgstr ""
 
-#: ./Ewald.dialog:170
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:170
 msgid "Here, have a watery mary."
 msgstr ""
 
-#: ./Ewald.dialog:176
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:176
 msgid "Sure, I'll gamble with you.  What do you play?"
 msgstr ""
 
-#: ./Ewald.dialog:179
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:179
 msgid "I play a dice game and a coin-flipping game."
 msgstr ""
 
-#: ./Ewald.dialog:191
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:191
 msgid "You should come back when you have more to gamble with."
 msgstr ""
 
-#: ./Ewald.dialog:197
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:197
 msgid "Tell me the rules for your 'dice game'."
 msgstr ""
 
-#: ./Ewald.dialog:199
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:199
 msgid "It is simple. We both get three six sided dice."
 msgstr ""
 
-#: ./Ewald.dialog:200
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:200
 msgid "You bet. Then you throw one die."
 msgstr ""
 
-#: ./Ewald.dialog:201
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:201
 msgid "Then you decide on a betting multiplier, up to 3x."
 msgstr ""
 
-#: ./Ewald.dialog:202
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:202
 msgid ""
 "Then you throw two dice and I throw three dice. If sum of your three dice are "
 "better than my three dice, you win twice your bet, minus a tax for the Red Gua"
 "rd."
 msgstr ""
 
-#: ./Ewald.dialog:203
-#: ./Ewald.dialog:224
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:203
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:224
 msgid ""
 "Remember: the odds are slightly against you, so don't gamble anything you can'"
 "t afford to lose."
 msgstr ""
 
-#: ./Ewald.dialog:210
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:210
 msgid "Tell me the rules for your 'coin-flip game'."
 msgstr ""
 
-#: ./Ewald.dialog:212
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:212
 msgid "It is simple. Five coin flips."
 msgstr ""
 
-#: ./Ewald.dialog:213
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:213
 msgid "You bet. Then you tell me if I will flip more 'heads' or 'tails'."
 msgstr ""
 
-#: ./Ewald.dialog:214
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:214
 msgid "I flip one coin."
 msgstr ""
 
-#: ./Ewald.dialog:215
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:215
 msgid ""
 "Then you tell me if there will be an 'odd' or 'even' number of flips for what "
 "you chose."
 msgstr ""
 
-#: ./Ewald.dialog:217
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:217
 msgid ""
 "I flip the other four coins. If you were completely right, I give you three ti"
 "mes what your bet, if wrong, you get nothing."
 msgstr ""
 
-#: ./Ewald.dialog:219
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:219
 msgid ""
 "I flip the other four coins. If you were completely right, I give you twice wh"
 "at your bet, if completely wrong, you get 3/4 of your bet back."
 msgstr ""
 
-#: ./Ewald.dialog:221
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:221
 msgid ""
 "I flip the other four coins. If you were completely right, I give you twice wh"
 "at your bet, if completely wrong, you get half of your bet back."
 msgstr ""
 
-#: ./Ewald.dialog:223
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:223
 msgid "But if you are only partially wrong... well, then you get nothing."
 msgstr ""
 
-#: ./Ewald.dialog:235
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:235
 msgid "How about a bet of 10 circuits"
 msgstr ""
 
-#: ./Ewald.dialog:261
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:261
 msgid "Name your game."
 msgstr ""
 
-#: ./Ewald.dialog:282
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:282
 msgid "Dice it is. Roll your first die."
 msgstr ""
 
-#: ./Ewald.dialog:284
-#: ./Ewald.dialog:314
-#: ./Ewald.dialog:318
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:284
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:314
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:318
 msgid "I rolled a "
 msgstr ""
 
-#: ./Ewald.dialog:285
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:285
 msgid "What multiplier are you going to bet?"
 msgstr ""
 
-#: ./Ewald.dialog:310
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:310
 msgid "You've bet "
 msgstr ""
 
-#: ./Ewald.dialog:312
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:312
 msgid "My first roll is a "
 msgstr ""
 
-#: ./Ewald.dialog:316
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:316
 msgid "My second roll is a "
 msgstr ""
 
-#: ./Ewald.dialog:320
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:320
 msgid "My third roll is a "
 msgstr ""
 
-#: ./Ewald.dialog:322
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:322
 msgid "It looks like I scored "
 msgstr ""
 
-#: ./Ewald.dialog:325
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:325
 msgid "You won! Good job."
 msgstr ""
 
-#: ./Ewald.dialog:336
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:336
 msgid "You lost. Bad luck."
 msgstr ""
 
-#: ./Ewald.dialog:347
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:347
 msgid "Coin flipping it is."
 msgstr ""
 
-#: ./Ewald.dialog:348
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:348
 msgid "So.  What do you think?  Heads or tails?"
 msgstr ""
 
-#: ./Ewald.dialog:355
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:355
 msgid "Heads, eh? I always like heads."
 msgstr ""
 
-#: ./Ewald.dialog:363
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:363
 msgid "Tails? Fits, since you've got one."
 msgstr ""
 
-#: ./Ewald.dialog:371
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:371
 msgid "Here goes nothing."
 msgstr ""
 
-#: ./Ewald.dialog:374
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:374
 msgid "Looks like it is 'tails'."
 msgstr ""
 
-#: ./Ewald.dialog:376
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:376
 msgid "Looks like it is 'heads'."
 msgstr ""
 
-#: ./Ewald.dialog:379
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:379
 msgid "So do you think there will be an even or odd number of 'tails' flips?"
 msgstr ""
 
-#: ./Ewald.dialog:381
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:381
 msgid "So do you think there will be an even or odd number of 'heads' flips?"
 msgstr ""
 
-#: ./Ewald.dialog:392
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:392
 msgid "Even, eh? I always like even. It is so symmetric."
 msgstr ""
 
-#: ./Ewald.dialog:394
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:394
 msgid "Even? Sometimes I pick even... when I don't pick odd."
 msgstr ""
 
-#: ./Ewald.dialog:396
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:396
 msgid "When I think too much about it, I end up picking even."
 msgstr ""
 
-#: ./Ewald.dialog:399
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:399
 msgid "Hoping to guess them all wrong, eh?"
 msgstr ""
 
-#: ./Ewald.dialog:401
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:401
 msgid "Bucking the statistics. I like that."
 msgstr ""
 
-#: ./Ewald.dialog:404
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:404
 msgid "I think I would have picked even this time."
 msgstr ""
 
-#: ./Ewald.dialog:415
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:415
 msgid "Odd? Fits, since you're pretty odd yourself."
 msgstr ""
 
-#: ./Ewald.dialog:417
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:417
 msgid "Odd? Well that is odd... I was thinking of odd."
 msgstr ""
 
-#: ./Ewald.dialog:419
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:419
 msgid "Odd. When I don't pick even, I always pick odd too."
 msgstr ""
 
-#: ./Ewald.dialog:422
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:422
 msgid "Honing up on your math, eh?"
 msgstr ""
 
-#: ./Ewald.dialog:424
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:424
 msgid "Betting against the game. I like that."
 msgstr ""
 
-#: ./Ewald.dialog:427
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:427
 msgid "I think I would have picked odd this time."
 msgstr ""
 
-#: ./Ewald.dialog:435
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:435
 msgid "The last four coin flips:"
 msgstr ""
 
-#: ./Ewald.dialog:438
-#: ./Ewald.dialog:444
-#: ./Ewald.dialog:450
-#: ./Ewald.dialog:457
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:438
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:444
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:450
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:457
 msgid "Tails."
 msgstr ""
 
-#: ./Ewald.dialog:440
-#: ./Ewald.dialog:446
-#: ./Ewald.dialog:452
-#: ./Ewald.dialog:459
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:440
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:446
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:452
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:459
 msgid "Heads."
 msgstr ""
 
-#: ./Ewald.dialog:454
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:454
 msgid "Last flip. I hope it is the one I want!"
 msgstr ""
 
-#: ./Ewald.dialog:462
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:462
 msgid "Looks like that is "
 msgstr ""
 
-#: ./Ewald.dialog:466
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:466
 msgid "Tails won..."
 msgstr ""
 
-#: ./Ewald.dialog:469
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:469
 msgid "Heads won..."
 msgstr ""
 
-#: ./Ewald.dialog:476
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:476
 msgid "...and there was an even number of tails."
 msgstr ""
 
-#: ./Ewald.dialog:479
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:479
 msgid "...and there was an odd number of heads."
 msgstr ""
 
-#: ./Ewald.dialog:484
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:484
 msgid "...and there was an odd number of tails."
 msgstr ""
 
-#: ./Ewald.dialog:487
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:487
 msgid "...and there was an even number of heads."
 msgstr ""
 
-#: ./Ewald.dialog:494
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:494
 msgid "Looks like another winning combination! Good job!"
 msgstr ""
 
-#: ./Ewald.dialog:502
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:502
 msgid "Looks like you got everything wrong."
 msgstr ""
 
-#: ./Ewald.dialog:505
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:505
 msgid "Looks like you got everything wrong... here is some of your bet back."
 msgstr ""
 
-#: ./Ewald.dialog:515
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:515
 msgid "You lost. You were half right, but half wrong. Pick one and stay with it."
 msgstr ""
 
-#: ./Ewald.dialog:519
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:519
 msgid ""
 "THIS IS AN ERROR! REPORT IT PLEASE! E-MAIL: freedroid-discussion@lists.sourcef"
 "orge.net"
 msgstr ""
 
-#: ./Ewald.dialog:526
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:526
 msgid "See you later."
 msgstr ""
 
-#: ./Ewald.dialog:529
+#: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:529
 msgid "Goodbye and remember: My bar is always open."
 msgstr ""
 

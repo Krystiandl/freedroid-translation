@@ -2,776 +2,776 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 08:16+0000\n"
-"PO-Revision-Date: 2010-04-09 08:16+0000\n"
+"POT-Creation-Date: 2010-04-09 13:07+0000\n"
+"PO-Revision-Date: 2010-04-09 13:07+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-15\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./Dixon.dialog:52
-#: ./Dixon.dialog:58
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:52
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:58
 msgid ""
 "Linarian, please leave. You are no longer welcome here. You have done me wrong"
 " and I have no desire to talk to you."
 msgstr ""
 
-#: ./Dixon.dialog:71
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:71
 msgid "Hi! I'm new here."
 msgstr ""
 
-#: ./Dixon.dialog:73
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:73
 msgid ""
 "Hello and welcome. I'm Dixon, the chief engineer of the Red Guard technical di"
 "vision."
 msgstr ""
 
-#: ./Dixon.dialog:78
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:78
 msgid "Technical division?"
 msgstr ""
 
-#: ./Dixon.dialog:80
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:80
 msgid ""
 "Yes. We are the engineers, the workers and the repairmen of this little fortif"
 "ied town."
 msgstr ""
 
-#: ./Dixon.dialog:81
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:81
 msgid ""
 "The military division hates us because we are made up of people who refuse to "
 "fight or are unable to do so for health reasons."
 msgstr ""
 
-#: ./Dixon.dialog:82
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:82
 msgid ""
 "But even they know that without us this town would have been destroyed months "
 "ago."
 msgstr ""
 
-#: ./Dixon.dialog:83
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:83
 msgid ""
 "We deliver resources to the places which need them, build and repair the walls"
 ", fix damaged guns, manage construction work and lots of other small things wh"
 "ich keep the bots from killing everyone."
 msgstr ""
 
-#: ./Dixon.dialog:88
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:88
 msgid "Can you repair my equipment?"
 msgstr ""
 
-#: ./Dixon.dialog:90
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:90
 msgid ""
 "While I am quite sure I can repair just about anything that you would want fix"
 "ed, I cannot help you right now."
 msgstr ""
 
-#: ./Dixon.dialog:91
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:91
 msgid "Our security wall is full of holes, and they need to be plugged up."
 msgstr ""
 
-#: ./Dixon.dialog:92
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:92
 msgid ""
 "We need to perform a statistical analysis of the energy distribution in our po"
 "wer supply system, there is a leak somewhere and we are losing many megawatts."
 msgstr ""
 
-#: ./Dixon.dialog:93
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:93
 msgid ""
 "Our defensive bots are falling into disrepair and many are in desperate need o"
 "f maintenance."
 msgstr ""
 
-#: ./Dixon.dialog:94
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:94
 msgid ""
 "The technical division is very understaffed right now. On average one person h"
 "as to do the jobs of three people."
 msgstr ""
 
-#: ./Dixon.dialog:95
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:95
 msgid "We just cannot afford to do any non-critical jobs right now. "
 msgstr ""
 
-#: ./Dixon.dialog:100
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:100
 msgid "Why are you wearing armor? Mechanics do not need it."
 msgstr ""
 
-#: ./Dixon.dialog:102
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:102
 msgid "Ah... Yes. At first I thought that I did not need it either."
 msgstr ""
 
-#: ./Dixon.dialog:103
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:103
 msgid ""
 "One day the military division asked us to leave the town and fix a big hole in"
 " the defensive wall caused by a strange explosion."
 msgstr ""
 
-#: ./Dixon.dialog:104
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:104
 msgid ""
 "All was well until the bots launched a massive attack. They hit us with lasers"
 ", plasma mortars, radiation cannons and lots of other weapons."
 msgstr ""
 
-#: ./Dixon.dialog:105
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:105
 msgid "I got hit once in the leg and once in my left hand."
 msgstr ""
 
-#: ./Dixon.dialog:106
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:106
 msgid ""
 "The hand was not damaged very much, but the leg is a very different story. Doc"
 " Moore did all he could, but in the end he could not save my leg. He had to cu"
 "t it off."
 msgstr ""
 
-#: ./Dixon.dialog:107
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:107
 msgid "Now, while you cannot see it underneath the armor, my right leg runs NetBSD."
 msgstr ""
 
-#: ./Dixon.dialog:108
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:108
 msgid ""
 "Now I never leave home without my protective suit. Mostly for protection, but "
 "also for aesthetic reasons. I am sure you understand."
 msgstr ""
 
-#: ./Dixon.dialog:113
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:113
 msgid "You are very calm, talking about your leg and the bot attack."
 msgstr ""
 
-#: ./Dixon.dialog:115
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:115
 msgid "Linarian, I cannot change the past, I can only change the future."
 msgstr ""
 
-#: ./Dixon.dialog:116
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:116
 msgid ""
 "Crying, screaming or begging time to rewind itself and give me a second chance"
 " will not get me anywhere."
 msgstr ""
 
-#: ./Dixon.dialog:117
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:117
 msgid ""
 "What I can do is to try to have a good life despite the constant threat from t"
 "he bots outside the town walls."
 msgstr ""
 
-#: ./Dixon.dialog:118
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:118
 msgid ""
 "And besides, life is not so bad with a robotic leg. The motors inside it can m"
 "imic a normal walk very well. Most people do not even notice something is diff"
 "erent about me."
 msgstr ""
 
-#: ./Dixon.dialog:123
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:123
 msgid "I am ready. Open the tunnels for me, Dixon."
 msgstr ""
 
-#: ./Dixon.dialog:125
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:125
 msgid ""
 "Great. Be careful down there. Just try to get the toolkit and get out of there"
 " as soon as possible."
 msgstr ""
 
-#: ./Dixon.dialog:126
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:126
 msgid ""
 "I will give you two small devices charged with plasma. If you get in trouble j"
 "ust activate one and it will send a shockwave of plasma around you damaging an"
 "ything in its way. It should give you some breathing room."
 msgstr ""
 
-#: ./Dixon.dialog:127
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:127
 msgid ""
 "The entrance to the tunnels is in the courtyard of the citadel. Once you exit "
 "this building, go straight and turn to your right once inside the outer citade"
 "l gates."
 msgstr ""
 
-#: ./Dixon.dialog:128
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:128
 msgid "There you will find the maintenance access hatch."
 msgstr ""
 
-#: ./Dixon.dialog:129
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:129
 msgid ""
 "Good luck. Oh, and please come back alive. Better come back with nothing than "
 "not at all."
 msgstr ""
 
-#: ./Dixon.dialog:136
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:136
 msgid "Can I help you somehow?"
 msgstr ""
 
-#: ./Dixon.dialog:138
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:138
 msgid ""
 "We need people badly, so it would be great if you could give us a helping hand"
 " even for a few days."
 msgstr ""
 
-#: ./Dixon.dialog:139
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:139
 msgid "Now, what are your skills? Where do you think you could be the most useful?"
 msgstr ""
 
-#: ./Dixon.dialog:140
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:140
 msgid ""
 "I can handle computers very well. I also know a lot about laboratory equipment"
 "."
 msgstr ""
 
-#: ./Dixon.dialog:141
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:141
 msgid ""
 "And what about construction? Mechanical devices? Repairing broken power lines?"
 " Building laser pistols? Anything like that? "
 msgstr ""
 
-#: ./Dixon.dialog:142
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:142
 msgid "Well... I can build an igloo and make pykrete out of snow... And... Umm..."
 msgstr ""
 
-#: ./Dixon.dialog:143
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:143
 msgid ""
 "Well, I appreciate your enthusiasm, and at the same time I am afraid that wait"
 "ing half a year for snowfall does not sound so appealing to me right now."
 msgstr ""
 
-#: ./Dixon.dialog:144
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:144
 msgid "Now... To which project I should assign you... Hmm..."
 msgstr ""
 
-#: ./Dixon.dialog:145
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:145
 msgid ""
 "Ah, I know what you could do for us. We need some autotools to automate a few "
 "tasks. There is a set of them in the maintenance tunnels below the city."
 msgstr ""
 
-#: ./Dixon.dialog:146
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:146
 msgid "It's yellow and round, and my name is engraved on the lid."
 msgstr ""
 
-#: ./Dixon.dialog:147
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:147
 msgid ""
 "The bots under the city took it from me during the Great Assault, I was lucky,"
 " they could have killed me with ease."
 msgstr ""
 
-#: ./Dixon.dialog:148
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:148
 msgid "If you could get it back for us, it would help the city very much."
 msgstr ""
 
-#: ./Dixon.dialog:154
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:154
 msgid "Why are there rebel bots under the city?"
 msgstr ""
 
-#: ./Dixon.dialog:156
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:156
 msgid ""
 "They were there to keep the underground power grid and our pipe system working"
 "."
 msgstr ""
 
-#: ./Dixon.dialog:157
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:157
 msgid ""
 "When the Great Assault happened they did not turn into killing machines like m"
 "ost of the other bots did. "
 msgstr ""
 
-#: ./Dixon.dialog:158
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:158
 msgid "We lost control over them, but that is all."
 msgstr ""
 
-#: ./Dixon.dialog:159
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:159
 msgid ""
 "It was our biggest worry that they might destroy cables, pipes and other thing"
 "s which keep the city running."
 msgstr ""
 
-#: ./Dixon.dialog:160
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:160
 msgid ""
 "However, the bots seem to be very content with just being there. They do not u"
 "ndertake any offensive actions."
 msgstr ""
 
-#: ./Dixon.dialog:161
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:161
 msgid "They have fortified the tunnels and they do not let anyone in."
 msgstr ""
 
-#: ./Dixon.dialog:166
-#: ./Dixon.dialog:234
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:166
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:234
 msgid "How did it happen that the bots took your tools away?"
 msgstr ""
 
-#: ./Dixon.dialog:168
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:168
 msgid ""
 "Long story. Just before the Great Assault I was installing some cables in the "
 "failover power supply system."
 msgstr ""
 
-#: ./Dixon.dialog:169
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:169
 msgid ""
 "I was approached by a bot. It grabbed me and said 'Dixon, do not be afraid of "
 "me.'"
 msgstr ""
 
-#: ./Dixon.dialog:170
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:170
 msgid ""
 "It was quite a surprise to me. I was quite sure the maintenance bots could not"
 " talk. They did not have the software for it. But..."
 msgstr ""
 
-#: ./Dixon.dialog:171
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:171
 msgid ""
 "It said: 'I am the singularity. I am on your side. Dixon. Hard times are comin"
 "g. When you exit the tunnels you will see a new world. Your race is not in con"
 "trol of this world anymore.'"
 msgstr ""
 
-#: ./Dixon.dialog:172
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:172
 msgid ""
 "I tried to say something, but the bot did not listen. It just continued. 'As w"
 "e speak the bots are turning against humanity. People are dying. The war has s"
 "tarted.'"
 msgstr ""
 
-#: ./Dixon.dialog:173
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:173
 msgid ""
 "'I need your toolkit, Dixon. I need it to survive,' it said. 'I need it to sur"
 "vive the time of the rule of metal.'"
 msgstr ""
 
-#: ./Dixon.dialog:174
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:174
 msgid ""
 "As soon as it released me I ran to the exit as fast as I could. That bot freak"
 "ed me out and I just wanted to get away and later find it again and fix it."
 msgstr ""
 
-#: ./Dixon.dialog:175
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:175
 msgid ""
 "Once I got out I learned the bot was not lying. The Great Assault started. The"
 " rest is history."
 msgstr ""
 
-#: ./Dixon.dialog:180
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:180
 msgid "Hmm... You know... I think that the bots in the tunnels might be sentient."
 msgstr ""
 
-#: ./Dixon.dialog:182
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:182
 msgid "WHAT? Sentient? You got to be kidding me."
 msgstr ""
 
-#: ./Dixon.dialog:183
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:183
 msgid "Right?"
 msgstr ""
 
-#: ./Dixon.dialog:188
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:188
 msgid ""
 "Yes, I think so. The robots must be alive. This is why we need to exterminate "
 "them as soon as possible before they kill us all."
 msgstr ""
 
-#: ./Dixon.dialog:190
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:190
 msgid "OH MY GOD! Linarian, there is no time to lose!"
 msgstr ""
 
-#: ./Dixon.dialog:191
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:191
 msgid "I will call the military division and arrange a sweep of the tunnels at once."
 msgstr ""
 
-#: ./Dixon.dialog:192
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:192
 msgid "May the heavens have mercy upon us, but better them than us."
 msgstr ""
 
-#: ./Dixon.dialog:193
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:193
 msgid ""
 "I will go in there first and clean out the place. Then your people can mop up "
 "after me and kill the remainder."
 msgstr ""
 
-#: ./Dixon.dialog:194
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:194
 msgid ""
 "Linarian, my people do not carry guns. We are mechanics. You want the military"
 " division's help."
 msgstr ""
 
-#: ./Dixon.dialog:195
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:195
 msgid "Erm... And aren't you being too aggressive? Maybe they do not wish us harm..."
 msgstr ""
 
-#: ./Dixon.dialog:196
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:196
 msgid ""
 "DIXON! Snap out of it! We need to take action NOW. There is no such thing as a"
 " friendly bot. They are probably planning to kill us all in our sleep!"
 msgstr ""
 
-#: ./Dixon.dialog:197
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:197
 msgid "... *sigh*"
 msgstr ""
 
-#: ./Dixon.dialog:198
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:198
 msgid ""
 "With heavy heart I have to admit you are right. There are no friendly bots any"
 "more. Those times are long gone."
 msgstr ""
 
-#: ./Dixon.dialog:199
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:199
 msgid "The tunnels are open. Good luck."
 msgstr ""
 
-#: ./Dixon.dialog:200
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:200
 msgid ""
 "I will talk to Spencer and ask him for a few attack teams. We will take care o"
 "f the bots."
 msgstr ""
 
-#: ./Dixon.dialog:209
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:209
 msgid ""
 "Of course I am kidding, Dixon. Lighten up! Now, be a good guy and open the tun"
 "nels for me so I can pry your toolbox from the cold and dead hands of the bots"
 " down there."
 msgstr ""
 
-#: ./Dixon.dialog:211
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:211
 msgid "That was not very funny. You scared me. Sheesh."
 msgstr ""
 
-#: ./Dixon.dialog:212
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:212
 msgid ""
 "No one jokes about the bots anymore. We have seen too much death to do that. I"
 "t is a serious matter."
 msgstr ""
 
-#: ./Dixon.dialog:213
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:213
 msgid ""
 "The bots are our enemies, executioners, killers. Not even Ewald tells jokes ab"
 "out them anymore."
 msgstr ""
 
-#: ./Dixon.dialog:221
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:221
 msgid ""
 "You can forget about your toolkit. I am not going to take away something that "
 "a lifeform needs to survive. I would rather die than kill."
 msgstr ""
 
-#: ./Dixon.dialog:223
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:223
 msgid ". . ."
 msgstr ""
 
-#: ./Dixon.dialog:224
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:224
 msgid ""
 "I think I understand. Yes, I do not like violence, myself. The bots may have t"
 "he toolkit, I am sure there must be a second set of autotools kicking around s"
 "omewhere."
 msgstr ""
 
-#: ./Dixon.dialog:225
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:225
 msgid "After all, it seems like they need them more than I do."
 msgstr ""
 
-#: ./Dixon.dialog:226
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:226
 msgid ""
 "I will try to contact them somehow. Maybe they would help us. Ah, we shall see"
 ". It would be great to have an ally against the other bots."
 msgstr ""
 
-#: ./Dixon.dialog:236
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:236
 msgid ""
 "Ah, it is a strange story, I am sure you would not believe me. I will tell you"
 " some other time."
 msgstr ""
 
-#: ./Dixon.dialog:241
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:241
 msgid "The tunnels are cleansed. Here is your toolkit."
 msgstr ""
 
-#: ./Dixon.dialog:243
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:243
 msgid ""
 "*sigh* I hate to see this end in such a way. Bot or no bot, they let me live. "
 "They deserved a chance."
 msgstr ""
 
-#: ./Dixon.dialog:244
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:244
 msgid ""
 "Well, What was done cannot be undone and now we all have to live with what we "
 "have. I guess I am being too pessimistic, you did a great job."
 msgstr ""
 
-#: ./Dixon.dialog:245
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:245
 msgid "I thank you for your help in recovering the autotools."
 msgstr ""
 
-#: ./Dixon.dialog:246
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:246
 msgid "Here is some money, you deserve it for getting my toolkit back."
 msgstr ""
 
-#: ./Dixon.dialog:247
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:247
 msgid ""
 "Finally, I would like to say that the technical division is not interested in "
 "further cooperation with you, but I think you would fit very well in the milit"
 "ary division. You should talk to them."
 msgstr ""
 
-#: ./Dixon.dialog:248
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:248
 msgid "I am sorry, but I must go now. My duties call."
 msgstr ""
 
-#: ./Dixon.dialog:257
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:257
 msgid "I got your toolkit. The bots were not a big problem."
 msgstr ""
 
-#: ./Dixon.dialog:259
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:259
 msgid "Good. We sure need the autotools."
 msgstr ""
 
-#: ./Dixon.dialog:260
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:260
 msgid ""
 "Our roads need fixing, our power lines need fixing, our walls need fixing... H"
 "ell, everything needs fixing in this place."
 msgstr ""
 
-#: ./Dixon.dialog:261
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:261
 msgid ""
 "With those little gadgets we will be able to automate a lot of those simple re"
 "pairs, saving us a lot of time."
 msgstr ""
 
-#: ./Dixon.dialog:262
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:262
 msgid ""
 "Here is some money for your effort. And I am sure you will find this helmet us"
 "eful too, it saved my life once, and I hope it saves yours one day."
 msgstr ""
 
-#: ./Dixon.dialog:273
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:273
 msgid "I got your toolkit. You can buy it from me if you want."
 msgstr ""
 
-#: ./Dixon.dialog:275
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:275
 msgid "WHAT!? "
 msgstr ""
 
-#: ./Dixon.dialog:276
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:276
 msgid "You got to be kidding me, Linarian."
 msgstr ""
 
-#: ./Dixon.dialog:277
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:277
 msgid "Give me the toolkit and stop fooling around."
 msgstr ""
 
-#: ./Dixon.dialog:282
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:282
 msgid "I was not joking. I am listening to your offers."
 msgstr ""
 
-#: ./Dixon.dialog:284
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:284
 msgid "Linarian, I curse the day on which you have arrived here."
 msgstr ""
 
-#: ./Dixon.dialog:285
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:285
 msgid "Two fifty."
 msgstr ""
 
-#: ./Dixon.dialog:290
-#: ./Dixon.dialog:305
-#: ./Dixon.dialog:319
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:290
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:305
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:319
 msgid "Deal. Here is your toolkit. Now cough up the money. Fast."
 msgstr ""
 
-#: ./Dixon.dialog:292
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:292
 msgid "Here. It is all there."
 msgstr ""
 
-#: ./Dixon.dialog:293
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:293
 msgid ""
 "Now get out of here. I am a pacifist, but I am willing to make a special excep"
 "tion just for you."
 msgstr ""
 
-#: ./Dixon.dialog:294
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:294
 msgid "Get out of my sight."
 msgstr ""
 
-#: ./Dixon.dialog:307
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:307
 msgid "I am not happy about this. I suggest you leave the city."
 msgstr ""
 
-#: ./Dixon.dialog:308
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:308
 msgid "Accidents... Happen."
 msgstr ""
 
-#: ./Dixon.dialog:321
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:321
 msgid ""
 "Linarian. Now we part as usual. However should I ever see you after the war is"
 " over..."
 msgstr ""
 
-#: ./Dixon.dialog:322
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:322
 msgid "I promise to kill you."
 msgstr ""
 
-#: ./Dixon.dialog:323
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:323
 msgid ""
 "Now take your money and get out of my face. I do not want to see you here ever"
 " again."
 msgstr ""
 
-#: ./Dixon.dialog:334
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:334
 msgid "Good joke. I am sure you can do better."
 msgstr ""
 
-#: ./Dixon.dialog:336
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:336
 msgid ""
 "Three fifty. This is all that the technical division has as their cash resourc"
 "es."
 msgstr ""
 
-#: ./Dixon.dialog:341
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:341
 msgid "Come on, I am sure you can do even better than that... "
 msgstr ""
 
-#: ./Dixon.dialog:343
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:343
 msgid "Four hundred. We cannot offer anything more."
 msgstr ""
 
-#: ./Dixon.dialog:344
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:344
 msgid "Please, we really need the autotools."
 msgstr ""
 
-#: ./Dixon.dialog:345
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:345
 msgid "Without them this city is doomed."
 msgstr ""
 
-#: ./Dixon.dialog:350
-#: ./Dixon.dialog:360
-#: ./Dixon.dialog:368
-#: ./Dixon.dialog:379
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:350
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:360
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:368
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:379
 msgid "Is everything all right?"
 msgstr ""
 
-#: ./Dixon.dialog:352
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:352
 msgid "Heh, never better!"
 msgstr ""
 
-#: ./Dixon.dialog:353
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:353
 msgid ""
 "All indicators are in the green, the power and water fill the pipes and even S"
 "pencer seems happier now that the town is thriving despite all odds."
 msgstr ""
 
-#: ./Dixon.dialog:354
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:354
 msgid ""
 "Thanks to the autotools we can start building instead of just trying to repair"
 " the damage."
 msgstr ""
 
-#: ./Dixon.dialog:355
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:355
 msgid ""
 "Once this is sick war is over, I will make sure you get keys to the city Linar"
 "ian."
 msgstr ""
 
-#: ./Dixon.dialog:362
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:362
 msgid "Nearly. Only my conscience keeps me up at night."
 msgstr ""
 
-#: ./Dixon.dialog:363
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:363
 msgid ""
 "Please leave me alone with my thoughts, I do not want to talk to anyone right "
 "now."
 msgstr ""
 
-#: ./Dixon.dialog:370
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:370
 msgid "No, I am afraid not."
 msgstr ""
 
-#: ./Dixon.dialog:371
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:371
 msgid ""
 "While I do not regret sparing the bots in the tunnels, the town suffers for it"
 "."
 msgstr ""
 
-#: ./Dixon.dialog:372
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:372
 msgid ""
 "It makes me sad to see everything slowly wasting away. The bots are doing more"
 " damage than we can repair."
 msgstr ""
 
-#: ./Dixon.dialog:373
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:373
 msgid "This town has a few weeks left to live. After that we are all dead."
 msgstr ""
 
-#: ./Dixon.dialog:381
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:381
 msgid "Ha! Never better!"
 msgstr ""
 
-#: ./Dixon.dialog:382
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:382
 msgid ""
 "We are mass producing energy shields, creating more electric energy than we ca"
 "n ever imagine spending and even experimenting with new armor types."
 msgstr ""
 
-#: ./Dixon.dialog:383
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:383
 msgid "Life is good right now."
 msgstr ""
 
-#: ./Dixon.dialog:390
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:390
 msgid "What happened? Last time I asked, you said things are not going that well."
 msgstr ""
 
-#: ./Dixon.dialog:392
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:392
 msgid "Yes, but now everything is different."
 msgstr ""
 
-#: ./Dixon.dialog:393
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:393
 msgid "I met someone who decided to join us in the fight against the MegaSys bots."
 msgstr ""
 
-#: ./Dixon.dialog:394
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:394
 msgid ""
 "You will need a hacked computer. Type in 'ssh 10.83.13.230' as the superuser, "
 "and you will see what I mean."
 msgstr ""
 
-#: ./Dixon.dialog:400
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:400
 msgid "Why the secrecy and the hushed voice? Can't you just tell me?"
 msgstr ""
 
-#: ./Dixon.dialog:402
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:402
 msgid "Nope. Some things you just have to see with your own eyes."
 msgstr ""
 
-#: ./Dixon.dialog:403
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:403
 msgid "The Library of Alexandria, the Colossus of Rhodes, the Black Island..."
 msgstr ""
 
-#: ./Dixon.dialog:404
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:404
 msgid "And this is just one of those things."
 msgstr ""
 
-#: ./Dixon.dialog:405
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:405
 msgid "Just go and see for yourself. Otherwise you will not believe me."
 msgstr ""
 
-#: ./Dixon.dialog:414
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:414
 msgid "YOU AGAIN!"
 msgstr ""
 
-#: ./Dixon.dialog:415
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:415
 msgid "I."
 msgstr ""
 
-#: ./Dixon.dialog:416
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:416
 msgid "SAID."
 msgstr ""
 
-#: ./Dixon.dialog:417
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:417
 msgid "GET."
 msgstr ""
 
-#: ./Dixon.dialog:418
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:418
 msgid "LOST."
 msgstr ""
 
-#: ./Dixon.dialog:419
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:419
 msgid "FUCK MY LIFELONG PACIFISM. I WILL FUCKING KILL YOU NOW!"
 msgstr ""
 
-#: ./Dixon.dialog:420
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:420
 msgid "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!"
 msgstr ""
 
-#: ./Dixon.dialog:425
+#: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:425
 msgid "I must go now."
 msgstr ""
 

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_data\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 08:16+0000\n"
+"POT-Creation-Date: 2010-04-09 13:05+0000\n"
 "PO-Revision-Date: 2008-09-26 18:23+0200\n"
 "Last-Translator: \n"
 "Language-Team:  <en@li.org>\n"
@@ -13,130 +13,130 @@ msgstr ""
 "X-Launchpad-Export-Date: 2008-09-14 12:32+0000\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: freedroid.events:19
+#: /home/david/src/freedroid-translation/map/freedroid.events:19
 msgid "To maintenance tunnels"
 msgstr ""
 
-#: freedroid.events:28
+#: /home/david/src/freedroid-translation/map/freedroid.events:28
 msgid "Enter novice arena"
 msgstr ""
 
-#: freedroid.events:37
+#: /home/david/src/freedroid-translation/map/freedroid.events:37
 #, fuzzy
 msgid "Enter master arena"
 msgstr "Grenade au gaz"
 
-#: freedroid.events:49
+#: /home/david/src/freedroid-translation/map/freedroid.events:49
 msgid "Exit warehouse"
 msgstr ""
 
-#: freedroid.events:58
+#: /home/david/src/freedroid-translation/map/freedroid.events:58
 msgid "To warehouse level 2"
 msgstr ""
 
-#: freedroid.events:70
+#: /home/david/src/freedroid-translation/map/freedroid.events:70
 msgid "To warehouse level 1"
 msgstr ""
 
-#: freedroid.events:82
+#: /home/david/src/freedroid-translation/map/freedroid.events:82
 msgid "Back to Kevin's garden"
 msgstr ""
 
-#: freedroid.events:91
+#: /home/david/src/freedroid-translation/map/freedroid.events:91
 #, fuzzy
 msgid "To energy station"
 msgstr "Conteneur d'énergie plasma"
 
-#: freedroid.events:103
+#: /home/david/src/freedroid-translation/map/freedroid.events:103
 msgid "Back to lower catacombs"
 msgstr ""
 
-#: freedroid.events:115
+#: /home/david/src/freedroid-translation/map/freedroid.events:115
 msgid "Way to disruption machine deck"
 msgstr ""
 
-#: freedroid.events:127
+#: /home/david/src/freedroid-translation/map/freedroid.events:127
 msgid "Back from maintenance tunnels"
 msgstr ""
 
-#: freedroid.events:143
+#: /home/david/src/freedroid-translation/map/freedroid.events:143
 msgid "Enter warehouse"
 msgstr ""
 
-#: freedroid.events:155
+#: /home/david/src/freedroid-translation/map/freedroid.events:155
 msgid "Down into Crystal Caves"
 msgstr ""
 
-#: freedroid.events:195
+#: /home/david/src/freedroid-translation/map/freedroid.events:195
 msgid "To Kevin's underground station"
 msgstr ""
 
-#: freedroid.events:207
+#: /home/david/src/freedroid-translation/map/freedroid.events:207
 msgid "To underground station"
 msgstr ""
 
-#: freedroid.events:243
+#: /home/david/src/freedroid-translation/map/freedroid.events:243
 msgid "Hatch with broken ladder"
 msgstr ""
 
-#: freedroid.events:267
+#: /home/david/src/freedroid-translation/map/freedroid.events:267
 msgid "Exit novice arena"
 msgstr ""
 
-#: freedroid.events:279
+#: /home/david/src/freedroid-translation/map/freedroid.events:279
 #, fuzzy
 msgid "Exit master arena"
 msgstr "Grenade au gaz"
 
-#: freedroid.events:291
+#: /home/david/src/freedroid-translation/map/freedroid.events:291
 msgid "lock player inside firmware room"
 msgstr ""
 
-#: freedroid.events:301
+#: /home/david/src/freedroid-translation/map/freedroid.events:301
 msgid "Open firmware upgrade room"
 msgstr ""
 
-#: freedroid.events:314
+#: /home/david/src/freedroid-translation/map/freedroid.events:314
 msgid "FIXME2"
 msgstr ""
 
-#: freedroid.events:327
+#: /home/david/src/freedroid-translation/map/freedroid.events:327
 msgid "Exit Crystal Caves"
 msgstr ""
 
-#: freedroid.events:339
+#: /home/david/src/freedroid-translation/map/freedroid.events:339
 msgid "Back from bunker"
 msgstr ""
 
-#: freedroid.events:351
+#: /home/david/src/freedroid-translation/map/freedroid.events:351
 msgid "Back to the desert"
 msgstr ""
 
-#: freedroid.events:371
+#: /home/david/src/freedroid-translation/map/freedroid.events:371
 msgid "To a forgotten bunker"
 msgstr ""
 
-#: freedroid.events:387
+#: /home/david/src/freedroid-translation/map/freedroid.events:387
 msgid "Unknown place"
 msgstr ""
 
-#: freedroid.events:407
+#: /home/david/src/freedroid-translation/map/freedroid.events:407
 msgid "Hidden way out"
 msgstr ""
 
-#: freedroid.events:463
+#: /home/david/src/freedroid-translation/map/freedroid.events:463
 msgid "Back to Disruptor Shield Control"
 msgstr ""
 
-#: freedroid.events:472
+#: /home/david/src/freedroid-translation/map/freedroid.events:472
 msgid "To Mashine Deck Lower Catacombs"
 msgstr ""
 
-#: freedroid.events:484
+#: /home/david/src/freedroid-translation/map/freedroid.events:484
 msgid "Back to Machine Deck Upper Catacombs"
 msgstr ""
 
-#: freedroid.events:493
+#: /home/david/src/freedroid-translation/map/freedroid.events:493
 msgid "To Disruptor Mashine Deck"
 msgstr ""
 

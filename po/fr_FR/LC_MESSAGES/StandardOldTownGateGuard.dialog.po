@@ -1,0 +1,4002 @@
+# French translations for freedroidRPG package
+# Traductions françaises du paquet freedroidRPG.
+# Copyright (C) 2007 Freedroid RPG Development Team
+# This file is distributed under the same license as the freedroidRPG package.
+#  <freedroid-discussion@lists.sourceforge.net>, 2007.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: freedroidrpg\n"
+"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
+"POT-Creation-Date: 2010-04-09 13:04+0000\n"
+"PO-Revision-Date: 2008-09-08 07:34+0000\n"
+"Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
+"Language-Team: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2008-09-14 12:32+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: /home/david/src/freedroid-translation/dialogs/StandardOldTownGateGuard.dialog:41
+msgid "Hi! I'm new here."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/StandardOldTownGateGuard.dialog:43
+msgid ""
+"Ah, a newcomer. I gather you were treated rather harshly by my friend at the "
+"gate? My apologies, he lost his little sister in the Great Assault. He never "
+"got over it."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/StandardOldTownGateGuard.dialog:44
+msgid ""
+"So, stranger, welcome here. You might want to talk to Chandra or to Spencer, "
+"they can tell you a lot about our current situation."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/StandardOldTownGateGuard.dialog:45
+msgid ""
+"The city is presently ruled by the Red Guard. We are the police and the "
+"soldiers here."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/StandardOldTownGateGuard.dialog:46
+msgid "There is only one law concerning outsiders here: Don't be stupid."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/StandardOldTownGateGuard.dialog:47
+msgid "I think that is enough of an introduction for now."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/StandardOldTownGateGuard.dialog:52
+msgid "What are you doing here?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/StandardOldTownGateGuard.dialog:54
+msgid "I'm on guard duty right now."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/StandardOldTownGateGuard.dialog:55
+msgid ""
+"There have been no attacks for a while now. It is too quiet, I think "
+"something big is about to happen."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/StandardOldTownGateGuard.dialog:60
+msgid "I'll be going, then."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/StandardOldTownGateGuard.dialog:62
+msgid "Goodbye."
+msgstr ""
+
+#~ msgid "Automap ON."
+#~ msgstr "Carte automatique activée"
+
+#~ msgid "Automap OFF."
+#~ msgstr "Carte automatique désactivée"
+
+#, fuzzy
+#~ msgid "Compass ON (no automap yet: map maker not present."
+#~ msgstr ""
+#~ "Désolé, vous ne pouvez pas encore utiliser la carte automatique : outil "
+#~ "de cartographie non présent"
+
+#, fuzzy
+#~ msgid "Compass OFF."
+#~ msgstr "Carte automatique désactivée"
+
+#~ msgid "Wall"
+#~ msgstr "Mur"
+
+#, fuzzy
+#~ msgid "Hey! This looks like...a WALL!"
+#~ msgstr "Hé ! Ça ressemble... à un mur !"
+
+#~ msgid "Maybe you could use a door to go out. This wall seems pretty solid."
+#~ msgstr ""
+#~ "Peut-être pourriez-vous utiliser une porte pour sortir. Ce mur semble "
+#~ "plutôt solide."
+
+#~ msgid "Glass wall"
+#~ msgstr "Mur de verre"
+
+#, fuzzy
+#~ msgid "A wall made out of glass. It lets the light shine through."
+#~ msgstr "Un mur fait de verre. Il laisse passer la lumière."
+
+#~ msgid "Broken glass wall"
+#~ msgstr "Mur de verre brisé"
+
+#, fuzzy
+#~ msgid "You can get through the holes, but beware of sharp edges."
+#~ msgstr ""
+#~ "Vous pouvez passer à travers les trous, mais prenez garde des bords "
+#~ "pointus."
+
+#~ msgid ""
+#~ "Windows, are, besides a famous joke OS trademark, very useful things."
+#~ msgstr ""
+#~ "Les fenêtres sont, à côté d'une célèbre marque déposée d'un système, très "
+#~ "utiles."
+
+#~ msgid "Door"
+#~ msgstr "Porte"
+
+#~ msgid "This is a door. Seems to open automatically when someone approaches."
+#~ msgstr ""
+#~ "C'est une porte. Elle semble s'ouvrir automatiquement lorsque quelqu'un "
+#~ "s'en approche."
+
+#~ msgid "Locked door"
+#~ msgstr "Porte verrouillée"
+
+#~ msgid "The red color probably indicates that the door is locked."
+#~ msgstr "La couleur rouge indique probablement que la porte est verrouillée."
+
+#~ msgid "Pillar"
+#~ msgstr "Pillier"
+
+#~ msgid "A pillar made out of gray concrete."
+#~ msgstr "Un pilier fait de ciment gris."
+
+#~ msgid "Supercluster terminal"
+#~ msgstr "Terminal de supercluster"
+
+#~ msgid ""
+#~ "This is a small part of a gigantic computer cluster, maybe many square "
+#~ "miles large..."
+#~ msgstr ""
+#~ "C'est une petite partie d'un gigantesque cluster d'ordinateurs, peut-être "
+#~ "de plusieurs kilomètres carrés ..."
+
+#~ msgid "Ray emitter"
+#~ msgstr "Emetteur de rayons"
+
+#~ msgid "It appears to be in \"standby\" mode."
+#~ msgstr "Il semble être en mode \"attente\"."
+
+#~ msgid "Droid nest"
+#~ msgstr "Nid de droïde"
+
+#, fuzzy
+#~ msgid ""
+#~ "A droid service station, also called 'droid nest'. You suppose it's of no "
+#~ "use for your quest."
+#~ msgstr ""
+#~ "C'est un petit logement pour droïdes de service, sans grand intérêt."
+
+#~ msgid "Chest"
+#~ msgstr "Coffre"
+
+#, fuzzy
+#~ msgid "This chest has already been opened."
+#~ msgstr "Ce coffre a déjà été ouvert"
+
+#~ msgid "This chest is closed."
+#~ msgstr "Ce coffre est fermé."
+
+#~ msgid "Autogun"
+#~ msgstr "Arme automatique"
+
+#, fuzzy
+#~ msgid "A not-that-nice autogun. Beware: it could be harmful."
+#~ msgstr ""
+#~ "Une arme automatique pas très rassurante. Attention : ça pourrait être "
+#~ "dangereux."
+
+#~ msgid "A not-that-nice autogun. It seems disabled for now."
+#~ msgstr ""
+#~ "Une arme automatique pas très rassurante. Elle semble désactivée pour "
+#~ "l'instant."
+
+#~ msgid "This killing machine is disabled. For now."
+#~ msgstr "Cette machine de mort est désactivée. Pour l'instant."
+
+#~ msgid ""
+#~ "It is looking at you. You are sure it is looking at you. But it does not "
+#~ "fire. For now."
+#~ msgstr ""
+#~ "Elle vous regarde. Vous êtes sûr qu'elle vous regarde. Mais elle ne tire "
+#~ "pas. Pour l'instant."
+
+#~ msgid "The autogun is disabled."
+#~ msgstr "L'arme automatique est désactivée."
+
+#~ msgid "Rock barrier"
+#~ msgstr "Paroi rocheuse"
+
+#~ msgid "Cooking pot"
+#~ msgstr "Marmite"
+
+#, fuzzy
+#~ msgid ""
+#~ "This cauldron can be used for many good things. Cooking beef or pork for "
+#~ "dinner are some of them. It can also be used for many evil things. "
+#~ "Preparing Linarians for lunch is one of them."
+#~ msgstr ""
+#~ "Ce chaudron peut servir à plein de trucs sympathiques. Cuisiner du boeuf "
+#~ "ou du porc pour le dîner en font partie. Il peut aussi être utilisé à des "
+#~ "fins moins recommandables. Cuisiner du Linarien pour le dîner en fait "
+#~ "partie."
+
+#~ msgid "Terminal"
+#~ msgstr "Terminal"
+
+#, fuzzy
+#~ msgid "This is a Terminus 2 data terminal. Made by Parafunken."
+#~ msgstr "C'est un terminal 'Terminus 2'. Fabriqué par Parafunken."
+
+#~ msgid "Barrel"
+#~ msgstr "Baril"
+
+#~ msgid "A painted barrel, protected from rust."
+#~ msgstr "Un baril peint, protégé de la rouille."
+
+#~ msgid "A rusty barrel."
+#~ msgstr "Un baril rouillé."
+
+#~ msgid "Wooden crate"
+#~ msgstr "Une caisse en bois"
+
+#, fuzzy
+#~ msgid ""
+#~ "This is a big wooden crate that could contain many interesting things. Or "
+#~ "not."
+#~ msgstr ""
+#~ "C'est un gros coffre en bois, qui pourrait contenir des choses "
+#~ "intéressantes. Ou pas."
+
+#, fuzzy
+#~ msgid ""
+#~ "This is a wooden crate that could contain many interesting things. Or not."
+#~ msgstr ""
+#~ "C'est une caisse en bois qui pourrait contenir des choses intéressantes. "
+#~ "Ou pas."
+
+#~ msgid "Room lamp"
+#~ msgstr "Lampe de salle"
+
+#~ msgid "This is a charming room lamp."
+#~ msgstr "C'est une jolie lampe d'intérieur."
+
+#~ msgid "This is a wonderful room lamp."
+#~ msgstr "C'est une merveilleuse lampe d'intérieur."
+
+#~ msgid "This is a great room lamp."
+#~ msgstr "C'est une superbe lampe d'intérieur."
+
+#~ msgid "This is a perfect room lamp."
+#~ msgstr "C'est une parfaite lampe d'intérieur."
+
+#, fuzzy
+#~ msgid "Wooden fence"
+#~ msgstr "Une caisse en bois"
+
+#~ msgid "Fence"
+#~ msgstr "Barrière"
+
+#, fuzzy
+#~ msgid ""
+#~ "This type of a barrier constructed out of wire is called mesh wire fence."
+#~ msgstr "Ce type de barrière, en fil de fer, est appelé grillage."
+
+#~ msgid ""
+#~ "This type of a barrier constructed out of wire is called the chain link "
+#~ "fence."
+#~ msgstr "Ce type de barrière, en fil de fer, est appelé grillage."
+
+#~ msgid "Small toilet"
+#~ msgstr "Petites toilettes"
+
+#~ msgid "Smells good."
+#~ msgstr "Elles sentent bon."
+
+#~ msgid "Toilet"
+#~ msgstr "Toilettes"
+
+#, fuzzy
+#~ msgid "Feel like defecating?"
+#~ msgstr "Envie de déféquer ?"
+
+#~ msgid "Yes, they are clean."
+#~ msgstr "Oui, elles sont propres."
+
+#, fuzzy
+#~ msgid "Would you have something to empty?"
+#~ msgstr "Auriez-vous quelque chose à vider ?"
+
+#~ msgid "Chair"
+#~ msgstr "Chaise"
+
+#, fuzzy
+#~ msgid "This is an orange chair which does not look too comfortable."
+#~ msgstr "C'est une chaise orange qui ne semble pas très confortable."
+
+#~ msgid "This is an orange chair which does not look too comfortable"
+#~ msgstr "C'est une chaise orange qui ne semble pas très confortable."
+
+#~ msgid "Sofa"
+#~ msgstr "Canapé"
+
+#~ msgid "A soft red sofa."
+#~ msgstr "Un canapé rouge confortable."
+
+#, fuzzy
+#~ msgid "Lounge"
+#~ msgstr "Comptoir"
+
+#~ msgid "Plant"
+#~ msgstr "Plante"
+
+#~ msgid ""
+#~ "After all the humans are killed by the bots, only plants like this one "
+#~ "will remain."
+#~ msgstr ""
+#~ "Lorsque tous les humains auront été tués par les robots, seules les "
+#~ "plantes, comme celle-ci, resteront."
+
+#~ msgid "Desk"
+#~ msgstr "Bureau"
+
+#~ msgid "This desk is designed to handle extreme loads of office work."
+#~ msgstr "Ce bureau est conçu pour supporter des charges de travail extrêmes."
+
+#~ msgid "Bed"
+#~ msgstr "Lit"
+
+#~ msgid "Bench"
+#~ msgstr "Banc"
+
+#~ msgid "A simple white bench."
+#~ msgstr "Un simple banc blanc."
+
+#~ msgid "Bath tub"
+#~ msgstr "Baignoire"
+
+#, fuzzy
+#~ msgid "An idea of what comfort is."
+#~ msgstr "Une idée du confort présent"
+
+#, fuzzy
+#~ msgid "Taking a bath is not your current quest - what a pity!"
+#~ msgstr ""
+#~ "Prendre un bain ne fait pas partie de la quête en cours - quel dommage !"
+
+#~ msgid "Washing tub"
+#~ msgstr "Bassine"
+
+#~ msgid "A metal tub. The washing machine of the post-assault 21st century."
+#~ msgstr ""
+#~ "Une bassine en métal. La machine à laver du 21ème siècle de l'après-"
+#~ "assaut."
+
+#, fuzzy
+#~ msgid "Small sofa"
+#~ msgstr "Petites toilettes"
+
+#, fuzzy
+#~ msgid "A small white leather sofa."
+#~ msgstr "Un simple banc blanc."
+
+#~ msgid "Tree"
+#~ msgstr "Arbre"
+
+#, fuzzy
+#~ msgid "This tree seems quite ordinary."
+#~ msgstr "Cet arbre semble plutôt normal"
+
+#, fuzzy
+#~ msgid "This is a nice young tree."
+#~ msgstr "C'est un bel arbre"
+
+#, fuzzy
+#~ msgid "Healthy tree"
+#~ msgstr "Santé"
+
+#~ msgid "This tree does not look too healthy."
+#~ msgstr "Cet arbre ne semble pas trop en forme."
+
+#, fuzzy
+#~ msgid "Strange tree"
+#~ msgstr "Force"
+
+#~ msgid "For some strange reason this tree has blue leaves."
+#~ msgstr "Pour une raison mystérieuse, cet arbre a des feuilles bleues."
+
+#, fuzzy
+#~ msgid "Sturdy wall"
+#~ msgstr "Mur robuste"
+
+#, fuzzy
+#~ msgid "Restaurant furniture"
+#~ msgstr "Étagères de restaurant"
+
+#~ msgid "This is but standard restaurant furniture."
+#~ msgstr "Ce sont des équipements standards pour un restaurant."
+
+#~ msgid "Rock wall"
+#~ msgstr "Mur de pierres"
+
+#~ msgid "Grey wall"
+#~ msgstr "Mur gris"
+
+#, fuzzy
+#~ msgid ""
+#~ "This is grey and seems quite hard to destroy. People usually call it a "
+#~ "wall. You have no chance to go through: there must be another path."
+#~ msgstr ""
+#~ "C'est gris, et semble assez dur à détruire. Les gens appellent ça un mur. "
+#~ "Vous n'avez aucune chance de passer au travers : il doit y avoir un autre "
+#~ "chemin."
+
+#~ msgid "Green wall"
+#~ msgstr "Mur vert"
+
+#, fuzzy
+#~ msgid ""
+#~ "This wall is covered by an avocado-green wallpaper. You feel nausea when "
+#~ "staring at it too long."
+#~ msgstr "Ce mur est couvert par un papier peint vert asperge."
+
+#~ msgid "Groovy wall"
+#~ msgstr "Mur étrange"
+
+#~ msgid "Man, dig that groovy wallpaper. It's a real blast!"
+#~ msgstr "Mec, regarde ce papier peint sensass. C'est hallucinant !"
+
+#, fuzzy
+#~ msgid "Brick wall with wires"
+#~ msgstr "Mur de briques"
+
+#, fuzzy
+#~ msgid "A badly constructed brick wall. This one has wires installed to it."
+#~ msgstr ""
+#~ "Un mur de briques mal construit. On dirait qu'il a été construit à la va-"
+#~ "vite. La couleur, par contre, est plutôt jolie."
+
+#~ msgid "Brick wall"
+#~ msgstr "Mur de briques"
+
+#~ msgid ""
+#~ "A badly constructed brick wall. It looks like it was built in a rush. The "
+#~ "color is quite nice though."
+#~ msgstr ""
+#~ "Un mur de briques mal construit. On dirait qu'il a été construit à la va-"
+#~ "vite. La couleur, par contre, est plutôt jolie."
+
+#, fuzzy
+#~ msgid "Cracked wall"
+#~ msgstr "Mur de briques"
+
+#~ msgid "This wall is suffering. Finish it!"
+#~ msgstr "Ce mur souffre. Il faut l'achever !"
+
+#, fuzzy
+#~ msgid "Crumbled wall"
+#~ msgstr "Mur rouge"
+
+#, fuzzy
+#~ msgid "Well ... it was not very resistant..."
+#~ msgstr "Et bien ... ce n'était pas très solide "
+
+#~ msgid "Blood"
+#~ msgstr "Sang"
+
+#, fuzzy
+#~ msgid "Do droids bleed? These do."
+#~ msgstr "Est-ce que les droïdes saignent ? Ceux là, oui."
+
+#~ msgid "Oil stains"
+#~ msgstr "Tâches d'huile"
+
+#~ msgid "Do droids bleed? These don't."
+#~ msgstr "Est-ce que les droïdes saignent ? Ceux-là, non."
+
+#~ msgid "Entrance"
+#~ msgstr "Entrée"
+
+#~ msgid "It leads into the dark tunnels below..."
+#~ msgstr "On aperçoit les tunnels sombres en dessous..."
+
+#~ msgid "Ladder"
+#~ msgstr "Echelle"
+
+#~ msgid "It leads to the surface world."
+#~ msgstr "Ca mène à la surface du monde."
+
+#, fuzzy
+#~ msgid "This is a ladder."
+#~ msgstr "C'est un %s. %s"
+
+#, fuzzy
+#~ msgid "Exotic fungoid plant"
+#~ msgstr "Plante exotique"
+
+#, fuzzy
+#~ msgid "A wonderful exotic fungus. You can read \"Made by Basse\" on it."
+#~ msgstr "Une merveilleuse plante exotique. On peut y lire \"Fait par Basse\""
+
+#~ msgid "Rocks"
+#~ msgstr "Rochers"
+
+#, fuzzy
+#~ msgid ""
+#~ "Do you think a rock can attack you? No, MS droids can't hide themselves "
+#~ "that way: they crash before."
+#~ msgstr ""
+#~ "Pensez-vous qu'un rocher peut vous attaquer ? Non, les droïdes MS ne "
+#~ "peuvent se dissimuler de cette manière : ils plantent avant."
+
+#, fuzzy
+#~ msgid "Eating too much of that could lead to a kernel panic..."
+#~ msgstr "Trop en manger pourrait provoquer un plantage du noyau."
+
+#, fuzzy
+#~ msgid "You think it would be better with a penguin on it. You are right!"
+#~ msgstr ""
+#~ "Vous pensez que ce serait mieux avec un manchot dessus. Vous avez raison."
+
+#~ msgid "Shop counter"
+#~ msgstr "Comptoir de magasin"
+
+#~ msgid ""
+#~ "This model of the counter features a built-in cash register and bright "
+#~ "neon lights."
+#~ msgstr ""
+#~ "Ce modèle de comptoir intègre une caisse enregistreuse et un néon "
+#~ "lumineux."
+
+#~ msgid "Set of shelves"
+#~ msgstr "Etagères"
+
+#~ msgid ""
+#~ "There is a lot of junk in here. Bot parts, medical supplies, scrap metal "
+#~ "bits and other useless things like that."
+#~ msgstr ""
+#~ "Il y a beaucoup de bibelots là-dessus. Morceaux de robots, médicaments, "
+#~ "bouts de métal et d'autres choses inutiles du même genre."
+
+#~ msgid ""
+#~ "There is a lot of junk in here. Bot parts, gold bars, dead rodents, scrap "
+#~ "metal bits and other useless things like that."
+#~ msgstr ""
+#~ "Il y a beaucoup de bibelots là-dessus. Morceaux de robots, lingots d'or, "
+#~ "rats morts, morceaux de métal et d'autres choses inutiles du même genre."
+
+#~ msgid "Empty shelves"
+#~ msgstr "Étagères vides"
+
+#~ msgid "Whatever was here before, is not here anymore."
+#~ msgstr "Quoi qu'il y ait eu ici, ça n'y est plus."
+
+#~ msgid ""
+#~ "These are empty shelves. Silent and hollow they sleep in Spring. No thing "
+#~ "remains here now."
+#~ msgstr ""
+#~ "Ce sont des étagères vides. Silencieuses et désertes, elles sommeillent. "
+#~ "Plus rien ne reste maintenant."
+
+#, fuzzy
+#~ msgid "A library counter"
+#~ msgstr "Un comptoir."
+
+#~ msgid "Strong wall"
+#~ msgstr "Mur robuste"
+
+#~ msgid ""
+#~ "This great wall can withstand a swarm of rogue bots madly attacking it "
+#~ "for weeks*! It can belong to you for only 299.99C$ + tax, per section. *"
+#~ "( Your duration may vary. This wall comes with ABSOLUTELY NO WARRANTY! ) "
+#~ msgstr ""
+#~ "Ce mur fantastique peut arrêter un bataillon de robots fous pendant des "
+#~ "semaines* ! Vous pouvez l'acheter pour seulement 299.99C$ HT par section. "
+#~ "*(La durée peut varier. Ce mur est vendu SANS AUCUNE GARANTIE !) "
+
+#~ msgid "Gate"
+#~ msgstr "Portail"
+
+#~ msgid "This gate is little more than just a big door. A very big door."
+#~ msgstr ""
+#~ "Cette porte n'est pas simplement une grosse porte. C'est une très grosse "
+#~ "porte."
+
+#~ msgid ""
+#~ "It is locked in order to keep something out. Or maybe to keep something "
+#~ "in?"
+#~ msgstr ""
+#~ "C'est verrouillé afin d'empêcher quelque chose d'entrer. Ou peut-être de "
+#~ "sortir ?"
+
+#, fuzzy
+#~ msgid "The yellow lounge chair looks very inviting."
+#~ msgstr "Cette chaise jaune est attrayante."
+
+#~ msgid "Red bench"
+#~ msgstr "Banc rouge"
+
+#~ msgid ""
+#~ "It is a soft bench, commonly seen in hospitals, shops and houses all "
+#~ "around the world."
+#~ msgstr ""
+#~ "C'est un banc confortable, que l'on trouve souvent dans les hôpitaux, les "
+#~ "magasins et les maisons du monde entier."
+
+#~ msgid ""
+#~ "It is a soft bench, commonly seen in hospitals, malls and houses all "
+#~ "around the world."
+#~ msgstr ""
+#~ "C'est un banc confortable, que l'on trouve souvent dans les hôpitaux, les "
+#~ "centre commerciaux et les maisons du monde entier."
+
+#~ msgid ""
+#~ "It is a soft bench, commonly seen in hospitals, barber shops and houses "
+#~ "all around the world."
+#~ msgstr ""
+#~ "C'est un banc confortable, que l'on trouve souvent dans les hôpitaux, les "
+#~ "échoppes de barbiers et les maisons du monde entier."
+
+#~ msgid ""
+#~ "It is a soft bench, commonly seen in hospitals, coffee shops and houses "
+#~ "all around the world."
+#~ msgstr ""
+#~ "C'est un banc confortable, que l'on trouve souvent dans les hôpitaux, les "
+#~ "cafés et les maisons du monde entier."
+
+#~ msgid "Dead member of the Red Guard"
+#~ msgstr "Membre de la Garde Rouge décédé"
+
+#~ msgid ""
+#~ "If not for the terrible wounds, you could think that he is just asleep..."
+#~ msgstr ""
+#~ "Sans les terribles blessures, on pourrait penser qu'il est simplement "
+#~ "endormi..."
+
+#~ msgid "It looks like he fought to the bitter end..."
+#~ msgstr "On dirait qu'il s'est battu jusqu'au bout...."
+
+#~ msgid "Numerous wounds cover the body of this brave warrior..."
+#~ msgstr "Beaucoup de blessures couvrent le corps de ce brave guerrier...."
+
+#~ msgid ""
+#~ "His body is charred and twisted... Such is the price of the service in "
+#~ "the Red Guard..."
+#~ msgstr ""
+#~ "Son corps est carbonisé et mutilé.... Tel est le prix du service dans la "
+#~ "Garde Rouge...."
+
+#~ msgid "Conference table"
+#~ msgstr "Table de conférence"
+
+#~ msgid "A round conference table with chairs and a computer at every seat."
+#~ msgstr ""
+#~ "Une table de conférence ronde avec des chaises et un ordinateur à chaque "
+#~ "place."
+
+#~ msgid "This is a standard sleeping capsule."
+#~ msgstr "C'est une capsule de sommeil standard."
+
+#~ msgid ""
+#~ "To save space on the floor two sleeping capsules were stacked vertically."
+#~ msgstr ""
+#~ "Pour économiser de l'espace, deux capsules de sommeil ont été "
+#~ "positionnées verticalement."
+
+#~ msgid "Projector"
+#~ msgstr "Projecteur"
+
+#~ msgid ""
+#~ "This device is used for casting images onto a wall or a screen. It uses "
+#~ "something looking like a film reel as a source of those images."
+#~ msgstr ""
+#~ "Cet objet est utilisé pour projeter des images sur un mur ou un écran. Il "
+#~ "utilise quelque chose qui ressemble à une bobine de film comme source "
+#~ "d'images."
+
+#~ msgid "Projector screen"
+#~ msgstr "Ecran de projection"
+
+#~ msgid ""
+#~ "This is a projector screen, it allows to get better image quality than "
+#~ "the wall."
+#~ msgstr ""
+#~ "C'est un écran de projection qui permet d'avoir une meilleur qualité "
+#~ "d'image que sur le mur."
+
+#~ msgid "Bookcase"
+#~ msgstr "Etagère à livres"
+
+#~ msgid ""
+#~ "There are many interesting books here, but none of them is a switch "
+#~ "opening a secret passage."
+#~ msgstr ""
+#~ "Il y a beaucoup de livres intéressants ici, mais aucun d'eux est un "
+#~ "interrupteur qui ouvre un passage secret."
+
+#~ msgid "There are exactly 451 books here."
+#~ msgstr "Il y a exactement 451 livres ici."
+
+#~ msgid "Empty bookcase"
+#~ msgstr "Bibliothèque vide"
+
+#, fuzzy
+#~ msgid "No books here, only dust."
+#~ msgstr "Aucun livre ici, seulement de la poussière."
+
+#, fuzzy
+#~ msgid ""
+#~ "Only boring books like the Necronomicon here. Yawn. Nothing of interest."
+#~ msgstr ""
+#~ "Que des livres ennuyeux comme le Necronomicon ! Bof. Rien d'intéressant."
+
+#~ msgid "Dust to trees. Trees to pages. Pages to books. Books to dust."
+#~ msgstr ""
+#~ "De la poussière aux arbres. Des arbres au papier. Du papier aux livres. "
+#~ "Des livres à la poussière."
+
+#~ msgid "Sign"
+#~ msgstr "Pancarte"
+
+#, fuzzy
+#~ msgid "Sign!"
+#~ msgstr "Pancarte"
+
+#, fuzzy
+#~ msgid "The arrow points at a direction. Maybe you should follow it..."
+#~ msgstr ""
+#~ "La flèche pointe indique une direction. Peut-être devriez-vous la suivre"
+
+#~ msgid "Counter"
+#~ msgstr "Comptoir"
+
+#, fuzzy
+#~ msgid "A counter section."
+#~ msgstr "Un comptoir."
+
+#~ msgid "Bar table"
+#~ msgstr "Table de bar"
+
+#, fuzzy
+#~ msgid ""
+#~ "You can still see some food stains on this yellow round table. Yummy!"
+#~ msgstr "On peut voir des traces de nourriture sur cette table ronde jaune."
+
+#~ msgid "Table"
+#~ msgstr "Table"
+
+#~ msgid ""
+#~ "Tables such as this one have been used for centuries to store various "
+#~ "items on top of them."
+#~ msgstr ""
+#~ "Des tables comme celle-ci ont été utilisées durant des siècles pour "
+#~ "placer divers objets dessus."
+
+#~ msgid "Glass table"
+#~ msgstr "Table en verre"
+
+#~ msgid "This table is made out of see-through glass."
+#~ msgstr "Cette table est faite en verre transparent."
+
+#~ msgid "Water"
+#~ msgstr "Eau"
+
+#, fuzzy
+#~ msgid "This water seems dangerous. You'll want to avoid going there."
+#~ msgstr "Cette eau semble dangereuse. Vous devriez éviter d'aller dedans. "
+
+#, fuzzy
+#~ msgid "Washbasin"
+#~ msgstr "Bassine"
+
+#~ msgid "unnamed_obstacle"
+#~ msgstr "obstacle iconnu"
+
+#~ msgid "This obstacle seems solid."
+#~ msgstr "Cet obstacle semble solide."
+
+#~ msgid "Disruptor blast has hit you for %d damage."
+#~ msgstr "Un tir vous a causé %d dommage(s)."
+
+#, fuzzy
+#~ msgid "That one went into the armor."
+#~ msgstr "Celui-là a été arrêté par l'armure."
+
+#~ msgid "Max level reached!"
+#~ msgstr "Niveau maximum atteint !"
+
+#~ msgid "Level Gained!"
+#~ msgstr "Niveau obtenu !"
+
+#~ msgid "Melee"
+#~ msgstr "Melée"
+
+#~ msgid "Ranged"
+#~ msgstr "Portée"
+
+#~ msgid "Programming"
+#~ msgstr "Programmation"
+
+#~ msgid "Level"
+#~ msgstr "Niveau"
+
+#~ msgid "Experience"
+#~ msgstr "Expérience"
+
+#~ msgid "Next level"
+#~ msgstr "Niveau suivant"
+
+#~ msgid "Money"
+#~ msgstr "Argent"
+
+#~ msgid "Strength"
+#~ msgstr "Force"
+
+#~ msgid "Dexterity"
+#~ msgstr "Dextérité"
+
+#~ msgid "CPU"
+#~ msgstr "CPU"
+
+#~ msgid "Life"
+#~ msgstr "Vie"
+
+#, fuzzy
+#~ msgid "Training points"
+#~ msgstr ""
+#~ "Points\n"
+#~ "d'entraînement"
+
+#~ msgid "Health"
+#~ msgstr "Santé"
+
+#~ msgid "Temperature"
+#~ msgstr "Température"
+
+#~ msgid "Stamina"
+#~ msgstr "Endurance"
+
+#~ msgid "Armor"
+#~ msgstr "Armure"
+
+#~ msgid "Attack"
+#~ msgstr "Attaque"
+
+#~ msgid "Damage"
+#~ msgstr "Dommages"
+
+#~ msgid "What will you say?"
+#~ msgstr "Qu'allez-vous dire ?"
+
+#~ msgid "Your friend %s was killed by %s."
+#~ msgstr "Votre ami %s a été tué par %s."
+
+#~ msgid "You killed %s."
+#~ msgstr "Vous avez tué %s."
+
+#~ msgid "%s is dead."
+#~ msgstr "%s est mort."
+
+#~ msgid "For defeating %s, you receive %d experience."
+#~ msgstr "Détruire %s vous rapporte %d point(s) d'expérience."
+
+#~ msgid "%s was killed by %s."
+#~ msgstr "%s a été tué par %s."
+
+#~ msgid "%s died."
+#~ msgstr "%s est mort."
+
+#~ msgid "Damage: %d to %d \n"
+#~ msgstr "Dommages : %d à %d \n"
+
+#~ msgid "Dam: %d-%d "
+#~ msgstr "Dom. : %d - %d "
+
+#~ msgid "Ammo : %d of %d\n"
+#~ msgstr "Muni. : %d sur %d\n"
+
+#~ msgid "Multiplicity: %d \n"
+#~ msgstr "Quantité : %d \n"
+
+#, fuzzy
+#~ msgid "Armor: %d"
+#~ msgstr "Armure : %d"
+
+#~ msgid " Durability: %d of %d\n"
+#~ msgstr " Solidité : %d sur %d\n"
+
+#~ msgid " Dur: %d/%d\n"
+#~ msgstr " Dur : %d/%d\n"
+
+#~ msgid " Indestructible\n"
+#~ msgstr " Indestructible\n"
+
+#~ msgid " Required:"
+#~ msgstr " Requis :"
+
+#~ msgid "   Str: %d"
+#~ msgstr "   For. : %d"
+
+#~ msgid " Required strength: %d "
+#~ msgstr " Force requise : %d "
+
+#~ msgid "   Dex: %d"
+#~ msgstr "   Dex. : %d"
+
+#~ msgid " Required dexterity: %d "
+#~ msgstr " Dextérité requise : %d "
+
+#~ msgid " , No required attributes "
+#~ msgstr " . Aucun attributs requis "
+
+#~ msgid "Recover Health\n"
+#~ msgstr "Soigne\n"
+
+#~ msgid "Analyze one item\n"
+#~ msgstr "Analyse un objet\n"
+
+#~ msgid ""
+#~ "Teleports you to a safe place or\n"
+#~ " back to your previous position\n"
+#~ msgstr ""
+#~ "Vous téléporte dans un endroit sûr,\n"
+#~ "ou vous ramène à votre précédente\n"
+#~ "position.\n"
+
+#~ msgid "Cooling aid\n"
+#~ msgstr "Liquide de refroidissement\n"
+
+#~ msgid ""
+#~ "Recover Health, Force\n"
+#~ "and Running Power\n"
+#~ msgstr ""
+#~ "Redonne de la santé, de la force\n"
+#~ "et de l'endurance.\n"
+
+#~ msgid "Recover Running Power\n"
+#~ msgstr "Redonne de l'endurance\n"
+
+#~ msgid "Temporary Boost to Strength\n"
+#~ msgstr "Amélioration temporaire de la force\n"
+
+#~ msgid "Temporary Boost to Dexterity\n"
+#~ msgstr "Amélioration temporaire de la dexterité\n"
+
+#~ msgid "To implant the automap device\n"
+#~ msgstr "Pour implanter le dispositif de carte automatique\n"
+
+#~ msgid "Increase strength\n"
+#~ msgstr "Augmente la force\n"
+
+#~ msgid "Increase dexterity\n"
+#~ msgstr "Augmente la dextérité\n"
+
+#~ msgid "Permanently gain +1 CPU\n"
+#~ msgstr "Gain permanent de CPU (+1)\n"
+
+#~ msgid "Permanently acquire/enhance this program\n"
+#~ msgstr "Acquiert/augmente ce programme de façon permanente.\n"
+
+#~ msgid "Electromagnetic pulse\n"
+#~ msgstr "Impulsion électromagnétique\n"
+
+#~ msgid "Gas attack\n"
+#~ msgstr "Attaque au gaz\n"
+
+#~ msgid "Huge explosion\n"
+#~ msgstr "Grosse explosion\n"
+
+#~ msgid "USE UNDESCRIBED YET (bug)\n"
+#~ msgstr "UTILISATION NON DÉCRITE POUR L'INSTANT (bug)\n"
+
+#~ msgid "Right click to use"
+#~ msgstr "Clic droit pour utiliser"
+
+#~ msgid "%d to strength"
+#~ msgstr "%d à la force"
+
+#~ msgid "%d to dexterity"
+#~ msgstr "%d à la dextérité"
+
+#~ msgid "%d to CPU"
+#~ msgstr "%d au CPU"
+
+#~ msgid "%d to life"
+#~ msgstr "%d à la vitalité"
+
+#~ msgid "%d health points"
+#~ msgstr "%d points de vie"
+
+#~ msgid "%0.1f health points per second"
+#~ msgstr "%0.1f points de vie par seconde"
+
+#~ msgid "%0.1f cooling per second"
+#~ msgstr "%0.1f refroidissement par seconde"
+
+#~ msgid "%0.1f heating per second"
+#~ msgstr "%0.1f réchauffement par seconde"
+
+#~ msgid "%d Force"
+#~ msgstr "%d Force"
+
+#~ msgid "%d%% to hit"
+#~ msgstr "%d%% à l'attaque"
+
+#~ msgid "%d to all attributes"
+#~ msgstr "%d à tous les attributs"
+
+#, fuzzy
+#~ msgid "%d%% to armor"
+#~ msgstr "%d%% à l'armure"
+
+#~ msgid "%d%% to damage"
+#~ msgstr "%d%% aux dommages"
+
+#~ msgid "+%d to resist disruptor"
+#~ msgstr "+%d à la résistance aux armes à distance"
+
+#~ msgid "+%d to resist fire"
+#~ msgstr "+%d à la résistance au feu"
+
+#~ msgid "+%d to resist electricity"
+#~ msgstr "+%d à la résistance à l'électricité"
+
+#~ msgid "%d to light radius"
+#~ msgstr "%d à la portée de lumière"
+
+#~ msgid " UNIDENTIFIED "
+#~ msgstr " NON IDENTIFIÉ "
+
+#~ msgid "reloading"
+#~ msgstr "recharge"
+
+#~ msgid " %sEMPTY"
+#~ msgstr " %sVIDE"
+
+#~ msgid "REQUIREMENTS NOT MET"
+#~ msgstr "PRÉREQUIS NON SATISFAITS"
+
+#~ msgid ""
+#~ "Health\n"
+#~ "%s%d/%d"
+#~ msgstr ""
+#~ "Santé\n"
+#~ "%s%d/%d"
+
+#~ msgid ""
+#~ "Temperature \n"
+#~ "%s%d/%d"
+#~ msgstr ""
+#~ "Température \n"
+#~ "%s%d/%d"
+
+#~ msgid ""
+#~ "Run\n"
+#~ "%s%d/%d"
+#~ msgstr ""
+#~ "Endurance\n"
+#~ "%s%d/%d"
+
+#~ msgid ""
+#~ "XP\n"
+#~ "%d/%d"
+#~ msgstr ""
+#~ "EXP\n"
+#~ "%d/%d"
+
+#~ msgid " C H E S T "
+#~ msgstr " C O F F R E "
+
+#~ msgid " B A R R E L "
+#~ msgstr " B A R I L "
+
+#~ msgid " C R A T E "
+#~ msgstr " C A I S S E "
+
+#~ msgid "--- Message Protocol ---"
+#~ msgstr "--- Protocole de Messagerie ---"
+
+#~ msgid ""
+#~ "This is the protocol.\n"
+#~ "Oh yes, it is indeed!\n"
+#~ "It has multiple lines too!\n"
+#~ "Isn't that great?  But how long may any one line be?  Is there a limit "
+#~ "for that?  Anyway, it looks good."
+#~ msgstr ""
+#~ "C'est le protocole.\n"
+#~ "Eh oui, c'est le protocole.\n"
+#~ "Il a plusieurs ligne en plus !\n"
+#~ "C'est pas super ? Mais quelle longueur peut faire une ligne ? Y a-t-il "
+#~ "une limite pour ça ? Quoi qu'il en soit, ça à l'air bon."
+
+#~ msgid "Clip empty, reloading..."
+#~ msgstr "Chargeur vide, rechargement..."
+
+#~ msgid "No more ammunition !"
+#~ msgstr "Plus de munitions !"
+
+#~ msgid "This is a %s. %s"
+#~ msgstr "C'est un %s. %s"
+
+#, fuzzy
+#~ msgid "Examining %s. %s"
+#~ msgstr "Examine %s.  %s"
+
+#~ msgid ""
+#~ "My name is Bug. Software Bug. Please report me to the developers. Thank "
+#~ "you."
+#~ msgstr ""
+#~ "Mon nom est Bogue. Bogue de Programme. Rapporter aux développeurs, s'il "
+#~ "vous plait. Merci."
+
+#~ msgid "Hmm... This must be the token town sage."
+#~ msgstr "Hmm ... Ça doit être le sage de la ville."
+
+#, fuzzy
+#~ msgid ""
+#~ "You see a legend. Sorenson Clark. One of the best human programmers that "
+#~ "has ever lived. Just like Paganini, she is said to have sold her soul to "
+#~ "the devil for her skill. Whatever the truth is, her code is like magic, "
+#~ "and there is no denying that."
+#~ msgstr ""
+#~ "Vous voyez une légende. Sorenson Clark. Un des meilleurs programmeurs "
+#~ "humains qui n'ait jamais existé. Tout comme Paganini, on dit qu'elle a "
+#~ "vendu son âme au diable pour sa compétence. Quelle que soit la vérité, "
+#~ "son code semble magique, et ça, c'est indéniable."
+
+#, fuzzy
+#~ msgid ""
+#~ "He is either a college student, a drug addict or a hacker. You bet he has "
+#~ "not had a warm meal for days, he looks totally malnourished. His body "
+#~ "keeps twitching. Must be the caffeine. You hope."
+#~ msgstr ""
+#~ "C'est soit un étudiant de fac, un drogué ou un hacker. Je parie qu'il n'a "
+#~ "pas eu un repas chaud depuis des jours, il semble très mal nourri. Son "
+#~ "corps tremble en permanence. Ça doit être la caféine. J'espère."
+
+#, fuzzy
+#~ msgid "Don't do steroids, or you will be just like him."
+#~ msgstr "Ne prenez jamais de stéroïdes, sinon vous finirez comme lui."
+
+#~ msgid ""
+#~ "There are at least 614 reasons to stay away from the 614 bot battle "
+#~ "platform. There are also 614 reasons why a 614 bot battle platform can be "
+#~ "your best friend during combat..."
+#~ msgstr ""
+#~ "Il y au moins 614 raisons pour rester loin d'un robot de combat 614. Il y "
+#~ "a aussi 614 raisons pour lesquelles un robot de combat 614 peut être "
+#~ "votre meilleur ami lors d'un combat..."
+
+#, fuzzy
+#~ msgid ""
+#~ "Francis is not looking so good today. His tattered coat is not looking "
+#~ "that much better. The war is taking its toll on them both."
+#~ msgstr ""
+#~ "Francis n'a pas l'air très bien aujourd'hui. Son manteau en lambeaux n'a "
+#~ "pas l'air mieux, non plus. La guerre se répercute négativement sur eux-"
+#~ "deux."
+
+#~ msgid ""
+#~ "What a strange person. He does not seem to really fit into this reality. "
+#~ "There is something very eerie about him. And frightening."
+#~ msgstr ""
+#~ "Quelle étrange personne. Il ne semble pas vraiment s'ajuster à la "
+#~ "réalité. Il y a quelque chose de très inquiétant, le concernant. Et "
+#~ "d'effrayant."
+
+#, fuzzy
+#~ msgid ""
+#~ "This person looks totally defeated. Tattered clothes surround his "
+#~ "skeletal form. If there was a fifth rider of the apocalypse, it would be "
+#~ "him and his name would be Hard Work."
+#~ msgstr ""
+#~ "Cette personne semble totalement abattue. Des lambeaux entourent sa forme "
+#~ "squelettique. S'il y avait un cinquième cavalier de l'apocalypse, ce "
+#~ "serait lui et son nom serait Dur Labeur."
+
+#, fuzzy
+#~ msgid ""
+#~ "It seems that even at the end of the world the species known as "
+#~ "'Salesman' is able to survive. Just his presence makes you want to "
+#~ "destroy all humans."
+#~ msgstr ""
+#~ "Il semble que même pendant la fin du monde, l'espèce connue sous le nom "
+#~ "de 'vendeurs' est capable de survivre. Sa simple présence vous donne "
+#~ "envie de tuer tous les humains."
+
+#~ msgid "He looks unexplicably happy."
+#~ msgstr "Il a l'air inexplicablement heureux."
+
+#~ msgid ""
+#~ "In some places of the world there exists a very interesting saying. "
+#~ "'Tough as nails.' However, in every place where the Stone trader family "
+#~ "stays for a while, a new saying emerges. 'Tough as the Stones.'"
+#~ msgstr ""
+#~ "Dans certaines parties du monde, il existe un dicton disant \"Résistant "
+#~ "comme les ongles\". Pourtant, partout où la famille de commercants Stone "
+#~ "réside pendant quelques temps, un nouveau dicton apparaît : \"Dur comme "
+#~ "les Stones\"."
+
+#, fuzzy
+#~ msgid ""
+#~ "It is very obvious that this is not a normal Red Guard. Most of them do "
+#~ "not have oil stains on their armor, or smell of alcohol."
+#~ msgstr ""
+#~ "Il est vraiment évident que ça n'est pas un Garde Rouge normal. La "
+#~ "plupart d'entre eux n'ont pas de tâches d'huiles sur leur armure et ne "
+#~ "sentent pas l'alcool."
+
+#~ msgid ""
+#~ "It looks like a 614. It moves like a 614. It even kills like a 614. Must "
+#~ "be a 614 then."
+#~ msgstr ""
+#~ "Ça ressemble à un 614. Ça bouge comme un 614. Ça tue même comme un 614. "
+#~ "Ça doit donc être un 614."
+
+#, fuzzy
+#~ msgid ""
+#~ "He must be the resident scientist. The only thing keeping his body alive "
+#~ "is the massive coffee overdose that he takes early every morning. The "
+#~ "amount of caffeine that he has in his blood right now would be enough to "
+#~ "kill ten humans, but since computer scientists are a different species, "
+#~ "he is unharmed."
+#~ msgstr ""
+#~ "Ce doit être le scientifique de réserve. La seule chose qui garde son "
+#~ "corps en vie est la surdose massive de café qu'il prend chaque matin. La "
+#~ "quantité de caféine qu'il a dans le sang actuellement pourrait tuer une "
+#~ "dizaine d'humains, mais puisque les informaticiens sont d'une espèce "
+#~ "différente, ça ne lui pose pas de problème."
+
+#~ msgid ""
+#~ "Something about him makes you think of angels. Except angels are usually "
+#~ "sane, do not have an urge to kill everything around them and are much "
+#~ "better at singing religious songs."
+#~ msgstr ""
+#~ "Quelque chose le concernant vous fait penser aux anges. Mis à part que "
+#~ "les anges sont généralement sains d'esprit, n'ont pas le désir de tuer "
+#~ "tout ce qui les entoure, et sont bien meilleurs pour chanter des chants "
+#~ "religieux."
+
+#~ msgid ""
+#~ "As you look at him, you cannot really belive he is there. If you turn "
+#~ "your back on him he will vanish like a ghost into thin air and you will "
+#~ "never see him again."
+#~ msgstr ""
+#~ "Lorsque vous le regardez, vous avez du mal à croire qu'il est vraiment "
+#~ "là. Si vous vous retournez, il va disparaître tel un fantôme et vous ne "
+#~ "le reverrez jamais."
+
+#~ msgid ""
+#~ "His IQ is sometimes as high as a dog's. Only sometimes though. He smells "
+#~ "like a dog too."
+#~ msgstr ""
+#~ "Son QI semble aussi élevé que celui d'un chien. Mais, parfois seulement. "
+#~ "Il a aussi l'odeur d'un chien."
+
+#~ msgid ""
+#~ "He seems to be the chief of the gate guards. Hard to say anything more, "
+#~ "the armor hides his body."
+#~ msgstr ""
+#~ "Il semble être le chef des gardes du portail. Difficile d'en dire plus, "
+#~ "l'armure cache son corps."
+
+#, fuzzy
+#~ msgid ""
+#~ "Yet another Red Guard, the ranged weapons instructor. The armor hides his "
+#~ "body."
+#~ msgstr ""
+#~ "Encore un autre Garde Rouge. On ne peut pas en dire plus, l'armure cache "
+#~ "son corps."
+
+#~ msgid ""
+#~ "Some people say that every doctor is addicted to drugs. You estimate that "
+#~ "right now this one is high on at least four different narcotics. Doc "
+#~ "Moore seems very happy indeed..."
+#~ msgstr ""
+#~ "Certains disent que tous les médecins sont accro aux drogues. Celui-ci "
+#~ "doit, en ce moment, être sous l'effet d'au moins quatre narcotiques "
+#~ "différents. Docteur Moore semble très heureux, en effet..."
+
+#~ msgid ""
+#~ "Yet another Red Guard. You cannot say anything more, the armor hides his "
+#~ "body."
+#~ msgstr ""
+#~ "Encore un autre Garde Rouge. On ne peut pas en dire plus, l'armure cache "
+#~ "son corps."
+
+#, fuzzy
+#~ msgid ""
+#~ "He looks taller than most of the Red Guards, but you cannot really "
+#~ "determine anything more about him, the armor hides his body."
+#~ msgstr ""
+#~ "Il semble plus grand que la majeure partie des Gardes Rouges, mais on ne "
+#~ "peut pas en dire plus, l'armure cache son corps."
+
+#~ msgid ""
+#~ "And now you know who is to be blamed for the truly awful food in here. "
+#~ "You are in a killing mood. Oh yeah. The cook must die. The cook must die. "
+#~ "Ha. Ha. Ha."
+#~ msgstr ""
+#~ "Maintenant vous savez qui blâmer pour la nourriture exécrable ici. Vous "
+#~ "êtes d'humeur massacrante. Oh oui. Le cuisinier doit mourir. Le cuisinier "
+#~ "doit mourir. Ha. Ha. Ha."
+
+#, fuzzy
+#~ msgid ""
+#~ "This is a minor bug. Please report this incident to the developers. Thank "
+#~ "you."
+#~ msgstr ""
+#~ "Ceci est un gros bogue. Rapporter cet incident aux développeurs, s'il "
+#~ "vous plait. Merci."
+
+#~ msgid ""
+#~ "Blood. Stone. Cog. The Blood has made the Cog from the Stone. Now the Cog "
+#~ "is making more Stone from the Blood. I wonder what is the next step of "
+#~ "the cycle..."
+#~ msgstr ""
+#~ "Sang. Pierre. Cran. Le Sang a créé le Cran à partir de la Pierre. "
+#~ "Maintenant, le Cran est en train de faire plus de Pierre à partir du "
+#~ "Sang. Je me demande quelle est la prochaine étape de ce cycle...."
+
+#~ msgid "The armor hides his body."
+#~ msgstr "L'armure cache son corps."
+
+#, fuzzy
+#~ msgid "Keeper of the Red Guard armory.  The armor hides his body."
+#~ msgstr "Juste un autre Garde Rouge. Son armure cache son corps."
+
+#~ msgid "Huh? What?  Where am I?"
+#~ msgstr "Hein ? Quoi ? Où suis-je ?"
+
+#~ msgid "Updating Tux images"
+#~ msgstr "Mise à jour des images de Tux"
+
+#~ msgid "(this may take a little while...)"
+#~ msgstr "(ceci peut prendre un peu de temps...)"
+
+#~ msgid "Starting new game."
+#~ msgstr "Commencer une nouvelle partie."
+
+#, fuzzy
+#~ msgid ""
+#~ "\n"
+#~ "You are playing a candidate release.\n"
+#~ "Many strange bugs might still be present in the game.\n"
+#~ "Please report anything you may find to #freedroid at irc.freenode.net, "
+#~ "or\n"
+#~ " by mail to freedroid-discussion at lists.sourceforge.net\n"
+#~ "Thank you for helping us test the game.\n"
+#~ "Good luck!\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Vous jouez actuellement à une version candidate.\n"
+#~ "Beaucoup de bugs étranges pourraient encore être présents dans le jeu.\n"
+#~ "Merci de reporter tout problème sur le canal #freedroid, à l'adresse \n"
+#~ "irc.freenode.net, ou par courrier électronique sur la liste freedroid-"
+#~ "discussion\n"
+#~ " arobase lists.sourceforgenet.\n"
+
+#~ msgid "Game over.\n"
+#~ msgstr "Jeu terminé.\n"
+
+#~ msgid "Game won.\n"
+#~ msgstr "Vous avez gagné.\n"
+
+#~ msgid " (Unidentified)"
+#~ msgstr " (Non identifié)"
+
+#~ msgid "I can't use this item here."
+#~ msgstr "Je ne peux pas utiliser cet objet ici."
+
+#~ msgid "How do you expect to do two things at a time? You are "
+#~ msgstr "Comment espérez-vous faire deux choses en même temps ? Vous "
+
+#~ msgid "drinking a potion!"
+#~ msgstr "buvez une potion !"
+
+#, fuzzy
+#~ msgid "waiting for your weapon to fire again!"
+#~ msgstr "attendez que votre arme tire encore !"
+
+#~ msgid "reloading your weapon!"
+#~ msgstr "rechargez votre arme !"
+
+#~ msgid "throwing a grenade!"
+#~ msgstr "lancez une grenade !"
+
+#~ msgid "running a program!"
+#~ msgstr "lancez un programme !"
+
+#~ msgid "doing something so weird the game does not understand what it is"
+#~ msgstr ""
+#~ "faites quelque chose de si bizarre que le jeu ne comprend pas ce que c'est"
+
+#~ msgid "Identified air."
+#~ msgstr "Air identifié."
+
+#~ msgid "You already know all there is to know about the %s."
+#~ msgstr "Vous savez déjà tout ce qu'il faut savoir sur le %s."
+
+#~ msgid "Identified %s"
+#~ msgstr "%s identifié(e)"
+
+#~ msgid "Two-handed weapon requirements not met: shield bonus doesn't count."
+#~ msgstr ""
+#~ "Prérequis de l'arme à deux mains non satisfaits : le bonus du bouclier ne "
+#~ "compte pas."
+
+#~ msgid "You cannot fight with this!"
+#~ msgstr "Vous ne pouvez pas vous battre avec ça !"
+
+#~ msgid "Shield requirements not met: two-handed weapon bonus doesn't count."
+#~ msgstr ""
+#~ "Prérequis pour le bouclier non satisfaits : le bonus de l'arme à deux "
+#~ "mains ne compte pas."
+
+#~ msgid "Item taken: %s."
+#~ msgstr "Objet ramassé : %s."
+
+#~ msgid "I can't carry any more."
+#~ msgstr "Je ne peux plus rien porter."
+
+#~ msgid "1 Item received (on floor)"
+#~ msgstr "1 objet reçu (sur le sol)"
+
+#~ msgid "1 Item received!"
+#~ msgstr "1 objet reçu !"
+
+#, fuzzy
+#~ msgid "+%d Experience Points"
+#~ msgstr "Expérience"
+
+#, fuzzy
+#~ msgid "%d training point(s) spent!"
+#~ msgstr ""
+#~ "Points\n"
+#~ "d'entraînement"
+
+#~ msgid "Overheating!"
+#~ msgstr "Surchauffe !"
+
+#~ msgid "Weapon reloaded"
+#~ msgstr "Arme rechargée"
+
+#~ msgid "123 Acolyte"
+#~ msgstr "123 Acolyte"
+
+#~ msgid "139 Templar"
+#~ msgstr "139 Templier"
+
+#~ msgid "247 Banshee"
+#~ msgstr "247 La Banshee"
+
+#~ msgid "249 Chicago"
+#~ msgstr "249 Chicago"
+
+#, fuzzy
+#~ msgid "296 Sawmill"
+#~ msgstr "296 Broyeur"
+
+#~ msgid "302 Nemesis"
+#~ msgstr "302 Nemesis"
+
+#~ msgid "329 Sparkie"
+#~ msgstr "329 Sparkie"
+
+#, fuzzy
+#~ msgid "598 Minister"
+#~ msgstr "Spinster"
+
+#, fuzzy
+#~ msgid "629 Spitfire"
+#~ msgstr "329 Sparkie"
+
+#~ msgid "No Description For This One"
+#~ msgstr "Aucune description pour celui-là"
+
+#, fuzzy
+#~ msgid "Your characters: "
+#~ msgstr "Les 10 premiers personnages : "
+
+#~ msgid "Select character to delete: "
+#~ msgstr "Selectionnez le personnage à supprimer : "
+
+#~ msgid "OpenGL support compiled: "
+#~ msgstr "Support OpenGL compilé : "
+
+#~ msgid " YES "
+#~ msgstr " OUI "
+
+#~ msgid " NO "
+#~ msgstr " NON "
+
+#~ msgid "OpenGL output active: "
+#~ msgstr "Sortie OpenGL activée : "
+
+#~ msgid "Play"
+#~ msgstr "Jouer"
+
+#, fuzzy
+#~ msgid "Tutorial"
+#~ msgstr "Terminal"
+
+#~ msgid "Level Editor"
+#~ msgstr "Éditeur de niveau"
+
+#~ msgid "Options"
+#~ msgstr "Options"
+
+#~ msgid "Credits"
+#~ msgstr "Crédits"
+
+#~ msgid "Contribute"
+#~ msgstr "Contribuer"
+
+#~ msgid "Exit FreedroidRPG"
+#~ msgstr "Quitter FreedroidRPG"
+
+#~ msgid ""
+#~ "\n"
+#~ "You cannot change the language\n"
+#~ "under Windows or Mac OS X.\n"
+#~ "\n"
+#~ "FreedroidRPG uses your system's language\n"
+#~ "by default for your convenience.\n"
+#~ "\n"
+#~ "    Thank you\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Vous ne pouvez pas changez de langue\n"
+#~ "sous Windows. Pour votre confort, FreedroidRPG\n"
+#~ " utilise par défaut le langage de votre système\n"
+#~ "\n"
+#~ "    Merci\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "The game has NOT been\n"
+#~ "compiled with gettext support\n"
+#~ "therefore translations are NOT\n"
+#~ "available.\n"
+#~ "Thanks\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Le jeu n'a pas été compilé\n"
+#~ "avec le support de gettext\n"
+#~ ", ainsi les traductions ne sont\n"
+#~ "pas disponibles.\n"
+#~ "Merci\n"
+
+#~ msgid "Graphics Options"
+#~ msgstr "Options graphiques"
+
+#~ msgid "Sound Options"
+#~ msgstr "Options sonores"
+
+#~ msgid "Language"
+#~ msgstr "Langue"
+
+#~ msgid "Droid Talk"
+#~ msgstr "Texte complémentaire"
+
+#~ msgid "On-Screen Displays"
+#~ msgstr "Affichage à l'écran"
+
+#~ msgid "Performance Tweaks"
+#~ msgstr "Optimisation des performances"
+
+#~ msgid "Back"
+#~ msgstr "Retour"
+
+#, fuzzy
+#~ msgid "Resume Play"
+#~ msgstr "Reprendre le jeu"
+
+#, fuzzy
+#~ msgid "Resume Playtest"
+#~ msgstr "Reprendre le jeu"
+
+#, fuzzy
+#~ msgid "Save Hero"
+#~ msgstr "Nouveau héros"
+
+#, fuzzy
+#~ msgid "Load Latest"
+#~ msgstr "Charger une partie"
+
+#, fuzzy
+#~ msgid "Load Backup"
+#~ msgstr "Charger une partie"
+
+#, fuzzy
+#~ msgid "Return to Level Editor"
+#~ msgstr "Éditeur de niveau"
+
+#, fuzzy
+#~ msgid ""
+#~ "\n"
+#~ "You selected %d x %d pixel.\n"
+#~ "\n"
+#~ "Change of screen resolution will\n"
+#~ "take effect automatically when you next\n"
+#~ "start FreedroidRPG.\n"
+#~ "\n"
+#~ "Thank you.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Vous avez sélectionné 640x480.\n"
+#~ "\n"
+#~ "Le changement de résolution prendra effet automatiquement lorsque vous "
+#~ "redémarrerez FreedroidRPG\n"
+#~ "Merci.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "This option will be taken into account after you restart the game.\n"
+#~ "\n"
+#~ "   Thank you.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Vous devez redémarrer le jeu pour que les changements soient pris en "
+#~ "compte.\n"
+#~ "\n"
+#~ "   Merci\n"
+
+#~ msgid "Change Screen Resolution"
+#~ msgstr "Changer la résolution"
+
+#, fuzzy
+#~ msgid "Fullscreen Mode"
+#~ msgstr "Mode plein ecran : %s"
+
+#~ msgid "ON"
+#~ msgstr "ON"
+
+#~ msgid "OFF"
+#~ msgstr "OFF"
+
+#, fuzzy
+#~ msgid "Gamma Correction"
+#~ msgstr "Correction gamma : %1.2f"
+
+#, fuzzy
+#~ msgid "Show Blood"
+#~ msgstr "Montrer le sang : %s"
+
+#~ msgid "YES"
+#~ msgstr "OUI"
+
+#~ msgid "NO"
+#~ msgstr "NON"
+
+#, fuzzy
+#~ msgid "Automap Scale"
+#~ msgstr "Échelle de la carte auto : %2.1f"
+
+#, fuzzy
+#~ msgid "Background Music Volume"
+#~ msgstr "Volume de la musique de fond : %1.2f"
+
+#, fuzzy
+#~ msgid "Sound Effects Volume"
+#~ msgstr "Volume des effets sonores : %1.2f"
+
+#, fuzzy
+#~ msgid "Hog CPU for max. performance"
+#~ msgstr "Monopoliser le CPU : %s"
+
+#, fuzzy
+#~ msgid "Highlighting mode"
+#~ msgstr "Mode de surlignage : %s"
+
+#~ msgid "FULL"
+#~ msgstr "COMPLET"
+
+#~ msgid "REDUCED"
+#~ msgstr "RÉDUIT"
+
+#, fuzzy
+#~ msgid "Skip light radius"
+#~ msgstr "Désactiver le halo lumineux : %s"
+
+#, fuzzy
+#~ msgid "Skip shadow blitting"
+#~ msgstr "Désactiver les ombrages : %s"
+
+#, fuzzy
+#~ msgid "Skip fadings"
+#~ msgstr "Désactiver les fondus : %s"
+
+#~ msgid "Show Position: %s"
+#~ msgstr "Afficher la position : %s"
+
+#~ msgid "Show Framerate: %s"
+#~ msgstr "Afficher les FPS : %s"
+
+#, fuzzy
+#~ msgid "Show Energy Bars: %s"
+#~ msgstr "Montrer l'energie des ennemis : %s"
+
+#~ msgid "Screen Messages at most: %d"
+#~ msgstr "Maximum de messages affichés : %d"
+
+#~ msgid "Screen Message time: %3.1f"
+#~ msgstr "Temps d'affichage d'un message : %3.1f"
+
+#, fuzzy
+#~ msgid "Enemy Hit Texts"
+#~ msgstr "Montrer lorsque l'ennemi tire : %s"
+
+#, fuzzy
+#~ msgid "Enemy Bumped Texts"
+#~ msgstr "Montre les collisions : %s"
+
+#, fuzzy
+#~ msgid "Enemy Aim Texts"
+#~ msgstr "Montrer lorsque l'ennemi vise : %s"
+
+#, fuzzy
+#~ msgid "All in-game Speech"
+#~ msgstr "Messages supplémentaires (debug) : %s"
+
+#, fuzzy
+#~ msgid "Reprogram bots after takeover"
+#~ msgstr "Reprogrammer les robots après les avoir piratés: %s"
+
+#~ msgid ""
+#~ "\n"
+#~ "     Please enter a name\n"
+#~ "     for the new hero: \n"
+#~ "     (ESCAPE to cancel.)\n"
+#~ "\n"
+#~ "     > "
+#~ msgstr ""
+#~ "\n"
+#~ "     Veuillez entrer un nom\n"
+#~ "     pour le nouveau héros : \n"
+#~ "     (ECHAP pour annuler.)\n"
+#~ "\n"
+#~ "     > "
+
+#~ msgid "BACK"
+#~ msgstr "RETOUR"
+
+#, fuzzy
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "No saved games found!"
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "Aucune sauvegarde trouvée !! Chargement annulé. "
+
+#~ msgid "Sure!"
+#~ msgstr "D'accord !"
+
+#~ msgid "Really delete hero '%s'?"
+#~ msgstr "Confirmez vous la suppression du héros '%s' ?"
+
+#~ msgid "New Hero"
+#~ msgstr "Nouveau héros"
+
+#~ msgid "Load existing Hero"
+#~ msgstr "Charger un héros existant"
+
+#~ msgid "Delete existing Hero"
+#~ msgstr "Supprimer un héros existant"
+
+#~ msgid "Pausing game..."
+#~ msgstr "Jeu en pause ..."
+
+#~ msgid "GAME PAUSED"
+#~ msgstr "JEU EN PAUSE"
+
+#~ msgid "Game resumed."
+#~ msgstr "Jeu repris."
+
+#~ msgid "Arrived at %s."
+#~ msgstr "Arrivé à %s."
+
+#~ msgid "Mission: "
+#~ msgstr "Mission : "
+
+#~ msgid "Status: "
+#~ msgstr "Status : "
+
+#~ msgid "COMPLETE"
+#~ msgstr "TERMINÉE"
+
+#~ msgid "FAILED"
+#~ msgstr "ÉCHOUÉE"
+
+#~ msgid "STILL OPEN"
+#~ msgstr "EN COURS"
+
+#~ msgid ""
+#~ "\n"
+#~ "Details:\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Details:\n"
+
+#~ msgid "No open quests yet."
+#~ msgstr "Aucune quête en cours pour l'instant."
+
+#~ msgid "No completed quests yet."
+#~ msgstr "Aucune quête terminée pour l'instant."
+
+#~ msgid "No notes yet."
+#~ msgstr "Aucune note pour l'instant."
+
+#~ msgid ""
+#~ "An error occured when trying to load the savegame.\n"
+#~ "A common reason for this is that the game has been updated to a newer "
+#~ "version since the save was made, in which case the savegame is very "
+#~ "likely not compatible.\n"
+#~ "However if you see this message and you have not updated the game, make "
+#~ "sure to report this to the developers.\n"
+#~ "Thanks!"
+#~ msgstr ""
+#~ "Une erreur est survenue pendant le chargement du jeu.\n"
+#~ "Cela peut être dû au fait que le jeu à été  mis à jour depuis que la "
+#~ "sauvegarde a été effectuée, auquel cas la sauvegarde est incompatible.\n"
+#~ "Cependant si vous voyez ce message et n'avez pas mis à jour le jeu, "
+#~ "faites-le savoir aux développeurs.\n"
+#~ "Merci!"
+
+#~ msgid "You are dead. Savegame not modified."
+#~ msgstr "Vous êtes mort. La sauvegarde du jeu n'est pas modifiée."
+
+#~ msgid "Game saved."
+#~ msgstr "Jeu sauvegardé."
+
+#~ msgid "Failed to load old game."
+#~ msgstr "Échec du chargement de l'ancienne partie."
+
+#~ msgid ""
+#~ "Version or structsize mismatch! The savegame is not from the same version "
+#~ "of freedroidRPG... possible breakage.\n"
+#~ msgstr ""
+#~ "Version ou taille de structure non compatible ! Cette sauvegarde ne "
+#~ "provient pas de la même version de freedroidRPG... crash possible.\n"
+
+#~ msgid "Updating Tux images (this may take a little while...)"
+#~ msgstr "Mise à jour des images de Tux (veuillez patienter ...)"
+
+#~ msgid "Game loaded."
+#~ msgstr "Jeu chargé."
+
+#~ msgid "Weapon"
+#~ msgstr "Arme"
+
+#~ msgid "Drive"
+#~ msgstr "Chassis"
+
+#~ msgid "Shield"
+#~ msgstr "Bouclier"
+
+#~ msgid "Helm"
+#~ msgstr "Heaume"
+
+#~ msgid "Miscellaneous"
+#~ msgstr "Divers"
+
+#~ msgid ""
+#~ "Item: %s \n"
+#~ "Class: %s\n"
+#~ msgstr ""
+#~ "Objet : %s \n"
+#~ "Classe : %s\n"
+
+#~ msgid "Specials:"
+#~ msgstr "Spécial :"
+
+#~ msgid "Multiplicity: "
+#~ msgstr "Nombre : "
+
+#~ msgid "Duration: "
+#~ msgstr "Solidité : "
+
+#~ msgid "Indestructible\n"
+#~ msgstr "Indestructible\n"
+
+#~ msgid "Attributes required: "
+#~ msgstr "Attributs requis : "
+
+#~ msgid "NONE\n"
+#~ msgstr "AUCUN\n"
+
+#~ msgid "Str: %d "
+#~ msgstr "For: %d "
+
+#~ msgid "Dex: %d "
+#~ msgstr "Dex : %d "
+
+#~ msgid "Mag: %d "
+#~ msgstr "Mag : %d "
+
+#~ msgid "Base list price: %ld\n"
+#~ msgstr "Valeur de base : %ld\n"
+
+#~ msgid "Sell value: %ld\n"
+#~ msgstr "Valeur de vente : %ld\n"
+
+#~ msgid "Repair cost: %ld\n"
+#~ msgstr "Coût de réparation : %ld\n"
+
+#~ msgid "Unsellable\n"
+#~ msgstr "Invendable\n"
+
+#~ msgid "Identification cost: 100\n"
+#~ msgstr "Coût d'identification: 100\n"
+
+#~ msgid "Damage: %d - %d\n"
+#~ msgstr "Dommages : %d - %d\n"
+
+#~ msgid "Recharge time: %3.2f\n"
+#~ msgstr "Temps de rechargement : %3.2f\n"
+
+#~ msgid "Time to reload ammo clip: %3.2f\n"
+#~ msgstr "Temps de changement de chargeur : %3.2f\n"
+
+#~ msgid "Defense bonus: %d\n"
+#~ msgstr "Bonus de défense : %d\n"
+
+#~ msgid "Notes: %s"
+#~ msgstr "Notes : %s"
+
+#~ msgid " This weapon requires standard plasma ammunition."
+#~ msgstr " Cette arme nécessite des munitions de plasma standards."
+
+#~ msgid " This weapon requires standard laser crystal ammunition."
+#~ msgstr " Cette arme nécessite des munitions de laser standards."
+
+#~ msgid " This weapon requires standard exterminator ammunition spheres."
+#~ msgstr " Cette arme nécessite des munition d'exterminator standards."
+
+#~ msgid " This weapon requires .22 Long Rifle rounds."
+#~ msgstr " Cette arme nécessite des munitions de calibre .22 Long Rifle"
+
+#~ msgid " This weapon requires Shotgun shells."
+#~ msgstr " Cette arme nécessite de la grenaille pour fusil à pompe."
+
+#~ msgid " This weapon requires 9x19mm rounds."
+#~ msgstr " Cette arme nécessite des munitions de calibre 9x19mm."
+
+#~ msgid " This weapon requires 7.62x39mm rounds."
+#~ msgstr " Cette arme nécessite des munitions de calibre 7.62x39mm."
+
+#~ msgid " This weapon requires .50 (12.7x99mm) Browning Machine Gun rounds."
+#~ msgstr ""
+#~ " Cette arme nécessite des munitions de de calibre .50 (12.7x99mm) pour "
+#~ "Mitraillette Browning"
+
+#~ msgid "Yes"
+#~ msgstr "Oui"
+
+#~ msgid "No"
+#~ msgstr "Non"
+
+#~ msgid " BACK "
+#~ msgstr " RETOUR "
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "You can't afford to have this item repaired! "
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "Vous n'avez pas de quoi faire réparer cet objet ! "
+
+#~ msgid "You can't afford to have this item identified! "
+#~ msgstr "Vous n'avez pas de quoi faire identifier cet objet ! "
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "   No room for this item in inventory!"
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "   Vous n'avez pas de place pour cet objet dans votre inventaire !"
+
+#~ msgid ""
+#~ "\n"
+#~ "Tried to take 0 items of a kind from chest or cointainer... doing "
+#~ "nothing... "
+#~ msgstr ""
+#~ "\n"
+#~ "Impossible de ramasser 0 objet d'un coffre ou d'un container ... "
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "    You can't afford to purchase this item!"
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "    Vous n'avez pas de quoi acheter cet objet !"
+
+#~ msgid "Paralyze"
+#~ msgstr "Paralyser"
+
+#~ msgid "Slow down"
+#~ msgstr "Ralentir"
+
+#~ msgid "Invisible"
+#~ msgstr "Invisible"
+
+#~ msgid "Poison"
+#~ msgstr "Poison"
+
+#~ msgid "Escape"
+#~ msgstr "Échappement"
+
+#~ msgid ""
+#~ "Unit type %s\n"
+#~ "Entry : %d\n"
+#~ msgstr ""
+#~ "Type d'unité %s\n"
+#~ "Entrée: %d\n"
+
+#~ msgid "none"
+#~ msgstr "aucun"
+
+#, fuzzy
+#~ msgid ""
+#~ "\n"
+#~ "Armament : %s\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Armement : %s\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Notes: %s\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Notes : %s\n"
+
+#~ msgid "For taking control of your enemy, you receive %d experience."
+#~ msgstr ""
+#~ "Pour avoir pris le contrôle de votre ennemi, vous recevez %d points "
+#~ "d'experience."
+
+#~ msgid "You cheat"
+#~ msgstr "Vous avez triché"
+
+#~ msgid "Complete"
+#~ msgstr "Réussi"
+
+#~ msgid "Rejected"
+#~ msgstr "Rejeté"
+
+#~ msgid "Deadlock"
+#~ msgstr "Bloqué"
+
+#~ msgid "Color-%d"
+#~ msgstr "Couleur-%d"
+
+#~ msgid "Subliminal"
+#~ msgstr "Subliminal"
+
+#~ msgid "Finish-%d"
+#~ msgstr "Fin-%d"
+
+#~ msgid "Score"
+#~ msgstr "Score"
+
+#~ msgid "Unhandled exception fault.  Press ok to reboot."
+#~ msgstr "Exception non contolée. Appuyer sur ok pour redémarrer."
+
+#~ msgid "System fault. Please buy a newer version."
+#~ msgstr "Erreur système. Veuillez acheter une nouvelle version."
+
+#~ msgid "System error. Might be a virus."
+#~ msgstr "Erreur système. Cela pourrait être dû à un virus."
+
+#~ msgid "System error. Please buy an upgrade from MS."
+#~ msgstr "Erreur système. Veuiller acheter une mise à jour au près de MS."
+
+#~ msgid "System error. Press any key to reboot."
+#~ msgstr "Erreur système. Appuyer sur une touche pour redémarrer."
+
+#~ msgid "Aargh, I got hit.  Ugh, I got a bad feeling..."
+#~ msgstr "Aargh, j'ai été touché. Ugh, je me sens mal ..."
+
+#~ msgid "GPS: X=%3.1f Y=%3.1f Lev=%d"
+#~ msgstr "GPS: X=%3.1f Y=%3.1f Niv=%d"
+
+#~ msgid "FPS: %d"
+#~ msgstr "FPS : %d"
+
+#, fuzzy
+#~ msgid "Time to hold out still: %2d:%2d"
+#~ msgstr "Temps à tenir : %2d:%2d "
+
+#, fuzzy
+#~ msgid "Bots remaining on level: %d\n"
+#~ msgstr "Robots restant dans le niveau : %d"
+
+#, fuzzy
+#~ msgid "untrained"
+#~ msgstr "Entrée"
+
+#~ msgid "novice"
+#~ msgstr "débutant"
+
+#, fuzzy
+#~ msgid "apprentice"
+#~ msgstr "Expérience"
+
+#, fuzzy
+#~ msgid "master"
+#~ msgstr "maître"
+
+#~ msgid "Cancel item drop"
+#~ msgstr "Annuler le point de chute"
+
+#~ msgid ""
+#~ "\n"
+#~ " Map label information: \n"
+#~ " label_name=\"%s\"."
+#~ msgstr ""
+#~ "\n"
+#~ " Nom position carte: \n"
+#~ " label_name=\"%s\""
+
+#~ msgid ""
+#~ "Go level north\n"
+#~ "\n"
+#~ "Use this button to move one level north, i.e. to the level that is glued "
+#~ "to the northern side of this level."
+#~ msgstr ""
+#~ "Va au niveau nord\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour vous déplacer d'un niveau au nord, c'est-à-dire "
+#~ "le prochain niveau au nord du niveau actuel."
+
+#~ msgid ""
+#~ "Go level south\n"
+#~ "\n"
+#~ "Use this button to move one level south, i.e. to the level that is glued "
+#~ "to the southern side of this level."
+#~ msgstr ""
+#~ "Va au niveau sud\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour vous déplacer d'un niveau vers le sud, c'est-à-"
+#~ "dire vers le prochain niveau au sud de l'actuel."
+
+#~ msgid ""
+#~ "Go level east\n"
+#~ "\n"
+#~ "Use this button to move one level east, i.e. to the level that is glued "
+#~ "to the eastern side of this level."
+#~ msgstr ""
+#~ "Va au niveau est\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour vous déplacer d'un niveau vers l'est, c'est-à-"
+#~ "dire vers le prochain niveau à l'est de l'actuel."
+
+#~ msgid ""
+#~ "Go level west\n"
+#~ "\n"
+#~ "Use this button to move one level west, i.e. to the level that is glued "
+#~ "to the western side of this level."
+#~ msgstr ""
+#~ "Va au niveau ouest\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour vous déplacer d'un niveau vers l'ouest, c'est-à-"
+#~ "dire vers le prochain niveau à l'ouest de l'actuel."
+
+#~ msgid ""
+#~ "Export this level\n"
+#~ "\n"
+#~ "In FreedroidRPG maps can be glued together to form one big map.  But that "
+#~ "requires that the maps are identical where they overlap.  This button "
+#~ "will copy the borders of this level to the borders of the neighbouring "
+#~ "levels, so that the maps are in sync again."
+#~ msgstr ""
+#~ "Exporter ce niveau\n"
+#~ "\n"
+#~ "Dans FreedroidRPG, les cartes peuvent être assemblées ensemble pour "
+#~ "former une seule grande carte. Mais cela nécessite que les cartes "
+#~ "coïncident sur leurs contours. Ce bouton va copier les bords de ce niveau "
+#~ "vers les bords du niveau voisin, afin que les cartes coïncident toujours."
+
+#, fuzzy
+#~ msgid ""
+#~ "Save Map\n"
+#~ "\n"
+#~ "This button will save your current map over the file '../map/freedroid."
+#~ "levels' from your current working directory."
+#~ msgstr ""
+#~ "Sauvegarder la carte\n"
+#~ "\n"
+#~ "Ce bouton sauvegardera votre carte actuelle dans le fichier '../map/"
+#~ "Asteroid.maps' de votre répertoire de travail actuel."
+
+#~ msgid ""
+#~ "Toggle waypoints\n"
+#~ "\n"
+#~ "Use this button to toggle waypoints on the current cursor location.  "
+#~ "Waypoints are marked with a white (or multicolored) 4-direction arrow.\n"
+#~ "\n"
+#~ "You can also use the W key for this."
+#~ msgstr ""
+#~ "Placement des points de passage\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour placer des points de passage à l'endroit courant "
+#~ "du curseur. Les points de passage sont marqués par une flèche quadri-"
+#~ "directionnelle blanche (ou multicouleurs).\n"
+#~ "Vous pouvez faire la même chose en utilisant la touche W."
+
+#~ msgid ""
+#~ "Make waypoint connection\n"
+#~ "\n"
+#~ "Use this button to start a connection between waypoints, so that droids "
+#~ "can move along this connection.\n"
+#~ "\n"
+#~ "You can also use the C key for this."
+#~ msgstr ""
+#~ "Fait des connexions entre les points de passage\n"
+#~ "\n"
+#~ "Utilisez dce bouton pour commencer une connexion entre des points de "
+#~ "passage, pour que les droïdes voyagent le long de ce chement.\n"
+#~ "\n"
+#~ "Vous pouvez aussi utiliser la touche C pour le faire."
+
+#~ msgid ""
+#~ "Complete waypoint connection\n"
+#~ "\n"
+#~ "You have currently a connection attempt going on already.  Go to the "
+#~ "desired destination waypoint and hit this button again to establish the "
+#~ "connection.\n"
+#~ "\n"
+#~ "You can also use the C key for this."
+#~ msgstr ""
+#~ "Achève les connexions entre les points de passage\n"
+#~ "\n"
+#~ "Vous avez actuellement une connection qui est prête à être activée. Allez "
+#~ "au point de passage de destination et utilisez encore ce bouton pour "
+#~ "faire la connexion.\n"
+#~ "\n"
+#~ "Vous pouvez également utiliser la touche C pour cela."
+
+#~ msgid ""
+#~ "Delete selected obstacle\n"
+#~ "\n"
+#~ "Use this button to delete the currently marked obstacle.\n"
+#~ "\n"
+#~ "You can also use the X key for this."
+#~ msgstr ""
+#~ "Supprime l'obstacle sélectionné\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour supprimer l'obstacles sélectionné.\n"
+#~ "\n"
+#~ "Vous pouvez aussi utiliser la touche X pour cela."
+
+#~ msgid ""
+#~ "Next obstacle on currently selected tile\n"
+#~ "\n"
+#~ "Use this button to cycle the currently marked obstacle on this tile.\n"
+#~ "\n"
+#~ "You can also use the N key for this."
+#~ msgstr ""
+#~ "Le prochain obstacle sur la dalle courante\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour entourer l'obstacle sélectionné sur cette dalle.\n"
+#~ "\n"
+#~ "Vous pouvez aussi utiliser la touche N pour cela."
+
+#~ msgid ""
+#~ "Beautify grass button\n"
+#~ "\n"
+#~ "Use this button to 'beautify' rough edges of the grass-sand tiles on this "
+#~ "entire level automatically.  The function will attempt to create 'round' "
+#~ "borders and corners.\n"
+#~ "\n"
+#~ "You can also use Ctrl-B for this."
+#~ msgstr ""
+#~ "Enjoliver les hautes herbes\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour \"enjoliver\" les hautes herbes par-dessus les "
+#~ "dalles de sable du niveau entier. Cette fonction va essayer de créer des "
+#~ "bordures et des coins arrondis.\n"
+#~ "\n"
+#~ "Vous pouvez également utiliser Ctrl-B pour cela."
+
+#~ msgid ""
+#~ "Zoom in/out\n"
+#~ "\n"
+#~ "Use this button to zoom INTO or OUT of the level.\n"
+#~ "\n"
+#~ "You can also use the hotkey 'O' for this."
+#~ msgstr ""
+#~ "Zoom avant/arrière\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour faire un zoom AVANT ou ARRIERE du niveau.\n"
+#~ "\n"
+#~ "Vous pouvez également utiliser la touche 'O' pour cela."
+
+#~ msgid ""
+#~ "Fill\n"
+#~ "\n"
+#~ "Use this button to fill a concurrent area of the map with the currently "
+#~ "selected map tile.  Filling will proceed from the cursor in all "
+#~ "directions until a change of map tile is encountered."
+#~ msgstr ""
+#~ "Remplissage\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour remplir une autre aire de la carte avec les "
+#~ "dalles sélectionnées. Le remplissage va démarrer du curseur dans toutes "
+#~ "les directions jusqu'à ce qu'un changement de dalles de la carte soit "
+#~ "rencontré."
+
+#~ msgid ""
+#~ "New obstacle label\n"
+#~ "\n"
+#~ "Use this button to attach a label to the currently marked obstacle.  "
+#~ "These obstacle labels can be used to define obstacles to be modified by "
+#~ "events.\n"
+#~ " Note that you can also use the hotkey 'h' for this."
+#~ msgstr ""
+#~ "Nouvelle étiquette d'obstacle\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour fixer une étiquette à un obstacle actuellement "
+#~ "sélectionné. Cette étiquette d'obstacle peut être utilisée pour définir "
+#~ "des obstacles modifiés par des évènements.\n"
+#~ " Remarquez que vous pouvez également utiliser la touche rapide 'h' pour "
+#~ "cela."
+
+#~ msgid ""
+#~ "New obstacle description\n"
+#~ "\n"
+#~ "edits the description seen when the item is selected"
+#~ msgstr ""
+#~ "Nouvelle description d'obstacle\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour éditer la description de l'obstacle sélectionné."
+
+#~ msgid ""
+#~ "New map label\n"
+#~ "\n"
+#~ "Use this button to attach a new map label to the current cursor "
+#~ "position.  These map labels can be used to define starting points for "
+#~ "bots and characters or also to define locations for events and triggers."
+#~ msgstr ""
+#~ "Nouvelle étiquette de carte\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour fixer une nouvelle étiquette de carte à la "
+#~ "position courante du curseur. Cette étiquette de carte peut être utilisée "
+#~ "pour définir des points de départ pour des robots et des personnages et "
+#~ "également pour définir des endroits pour des évènements et des "
+#~ "déclencheurs."
+
+#~ msgid ""
+#~ "Add item\n"
+#~ "\n"
+#~ "Use this button to drop a new item to the floor.  You can also use the "
+#~ "hotkey 'G' for this."
+#~ msgstr ""
+#~ "Ajouter objet\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour poser un nouvel objet sur le sol. Vous pouvez "
+#~ "également utilisez la touche rapide 'G' pour cela."
+
+#~ msgid ""
+#~ "Menu\n"
+#~ "\n"
+#~ "Use this button to enter the main menu of the level editor.\n"
+#~ " Note, that you can also use the Escape key to enter the level editor "
+#~ "main menu."
+#~ msgstr ""
+#~ "Menu\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour entrer dans le menu principal de l'éditeur de "
+#~ "niveau.\n"
+#~ " Notez que vous pouvez également utiliser la touche Echap pour entrer "
+#~ "dans le menu principal de l'éditeur de niveau."
+
+#~ msgid ""
+#~ "Level resize\n"
+#~ "\n"
+#~ "Use this button to enter the level resize menu.  Levels can be resized in "
+#~ "various ways so as not to destroy your current map too much and so as to "
+#~ "insert the new space where you would best like it to be."
+#~ msgstr ""
+#~ "Redimensionner le niveau\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour entrer dans le menu de redimensionnement de "
+#~ "niveau. Les niveaux peuvent être redimensionnés de différentes manières, "
+#~ "pour ne pas trop endommager votre carte actuelle et insérer des espaces "
+#~ "où vous aimeriez qu'ils soient situés."
+
+#~ msgid ""
+#~ "Underground lighting\n"
+#~ "\n"
+#~ "Use this button to toggle underground lighting, i.e. shadows coming from "
+#~ "the light that the tux emanates.\n"
+#~ "\n"
+#~ "There isn't any key to toggle this on the keyboard."
+#~ msgstr ""
+#~ "Éclairage de sous-sol\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour placer de l'éclairage sous-terrain, par exemple, "
+#~ "des ombres provenant de la lumière que Tux émane.\n"
+#~ "\n"
+#~ "Il n'y a pas de touche clavier rapide pour le placement."
+
+#~ msgid ""
+#~ "Toggle display enemies\n"
+#~ "\n"
+#~ "Use this button to toggle between enemies displayed in level editor or "
+#~ "enemies hidden in level editor."
+#~ msgstr ""
+#~ "Commuter l'affichage des ennemis\n"
+#~ "\n"
+#~ "Utilisez ce bouton commuter l'affichage des ennemis dans l'éditeur de "
+#~ "niveau."
+
+#~ msgid ""
+#~ "Toggle display obstacles\n"
+#~ "\n"
+#~ "Use this button to toggle between obstacles displayed in level editor or "
+#~ "obstacles hidden in level editor."
+#~ msgstr ""
+#~ "Commuter l'affichage des obstacles\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour basculer entre afficher les obstacles et cacher "
+#~ "les obstacles dans l'éditeur de niveau."
+
+#~ msgid ""
+#~ "Undo\n"
+#~ "\n"
+#~ "Use this button to undo your last actions."
+#~ msgstr ""
+#~ "Annuler\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour annuler vos dernières actions."
+
+#~ msgid ""
+#~ "Redo\n"
+#~ "\n"
+#~ "Use this button to redo an action."
+#~ msgstr ""
+#~ "Rétablir\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour rétablir une action."
+
+#~ msgid ""
+#~ "Toggle display tooltips\n"
+#~ "\n"
+#~ "Use this button to toggle these annoying help windows on and off."
+#~ msgstr ""
+#~ "Commutation de l'affichage des infobulles\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour commuter l'apparition des infobulles."
+
+#~ msgid ""
+#~ "Toggle display colision rectangles\n"
+#~ "\n"
+#~ "Use this button to toggle the visible collision rectangles on and off."
+#~ msgstr ""
+#~ "Commute  l'affichage des rectangles de collision\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour commuter l'affichage des rectangle frontalier aux "
+#~ "objets."
+
+#~ msgid "Change grid mode ( placement / full / off )"
+#~ msgstr "Mode de grille (position/complet/off)"
+
+#~ msgid " Source waypoint selected : X=%d Y=%d. "
+#~ msgstr " Point de passage source : X=%d Y=%d. "
+
+#, fuzzy
+#~ msgid "East"
+#~ msgstr "maître"
+
+#, fuzzy
+#~ msgid "West"
+#~ msgstr "Coffre"
+
+#, fuzzy
+#~ msgid "Interface"
+#~ msgstr "Entrée"
+
+#, fuzzy
+#~ msgid "Add New Level"
+#~ msgstr "Niveau suivant"
+
+#, fuzzy
+#~ msgid "Name"
+#~ msgstr "Nouvelle partie"
+
+#, fuzzy
+#~ msgid "Size"
+#~ msgstr "Bouclier"
+
+#, fuzzy
+#~ msgid "Background Music"
+#~ msgstr "Volume de la musique de fond : %1.2f"
+
+#, fuzzy
+#~ msgid "Infinite Running"
+#~ msgstr "Robots restant dans le niveau : %d"
+
+#, fuzzy
+#~ msgid "Add/Rem Level"
+#~ msgstr "Niveau suivant"
+
+#, fuzzy
+#~ msgid "Run Map Level Validator"
+#~ msgstr "Éditeur de niveau"
+
+#, fuzzy
+#~ msgid "Run Dialog Lua Validator"
+#~ msgstr "Éditeur de niveau"
+
+#, fuzzy
+#~ msgid "Level Options"
+#~ msgstr "Sauvegarder les options"
+
+#, fuzzy
+#~ msgid "Advanced Options"
+#~ msgstr "Sauvegarder les options"
+
+#, fuzzy
+#~ msgid "Save Mapfile"
+#~ msgstr "Sauvegarder la partie"
+
+#, fuzzy
+#~ msgid "Return to Game"
+#~ msgstr "Éditeur de niveau"
+
+#, fuzzy
+#~ msgid "WALL"
+#~ msgstr "MURS"
+
+#~ msgid "FURNITURE"
+#~ msgstr "MEUBLE"
+
+#~ msgid "MACHINERY"
+#~ msgstr "MACHINERIE"
+
+#, fuzzy
+#~ msgid "CONTAINER"
+#~ msgstr "CONTENEURS"
+
+#, fuzzy
+#~ msgid "ALLOBS."
+#~ msgstr "MURS"
+
+#~ msgid "FLOOR"
+#~ msgstr "SOL"
+
+#, fuzzy
+#~ msgid ""
+#~ "\n"
+#~ "You are playing in 640x480.\n"
+#~ "\n"
+#~ "While this resolution mostly work correctly and will\n"
+#~ "give you a great gaming experience, its support is\n"
+#~ "in the process of being dropped, therefore you will\n"
+#~ "want to consider using 800x600 or higher resolution.\n"
+#~ "\n"
+#~ "Thank you.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Vous jouez actuellement avec une résolution de 640x480\n"
+#~ "\n"
+#~ "Malgré que cette résolution fonctionne correctement et vous \n"
+#~ "donne une bonne expérience de jeu, elle est en train d'être\n"
+#~ "supprimée. Vous pouvez utiliser les résolutions 800x600 ou\n"
+#~ "1024x768.\n"
+#~ "\n"
+#~ "Merci.\n"
+
+#~ msgid "NATURE"
+#~ msgstr "NATURE"
+
+#~ msgid "ALL"
+#~ msgstr "TOUT(ES)"
+
+#~ msgid "QUICK"
+#~ msgstr "RAPIDE"
+
+#, fuzzy
+#~ msgid "Comment"
+#~ msgstr "Réussi"
+
+#~ msgid ""
+#~ "Level editor guide\n"
+#~ "\n"
+#~ "Use this button to enter the level editor keymap display."
+#~ msgstr ""
+#~ "Guide de l'éditeur de niveau\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour entrer dans l'affichage du clavier de l'éditeur "
+#~ "de niveau."
+
+#~ msgid ""
+#~ "Toggle display Tux\n"
+#~ "\n"
+#~ "Use this button to toggle between Tux displayed in level editor or Tux "
+#~ "hidden in level editor."
+#~ msgstr ""
+#~ "Commuter l'affichage de Tux\n"
+#~ "\n"
+#~ "Utilisez ce bouton pour basculer entre afficher Tux ou cacher Tux dans "
+#~ "l'éditeur de niveau."
+
+#~ msgid " Source waypoint selected : NONE"
+#~ msgstr " Point de passage source : AUCUN"
+
+#, fuzzy
+#~ msgid "%d bucks received"
+#~ msgstr "1 objet reçu !"
+
+#, fuzzy
+#~ msgid "%s..."
+#~ msgstr "Vers %s...."
+
+#~ msgid "Unlocking obstacle of type %d."
+#~ msgstr "Débloque un obstacle de type %d."
+
+#~ msgid "Repairing obstacle of type %d."
+#~ msgstr "Répare un obstacle de type %d."
+
+#~ msgid "Attacking obstacle of type %d."
+#~ msgstr "Attaque un obstacle de type %d."
+
+#~ msgid "Picking pockets of obstacle of type %d."
+#~ msgstr "Fouille les poches de l'obstacle de type %d."
+
+#, fuzzy
+#~ msgid "Background music file name: %s"
+#~ msgstr "Volume de la musique de fond : %1.2f"
+
+#, fuzzy
+#~ msgid "Light radius bonus: %d"
+#~ msgstr "Désactiver le halo lumineux : %s"
+
+#, fuzzy
+#~ msgid "Minimal light value: %d"
+#~ msgstr "Valeur de vente : %ld\n"
+
+#~ msgid ""
+#~ "Ah, good, that we have an open collision avoiding standard, isn't it."
+#~ msgstr ""
+#~ "Ah, c'est une bonne chose que nous ayons un standard ouvert d'évitement "
+#~ "de collisions, n'est-ce pas ?"
+
+#~ msgid "Hey, I'm from MS! Walk outa my way!"
+#~ msgstr "Hé, je suis de MS ! Hors de mon chemin !"
+
+#~ msgid "Hey, I know the big MS boss! You better go."
+#~ msgstr "Hé, je connais le grand chef de MS ! Tu ferais mieux de partir."
+
+#~ msgid "Wall with a window"
+#~ msgstr "Mur avec une fenêtre"
+
+#~ msgid "No way to pass through. Find another path."
+#~ msgstr "Impossible de passer. Il faut trouver un autre chemin."
+
+#~ msgid "This is a wooden fence. Find another path."
+#~ msgstr "C'est une barrière en bois. Il faut trouver un autre chemin."
+
+#~ msgid "You can't break it. Find another way."
+#~ msgstr "Impossible à casser. Il faut trouver un autre chemin."
+
+#~ msgid "No, it definitely doesn't look like a droid"
+#~ msgstr "Non, ça ne ressemble vraiment pas à un droïde"
+
+#~ msgid "Colony wall"
+#~ msgstr "Mur de la colonie"
+
+#~ msgid "This is just a pink wall."
+#~ msgstr "C'est juste un mur rose."
+
+#~ msgid ""
+#~ "This rock is here now and forever, and it is not going anywhere. Go "
+#~ "somewhere else."
+#~ msgstr ""
+#~ "Ce rocher est là maintenant et pour toujours, et il n'ira nulle part. "
+#~ "Allez, va ailleurs."
+
+#~ msgid "Bunk beds"
+#~ msgstr "Couchettes"
+
+#~ msgid "A sign."
+#~ msgstr "Une pancarte."
+
+#~ msgid "Crystal pillar"
+#~ msgstr "Pilier en cristal"
+
+#~ msgid "A pillar made out of crystal."
+#~ msgstr "Un pilier taillé dans du cristal."
+
+#~ msgid "%s (%03.1f:%03.1f:%d) Day %d %02d:%02d "
+#~ msgstr "%s (%03.1f:%03.1f:%d) jour %d %02d:%02d "
+
+#~ msgid ""
+#~ "Back to game\n"
+#~ "\n"
+#~ "Quits the level editor and takes you into a FredroidRPG game."
+#~ msgstr ""
+#~ "Retour au jeu\n"
+#~ "\n"
+#~ "Quitte l'éditeur de niveau pour jouer à FreedroidRPG."
+
+#~ msgid "420 NaN"
+#~ msgstr "420 NaN"
+
+#~ msgid "Quit"
+#~ msgstr "Quitter"
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "No saved games found!!  Deletion Cancelled. "
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "Pas de sauvegarde trouvée !! Suppression annulée. "
+
+#~ msgid "Takeover"
+#~ msgstr "Piratage"
+
+#~ msgid "average"
+#~ msgstr "initié"
+
+#~ msgid "experienced"
+#~ msgstr "avancé"
+
+#~ msgid "skilled"
+#~ msgstr "expérimenté"
+
+#~ msgid "adept"
+#~ msgstr "adepte"
+
+#~ msgid "inhuman"
+#~ msgstr "inhumain"
+
+#~ msgid "god-like"
+#~ msgstr "divin"
+
+#~ msgid "super-god-like"
+#~ msgstr "super-divin"
+
+#~ msgid "wicked sick"
+#~ msgstr "sacrément atteint"
+
+#~ msgid "You see the floor.  It should be perfectly safe to walk on it."
+#~ msgstr ""
+#~ "Vous regardez le sol. Il devrait être parfaitement sécurisé de marché "
+#~ "dessus."
+
+#~ msgid ""
+#~ "This is the record of all missions you have been assigned:\n"
+#~ "\n"
+#~ msgstr ""
+#~ "Voici la liste de toutes les missions qui vous ont été assignées :\n"
+#~ "\n"
+
+#~ msgid "SOLVED: "
+#~ msgstr "RÉSOLUES : "
+
+#~ msgid "FAILED: "
+#~ msgstr "ÉCHOUÉES : "
+
+#~ msgid "ASSIGNED: "
+#~ msgstr "ASSIGNÉES : "
+
+#~ msgid "UNASSIGNED: "
+#~ msgstr "NON ASSIGNÉES : "
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "--- Currently no missions beyond that ---"
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "--- Aucune mission au delà pour l'instant---"
+
+#~ msgid ""
+#~ "\n"
+#~ "   See quest log: \n"
+#~ msgstr ""
+#~ "\n"
+#~ "   Voir les logs de quête : \n"
+
+#~ msgid ""
+#~ "\n"
+#~ "* Mission completed: "
+#~ msgstr ""
+#~ "\n"
+#~ "* Mission terminée : "
+
+#~ msgid ""
+#~ "\n"
+#~ "* Mission failed: "
+#~ msgstr ""
+#~ "\n"
+#~ "* Mission échouée : "
+
+#~ msgid ""
+#~ "\n"
+#~ "* Mission not yet assigned: "
+#~ msgstr ""
+#~ "\n"
+#~ "* Mission non assignée : "
+
+#~ msgid ""
+#~ "\n"
+#~ "* Mission assigned: "
+#~ msgstr ""
+#~ "\n"
+#~ "* Mission assignée : "
+
+#~ msgid " YOU DONT HAVE ANYTHING IN INVENTORY, THAT COULD BE VIEWED. "
+#~ msgstr " VOUS N'AVEZ RIEN DANS VOTRE INVENTAIRE QUI PUISSE ÊTRE VU. "
+
+#~ msgid " YOU DONT HAVE ANYTHING THAT WOULD NEED REPAIR "
+#~ msgstr " VOUS N'AVEZ RIEN QUI AIT BESOIN D'ÊTRE RÉPARÉ "
+
+#~ msgid "%s was destroyed by disruptor blast."
+#~ msgstr "%s a été détruit par votre tir"
+
+#~ msgid ""
+#~ "%s was destroyed by your bullet.  For defeating your enemy, you receive %"
+#~ "d experience."
+#~ msgstr ""
+#~ "%s a été détruit par votre balle. Pour avoir battu votre ennemi, vous "
+#~ "recevez %d points d'experience."
+
+#~ msgid "%s was destroyed by bullet from %s."
+#~ msgstr "%s a été détruit par une balle de %s."
+
+#~ msgid "Haha, you missed me!"
+#~ msgstr "Haha, tu m'as raté !"
+
+#~ msgid "Your friend %s has died."
+#~ msgstr "Votre ami %s est mort."
+
+#~ msgid "Hostile %s was destroyed by melee attack from friendly %s."
+#~ msgstr "L'ennemi %s a été détruit par l'attaque de mêlée de l'allié %s."
+
+#~ msgid "%s: option `%s' is ambiguous\n"
+#~ msgstr "%s : l'option `%s' est ambigüe\n"
+
+#~ msgid "%s: option `--%s' doesn't allow an argument\n"
+#~ msgstr "%s : l'option `--%s' n'accepte pas d'argument\n"
+
+#~ msgid "%s: option `%c%s' doesn't allow an argument\n"
+#~ msgstr "%s : l'option `%c%s' n'accepte pas d'argument\n"
+
+#~ msgid "%s: option `%s' requires an argument\n"
+#~ msgstr "%s : l'option `%s' nécessite un argument\n"
+
+#~ msgid "%s: option `-W %s' is ambiguous\n"
+#~ msgstr "%s : l'option `-W %s' est ambigüe\n"
+
+#~ msgid "%s: option `-W %s' doesn't allow an argument\n"
+#~ msgstr "%s: l'option `-W %s' n'accepte pas d'argument\n"
+
+#~ msgid ""
+#~ "XP\n"
+#~ "%ld/%ld"
+#~ msgstr ""
+#~ "XP\n"
+#~ "%ld/%ld"
+
+#~ msgid "Looting failed:  unable to reach loot target."
+#~ msgstr "Le pillage a échoué : impossible d'atteindre la cible."
+
+#~ msgid ""
+#~ "%s was destroyed by your melee attack.  For defeating your enemy, you "
+#~ "receive %d experience."
+#~ msgstr ""
+#~ "%s a été détruit par votre attaque de mêlée. Pour avoir battu votre "
+#~ "ennemi, vous recevez %d points d'experience."
+
+#~ msgid "You try to hack %s."
+#~ msgstr "Vous essayez de pirater %s."
+
+#~ msgid "You chat with %s."
+#~ msgstr "Vous parlez avec %s."
+
+#~ msgid ""
+#~ "Talking to an obstacle of type %d.  Ok.  You've told it everything.  "
+#~ "Maybe it just needs more time to digest the news."
+#~ msgstr ""
+#~ "Vous parlez à un obstacle de type %d. OK. Vous lui avez tout dit. Peut-"
+#~ "être qu'il a besoin de temps pour digérer ces nouvelles."
+
+#~ msgid ""
+#~ "Linux Kernel booted.  001 transfer-tech modules loaded.  System up and "
+#~ "running."
+#~ msgstr "Noyau démarré - manchot prêt."
+
+#~ msgid "Acolyte"
+#~ msgstr "Acolyte"
+
+#~ msgid "Templar"
+#~ msgstr "Templier"
+
+#~ msgid "Banshee"
+#~ msgstr "Banshee"
+
+#~ msgid "Chicago"
+#~ msgstr "Chicago"
+
+#~ msgid "Sawmill"
+#~ msgstr "Scierie"
+
+#~ msgid "Nemesis"
+#~ msgstr "Nemesis"
+
+#~ msgid "Sparkie"
+#~ msgstr "Sparkie"
+
+#~ msgid "NaN"
+#~ msgstr "NaN"
+
+#~ msgid "Coward"
+#~ msgstr "Lâche"
+
+#~ msgid "Ghoul"
+#~ msgstr "Goule"
+
+#~ msgid "Apollo"
+#~ msgstr "Apollo"
+
+#~ msgid "If"
+#~ msgstr "If"
+
+#~ msgid "Soviet"
+#~ msgstr "Soviet"
+
+#~ msgid ""
+#~ "Changes will take effect\n"
+#~ "       when you next start the game"
+#~ msgstr ""
+#~ "Les changments prendront effet\n"
+#~ " lorsque vous redémarrerez le jeu"
+
+#~ msgid ""
+#~ "\n"
+#~ "You selected 800x600 pixel.\n"
+#~ "\n"
+#~ "Change of screen resolution will\n"
+#~ "take effect automatically when you next\n"
+#~ "start FreedroidRPG.\n"
+#~ "\n"
+#~ "Thank you.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Vous avez sélectionné 800x600.\n"
+#~ "\n"
+#~ "Le changement de résolution prendra effet automatiquement lorsque vous "
+#~ "redémarrerez FreedroidRPG\n"
+#~ "Merci.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "You selected 1024x768 pixel.\n"
+#~ "\n"
+#~ "Change of screen resolution will take\n"
+#~ "effect automatically when you next\n"
+#~ "start FreedroidRPG.\n"
+#~ "\n"
+#~ "Thank you.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Vous avez sélectionné 1024x768.\n"
+#~ "\n"
+#~ "Le changement de résolution prendra effet automatiquement lorsque vous "
+#~ "redémarrerez FreedroidRPG\n"
+#~ "Merci.\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "\n"
+#~ "You selected 1280x1024 pixel.\n"
+#~ "\n"
+#~ "Change of screen resolution will take\n"
+#~ "effect automatically when you next\n"
+#~ "start FreedroidRPG.\n"
+#~ "\n"
+#~ "Thank you.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Vous avez sélectionné 1024x768.\n"
+#~ "\n"
+#~ "Le changement de résolution prendra effet automatiquement lorsque vous "
+#~ "redémarrerez FreedroidRPG\n"
+#~ "Merci.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Unfortunately, fullscreen cannot be\n"
+#~ "toggled at runtime under Windows.\n"
+#~ "We apologise for this.\n"
+#~ "\n"
+#~ "There are good Linux distributions out there,\n"
+#~ " please check them out.\n"
+#~ "\n"
+#~ "Or you can launch the game with the -w option.\n"
+#~ "\n"
+#~ "   Thank you.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Malheureusement, le plein écran ne peut être activé/désactivé durant le "
+#~ "jeu sous Windows.\n"
+#~ "Nous vous prions de bien vouloir nous excuser pour ça.\n"
+#~ "\n"
+#~ "Il y a de bonne distributions de Linux, merci \n"
+#~ "de les considérer.\n"
+#~ "\n"
+#~ "Vous pouvez aussi lancer le jeu avec l'option -w.\n"
+#~ "\n"
+#~ "   Merci.\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "You are using SDL instead of OpenGL\n"
+#~ "for graphics ouput right now.\n"
+#~ "\n"
+#~ "FreedroidRPG only supports 640x480\n"
+#~ "in SDL mode.\n"
+#~ "\n"
+#~ "You might want to restart the game using\n"
+#~ "OpenGL instead.\n"
+#~ "\n"
+#~ "\n"
+#~ "Thank you.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Vous utilisez SDL au lieu d'OpenGL\n"
+#~ "pour la sortie graphique.\n"
+#~ "\n"
+#~ "FreedroidRPG supporte seulement le 640x480\n"
+#~ "en mode SDL.\n"
+#~ "\n"
+#~ "Vous devriez peut-être redémarrer le jeu\n"
+#~ "en utilisant OpenGL.\n"
+#~ "\n"
+#~ "\n"
+#~ "Merci.\n"
+
+#~ msgid "Terminate On Missing Sample: %s"
+#~ msgstr "Arrêter sur un son manquant : %s"
+
+#~ msgid "Show Subtitles in Dialogs: %s"
+#~ msgstr "Montrer les sous-titres : %s"
+
+#~ msgid "Show quick inventory: %s"
+#~ msgstr "Montrer l'inventaire rapide : %s"
+
+#~ msgid "Show Tux Energy: %s"
+#~ msgstr "Montrer l'énergie de Tux : %s"
+
+#~ msgid "Influencer Blast Texts: %s"
+#~ msgstr "Montrer la mort du joueur : %s"
+
+#~ msgid ""
+#~ "\n"
+#~ " Please enter name of server to connect to:\n"
+#~ " You can give an empty string for the local host.\n"
+#~ " > "
+#~ msgstr ""
+#~ "\n"
+#~ " Veuillez entrer le nom du serveur auquel se connecter : \n"
+#~ " Vous pouvez donner une chaine vide pour l'hôte local.\n"
+#~ " > "
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "\n"
+#~ "                                            CREDITS\n"
+#~ "\n"
+#~ "\n"
+#~ "   PROGRAMMING:\n"
+#~ "\n"
+#~ "                                      Johannes Prix\n"
+#~ "\n"
+#~ "                                      Reinhard Prix\n"
+#~ "\n"
+#~ "                                      Arthur Huillet\n"
+#~ "\n"
+#~ "\n"
+#~ "   ARTWORK:\n"
+#~ "\n"
+#~ "                                      Bastian Salmela\n"
+#~ "\n"
+#~ "\n"
+#~ "   DIALOGUES AND MINOR TWEAKS:\n"
+#~ "\n"
+#~ "                                      Karol Swietlicki\n"
+#~ "\n"
+#~ "\n"
+#~ "   PROFILING AND TESTING:\n"
+#~ "\n"
+#~ "                                      Clint Herron\n"
+#~ "\n"
+#~ "\n"
+#~ "   SOUND EFFECTS:\n"
+#~ "\n"
+#~ "                                      Johannes Prix\n"
+#~ "\n"
+#~ "                                      Chris Hoeppner\n"
+#~ "\n"
+#~ "\n"
+#~ "   VOICES:\n"
+#~ "\n"
+#~ "                                      Tiina Heinonen\n"
+#~ "\n"
+#~ "                                      Doris Stubenrauch\n"
+#~ "\n"
+#~ "                                      Andrew A. Gill\n"
+#~ "\n"
+#~ "                                      Johannes Prix\n"
+#~ "\n"
+#~ "                                      Mbrola\n"
+#~ "                                       text-to-speech system\n"
+#~ "\n"
+#~ "                                      eSpeak\n"
+#~ "                                       text-to-speech system\n"
+#~ "\n"
+#~ "\n"
+#~ "   OGG COMPOSERS:\n"
+#~ "\n"
+#~ "                                      \"The Beginning\"\n"
+#~ "                                        by 4t thieves\n"
+#~ "                                        of kahvi collective\n"
+#~ "                                      (www.kahvi.org)\n"
+#~ "\n"
+#~ "                                      \"Daybreak\"\n"
+#~ "                                        by realsmokers\n"
+#~ "                                        of kahvi collective\n"
+#~ "                                      (www.realsmokers.de)\n"
+#~ "                                      (www.kahvi.org)\n"
+#~ "\n"
+#~ "                                      \"Bleostrada\"\n"
+#~ "                                        by stud\n"
+#~ "                                        of kahvi collective\n"
+#~ "                                      (www.atl3.com/stud)\n"
+#~ "                                      (www.kahvi.org)\n"
+#~ "\n"
+#~ "                                        Arvid Picciani\n"
+#~ "\n"
+#~ "\n"
+#~ "   VARIOUS OLDER CONTRIBUTIONS (PRE-0.9.13 people):\n"
+#~ "\n"
+#~ "                                      Ryan 'simcop2387' Voots\n"
+#~ "\n"
+#~ "                                      Andrew A. Gill\n"
+#~ "\n"
+#~ "                                      Zombie Ryushu\n"
+#~ "\n"
+#~ "                                      Ted Cipicchio\n"
+#~ "\n"
+#~ "                                      The Doctor\n"
+#~ "\n"
+#~ "                                      Simon Newton\n"
+#~ "\n"
+#~ "\n"
+#~ "\n"
+#~ "\n"
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "\n"
+#~ "                                            CREDITS\n"
+#~ "\n"
+#~ "\n"
+#~ "   PROGRAMMATION :\n"
+#~ "\n"
+#~ "                                      Johannes Prix\n"
+#~ "\n"
+#~ "                                      Reinhard Prix\n"
+#~ "\n"
+#~ "                                      Arthur Huillet\n"
+#~ "\n"
+#~ "\n"
+#~ "   GRAPHISMES :\n"
+#~ "\n"
+#~ "                                      Bastian Salmela\n"
+#~ "\n"
+#~ "\n"
+#~ "   DIALOGUES ET AJUSTEMENTS :\n"
+#~ "\n"
+#~ "                                      Karol Swietlicki\n"
+#~ "\n"
+#~ "\n"
+#~ "   OPTIMISATION ET TESTS :\n"
+#~ "\n"
+#~ "                                      Clint Herron\n"
+#~ "\n"
+#~ "\n"
+#~ "   EFFETS SONORES :\n"
+#~ "\n"
+#~ "                                      Johannes Prix\n"
+#~ "\n"
+#~ "                                      Chris Hoeppner\n"
+#~ "\n"
+#~ "\n"
+#~ "   VOIX :\n"
+#~ "\n"
+#~ "                                      Tiina Heinonen\n"
+#~ "\n"
+#~ "                                      Doris Stubenrauch\n"
+#~ "\n"
+#~ "                                      Andrew A. Gill\n"
+#~ "\n"
+#~ "                                      Johannes Prix\n"
+#~ "\n"
+#~ "                                      Mbrola\n"
+#~ "                                       text-to-speech system\n"
+#~ "\n"
+#~ "                                      eSpeak\n"
+#~ "                                       text-to-speech system\n"
+#~ "\n"
+#~ "\n"
+#~ "   MUSIQUE OGG :\n"
+#~ "\n"
+#~ "                                      \"The Beginning\"\n"
+#~ "                                        by 4t thieves\n"
+#~ "                                        of kahvi collective\n"
+#~ "                                      (www.kahvi.org)\n"
+#~ "\n"
+#~ "                                      \"Daybreak\"\n"
+#~ "                                        by realsmokers\n"
+#~ "                                        of kahvi collective\n"
+#~ "                                      (www.realsmokers.de)\n"
+#~ "                                      (www.kahvi.org)\n"
+#~ "\n"
+#~ "                                      \"Bleostrada\"\n"
+#~ "                                        by stud\n"
+#~ "                                        of kahvi collective\n"
+#~ "                                      (www.atl3.com/stud)\n"
+#~ "                                      (www.kahvi.org)\n"
+#~ "\n"
+#~ "                                        Arvid Picciani\n"
+#~ "\n"
+#~ "\n"
+#~ "   AUTRE CONTRIBUTIONS (PRE-0.9.13):\n"
+#~ "\n"
+#~ "                                      Ryan 'simcop2387' Voots\n"
+#~ "\n"
+#~ "                                      Andrew A. Gill\n"
+#~ "\n"
+#~ "                                      Zombie Ryushu\n"
+#~ "\n"
+#~ "                                      Ted Cipicchio\n"
+#~ "\n"
+#~ "                                      The Doctor\n"
+#~ "\n"
+#~ "                                      Simon Newton\n"
+#~ "\n"
+#~ "\n"
+#~ "\n"
+#~ "\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "                       HOW TO CONTRIBUTE\n"
+#~ "\n"
+#~ "\n"
+#~ "FreedroidRPG is entirely free software and free artwork.\n"
+#~ "It is developed exclusively by volunteers in their leisure time.\n"
+#~ "\n"
+#~ "FreedroidRPG depends on these contributions to become a better game.  If "
+#~ "you would like to contribute something, but are not completely sure how, "
+#~ "here's a list of things:\n"
+#~ "\n"
+#~ "\n"
+#~ "   TESTING AND BUG REPORTING:\n"
+#~ "\n"
+#~ "We need people to try out the game and report anything that does not work "
+#~ "correctly or seems to be unstable. This includes minor things, such as "
+#~ "spelling mistakes and the like. The task of testing is growing with the "
+#~ "size of FreedroidRPG. We need your help.\n"
+#~ "\n"
+#~ "\n"
+#~ "   MAP IMPROVEMENTS:\n"
+#~ "\n"
+#~ "We are looking for people who would make maps for us. There is already an "
+#~ "editor built into the game. Feel free to try it, and if you like it make "
+#~ "sure to get back to us.\n"
+#~ "\n"
+#~ "\n"
+#~ "   VOICE SAMPLES:\n"
+#~ "\n"
+#~ "Currently we are not accepting new speech. All of the dialogues are being "
+#~ "rewritten, we will add voice to them later. If you are one of our old "
+#~ "voice actors, then please get in touch with the team.\n"
+#~ "\n"
+#~ "\n"
+#~ "   SOUND EFFECTS:\n"
+#~ "\n"
+#~ "We sure could use some sound effects. If you want to contribute some to a "
+#~ "good cause we will not say no to that. :) \n"
+#~ "\n"
+#~ "\n"
+#~ "   CONTACT:\n"
+#~ "\n"
+#~ "If you would like to contribute something or give some feedback "
+#~ "concerning the game, you can easily get in contact with the developers. "
+#~ "Just send an e-mail to the following address:\n"
+#~ "\n"
+#~ "freedroid-discussion@lists.sourceforge.net\n"
+#~ "\n"
+#~ "Or, if you prefer that, you might want to pop into our IRC channel "
+#~ "(#freedroid on irc.freenode.net) Everyone's invited. Bring your friends "
+#~ "and coke, beer for Basse and Arthur.\n"
+#~ "\n"
+#~ "Thank you,\n"
+#~ "\n"
+#~ "                The FreedroidRPG dev team.\n"
+#~ "                                      \n"
+#~ "\n"
+#~ "\n"
+#~ "\n"
+#~ "\n"
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "                       COMMENT CONTRIBUER\n"
+#~ "\n"
+#~ "\n"
+#~ "FreedroidRPG est entièrement libre (code, graphiques, sons).\n"
+#~ "Ce jeu est développé uniquement par des volontaires sur leur temps "
+#~ "libre.\n"
+#~ "\n"
+#~ "FreedroidRPG dépends de ces contributions pour devenir un meilleur jeu. "
+#~ "Si vous désirez contribuer mais n'êtes pas sûr de la manière de procéder, "
+#~ "voici une liste de possibilités : \n"
+#~ "\n"
+#~ "\n"
+#~ "   TESTER ET RAPPORTER DES BUGS :\n"
+#~ "\n"
+#~ "Nous avons besoin de ressources pour essayer le jeu et rapporter tout ce "
+#~ "qui ne marche pas correctement ou semble instable. Ça inclu des choses "
+#~ "mineures comme les fautes de frappes. Cette tâche grandit au fur et à "
+#~ "mesure que FreedroidRPG progresse. Nous avons besoin de votre aide.\n"
+#~ "\n"
+#~ "\n"
+#~ "   AMÉLIORATIONS DES CARTES :\n"
+#~ "\n"
+#~ "Nous recherchons des gens qui pourraient faire des cartes pour nous. Il y "
+#~ "a déjà un éditeur dans le jeu. N'hésitez pas à l'essayer et si ça vous "
+#~ "plait n'oubliez pas de nous faire parvenir vos contributions.\n"
+#~ "\n"
+#~ "\n"
+#~ "   ÉCHANTILLONS DE VOIX :\n"
+#~ "\n"
+#~ "Pour l'instant, nous n'acceptons plus de nouveaux échantillons de voix. "
+#~ "Tous les dialogues sont en cours de réécriture, nous ajouterons la voix "
+#~ "ensuite. Si vous êtes un de nos ancien fournisseur d'échantillons, merci "
+#~ "de rester en contact avec l'équipe.\n"
+#~ "\n"
+#~ "\n"
+#~ "   EFFETS SONORES :\n"
+#~ "\n"
+#~ "Nous ferions bon usage de quelques effets sonores. Si vous voulez "
+#~ "contribuer à une bonne cause, nous ne dirons pas non. :)\n"
+#~ "\n"
+#~ "\n"
+#~ "   CONTACT :\n"
+#~ "\n"
+#~ "Si vous voulez contribuer au jeu ou fournir des informations le "
+#~ "concernant, vous pouvez facilement entrer en contact avec les "
+#~ "développeurs. Envoyez simplement un mail à l'adresse suivante : \n"
+#~ "\n"
+#~ "freedroid-discussion@lists.sourceforge.net\n"
+#~ "\n"
+#~ "Ou, si vous préférez, vous pourriez nous rejoindre sur notre channel IRC "
+#~ "(#freedroid on irc.freenode.net) Tout le monde est invité. Amenez vos "
+#~ "amis du coca, et de la bière pour Basse et Arthur.\n"
+#~ "(L'anglais est la langue préconisée, mais si vous ne parlez que français, "
+#~ "vous en trouverez probablement, il en traine toujours quelques uns)\n"
+#~ "Merci,\n"
+#~ "\n"
+#~ "                L'équipe de développement de FreedroidRPG.\n"
+#~ "                                      \n"
+#~ "\n"
+#~ "\n"
+#~ "\n"
+#~ "\n"
+
+#~ msgid ""
+#~ "\n"
+#~ "Status: "
+#~ msgstr ""
+#~ "\n"
+#~ "Status : "
+
+#~ msgid ""
+#~ "\n"
+#~ "Details: "
+#~ msgstr ""
+#~ "\n"
+#~ "Détails : "
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "    Surely you do not really want do save a game \n"
+#~ "\n"
+#~ "    where your tux is dead, do you?"
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "    Vous ne voulez probablement pas sauvegarder une partie \n"
+#~ "\n"
+#~ "    où tux est mort, n'est-ce pas ?"
+
+#~ msgid ""
+#~ "\n"
+#~ "Armamant : %s\n"
+#~ "Sensors  1: %s\n"
+#~ "          2: %s\n"
+#~ "          3: %s"
+#~ msgstr ""
+#~ "\n"
+#~ "Armement : %s\n"
+#~ "Capteurs  1: %s\n"
+#~ "          2: %s\n"
+#~ "          3: %s"
+
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "    Are you sure you wish to sell this/(some of these) item(s)?"
+#~ msgstr ""
+#~ "\n"
+#~ "\n"
+#~ "    Êtes-vous sûr de vouloi vendre cet/(ces) objet(s) ?"
+
+#~ msgid " YOU DONT HAVE ANYTHING THAT WOULD NEED TO BE IDENTIFIED!"
+#~ msgstr " VOUS N'AVEZ RIEN QUI AIT BESOIN D'ETRE IDENTIFIÉ"
+
+#~ msgid " I COULD IDENTIFY THESE ITEMS             YOUR GOLD:  %4ld"
+#~ msgstr " JE POURRAIS IDENTIFIER CES OBJETS        VOTRE ARGENT :  %4ld"
+
+#~ msgid ""
+#~ " YOU DONT HAVE ANYTHING IN INVENTORY (I.E. NOT WORN), THAT COULD BE SOLD. "
+#~ msgstr ""
+#~ " VOUS N'AVEZ RIEN DANS VOTRE INVENTAIRE (NON PORTÉ), QUI PUISSE ÊTRE "
+#~ "VENDU. "
+
+#~ msgid " I WOULD BUY FROM YOU THESE ITEMS        YOUR GOLD:  %4ld"
+#~ msgstr " JE VOUS ACHÈTERAI CES OBJETS            VOTRE ARGENT :  %4ld"
+
+#~ msgid "Buy Basic Items"
+#~ msgstr "Acheter des objets basiques"
+
+#~ msgid "Buy Premium Items"
+#~ msgstr "Acheter des objets premiums"
+
+#~ msgid "Sell Items"
+#~ msgstr "Vendre des objets"
+
+#~ msgid "Repair Items"
+#~ msgstr "Réparer des objets"
+
+#~ msgid "Leave the Sales Representative"
+#~ msgstr "Quitter le représentant"
+
+#~ msgid "Identify Items"
+#~ msgstr "Identifier des objets"
+
+#~ msgid "Yeah, stay like that, haha."
+#~ msgstr "Oui, reste comme ça, haha."
+
+#~ msgid "Stand still while I aim at you."
+#~ msgstr "Reste tranquille pendant que je te vise."
+
+#~ msgid "Aaarrgh, aah, that burnt me!"
+#~ msgstr "Aaarrgh, aah, ça me brule !"
+
+#~ msgid "Hell, that blast was hot!"
+#~ msgstr "Diable, cette rafale était chaude !"
+
+#~ msgid "Ghaart, I hate to stain my chassis like that."
+#~ msgstr "Ghaart, je déteste souiller mon chassis comme ça."
+
+#~ msgid "Oh no!  I think I've burnt a cable!"
+#~ msgstr "Oh non ! Je crois que j'ai grillé un cable !"
+
+#~ msgid "Oh no, my poor transfer connectors smolder!"
+#~ msgstr "Oh non, mon pauvre connecteur de transfert est grillé !"
+
+#~ msgid "I hope that didn't melt any circuits!"
+#~ msgstr "J'espère que ça n'a fait fondre aucun circuit !"
+
+#~ msgid "So that gives some more black scars on me ol' dented chassis!"
+#~ msgstr ""
+#~ "Ça me donne donc de nouvelles cicatrices noires sur mon vieux chassis "
+#~ "bosselé !"
+
+#~ msgid "Disposal robot"
+#~ msgstr "Robot multi-usages"
+
+#~ msgid "Servant robot"
+#~ msgstr "Robot de service"
+
+#~ msgid "Messenger robot"
+#~ msgstr "Robot messager"
+
+#~ msgid "Maintenance robot"
+#~ msgstr "Robot de maintenance"
+
+#~ msgid "Crew droid"
+#~ msgstr "Robot d'equipage"
+
+#~ msgid "Sentinel droid"
+#~ msgstr "Robot sentinelle"
+
+#~ msgid "Battle droid"
+#~ msgstr "Robot de combat"
+
+#~ msgid "Security droid"
+#~ msgstr "Robot de sécurité"
+
+#~ msgid "Peaceful Human"
+#~ msgstr "Humain pacifique"
+
+#~ msgid "Mrs. Stone, Shopowner"
+#~ msgstr "Mrs. Stone, Commerçante"
+
+#~ msgid "Resistance Founder"
+#~ msgstr "Fondateur de la résistance"
+
+#~ msgid "Town Healer"
+#~ msgstr "Soigneur de la ville"
+
+#~ msgid "Sorenson, Master of Magic"
+#~ msgstr "Sorenson, Maître de la magie"
+
+#~ msgid "Pendragon, Rebel Fighter"
+#~ msgstr "Pendragon, Combattant rebelle"
+
+#~ msgid "Dixon, Teleporter Service Man"
+#~ msgstr "Dixon, Agent de service du téléporteur"
+
+#~ msgid "Chandra, Tourist Guide"
+#~ msgstr "Chandra, Guide touristique"
+
+#~ msgid "disposal"
+#~ msgstr "multi-service"
+
+#~ msgid "servant"
+#~ msgstr "serviteur"
+
+#~ msgid "messenger"
+#~ msgstr "messager"
+
+#~ msgid "maintenance"
+#~ msgstr "maintenance"
+
+#~ msgid "crew"
+#~ msgstr "équipage"
+
+#~ msgid "sentinel"
+#~ msgstr "sentinelle"
+
+#~ msgid "battle"
+#~ msgstr "combat"
+
+#~ msgid "security"
+#~ msgstr "sécurité"
+
+#~ msgid "error"
+#~ msgstr "erreur"
+
+#~ msgid "tracks"
+#~ msgstr "chenilles"
+
+#~ msgid "anti-grav"
+#~ msgstr "anti-gravité"
+
+#~ msgid "tripedal"
+#~ msgstr "tri-pédales"
+
+#~ msgid "wheels"
+#~ msgstr "roues"
+
+#~ msgid "bipedal"
+#~ msgstr "bi-pédales"
+
+#~ msgid " - "
+#~ msgstr " - "
+
+#~ msgid "spectral"
+#~ msgstr "spectral"
+
+#~ msgid "infra-red"
+#~ msgstr "infra-rouge"
+
+#~ msgid "subsonic"
+#~ msgstr "sub-sonique"
+
+#~ msgid "ultra-sonic"
+#~ msgstr "super-sonique"
+
+#~ msgid "radar"
+#~ msgstr "radar"
+
+#~ msgid "neutronic"
+#~ msgstr "neutronique"
+
+#~ msgid "lasers"
+#~ msgstr "lasers"
+
+#~ msgid "laser rifle"
+#~ msgstr "fusil laser"
+
+#~ msgid "Energy: %d "
+#~ msgstr "Energie : %d "
+
+#~ msgid "Teleports you to your sanctuary\n"
+#~ msgstr "Vous téléporte dans votre sanctuaire\n"
+
+#~ msgid "Permanently gain +1 strength\n"
+#~ msgstr "Gain permanent de force (+1)\n"
+
+#~ msgid "Permanently gain +1 dexterity\n"
+#~ msgstr "Gain permanent de dextérité (+1)\n"
+
+#~ msgid ""
+#~ "The hostile %s won't let you apply your first aid skill.  Maybe it "
+#~ "doesn't trust you?"
+#~ msgstr ""
+#~ "L'ennemi %s ne vous laisse pas utiliser votre compétence de soin. Peut-"
+#~ "être qu'il ne vous fait pas confiance ?"
+
+#~ msgid ""
+#~ "You healed %d damage on the %s.  For successfully applying your first aid "
+#~ "skill you receive %d experience."
+#~ msgstr ""
+#~ "Vous avez soigné %d dommages sur %s. Pour avoir brillament appliqué votre "
+#~ "compétence de soins, vous recevez %d experience."
+
+#~ msgid "Any injury on %s is purely cosmetic and must heal over time."
+#~ msgstr ""
+#~ "Toutes les blessures infligées à %s sont purement cosmétiques et seront "
+#~ "réparées avec le temps."
+
+#~ msgid ""
+#~ "Applying first aid to obstacle of type %d.  Ok.  You've made sure it "
+#~ "doesn't bleed.  That's what you wanted, right?"
+#~ msgstr ""
+#~ "Soigne l'obstacle %d. OK. Vous vous êtes assuré qu'il ne saigne pas. "
+#~ "C'est ce que vous vouliez non ?"
+
+#~ msgid "Wristband/Collar"
+#~ msgstr "Bracelet/Collier"
+
+#~ msgid "Start as a Server"
+#~ msgstr "Démarrer en tant que serveur"
+
+#~ msgid "Join existing Multiplayer game"
+#~ msgstr "Rejoundre une partie multi-joueurs existante"
+
+#~ msgid "List known Servers"
+#~ msgstr "Lister les serveurs connus"
+
+#~ msgid ""
+#~ "\n"
+#~ "W A R N I N G !\n"
+#~ "\n"
+#~ "Multiplayer and network play is still very much experimental code.\n"
+#~ "Currently we are not continuing the networking code, simply because our "
+#~ "team does not have enough manpower for this additional task and because "
+#~ "it slows down development of new features of the single player game a lot."
+#~ msgstr ""
+#~ "\n"
+#~ "A T T E N T I O N !\n"
+#~ "\n"
+#~ "Le mode multijoueur et le jeu en réseau sont encore des parties très "
+#~ "expérimentales.\n"
+#~ "Pour l'instant, nous ne travaillons qu'assez peu sur cette partie car "
+#~ "notre équipe manque de ressources pour cette tâche et que ça ralentirait "
+#~ "beaucoup le développement de nouvelles fonctionnalités et du jeu "
+#~ "monojoueur."
+
+#~ msgid ""
+#~ "Use this button to move one level north, i.e. to the level that is glued "
+#~ "to the northern side of this level."
+#~ msgstr ""
+#~ "Utilisez ce bouton pour vous déplacer d'un niveau au nord, c'est-à-dire "
+#~ "au niveau qui est attaché au côté nord de ce niveau."
+
+#~ msgid ""
+#~ "Use this button to move one level south, i.e. to the level that is glued "
+#~ "to the southern side of this level."
+#~ msgstr ""
+#~ "Utilisez ce bouton pour vous déplacer d'un niveau au sud, c'est-à-dire au "
+#~ "niveau qui est attaché au côté sud de ce niveau."
+
+#~ msgid ""
+#~ "Use this button to move one level east, i.e. to the level that is glued "
+#~ "to the eastern side of this level."
+#~ msgstr ""
+#~ "Utilisez ce bouton pour vous déplacer d'un niveau à l'est, c'est-à-dire "
+#~ "au niveau qui est attaché au côté est de ce niveau."
+
+#~ msgid ""
+#~ "Use this button to move one level west, i.e. to the level that is glued "
+#~ "to the western side of this level."
+#~ msgstr ""
+#~ "Utilisez ce bouton pour vous déplacer d'un niveau à l'ouest, c'est-à-dire "
+#~ "au niveau qui est attaché au côté ouest de ce niveau."
+
+#~ msgid ""
+#~ "In FreedroidRPG maps can be glued together to form one big map.  But that "
+#~ "requires that the maps are identical where they overlap.  This button "
+#~ "will copy the borders of this level to the borders of the neighbouring "
+#~ "levels, so that the maps are in sync again."
+#~ msgstr ""
+#~ "Dans freedroidRPG, les cartes peuvent être collées les unes aux autres, "
+#~ "afin de former le monde. Mais cela nécessite que les  niveaux soient "
+#~ "identiques, aux endroits où ils sont superposés. Ce bouton va copies les "
+#~ "bords de ce niveau par dessus les bords des niveaux voisins de façon à ce "
+#~ "que les niveaux soient \"synchronisés\"."
+
+#~ msgid ""
+#~ "This button will save your current ship over the file '../map/Asteroid."
+#~ "maps' from your current working directory."
+#~ msgstr ""
+#~ "Sauvegarder le monde sur le fichier '../map/Asteroids.maps' du répertoire "
+#~ "courant."
+
+#~ msgid ""
+#~ "\n"
+#~ "Use this button to toggle waypoints on the current cursor location.  "
+#~ "Waypoints are marked with a white (or multicolored) 4-direction arrow.\n"
+#~ "\n"
+#~ "You can also use the W key for this."
+#~ msgstr ""
+#~ "\n"
+#~ "Utilisez ce bouton pour placer/supprimer un point de passage à la "
+#~ "position courante du curseur. Les points de passage sont indiqués avec "
+#~ "une croix blanche.\n"
+#~ "\n"
+#~ "Vous pouvez aussi utiliser la touche W."
+
+#~ msgid ""
+#~ "\n"
+#~ "Use this button to start a connection between waypoints, so that droids "
+#~ "can move along this connection.\n"
+#~ "\n"
+#~ "You can also use the C key for this."
+#~ msgstr ""
+#~ "\n"
+#~ "Utilisez ce bouton pour établir une connexion entre points de passage, "
+#~ "pour indiquer au droïdes de se déplacer entre ces deux points.\n"
+#~ "\n"
+#~ "Vous pouvez utiliser la touche C."
+
+#~ msgid ""
+#~ "\n"
+#~ "You have currently a connection attempt going on already.  Go to the "
+#~ "desired destination waypoint and hit this button again to establish the "
+#~ "connection.\n"
+#~ "\n"
+#~ "You can also use the C key for this."
+#~ msgstr ""
+#~ "\n"
+#~ "Vous êtes entrain d'établir une connexion. Placez-vous sur le point de "
+#~ "passage de destination et cliquez sur ce bouton pour établir la "
+#~ "connexion.\n"
+#~ "\n"
+#~ "Vous pouvez utiliser la touche C."
+
+#~ msgid ""
+#~ "\n"
+#~ "Use this button to delete the currently marked obstacle.\n"
+#~ "\n"
+#~ "You can also use the X key for this."
+#~ msgstr ""
+#~ "\n"
+#~ "Ce bouton supprime l'obstacle sélectionné.\n"
+#~ "\n"
+#~ "Vous pouvez utiliser la touche X."
+
+#, fuzzy
+#~ msgid ""
+#~ "\n"
+#~ "Use this button to 'beautify' rough edges of the grass-sand tiles on this "
+#~ "entire level automatically.  The function will attempt to create 'round' "
+#~ "borders and corners.\n"
+#~ "\n"
+#~ "You can also use Ctrl-B for this."
+#~ msgstr ""
+#~ "\n"
+#~ "Utilisez ce bouton pour rendre esthétique la rugosité des bords des "
+#~ "carreaux d'herbe-sable automatiquement sur le niveau entier. La fonction "
+#~ "tentera de créé des coins et des bords arrondis.\n"
+#~ "\n"
+#~ "Vous pouvez aussi utiliser Ctrl-B pour cela."
+
+#~ msgid ""
+#~ "\n"
+#~ "Use this button to zoom INTO or OUT of the level.\n"
+#~ "\n"
+#~ "You can also use the hotkey 'O' for this."
+#~ msgstr ""
+#~ "\n"
+#~ "Utilisez ce bouton pour zoomer ou dézoomer sur le niveau.\n"
+#~ "\n"
+#~ "La touche 'O' peut également être utilisée à cet effet."
+
+#, fuzzy
+#~ msgid ""
+#~ "Use this button to fill a certain area of the map with the currently "
+#~ "selected map tile.  Filling will proceed from the cursor in all direction "
+#~ "until a change of map tile is encountered."
+#~ msgstr ""
+#~ "Utilisez ce bouton pour remplir une certaine zone de la carte avec la "
+#~ "partie sélectionnée. Le remplissage s'effectuera à partir du curseur dans "
+#~ "toutes les directions jusqu'à ce qu'un changement de zone soit rencontré."
+
+#, fuzzy
+#~ msgid ""
+#~ "Use this button to attach a label to the currently marked obstacle.  "
+#~ "These obstacle labels can be used to define obstacles to be modified by "
+#~ "events.\n"
+#~ " Note that you can also use the hotkey 'h' for this."
+#~ msgstr ""
+#~ "Utilisez ce bouton pour attacher un label à l'obstacle sélectionné. Les "
+#~ "labels d'obstacles servent à identifier les obstacles affectés par des "
+#~ "événements.\n"
+#~ " Vous pouvez également utiliser la touche \"H\" pour cette action."
+
+#, fuzzy
+#~ msgid ""
+#~ "Use this button to attach a new map label to the current cursor "
+#~ "position.  These map labels can be used to define starting points for "
+#~ "bots and characters or also to define locations for events and triggers."
+#~ msgstr ""
+#~ "Utilisez ce bouton pour attacher un label de carte à la position actuelle "
+#~ "du curseur. Les labels de carte servent à définir les points de départ "
+#~ "des bots et des personnages et les déclencheurs d'événements ou "
+#~ "d'interrupteurs."
+
+#~ msgid ""
+#~ "Use this button to drop a new item to the floor.  You can also use the "
+#~ "hotkey 'G' for this."
+#~ msgstr ""
+#~ "Ce bouton vous permet de créer un objet au sol. La touche 'G' est un "
+#~ "raccourci."
+
+#~ msgid ""
+#~ "Use this button to enter the main menu of the level editor.\n"
+#~ " Note, that you can also use the Escape key to enter the level editor "
+#~ "main menu."
+#~ msgstr ""
+#~ "Utilisez ce bouton pour afficher le menu principal de l'éditeur de "
+#~ "niveaux.\n"
+#~ " Notez que la touche 'Echap' peut également être utilisée à cet effet."
+
+#, fuzzy
+#~ msgid ""
+#~ "Use this button to enter the level resize menu.  Levels can be resized in "
+#~ "various ways so as not to destroy your current map too much and so as to "
+#~ "insert the new space where you would best like it to be."
+#~ msgstr ""
+#~ "Utilisez ce bouton pour ouvrir le menu de redimensionnement du niveau. "
+#~ "Les niveaux peuvent être redimensionnés de diverses façons afin de ne pas "
+#~ "trop affecter votre carte actuelle et d'insérer de l'espace où vous le "
+#~ "souhaitez."
+
+#~ msgid "Use this button to enter the level editor keymap display."
+#~ msgstr ""
+#~ "Utilisez ce bouton pour afficher le mappage des touches de l'éditeur de "
+#~ "niveaux."
+
+#, fuzzy
+#~ msgid ""
+#~ "Use this button to quit the level editor and back to continue the normal "
+#~ "game in normal mode.  Useful for e.g. putting objects into boxes.  You "
+#~ "can always re-enter the level editor."
+#~ msgstr ""
+#~ "Utilisez ce bouton pour quitter l'éditeur de niveau et revenir pour "
+#~ "continuer le jeu normal en mode normal. Utile par exemple pour mettre des "
+#~ "objets dans des boites. Vous pouvez toujours retourner dans l'éditeur de "
+#~ "niveau."
+
+#~ msgid ""
+#~ "Use this button to toggle underground lighting, i.e. shadows coming from "
+#~ "the light that the tux emanates.  \n"
+#~ "\n"
+#~ "There isn't any key to toggle this on the keyboard."
+#~ msgstr "Utilisez ce bouton pour activer l'éclairage \"sous terrain\"."
+
+#~ msgid ""
+#~ "Use this button to toggle between enemies displayed in level editor or "
+#~ "enemies hidden in level editor."
+#~ msgstr ""
+#~ "Utilisez ce bouton pour activer/désactiver l'affichage des ennemis dans "
+#~ "l'éditeur de niveau."
+
+#~ msgid ""
+#~ "Use this button to toggle between obstacles displayed in level editor or "
+#~ "obstacles hidden in level editor."
+#~ msgstr ""
+#~ "Utilisez ce bouton pour activer/désactiver l'affichage des obstacles dans "
+#~ "l'éditeur de niveau."
+
+#~ msgid ""
+#~ "Use this button to toggle between Tux displayed in level editor or Tux "
+#~ "hidden in level editor."
+#~ msgstr ""
+#~ "Utilisez ce bouton pour activer/désactiver l'affichage du joueur dans "
+#~ "l'éditeur de niveau."
+
+#, fuzzy
+#~ msgid "Use this button to toggle these annoying help windows on and off."
+#~ msgstr ""
+#~ "Utilisez ce bouton pour ouvrir ou fermer ces fenêtres d'aide ennuyeuses."
+
+#, fuzzy
+#~ msgid ""
+#~ "Use this button to toggle the visible collision rectangles on and off."
+#~ msgstr ""
+#~ "Utilisez ce bouton pour afficher ou cacher les rectangles de collisions."
+
+#~ msgid ""
+#~ "\n"
+#~ "You are using SDL instead of OpenGL\n"
+#~ "\tfor graphics ouput right now.\n"
+#~ "\t\t\n"
+#~ "\t\t\t\t\tFreedroidRPG only supports 640x480\n"
+#~ "\tin SDL mode.\n"
+#~ "\t\t\t\t\n"
+#~ "\t\t\t\t\t\tYou might want to restart the game using\n"
+#~ "\tOpenGL instead.\n"
+#~ "\t\t\t\t\n"
+#~ "\t\t\t\t\t\t\n"
+#~ "\t\t\t\t\t\tThank you.\n"
+#~ msgstr ""
+#~ "\n"
+#~ "Vous utilisez SDL au lieu d'OpenGL\n"
+#~ "\tactuellment pour l'affichage graphique.\n"
+#~ "\t\t\n"
+#~ "\t\t\t\t\tFreedroidRPG ne supporte que 640x480\n"
+#~ "\ten mode SDL.\n"
+#~ "\t\t\t\t\n"
+#~ "\t\t\t\t\t\tVous souhaiteriez peut-être relancer\n"
+#~ "\tle jeu avec OpenGL.\n"
+#~ "\t\t\t\t\n"
+#~ "\t\t\t\t\t\t\n"
+#~ "\t\t\t\t\t\tMerci.\n"
+
+#~ msgid "Use SDL automap: %s"
+#~ msgstr "Utiliser la carte auto SDL: %s"
+
+#~ msgid "state:  Attack."
+#~ msgstr "état : Attaque"
+
+#~ msgid "state:  Returning home."
+#~ msgstr "état : Retour à la maison"
+
+#~ msgid "state:  Paralyzed."
+#~ msgstr "état : Paralysé."
+
+#~ msgid "state: Follow Tux."
+#~ msgstr "état : Suit Tux."
+
+#~ msgid "Use this button to undo your last actions."
+#~ msgstr "Utilisez ce bouton pour annuler vos dernières actions."
+
+#~ msgid "Use this button to redo an action."
+#~ msgstr "Utilisez ce bouton pour refaire une action."

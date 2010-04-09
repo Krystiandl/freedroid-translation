@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidRPG 0.10.4cvs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 08:16+0000\n"
+"POT-Creation-Date: 2010-04-09 13:06+0000\n"
 "PO-Revision-Date: 2008-11-03 05:44+0000\n"
 "Last-Translator: Christian Widell <Christian_widell@hotmail.com>\n"
 "Language-Team: Swedish\n"
@@ -12,22 +12,22 @@ msgstr ""
 "X-Launchpad-Export-Date: 2009-01-11 17:40+0000\n"
 "X-Generator: Launchpad (build Unknown)\n"
 
-#: freedroid.program_archetypes:8
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:8
 msgid "Hacking"
 msgstr "Hacking"
 
-#: freedroid.program_archetypes:9
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:9
 msgid ""
 "Tux is gifted with the ability to hack any machine in no time. With this "
 "program selected and activated by pressing down the right mouse button over "
 "a hostile machine, the takeover process will be initiated."
 msgstr ""
 
-#: freedroid.program_archetypes:19
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:19
 msgid "Repair equipment"
 msgstr "Reparera utrustning"
 
-#: freedroid.program_archetypes:20
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:20
 msgid ""
 "This skill allows to repair an item from the inventory. To use this skill, "
 "select it, then open the inventory screen and then right click the mouse on "
@@ -36,50 +36,50 @@ msgid ""
 "duration will be restored to this new maximum value."
 msgstr ""
 
-#: freedroid.program_archetypes:28
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:28
 msgid "Use weapon"
 msgstr "Använd vapen"
 
-#: freedroid.program_archetypes:29
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:29
 msgid ""
 "Using this skill allows you to force an attack on something not normally a "
 "target or for firing single shots with automatic weapons."
 msgstr ""
 
-#: freedroid.program_archetypes:37
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:37
 msgid "Emergency shutdown"
 msgstr "Nödavstängning"
 
-#: freedroid.program_archetypes:38
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:38
 msgid ""
 "Everyone needs to turn off and cool down a bit now and then. Just be careful "
 "so you are not still offline when enemy bots close in..."
 msgstr ""
 
-#: freedroid.program_archetypes:50
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:50
 msgid "Check system integrity"
 msgstr "Verifiera systemintegriteten"
 
-#: freedroid.program_archetypes:51
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:51
 msgid "While repairing damage you must remember that patience is a virtue."
 msgstr ""
 
-#: freedroid.program_archetypes:63
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:63
 msgid "Sanctuary"
 msgstr "Fristad"
 
-#: freedroid.program_archetypes:64
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:64
 msgid ""
 "Effect: Teleport to town or back \n"
 "The art of rapidly moving away from danger is very useful. Even when used in "
 "reverse it has it's uses."
 msgstr ""
 
-#: freedroid.program_archetypes:73
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:73
 msgid "Analyze item"
 msgstr "Analysera föremål"
 
-#: freedroid.program_archetypes:74
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:74
 msgid ""
 "Effect: Identify\n"
 "There are very few items which have labels on them. Unless you happen to "
@@ -87,28 +87,28 @@ msgid ""
 "it..."
 msgstr ""
 
-#: freedroid.program_archetypes:83
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:83
 msgid "Invisibility"
 msgstr "Osynlighet"
 
-#: freedroid.program_archetypes:84
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:84
 msgid "I am not the Linarian you are looking for."
 msgstr "Jag är inte Linärianen du letar efter."
 
-#: freedroid.program_archetypes:94
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:94
 msgid "Malformed packet"
 msgstr "Felformaterat paket"
 
-#: freedroid.program_archetypes:95
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:95
 msgid ""
 "When computers are presented with the unexpected they can damage themselves."
 msgstr "När datorer är presenterade oväntade saker kan de skada sig själva."
 
-#: freedroid.program_archetypes:108
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:108
 msgid "Calculate Pi"
 msgstr "Beräkna Pi"
 
-#: freedroid.program_archetypes:109
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:109
 msgid ""
 "It is not a big problem to make a badly designed system to go hunting for "
 "the impossible, causing a performance impact."
@@ -116,32 +116,32 @@ msgstr ""
 "Det är inget stort problem att få ett dåligt designat system att gå på jakt "
 "för det omöjliga, vilket orsakar en prestandaverkan."
 
-#: freedroid.program_archetypes:124
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:124
 msgid "Blue Screen"
 msgstr "Blåskärm"
 
-#: freedroid.program_archetypes:125
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:125
 msgid ""
 "With a little touch a war machine comes crashing down to a halt. For a while."
 msgstr ""
 "Med en liten touch kan en krigsmaskin stanna med en krasch. För ett tag."
 
-#: freedroid.program_archetypes:138
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:138
 msgid "Broadcast Blue Screen"
 msgstr "Utstråla Blåskärm"
 
-#: freedroid.program_archetypes:139
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:139
 msgid ""
 "With a little touch a war machine comes crashing down to a halt. For a "
 "while. The radio network is a wonderful invention for the people who like to "
 "blow up a lot of stuff at once."
 msgstr ""
 
-#: freedroid.program_archetypes:153
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:153
 msgid "Virus"
 msgstr "Virus"
 
-#: freedroid.program_archetypes:154
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:154
 msgid ""
 "This is not just a firmware upgrade, my dear bot. You are about to find out "
 "what exactly I want to give you."
@@ -149,11 +149,11 @@ msgstr ""
 "Det här är inte bara en mjukvaru uppdatering, min käre bot. Du ska snart få "
 "reda på exakt vad jag vill ge dig."
 
-#: freedroid.program_archetypes:168
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:168
 msgid "Broadcast virus"
 msgstr "Utstråla Virus"
 
-#: freedroid.program_archetypes:169
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:169
 msgid ""
 "The network is wide and dangerous. Many traps await for the weak and "
 "unprepared."
@@ -161,41 +161,41 @@ msgstr ""
 "Nätverket är utbrett och farligt. Många fällor väntar den svage och "
 "oföreberedde."
 
-#: freedroid.program_archetypes:184
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:184
 msgid "Dispel smoke"
 msgstr "Avge rök"
 
-#: freedroid.program_archetypes:185
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:185
 msgid ""
 "By heating up the chips with a malformed program you can cause them to "
 "release the magic smoke which keeps the bot running. "
 msgstr ""
 
-#: freedroid.program_archetypes:197
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:197
 msgid "Killer poke"
 msgstr "Skada minneskretsar"
 
-#: freedroid.program_archetypes:198
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:198
 msgid ""
 "Messing around with the bot's memory can cause it to severly damage itself, "
 "but the damage is greatly variable."
 msgstr ""
 
-#: freedroid.program_archetypes:211
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:211
 msgid "Plasma discharge"
 msgstr "Plasmaurladdning"
 
-#: freedroid.program_archetypes:212
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:212
 msgid ""
 "The overload setting exists for emergencies. The plasma does not "
 "discriminate between bots and humans. Everything is equal to it, even Tux."
 msgstr ""
 
-#: freedroid.program_archetypes:227
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:227
 msgid "Nethack"
 msgstr "Nethack"
 
-#: freedroid.program_archetypes:228
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:228
 msgid ""
 "The open source game called Nethack is one of the world's greatest wasters "
 "of time. Machines don't care about it, but humans can get sucked in quite "
@@ -204,54 +204,54 @@ msgstr ""
 "Open-Source spelet Nethack är ett av världens största slöseri med tid. "
 "Maskiner bryr sig inte om det, men människor kan fastna ganska djupt i det."
 
-#: freedroid.program_archetypes:246
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:246
 msgid "Extract bot parts"
 msgstr "Extrahera botdelar"
 
-#: freedroid.program_archetypes:247
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:247
 msgid ""
 "With a little knowledge, you can extract some useful parts out of the robots "
 "you kill. With each bot there is some hope of a part falling out. This skill "
 "is always active even when not selected."
 msgstr ""
 
-#: freedroid.program_archetypes:255
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:255
 msgid "Reverse-engineer"
 msgstr "Reverse-engineer"
 
-#: freedroid.program_archetypes:256
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:256
 msgid ""
 "There is some dark magic in the art of turning devices or programs inside-"
 "out, picking them appart to learn all their secrets and putting them back "
 "again."
 msgstr ""
 
-#: freedroid.program_archetypes:267
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:267
 msgid "Ricer CFLAGS"
 msgstr "Ostabila kompilerings flaggor"
 
-#: freedroid.program_archetypes:268
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:268
 msgid ""
 "Optimization is the root of all evil. You can gain some temporary speed "
 "improvements to your system, but in the end you will likely overheat and "
 "cause permanent damage if you are not careful."
 msgstr ""
 
-#: freedroid.program_archetypes:276
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:276
 msgid "Light"
 msgstr "Ljus"
 
-#: freedroid.program_archetypes:277
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:277
 msgid ""
 "This does nothing in this version of freedroidRPG. Let there be light..."
 msgstr ""
 "Denna gör ingenting i den här versionen av freedroidRPG. Låt ljuset flöda..."
 
-#: freedroid.program_archetypes:286
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:286
 msgid "Satellite image"
 msgstr "Satellitbild"
 
-#: freedroid.program_archetypes:287
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:287
 msgid ""
 "This does nothing in this version of freedroidRPG. Getting a map of an area "
 "is pretty easy when you can look at everything from above."
@@ -259,12 +259,13 @@ msgstr ""
 "Denna gör ingenting i den här versionen av freedroidRPG. Att få tag i en "
 "karta på ett område är rätt så lätt när du kan se på allting ovanifrån."
 
-#: freedroid.program_archetypes:295
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:295
 msgid "Plasma grenade"
 msgstr "Plasmagranat"
 
-#: freedroid.program_archetypes:296 freedroid.program_archetypes:306
-#: freedroid.program_archetypes:316
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:296
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:306
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:316
 msgid ""
 "This is a bug, report this to the developers, unless you cheated, in which "
 "case you deserve to see this stupid description."
@@ -272,11 +273,11 @@ msgstr ""
 "Det här är en bugg, rapportera detta till utvecklarna, såvida du inte har "
 "fuskat, i vilket fall du förtjänar att se denna dumma beskrivning."
 
-#: freedroid.program_archetypes:305
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:305
 msgid "Gas grenade"
 msgstr "Gasgranat"
 
-#: freedroid.program_archetypes:315
+#: /home/david/src/freedroid-translation/map/freedroid.program_archetypes:315
 msgid "EMP grenade"
 msgstr "EMP granat"
 

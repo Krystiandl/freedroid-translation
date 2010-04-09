@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_data\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 08:16+0000\n"
+"POT-Creation-Date: 2010-04-09 13:05+0000\n"
 "PO-Revision-Date: 2008-09-26 18:23+0200\n"
 "Last-Translator: \n"
 "Language-Team:  <en@li.org>\n"
@@ -13,73 +13,73 @@ msgstr ""
 "X-Launchpad-Export-Date: 2008-09-14 12:32+0000\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: freedroid.quests:36
+#: /home/david/src/freedroid-translation/map/freedroid.quests:36
 msgid "Bender's problem"
 msgstr ""
 
-#: freedroid.quests:52
+#: /home/david/src/freedroid-translation/map/freedroid.quests:52
 msgid "The yellow toolkit"
 msgstr ""
 
-#: freedroid.quests:68
+#: /home/david/src/freedroid-translation/map/freedroid.quests:68
 msgid "Anything but the army snacks, please!"
 msgstr ""
 
-#: freedroid.quests:84
+#: /home/david/src/freedroid-translation/map/freedroid.quests:84
 msgid "Novice Arena"
 msgstr ""
 
-#: freedroid.quests:103
+#: /home/david/src/freedroid-translation/map/freedroid.quests:103
 msgid "Time to say goodnight"
 msgstr ""
 
-#: freedroid.quests:122
+#: /home/david/src/freedroid-translation/map/freedroid.quests:122
 msgid "Opening a can of bots..."
 msgstr ""
 
-#: freedroid.quests:137
+#: /home/david/src/freedroid-translation/map/freedroid.quests:137
 #, fuzzy
 msgid "And there was light..."
 msgstr "Que la lumière soit..."
 
-#: freedroid.quests:156
+#: /home/david/src/freedroid-translation/map/freedroid.quests:156
 msgid "A kingdom for a cluster!"
 msgstr ""
 
-#: freedroid.quests:172
+#: /home/david/src/freedroid-translation/map/freedroid.quests:172
 msgid "Opening access to MS Office"
 msgstr ""
 
-#: freedroid.quests:188
+#: /home/david/src/freedroid-translation/map/freedroid.quests:188
 msgid "Propagating a faulty firmware"
 msgstr ""
 
-#: freedroid.quests:203
+#: /home/david/src/freedroid-translation/map/freedroid.quests:203
 msgid "SADD's power supply"
 msgstr ""
 
-#: freedroid.quests:219
+#: /home/david/src/freedroid-translation/map/freedroid.quests:219
 msgid "Tania's sanitary"
 msgstr ""
 
-#: freedroid.quests:234
+#: /home/david/src/freedroid-translation/map/freedroid.quests:234
 msgid "Saving the shop"
 msgstr ""
 
-#: freedroid.quests:249
+#: /home/david/src/freedroid-translation/map/freedroid.quests:249
 msgid "Doing Duncan a favour"
 msgstr ""
 
-#: freedroid.quests:264
+#: /home/david/src/freedroid-translation/map/freedroid.quests:264
 msgid "Tutorial Shooting"
 msgstr ""
 
-#: freedroid.quests:282
+#: /home/david/src/freedroid-translation/map/freedroid.quests:282
 #, fuzzy
 msgid "Tutorial Hacking"
 msgstr "Piratage"
 
-#: freedroid.quests:300
+#: /home/david/src/freedroid-translation/map/freedroid.quests:300
 msgid "A strange guy stealing from town"
 msgstr ""
 

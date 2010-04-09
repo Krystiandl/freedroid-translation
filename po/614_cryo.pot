@@ -2,164 +2,164 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 08:16+0000\n"
-"PO-Revision-Date: 2010-04-09 08:16+0000\n"
+"POT-Creation-Date: 2010-04-09 13:06+0000\n"
+"PO-Revision-Date: 2010-04-09 13:06+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-15\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./614_cryo.dialog:34
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:34
 msgid "Who are you? "
 msgstr ""
 
-#: ./614_cryo.dialog:36
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:36
 msgid ""
 "I am a 614 security bot, once one of the best-selling products of \3Nicholson,"
 " Inc.\2."
 msgstr ""
 
-#: ./614_cryo.dialog:41
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:41
 msgid "What can you tell me about the Nicholson company?"
 msgstr ""
 
-#: ./614_cryo.dialog:43
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:43
 msgid "\3Nicholson, Inc.\2 produces security bots."
 msgstr ""
 
-#: ./614_cryo.dialog:44
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:44
 msgid ""
 "It was founded by Karl Nicholson, a former Kernel hacker who was not satisfied"
 " with the development of the GPL license."
 msgstr ""
 
-#: ./614_cryo.dialog:45
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:45
 msgid ""
 "Nicholson decided to stick to one GPL version because he saw things getting wo"
 "rse."
 msgstr ""
 
-#: ./614_cryo.dialog:46
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:46
 msgid "Others were warned, but nobody listened to Nicholsons announcements."
 msgstr ""
 
-#: ./614_cryo.dialog:47
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:47
 msgid "He built up a team and developed his own Kernel called 'Nkernel'."
 msgstr ""
 
-#: ./614_cryo.dialog:48
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:48
 msgid ""
 "The Nkernel development team grew fast and technicians started to produce thei"
 "r own droids optimized for the Nkernel."
 msgstr ""
 
-#: ./614_cryo.dialog:49
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:49
 msgid ""
 "The Team became a company which released their first security droid, the 610 L"
 "ovely."
 msgstr ""
 
-#: ./614_cryo.dialog:50
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:50
 msgid "I am the 4th generation version of their security droid line."
 msgstr ""
 
-#: ./614_cryo.dialog:55
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:55
 msgid "Have you detected any hostile bot activity?"
 msgstr ""
 
-#: ./614_cryo.dialog:57
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:57
 msgid "Order Received. Inititiating proximity energy level scan..."
 msgstr ""
 
-#: ./614_cryo.dialog:58
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:58
 msgid "***** Proximity Scan Results *****"
 msgstr ""
 
-#: ./614_cryo.dialog:59
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:59
 msgid "Hostile Numeric Presence: HIGH"
 msgstr ""
 
-#: ./614_cryo.dialog:60
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:60
 msgid "Enemy Energy Levels: LOW"
 msgstr ""
 
-#: ./614_cryo.dialog:61
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:61
 msgid "Threat Degree Analysis: MODERATE"
 msgstr ""
 
-#: ./614_cryo.dialog:62
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:62
 msgid "Complex Gate Status: OPEN"
 msgstr ""
 
-#: ./614_cryo.dialog:67
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:67
 msgid "What can you tell me about the 614 type?"
 msgstr ""
 
-#: ./614_cryo.dialog:69
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:69
 msgid "The official manual classifies the 614 as a high class security droid."
 msgstr ""
 
-#: ./614_cryo.dialog:70
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:70
 msgid "It was mainly used within ships to protect certain areas from intruders."
 msgstr ""
 
-#: ./614_cryo.dialog:71
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:71
 msgid "It is considered an old but reliable device."
 msgstr ""
 
-#: ./614_cryo.dialog:72
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:72
 msgid "So don't worry. I'm still in pretty good shape."
 msgstr ""
 
-#: ./614_cryo.dialog:77
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:77
 msgid "What are your orders?"
 msgstr ""
 
-#: ./614_cryo.dialog:79
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:79
 msgid ""
 "Primary objective: Protect the living beings inside this complex from attacks "
 "by hostile bots."
 msgstr ""
 
-#: ./614_cryo.dialog:80
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:80
 msgid ""
 "Secondary objective: Protect facility by locking outer gates if Threat Degree "
 "Analysis: HIGH."
 msgstr ""
 
-#: ./614_cryo.dialog:85
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:85
 msgid "Why are you not hostile as are all the other bots?"
 msgstr ""
 
-#: ./614_cryo.dialog:87
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:87
 msgid ""
 "I belong to a an older generation of bots, running a custom-made security guar"
 "d operating system."
 msgstr ""
 
-#: ./614_cryo.dialog:88
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:88
 msgid ""
 "None of the bots of this generation were affected by the proceedings that led "
 "to bots attacking, generally known as the Great Assault."
 msgstr ""
 
-#: ./614_cryo.dialog:89
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:89
 msgid ""
 "Even though discontinued from \3Nicholson, Inc.\2 long ago, today, some people"
 " have picked up the work and are even trying to improve the operating system r"
 "unning on my series."
 msgstr ""
 
-#: ./614_cryo.dialog:90
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:90
 msgid "Don't forget to buy products from \3Nicholson, Inc.\2. They are the best."
 msgstr ""
 
-#: ./614_cryo.dialog:95
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:95
 msgid "See you later."
 msgstr ""
 
-#: ./614_cryo.dialog:97
+#: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:97
 msgid "Resuming guard program."
 msgstr ""
 

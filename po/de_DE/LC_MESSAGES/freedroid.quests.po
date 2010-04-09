@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_data\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 08:16+0000\n"
+"POT-Creation-Date: 2010-04-09 13:08+0000\n"
 "PO-Revision-Date: 2009-02-23 00:43+0100\n"
 "Last-Translator: barbatrix <blue.bits@arcor.de>\n"
 "Language-Team: Deutsch\n"
@@ -16,71 +16,71 @@ msgstr ""
 "X-Launchpad-Export-Date: 2008-09-14 12:32+0000\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: freedroid.quests:36
+#: /home/david/src/freedroid-translation/map/freedroid.quests:36
 msgid "Bender's problem"
 msgstr "Benders Problem"
 
-#: freedroid.quests:52
+#: /home/david/src/freedroid-translation/map/freedroid.quests:52
 msgid "The yellow toolkit"
 msgstr "Das gelbe AutoServ-Werkzeugset"
 
-#: freedroid.quests:68
+#: /home/david/src/freedroid-translation/map/freedroid.quests:68
 msgid "Anything but the army snacks, please!"
 msgstr "Nur keine Armeerationen, bitte!"
 
-#: freedroid.quests:84
+#: /home/david/src/freedroid-translation/map/freedroid.quests:84
 msgid "Novice Arena"
 msgstr "Anfänger-Arena"
 
-#: freedroid.quests:103
+#: /home/david/src/freedroid-translation/map/freedroid.quests:103
 msgid "Time to say goodnight"
 msgstr "Zeit, \"Gute Nacht\" zu sagen"
 
-#: freedroid.quests:122
+#: /home/david/src/freedroid-translation/map/freedroid.quests:122
 msgid "Opening a can of bots..."
 msgstr "In ein Roboternest stechen..."
 
-#: freedroid.quests:137
+#: /home/david/src/freedroid-translation/map/freedroid.quests:137
 msgid "And there was light..."
 msgstr "Und es wurde Licht..."
 
-#: freedroid.quests:156
+#: /home/david/src/freedroid-translation/map/freedroid.quests:156
 msgid "A kingdom for a cluster!"
 msgstr "Ein Königreich für einen Cluster!"
 
-#: freedroid.quests:172
+#: /home/david/src/freedroid-translation/map/freedroid.quests:172
 msgid "Opening access to MS Office"
 msgstr "Öffne Zugang zum MS-Büro"
 
-#: freedroid.quests:188
+#: /home/david/src/freedroid-translation/map/freedroid.quests:188
 msgid "Propagating a faulty firmware"
 msgstr "Eine fehlerhafte Firmware verteilen"
 
-#: freedroid.quests:203
+#: /home/david/src/freedroid-translation/map/freedroid.quests:203
 msgid "SADD's power supply"
 msgstr "SAGEs Energieversorgung"
 
-#: freedroid.quests:219
+#: /home/david/src/freedroid-translation/map/freedroid.quests:219
 msgid "Tania's sanitary"
 msgstr "Die Zuflucht Tanias"
 
-#: freedroid.quests:234
+#: /home/david/src/freedroid-translation/map/freedroid.quests:234
 msgid "Saving the shop"
 msgstr "Den Laden retten"
 
-#: freedroid.quests:249
+#: /home/david/src/freedroid-translation/map/freedroid.quests:249
 msgid "Doing Duncan a favour"
 msgstr "Duncan einen Gefallen erweisen"
 
-#: freedroid.quests:264
+#: /home/david/src/freedroid-translation/map/freedroid.quests:264
 msgid "Tutorial Shooting"
 msgstr "Schusswaffen-Einführung"
 
-#: freedroid.quests:282
+#: /home/david/src/freedroid-translation/map/freedroid.quests:282
 msgid "Tutorial Hacking"
 msgstr "Hacker-Einführung"
 
-#: freedroid.quests:300
+#: /home/david/src/freedroid-translation/map/freedroid.quests:300
 #, fuzzy
 msgid "A strange guy stealing from town"
 msgstr "Der Fremde östlich der Stadt"

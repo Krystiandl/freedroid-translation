@@ -2,347 +2,347 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 08:16+0000\n"
-"PO-Revision-Date: 2010-04-09 08:16+0000\n"
+"POT-Creation-Date: 2010-04-09 13:08+0000\n"
+"PO-Revision-Date: 2010-04-09 13:08+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-15\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./ReturnOfTux.droids:58
-#: ./ReturnOfTux.droids:59
-#: ./ReturnOfTux.droids:60
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:58
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:59
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:60
 msgid "Old Town Gate Guard"
 msgstr ""
 
-#: ./ReturnOfTux.droids:61
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:61
 msgid "Bender -- The strongest one"
 msgstr ""
 
-#: ./ReturnOfTux.droids:62
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:62
 msgid "Chandra -- Town Sage"
 msgstr ""
 
-#: ./ReturnOfTux.droids:63
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:63
 msgid "Doc Moore -- Medic"
 msgstr ""
 
-#: ./ReturnOfTux.droids:64
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:64
 msgid "Stone -- Shopowner"
 msgstr ""
 
-#: ./ReturnOfTux.droids:65
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:65
 msgid "Sorenson -- Mystery coder"
 msgstr ""
 
-#: ./ReturnOfTux.droids:66
-#: ./ReturnOfTux.droids:67
-#: ./ReturnOfTux.droids:68
-#: ./ReturnOfTux.droids:69
-#: ./ReturnOfTux.droids:70
-#: ./ReturnOfTux.droids:71
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:66
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:67
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:68
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:69
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:70
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:71
 msgid "614 -- Town Guard Bot"
 msgstr ""
 
-#: ./ReturnOfTux.droids:72
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:72
 msgid "Richard -- Programmer"
 msgstr ""
 
-#: ./ReturnOfTux.droids:73
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:73
 msgid "Benjamin -- Gunsmith"
 msgstr ""
 
-#: ./ReturnOfTux.droids:74
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:74
 msgid "Dixon -- Mechanic"
 msgstr ""
 
-#: ./ReturnOfTux.droids:75
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:75
 msgid "Michelangelo -- Colony Cook"
 msgstr ""
 
-#: ./ReturnOfTux.droids:76
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:76
 msgid "Skippy -- Map-Maker Maker"
 msgstr ""
 
-#: ./ReturnOfTux.droids:77
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:77
 msgid "Duncan -- Bombmaker"
 msgstr ""
 
-#: ./ReturnOfTux.droids:78
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:78
 msgid "Pendragon -- Fighter"
 msgstr ""
 
-#: ./ReturnOfTux.droids:79
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:79
 msgid "Bruce -- Mine Worker"
 msgstr ""
 
-#: ./ReturnOfTux.droids:80
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:80
 msgid "Butch -- Arena Master"
 msgstr ""
 
-#: ./ReturnOfTux.droids:81
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:81
 msgid "Spencer -- Leader of the Red Guard"
 msgstr ""
 
-#: ./ReturnOfTux.droids:82
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:82
 msgid "Lukas -- Head of the Armory"
 msgstr ""
 
-#: ./ReturnOfTux.droids:83
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:83
 msgid "Tybalt -- Citadel Gate Guard"
 msgstr ""
 
-#: ./ReturnOfTux.droids:84
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:84
 msgid "Ewald -- Barkeeper"
 msgstr ""
 
-#: ./ReturnOfTux.droids:85
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:85
 msgid "Tamara -- Librarian"
 msgstr ""
 
-#: ./ReturnOfTux.droids:115
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:115
 msgid "Dark Apprentice of MegaSys"
 msgstr ""
 
-#: ./ReturnOfTux.droids:144
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:144
 msgid "DSB Machine Deck Control Terminal"
 msgstr ""
 
-#: ./ReturnOfTux.droids:160
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:160
 msgid "Power Control Terminal"
 msgstr ""
 
-#: ./ReturnOfTux.droids:161
-#: ./ReturnOfTux.droids:162
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:161
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:162
 msgid "Gate Terminal"
 msgstr ""
 
-#: ./ReturnOfTux.droids:178
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:178
 msgid "The Singularity"
 msgstr ""
 
-#: ./ReturnOfTux.droids:205
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:205
 msgid "Engel -- Hunter"
 msgstr ""
 
-#: ./ReturnOfTux.droids:206
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:206
 msgid "Geist -- Hunter"
 msgstr ""
 
-#: ./ReturnOfTux.droids:207
-#: ./ReturnOfTux.droids:579
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:207
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:579
 msgid "Nemesis"
 msgstr ""
 
-#: ./ReturnOfTux.droids:208
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:208
 msgid "302 Nemesis"
 msgstr ""
 
-#: ./ReturnOfTux.droids:223
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:223
 msgid "329"
 msgstr ""
 
-#: ./ReturnOfTux.droids:224
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:224
 msgid "302"
 msgstr ""
 
-#: ./ReturnOfTux.droids:225
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:225
 msgid "249"
 msgstr ""
 
-#: ./ReturnOfTux.droids:260
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:260
 msgid "Francis"
 msgstr ""
 
-#: ./ReturnOfTux.droids:261
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:261
 msgid "614 -- Cryo Lab Guard Bot"
 msgstr ""
 
-#: ./ReturnOfTux.droids:262
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:262
 msgid "614 -- Terminal Test"
 msgstr ""
 
-#: ./ReturnOfTux.droids:303
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:303
 msgid "711 - Pure death"
 msgstr ""
 
-#: ./ReturnOfTux.droids:304
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:304
 msgid "742 - Double death"
 msgstr ""
 
-#: ./ReturnOfTux.droids:305
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:305
 msgid "821"
 msgstr ""
 
-#: ./ReturnOfTux.droids:306
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:306
 msgid "834"
 msgstr ""
 
-#: ./ReturnOfTux.droids:341
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:341
 msgid "614 -- Kevin's Guard"
 msgstr ""
 
-#: ./ReturnOfTux.droids:342
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:342
 msgid "Kevin --- Hacker "
 msgstr ""
 
-#: ./ReturnOfTux.droids:343
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:343
 msgid "Jasmine --- Girlfriend of a true Hacker"
 msgstr ""
 
-#: ./ReturnOfTux.droids:344
-#: ./ReturnOfTux.droids:345
-#: ./ReturnOfTux.droids:346
-#: ./ReturnOfTux.droids:347
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:344
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:345
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:346
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:347
 msgid "Prisoner"
 msgstr ""
 
-#: ./ReturnOfTux.droids:418
-#: ./ReturnOfTux.droids:419
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:418
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:419
 msgid "MSCD - MegaSys Control Droid"
 msgstr ""
 
-#: ./ReturnOfTux.droids:456
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:456
 msgid "Race Condition"
 msgstr ""
 
-#: ./ReturnOfTux.droids:457
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:457
 msgid "Undeclared Variable"
 msgstr ""
 
-#: ./ReturnOfTux.droids:458
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:458
 msgid "Segmentation Fault"
 msgstr ""
 
-#: ./ReturnOfTux.droids:459
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:459
 msgid "Buffer Overflow"
 msgstr ""
 
-#: ./ReturnOfTux.droids:472
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:472
 msgid "Melissa.I"
 msgstr ""
 
-#: ./ReturnOfTux.droids:473
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:473
 msgid "ILOVEYOU"
 msgstr ""
 
-#: ./ReturnOfTux.droids:474
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:474
 msgid "W32.YourDoom"
 msgstr ""
 
-#: ./ReturnOfTux.droids:475
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:475
 msgid "CIH.1103"
 msgstr ""
 
-#: ./ReturnOfTux.droids:492
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:492
 msgid "MSDD - MegaSys Defence Droid"
 msgstr ""
 
-#: ./ReturnOfTux.droids:493
-#: ./ReturnOfTux.droids:494
-#: ./ReturnOfTux.droids:495
-#: ./ReturnOfTux.droids:496
-#: ./ReturnOfTux.droids:497
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:493
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:494
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:495
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:496
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:497
 msgid "TD"
 msgstr ""
 
-#: ./ReturnOfTux.droids:498
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:498
 msgid "Update Server"
 msgstr ""
 
-#: ./ReturnOfTux.droids:500
-#: ./ReturnOfTux.droids:501
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:500
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:501
 msgid "Bot Factory Gate Guard"
 msgstr ""
 
-#: ./ReturnOfTux.droids:544
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:544
 msgid "Koan"
 msgstr ""
 
-#: ./ReturnOfTux.droids:560
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:560
 msgid "SADD - Secret Area Defence Droid"
 msgstr ""
 
-#: ./ReturnOfTux.droids:561
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:561
 msgid "Tania - lonely scientist"
 msgstr ""
 
-#: ./ReturnOfTux.droids:562
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:562
 msgid "SACD - Secret Area Control Droid"
 msgstr ""
 
-#: ./ReturnOfTux.droids:567
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:567
 msgid "Boris -- scientists leader"
 msgstr ""
 
-#: ./ReturnOfTux.droids:572
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:572
 msgid "Lina -- librarian"
 msgstr ""
 
-#: ./ReturnOfTux.droids:577
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:577
 msgid "Serge -- storehouse keeper"
 msgstr ""
 
-#: ./ReturnOfTux.droids:580
-#: ./ReturnOfTux.droids:583
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:580
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:583
 msgid "SADD"
 msgstr ""
 
-#: ./ReturnOfTux.droids:581
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:581
 msgid "Ashman"
 msgstr ""
 
-#: ./ReturnOfTux.droids:582
-#: ./ReturnOfTux.droids:584
-#: ./ReturnOfTux.droids:585
-#: ./ReturnOfTux.droids:586
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:582
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:584
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:585
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:586
 msgid "Guard"
 msgstr ""
 
-#: ./ReturnOfTux.droids:587
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:587
 msgid "Servant"
 msgstr ""
 
-#: ./ReturnOfTux.droids:588
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:588
 msgid "Criocapsules maintainer"
 msgstr ""
 
-#: ./ReturnOfTux.droids:589
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:589
 msgid "Sanitary technician"
 msgstr ""
 
-#: ./ReturnOfTux.droids:590
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:590
 msgid "Toilet droid"
 msgstr ""
 
-#: ./ReturnOfTux.droids:617
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:617
 msgid "TutorialTom"
 msgstr ""
 
-#: ./ReturnOfTux.droids:618
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:618
 msgid "Kill Me"
 msgstr ""
 
-#: ./ReturnOfTux.droids:619
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:619
 msgid "Kill Me Too"
 msgstr ""
 
-#: ./ReturnOfTux.droids:620
-#: ./ReturnOfTux.droids:621
-#: ./ReturnOfTux.droids:622
-#: ./ReturnOfTux.droids:623
-#: ./ReturnOfTux.droids:624
-#: ./ReturnOfTux.droids:625
-#: ./ReturnOfTux.droids:626
-#: ./ReturnOfTux.droids:627
-#: ./ReturnOfTux.droids:628
-#: ./ReturnOfTux.droids:629
-#: ./ReturnOfTux.droids:630
-#: ./ReturnOfTux.droids:631
-#: ./ReturnOfTux.droids:632
-#: ./ReturnOfTux.droids:633
-#: ./ReturnOfTux.droids:634
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:620
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:621
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:622
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:623
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:624
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:625
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:626
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:627
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:628
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:629
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:630
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:631
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:632
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:633
+#: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:634
 msgid "Target"
 msgstr ""
 

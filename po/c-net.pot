@@ -2,195 +2,195 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 08:16+0000\n"
-"PO-Revision-Date: 2010-04-09 08:16+0000\n"
+"POT-Creation-Date: 2010-04-09 13:07+0000\n"
+"PO-Revision-Date: 2010-04-09 13:07+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-15\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./c-net.dialog:33
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:33
 msgid "  . "
 msgstr ""
 
-#: ./c-net.dialog:36
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:36
 msgid "Login : "
 msgstr ""
 
-#: ./c-net.dialog:43
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:43
 msgid " tux "
 msgstr ""
 
-#: ./c-net.dialog:47
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:47
 msgid "Welcome to the Community Network."
 msgstr ""
 
-#: ./c-net.dialog:48
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:48
 msgid "Please set your login password for user \"
 msgstr ""
 
-#: ./c-net.dialog:49
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:49
 msgid ""
 "Use at least one lower case letter, one upper case letter, one number, and one"
 " symbol."
 msgstr ""
 
-#: ./c-net.dialog:50
-#: ./c-net.dialog:53
-#: ./c-net.dialog:65
-#: ./c-net.dialog:82
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:50
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:53
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:65
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:82
 msgid "Password : "
 msgstr ""
 
-#: ./c-net.dialog:51
-#: ./c-net.dialog:54
-#: ./c-net.dialog:66
-#: ./c-net.dialog:84
-#: ./c-net.dialog:101
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:51
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:54
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:66
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:84
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:101
 msgid "******"
 msgstr ""
 
-#: ./c-net.dialog:57
-#: ./c-net.dialog:72
-#: ./c-net.dialog:90
-#: ./c-net.dialog:107
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:57
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:72
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:90
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:107
 msgid "Last login from dev/tty3 on unknown"
 msgstr ""
 
-#: ./c-net.dialog:63
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:63
 msgid " root "
 msgstr ""
 
-#: ./c-net.dialog:68
-#: ./c-net.dialog:85
-#: ./c-net.dialog:102
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:68
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:85
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:102
 msgid "Login incorrect"
 msgstr ""
 
-#: ./c-net.dialog:80
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:80
 msgid " lily "
 msgstr ""
 
-#: ./c-net.dialog:88
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:88
 msgid "****"
 msgstr ""
 
-#: ./c-net.dialog:97
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:97
 msgid " cpain "
 msgstr ""
 
-#: ./c-net.dialog:99
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:99
 msgid "Password: "
 msgstr ""
 
-#: ./c-net.dialog:105
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:105
 msgid "************************************"
 msgstr ""
 
-#: ./c-net.dialog:114
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:114
 msgid "show commands"
 msgstr ""
 
-#: ./c-net.dialog:124
-#: ./c-net.dialog:162
-#: ./c-net.dialog:216
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:124
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:162
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:216
 msgid "../"
 msgstr ""
 
-#: ./c-net.dialog:131
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:131
 msgid "ls"
 msgstr ""
 
-#: ./c-net.dialog:139
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:139
 msgid "readdrive"
 msgstr ""
 
-#: ./c-net.dialog:141
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:141
 msgid "no disk found"
 msgstr ""
 
-#: ./c-net.dialog:146
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:146
 msgid "./statistics.pl"
 msgstr ""
 
-#: ./c-net.dialog:148
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:148
 msgid "Corrupted file."
 msgstr ""
 
-#: ./c-net.dialog:149
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:149
 msgid "  Bot   #Dead# Tux #Hacked/Failed#Ratio"
 msgstr ""
 
-#: ./c-net.dialog:151
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:151
 msgid "tux@c-net:~$"
 msgstr ""
 
-#: ./c-net.dialog:155
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:155
 msgid "show info"
 msgstr ""
 
-#: ./c-net.dialog:169
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:169
 msgid "date"
 msgstr ""
 
-#: ./c-net.dialog:177
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:177
 msgid "finger"
 msgstr ""
 
-#: ./c-net.dialog:180
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:180
 msgid "Tty     Login          Name"
 msgstr ""
 
-#: ./c-net.dialog:181
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:181
 msgid "tty7   bossman    Spencer"
 msgstr ""
 
-#: ./c-net.dialog:182
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:182
 msgid "tty5   cpain          Sorenson"
 msgstr ""
 
-#: ./c-net.dialog:183
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:183
 msgid "tty2   lily              Lily Stone"
 msgstr ""
 
-#: ./c-net.dialog:184
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:184
 msgid "tty3   tux              "
 msgstr ""
 
-#: ./c-net.dialog:189
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:189
 msgid "users"
 msgstr ""
 
-#: ./c-net.dialog:191
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:191
 msgid "bossman  cpain  lily  tux"
 msgstr ""
 
-#: ./c-net.dialog:197
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:197
 msgid "whoami"
 msgstr ""
 
-#: ./c-net.dialog:203
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:203
 msgid "uname"
 msgstr ""
 
-#: ./c-net.dialog:209
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:209
 msgid "show games"
 msgstr ""
 
-#: ./c-net.dialog:223
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:223
 msgid "nethack"
 msgstr ""
 
-#: ./c-net.dialog:229
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:229
 msgid "global_thermonuclear_war"
 msgstr ""
 
-#: ./c-net.dialog:235
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:235
 msgid "logout"
 msgstr ""
 
-#: ./c-net.dialog:237
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:237
 msgid "Connection to c-net closed."
 msgstr ""
 

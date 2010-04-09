@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidRPG 0.10.4cvs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 08:16+0000\n"
+"POT-Creation-Date: 2010-04-09 13:06+0000\n"
 "PO-Revision-Date: 2008-11-03 05:44+0000\n"
 "Last-Translator: Christian Widell <Christian_widell@hotmail.com>\n"
 "Language-Team: Swedish\n"
@@ -12,200 +12,201 @@ msgstr ""
 "X-Launchpad-Export-Date: 2009-01-11 17:40+0000\n"
 "X-Generator: Launchpad (build Unknown)\n"
 
-#: freedroid.prefix_archetypes:10 freedroid.prefix_archetypes:37
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:10
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:37
 msgid "I am a big bad bug in the game. Report me. Please. "
 msgstr ""
 "Jag är stor elak bugg i spelet. Rapportera mig till utvecklarna är du snäll. "
 
-#: freedroid.prefix_archetypes:64
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:64
 msgid "Living "
 msgstr "Levande "
 
-#: freedroid.prefix_archetypes:91
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:91
 msgid " coated in teflon"
 msgstr " täckt av teflon"
 
-#: freedroid.prefix_archetypes:118
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:118
 msgid " of Almost Zodiac"
 msgstr " av nästan Zodiak"
 
-#: freedroid.prefix_archetypes:145
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:145
 msgid "Resonant "
 msgstr "Resonerande "
 
-#: freedroid.prefix_archetypes:172
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:172
 msgid "Cow "
 msgstr "Ko "
 
-#: freedroid.prefix_archetypes:200
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:200
 msgid "Bull "
 msgstr "Tjur "
 
-#: freedroid.prefix_archetypes:227
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:227
 msgid "Mouse "
 msgstr "Mus "
 
-#: freedroid.prefix_archetypes:254
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:254
 msgid "Jackdaw "
 msgstr "Kaja "
 
-#: freedroid.prefix_archetypes:281
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:281
 msgid "Hardcoded "
 msgstr "Hårdkodad "
 
-#: freedroid.prefix_archetypes:308
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:308
 msgid "Melting "
 msgstr "Smältande "
 
-#: freedroid.prefix_archetypes:335
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:335
 msgid "Cursed "
 msgstr "Förbannad "
 
-#: freedroid.prefix_archetypes:362
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:362
 msgid "Perfect "
 msgstr "Perfekt "
 
-#: freedroid.prefix_archetypes:388
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:388
 msgid "Quartz "
 msgstr "Quartz "
 
-#: freedroid.prefix_archetypes:415
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:415
 msgid "First aid "
 msgstr "Första hjälpen "
 
-#: freedroid.prefix_archetypes:442
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:442
 msgid "Razor sharp "
 msgstr "Rakbladsvass "
 
-#: freedroid.prefix_archetypes:469
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:469
 msgid "Light "
 msgstr "Ljus "
 
-#: freedroid.prefix_archetypes:496
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:496
 msgid "Beautiful "
 msgstr "Vacker "
 
-#: freedroid.prefix_archetypes:523
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:523
 msgid "Howling "
 msgstr "Ylande "
 
-#: freedroid.prefix_archetypes:550
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:550
 msgid "Accelerating "
 msgstr "Accelererande "
 
-#: freedroid.prefix_archetypes:577
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:577
 msgid "Colorful "
 msgstr "Färglad "
 
-#: freedroid.prefix_archetypes:604
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:604
 msgid "Rainbow "
 msgstr "Regnbåge "
 
-#: freedroid.prefix_archetypes:631
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:631
 msgid "Suicide "
 msgstr "Självmord "
 
-#: freedroid.prefix_archetypes:658
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:658
 msgid "Broken "
 msgstr "Trasig "
 
-#: freedroid.prefix_archetypes:685
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:685
 msgid "Fluorescent "
 msgstr "Fluorescerande "
 
-#: freedroid.prefix_archetypes:712
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:712
 msgid "Luminescent "
 msgstr "Luminiscerande "
 
-#: freedroid.prefix_archetypes:739
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:739
 msgid "Blazing "
 msgstr "Flammande "
 
-#: freedroid.prefix_archetypes:766
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:766
 msgid "Hungry "
 msgstr "Hungrig "
 
-#: freedroid.prefix_archetypes:793
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:793
 msgid "Devouring "
 msgstr "Uppslukande "
 
-#: freedroid.prefix_archetypes:820
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:820
 msgid "Ravenous "
 msgstr "Glupsk "
 
-#: freedroid.prefix_archetypes:847
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:847
 msgid "OMGWTF "
 msgstr "OMGWTF "
 
-#: freedroid.prefix_archetypes:874
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:874
 msgid " of good design"
 msgstr ""
 
-#: freedroid.prefix_archetypes:897
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:897
 msgid " (C)MegaSys"
 msgstr " (C)MegaSys"
 
-#: freedroid.prefix_archetypes:921
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:921
 msgid " with no suffix"
 msgstr " utan suffix"
 
-#: freedroid.prefix_archetypes:944
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:944
 msgid " with sharp edges"
 msgstr " med skarpa kanter"
 
-#: freedroid.prefix_archetypes:969
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:969
 msgid " covered in blood"
 msgstr " täckt av blod"
 
-#: freedroid.prefix_archetypes:992
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:992
 msgid " covered in oil"
 msgstr " täckt av olja"
 
-#: freedroid.prefix_archetypes:1015
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1015
 msgid ", 'the Murderer'"
 msgstr ", 'Mördaren"
 
-#: freedroid.prefix_archetypes:1038
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1038
 msgid ", 'the Healer'"
 msgstr ", 'Helaren'"
 
-#: freedroid.prefix_archetypes:1061
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1061
 msgid ", 'the Rabbit'"
 msgstr ", 'Kaninen'"
 
-#: freedroid.prefix_archetypes:1084
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1084
 msgid ", 'the Seeker'"
 msgstr ", 'Sökaren'"
 
-#: freedroid.prefix_archetypes:1107
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1107
 msgid ", 'the World'"
 msgstr ", 'Världen'"
 
-#: freedroid.prefix_archetypes:1130
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1130
 msgid " from hell"
 msgstr " från helvetet"
 
-#: freedroid.prefix_archetypes:1153
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1153
 msgid " with strange runes"
 msgstr " med konstiga runor"
 
-#: freedroid.prefix_archetypes:1176
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1176
 msgid " with a curse"
 msgstr " med en förbannelse"
 
-#: freedroid.prefix_archetypes:1199
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1199
 msgid "Cool "
 msgstr "Kall "
 
-#: freedroid.prefix_archetypes:1222
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1222
 msgid "Frozen "
 msgstr "Frusen "
 
-#: freedroid.prefix_archetypes:1245
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1245
 msgid " of ice"
 msgstr " av is"
 
-#: freedroid.prefix_archetypes:1268
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1268
 msgid " of chills"
 msgstr " av kalla kårar"
 

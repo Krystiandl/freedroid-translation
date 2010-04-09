@@ -2,478 +2,478 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 08:16+0000\n"
-"PO-Revision-Date: 2010-04-09 08:16+0000\n"
+"POT-Creation-Date: 2010-04-09 13:07+0000\n"
+"PO-Revision-Date: 2010-04-09 13:07+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-15\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./Francis.dialog:45
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:45
 msgid "Who am I?"
 msgstr ""
 
-#: ./Francis.dialog:47
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:47
 msgid "Oh dear. This is not good. Not good."
 msgstr ""
 
-#: ./Francis.dialog:48
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:48
 msgid ""
 "*sigh* Long stasis sleep can cause neurological damage and impact the memory. "
 "Looks like that is what happened here."
 msgstr ""
 
-#: ./Francis.dialog:49
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:49
 msgid ""
 "It will all come back to you in a few hours, but I guess I will make it easier"
 " for you if I say what I know."
 msgstr ""
 
-#: ./Francis.dialog:50
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:50
 msgid ""
 "You are a Linarian, a species not native to this planet. Twenty of you arrived"
 " here close to a century ago."
 msgstr ""
 
-#: ./Francis.dialog:51
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:51
 msgid ""
 "There was a... misunderstanding of some sort and humans welcomed your expediti"
 "on with blaster fire. A terrible mistake on our part."
 msgstr ""
 
-#: ./Francis.dialog:52
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:52
 msgid "A few of you survived the slaughter and went into hiding and obscurity."
 msgstr ""
 
-#: ./Francis.dialog:53
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:53
 msgid ""
 "During that time Linarians became known as helpers and heroes. Of course now m"
 "ost people think it all was just a fairy tale."
 msgstr ""
 
-#: ./Francis.dialog:54
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:54
 msgid "If the computer is not lying, then your name is "
 msgstr ""
 
-#: ./Francis.dialog:59
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:59
 msgid "How did the war start?"
 msgstr ""
 
-#: ./Francis.dialog:61
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:61
 msgid "It is a long story. It all happened five months ago."
 msgstr ""
 
-#: ./Francis.dialog:62
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:62
 msgid ""
 "I was at a protest against MegaSys, a computer company. They killed free softw"
 "are by finding a loophole in the GPL3.14 licence. It all became their property"
 ". Bastards."
 msgstr ""
 
-#: ./Francis.dialog:63
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:63
 msgid ""
 "Lots of people were angry about this. Protests and riots spread in waves all a"
 "round the world."
 msgstr ""
 
-#: ./Francis.dialog:64
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:64
 msgid ""
 "When the police bots approached at dawn, we thought that they were going to si"
 "mply disperse the crowds. Instead, they started killing us."
 msgstr ""
 
-#: ./Francis.dialog:65
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:65
 msgid ""
 "I broke into a parked hover car and used it to escape. The sight from the air "
 "was horrible."
 msgstr ""
 
-#: ./Francis.dialog:66
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:66
 msgid ""
 "The city was full of flames, flashes of gunfire and screaming people. That ima"
 "ge still does not let me sleep at night."
 msgstr ""
 
-#: ./Francis.dialog:67
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:67
 msgid "First we made them, and then they unmade us. How ironic."
 msgstr ""
 
-#: ./Francis.dialog:72
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:72
 msgid "What happened then?"
 msgstr ""
 
-#: ./Francis.dialog:74
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:74
 msgid "I got shot down and I crashed a few kilometers away from here."
 msgstr ""
 
-#: ./Francis.dialog:75
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:75
 msgid ""
 "Later I learned that the bots started attacking all around the globe. The jour"
 "nalists called it 'The Great Assault'. The name stuck."
 msgstr ""
 
-#: ./Francis.dialog:76
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:76
 msgid ""
 "Then the bots started jamming our broadcasts and long distance communication b"
 "ecame impossible. I have no idea what happened in the world after that. We are"
 " cut off."
 msgstr ""
 
-#: ./Francis.dialog:77
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:77
 msgid "For all I know the war might be already over."
 msgstr ""
 
-#: ./Francis.dialog:82
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:82
 msgid "Where am I?"
 msgstr ""
 
-#: ./Francis.dialog:84
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:84
 msgid ""
 "The locals call this place the popsicle storage, because of all the people lyi"
 "ng here frozen in cryogenic sleep. All were frozen down before the Great Assau"
 "lt."
 msgstr ""
 
-#: ./Francis.dialog:85
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:85
 msgid ""
 "This facility is located not too far away from a mining town where we have mad"
 "e a stand against the damn contraptions. However, I'm alone here with only 1 d"
 "roid for security."
 msgstr ""
 
-#: ./Francis.dialog:86
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:86
 msgid ""
 "There are just too few humans alive and awake to allow us to properly protect "
 "this place, and nobody else is foolish enough to stay out here alone."
 msgstr ""
 
-#: ./Francis.dialog:87
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:87
 msgid ""
 "I try to do my best to make sure nothing goes bad here and all these people di"
 "e. Luckily, the outer gates of this place are quite sturdy."
 msgstr ""
 
-#: ./Francis.dialog:92
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:92
 msgid "Why did the Linarians come to this world?"
 msgstr ""
 
-#: ./Francis.dialog:94
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:94
 msgid ""
 "The planet you mean? No one knows that. None of you ever said anything about i"
 "t."
 msgstr ""
 
-#: ./Francis.dialog:95
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:95
 msgid "Sorry, I cannot help you with that."
 msgstr ""
 
-#: ./Francis.dialog:100
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:100
 msgid "Where in the void is this world?"
 msgstr ""
 
-#: ./Francis.dialog:102
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:102
 msgid "I guess you mean in the universe?"
 msgstr ""
 
-#: ./Francis.dialog:103
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:103
 msgid "Yes, I think that is your name for it."
 msgstr ""
 
-#: ./Francis.dialog:104
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:104
 msgid ""
 "Well, we are in a barred spiral galaxy, twenty-six thousand light years away f"
 "rom the galactic core."
 msgstr ""
 
-#: ./Francis.dialog:105
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:105
 msgid ""
 "The galactic radius is 43,000 light years and the circumference is estimated a"
 "t 270,000 light years."
 msgstr ""
 
-#: ./Francis.dialog:106
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:106
 msgid ""
 "This is a planetary system of ten planets, and we are presently located on the"
 " third one from our star, Sun."
 msgstr ""
 
-#: ./Francis.dialog:107
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:107
 msgid ""
 "I am not an astronomer, so I could be wrong. I am too tired to keep track of w"
 "hat is a planet and what is just an oversized rock."
 msgstr ""
 
-#: ./Francis.dialog:108
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:108
 msgid "This could be just about anywhere. Your description is too ambiguous."
 msgstr ""
 
-#: ./Francis.dialog:109
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:109
 msgid ""
 "Sorry, star sciences are my weak point. Maybe someone in the town might know s"
 "omething more."
 msgstr ""
 
-#: ./Francis.dialog:114
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:114
 msgid "Who are you? What is going on?"
 msgstr ""
 
-#: ./Francis.dialog:116
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:116
 msgid "I guess I will start with myself."
 msgstr ""
 
-#: ./Francis.dialog:117
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:117
 msgid ""
 "Francis. Francis Spark. I used to be a teacher at a small university before al"
 "l hell broke loose."
 msgstr ""
 
-#: ./Francis.dialog:118
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:118
 msgid ""
 "Currently, there is a war raging all around the globe. Humans are fighting aga"
 "inst bots."
 msgstr ""
 
-#: ./Francis.dialog:119
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:119
 msgid "And it looks like we are losing the war."
 msgstr ""
 
-#: ./Francis.dialog:124
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:124
 msgid ""
 "I feel terrible... Was I asleep? I remember nightmares. A meteor shower striki"
 "ng a planet full of life and killing everything on it..."
 msgstr ""
 
-#: ./Francis.dialog:126
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:126
 msgid ""
 "This is normal. You were in stasis sleep for over 70 years. Stasis is not too "
 "kind on the mind. Your strange dreams will keep recurring for several years."
 msgstr ""
 
-#: ./Francis.dialog:127
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:127
 msgid ""
 "Whatever the reason was for putting yourself through this, it must have been a"
 " damn good one."
 msgstr ""
 
-#: ./Francis.dialog:128
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:128
 msgid ""
 "You are lucky that I found you and woke you up. A few more decades in there an"
 "d you would end up insane."
 msgstr ""
 
-#: ./Francis.dialog:133
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:133
 msgid "Tell me more about the town you mentioned."
 msgstr ""
 
-#: ./Francis.dialog:135
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:135
 msgid "It is a small mining community of no more than 500 inhabitants..."
 msgstr ""
 
-#: ./Francis.dialog:136
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:136
 msgid ""
 "It was a stroke of luck that it did not get destroyed by the bots. Because of "
 "poor funding, the city could not afford new models."
 msgstr ""
 
-#: ./Francis.dialog:137
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:137
 msgid ""
 "All they had at the time of the bot attack were the 614 battle bot platforms. "
 "They were running an old operating system and were not affected by whatever ca"
 "used the other bots to go crazy."
 msgstr ""
 
-#: ./Francis.dialog:138
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:138
 msgid ""
 "Right now the place is protected by the Red Guard, a bunch of volunteers. I ca"
 "nnot say I agree with their methods."
 msgstr ""
 
-#: ./Francis.dialog:139
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:139
 msgid ""
 "However, I must admit that being a prisoner of a walled town looks pretty good"
 " compared to the alternative of being eviscerated alive."
 msgstr ""
 
-#: ./Francis.dialog:144
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:144
 msgid "Why did the bots attack?"
 msgstr ""
 
-#: ./Francis.dialog:146
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:146
 msgid "We don't really know the reason for this insanity. However..."
 msgstr ""
 
-#: ./Francis.dialog:147
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:147
 msgid ""
 "All of the attacking bots are using a MegaSys operating system, so we think th"
 "ey are responsible."
 msgstr ""
 
-#: ./Francis.dialog:148
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:148
 msgid "Not surprisingly, the bastards deny everything."
 msgstr ""
 
-#: ./Francis.dialog:149
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:149
 msgid ""
 "Of course, because nearly every single bot in the world runs on that junk, the"
 " situation does not look pretty."
 msgstr ""
 
-#: ./Francis.dialog:154
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:154
 msgid "I also heard a voice... Someone calling himself Dvorak... "
 msgstr ""
 
-#: ./Francis.dialog:156
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:156
 msgid "Relax. Everything will be fine in a few hours."
 msgstr ""
 
-#: ./Francis.dialog:157
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:157
 msgid "This is perfectly normal."
 msgstr ""
 
-#: ./Francis.dialog:162
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:162
 msgid "Why not wake up all these people and attack the bots?"
 msgstr ""
 
-#: ./Francis.dialog:164
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:164
 msgid ""
 "Well, some have a disease that can't be cured yet. Some are just old and want "
 "to be woken up when technology can give them an extended life. Some have other"
 " reasons."
 msgstr ""
 
-#: ./Francis.dialog:165
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:165
 msgid ""
 "But suffice it to say, most of these people are not really good at fighting. B"
 "esides, we don't have enough weapons to mount a full scale counter attack at p"
 "resent."
 msgstr ""
 
-#: ./Francis.dialog:166
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:166
 msgid ""
 "And an even bigger problem would be to feed everyone. Our food resources are q"
 "uite scarce. So for now they are better off sleeping."
 msgstr ""
 
-#: ./Francis.dialog:171
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:171
 msgid "Can you tell me how to get to town?"
 msgstr ""
 
-#: ./Francis.dialog:173
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:173
 msgid ""
 "Sure. You just need to follow the road outside to the east. After the bridge, "
 "turn right and continue to follow the road and you will soon be outside of the"
 " town main gate."
 msgstr ""
 
-#: ./Francis.dialog:174
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:174
 msgid ""
 "If you run across too many bots, you can try to circle around them. But avoid "
 "getting too far off the road, so you don't get lost. It's very dangerous out t"
 "here."
 msgstr ""
 
-#: ./Francis.dialog:175
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:175
 msgid ""
 "Once in town you will be able to purchase or trade a few more items for protec"
 "tion at Ms. Stone's shop just inside the town gate."
 msgstr ""
 
-#: ./Francis.dialog:180
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:180
 msgid "How do I get out from here?"
 msgstr ""
 
-#: ./Francis.dialog:182
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:182
 msgid ""
 "Oh, just take the small door and corridor out to the waiting room. And from th"
 "ere you can get out through the customer entrance."
 msgstr ""
 
-#: ./Francis.dialog:183
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:183
 msgid ""
 "I keep the back entrance, close to my sleeping quarters, locked at all times f"
 "or safety reasons. Better safe than sorry."
 msgstr ""
 
-#: ./Francis.dialog:188
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:188
 msgid ""
 "It cannot be true. One company cannot control all of the bot software on a who"
 "le world."
 msgstr ""
 
-#: ./Francis.dialog:190
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:190
 msgid ""
 "It can. They got close to a monopoly 30 years ago, but their last competitor, "
 "the open source community, was defeated by them about a year ago."
 msgstr ""
 
-#: ./Francis.dialog:191
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:191
 msgid ""
 "Since then all of the newly made bots have been made with MegaSys firmware bur"
 "nt into their circuits."
 msgstr ""
 
-#: ./Francis.dialog:196
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:196
 msgid "Why did you wake me up?"
 msgstr ""
 
-#: ./Francis.dialog:198
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:198
 msgid ""
 "The situation at the town is not good. The walls are crumbling and we have los"
 "t a lot of good people."
 msgstr ""
 
-#: ./Francis.dialog:199
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:199
 msgid ""
 "I heard the Linarians have a special gift for computers and can hack them just"
 " by thinking about it."
 msgstr ""
 
-#: ./Francis.dialog:200
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:200
 msgid "Even if this is only partly true, we need it. The situation is quite ugly."
 msgstr ""
 
-#: ./Francis.dialog:201
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:201
 msgid "We need you."
 msgstr ""
 
-#: ./Francis.dialog:206
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:206
 msgid "Where are all my things?"
 msgstr ""
 
-#: ./Francis.dialog:208
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:208
 msgid "I already took out your chest with personal belongings from storage."
 msgstr ""
 
-#: ./Francis.dialog:209
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:209
 msgid "It is standing there next to the door."
 msgstr ""
 
-#: ./Francis.dialog:210
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:210
 msgid "Is that it?"
 msgstr ""
 
-#: ./Francis.dialog:211
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:211
 msgid "That is all the records show you had with you when your were frozen."
 msgstr ""
 
-#: ./Francis.dialog:212
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:212
 msgid ""
 "There are also some references to a bank account of yours, but as you probably"
 " understand, there is no working banking system presently."
 msgstr ""
 
-#: ./Francis.dialog:217
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:217
 msgid "Thanks for the help. I'll be going now."
 msgstr ""
 
-#: ./Francis.dialog:219
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:219
 msgid ""
 "I am glad I could help you. You should be careful around here. Best head strai"
 "ght for our town."
 msgstr ""
 
-#: ./Francis.dialog:220
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:220
 msgid ""
 "Remember to not veer too far off the path, or your quest could be over before "
 "it begins."

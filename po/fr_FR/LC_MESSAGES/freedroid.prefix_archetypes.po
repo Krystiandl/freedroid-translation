@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_data\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 08:16+0000\n"
+"POT-Creation-Date: 2010-04-09 13:05+0000\n"
 "PO-Revision-Date: 2008-09-26 18:23+0200\n"
 "Last-Translator: \n"
 "Language-Team:  <en@li.org>\n"
@@ -13,209 +13,210 @@ msgstr ""
 "X-Launchpad-Export-Date: 2008-09-14 12:32+0000\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: freedroid.prefix_archetypes:10 freedroid.prefix_archetypes:37
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:10
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:37
 msgid "I am a big bad bug in the game. Report me. Please. "
 msgstr "Je suis un vilain gros bug. Signalez-moi. Merci. "
 
-#: freedroid.prefix_archetypes:64
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:64
 msgid "Living "
 msgstr "En vie "
 
-#: freedroid.prefix_archetypes:91
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:91
 msgid " coated in teflon"
 msgstr " recouvert(e) de téflon"
 
-#: freedroid.prefix_archetypes:118
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:118
 #, fuzzy
 msgid " of Almost Zodiac"
 msgstr " du Près du Zodiaque"
 
-#: freedroid.prefix_archetypes:145
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:145
 #, fuzzy
 msgid "Resonant "
 msgstr "Résonant "
 
-#: freedroid.prefix_archetypes:172
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:172
 msgid "Cow "
 msgstr "Vache "
 
-#: freedroid.prefix_archetypes:200
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:200
 msgid "Bull "
 msgstr "Taureau "
 
-#: freedroid.prefix_archetypes:227
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:227
 msgid "Mouse "
 msgstr "Souris "
 
-#: freedroid.prefix_archetypes:254
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:254
 #, fuzzy
 msgid "Jackdaw "
 msgstr "Choucas "
 
-#: freedroid.prefix_archetypes:281
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:281
 #, fuzzy
 msgid "Hardcoded "
 msgstr "Codé en dur "
 
-#: freedroid.prefix_archetypes:308
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:308
 msgid "Melting "
 msgstr "Fonte "
 
-#: freedroid.prefix_archetypes:335
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:335
 msgid "Cursed "
 msgstr "Maudit "
 
-#: freedroid.prefix_archetypes:362
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:362
 msgid "Perfect "
 msgstr "Parfait "
 
-#: freedroid.prefix_archetypes:388
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:388
 msgid "Quartz "
 msgstr "Quartz "
 
-#: freedroid.prefix_archetypes:415
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:415
 msgid "First aid "
 msgstr "Premiers secours "
 
-#: freedroid.prefix_archetypes:442
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:442
 msgid "Razor sharp "
 msgstr "Très nette "
 
-#: freedroid.prefix_archetypes:469
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:469
 msgid "Light "
 msgstr "Lumière "
 
-#: freedroid.prefix_archetypes:496
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:496
 msgid "Beautiful "
 msgstr "Superbe "
 
-#: freedroid.prefix_archetypes:523
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:523
 #, fuzzy
 msgid "Howling "
 msgstr "Hurlement "
 
-#: freedroid.prefix_archetypes:550
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:550
 msgid "Accelerating "
 msgstr "Accélération "
 
-#: freedroid.prefix_archetypes:577
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:577
 #, fuzzy
 msgid "Colorful "
 msgstr "Coloré(e) "
 
-#: freedroid.prefix_archetypes:604
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:604
 msgid "Rainbow "
 msgstr "Arc-en-ciel "
 
-#: freedroid.prefix_archetypes:631
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:631
 msgid "Suicide "
 msgstr "Suicide "
 
-#: freedroid.prefix_archetypes:658
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:658
 #, fuzzy
 msgid "Broken "
 msgstr "Cassé(e) "
 
-#: freedroid.prefix_archetypes:685
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:685
 msgid "Fluorescent "
 msgstr "Fluorescent(e) "
 
-#: freedroid.prefix_archetypes:712
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:712
 msgid "Luminescent "
 msgstr "Luminescent(e) "
 
-#: freedroid.prefix_archetypes:739
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:739
 msgid "Blazing "
 msgstr "Flamboyant(e) "
 
-#: freedroid.prefix_archetypes:766
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:766
 msgid "Hungry "
 msgstr "Faim "
 
-#: freedroid.prefix_archetypes:793
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:793
 msgid "Devouring "
 msgstr "Dévorant(e) "
 
-#: freedroid.prefix_archetypes:820
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:820
 #, fuzzy
 msgid "Ravenous "
 msgstr "Vorace "
 
-#: freedroid.prefix_archetypes:847
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:847
 msgid "OMGWTF "
 msgstr "OMGWTF "
 
-#: freedroid.prefix_archetypes:874
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:874
 #, fuzzy
 msgid " of good design"
 msgstr " de bonne conception"
 
-#: freedroid.prefix_archetypes:897
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:897
 msgid " (C)MegaSys"
 msgstr " (C)MegaSys"
 
-#: freedroid.prefix_archetypes:921
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:921
 msgid " with no suffix"
 msgstr " sans suffixe(e)"
 
-#: freedroid.prefix_archetypes:944
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:944
 msgid " with sharp edges"
 msgstr " aiguisée"
 
-#: freedroid.prefix_archetypes:969
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:969
 msgid " covered in blood"
 msgstr " couvert(e) de sang"
 
-#: freedroid.prefix_archetypes:992
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:992
 msgid " covered in oil"
 msgstr " couvert(e) de pétrole"
 
-#: freedroid.prefix_archetypes:1015
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1015
 msgid ", 'the Murderer'"
 msgstr "'l'assassin'"
 
-#: freedroid.prefix_archetypes:1038
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1038
 msgid ", 'the Healer'"
 msgstr "'le Guérisseur'"
 
-#: freedroid.prefix_archetypes:1061
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1061
 msgid ", 'the Rabbit'"
 msgstr "'le Lapin'"
 
-#: freedroid.prefix_archetypes:1084
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1084
 msgid ", 'the Seeker'"
 msgstr "'le Chercheur'"
 
-#: freedroid.prefix_archetypes:1107
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1107
 msgid ", 'the World'"
 msgstr ", 'le Monde'"
 
-#: freedroid.prefix_archetypes:1130
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1130
 msgid " from hell"
 msgstr " de l'enfer"
 
-#: freedroid.prefix_archetypes:1153
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1153
 msgid " with strange runes"
 msgstr " avec d'étranges runes"
 
-#: freedroid.prefix_archetypes:1176
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1176
 msgid " with a curse"
 msgstr " avec une malédiction"
 
-#: freedroid.prefix_archetypes:1199
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1199
 msgid "Cool "
 msgstr "Cool "
 
-#: freedroid.prefix_archetypes:1222
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1222
 #, fuzzy
 msgid "Frozen "
 msgstr "Gelé(e) "
 
-#: freedroid.prefix_archetypes:1245
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1245
 msgid " of ice"
 msgstr " de glace"
 
-#: freedroid.prefix_archetypes:1268
+#: /home/david/src/freedroid-translation/map/freedroid.prefix_archetypes:1268
 #, fuzzy
 msgid " of chills"
 msgstr " des frissons de froid"
