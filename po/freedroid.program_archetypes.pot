@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CHANGE THIS\n"
+"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
+"POT-Creation-Date: 2010-04-09 08:16+0000\n"
+"PO-Revision-Date: 2010-04-09 08:16+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ./freedroid.program_archetypes:8
+msgid "Hacking"
+msgstr ""
+
+#: ./freedroid.program_archetypes:9
+msgid ""
+"Tux is gifted with the ability to hack any machine in no time. With this progr"
+"am selected and activated by pressing down the right mouse button over a hosti"
+"le machine, the takeover process will be initiated."
+msgstr ""
+
+#: ./freedroid.program_archetypes:19
+msgid "Repair equipment"
+msgstr ""
+
+#: ./freedroid.program_archetypes:20
+msgid ""
+"This skill allows to repair an item from the inventory. To use this skill, sel"
+"ect it, then open the inventory screen and then right click the mouse on the i"
+"tem you wish to repair. While repair doesn't 'cost' anything, the item will st"
+"ill lose some of its maximum duration in the process, but the current duration"
+" will be restored to this new maximum value."
+msgstr ""
+
+#: ./freedroid.program_archetypes:28
+msgid "Use weapon"
+msgstr ""
+
+#: ./freedroid.program_archetypes:29
+msgid ""
+"Using this skill allows you to force an attack on something not normally a tar"
+"get or for firing single shots with automatic weapons."
+msgstr ""
+
+#: ./freedroid.program_archetypes:37
+msgid "Emergency shutdown"
+msgstr ""
+
+#: ./freedroid.program_archetypes:38
+msgid ""
+"Everyone needs to turn off and cool down a bit now and then. Just be careful s"
+"o you are not still offline when enemy bots close in..."
+msgstr ""
+
+#: ./freedroid.program_archetypes:50
+msgid "Check system integrity"
+msgstr ""
+
+#: ./freedroid.program_archetypes:51
+msgid "While repairing damage you must remember that patience is a virtue."
+msgstr ""
+
+#: ./freedroid.program_archetypes:63
+msgid "Sanctuary"
+msgstr ""
+
+#: ./freedroid.program_archetypes:64
+msgid ""
+"Effect: Teleport to town or back \nThe art of rapidly moving away from danger "
+"is very useful. Even when used in reverse it has it's uses."
+msgstr ""
+
+#: ./freedroid.program_archetypes:73
+msgid "Analyze item"
+msgstr ""
+
+#: ./freedroid.program_archetypes:74
+msgid ""
+"Effect: Identify\nThere are very few items which have labels on them. Unless y"
+"ou happen to have an item labeled 'USE ME', you better make sure what it is be"
+"fore using it..."
+msgstr ""
+
+#: ./freedroid.program_archetypes:83
+msgid "Invisibility"
+msgstr ""
+
+#: ./freedroid.program_archetypes:84
+msgid "I am not the Linarian you are looking for."
+msgstr ""
+
+#: ./freedroid.program_archetypes:94
+msgid "Malformed packet"
+msgstr ""
+
+#: ./freedroid.program_archetypes:95
+msgid "When computers are presented with the unexpected they can damage themselves."
+msgstr ""
+
+#: ./freedroid.program_archetypes:108
+msgid "Calculate Pi"
+msgstr ""
+
+#: ./freedroid.program_archetypes:109
+msgid ""
+"It is not a big problem to make a badly designed system to go hunting for the "
+"impossible, causing a performance impact."
+msgstr ""
+
+#: ./freedroid.program_archetypes:124
+msgid "Blue Screen"
+msgstr ""
+
+#: ./freedroid.program_archetypes:125
+msgid "With a little touch a war machine comes crashing down to a halt. For a while."
+msgstr ""
+
+#: ./freedroid.program_archetypes:138
+msgid "Broadcast Blue Screen"
+msgstr ""
+
+#: ./freedroid.program_archetypes:139
+msgid ""
+"With a little touch a war machine comes crashing down to a halt. For a while. "
+"The radio network is a wonderful invention for the people who like to blow up "
+"a lot of stuff at once."
+msgstr ""
+
+#: ./freedroid.program_archetypes:153
+msgid "Virus"
+msgstr ""
+
+#: ./freedroid.program_archetypes:154
+msgid ""
+"This is not just a firmware upgrade, my dear bot. You are about to find out wh"
+"at exactly I want to give you."
+msgstr ""
+
+#: ./freedroid.program_archetypes:168
+msgid "Broadcast virus"
+msgstr ""
+
+#: ./freedroid.program_archetypes:169
+msgid ""
+"The network is wide and dangerous. Many traps await for the weak and unprepare"
+"d."
+msgstr ""
+
+#: ./freedroid.program_archetypes:184
+msgid "Dispel smoke"
+msgstr ""
+
+#: ./freedroid.program_archetypes:185
+msgid ""
+"By heating up the chips with a malformed program you can cause them to release"
+" the magic smoke which keeps the bot running. "
+msgstr ""
+
+#: ./freedroid.program_archetypes:197
+msgid "Killer poke"
+msgstr ""
+
+#: ./freedroid.program_archetypes:198
+msgid ""
+"Messing around with the bot's memory can cause it to severly damage itself, bu"
+"t the damage is greatly variable."
+msgstr ""
+
+#: ./freedroid.program_archetypes:211
+msgid "Plasma discharge"
+msgstr ""
+
+#: ./freedroid.program_archetypes:212
+msgid ""
+"The overload setting exists for emergencies. The plasma does not discriminate "
+"between bots and humans. Everything is equal to it, even Tux."
+msgstr ""
+
+#: ./freedroid.program_archetypes:227
+msgid "Nethack"
+msgstr ""
+
+#: ./freedroid.program_archetypes:228
+msgid ""
+"The open source game called Nethack is one of the world's greatest wasters of "
+"time. Machines don't care about it, but humans can get sucked in quite deeply."
+msgstr ""
+
+#: ./freedroid.program_archetypes:246
+msgid "Extract bot parts"
+msgstr ""
+
+#: ./freedroid.program_archetypes:247
+msgid ""
+"With a little knowledge, you can extract some useful parts out of the robots y"
+"ou kill. With each bot there is some hope of a part falling out. This skill is"
+" always active even when not selected."
+msgstr ""
+
+#: ./freedroid.program_archetypes:255
+msgid "Reverse-engineer"
+msgstr ""
+
+#: ./freedroid.program_archetypes:256
+msgid ""
+"There is some dark magic in the art of turning devices or programs inside-out,"
+" picking them appart to learn all their secrets and putting them back again."
+msgstr ""
+
+#: ./freedroid.program_archetypes:267
+msgid "Ricer CFLAGS"
+msgstr ""
+
+#: ./freedroid.program_archetypes:268
+msgid ""
+"Optimization is the root of all evil. You can gain some temporary speed improv"
+"ements to your system, but in the end you will likely overheat and cause perma"
+"nent damage if you are not careful."
+msgstr ""
+
+#: ./freedroid.program_archetypes:276
+msgid "Light"
+msgstr ""
+
+#: ./freedroid.program_archetypes:277
+msgid "This does nothing in this version of freedroidRPG. Let there be light..."
+msgstr ""
+
+#: ./freedroid.program_archetypes:286
+msgid "Satellite image"
+msgstr ""
+
+#: ./freedroid.program_archetypes:287
+msgid ""
+"This does nothing in this version of freedroidRPG. Getting a map of an area is"
+" pretty easy when you can look at everything from above."
+msgstr ""
+
+#: ./freedroid.program_archetypes:295
+msgid "Plasma grenade"
+msgstr ""
+
+#: ./freedroid.program_archetypes:296
+#: ./freedroid.program_archetypes:306
+#: ./freedroid.program_archetypes:316
+msgid ""
+"This is a bug, report this to the developers, unless you cheated, in which cas"
+"e you deserve to see this stupid description."
+msgstr ""
+
+#: ./freedroid.program_archetypes:305
+msgid "Gas grenade"
+msgstr ""
+
+#: ./freedroid.program_archetypes:315
+msgid "EMP grenade"
+msgstr ""
+

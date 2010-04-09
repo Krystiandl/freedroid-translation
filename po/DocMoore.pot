@@ -2,405 +2,405 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
-"PO-Revision-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-09 08:16+0000\n"
+"PO-Revision-Date: 2010-04-09 08:16+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-15\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:54
+#: ./DocMoore.dialog:54
 msgid "Hello!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:56
+#: ./DocMoore.dialog:56
 msgid "Hello. I'm Doc Moore. I'm the medic of this town. I don't believe we've met?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:57
+#: ./DocMoore.dialog:57
 msgid "I'm "
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:58
+#: ./DocMoore.dialog:58
 msgid "Um, what are you?  Some kind of overgrown penguin?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:59
+#: ./DocMoore.dialog:59
 msgid "I'm a Linarian."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:60
+#: ./DocMoore.dialog:60
 msgid ""
 "Oh, I vaguely remember reading something about Linarian biology back in my uni"
 "versity days..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:61
+#: ./DocMoore.dialog:61
 msgid "I should be able to heal you if you get hurt."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:70
+#: ./DocMoore.dialog:70
 msgid "Do you also sell medical equipment?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:72
+#: ./DocMoore.dialog:72
 msgid "Yes. Here is what I can offer today."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:78
+#: ./DocMoore.dialog:78
 msgid "May I buy some medical equipment?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:80
+#: ./DocMoore.dialog:80
 msgid "Sure. Here is what I can offer today."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:85
+#: ./DocMoore.dialog:85
 msgid "Doc, I took some of those brain enlargement pills..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:88
+#: ./DocMoore.dialog:88
 msgid "Sorry, but I already gave you some medical help."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:89
+#: ./DocMoore.dialog:89
 msgid ""
 "To poison yourself, 1 more time, that's entirely your own business and I'm not"
 " responsible."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:90
+#: ./DocMoore.dialog:90
 msgid "As far as I am concerned, in this town everyone gets everything equally."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:93
+#: ./DocMoore.dialog:93
 msgid "Oh no, not another one. Those pills are almost pure biological waste."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:94
+#: ./DocMoore.dialog:94
 msgid "Taking that stuff almost always equals delayed suicide."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:95
+#: ./DocMoore.dialog:95
 msgid ""
 "Now, take this antidote. It should remove the dangerous substances within your"
 " body."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:96
+#: ./DocMoore.dialog:96
 msgid ""
 "But remember, I'll only give you this help once, because you didn't know the e"
 "ffects."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:97
+#: ./DocMoore.dialog:97
 msgid ""
 "Should you take that junk again, I won't feel responsible for what happens to "
 "you any more."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:106
+#: ./DocMoore.dialog:106
 msgid "Doctor, how can I keep healthy and alive?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:108
+#: ./DocMoore.dialog:108
 msgid "Always remember L-I-F-E"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:109
+#: ./DocMoore.dialog:109
 msgid "L - Look at your health status regularly."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:110
+#: ./DocMoore.dialog:110
 msgid "I - Ingest cold water if you are overheating."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:111
+#: ./DocMoore.dialog:111
 msgid "F - Flee if you cannot fight."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:112
+#: ./DocMoore.dialog:112
 msgid "E - Evacuate to the town if you cannot flee."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:117
+#: ./DocMoore.dialog:117
 msgid "Can you fix me up?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:119
+#: ./DocMoore.dialog:119
 msgid ""
 "Sure, as the only doctor of this slowly growing community, I take responsibili"
 "ty for everyone's health."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:121
+#: ./DocMoore.dialog:121
 msgid ""
 "However, self-inflicted damage might be exempted from this rule in some cases."
 ".."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:124
+#: ./DocMoore.dialog:124
 msgid "There, it's done. You're completely fixed. You can go now."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:130
+#: ./DocMoore.dialog:130
 msgid "What do you mean, self-inflicted damage?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:132
+#: ./DocMoore.dialog:132
 msgid "Well, you see that idiotic Bender character on my doorstep?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:133
+#: ./DocMoore.dialog:133
 msgid "What can you tell me about Bender?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:134
+#: ./DocMoore.dialog:134
 msgid ""
 "Bender asked my advice about some pills he saw advertised in an e-mail. I told"
 " him not to buy them."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:135
+#: ./DocMoore.dialog:135
 msgid ""
 "But guess what? He bought and took the stupid pills anyways, and then he came "
 "back to me to fix him."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:136
+#: ./DocMoore.dialog:136
 msgid ""
 "If he, or anyone, is going to completely disregard my medical advice, and then"
 " think they are going to get my medical supplies, then they are wrong."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:137
+#: ./DocMoore.dialog:137
 msgid ""
 "He won't get anything from me anymore. It would be unfair to the community to "
 "waste all the supplies on him, and that's my final word on that."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:143
+#: ./DocMoore.dialog:143
 msgid "Doc... I really want the antidote."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:145
+#: ./DocMoore.dialog:145
 msgid "No! I am not giving it to you. Forget about it."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:150
+#: ./DocMoore.dialog:150
 msgid "My patience is running out. Give me the antidote. Now."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:152
+#: ./DocMoore.dialog:152
 msgid "No! Over my dead body."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:157
+#: ./DocMoore.dialog:157
 msgid "Your wish is my command!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:159
+#: ./DocMoore.dialog:159
 msgid "Huh? What?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:160
+#: ./DocMoore.dialog:160
 msgid ""
 "Humans... You are so interesting. I always wanted to know exactly how much blo"
 "od you have."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:161
+#: ./DocMoore.dialog:161
 msgid "Don't do this. Don't do this."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:162
+#: ./DocMoore.dialog:162
 msgid "Prepare, Doc. The experiment begins."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:163
+#: ./DocMoore.dialog:163
 msgid "Don't do this! DON'T DO THIS!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:164
+#: ./DocMoore.dialog:164
 msgid "AAAAAAAAAAAA!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:165
+#: ./DocMoore.dialog:165
 msgid "Ugh. Human blood is disgusting. At least four liters. I feel sick."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:166
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:168
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:170
+#: ./DocMoore.dialog:166
+#: ./DocMoore.dialog:168
+#: ./DocMoore.dialog:170
 msgid " . . ."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:167
+#: ./DocMoore.dialog:167
 msgid ""
 "I guess this means I get to inherit all your stuff. I hope you don't mind if I"
 " take everything?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:169
+#: ./DocMoore.dialog:169
 msgid "Good. I am very glad not to hear a disapproval."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:187
+#: ./DocMoore.dialog:187
 msgid "Forget it. Getting the antidote is not worth the effort."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:189
+#: ./DocMoore.dialog:189
 msgid "I am not giving it to you, and that won't change."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:194
+#: ./DocMoore.dialog:194
 msgid "What can you tell me about Strength Pills?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:201
+#: ./DocMoore.dialog:201
 msgid "What can you tell me about Dexterity Pills?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:208
+#: ./DocMoore.dialog:208
 msgid "What can you tell me about Code Pills?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:215
+#: ./DocMoore.dialog:215
 msgid "THIS WILL NEVER BE VISIBLE"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:218
+#: ./DocMoore.dialog:218
 msgid ""
 "Those pills are only one variant of a fantastic scientific breakthrough that h"
 "appened shortly before the Great Assault."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:219
+#: ./DocMoore.dialog:219
 msgid ""
 "Three kinds of enhancement pills were developed.  One for strength, one for de"
 "xterity and one for programming abilities."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:220
+#: ./DocMoore.dialog:220
 msgid ""
 "These pills work on a nanotechnological basis with small machines connecting t"
 "o your muscle and nerve tissue."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:221
+#: ./DocMoore.dialog:221
 msgid ""
 "The machines connect together and form some inorganic artificial tissue that h"
 "as been optimized for certain qualities."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:222
+#: ./DocMoore.dialog:222
 msgid ""
 "Since this invention only came about shortly before the Great Assault, these p"
 "ills are now very rare."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:223
+#: ./DocMoore.dialog:223
 msgid ""
 "But if you should get them, even better, because the effects are permanent, an"
 "d as far as we can tell, there aren't any side effects!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:228
+#: ./DocMoore.dialog:228
 msgid "What can you tell me about Brain Pills?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:231
+#: ./DocMoore.dialog:231
 msgid "I already warned you about those!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:233
+#: ./DocMoore.dialog:233
 msgid ""
 "Those pills are almost pure biological waste! They are sold to stupid ignorant"
 " gullible people. Never EVER take one."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:238
+#: ./DocMoore.dialog:238
 msgid "What can you tell me about Diet supplements?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:240
+#: ./DocMoore.dialog:240
 msgid ""
 "Have you tasted the army snacks that the cook, Michelangelo, has been handing "
 "out?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:242
+#: ./DocMoore.dialog:242
 msgid "Yes, those were horrible. They had a nice color though."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:243
+#: ./DocMoore.dialog:243
 msgid "The dye used to make that color is a known carcinogen."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:245
+#: ./DocMoore.dialog:245
 msgid "No, should I?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:246
+#: ./DocMoore.dialog:246
 msgid "Not if you can avoid it."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:248
+#: ./DocMoore.dialog:248
 msgid ""
 "Well, unlike the army snacks, the Diet Supplements actually have a slight nutr"
 "itional benefit."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:249
+#: ./DocMoore.dialog:249
 msgid "After taking one your health should improve slightly."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:254
+#: ./DocMoore.dialog:254
 msgid "What can you tell me about Antibiotics?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:256
+#: ./DocMoore.dialog:256
 msgid "Basically it is bottled up poison made by bacteria."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:257
+#: ./DocMoore.dialog:257
 msgid "And that is good for me?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:258
+#: ./DocMoore.dialog:258
 msgid ""
 "Yep. It kills the bacteria that want to kill you.  It improves your health sig"
 "nificantly."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:263
+#: ./DocMoore.dialog:263
 msgid "What is a Doc-in-a-can?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:265
+#: ./DocMoore.dialog:265
 msgid ""
 "It is a device that releases millions of short-lived nanobots that swarm all o"
 "ver your body inside and out repairing and fixing almost all but the most seri"
 "ous wounds."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:266
+#: ./DocMoore.dialog:266
 msgid "Wouldn't long-lived nanobots work better?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:267
+#: ./DocMoore.dialog:267
 msgid ""
 "They found that long-lived nanobots evolve self-replication and act like a can"
 "cer. A cancer of gray goo that eats everything."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:268
+#: ./DocMoore.dialog:268
 msgid "Several planets were made uninhabitable before they figured that one out."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:273
-#: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:275
+#: ./DocMoore.dialog:273
+#: ./DocMoore.dialog:275
 msgid "See you later."
 msgstr ""
 

@@ -2,166 +2,166 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
-"PO-Revision-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-09 08:16+0000\n"
+"PO-Revision-Date: 2010-04-09 08:16+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-15\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:33
+#: ./StandardBotAfterTakeover.dialog:33
 msgid ".. bot_name().."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:34
+#: ./StandardBotAfterTakeover.dialog:34
 msgid "Login : "
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:35
+#: ./StandardBotAfterTakeover.dialog:35
 msgid "tux"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:36
+#: ./StandardBotAfterTakeover.dialog:36
 msgid "Password : "
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:37
+#: ./StandardBotAfterTakeover.dialog:37
 msgid "*******"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:38
+#: ./StandardBotAfterTakeover.dialog:38
 msgid "Last login from dev/ttyS0 on Sun, 23 mar 2057."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:41
+#: ./StandardBotAfterTakeover.dialog:41
 msgid "This "
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:47
+#: ./StandardBotAfterTakeover.dialog:47
 msgid "cd repair&settings/"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:54
+#: ./StandardBotAfterTakeover.dialog:54
 msgid "./hold_position.sh"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:56
+#: ./StandardBotAfterTakeover.dialog:56
 msgid "Holding position."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:57
+#: ./StandardBotAfterTakeover.dialog:57
 msgid "script V 1.0.2 (c) gnu.org, 2054"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:58
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:83
+#: ./StandardBotAfterTakeover.dialog:58
+#: ./StandardBotAfterTakeover.dialog:83
 msgid "Checking requirements..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:59
+#: ./StandardBotAfterTakeover.dialog:59
 msgid "Movement unit: Power-down... [Done]."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:60
+#: ./StandardBotAfterTakeover.dialog:60
 msgid "Status: All movement suppressed."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:67
+#: ./StandardBotAfterTakeover.dialog:67
 msgid "./follow_me.sh"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:69
+#: ./StandardBotAfterTakeover.dialog:69
 msgid "Initiating tracking sequence."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:70
+#: ./StandardBotAfterTakeover.dialog:70
 msgid "Movement unit: Enabled."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:71
+#: ./StandardBotAfterTakeover.dialog:71
 msgid "Trying to keep up with "
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:72
+#: ./StandardBotAfterTakeover.dialog:72
 msgid "Status: Following "
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:79
+#: ./StandardBotAfterTakeover.dialog:79
 msgid "./move_freely.sh"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:81
+#: ./StandardBotAfterTakeover.dialog:81
 msgid "Enable movement."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:82
+#: ./StandardBotAfterTakeover.dialog:82
 msgid "script V 1.0.5 (c) gnu.org, 2054"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:84
+#: ./StandardBotAfterTakeover.dialog:84
 msgid "Movement unit: Power-up...  [Done]."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:85
+#: ./StandardBotAfterTakeover.dialog:85
 msgid "Resuming normal patrol operations... [Done]"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:86
+#: ./StandardBotAfterTakeover.dialog:86
 msgid "Status: Patrolling."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:93
+#: ./StandardBotAfterTakeover.dialog:93
 msgid "./hcf.py"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:96
+#: ./StandardBotAfterTakeover.dialog:96
 msgid "Are you really sure you want to destroy this robot? Y/N"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:102
+#: ./StandardBotAfterTakeover.dialog:102
 msgid "Yes"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:104
+#: ./StandardBotAfterTakeover.dialog:104
 msgid "Destruction confirmed."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:110
+#: ./StandardBotAfterTakeover.dialog:110
 msgid "No"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:112
+#: ./StandardBotAfterTakeover.dialog:112
 msgid "Destrucion averted."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:120
+#: ./StandardBotAfterTakeover.dialog:120
 msgid "Executing: Halt and Catch Fire."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:121
+#: ./StandardBotAfterTakeover.dialog:121
 msgid "Warning! Cooling subsystems disabled."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:122
+#: ./StandardBotAfterTakeover.dialog:122
 msgid ""
 "Warning! Spontaneous oxidization witH emis$ion of light aND heAt detecteddd in"
 " THE#main| procesIng unit."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:123
+#: ./StandardBotAfterTakeover.dialog:123
 msgid "WArn|n*! SsTeM=#faiPure%^#n 3 S 1()$++"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:128
+#: ./StandardBotAfterTakeover.dialog:128
 msgid "()%#@(% THE BLADE IS YOURS. )##%*&%*!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:139
+#: ./StandardBotAfterTakeover.dialog:139
 msgid "logout"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:141
+#: ./StandardBotAfterTakeover.dialog:141
 msgid "Closing remote connection..."
 msgstr ""
 
