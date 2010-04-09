@@ -1,0 +1,1437 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: freedroidRPG 0.10.4cvs\n"
+"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
+"POT-Creation-Date: 2010-04-09 08:16+0000\n"
+"PO-Revision-Date: 2009-01-01 21:28+0000\n"
+"Last-Translator: Alex Mr.Brightside Demurine <extrimall90@mail.ru>\n"
+"Language-Team: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=cp1251\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2009-01-11 17:40+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: freedroid.quests:36
+msgid "Bender's problem"
+msgstr ""
+
+#: freedroid.quests:52
+msgid "The yellow toolkit"
+msgstr ""
+
+#: freedroid.quests:68
+msgid "Anything but the army snacks, please!"
+msgstr ""
+
+#: freedroid.quests:84
+msgid "Novice Arena"
+msgstr ""
+
+#: freedroid.quests:103
+msgid "Time to say goodnight"
+msgstr ""
+
+#: freedroid.quests:122
+msgid "Opening a can of bots..."
+msgstr ""
+
+#: freedroid.quests:137
+msgid "And there was light..."
+msgstr ""
+
+#: freedroid.quests:156
+msgid "A kingdom for a cluster!"
+msgstr ""
+
+#: freedroid.quests:172
+msgid "Opening access to MS Office"
+msgstr ""
+
+#: freedroid.quests:188
+msgid "Propagating a faulty firmware"
+msgstr ""
+
+#: freedroid.quests:203
+msgid "SADD's power supply"
+msgstr ""
+
+#: freedroid.quests:219
+msgid "Tania's sanitary"
+msgstr ""
+
+#: freedroid.quests:234
+msgid "Saving the shop"
+msgstr ""
+
+#: freedroid.quests:249
+msgid "Doing Duncan a favour"
+msgstr ""
+
+#: freedroid.quests:264
+msgid "Tutorial Shooting"
+msgstr ""
+
+#: freedroid.quests:282
+#, fuzzy
+msgid "Tutorial Hacking"
+msgstr "Хакерство"
+
+#: freedroid.quests:300
+msgid "A strange guy stealing from town"
+msgstr ""
+
+#~ msgid "I am a big bad bug in the game. Report me. Please. "
+#~ msgstr "Я большой баг в этой игре. Расскажие обо мне. Пожааалуйста... "
+
+#~ msgid "Living "
+#~ msgstr "Покидаю "
+
+#~ msgid " coated in teflon"
+#~ msgstr " покрытый тефлоном"
+
+#~ msgid "Resonant "
+#~ msgstr "Резонирующий "
+
+#~ msgid "Cow "
+#~ msgstr "Корова "
+
+#~ msgid "Bull "
+#~ msgstr "Бык "
+
+#~ msgid "Mouse "
+#~ msgstr "Мышь "
+
+#~ msgid "Jackdaw "
+#~ msgstr "Галка "
+
+#~ msgid "Melting "
+#~ msgstr "Плавка "
+
+#~ msgid "Cursed "
+#~ msgstr "Проклятый "
+
+#~ msgid "Perfect "
+#~ msgstr "Отличный "
+
+#~ msgid "Quartz "
+#~ msgstr "Кварц "
+
+#~ msgid "First aid "
+#~ msgstr "Первая помощь "
+
+#~ msgid "Razor sharp "
+#~ msgstr "Острая бритва "
+
+#~ msgid "Light "
+#~ msgstr "Свет "
+
+#~ msgid "Beautiful "
+#~ msgstr "Прекрасный "
+
+#~ msgid "Howling "
+#~ msgstr "Воющий "
+
+#~ msgid "Accelerating "
+#~ msgstr "Ускоренный "
+
+#~ msgid "Colorful "
+#~ msgstr "Яркий "
+
+#~ msgid "Rainbow "
+#~ msgstr "Радуга "
+
+#~ msgid "Suicide "
+#~ msgstr "Самоубийство "
+
+#~ msgid "Broken "
+#~ msgstr "Сломанный "
+
+#~ msgid "Fluorescent "
+#~ msgstr "Флуоресцентный "
+
+#~ msgid "Luminescent "
+#~ msgstr "Люминесцентный "
+
+#~ msgid "Blazing "
+#~ msgstr "Пылающий "
+
+#~ msgid "Hungry "
+#~ msgstr "Голодный "
+
+#~ msgid "Devouring "
+#~ msgstr "Жрать "
+
+#~ msgid "Ravenous "
+#~ msgstr "Алчный "
+
+#~ msgid "OMGWTF "
+#~ msgstr "БЛЯ "
+
+#~ msgid " of good design"
+#~ msgstr " из хорошего проекта"
+
+#~ msgid " (C)MegaSys"
+#~ msgstr " (C)MegaSys"
+
+#~ msgid " with no suffix"
+#~ msgstr " без суффиксов"
+
+#~ msgid " with sharp edges"
+#~ msgstr " с острыми краями"
+
+#~ msgid " covered in blood"
+#~ msgstr " покрыто кровью"
+
+#~ msgid " covered in oil"
+#~ msgstr " покрыто нефтью"
+
+#~ msgid ", 'the Murderer'"
+#~ msgstr ", 'Убийца'"
+
+#~ msgid ", 'the Healer'"
+#~ msgstr ", 'Целитель'"
+
+#~ msgid ", 'the Rabbit'"
+#~ msgstr ", 'Кролик'"
+
+#~ msgid ", 'the Seeker'"
+#~ msgstr ", 'Искатель'"
+
+#~ msgid ", 'the World'"
+#~ msgstr ", 'Мир'"
+
+#~ msgid " from hell"
+#~ msgstr " из ада"
+
+#~ msgid " with strange runes"
+#~ msgstr " с странными рунами"
+
+#~ msgid " with a curse"
+#~ msgstr " проклятый"
+
+#~ msgid "Cool "
+#~ msgstr "Холодный "
+
+#~ msgid "Frozen "
+#~ msgstr "Замороженый "
+
+#~ msgid " of ice"
+#~ msgstr " льда"
+
+#~ msgid " of chills"
+#~ msgstr " озноба"
+
+#~ msgid "Dummy item. If you see this, report a bug."
+#~ msgstr ""
+#~ "Дебильная штука. Если вы её видете, расскажите об этом разработчикам!"
+
+#~ msgid "Big kitchen knife"
+#~ msgstr "Большой кухонный нож"
+
+#~ msgid ""
+#~ "Light and maneuverable in combat, but unfortunately not very effective in "
+#~ "cutting through steel as well as quickly reaching the point of breaking "
+#~ "if you try. Though for sure better than hitting at metal with your bare "
+#~ "fists."
+#~ msgstr ""
+#~ "Легкий и быстрый в схватке, но, к сожалению, не плохо режет сталь и "
+#~ "быстро ломается. Впрочем, это лучше, чем бить по металлу кулаками."
+
+#~ msgid "Antique sword"
+#~ msgstr "Древний меч"
+
+#~ msgid "Great sword"
+#~ msgstr "Отличный меч"
+
+#~ msgid "Chainsaw"
+#~ msgstr "Бензопила"
+
+#~ msgid "Meat cleaver"
+#~ msgstr "Нож мясника"
+
+#, fuzzy
+#~ msgid ""
+#~ "Designed to chop through meat and bones, it's not as fragile as cutting "
+#~ "blades when used against metal enemies. However, it is a bit slower and "
+#~ "clumsier to use than more graceful weapons."
+#~ msgstr ""
+#~ "Предназначен для разрубания мяса и костей, так что не ломается и при "
+#~ "рубке металлических противников. Но из-за этого он медленнее и неуклюжее, "
+#~ "чем более утонченное оружее."
+
+#~ msgid "Small Axe"
+#~ msgstr "Маленький топор"
+
+#~ msgid ""
+#~ "While this axe was made for splitting wood, with some luck it can damage "
+#~ "vital parts of a droid as well."
+#~ msgstr ""
+#~ "Несмотря на то, что этот топор был сделан для рубки леса, если повезет им "
+#~ "можно повредить какую-нибудь важную железяку у бота."
+
+#~ msgid "Large Axe"
+#~ msgstr "Большой топор"
+
+#, fuzzy
+#~ msgid ""
+#~ "While this weapon is somewhat slow and cumbersome to use, it is as good "
+#~ "at leaving big dents in droids as it is at felling trees. A good hit is "
+#~ "often capable of taking out lesser droids in a single hit"
+#~ msgstr ""
+#~ "Несмотря на то, что это оружие медленно и неуклюже, оно осталяет на ботах "
+#~ "крупные зарубки, прямо как на деревьях. Слабенького бота как правило "
+#~ "можно завалить одним хорошим ударом."
+
+#~ msgid "Hunting knife"
+#~ msgstr "Охотничий нож"
+
+#, fuzzy
+#~ msgid ""
+#~ "A short stabbing dagger doesn't have much effect on the metal body of a "
+#~ "droid, but with luck you might damage some wires or hoses in less "
+#~ "protected areas, so it's still better than trying to take the machines on "
+#~ "with bare hands."
+#~ msgstr ""
+#~ "Короткое острие кинжала не слишком эффективно против металлического тела "
+#~ "дроида, но если вам повезёт, то вы сможете повредить провода или шланги в "
+#~ "наименее защищённых областях.\r\n"
+#~ "Это всё же лучше, чем пытатся сделать это голыми руками."
+
+#~ msgid "Metal spear"
+#~ msgstr "Металлическо копьё"
+
+#, fuzzy
+#~ msgid ""
+#~ "A spear forged from metal considerably improves on a wooden spears damage "
+#~ "and durability, but the increased weight does make it somewhat slower and "
+#~ "more cumbersome to use. It's still a fast weapon though, compared to most "
+#~ "others."
+#~ msgstr ""
+#~ "Копьё, сделанное из металла, значительно лучше деревянного по силе удара "
+#~ "и прочности, однако увеличенный вес уже не позволяет орудовать им так "
+#~ "быстро. Хотя, это всё равно быстрое оружие по сравнению с другими."
+
+#~ msgid "Iron pipe"
+#~ msgstr "Металлическая труба"
+
+#~ msgid "Big wrench"
+#~ msgstr "Большой гаечный ключ"
+
+#, fuzzy
+#~ msgid ""
+#~ "A big heavy wrench can be surprisingly efficient in turning a bot into "
+#~ "second hand parts, in a hands on, brutal way if needed."
+#~ msgstr ""
+#~ "Большой и тяжёлый гаечный ключ может быть удивительно эффективным в "
+#~ "превращении робота в подержанные запчасти."
+
+#~ msgid "Crowbar"
+#~ msgstr "Фомка"
+
+#~ msgid ""
+#~ "Something originally intended for breaking up doors or pulling out nails "
+#~ "can also be used to break open droid skulls or give enough leverage to "
+#~ "pull off their extremities."
+#~ msgstr ""
+#~ "Кое-что, изначально предназначенное для взламывания дверей или "
+#~ "вытаскивания гвоздей, так же может взломать череп дроида или стать "
+#~ "рычагом для  вытаскивания его конечностей."
+
+#~ msgid "Golf club"
+#~ msgstr "Клюжка для гольфа"
+
+#, fuzzy
+#~ msgid ""
+#~ "It might not be so sturdy, but if you manage to get in a good hit, the "
+#~ "kinetic energy might be enough to damage internal electronics even if "
+#~ "there is only a small dent on the outside."
+#~ msgstr ""
+#~ "Это не может быть слишком крепким, то если вы сможете нанести точный "
+#~ "удар, то кинетический энергии вполне хватит на что бы расколотить "
+#~ "внутреннюю электронику всмятку, даже если снаружи будет лишь небольшая "
+#~ "вмятинка."
+
+#~ msgid "Tree branch"
+#~ msgstr "Ветка"
+
+#, fuzzy
+#~ msgid ""
+#~ "A club from a tree branch is certainly not your preferred choice of "
+#~ "weapon, but it might be your only one..."
+#~ msgstr ""
+#~ "Дубина из попавшейся под руку ветки наверняка не лучший выбор, но не "
+#~ "всегда он есть..."
+
+#~ msgid "Power hammer"
+#~ msgstr "электромолоток"
+
+#~ msgid "Table leg"
+#~ msgstr "Ножка от стула"
+
+#~ msgid ""
+#~ "In desperate situations even ordinary objects can turn into makeshift "
+#~ "weapons."
+#~ msgstr ""
+#~ "В крайнем случае даже обыкновенные предметы могут послужить неплохим "
+#~ "оружием."
+
+#~ msgid "Mace"
+#~ msgstr "Булава"
+
+#~ msgid "Baseball bat"
+#~ msgstr "Бейсбольна бита"
+
+#, fuzzy
+#~ msgid ""
+#~ "With 1-2 good two handed swings, a former droids head might fly far "
+#~ "enough for you to score a home run. Just make sure to bring a backup "
+#~ "weapon, because wooden bats have a predilection for splitting in two "
+#~ "after too many hard hits."
+#~ msgstr ""
+#~ "После пару хороших свингов прежняя голова дроида может пролететь "
+#~ "достаточно далеко, что бы победить в небольшом чемпионате. Не забудьте "
+#~ "принести запаску, потому что деревянные штуки имеют склонность "
+#~ "раскалывается пополам после нескольких сильных ударов."
+
+#~ msgid "Iron bar"
+#~ msgstr "Железный брус"
+
+#, fuzzy
+#~ msgid ""
+#~ "A bit slow and cumbersome to use, and prohibiting the security of a "
+#~ "shield to cower behind, this weapon isn't always a good option. But if "
+#~ "you do hit, you are sure to do more damage than just a scratch."
+#~ msgstr ""
+#~ "Несколько тяжёлое и неуклюжее в использовании и не дающий вам спасаться "
+#~ "за щитом, это оружие - не всегда хороший выбор. Но если Вы наносите удар, "
+#~ "то будьте уверены - это будет не просто царапина!"
+
+#~ msgid "Sledgehammer"
+#~ msgstr "Кувалдочка"
+
+#, fuzzy
+#~ msgid ""
+#~ "Very slow and only for the strongest wielder, but only the tougher droids "
+#~ "can survive more than 1-2 direct hits."
+#~ msgstr ""
+#~ "Медленная и только для настоящих кузнецов, но только самые крутые боты "
+#~ "переживут более одного-двух ударов."
+
+#~ msgid "Light saber"
+#~ msgstr "Световой меч"
+
+#~ msgid ""
+#~ "In the hands of a true master, this excellent technological craftsmanship "
+#~ "is as deadly as it is beautiful. It requires laser crystals to work "
+#~ "properly."
+#~ msgstr ""
+#~ "В руках настоящего мастера этот невероятный плод сверхвысоких технологий "
+#~ "настолько же смертоносен, насколько красив. Для корректной работы ему "
+#~ "нужны лазерные кристаллы."
+
+#~ msgid "Laser staff"
+#~ msgstr "Лазерный посох"
+
+#~ msgid ""
+#~ "A close combat master with this weapon in his hands is a pure whirling "
+#~ "dervish of death. It requires laser crystals to work properly."
+#~ msgstr ""
+#~ "Мастер ближнего боя с этим оружием в руках подобен урагану смерти. Это "
+#~ "требует, что бы лазерные кристаллы работали, как следует."
+
+#~ msgid "Nobody's edge"
+#~ msgstr "Ничейное лезвие"
+
+#~ msgid ""
+#~ "This blade pulses with evil. That power. That energy. Nothing can stop "
+#~ "you now."
+#~ msgstr ""
+#~ "Этот клинок пропитан злом. Это сила. Это энергия. Ничто не остановит тебя."
+
+#~ msgid "Laserscalpel"
+#~ msgstr "Лазерный скальпель"
+
+#~ msgid ""
+#~ "I murdered the only person within a thousand miles who can heal me, and "
+#~ "all I got was this lousy scalpel."
+#~ msgstr ""
+#~ "Я убил единственного человека в пределах тысячи миль, который может "
+#~ "излечить меня, и все, что я получил, был этот паршивый скальпель."
+
+#~ msgid ".22 LR Ammunition"
+#~ msgstr ".22 LR Боеприпасы"
+
+#~ msgid ".22 Automatic"
+#~ msgstr ".22 Автоматический"
+
+#~ msgid ".22 Hunting Rifle"
+#~ msgstr ".22е охотничьи патроны"
+
+#, fuzzy
+#~ msgid ""
+#~ "A .22 hunting rifle was mainly used for sports shooting and for cheap "
+#~ "training. As a hunting weapon its main use was to kill small vermin such "
+#~ "as rats and squirrels. It was also highly effective against rabbits. "
+#~ "Unfortunately, you won't be hunting 'wabbits'..."
+#~ msgstr ""
+#~ ".22е патроны чаще всего используются для спортивной стрельбы и в качестве "
+#~ "недорогого учебного пособия. Используются они преимущественно для охоты "
+#~ "на всякую мелочь вроде крыс или белок. Они весьма эффективны ещё и против "
+#~ "кроликов... К сожалению, вы охотитесь отнюдь не на кроликов."
+
+#~ msgid "Two Barrel sawn off shotgun"
+#~ msgstr "Двухствольный обрез"
+
+#~ msgid "Two Barrel shotgun"
+#~ msgstr "Двухстволка"
+
+#~ msgid "Pump action shotgun"
+#~ msgstr "Помповое ружьё"
+
+#~ msgid "9x19mm Ammunition"
+#~ msgstr "Патроны 9x19мм"
+
+#~ msgid ""
+#~ "Plasma crystal load. This is the most common way of loading a plasma "
+#~ "weapon."
+#~ msgstr ""
+#~ "Зарядчик кристаллов плазмы. Это самый простой способ зарядить плазменное "
+#~ "оружие."
+
+#~ msgid "9mm Automatic"
+#~ msgstr "9мм Автоматическое"
+
+#~ msgid "9mm Sub Machine Gun"
+#~ msgstr "9мм пулемётные"
+
+#~ msgid "7.62x39mm Ammunition"
+#~ msgstr "Патроны 7.62x39мм"
+
+#~ msgid "7.62mm Hunting rifle"
+#~ msgstr "7.62мм охотничьи патроны"
+
+#~ msgid "7.62mm AK-47"
+#~ msgstr "Патроны 7.62мм к Калашникову"
+
+#~ msgid ".50 BMG (12.7x99mm) Ammunition"
+#~ msgstr "Патроны .50 БМГ (12.7x99мм)"
+
+#~ msgid "Barrett M82 Sniper Rifle"
+#~ msgstr "Снайперская винтовка M82 Баррета"
+
+#~ msgid "Laser power pack"
+#~ msgstr "Усиленый лазерный пакет"
+
+#~ msgid ""
+#~ "Energy crystal load for laser weapons and other powertools. Each round "
+#~ "fired consumes a load within the crystal."
+#~ msgstr ""
+#~ "Энергетические кристаллы заряжают лазерное оружие и другие силовые "
+#~ "инструменты. Каждый выстрел потребляет энергию в пределах кристалла."
+
+#~ msgid "Laser pistol"
+#~ msgstr "Лазерный пистолет"
+
+#, fuzzy
+#~ msgid ""
+#~ "A basic laser, but it has good uses in certain situations. No warranty of "
+#~ "any kind, though."
+#~ msgstr ""
+#~ "Этот простой лазер может пригодится в некоторых ситуациях. Никаких "
+#~ "гарантий не предоставляется."
+
+#~ msgid "Laser Rifle"
+#~ msgstr "Лазерная винтовка"
+
+#~ msgid ""
+#~ "This rifle is a high-end laser weapon. There is only one problem with it: "
+#~ "Shooting it is too much fun. People often end up with no ammunition in "
+#~ "the middle of a battle."
+#~ msgstr ""
+#~ "Это высококлассное лазерное оружие. С ним только одна проблема - стрельба "
+#~ "из него настолько увлекает, что люди часто остаются без боеприпасов "
+#~ "посреди битвы."
+
+#~ msgid "Laser Pulse Rifle"
+#~ msgstr "Импульсная лазерная винтовка"
+
+#, fuzzy
+#~ msgid ""
+#~ "The pulse laser technology, allowing for many repeated short bursts "
+#~ "without the weapon overheating, makes this quite a useful weapon. The "
+#~ "damage from each shot is noticably less than from a Laser rifle, but the "
+#~ "firing rate more than makes up for it."
+#~ msgstr ""
+#~ "Технология импульсного лазера состоит в быстрых повторяющихся вспышках. "
+#~ "Она не перегревает оружия, что весьма полезно. Ущерб от каждой вспышки "
+#~ "невелик, но их скорость с лихвой компенсирует это!"
+
+#~ msgid "Laser Pulse Cannon"
+#~ msgstr "Импульсная лазерная пушка"
+
+#, fuzzy
+#~ msgid ""
+#~ "The pulse laser technology, allowing for many repeated short bursts "
+#~ "without the weapon overheating, combined with a military design makes "
+#~ "this weapon the preferred choice for most soldiers. Its quick no-recoil "
+#~ "firing, large magazine, and awesome killing power makes it the ideal "
+#~ "weapon for cleansing large droid infestations in mere minutes."
+#~ msgstr ""
+#~ "Технология импульсного лазера состоит в быстрых повторяющихся вспышках. "
+#~ "Она не перегревает оружия, избавлена от отдачи и включена в военную "
+#~ "систему вооружённых сил. Лучший выбор для большинства солдат! Идеальное "
+#~ "оружие для того, что бы очистить большую территорию от дроидов за "
+#~ "несколько минут."
+
+#~ msgid "Plasma energy container"
+#~ msgstr "Энергетический контейнер с плазмой"
+
+#, fuzzy
+#~ msgid ""
+#~ "A container filled with all materials and energy required to make plasma "
+#~ "weapons work in one handy and relatively safe package. This is the most "
+#~ "common way of loading a plasma weapon."
+#~ msgstr ""
+#~ "Контейнер заполнен материалами и энергией необходимой для работы "
+#~ "плазменного оружия в удобной и относительно безопасной упаковке. Это "
+#~ "наиболее распространённый способ зарядки плазменного оружия."
+
+#~ msgid "Plasma pistol"
+#~ msgstr "Плазменный пистолет"
+
+#~ msgid "The basic plasma weapon in a conveniently small package."
+#~ msgstr "Простое плазменное оружие в небольшом удобном контейнере."
+
+#~ msgid "Plasma gun"
+#~ msgstr "Плазменная пушка"
+
+#, fuzzy
+#~ msgid ""
+#~ "A somewhat slow weapon, but once you do hit plenty a bot will just down "
+#~ "on the spot. A good alternative to a pulse laser for the skilled marksman."
+#~ msgstr ""
+#~ "Несколько тормознутое оружие, но даже один выстрел может поразить массу "
+#~ "ботов, расплавив их на месте. Хорошая альтернатива импульсному лазеру для "
+#~ "опытного стрелка."
+
+#~ msgid "Plasma cannon"
+#~ msgstr "Плазменное орудие"
+
+#, fuzzy
+#~ msgid ""
+#~ "The very slow firing rate is made up for by the awesome power of this "
+#~ "weapon. Its main use in the military is as a close support weapon "
+#~ "complementing the soldiers' bread and butter pulse lasers, especially "
+#~ "when attacking enemies behind cover."
+#~ msgstr ""
+#~ "Очень медленно стрелающему оружее уравновешивает устрашающая мошь залпа. "
+#~ "Его наилучшее применение - поддержка солдат вооружённых импульсными "
+#~ "лазерами, особенно при атака под прикрытием."
+
+#~ msgid "2 mm Exterminator Ammunition"
+#~ msgstr "2мм истребительная амуниция"
+
+#~ msgid "Exterminator"
+#~ msgstr "Истребитель"
+
+#~ msgid ""
+#~ "While this weapon is capable of firing really powerful shots, beware of "
+#~ "the exceptionally long reloading times. (Don't get swarmed by enemies "
+#~ "with this weapon unless you have powerful armor!)"
+#~ msgstr ""
+#~ "Остерегайтесь большого времени перезарядки между действительно могучими "
+#~ "выстрелами. И не встречайтесь с врагами вооружёнными этим оружием, не "
+#~ "имея прочной брони!"
+
+#~ msgid "The Super Exterminator!!!"
+#~ msgstr "Супер Истребитель!!!"
+
+#, fuzzy
+#~ msgid ""
+#~ "This bad boy is known to blow away most enemies with a single blast. A "
+#~ "dangerous weapon that you don't want to be on the receiving end of."
+#~ msgstr ""
+#~ "Этот плохой парень, как известно, снёс врагов единственным взрывом. "
+#~ "Опасное оружие, под ударом которого вы не захотится оказатся."
+
+#~ msgid "VMX Gas Grenade"
+#~ msgstr "Газовая пушка VMX"
+
+#~ msgid ""
+#~ "The gas does not look terrifying. It even smells somewhat nice. And then "
+#~ "you die. You die a most horrible death, never knowing what killed you."
+#~ msgstr ""
+#~ "Этот газ не выглядит опасным. Он даже пахнет довольно аппетитно.\r\n"
+#~ "А потом вы умираете. Это самая страшная смерть.."
+
+#~ msgid "EMP Shockwave Generator"
+#~ msgstr "Шоковый генератор EMP"
+
+#~ msgid ""
+#~ "This sphere contains a few strange bits of technology invented by Nikola "
+#~ "Tesla in the early 20th century. The magnetic pulse that it generates can "
+#~ "destroy most electronic devices in just one blast."
+#~ msgstr ""
+#~ "Эта сфера состоит из нескольких непонятных образований открытых Никола "
+#~ "Тесла в начале 20го века. Генерируемый магнитный импульс может разрушить "
+#~ "массу электронных устройств единственным разрядом."
+
+#~ msgid "Plasma Shockwave Emitter"
+#~ msgstr "Шокоплазменный излучатель"
+
+#~ msgid ""
+#~ "Said to be the downscaled version of the original Pandora's Sphere, this "
+#~ "device extinguishes life with superheated plasma."
+#~ msgstr ""
+#~ "Это называют упрощённой версией Ящика Пандоры. Это устройство уничтожает "
+#~ "всё живое перегретой плазмой."
+
+#~ msgid "Bot use only"
+#~ msgstr "Только для ботов."
+
+#~ msgid "Droid weaponry - 123 : Weak robotic arm"
+#~ msgstr "Вооружение дроида - 123 : Слабая броня робота"
+
+#~ msgid "Droid weaponry"
+#~ msgstr "Вооружение дроида"
+
+#~ msgid "Droid weaponry - 139 : Plasma trash vaporiser"
+#~ msgstr "Вооружение дроида - 139 : Plasma trash vaporiser"
+
+#~ msgid "Droid weaponry - 247 : Weak robotic arm"
+#~ msgstr "Вооружение дроида - 247: Слабая броня робота"
+
+#~ msgid "Droid weaponry - 296 : Plasma beam cutter"
+#~ msgstr "Вооружение дроида - 296 : Плазменный резак"
+
+#~ msgid "Droid weaponry - 302"
+#~ msgstr "Вооружение дроида - 302"
+
+#~ msgid "Droid weaponry - 329"
+#~ msgstr "Вооружение дроида - 329"
+
+#~ msgid "Droid weaponry - 420"
+#~ msgstr "Вооружение дроида - 420"
+
+#~ msgid "Droid weaponry - 476 (Small Single Laser)"
+#~ msgstr "Вооружение дроида - 476 (Мелкий одиночный лазер)"
+
+#~ msgid "Droid weaponry - 493"
+#~ msgstr "Вооружение дроида - 493"
+
+#~ msgid "Droid weaponry - 516"
+#~ msgstr "Вооружение дроида - 516"
+
+#~ msgid "Droid weaponry - 543 : Laser beam cutter"
+#~ msgstr "Вооружение дроида - 543: Лазерный резак"
+
+#~ msgid "Droid weaponry - 571"
+#~ msgstr "Вооружение дроида - 517"
+
+#~ msgid "Droid weaponry - 598"
+#~ msgstr "Вооружение дроида - 598"
+
+#~ msgid "Droid weaponry - 615,751,834 (Advanced Single Laser)"
+#~ msgstr "Вооружение дроида - 615, 751, 834 (Продвинутый Одиночный Лазер)"
+
+#~ msgid "Droid weaponry - 629,821,999 (Advanced Twin Laser)"
+#~ msgstr "Оружие дродиа - 629, 821, 999 (Улучшеный Спареный Лазер)"
+
+#~ msgid "Droid weaponry - 711,742 (Disruptor Class Alpha)"
+#~ msgstr "Вооружение дроида - 711, 742 (Уничтожитель Класса Альфа)"
+
+#, fuzzy
+#~ msgid ""
+#~ " This weapons name speaks for itself-more of a brute force weapon than "
+#~ "most, it is best used on well-defended enemies."
+#~ msgstr ""
+#~ " Название этого оружия говорит само за себя - наиболее пробивное оружие "
+#~ "против высокозащищённых врагов."
+
+#~ msgid "Droid weaponry - 883 (Bot exterminator)"
+#~ msgstr "Вооружение дроида - 883 (Бот уничтожитель)"
+
+#~ msgid "Simple Jacket"
+#~ msgstr "Простая ракета"
+
+#~ msgid "Does a decent job of protection. I guess. Maybe. I'm not sure."
+#~ msgstr "Даёт неплохую защиту. Я думаю. Возможно. Я не уверен."
+
+#~ msgid "Reinforced Jacket"
+#~ msgstr "Усиленный бронежилет"
+
+#~ msgid "One step up from a normal jacket."
+#~ msgstr "Один шаг вверх от обычной ракеты."
+
+#~ msgid "Protective Jacket"
+#~ msgstr "Защитный бронежилет"
+
+#~ msgid "Very strong for its size, does a good job of absorbing basic blows."
+#~ msgstr ""
+#~ "Очень прочный для своего размера, делает неплохую работу про поглощению "
+#~ "простых ударов."
+
+#~ msgid "Red Guard's Light Robe"
+#~ msgstr "Лёгкая роба Красной стражи"
+
+#~ msgid "Tough as nails and able to withstand most blows."
+#~ msgstr "Прочный как гвозди и способный противостоять большинству ударов."
+
+#~ msgid "Red Guard's Heavy Robe"
+#~ msgstr "Тяжёлая роба Красной Стражи"
+
+#~ msgid ""
+#~ "Defense is acquired at a high level with this durable piece of armor."
+#~ msgstr "Вы приобритаете высокую защиту вместе с этой прочной бронёй."
+
+#~ msgid "Cap"
+#~ msgstr "Кепка"
+
+#~ msgid "A simple cover for your head. Don't expect to be incognito."
+#~ msgstr "Простое покрытие вашей головы. Не думайте, что вас не узнают."
+
+#~ msgid "Small Helm"
+#~ msgstr "Маленький Шлем"
+
+#~ msgid ""
+#~ "A rather useful helmet, has a few defense issues here and there but "
+#~ "mainly is worth the wear."
+#~ msgstr ""
+#~ "Довольно неплохой шлем. Имеет несколько пробелов в защите там и тут, но в "
+#~ "общем, его стоит носить."
+
+#~ msgid "Iron Helm"
+#~ msgstr "Железный Шлем"
+
+#~ msgid "Pot-Helm"
+#~ msgstr "Шлем-горшок."
+
+#~ msgid "It might look a bit silly, but it will save your life many times"
+#~ msgstr ""
+#~ "Эта штука выглядит довольно глупо, но она спасёт вашу жизнь не один раз!"
+
+#~ msgid "Iron Hat"
+#~ msgstr "Железная шапка"
+
+#~ msgid ""
+#~ "Now this is head protection. Feel safe with sturdy iron protecting your "
+#~ "head. Not as comfortable as other hats"
+#~ msgstr ""
+#~ "Теперь - защита головы. Почвствуй себя в безопасности с крепкой железякой "
+#~ "на голове! Не столь удобна как другие шляпы."
+
+#~ msgid "Dixon's helmet"
+#~ msgstr "Шлем Диксона"
+
+#~ msgid "A gift from Dixon. It looks like it is about to turn into dust."
+#~ msgstr ""
+#~ "Подарок Диксона. Кажется он в любой момент готов рассыпаться в пыль."
+
+#~ msgid "Buckler"
+#~ msgstr "Мелкий щиток"
+
+#~ msgid "Small Shield"
+#~ msgstr "Малый щит"
+
+#~ msgid ""
+#~ "A small, lightweight and pretty straightforward shield. Provides decent "
+#~ "protection."
+#~ msgstr ""
+#~ "Маленький, легкий и незамысловатый щит. Впрочем кое-какую защиту он "
+#~ "обеспечивает."
+
+#~ msgid "Standard Shield"
+#~ msgstr "Обычный щит"
+
+#~ msgid "Better than a buckler, and a lot more effective."
+#~ msgstr "Лучше чем мелкий щиток и, намного более эффективный."
+
+#~ msgid "Medium Shield"
+#~ msgstr "Средний щит"
+
+#~ msgid ""
+#~ "A medium sized, lightweight and pretty straightforward shield. Provides "
+#~ "decent protection."
+#~ msgstr ""
+#~ "Довольно лёгкий, неплохой щит среднего размера. Обеспечивает приличную "
+#~ "защиту."
+
+#~ msgid "Large Shield"
+#~ msgstr "Большой щит"
+
+#~ msgid "A powerful shield."
+#~ msgstr "Мощный щит"
+
+#~ msgid "Shoes"
+#~ msgstr "Ботинки"
+
+#~ msgid ""
+#~ "These simple boots are designed for comfort of the wearer more than to "
+#~ "give actual protection."
+#~ msgstr "Эти ботинки больше для комфортной ходьбы, чем для защиты."
+
+#~ msgid "Light Boots"
+#~ msgstr "Легкие ботинки"
+
+#~ msgid ""
+#~ "These boots are a bit lighter than the normal version, giving of course "
+#~ "worse protection but certainly extra comfort for the wearer."
+#~ msgstr ""
+#~ "Эти ботинки гораздо легче обыкновенных и дают худшую защиту. Зато в них "
+#~ "намного удобнее."
+
+#~ msgid "Boots"
+#~ msgstr "Ботинки"
+
+#~ msgid ""
+#~ "These boots are similar to the simple shoes, but the material they are "
+#~ "made of is hardened for extra protection."
+#~ msgstr ""
+#~ "Эти ботинки похожи на самую простую обувь, но они сделаны из более "
+#~ "прочного материала."
+
+#~ msgid "Reinforced Boots"
+#~ msgstr "Усиленные ботинки"
+
+#, fuzzy
+#~ msgid ""
+#~ "These boots were originally normal boots, but have been fitted with some "
+#~ "extra reinforcements to give better protection to the wearer.  Of course "
+#~ "this makes them a bit less elegant and also less comfy to wear, but the "
+#~ "extra protection might be worth it, at less than the price of hiking "
+#~ "boots."
+#~ msgstr ""
+#~ "Когда-то это были обычные ботинки, но сейчас они дополнительно укреплены "
+#~ "для защиты ног владельца. Конечно, они не слишком изящны и удобны, но и "
+#~ "стоят куда дешевле настоящих туристических."
+
+#~ msgid "Hiking Boots"
+#~ msgstr "Турботинки"
+
+#~ msgid ""
+#~ "These hiking boots are a very sophisticated product, combining optimal "
+#~ "comfort for the wearer with a good protection from collisions with blunt "
+#~ "objects like stones, which of course also makes for a higher price."
+#~ msgstr ""
+#~ "Эти туристические ботинки очень сложный продукт. В нём сочитается "
+#~ "оптимальный комфорт с хорошей защитой от столкновений с камнями. Всё это, "
+#~ "безусловно, имеет свою цену."
+
+#~ msgid "Source Book of Emergency shutdown"
+#~ msgstr "Исходный код Аварийного выключения"
+
+#~ msgid "Source Book of Check system integrity"
+#~ msgstr "Исходный код Проверки системной целостности"
+
+#~ msgid "Source Book of Analyze item"
+#~ msgstr "Исходный код Анализа предметов"
+
+#~ msgid "A book explaining the basics of item analysis."
+#~ msgstr "Книга объясняющая основы анализа предметов."
+
+#~ msgid "Source Book of Sanctuary"
+#~ msgstr "Исходный код Святилища"
+
+#, fuzzy
+#~ msgid ""
+#~ "The art of rapidly moving away from danger is very useful. Even when used "
+#~ "in reverse, it has its uses."
+#~ msgstr ""
+#~ "Эффект: Телепорт в город или назад \n"
+#~ "Искусство ускользать от опасности - очень полезно. Даже когда используете "
+#~ "наоборот, оно имеет свою пользу."
+
+#~ msgid "Source Book of Malformed packet"
+#~ msgstr "Исходный код Неверного пакета"
+
+#, fuzzy
+#~ msgid ""
+#~ "When computers are presented with the unexpected, they can damage "
+#~ "themselves."
+#~ msgstr ""
+#~ "Если компьютеры сталкиваются с неожиданостями, то они могут сломаться."
+
+#~ msgid "Source Book of Calculate Pi"
+#~ msgstr "Исходный код Вычисления Пи"
+
+#~ msgid "Source Book of Blue Screen"
+#~ msgstr "Исходный код Синего экрана"
+
+#~ msgid "Source Book of Broadcast Blue Screen"
+#~ msgstr "Исходный код Широковещательного Синего Экрана"
+
+#~ msgid "Source Book of Invisibility"
+#~ msgstr "Исходная Книга Невидимости"
+
+#~ msgid "I am not the Linarian you are looking for."
+#~ msgstr "Я не Линариан, которого вы ищете."
+
+#~ msgid "Source Book of Virus"
+#~ msgstr "Исходная Книга Вирусов"
+
+#~ msgid ""
+#~ "This is not just a firmware upgrade, my dear bot. You are about to find "
+#~ "out what exactly I want to give you."
+#~ msgstr ""
+#~ "Это не только новая прошивка, мой дорогой бот. Вы узнаете то, что именно "
+#~ "я хочу дать вам."
+
+#~ msgid "Source Book of Broadcast virus"
+#~ msgstr "Исходный код широковещательного вируса."
+
+#, fuzzy
+#~ msgid ""
+#~ "The network is wide and dangerous. Many traps await the weak and "
+#~ "unprepared."
+#~ msgstr ""
+#~ "Сеть широка и полна опасностей. Много ловушек расставлена в ней для "
+#~ "слабых и неподготовленных."
+
+#~ msgid "Source Book of Dispel smoke"
+#~ msgstr "Исходный код Рассеивания дыма"
+
+#, fuzzy
+#~ msgid ""
+#~ "By heating up the chips with a malformed program, you can cause them to "
+#~ "release the magic smoke which keeps the bot running."
+#~ msgstr ""
+#~ "Перегревая их чипы выполненем неверной программой вы можете заставить их "
+#~ "выпускать чудесный дым который сдержит их бег."
+
+#~ msgid "Source Book of Killer poke"
+#~ msgstr "Исходный код Убивающего пакета"
+
+#~ msgid ""
+#~ "Messing around with the bot's memory can cause it to damage itself, but "
+#~ "the damage is greatly variable."
+#~ msgstr ""
+#~ "Ошибки в памяти бота могут заставить его повреждать самого себя, но урон "
+#~ "очень изменчив."
+
+#~ msgid "Source Book of Nethack"
+#~ msgstr "Исходная книга Nethack"
+
+#~ msgid ""
+#~ "The open source game called Nethack is one of the world's greatest "
+#~ "wasters of time. Machines don't care about it, but humans can get sucked "
+#~ "in quite deeply."
+#~ msgstr ""
+#~ "Опэн сорс игра под название ХакниИнтернет - одна из самых великих "
+#~ "пожерателей времени. Машины не беспокоятся о ней, но людей она может "
+#~ "втянуть довольно сильно."
+
+#, fuzzy
+#~ msgid ""
+#~ "The overload setting exists for emergencies. Plasma does not discriminate "
+#~ "between bots and humans. Everything is the same to it."
+#~ msgstr ""
+#~ "Перегрузочные установки существуют для непредвиденных случаев. Плазма не "
+#~ "делает различия между людьми и ботами, перед ней все равны даже Тукс."
+
+#~ msgid "Source Book of Ricer CFLAGS"
+#~ msgstr "Исходный код Жёсткой оптимизации"
+
+#~ msgid ""
+#~ "Optimization is the root of all evil. You can gain some temporary "
+#~ "improvements to your system, but in the end you are only likely to cause "
+#~ "permanent damage."
+#~ msgstr ""
+#~ "Оптимизация это корень зла. Вы можете получить временное преимущество, но "
+#~ "в конце концов это нанесёт вам непоправимый урон!"
+
+#~ msgid "Source Book of Reverse-engineer"
+#~ msgstr "Исходный код Реверс-инжинеринга"
+
+#~ msgid ""
+#~ "There is some dark magic in the art of turning bots inside-out to learn "
+#~ "all their secrets."
+#~ msgstr ""
+#~ "Это тёмная магия поможет вам вывернуть мозги ботов наизнанку и узнать все "
+#~ "их тайны."
+
+#~ msgid "Source Book of Light"
+#~ msgstr "Исходный код Света"
+
+#~ msgid "Let there be light..."
+#~ msgstr "Да будет свет!"
+
+#~ msgid "Source Book of Satellite image"
+#~ msgstr "Исходный код Спутникового снимка"
+
+#~ msgid ""
+#~ "Getting a map of an area is pretty easy when you can look at everything "
+#~ "from above."
+#~ msgstr "Получить карту области очень просто, если посмотреть на неё сверху."
+
+#~ msgid "Diet supplement"
+#~ msgstr "Пищевая добавка"
+
+#~ msgid ""
+#~ "Only proper vitamin and mineral intake can keep you healthy during the "
+#~ "apocalypse. This can cure a cold."
+#~ msgstr ""
+#~ "Только сбалансированные витамини и минеральные вещества могут сохранить "
+#~ "ваше здоровье во время апокалипсиса. This can cure a cold."
+
+#~ msgid "Antibiotic"
+#~ msgstr "Антибиотик"
+
+#~ msgid ""
+#~ "Truly wonderful things can be extracted from molds. This can cure lethal "
+#~ "food poisoning. Wish you had that in your last Nethack game, eh?"
+#~ msgstr ""
+#~ "Совершенно замечательные вещи можно извлечь из плесени. Это может "
+#~ "вылечить вас от смертельного пищевого отравления. Жалеете, что у вас "
+#~ "небыло этого во время последнего прохождения Nethack, а?"
+
+#~ msgid ""
+#~ "This is a drink filled with nanobots designed to heal any damage that "
+#~ "they notice inside you. It can cure decapitation. Most of the time."
+#~ msgstr ""
+#~ "Этот напиток полон нанороботов, которые могут вылечить любую вашу травму! "
+#~ "Даже обезглавливание.. скорее всего."
+
+#~ msgid "Bottled ice"
+#~ msgstr "Бутылированный лёд"
+
+#~ msgid ""
+#~ "This bottle is filled with ice. It can keep you cool during a warm summer "
+#~ "day."
+#~ msgstr ""
+#~ "Эта бутылка наполнена льдом. Она может охладить вас в жаркий летний день."
+
+#~ msgid "Industrial coolant"
+#~ msgstr "Промышленный хладагент"
+
+#, fuzzy
+#~ msgid ""
+#~ "Bartenders around the world add this to drinks to get them cold very "
+#~ "fast. Plus, the coolant is much cheaper. It can keep you cool inside a "
+#~ "nuclear reactor."
+#~ msgstr ""
+#~ "Бармены всего мира добавляют это в напитки, что бы быстро охладить их. "
+#~ "Плюс к тому, хладагент ещё и гораздо дешевле. С ним вам будет прохладно "
+#~ "даже в ядерном реакторе!"
+
+#~ msgid "Liquid nitrogen"
+#~ msgstr "Жидкий азот"
+
+#~ msgid ""
+#~ "When you want something frozen solid, this is what you need. It can keep "
+#~ "you cool even inside a class M star."
+#~ msgstr ""
+#~ "Если вы хотите превратить кого-нибудь в ледяную скульптуру - это то что "
+#~ "вам нужно! Вам будет прохладно даже в звезде класса М."
+
+#~ msgid "Barf's Energy Drink"
+#~ msgstr "Энергетический напиток Барфа"
+
+#~ msgid ""
+#~ "Warning! These energy drinks contain high doses of caffeine! The average "
+#~ "person drops dead after consuming 12 grams of caffeine. One of these "
+#~ "bottles contains over double that amount."
+#~ msgstr ""
+#~ "Внимание! Этот энергетик содержит большую дозу кофеина! Двенадцать грамм "
+#~ "кофеина убивают человека, а хомячка разрывают на части. В каждой "
+#~ "бутылочке его в два раза больше."
+
+#~ msgid "Running Power Capsule"
+#~ msgstr "Капсула Бега"
+
+#, fuzzy
+#~ msgid ""
+#~ "These small containers hold purified running strength.  Each capsule can "
+#~ "be used only once, but many of them can be grouped together like one item "
+#~ "in your inventory."
+#~ msgstr ""
+#~ "Эти маленькие штучки содержат очищенный, концентрированный бег. Каждую "
+#~ "капсулу вы можете съесть только один раз, зато вы можете сложить их все в "
+#~ "одно место в инвентаре."
+
+#~ msgid "Strength Capsule"
+#~ msgstr "Капсула Силы"
+
+#, fuzzy
+#~ msgid ""
+#~ "These small containers hold purified strength.  This item will give a "
+#~ "temporary boost to strength.  Each capsule can be used only once, but "
+#~ "many of them can be grouped together like one item in your inventory."
+#~ msgstr ""
+#~ "Эти маленькие штучки - чистая сила. Она может значительно повысить вашу "
+#~ "силу на некоторе время. Каждую  капсулу можно съесть только один раз, "
+#~ "зато они занимают в инвентаре всего одно место."
+
+#~ msgid "Dexterity Capsule"
+#~ msgstr "Капсула Ловкости."
+
+#, fuzzy
+#~ msgid ""
+#~ "These small containers hold purified dexterity.  This item will give a "
+#~ "temporary bonus to dexterity.  Each capsule can be used only once, but "
+#~ "many of them can be grouped together like one item in your inventory."
+#~ msgstr ""
+#~ "Эти маленькие штучки - чистая ловкость. Она может дать солидную прибавку "
+#~ "к вашей ловкости на некоторе время.  Каждую  капсулу можно съесть только "
+#~ "один раз, зато они занимают в инвентаре всего одно место."
+
+#~ msgid "Anti-grav Pod for Droids"
+#~ msgstr "Антигравитационный привод для Дроидов"
+
+#~ msgid "Dixon's Toolbox"
+#~ msgstr "Инструменты Диксона"
+
+#, fuzzy
+#~ msgid ""
+#~ "This is a teleporter service toolbox. It's complete and orderly, though a "
+#~ "few dents on the outside give proof of frequent use. 'C. Dixon' is carved "
+#~ "into the outside with fine print."
+#~ msgstr ""
+#~ "Это набор сервисного обслуживания телепорта. Он в полном порядке за "
+#~ "исключением нескольких вмятин снаружи из-за частого использования. На нём "
+#~ "вырезано мелким шрифтом 'С. Диксон'"
+
+#~ msgid "Entropy Inverter"
+#~ msgstr "Инвертор Энтропии"
+
+#~ msgid "This is an standard part within many robot types."
+#~ msgstr "Это стандартная деталь многих типовых роботов."
+
+#~ msgid "Plasma Transistor"
+#~ msgstr "Плазменный проводник"
+
+#~ msgid "Superconducting Relay Unit"
+#~ msgstr "Деталь сверхпроводящего релье"
+
+#~ msgid "Antimatter-Matter Converter"
+#~ msgstr "Преобразователь Материи-Антиматерии"
+
+#~ msgid "Tachyon Condensator"
+#~ msgstr "Тахоновый конденсатор"
+
+#~ msgid "Desk Lamp"
+#~ msgstr "Настольная лампа"
+
+#~ msgid "What would modern science be without this important item?"
+#~ msgstr "Чем была бы современная наука без этой важной штуки?"
+
+#, fuzzy
+#~ msgid "Red Dilithium Crystal"
+#~ msgstr "Красный кристалл дилития"
+
+#, fuzzy
+#~ msgid ""
+#~ "These dilithium crystals are used as an energy source in many modern "
+#~ "electricity or heat based devices. Energy is extracted from the crystal "
+#~ "by making use of the ordering of the crystal molecules. This principle "
+#~ "has allowed us to build devices that consume a lot of energy, but do not "
+#~ "need to be connected to a power line."
+#~ msgstr ""
+#~ "Кристаллы дилитиума кристаллы используются как источник энергии в многих "
+#~ "современных электрических и тепловых устройствах. Этот процесс основан на "
+#~ "извлечении энергии из межмолекулярный связей. Этот принцип позвяет "
+#~ "строить устройства которые потребляют много энергии, но не могут быть "
+#~ "подключены к линии."
+
+#~ msgid "Map Maker"
+#~ msgstr "Составитель карт"
+
+#~ msgid "Strength Pill"
+#~ msgstr "Пилюля силы"
+
+#~ msgid ""
+#~ "These pills permanently raise strength within a person. They work on a "
+#~ "nano-technological basis. Consult your physician, the receipt or pharmacy "
+#~ "experts for details on intended effects, possible interactions and side "
+#~ "effects of this drug."
+#~ msgstr ""
+#~ "Эта пилюля моментально поднимает силу. Она работает на основе "
+#~ "нанотехнологии. Проконсультируйтесь с вашим врачём или фармацевтом для "
+#~ "уточнения побочных эффектов и возможных последствий этого препарата."
+
+#~ msgid "Dexterity Pill"
+#~ msgstr "Пилюля Ловкости"
+
+#~ msgid ""
+#~ "These pills permanently raise dexterity within a person. They work on a "
+#~ "nano-technological basis. Consult your physician, the receipt or pharmacy "
+#~ "experts for details on intended effects, possible interactions and side "
+#~ "effects of this drug."
+#~ msgstr ""
+#~ "Эта пилюля моментально поднимает ловкость. Она работает на основе "
+#~ "нанотехнологии. Проконсультируйтесь с вашим врачём или фармацевтом для "
+#~ "уточнения побочных эффектов и возможных последствий этого препарата."
+
+#~ msgid "Code Pill"
+#~ msgstr "Пилюля Кода"
+
+#, fuzzy
+#~ msgid ""
+#~ "Dude! This fab food will totally bump up your code skills, man! A real "
+#~ "blast. Scarf these down to *see* the code."
+#~ msgstr ""
+#~ "Чувак! Эта фантастическая штука махом поднимит твоё умение "
+#~ "программировать! Это просто взрыв. Scarf those down to see the code."
+
+#~ msgid "Brain Enlargement Pills Antidote"
+#~ msgstr "Нейтрализатор пилюль мышления"
+
+#~ msgid "Fork"
+#~ msgstr "Отделить"
+
+#~ msgid "Hacking"
+#~ msgstr "Хакерство"
+
+#~ msgid "Repair equipment"
+#~ msgstr "Починка снаряжения"
+
+#~ msgid "Use weapon"
+#~ msgstr "Использовать оружия"
+
+#~ msgid "Emergency shutdown"
+#~ msgstr "Немедленное выключение"
+
+#~ msgid "Check system integrity"
+#~ msgstr "Проверить целостность системы"
+
+#~ msgid "While repairing damage you must remember that patience is a virtue."
+#~ msgstr "Пока чините ваши повреждения вы должны помнить, терпение - золото."
+
+#~ msgid "Sanctuary"
+#~ msgstr "Святилище"
+
+#~ msgid ""
+#~ "Effect: Teleport to town or back \n"
+#~ "The art of rapidly moving away from danger is very useful. Even when used "
+#~ "in reverse it has it's uses."
+#~ msgstr ""
+#~ "Эффект: Телепорт в город или назад \n"
+#~ "Искусство ускользать от опасности - очень полезно. Даже когда используете "
+#~ "наоборот, оно имеет свою пользу."
+
+#~ msgid "Analyze item"
+#~ msgstr "Анализировать предмет"
+
+#~ msgid ""
+#~ "Effect: Identify\n"
+#~ "There are very few items which have labels on them. Unless you happen to "
+#~ "have an item labeled 'USE ME', you better make sure what it is before "
+#~ "using it..."
+#~ msgstr ""
+#~ "Эффект: Идентификация.\n"
+#~ "На самом деле не так уж много предметов с надписью на них. Пока у вас "
+#~ "есть предмет с надписью \"ИСПОЛЬЗУЙ МЕНЯ!\", вам лучше убедиться что это, "
+#~ "перед тем как использовать это..."
+
+#~ msgid "Invisibility"
+#~ msgstr "Невидимость"
+
+#~ msgid "Malformed packet"
+#~ msgstr "Неверный пакет"
+
+#~ msgid ""
+#~ "When computers are presented with the unexpected they can damage "
+#~ "themselves."
+#~ msgstr ""
+#~ "Если компьютеры сталкиваются с неожиданостями, то они могут сломаться."
+
+#~ msgid "Calculate Pi"
+#~ msgstr "Вычисление Пи"
+
+#~ msgid "Blue Screen"
+#~ msgstr "Синий экран"
+
+#~ msgid "Broadcast Blue Screen"
+#~ msgstr "Бродкаст! Синий экран"
+
+#~ msgid "Virus"
+#~ msgstr "Вирус"
+
+#~ msgid "Broadcast virus"
+#~ msgstr "Бродкаст вирус"
+
+#~ msgid ""
+#~ "The network is wide and dangerous. Many traps await for the weak and "
+#~ "unprepared."
+#~ msgstr ""
+#~ "Сеть широка и полна опасностей. Много ловушек расставлена в ней для "
+#~ "слабых и неподготовленных."
+
+#~ msgid "Dispel smoke"
+#~ msgstr "Рассеять дым"
+
+#~ msgid "Killer poke"
+#~ msgstr "Смертельний удар"
+
+#~ msgid "Plasma discharge"
+#~ msgstr "Разряд плазмы"
+
+#~ msgid ""
+#~ "The overload setting exists for emergencies. The plasma does not "
+#~ "discriminate between bots and humans. Everything is equal to it, even Tux."
+#~ msgstr ""
+#~ "Перегрузочные установки существуют для непредвиденных случаев. Плазма не "
+#~ "делает различия между людьми и ботами, перед ней все равны даже Тукс."
+
+#~ msgid "Nethack"
+#~ msgstr "Нетхак"
+
+#~ msgid "Extract bot parts"
+#~ msgstr "Извлечь части бота"
+
+#~ msgid ""
+#~ "With a little knowledge, you can extract some useful parts out of the "
+#~ "robots you kill. With each bot there is some hope of a part falling out. "
+#~ "This skill is always active even when not selected."
+#~ msgstr ""
+#~ "С небольшим умением вы можете извлекать некоторые части роботов, которые "
+#~ "вы убили. Есть шанс что из каждого бота выпадет часть. Это умение всегда "
+#~ "активно даже когда не выбрано."
+
+#~ msgid "Reverse-engineer"
+#~ msgstr "Резерс-инжинер"
+
+#~ msgid "Ricer CFLAGS"
+#~ msgstr "Гонщик CFLAGS"
+
+#~ msgid "Light"
+#~ msgstr "Легкий"
+
+#~ msgid ""
+#~ "This does nothing in this version of freedroidRPG. Let there be light..."
+#~ msgstr "Это ничего не делает в данной версии freedroidRPG. Да будет свет..."
+
+#~ msgid "Satellite image"
+#~ msgstr "Спутниковый снимок"
+
+#~ msgid ""
+#~ "This does nothing in this version of freedroidRPG. Getting a map of an "
+#~ "area is pretty easy when you can look at everything from above."
+#~ msgstr ""
+#~ "Это ничего не делает в данной версии freedroidRPG. Получить карту области "
+#~ "очень легко если вы можете смотреть на все сверху."
+
+#~ msgid "Plasma grenade"
+#~ msgstr "Плазменная пушка"
+
+#~ msgid ""
+#~ "This is a bug, report this to the developers, unless you cheated, in "
+#~ "which case you deserve to see this stupid description."
+#~ msgstr ""
+#~ "Это ошибка. Сообщите нам об этом, если вы не чители, что бы увидеть это "
+#~ "дурацкое сообщение."
+
+#~ msgid "Gas grenade"
+#~ msgstr "Газовая пушка"
+
+#~ msgid "EMP grenade"
+#~ msgstr "EMP пушка"
+
+#~ msgid "This is a placeholder for a description. Feel free to help."
+#~ msgstr "Это заготовка для описания. Не стестяйтесь помогать!"
+
+#~ msgid "Droid weaponry - 614,GUA,MUM (Power Exterminator)"
+#~ msgstr "Вооружение дроида - 614, GUA, MUM (Могучий Уничтожитель)"
+
+#~ msgid "This is one of the most powerful ranged weapons out there."
+#~ msgstr "Одно и самых дальнобойных образцов местного вооружения."
