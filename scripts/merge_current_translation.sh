@@ -7,6 +7,7 @@
 
 # extract the translation
 
+./svn_rebase.sh
 
 cd ..
 cd dialogs ;
