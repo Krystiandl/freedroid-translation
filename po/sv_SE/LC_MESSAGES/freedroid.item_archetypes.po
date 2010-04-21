@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidRPG 0.10.4cvs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 13:06+0000\n"
+"POT-Creation-Date: 2010-04-21 07:39+0000\n"
 "PO-Revision-Date: 2008-11-03 05:44+0000\n"
 "Last-Translator: Christian Widell <Christian_widell@hotmail.com>\n"
 "Language-Team: Swedish\n"
@@ -981,7 +981,8 @@ msgid "Miner Helmet"
 msgstr "Dixon's hjälm"
 
 #: /home/david/src/freedroid-translation/map/freedroid.item_archetypes:3023
-msgid "It might look a bit silly, but it will save your life many times"
+#, fuzzy
+msgid "It might look a bit silly, but it will save your life many times."
 msgstr ""
 "Den kan se lite löjlig ut, men den kommer att rädda ditt liv många gånger"
 
@@ -1003,9 +1004,10 @@ msgid "Battle Helmet"
 msgstr "Liten hjälm"
 
 #: /home/david/src/freedroid-translation/map/freedroid.item_archetypes:3063
+#, fuzzy
 msgid ""
 "Now this is head protection. Feel safe with sturdy iron protecting your "
-"head. Not as comfortable as other hats"
+"head. Not as comfortable as other hats."
 msgstr ""
 "Detta är huvudskydd. Känn dig säker med järn som skyddar ditt huvude. Inte "
 "likan komfortabelt som andra hattar."

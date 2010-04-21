@@ -9,7 +9,7 @@
 for lang in "fr_FR" "sv_SE" "ru_RU" "de_DE" ; do
      
     cd .. ;
- 
+    echo "For the language ${lang}"
     # the initial .po file containing the initial dialog translation
     # is called freedroidrpg.po
     cd dialogs ;
