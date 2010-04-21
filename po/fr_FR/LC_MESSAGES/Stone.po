@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:25+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -270,8 +270,9 @@ msgid "Wait a second... I think I recognize you..."
 msgstr "Attends une seconde... Je te reconnais..."
 
 #: /home/david/src/freedroid-translation/dialogs/Stone.dialog:155
+#, fuzzy
 msgid "You are "
-msgstr ""
+msgstr " Qui êtes vous ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Stone.dialog:156
 msgid "The hero..."
@@ -1375,10 +1376,6 @@ msgstr "À plus tard."
 
 #~ msgid "Yes. Hello. What do you want?"
 #~ msgstr "Oui. Bonjour. Que voulez vous ?"
-
-#, fuzzy
-#~ msgid "Who are you?"
-#~ msgstr " Qui êtes vous ?"
 
 #~ msgid "People call me Jasmine..."
 #~ msgstr "Les gens m'appellent Jasmine..."

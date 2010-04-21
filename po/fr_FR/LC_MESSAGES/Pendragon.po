@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:25+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -73,8 +73,10 @@ msgstr ""
 "combat de robots"
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:70
+#, fuzzy
 msgid "Yes (cost 100 valuable circuits, 5 ability points)"
 msgstr ""
+" Étudier le piratage des ordinateurs (300 en liquide, 5 points de compétence)"
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:75
 msgid "Let us begin then."
@@ -153,10 +155,13 @@ msgid "First collect more experience. Then we can go on."
 msgstr "D'abord, recueille plus d'expérience. Alors nous pourrons le faire."
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:100
+#, fuzzy
 msgid ""
 "You don't have enough valuable circuits on you! Come back when you have the "
 "money."
 msgstr ""
+"Tu n'as pas assez de cyberdollars sur toi. Reviens lorsque tu auras la somme "
+"convenue."
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:103
 msgid ""
@@ -7510,18 +7515,6 @@ msgstr "Bon courage."
 
 #~ msgid "This place will always wait for you."
 #~ msgstr "Cet endroit sera toujours là pour toi."
-
-#, fuzzy
-#~ msgid "Yes (cost 100 cash, 5 ability points)"
-#~ msgstr ""
-#~ " Étudier le piratage des ordinateurs (300 en liquide, 5 points de "
-#~ "compétence)"
-
-#~ msgid ""
-#~ "You don't have enough bucks on you! Come back when you have the money."
-#~ msgstr ""
-#~ "Tu n'as pas assez de cyberdollars sur toi. Reviens lorsque tu auras la "
-#~ "somme convenue."
 
 #~ msgid ""
 #~ "Great! A newcomer! Welcome! Welcome! I'm Skippy, and I'm your new best "

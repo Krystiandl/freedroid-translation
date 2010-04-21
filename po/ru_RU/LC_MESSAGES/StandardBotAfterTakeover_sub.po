@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:27+0000\n"
 "PO-Revision-Date: 2008-12-16 05:43+0000\n"
 "Last-Translator: Dmitry Tumaikin <nevly@mail.ru>\n"
 "Language-Team: Russian\n"
@@ -60,7 +60,7 @@ msgid "No upgrades found."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:87
-msgid "Always ask for confirmation before execution of ./hcf.py? Y/N"
+msgid "Always ask for confirmation before execution of hcf.py? Y/N"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:92
@@ -68,7 +68,7 @@ msgid "Yes, always ask."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:94
-msgid "Confirmation will now be asked before execution of ./hcf.py."
+msgid "Confirmation will now be asked before execution of hcf.py."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:95
@@ -81,7 +81,7 @@ msgid "No, don't ask"
 msgstr "Даже не спрашивай."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:106
-msgid "./hcf.py will be executed without asking for confirmation."
+msgid "hcf.py will be executed without asking for confirmation."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:118

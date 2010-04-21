@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroid\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:25+0000\n"
 "PO-Revision-Date: 2008-10-28 08:03+0000\n"
 "Last-Translator: Christian Widell <Christian_widell@hotmail.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
@@ -22,10 +22,13 @@ msgid "Who are you?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/614.dialog:37
+#, fuzzy
 msgid ""
 "I am a 614 security bot, once one of the best-selling products of Nicholson, "
 "Inc.."
 msgstr ""
+"Jag är en 614 säkerhets bot, en gång i tiden en av de bäst säljande "
+"produkterna från Nicholson company."
 
 #: /home/david/src/freedroid-translation/dialogs/614.dialog:41
 msgid "What can you tell me about the Nicholson company?"
@@ -140,8 +143,9 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/614.dialog:85
+#, fuzzy
 msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
-msgstr ""
+msgstr "Glöm inte att köpa produkter från Nicholson Company. De är de bästa."
 
 #: /home/david/src/freedroid-translation/dialogs/614.dialog:90
 msgid "See you later."
@@ -182,18 +186,6 @@ msgstr " Återupptar vakt program."
 
 #~ msgid "Nothing more and nothing less."
 #~ msgstr "Inget mer och inget mindre."
-
-#~ msgid ""
-#~ "I am a 614 security bot, once one of the best-selling products of the "
-#~ "Nicholson company."
-#~ msgstr ""
-#~ "Jag är en 614 säkerhets bot, en gång i tiden en av de bäst säljande "
-#~ "produkterna från Nicholson company."
-
-#~ msgid ""
-#~ "Don't forget to buy products from Nicholson Company. They are the best."
-#~ msgstr ""
-#~ "Glöm inte att köpa produkter från Nicholson Company. De är de bästa."
 
 #~ msgid "Yes. Hello. What do you want?"
 #~ msgstr "Ja. Hallå. Vad vill du?"

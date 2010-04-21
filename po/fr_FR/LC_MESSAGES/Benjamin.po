@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:23+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -207,11 +207,15 @@ msgstr ""
 "focalisé."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:104
+#, fuzzy
 msgid ""
 "Because the beam is composed out of light, it travels REALLY fast, at the "
 "speed of lights so to say. Also it is not affected by gravity or wind, which "
 "makes aiming easier."
 msgstr ""
+"Parce que le faisceau est un faisceau lumineux, il se propage TRÈS "
+"rapidement. De même, il n'est pas affecté par la gravité ou le vent, ce qui "
+"permet une visée précise et facile."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:105
 #, fuzzy
@@ -417,8 +421,9 @@ msgstr ""
 "tir."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:191
+#, fuzzy
 msgid ""
-"Watch your target closely.  Pretend you're moving with it. Aim for the head."
+"Watch your target closely. Pretend you're moving with it. Aim for the head."
 msgstr ""
 "Ne lâche pas ta cible des yeux. Imagine que tu bouges avec elle. Ce doit "
 "être le but pour ton cerveau."
@@ -438,12 +443,13 @@ msgid "Good. I think that it is enough for today."
 msgstr "Bon. Je pense que c'est suffisant pour aujourd'hui."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:198
-msgid "You are not ready.  Go kill some bots and come back."
+msgid "You are not ready. Go kill some bots and come back."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:202
+#, fuzzy
 msgid "You need more gold."
-msgstr ""
+msgstr " Je dois y aller maintenant."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:207
 #, fuzzy
@@ -469,8 +475,9 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:218
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:238
+#, fuzzy
 msgid "Come back when you are ready to learn."
-msgstr ""
+msgstr "Reviens avec de l'argent."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:221
 msgid "Please don't bother me if you can't pay me."
@@ -500,8 +507,9 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:233
+#, fuzzy
 msgid "I think that is enough training for now. Next time, firing on the move!"
-msgstr ""
+msgstr "Je pense que c'est suffisant pour commencer."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:241
 msgid "Please defray the costs of the ammo used in training."
@@ -588,8 +596,9 @@ msgid "Intriguing."
 msgstr "Bizarre."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:295
+#, fuzzy
 msgid "Fifty circuits per bit of information."
-msgstr ""
+msgstr "Cinquante triangles pour chaque parcelle d'information."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:296
 msgid "So... What do you exactly want to know?"
@@ -609,10 +618,13 @@ msgstr ""
 "que vingt, la dernière fois que j'ai vérifié."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:305
+#, fuzzy
 msgid ""
 "However, as you can clearly see, it's more than enough to keep all of the "
 "damn bots away."
 msgstr ""
+"De toutes manières, comme tu peux le voir, c'est plus que suffisant pour "
+"tenir tous ces satanés robots à distance."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:313
 #, fuzzy
@@ -638,8 +650,9 @@ msgid "That is not a lot. Why there are so few of them right now?"
 msgstr " Ce n'est pas beaucoup. Pourquoi sont-ils si nombreux ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:324
+#, fuzzy
 msgid "All of them were a very lucky find."
-msgstr ""
+msgstr "Ils ont tous eu beaucoup de chance. "
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:325
 msgid ""
@@ -670,16 +683,23 @@ msgid "What is the exterminator ammunition made from?"
 msgstr " De quoi sont faites les munitions de l'exterminateur ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:338
+#, fuzzy
 msgid ""
 "We use radioactives, whatever type happens to be on hand. Mostly plutonium "
 "and uranium, but we are not too picky."
 msgstr ""
+"Nous utilisons des éléments radioactifs, tout ce qui nous tombe sous la "
+"main. La plupart du temps du plutonium et de l'uranium, mais ne nous sommes "
+"pas trop difficiles."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:339
+#, fuzzy
 msgid ""
 "When we get low on ammo, we send in a chain gang of criminals and sluggards "
 "into the mine shaft K-17."
 msgstr ""
+"Lorsque nous sommes à court de munitions, nous envoyons un groupe de détenus "
+"criminels et de paresseux dans le puits de mine K-17."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:340
 #, fuzzy
@@ -692,10 +712,13 @@ msgstr ""
 "l'alimentation pour nos réacteurs nucléaires."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:341
+#, fuzzy
 msgid ""
 "We get our fission materials, and they serve their sentence. It was one of "
 "the best ideas we have ever had."
 msgstr ""
+"Nous avons notre matériau fissile et ils reçoivent leur peine. C'est une des "
+"meilleures idée que nous avons jamais eue."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:349
 #, fuzzy
@@ -728,10 +751,11 @@ msgid "I changed my mind."
 msgstr "J'ai changé d'avis."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:362
+#, fuzzy
 msgid ""
 "Keep your money Linarian. No amount of circuits can make me talk about that "
 "accursed day."
-msgstr ""
+msgstr "Garde ton argent, Linarien. Rien ne me fera parler de ce jour passé."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:367
 #, fuzzy
@@ -1943,9 +1967,6 @@ msgstr "Au revoir !"
 #~ msgid "There is only one law concerning outsiders here: Don't be stupid."
 #~ msgstr "Pour les étrangers, il n'y a qu'une loi ici : ne pas être stupide."
 
-#~ msgid "I think that is enough of an introduction for now."
-#~ msgstr "Je pense que c'est suffisant pour commencer."
-
 #, fuzzy
 #~ msgid "What are you doing here?"
 #~ msgstr " Que faites-vous ici ?"
@@ -2473,10 +2494,6 @@ msgstr "Au revoir !"
 #, fuzzy
 #~ msgid "I wish I knew what you are talking about."
 #~ msgstr " J'aurai aimé savoir de quoi tu parles."
-
-#, fuzzy
-#~ msgid "I need to go now."
-#~ msgstr " Je dois y aller maintenant."
 
 #~ msgid " . . ."
 #~ msgstr " . . ."
@@ -6195,57 +6212,6 @@ msgstr "Au revoir !"
 
 #~ msgid "That is fine. I will find someone else."
 #~ msgstr "C'est parfait. Je vais trouver quelqu'un d'autre."
-
-#~ msgid ""
-#~ "Because the beam is composed out of light, it travels REALLY fast. Also "
-#~ "it is not affected by gravity or wind, which makes aiming easier."
-#~ msgstr ""
-#~ "Parce que le faisceau est un faisceau lumineux, il se propage TRÈS "
-#~ "rapidement. De même, il n'est pas affecté par la gravité ou le vent, ce "
-#~ "qui permet une visée précise et facile."
-
-#, fuzzy
-#~ msgid "Fifty triangles per bit of information."
-#~ msgstr "Cinquante triangles pour chaque parcelle d'information."
-
-#~ msgid ""
-#~ "However, as you can clearly see, this is more than enough to keep all of "
-#~ "the damn bots away."
-#~ msgstr ""
-#~ "De toutes manières, comme tu peux le voir, c'est plus que suffisant pour "
-#~ "tenir tous ces satanés robots à distance."
-
-#, fuzzy
-#~ msgid "All of them are a very lucky find."
-#~ msgstr "Ils ont tous eu beaucoup de chance. "
-
-#~ msgid ""
-#~ "We use radioactives, whatever type happens to be on hand. Mostly "
-#~ "plutonium and uranium, be we are not too picky."
-#~ msgstr ""
-#~ "Nous utilisons des éléments radioactifs, tout ce qui nous tombe sous la "
-#~ "main. La plupart du temps du plutonium et de l'uranium, mais ne nous "
-#~ "sommes pas trop difficiles."
-
-#~ msgid ""
-#~ "When we get low on ammo, we send in a chain gang of criminals and "
-#~ "lazybums into the mine shaft K-17."
-#~ msgstr ""
-#~ "Lorsque nous sommes à court de munitions, nous envoyons un groupe de "
-#~ "détenus criminels et de paresseux dans le puits de mine K-17."
-
-#~ msgid ""
-#~ "We get our fission materials and they get their sentence. It was one of "
-#~ "the best ideas we have ever had."
-#~ msgstr ""
-#~ "Nous avons notre matériau fissile et ils reçoivent leur peine. C'est une "
-#~ "des meilleures idée que nous avons jamais eue."
-
-#~ msgid ""
-#~ "Keep your money Linarian. No amount of triangles can make me talk about "
-#~ "that accursed day."
-#~ msgstr ""
-#~ "Garde ton argent, Linarien. Rien ne me fera parler de ce jour passé."
 
 #~ msgid "Hello. I'm Doc Moore. I'm the medic of this town."
 #~ msgstr ""

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 13:07+0000\n"
-"PO-Revision-Date: 2010-04-09 13:07+0000\n"
+"POT-Creation-Date: 2010-04-21 11:29+0000\n"
+"PO-Revision-Date: 2010-04-21 11:29+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgid "admin"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:35
-msgid "  Password : "
+msgid " Password : "
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:36

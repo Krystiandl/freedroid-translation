@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:23+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -22,14 +22,18 @@ msgid "Who are you?"
 msgstr " Qui êtes vous ?"
 
 #: /home/david/src/freedroid-translation/dialogs/614.dialog:37
+#, fuzzy
 msgid ""
 "I am a 614 security bot, once one of the best-selling products of Nicholson, "
 "Inc.."
 msgstr ""
+"Je suis un robot de sécurité de type 614, un des produits les plus vendus de "
+"la compagnie Nicholson."
 
 #: /home/david/src/freedroid-translation/dialogs/614.dialog:41
+#, fuzzy
 msgid "What can you tell me about the Nicholson company?"
-msgstr ""
+msgstr " Peux-tu m'apprendre quelque chose à propos de cet endroit ?"
 
 #: /home/david/src/freedroid-translation/dialogs/614.dialog:43
 msgid "Nicholson, Inc. produces security bots."
@@ -145,15 +149,23 @@ msgstr ""
 "conduit l'attaque des robots, plus connue sous le nom du Grand Assaut."
 
 #: /home/david/src/freedroid-translation/dialogs/614.dialog:84
+#, fuzzy
 msgid ""
 "Even though discontinued by the Nicholson, Inc. long ago, today, some people "
 "have picked up the work and are even trying to improve the operating system "
 "running on my series."
 msgstr ""
+"Bien que la compagnie Nicholson en ait stoppé la production depuis "
+"longtemps, aujourd'hui, certaines personnes ont amélioré mon fonctionnement "
+"et essaient également d'améliorer le système d'exploitation utilisé par ma "
+"série."
 
 #: /home/david/src/freedroid-translation/dialogs/614.dialog:85
+#, fuzzy
 msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
 msgstr ""
+"N'oubliez pas d'acheter des produits de la Compagnie Nicholson. Ce sont les "
+"meilleurs."
 
 #: /home/david/src/freedroid-translation/dialogs/614.dialog:90
 msgid "See you later."
@@ -1082,13 +1094,6 @@ msgstr " Retour au programme de surveillance."
 #~ msgid "Who are you? "
 #~ msgstr " Qui es-tu ? "
 
-#~ msgid ""
-#~ "I am a 614 security bot, once one of the best-selling products of the "
-#~ "Nicholson company."
-#~ msgstr ""
-#~ "Je suis un robot de sécurité de type 614, un des produits les plus vendus "
-#~ "de la compagnie Nicholson."
-
 #, fuzzy
 #~ msgid "What can you tell me about the 614 type?"
 #~ msgstr " Que peux-tu me dire à propos de la série des 614 ? "
@@ -1114,12 +1119,6 @@ msgstr " Retour au programme de surveillance."
 #~ "longtemps, aujourd'hui, certaines personnes ont amélioré mon "
 #~ "fonctionnement et essaient également d'améliorer le système "
 #~ "d'exploitation utilisé par ma série."
-
-#~ msgid ""
-#~ "Don't forget to buy products from Nicholson Company. They are the best."
-#~ msgstr ""
-#~ "N'oubliez pas d'acheter des produits de la Compagnie Nicholson. Ce sont "
-#~ "les meilleurs."
 
 #, fuzzy
 #~ msgid "Hi! I'm new here."
@@ -2974,10 +2973,6 @@ msgstr " Retour au programme de surveillance."
 #~ msgstr ""
 #~ "Alors je te souhaite la bienvenue. Je suis Chandra, le sage de cette "
 #~ "vieille ville."
-
-#, fuzzy
-#~ msgid "What can you tell me about this place?"
-#~ msgstr " Peux-tu m'apprendre quelque chose à propos de cet endroit ?"
 
 #, fuzzy
 #~ msgid ""
@@ -7047,17 +7042,6 @@ msgstr " Retour au programme de surveillance."
 
 #~ msgid "Sure."
 #~ msgstr "Certainement."
-
-#, fuzzy
-#~ msgid ""
-#~ "Even though discontinued by the Nicholson Company long ago, today, some "
-#~ "people have picked up the work and are even trying to improve the "
-#~ "operating system running on my series."
-#~ msgstr ""
-#~ "Bien que la compagnie Nicholson en ait stoppé la production depuis "
-#~ "longtemps, aujourd'hui, certaines personnes ont amélioré mon "
-#~ "fonctionnement et essaient également d'améliorer le système "
-#~ "d'exploitation utilisé par ma série."
 
 #, fuzzy
 #~ msgid ""

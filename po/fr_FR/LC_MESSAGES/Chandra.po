@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:24+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -65,20 +65,25 @@ msgid "Where can I get better equipment?"
 msgstr " Où puis-je me procurer un meilleur équipement ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:60
+#, fuzzy
 msgid ""
 "The shop is to the north, near the gate. Ms. Stone always has a good range "
 "of equipment there, with fair prices too."
 msgstr ""
+"Le magasin est à l'est. Mlle Stone a toujours un bon choix d'équipement ici."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:61
 msgid "Not that you have much choice."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:62
+#, fuzzy
 msgid ""
 "Of course, the Red Guard always has the biggest guns and the best armor, but "
 "they do not sell them to non-members."
 msgstr ""
+"Et la Garde Rouge a toujours les plus gros pistolets et les meilleures "
+"armures, mais ils ne les vendent pas à des non membres."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:67
 #, fuzzy
@@ -86,11 +91,14 @@ msgid "So what's so strange about the attack?"
 msgstr " Alors qu'est-ce qui est étrange à propos de cette attaque ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:69
+#, fuzzy
 msgid ""
 "According to my calculations from the Fermi estimate, there are about seven "
 "million bots active in the region, everything from cleaner bots and servant "
 "droids to much more dangerous ones."
 msgstr ""
+"En accord avec mes calculs issus de l'estimation de Fermi, il y a environ "
+"sept millions de robots actifs dans la région."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:70
 msgid ""
@@ -125,12 +133,15 @@ msgid "There is none!"
 msgstr "Il n'y a rien !"
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:76
+#, fuzzy
 msgid "They could just enter the city and massacre everyone..."
 msgstr ""
+"Ils pouraient simplement entrer dans la ville et massacrer tout le monde."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:77
+#, fuzzy
 msgid "But they do not even seem to try!"
-msgstr ""
+msgstr "Mais ils ne le font pas."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:78
 msgid "This makes no sense at all!"
@@ -142,17 +153,24 @@ msgid "What do you know about the hostile bots?"
 msgstr " Que voulez vous savoir à propos des robots hostiles ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:85
+#, fuzzy
 msgid ""
 "The phenomenon of hostile bots has occupied my mind for quite some time. "
 "There are some strange irrationalities in this behaviour, that I cannot "
 "explain."
 msgstr ""
+"Le phénomène des robots hostiles a occupé mon esprit pendant beaucoup de "
+"temps. Il y a quelque chose d'étrange dans ce comportement, que je ne "
+"parviens pas à expliquer."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:86
+#, fuzzy
 msgid ""
 "This concerns not only the suddenness of the attack but also the methods and "
 "the scale of it all."
 msgstr ""
+"Cela ne concerne pas seulement l'irrationalité des attaques mais également "
+"les méthodes et le niveau de tout cela."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:91
 #, fuzzy
@@ -160,10 +178,13 @@ msgid "What types of bots are out there?"
 msgstr " Quel genre de robot y a-t-il à l'extérieur ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:93
+#, fuzzy
 msgid ""
 "There are many. Each kind of bot has a number consisting of three digits. "
 "The first one is the most significant, the class of a bot."
 msgstr ""
+"Hmm... Chaque genre de robot a un numéro composé de trois chiffres. Le "
+"premier est le plus significatif, il désigne la classe du robot."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:94
 msgid "I know a bit about three classes."
@@ -272,11 +293,14 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:127
+#, fuzzy
 msgid ""
 "My advice is to invest in a ranged weapon. While that can create a huge hole "
 "in your wallet, it also creates several in the bots, and is better than a "
 "huge hole in you."
 msgstr ""
+"Mon conseil est d'investir dans un ratelier d'armes. Bien que ça puisse "
+"créer un trou béant dans ton mur, c'est mieux qu'un trou béant dans toi."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:128
 msgid ""
@@ -287,10 +311,13 @@ msgstr ""
 "Rouge veut garder le monopole de l'armement efficace."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:129
+#, fuzzy
 msgid ""
 "Should you fail to find something decent to shoot or swing with, there are "
 "always other options."
 msgstr ""
+"Tu devrais avoir du mal à trouver quelque chose de décent pour tirer, mais "
+"il y a d'autres options."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:130
 msgid ""
@@ -299,11 +326,15 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:131
+#, fuzzy
 msgid ""
 "There was a person selling grenades, too. Eh... I forgot his name, my memory "
 "is not serving me very well today. He's a very mysterious fellow. Perhaps he "
 "can help you."
 msgstr ""
+"Il y avait une personne qui vendait des grenades aussi. Euh... J'ai oublié "
+"son nom, la mémoire me fait défaut aujourd'hui. Je suis certain qu'il peut "
+"t'aider."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:132
 msgid "Other than that, you are on your own."
@@ -363,10 +394,13 @@ msgid "Many strange things have happened since the Great Assault."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:151
+#, fuzzy
 msgid ""
 "Any way, because the class 100 bots are neither fast nor dangerous, the Red "
 "Guard often uses them for target practice."
 msgstr ""
+"Parce qu'ils sont aussi rapides qu'inoffensifs, la Garde Rouge les utilise "
+"comme cibles d'entraînement."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:152
 msgid "If I were you, I would not overestimate them. "
@@ -422,8 +456,9 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:167
+#, fuzzy
 msgid "Once? What happened to it?"
-msgstr ""
+msgstr " Qu'est-ce qui s'est passé après ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:168
 msgid ""
@@ -2262,10 +2297,6 @@ msgstr "Tu es libre de venir ici à chaque fois que tu le souhaites."
 #~ "Nous les avons tout d'abord fait, puis ils nous ont défaits. Quelle "
 #~ "ironie."
 
-#, fuzzy
-#~ msgid "What happened then?"
-#~ msgstr " Qu'est-ce qui s'est passé après ?"
-
 #~ msgid "I got shot down and I crashed a few kilometers away from here."
 #~ msgstr "J'ai été abattu et je me suis écrasé à quelques kilomètres d'ici."
 
@@ -3322,58 +3353,6 @@ msgstr "Tu es libre de venir ici à chaque fois que tu le souhaites."
 #~ "communauté minière prospère."
 
 #~ msgid ""
-#~ "The shop is to the north. Ms. Stone always has a good range of equipment "
-#~ "there."
-#~ msgstr ""
-#~ "Le magasin est à l'est. Mlle Stone a toujours un bon choix d'équipement "
-#~ "ici."
-
-#~ msgid ""
-#~ "And the Red Guard always has the biggest guns and the best armor, but "
-#~ "they do not sell them to the non-members."
-#~ msgstr ""
-#~ "Et la Garde Rouge a toujours les plus gros pistolets et les meilleures "
-#~ "armures, mais ils ne les vendent pas à des non membres."
-
-#~ msgid ""
-#~ "According to my calculations from the Fermi estimate, there are about "
-#~ "seven million bots active in the region."
-#~ msgstr ""
-#~ "En accord avec mes calculs issus de l'estimation de Fermi, il y a environ "
-#~ "sept millions de robots actifs dans la région."
-
-#~ msgid "They could just enter the city and massacre everyone."
-#~ msgstr ""
-#~ "Ils pouraient simplement entrer dans la ville et massacrer tout le monde."
-
-#~ msgid "But they do not do so."
-#~ msgstr "Mais ils ne le font pas."
-
-#~ msgid ""
-#~ "The phenomenon of hostile bots has occupied my mind for quite some time.  "
-#~ "There are some strange irrationalities in this behaviour, that I cannot "
-#~ "explain."
-#~ msgstr ""
-#~ "Le phénomène des robots hostiles a occupé mon esprit pendant beaucoup de "
-#~ "temps. Il y a quelque chose d'étrange dans ce comportement, que je ne "
-#~ "parviens pas à expliquer."
-
-#~ msgid ""
-#~ "This concerns not only the irrationality of the attack but also the "
-#~ "methods and the scale of it all."
-#~ msgstr ""
-#~ "Cela ne concerne pas seulement l'irrationalité des attaques mais "
-#~ "également les méthodes et le niveau de tout cela."
-
-#, fuzzy
-#~ msgid ""
-#~ "Hmm... Each kind of bot has a number consisting of three digits. The "
-#~ "first one is the most significant, the class of a bot."
-#~ msgstr ""
-#~ "Hmm... Chaque genre de robot a un numéro composé de trois chiffres. Le "
-#~ "premier est le plus significatif, il désigne la classe du robot."
-
-#~ msgid ""
 #~ "The 100s are cleaning bots of old. They are not too troublesome most of "
 #~ "the time."
 #~ msgstr ""
@@ -3401,20 +3380,6 @@ msgstr "Tu es libre de venir ici à chaque fois que tu le souhaites."
 #~ "je ne sais rien à leurs propos."
 
 #~ msgid ""
-#~ "My advice is to invest in a ranged weapon. While that can create a huge "
-#~ "puncture in your wallet, it is better than a huge puncture in you."
-#~ msgstr ""
-#~ "Mon conseil est d'investir dans un ratelier d'armes. Bien que ça puisse "
-#~ "créer un trou béant dans ton mur, c'est mieux qu'un trou béant dans toi."
-
-#~ msgid ""
-#~ "Should you fail to find something decent to shoot with, there are always "
-#~ "other options."
-#~ msgstr ""
-#~ "Tu devrais avoir du mal à trouver quelque chose de décent pour tirer, "
-#~ "mais il y a d'autres options."
-
-#~ msgid ""
 #~ "Ewald sells potions which can increase your abilities to fight for a "
 #~ "while. He keeps the ingredients a secret, and the prices high."
 #~ msgstr ""
@@ -3422,23 +3387,8 @@ msgstr "Tu es libre de venir ici à chaque fois que tu le souhaites."
 #~ "pendant un temps limité. Il en garde la composition secrète, et le prix "
 #~ "est très élevé."
 
-#~ msgid ""
-#~ "There was a person selling grenades too. Eh... I forgot his name, my "
-#~ "memory is not serving me very well today. I am sure he can help you out."
-#~ msgstr ""
-#~ "Il y avait une personne qui vendait des grenades aussi. Euh... J'ai "
-#~ "oublié son nom, la mémoire me fait défaut aujourd'hui. Je suis certain "
-#~ "qu'il peut t'aider."
-
 #~ msgid "I know of two types. The 123 and the 139."
 #~ msgstr "Je connais deux modèles. Le 123 et le 139."
-
-#~ msgid ""
-#~ "Because they are neither fast nor dangerous, the Red Guard uses them for "
-#~ "target practice."
-#~ msgstr ""
-#~ "Parce qu'ils sont aussi rapides qu'inoffensifs, la Garde Rouge les "
-#~ "utilise comme cibles d'entraînement."
 
 #~ msgid "Well, those are a bit tricky."
 #~ msgstr "Bien, c'est un peu compliqué."

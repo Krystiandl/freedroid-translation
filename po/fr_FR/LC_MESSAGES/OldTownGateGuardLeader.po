@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:25+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -29,11 +29,14 @@ msgid "Oh, great. Another curious one."
 msgstr "Oh, génial. Encore un autre loufoque."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:46
+#, fuzzy
 msgid ""
 "About a week ago I let in a stranger who also said he was just taking a look "
 "around. I never saw him again. And he wont be getting back in either, that's "
 "for sure."
 msgstr ""
+"Il y a environ une semaine, j'ai laissé entrer un étranger qui disait aussi "
+"qu'il était seulement en train de jeter un oeil. Je ne l'ai jamais revu."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:51
 #, fuzzy
@@ -75,10 +78,13 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:75
+#, fuzzy
 msgid ""
 "On the day he visited all our computers went insane, 20 bags of food rations "
 "vanished from our storage and one of our bots was stolen."
 msgstr ""
+"Le même jour, tous nos ordinateurs sont devenus fous, 20 sacs de rations ont "
+"disparu de notre stock et un de nos robots a été piraté."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:76
 msgid ""
@@ -89,16 +95,19 @@ msgstr ""
 "l'avoir entre les mains pour le tabasser à mort. Lentement."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:86
+#, fuzzy
 msgid "In any case..."
-msgstr ""
+msgstr " Ça s'appelle..."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:94
+#, fuzzy
 msgid "Yes. I understand."
-msgstr ""
+msgstr "Je pense que je vais y aller."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:96
+#, fuzzy
 msgid "State your name Linarian."
-msgstr ""
+msgstr "Prend garde, Linarien."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:98
 msgid "You may now enter "
@@ -109,8 +118,9 @@ msgid "No. Not at all. Your mother dresses you funny."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:107
+#, fuzzy
 msgid "What did you say you oversized duck?"
-msgstr ""
+msgstr "Dis tes prières, espèce de canard obèse !!!"
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:115
 msgid "Let me get back to you on that one."
@@ -143,16 +153,19 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:127
+#, fuzzy
 msgid "Tell me your name, and then you may pass."
 msgstr ""
+" Pouvez-vous m'en dire plus à propos de la ville que vous avez mentionnée ?"
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:128
 msgid "My name is "
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:129
+#, fuzzy
 msgid "You may enter."
-msgstr ""
+msgstr "Tu es... un monstre..."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:139
 msgid "I said: YOUR MOTHER DRESSES YOU FUNNY."
@@ -167,12 +180,14 @@ msgid "I said: THIS PLACE LOOKS CLASSY."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:151
+#, fuzzy
 msgid "Sure you said that."
-msgstr ""
+msgstr "À plus tard."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:156
+#, fuzzy
 msgid "Please don't hurt me."
-msgstr ""
+msgstr " S'il te plaît, oublie moi !"
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:158
 msgid ""
@@ -198,8 +213,9 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:177
+#, fuzzy
 msgid "I want to talk to your manager, moron."
-msgstr ""
+msgstr " Je dois parler à ton maître."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:179
 msgid ""
@@ -215,8 +231,9 @@ msgid "Now stop bothering me! You crazy loon."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:193
+#, fuzzy
 msgid "That is exactly what I said."
-msgstr ""
+msgstr " C'est tout ce que je veux savoir."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:195
 msgid "You are as out of your mind as that Sorenson lady."
@@ -228,12 +245,14 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:197
+#, fuzzy
 msgid "I'm a Linarian, not a loon. "
-msgstr ""
+msgstr "Nous tous, Linarien, nous tous."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:198
+#, fuzzy
 msgid "Get out of here "
-msgstr ""
+msgstr "Dégage de là !"
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:208
 msgid "I'll be going then."
@@ -565,9 +584,6 @@ msgstr "Mhmmm."
 
 #~ msgid "And neither do I."
 #~ msgstr "Et je fais de même."
-
-#~ msgid "See you later."
-#~ msgstr "À plus tard."
 
 #~ msgid "I wish you cold winds."
 #~ msgstr "Je te souhaite des vents froids."
@@ -1556,9 +1572,6 @@ msgstr "Mhmmm."
 #~ msgid "We don't call this place 'hell' for nothing."
 #~ msgstr "Nous n'appelons pas cet endroit 'l'enfer' pour rien."
 
-#~ msgid "Get outta here!"
-#~ msgstr "Dégage de là !"
-
 #~ msgid "I'd like to go through that gate."
 #~ msgstr "J'aimerais passer cette porte."
 
@@ -1725,10 +1738,6 @@ msgstr "Mhmmm."
 #~ msgstr " Que pouvez vous me dire à propos des pilules de force ?"
 
 #, fuzzy
-#~ msgid "I think I understand."
-#~ msgstr "Je pense que je vais y aller."
-
-#, fuzzy
 #~ msgid "What is in those chests?"
 #~ msgstr " Quel est cet endroit ?"
 
@@ -1819,21 +1828,6 @@ msgstr "Mhmmm."
 
 #~ msgid "<?>"
 #~ msgstr "<?>"
-
-#~ msgid ""
-#~ "About a week ago I let in a stranger who also said he was just taking a "
-#~ "look around. I never saw him again."
-#~ msgstr ""
-#~ "Il y a environ une semaine, j'ai laissé entrer un étranger qui disait "
-#~ "aussi qu'il était seulement en train de jeter un oeil. Je ne l'ai jamais "
-#~ "revu."
-
-#~ msgid ""
-#~ "On that day all our computers went insane, 20 bags of food rations "
-#~ "vanished from our storage and one of our bots was stolen."
-#~ msgstr ""
-#~ "Le même jour, tous nos ordinateurs sont devenus fous, 20 sacs de rations "
-#~ "ont disparu de notre stock et un de nos robots a été piraté."
 
 #~ msgid ""
 #~ "Linarian, I will let you in. Do something stupid, and you aren't coming "
@@ -2173,12 +2167,6 @@ msgstr "Mhmmm."
 #~ "Vous avez de la chance que je vous ai trouvé et réveillé. Quelques "
 #~ "décennies de plus et vous auriez subi des lésions cérébrales "
 #~ "irréversibles."
-
-#, fuzzy
-#~ msgid "Tell me more about the town you mentioned."
-#~ msgstr ""
-#~ " Pouvez-vous m'en dire plus à propos de la ville que vous avez "
-#~ "mentionnée ?"
 
 #, fuzzy
 #~ msgid "It is a small mining community of no more than 500 inhabitants..."
@@ -3216,9 +3204,6 @@ msgstr "Mhmmm."
 #, fuzzy
 #~ msgid "I want to leave this place."
 #~ msgstr " Je veux quitter cet endroit."
-
-#~ msgid "We all do, Linarian, we all do."
-#~ msgstr "Nous tous, Linarien, nous tous."
 
 #~ msgid ""
 #~ "The act in question is made impossible by the quasi-infinite bots outside "
@@ -5524,14 +5509,8 @@ msgstr "Mhmmm."
 #~ msgid "Ha ha ha, You fell for it! You get nothing from me! Hahahahah!"
 #~ msgstr " Ha ha ha, j't'ai bien eue ! Tu n'auras rien de moi ! Hahahahah !"
 
-#~ msgid "You... monster..."
-#~ msgstr "Tu es... un monstre..."
-
 #~ msgid "No one makes fun of Lily Stone's family store!"
 #~ msgstr "Personne ne se moque du magasin de la famille Stone !"
-
-#~ msgid "Say your prayers, you oversized duck!!!"
-#~ msgstr "Dis tes prières, espèce de canard obèse !!!"
 
 #~ msgid "HERE WE GO"
 #~ msgstr "HERE WE GO"
@@ -6108,10 +6087,6 @@ msgstr "Mhmmm."
 #~ "Nous ne nous ennuyons pas avec des recherche à ce sujet. Ça marche et ça "
 #~ "nous suffit."
 
-#, fuzzy
-#~ msgid "That is all I want to know."
-#~ msgstr " C'est tout ce que je veux savoir."
-
 #~ msgid "Very well. This conversation never happened."
 #~ msgstr "Très bien. Cette conversation n'a jamais eu lieu."
 
@@ -6362,10 +6337,6 @@ msgstr "Mhmmm."
 #~ msgid "I am not giving it to you, and that won't change."
 #~ msgstr ""
 #~ "Je ne te ferai pas de cadeau, et je ne risque pas de changer d'avis."
-
-#, fuzzy
-#~ msgid "I must talk to your master."
-#~ msgstr " Je dois parler à ton maître."
 
 #~ msgid "STATE YOUR REASON."
 #~ msgstr "EXPOSEZ VOTRE RAISON."
@@ -6882,16 +6853,8 @@ msgstr "Mhmmm."
 #~ "armes."
 
 #, fuzzy
-#~ msgid "Please forgive me!"
-#~ msgstr " S'il te plaît, oublie moi !"
-
-#, fuzzy
 #~ msgid "Too late. I'm watching this great show now."
 #~ msgstr " Trop tard. Je regarde ce magnifique spectacle maintenant."
-
-#, fuzzy
-#~ msgid "It is called..."
-#~ msgstr " Ça s'appelle..."
 
 #, fuzzy
 #~ msgid "Please, disable the guns!"
@@ -8375,9 +8338,6 @@ msgstr "Mhmmm."
 #~ msgstr ""
 #~ "J'étais occupé par l'entretien d'un des noeuds de l'hydre, mais j'ai "
 #~ "envoyé le rapport entier à Spencer. Il t'en dira plus."
-
-#~ msgid "Take care, Linarian."
-#~ msgstr "Prend garde, Linarien."
 
 #, fuzzy
 #~ msgid "How is the business going?"

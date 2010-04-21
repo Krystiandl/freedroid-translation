@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:26+0000\n"
 "PO-Revision-Date: 2008-12-16 05:43+0000\n"
 "Last-Translator: Dmitry Tumaikin <nevly@mail.ru>\n"
 "Language-Team: Russian\n"
@@ -390,8 +390,9 @@ msgid "Next important thing is to remember how to properly fire a shot."
 msgstr "А теперь тебе надо научиться правильно стрелять."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:191
+#, fuzzy
 msgid ""
-"Watch your target closely.  Pretend you're moving with it. Aim for the head."
+"Watch your target closely. Pretend you're moving with it. Aim for the head."
 msgstr ""
 "Внимательно смотрина мишенью Старайся вести прицел за ней. И целься в голову."
 
@@ -410,7 +411,7 @@ msgid "Good. I think that it is enough for today."
 msgstr "Хорошо. Я думаю, что на сегодня хватит."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:198
-msgid "You are not ready.  Go kill some bots and come back."
+msgid "You are not ready. Go kill some bots and come back."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:202

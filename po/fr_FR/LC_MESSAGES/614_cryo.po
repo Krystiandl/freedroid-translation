@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:23+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -22,14 +22,18 @@ msgid "Who are you? "
 msgstr " Qui es-tu ? "
 
 #: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:36
+#, fuzzy
 msgid ""
 "I am a 614 security bot, once one of the best-selling products of Nicholson, "
 "Inc.."
 msgstr ""
+"Je suis un robot de sécurité de type 614, un des produits les plus vendus de "
+"la compagnie Nicholson."
 
 #: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:41
+#, fuzzy
 msgid "What can you tell me about the Nicholson company?"
-msgstr ""
+msgstr " Peux-tu m'apprendre quelque chose à propos de cet endroit ?"
 
 #: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:43
 msgid "Nicholson, Inc. produces security bots."
@@ -147,8 +151,9 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:85
+#, fuzzy
 msgid "Why are you not hostile as are all the other bots?"
-msgstr ""
+msgstr " Pourquoi n'es-tu pas agressif comme tous les autres robots ?"
 
 #: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:87
 msgid ""
@@ -167,15 +172,23 @@ msgstr ""
 "conduit l'attaque des robots, plus connue sous le nom du Grand Assaut."
 
 #: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:89
+#, fuzzy
 msgid ""
 "Even though discontinued from Nicholson, Inc. long ago, today, some people "
 "have picked up the work and are even trying to improve the operating system "
 "running on my series."
 msgstr ""
+"Bien que la compagnie Nicholson en ait stoppé la production depuis "
+"longtemps, aujourd'hui, certaines personnes ont amélioré mon fonctionnement "
+"et essaient également d'améliorer le système d'exploitation utilisé par ma "
+"série."
 
 #: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:90
+#, fuzzy
 msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
 msgstr ""
+"N'oubliez pas d'acheter des produits de la Compagnie Nicholson. Ce sont les "
+"meilleurs."
 
 #: /home/david/src/freedroid-translation/dialogs/614_cryo.dialog:95
 msgid "See you later."
@@ -1100,32 +1113,9 @@ msgstr " Retour au programme de surveillance."
 #~ msgid "Later, man!"
 #~ msgstr "Plus tard, mec !"
 
-#~ msgid ""
-#~ "I am a 614 security bot, once one of the best-selling products of the "
-#~ "Nicholson company."
-#~ msgstr ""
-#~ "Je suis un robot de sécurité de type 614, un des produits les plus vendus "
-#~ "de la compagnie Nicholson."
-
 #, fuzzy
 #~ msgid "Why are you not hostile as all the other bots?"
 #~ msgstr " Pourquoi n'es-tu pas agressif comme tous les autres robots ?"
-
-#~ msgid ""
-#~ "Even though discontinued from Nicholson Company long ago, today, some "
-#~ "people have picked up the work and are even trying to improve the "
-#~ "operating system running on my series."
-#~ msgstr ""
-#~ "Bien que la compagnie Nicholson en ait stoppé la production depuis "
-#~ "longtemps, aujourd'hui, certaines personnes ont amélioré mon "
-#~ "fonctionnement et essaient également d'améliorer le système "
-#~ "d'exploitation utilisé par ma série."
-
-#~ msgid ""
-#~ "Don't forget to buy products from Nicholson Company. They are the best."
-#~ msgstr ""
-#~ "N'oubliez pas d'acheter des produits de la Compagnie Nicholson. Ce sont "
-#~ "les meilleurs."
 
 #, fuzzy
 #~ msgid "Hi! I'm new here."
@@ -2984,10 +2974,6 @@ msgstr " Retour au programme de surveillance."
 #~ msgstr ""
 #~ "Alors je te souhaite la bienvenue. Je suis Chandra, le sage de cette "
 #~ "vieille ville."
-
-#, fuzzy
-#~ msgid "What can you tell me about this place?"
-#~ msgstr " Peux-tu m'apprendre quelque chose à propos de cet endroit ?"
 
 #, fuzzy
 #~ msgid ""
@@ -7074,10 +7060,6 @@ msgstr " Retour au programme de surveillance."
 
 #~ msgid "This has top priority. There are no other priorities."
 #~ msgstr "C'est la priorité la plus élevée. Il n'y a pas d'autre priorité."
-
-#, fuzzy
-#~ msgid "Why are you not hostile, as are all the other bots?"
-#~ msgstr " Pourquoi n'es-tu pas agressif comme tous les autres robots ?"
 
 #, fuzzy
 #~ msgid ""

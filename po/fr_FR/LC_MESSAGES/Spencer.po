@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:25+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -78,8 +78,9 @@ msgid "What about some money instead?"
 msgstr " Et si je te payais ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:76
+#, fuzzy
 msgid "For 15 million circuits, no less, hehe."
-msgstr ""
+msgstr "Pour 15 millions de dollars, pas moins, hé hé"
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:81
 #, fuzzy
@@ -104,10 +105,13 @@ msgstr ""
 "le passé, un héros, je vais encore une fois faire confiance à un inconnu."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:85
+#, fuzzy
 msgid ""
 "I've unlocked the access-way to the warehouse. It's to the north of this "
 "town, somewhat hidden in the woods northeast."
 msgstr ""
+"J'ai déverrouillé la voie d'accès vers le hangar. C'est au nord de la ville, "
+"caché quelque part dans les bois du nord-est."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:86
 msgid ""
@@ -149,10 +153,13 @@ msgstr ""
 "sont partis !"
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:103
+#, fuzzy
 msgid ""
-"Take these 500 circuits as a reward.  And be assured that you've earned my "
+"Take these 500 circuits as a reward. And be assured that you've earned my "
 "deepest respect, Linarian."
 msgstr ""
+"Tiens, prends ces 500 billets en guise de récompense. Crois bien que tu as "
+"mérité mon plus profond respect, Linarien."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:104
 msgid ""
@@ -528,10 +535,13 @@ msgstr ""
 "préparé."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:233
+#, fuzzy
 msgid ""
 "Also there is no need to hurry with this. After all, the installation is not "
 "running away, so it's best to take a cautious approach."
 msgstr ""
+"Par ailleurs, il est inutile de se presser. Après tout, l'installation ne va "
+"pas s'enfuir en courant, donc privilégie une approche lente."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:238
 msgid ""
@@ -4216,31 +4226,6 @@ msgstr "À plus tard."
 #~ msgstr ""
 #~ "Ils ont dit qu'ils s'en étaient déjà servi comme carburant pour leur "
 #~ "réacteur."
-
-#~ msgid "For 15 million bucks, no less, hehe."
-#~ msgstr "Pour 15 millions de dollars, pas moins, hé hé"
-
-#~ msgid ""
-#~ "I've unlocked the accessway to the warehouse. It's to the north of this "
-#~ "town, somewhat hidden in the woods northeast."
-#~ msgstr ""
-#~ "J'ai déverrouillé la voie d'accès vers le hangar. C'est au nord de la "
-#~ "ville, caché quelque part dans les bois du nord-est."
-
-#~ msgid ""
-#~ "Take these 500 bucks as a reward.  And be assured that you've earned my "
-#~ "deepest respect, Linarian."
-#~ msgstr ""
-#~ "Tiens, prends ces 500 billets en guise de récompense. Crois bien que tu "
-#~ "as mérité mon plus profond respect, Linarien."
-
-#, fuzzy
-#~ msgid ""
-#~ "Also there is no need to hurry with this. After all, the installation is "
-#~ "not running away, so it's best take a cautious approach."
-#~ msgstr ""
-#~ "Par ailleurs, il est inutile de se presser. Après tout, l'installation ne "
-#~ "va pas s'enfuir en courant, donc privilégie une approche lente."
 
 #, fuzzy
 #~ msgid "Hi. You look really happy."

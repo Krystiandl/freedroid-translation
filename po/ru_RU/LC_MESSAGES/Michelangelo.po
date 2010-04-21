@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:27+0000\n"
 "PO-Revision-Date: 2008-12-16 05:43+0000\n"
 "Last-Translator: Dmitry Tumaikin <nevly@mail.ru>\n"
 "Language-Team: Russian\n"
@@ -222,7 +222,7 @@ msgid "Here, try this slice of lemon meringue pie."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:146
-msgid "Wait, you don't have a Fork.  You need a fork..."
+msgid "Wait, you don't have a Fork. You need a fork..."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:148
@@ -517,7 +517,7 @@ msgstr ""
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:257
 msgid ""
 "A single small crystal could power my oven for a decade if it is of good "
-"quality.  But unfortunately my oven requires two to operate correctly.  And "
+"quality. But unfortunately my oven requires two to operate correctly. And "
 "since it is so dangerous to send anyone to get dilithium, could you get me a "
 "spare as well?"
 msgstr ""

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:25+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -71,8 +71,9 @@ msgstr ""
 "me prend déjà pas mal de temps."
 
 #: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:66
+#, fuzzy
 msgid "I'd like to buy an exterminator"
-msgstr ""
+msgstr "J'aurai aimé t'avoir avec moi dans la mine."
 
 #: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:68
 msgid "Haha, good one."
@@ -87,8 +88,9 @@ msgid "I'll get one for free?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:71
+#, fuzzy
 msgid "You are the funniest Linarian I've ever seen."
-msgstr ""
+msgstr " Vous êtes le plus bel humain que j'ai jamais vu."
 
 #: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:72
 msgid "If the only one."
@@ -1156,10 +1158,6 @@ msgstr "Au revoir !"
 
 #~ msgid "Don't bore me."
 #~ msgstr "Cesse de m'ennuyer."
-
-#, fuzzy
-#~ msgid "You are the most beautiful human I have ever seen."
-#~ msgstr " Vous êtes le plus bel humain que j'ai jamais vu."
 
 #, fuzzy
 #~ msgid "And you are at least a quarter wrong."
@@ -8333,9 +8331,6 @@ msgstr "Au revoir !"
 #~ msgstr ""
 #~ "D'accord ! Mais ne cause plus de problèmes ! Ou c'est toi qui auras des "
 #~ "problèmes !"
-
-#~ msgid "I'd like to get into the mine."
-#~ msgstr "J'aurai aimé t'avoir avec moi dans la mine."
 
 #~ msgid "I'm here to make an end to your mining business."
 #~ msgstr "Je suis ici pour mettre fin à ton commerce minier."

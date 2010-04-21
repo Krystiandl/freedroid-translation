@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:25+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -251,8 +251,9 @@ msgid "Ok, follow me into the next area then."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:146
+#, fuzzy
 msgid "What is in that chest?"
-msgstr ""
+msgstr " Quel est cet endroit ?"
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:148
 msgid ""
@@ -1076,8 +1077,9 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:454
+#, fuzzy
 msgid "Here is some more ammunition for it"
-msgstr ""
+msgstr "Il n'y a rien de plus là dedans."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:457
 msgid ""
@@ -3173,10 +3175,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "logout"
 #~ msgstr " Déconnecter"
-
-#, fuzzy
-#~ msgid "What is in those chests?"
-#~ msgstr " Quel est cet endroit ?"
 
 #~ msgid "<?>"
 #~ msgstr "<?>"
@@ -8840,9 +8838,6 @@ msgstr ""
 
 #~ msgid "Very simple. He likes destruction, and I am creation."
 #~ msgstr "Très simple. Il aime la destruction, et je suis la création."
-
-#~ msgid "There is nothing more to it."
-#~ msgstr "Il n'y a rien de plus là dedans."
 
 #, fuzzy
 #~ msgid "I will go now."

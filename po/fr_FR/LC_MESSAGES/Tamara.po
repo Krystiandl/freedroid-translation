@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:25+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -17,8 +17,9 @@ msgstr ""
 "X-Poedit-Language: French\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:38
+#, fuzzy
 msgid "What can I help you with."
-msgstr ""
+msgstr " Est ce que je peux vous aider ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:44
 msgid "Hi, I'm Tux."
@@ -107,16 +108,18 @@ msgid "So what interesting books do you have available right now?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:77
+#, fuzzy
 msgid "Some of these might interest you."
-msgstr ""
+msgstr "Sorenson le codeur est ravi de vous rencontrer."
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:77
 msgid "I only have a few programming volumes, feel free to look through them."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:81
+#, fuzzy
 msgid "Thank you for the help."
-msgstr ""
+msgstr " Merci pour ce conseil."
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:83
 msgid "No problem, and remember to return your books in time."
@@ -1602,10 +1605,6 @@ msgstr ""
 #~ msgstr " Déconnecter"
 
 #, fuzzy
-#~ msgid "What can I help you with?"
-#~ msgstr " Est ce que je peux vous aider ?"
-
-#, fuzzy
 #~ msgid "What can you tell me about finding my way in the world?"
 #~ msgstr " Que pouvez vous me dire à propos des pilules de force ?"
 
@@ -2774,9 +2773,6 @@ msgstr ""
 
 #~ msgid "Apology is being extended by me. Sorenson overdid it."
 #~ msgstr "L'apologie s'est étendue à moi. Sorenson l'a surpassée."
-
-#~ msgid "Sorenson the coder greets you."
-#~ msgstr "Sorenson le codeur est ravi de vous rencontrer."
 
 #, fuzzy
 #~ msgid "Why are you like this? What happened to you?"
@@ -6827,10 +6823,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "Erm... hi!"
 #~ msgstr " Erm..."
-
-#, fuzzy
-#~ msgid "Hi. Thanks for the help."
-#~ msgstr " Merci pour ce conseil."
 
 #, fuzzy
 #~ msgid "Will you let me inside the base?"

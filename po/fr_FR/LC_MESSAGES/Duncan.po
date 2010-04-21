@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:24+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -218,8 +218,9 @@ msgid "What are those bots?"
 msgstr " Qu'est-ce que sont ces robots ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:152
+#, fuzzy
 msgid "We call them 'Harvester'."
-msgstr ""
+msgstr "Nous les appelons 'Scimouleur'."
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:153
 msgid "They were designed to chop down trees in the mountains."
@@ -239,12 +240,14 @@ msgstr ""
 "personne n'est parvenu à rester assez longtemps pour le hacker."
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:160
+#, fuzzy
 msgid "What is it that he took from you?"
-msgstr ""
+msgstr " Quelle est cette chose qu'il t'a dérobée ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:162
+#, fuzzy
 msgid "A cube. Trust me, you can't miss it."
-msgstr ""
+msgstr "Un cube. Tu ne peux pas le manquer. Fais moi confiance."
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:167
 #, fuzzy
@@ -262,8 +265,9 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:171
+#, fuzzy
 msgid "Good luck!"
-msgstr ""
+msgstr "Bon travail."
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:178
 #, fuzzy
@@ -312,8 +316,9 @@ msgstr ""
 "prendre garde pendant tout le chemin ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:213
+#, fuzzy
 msgid "Just a memento from a friend."
-msgstr ""
+msgstr "Seulement un souvenir après un ami."
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:214
 msgid ""
@@ -328,21 +333,29 @@ msgid "Nothing that important."
 msgstr "Rien de très important."
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:220
+#, fuzzy
 msgid ""
 "A 'few' bots? The place was crawling with Harvesters! I nearly got killed!"
 msgstr ""
+" 'Quelques' robots ? C'était plein de scimouleurs ! J'ai failli être tué !"
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:222
+#, fuzzy
 msgid ""
 "There were only one hundred and twenty bots in the entire desert region. "
 "This hardly qualifies as many, considering the size of the area."
 msgstr ""
+"Il y avait seulement quarante robots dans le désert. Ça peut difficilement "
+"être qualifié de 'un grand nombre'."
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:223
+#, fuzzy
 msgid ""
 "What? You know exactly how many bots were in the desert? Without being "
 "there? I don't like this."
 msgstr ""
+" Quoi ? Tu sais exactement combien il y avait de robots dans le désert ? "
+"Sans y avoir été ? Je n'aime pas ça."
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:224
 msgid "I just know a lot of things. You do not need to worry about it."
@@ -400,8 +413,9 @@ msgid "But then again, neither are you, so my thoughts are we are even."
 msgstr "Mais là encore, nous sommes semblables par la pensée."
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:264
+#, fuzzy
 msgid "What do you mean? I am "
-msgstr ""
+msgstr "Qu'est-ce que tu veux?"
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:265
 msgid "And I am Duncan McNamara, the maker of grenades and nothing else."
@@ -846,30 +860,6 @@ msgstr "Puisse la glace t'apporter la sagesse."
 
 #~ msgid "Good. I need sleep."
 #~ msgstr "Bien. J'ai besoin de dormir."
-
-#~ msgid "Just a memento after a friend."
-#~ msgstr "Seulement un souvenir après un ami."
-
-#, fuzzy
-#~ msgid ""
-#~ "A 'few' bots? The place was crawling with Sawmills! I nearly got killed!"
-#~ msgstr ""
-#~ " 'Quelques' robots ? C'était plein de scimouleurs ! J'ai failli être tué !"
-
-#~ msgid ""
-#~ "There were only fourty bots in the desert region. This hardly qualifies "
-#~ "as many."
-#~ msgstr ""
-#~ "Il y avait seulement quarante robots dans le désert. Ça peut "
-#~ "difficilement être qualifié de 'un grand nombre'."
-
-#, fuzzy
-#~ msgid ""
-#~ "What? You know exactly how many bots were on the desert? Without being "
-#~ "there? I don't like this."
-#~ msgstr ""
-#~ " Quoi ? Tu sais exactement combien il y avait de robots dans le désert ? "
-#~ "Sans y avoir été ? Je n'aime pas ça."
 
 #, fuzzy
 #~ msgid "Hello! I'm new here."
@@ -4223,10 +4213,6 @@ msgstr "Puisse la glace t'apporter la sagesse."
 #~ "va pas s'enfuir en courant, donc privilégie une approche lente."
 
 #, fuzzy
-#~ msgid "Good luck."
-#~ msgstr "Bon travail."
-
-#, fuzzy
 #~ msgid "Hi. You look really happy."
 #~ msgstr " Bonjour. Tu sembles vraiment très joyeux."
 
@@ -5543,16 +5529,6 @@ msgstr "Puisse la glace t'apporter la sagesse."
 
 #~ msgid "HERE WE GO"
 #~ msgstr "HERE WE GO"
-
-#~ msgid "We call them 'Sawmill'."
-#~ msgstr "Nous les appelons 'Scimouleur'."
-
-#, fuzzy
-#~ msgid "What is that thing he took from you?"
-#~ msgstr " Quelle est cette chose qu'il t'a dérobée ?"
-
-#~ msgid "A cube. You can't miss it. Trust me."
-#~ msgstr "Un cube. Tu ne peux pas le manquer. Fais moi confiance."
 
 #, fuzzy
 #~ msgid "Hello!"
@@ -7883,9 +7859,6 @@ msgstr "Puisse la glace t'apporter la sagesse."
 #~ msgstr ""
 #~ "Je t'ai déjà récompensé pour ça. Ne me fais pas perdre mon temps, je suis "
 #~ "occupé."
-
-#~ msgid "What do you want?"
-#~ msgstr "Qu'est-ce que tu veux?"
 
 #~ msgid ""
 #~ "Yes, since the energy supply has been constant, results were much better. "

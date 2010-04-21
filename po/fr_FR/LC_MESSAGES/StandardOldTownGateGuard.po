@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:25+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -40,10 +40,13 @@ msgstr ""
 "Spencer, ils peuvent t'en dire beaucoup à propos de la situation actuelle."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardOldTownGateGuard.dialog:45
+#, fuzzy
 msgid ""
 "The city is presently ruled by the Red Guard. We are the police and the "
 "soldiers here."
 msgstr ""
+"La ville est actuellement dirigée par la Garde Rouge. Nous sommes à la fois "
+"la police et l'armée ici. "
 
 #: /home/david/src/freedroid-translation/dialogs/StandardOldTownGateGuard.dialog:46
 msgid "There is only one law concerning outsiders here: Don't be stupid."
@@ -1212,13 +1215,6 @@ msgstr "Au revoir."
 #, fuzzy
 #~ msgid "See you later! "
 #~ msgstr " A plus tard! "
-
-#~ msgid ""
-#~ "The city is presently ruled by the Red Guard. We are the police and the "
-#~ "soldiers here. "
-#~ msgstr ""
-#~ "La ville est actuellement dirigée par la Garde Rouge. Nous sommes à la "
-#~ "fois la police et l'armée ici. "
 
 #, fuzzy
 #~ msgid "Give me the novice arena."

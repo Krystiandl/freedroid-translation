@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroid\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:26+0000\n"
 "PO-Revision-Date: 2008-10-28 08:03+0000\n"
 "Last-Translator: Christian Widell <Christian_widell@hotmail.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
@@ -107,7 +107,7 @@ msgid "script V 1.0.5 (c) gnu.org, 2054"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:84
-msgid "Movement unit: Power-up...  [Done]."
+msgid "Movement unit: Power-up... [Done]."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:85
@@ -127,16 +127,18 @@ msgid "Are you really sure you want to destroy this robot? Y/N"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:102
+#, fuzzy
 msgid "Yes"
-msgstr ""
+msgstr "Ja."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:104
 msgid "Destruction confirmed."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:110
+#, fuzzy
 msgid "No"
-msgstr ""
+msgstr "Nej."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:112
 msgid "Destrucion averted."
@@ -256,9 +258,6 @@ msgstr ""
 
 #~ msgid "Shitty. Now leave me alone."
 #~ msgstr "Dåligt. Låt mig vara!"
-
-#~ msgid "No."
-#~ msgstr "Nej."
 
 #~ msgid "Nothing. Quit asking questions."
 #~ msgstr "Ingenting. Sluta fråga!"
@@ -710,9 +709,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Nu säljer jag delarna som jag tar bort från bottarna för att köpa mer "
 #~ "ammunition och mat."
-
-#~ msgid "Yes."
-#~ msgstr "Ja."
 
 #~ msgid "I will sell the information for a lot of cybergeld."
 #~ msgstr "I kan sälja den informationen för en del cybergeld."

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:24+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/c-net_sub_nethack.dialog:60
 msgid ""
-"Shall I pick a character's race, role, gender and alignment for you? [yn]"
+"Shall I pick a character's race, role, gender and alignment for you? [y/n]"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/c-net_sub_nethack.dialog:61
@@ -101,8 +101,9 @@ msgid "GENDER SELECTION"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/c-net_sub_nethack.dialog:265
+#, fuzzy
 msgid "START GAME"
-msgstr ""
+msgstr "START HERE"
 
 #: /home/david/src/freedroid-translation/dialogs/c-net_sub_nethack.dialog:302
 msgid "Hello, welcome to NetHack! You are a "
@@ -117,8 +118,9 @@ msgid "Return with the Amulet of Yendor, and you shall be rewarded!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/c-net_sub_nethack.dialog:305
+#, fuzzy
 msgid "You are all alone on the surface. There is a stairway down."
-msgstr ""
+msgstr "Oui, tu peux atteindre la surface. Mais les pistolets y sont encore."
 
 #: /home/david/src/freedroid-translation/dialogs/c-net_sub_nethack.dialog:312
 msgid "At a new level"
@@ -150,8 +152,9 @@ msgid "Xyzzy"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/c-net_sub_nethack.dialog:508
+#, fuzzy
 msgid "Nothing happens."
-msgstr ""
+msgstr "Rien de très important."
 
 #: /home/david/src/freedroid-translation/dialogs/c-net_sub_nethack.dialog:538
 msgid "Calculate Damage"
@@ -783,9 +786,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Un peu plus qu'un portable à la fin du monde, lequel je recherche pour le "
 #~ "démonter et apprendre ses secrets."
-
-#~ msgid "Nothing that important."
-#~ msgstr "Rien de très important."
 
 #, fuzzy
 #~ msgid ""
@@ -2611,10 +2611,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Oh mon dieu ! J'ai dit à Peter qu'il a choisi la mauvaise place, mais il "
 #~ "était tellement borné !"
-
-#~ msgid "Yes, you can get to the surface. But the guns are still on."
-#~ msgstr ""
-#~ "Oui, tu peux atteindre la surface. Mais les pistolets y sont encore."
 
 #, fuzzy
 #~ msgid "All hope is lost! I'm a scientist, not a warrior."
@@ -8960,9 +8956,6 @@ msgstr ""
 
 #~ msgid "MASTER MIGHT BE FOR YOU"
 #~ msgstr "MASTER MIGHT BE FOR YOU"
-
-#~ msgid "START HERE"
-#~ msgstr "START HERE"
 
 #~ msgid "KOAN QUEST"
 #~ msgstr "KOAN QUEST"

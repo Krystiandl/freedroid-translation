@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:24+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -22,21 +22,23 @@ msgid "Hello!"
 msgstr " Bonjour !"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:56
+#, fuzzy
 msgid ""
 "Hello. I'm Doc Moore. I'm the medic of this town. I don't believe we've met?"
-msgstr ""
+msgstr "Bonjour. Je suis le docteur Moore. Je suis le médecin de cette ville."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:57
 msgid "I'm "
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:58
-msgid "Um, what are you?  Some kind of overgrown penguin?"
+msgid "Um, what are you? Some kind of overgrown penguin?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:59
+#, fuzzy
 msgid "I'm a Linarian."
-msgstr ""
+msgstr "Prend garde, Linarien."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:60
 msgid ""
@@ -49,16 +51,19 @@ msgid "I should be able to heal you if you get hurt."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:70
+#, fuzzy
 msgid "Do you also sell medical equipment?"
-msgstr ""
+msgstr " Vendez vous de l'équipement médical ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:72
+#, fuzzy
 msgid "Yes. Here is what I can offer today."
-msgstr ""
+msgstr "Bien sûr. Voici ce que j'ai à votre disposition en ce moment."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:78
+#, fuzzy
 msgid "May I buy some medical equipment?"
-msgstr ""
+msgstr " Vendez vous de l'équipement médical ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:80
 msgid "Sure. Here is what I can offer today."
@@ -75,10 +80,13 @@ msgid "Sorry, but I already gave you some medical help."
 msgstr "Désolé, mais je t'ai déjà administré une aide médicale."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:89
+#, fuzzy
 msgid ""
 "To poison yourself, 1 more time, that's entirely your own business and I'm "
 "not responsible."
 msgstr ""
+"Si tu t'empoisonnes toi-même, c'est ton affaire exclusivement et je n'en "
+"suis pas responsable."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:90
 msgid ""
@@ -183,8 +191,9 @@ msgid "Well, you see that idiotic Bender character on my doorstep?"
 msgstr "Tu vois cet idiot de Bender, là, à mon seuil ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:133
+#, fuzzy
 msgid "What can you tell me about Bender?"
-msgstr ""
+msgstr " Que pouvez vous me dire à propos des gardes ici ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:134
 msgid ""
@@ -231,8 +240,9 @@ msgid "No! Over my dead body."
 msgstr "Non ! Tu devras me passer sur le corps."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:157
+#, fuzzy
 msgid "Your wish is my command!"
-msgstr ""
+msgstr " Tu vas faire ce que je te dis."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:159
 msgid "Huh? What?"
@@ -300,30 +310,37 @@ msgid "I am not giving it to you, and that won't change."
 msgstr "Je ne te ferai pas de cadeau, et je ne risque pas de changer d'avis."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:194
+#, fuzzy
 msgid "What can you tell me about Strength Pills?"
-msgstr ""
+msgstr " Que pouvez vous me dire à propos des pilules de force ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:201
+#, fuzzy
 msgid "What can you tell me about Dexterity Pills?"
-msgstr ""
+msgstr " Que pouvez vous me dire à propos des pilules de force ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:208
+#, fuzzy
 msgid "What can you tell me about Code Pills?"
-msgstr ""
+msgstr " Que pouvez vous me dire à propos des pilules de force ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:215
 msgid "THIS WILL NEVER BE VISIBLE"
 msgstr "THIS WILL NEVER BE VISIBLE"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:218
+#, fuzzy
 msgid ""
 "Those pills are only one variant of a fantastic scientific breakthrough that "
 "happened shortly before the Great Assault."
 msgstr ""
+"Les pilules de force ne sont qu'une variante d'une découverte scientifique "
+"révolutionnaire survenue peu avant le Grand Assaut."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:219
+#, fuzzy
 msgid ""
-"Three kinds of enhancement pills were developed.  One for strength, one for "
+"Three kinds of enhancement pills were developed. One for strength, one for "
 "dexterity and one for programming abilities."
 msgstr ""
 "Trois super-pilules différentes furent développées. Une pour la force, une "
@@ -364,8 +381,9 @@ msgstr ""
 "secondaire !"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:228
+#, fuzzy
 msgid "What can you tell me about Brain Pills?"
-msgstr ""
+msgstr " Que pouvez vous me dire à propos des pilules de force ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:231
 msgid "I already warned you about those!"
@@ -378,8 +396,9 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:238
+#, fuzzy
 msgid "What can you tell me about Diet supplements?"
-msgstr ""
+msgstr " Peux-tu m'apprendre quelque chose à propos de cet endroit ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:240
 msgid ""
@@ -414,8 +433,9 @@ msgid "After taking one your health should improve slightly."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:254
+#, fuzzy
 msgid "What can you tell me about Antibiotics?"
-msgstr ""
+msgstr " Peux-tu m'apprendre quelque chose à propos de cet endroit ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:256
 msgid "Basically it is bottled up poison made by bacteria."
@@ -427,7 +447,7 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:258
 msgid ""
-"Yep. It kills the bacteria that want to kill you.  It improves your health "
+"Yep. It kills the bacteria that want to kill you. It improves your health "
 "significantly."
 msgstr ""
 
@@ -3320,10 +3340,6 @@ msgstr "À plus tard."
 #~ "vieille ville."
 
 #, fuzzy
-#~ msgid "What can you tell me about this place?"
-#~ msgstr " Peux-tu m'apprendre quelque chose à propos de cet endroit ?"
-
-#, fuzzy
 #~ msgid ""
 #~ "This small town has existed since before the Great Assault. It used to be "
 #~ "a somewhat successful mining community."
@@ -5544,10 +5560,6 @@ msgstr "À plus tard."
 #~ msgstr "Naturellement, c'est pour notre bien."
 
 #, fuzzy
-#~ msgid "What can you tell me about the guards here?"
-#~ msgstr " Que pouvez vous me dire à propos des gardes ici ?"
-
-#, fuzzy
 #~ msgid "Ah, the Red Guard."
 #~ msgstr "Ah, la Garde Rouge. "
 
@@ -6374,32 +6386,6 @@ msgstr "À plus tard."
 #~ msgid "See you later!"
 #~ msgstr "Au revoir !"
 
-#~ msgid "Hello. I'm Doc Moore. I'm the medic of this town."
-#~ msgstr ""
-#~ "Bonjour. Je suis le docteur Moore. Je suis le médecin de cette ville."
-
-#, fuzzy
-#~ msgid "Do you also trade in medical equipment?"
-#~ msgstr " Vendez vous de l'équipement médical ?"
-
-#, fuzzy
-#~ msgid "What can you tell me about strength pills?"
-#~ msgstr " Que pouvez vous me dire à propos des pilules de force ?"
-
-#~ msgid ""
-#~ "Strength pills are only one variant of a fantastic scientific "
-#~ "breakthrough that happened shortly before the Great Assault."
-#~ msgstr ""
-#~ "Les pilules de force ne sont qu'une variante d'une découverte "
-#~ "scientifique révolutionnaire survenue peu avant le Grand Assaut."
-
-#~ msgid ""
-#~ "If you poison yourself, that's entirely your business and I'm not "
-#~ "responsible."
-#~ msgstr ""
-#~ "Si tu t'empoisonnes toi-même, c'est ton affaire exclusivement et je n'en "
-#~ "suis pas responsable."
-
 #~ msgid ""
 #~ "He took these stupid brain enlargement pills. So no problem, he came to "
 #~ "me to fix him. But guess what?"
@@ -6416,10 +6402,6 @@ msgstr "À plus tard."
 #~ "Il en a pris de nouveau alors que je le lui avais fortement déconseillé. "
 #~ "Et maintenant il croit qu'il peut vider mes réserves d'antidote ? Il "
 #~ "rêve..."
-
-#, fuzzy
-#~ msgid "Your wish is my command."
-#~ msgstr " Tu vas faire ce que je te dis."
 
 #~ msgid " . . . "
 #~ msgstr " . . . "
@@ -8436,9 +8418,6 @@ msgstr "À plus tard."
 #~ msgstr ""
 #~ "J'étais occupé par l'entretien d'un des noeuds de l'hydre, mais j'ai "
 #~ "envoyé le rapport entier à Spencer. Il t'en dira plus."
-
-#~ msgid "Take care, Linarian."
-#~ msgstr "Prend garde, Linarien."
 
 #, fuzzy
 #~ msgid "How is the business going?"

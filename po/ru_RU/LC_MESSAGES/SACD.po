@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:27+0000\n"
 "PO-Revision-Date: 2008-12-16 05:43+0000\n"
 "Last-Translator: Dmitry Tumaikin <nevly@mail.ru>\n"
 "Language-Team: Russian\n"
@@ -23,9 +23,8 @@ msgid "admin"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:35
-#, fuzzy
-msgid "  Password : "
-msgstr " ¬ведите новый пароль еще раз: "
+msgid " Password : "
+msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:36
 msgid "*******"
@@ -5966,6 +5965,9 @@ msgstr ""
 
 #~ msgid " Changing password for admin. Enter new password: "
 #~ msgstr " —оздание парол€ дл€ пользовател€ admin. ¬ведите новый пароль: "
+
+#~ msgid " Enter new password again: "
+#~ msgstr " ¬ведите новый пароль еще раз: "
 
 #~ msgid " Password successfully changed."
 #~ msgstr " ѕароль успешно изменен."

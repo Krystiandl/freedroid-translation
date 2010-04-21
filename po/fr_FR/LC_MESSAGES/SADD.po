@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:25+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -289,10 +289,13 @@ msgstr ""
 "petit être organique !"
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:154
+#, fuzzy
 msgid ""
 "I suggest a deal. You let me out, I bring you dilithium crystals. It will "
 "save both of us."
 msgstr ""
+" Je suggère un marché. Tu le laisse sortir, je t'apporte les cristaux de "
+"dilithium. Ça nous sauvera tous les deux."
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:156
 #, fuzzy
@@ -509,7 +512,7 @@ msgstr ""
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:283
 #, fuzzy
 msgid ""
-"Nice try, though.  I may owe you, but I can't let you in.  You must leave."
+"Nice try, though. I may owe you, but I can't let you in. You must leave."
 msgstr ""
 " Bien tenté. J'au une dette envers toi, mais je ne peux pas faire ça. Tu "
 "dois partir."
@@ -6839,14 +6842,6 @@ msgstr " Exactement."
 
 #~ msgid "GOODBYE."
 #~ msgstr "AU REVOIR."
-
-#, fuzzy
-#~ msgid ""
-#~ "I suggest a deal. You let me out, I bring you dilithium cristals. It will "
-#~ "save both of us."
-#~ msgstr ""
-#~ " Je suggère un marché. Tu le laisse sortir, je t'apporte les cristaux de "
-#~ "dilithium. Ça nous sauvera tous les deux."
 
 #~ msgid "Yeah, what do you want newbie?"
 #~ msgstr "Ouais, qu'est ce que tu veux, débutant ?"

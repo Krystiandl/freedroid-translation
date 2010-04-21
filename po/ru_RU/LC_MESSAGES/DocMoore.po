@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:26+0000\n"
 "PO-Revision-Date: 2008-12-16 05:43+0000\n"
 "Last-Translator: Dmitry Tumaikin <nevly@mail.ru>\n"
 "Language-Team: Russian\n"
@@ -29,7 +29,7 @@ msgid "I'm "
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:58
-msgid "Um, what are you?  Some kind of overgrown penguin?"
+msgid "Um, what are you? Some kind of overgrown penguin?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:59
@@ -306,8 +306,9 @@ msgstr ""
 "произошли незадолго перед Великим Штурмом."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:219
+#, fuzzy
 msgid ""
-"Three kinds of enhancement pills were developed.  One for strength, one for "
+"Three kinds of enhancement pills were developed. One for strength, one for "
 "dexterity and one for programming abilities."
 msgstr ""
 "Было разработано три вида стимуляторов постоянного действия. Один для силы, "
@@ -412,7 +413,7 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:258
 msgid ""
-"Yep. It kills the bacteria that want to kill you.  It improves your health "
+"Yep. It kills the bacteria that want to kill you. It improves your health "
 "significantly."
 msgstr ""
 

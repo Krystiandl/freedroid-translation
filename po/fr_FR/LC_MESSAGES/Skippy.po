@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:25+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -57,17 +57,21 @@ msgid "They only cost 50. Special price only for you!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:62
+#, fuzzy
 msgid "How do I activate a mapping device?"
-msgstr ""
+msgstr " Comment activer un tel appareil ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:64
 msgid "Oh, that's so simple. No need to activate anything at all."
 msgstr "Oh, mais c'est très simple. Pas besoin d'activer quoi que ce soit."
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:65
+#, fuzzy
 msgid ""
 "Just swallow the pill and the nanotechnological bots will enter your body."
 msgstr ""
+"Mets le juste sur ta tête, et les robots nano-technologiques pénétreront "
+"dans ton organisme."
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:66
 msgid ""
@@ -78,8 +82,11 @@ msgstr ""
 "par le biais de tes nerfs optiques. Pas mal, hein ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:67
+#, fuzzy
 msgid "Everything within 50 meters of you will be displayed on your retinas."
 msgstr ""
+"Tous les éléments se trouvant à moins de 7 mètres de toi seront affichés sur "
+"tes rétines."
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:72
 #, fuzzy
@@ -180,12 +187,14 @@ msgid "Resources are a bit scarce nowdays though."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:118
+#, fuzzy
 msgid "Ok, I'll take one."
-msgstr ""
+msgstr " D'accord, je les désactiverai."
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:121
+#, fuzzy
 msgid "Here is your pill."
-msgstr ""
+msgstr "Va ici."
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:122
 msgid "Just swallow it, and it should work."
@@ -198,16 +207,18 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:125
+#, fuzzy
 msgid "Swallow pill and Press tab to see automap."
-msgstr ""
+msgstr "(Appuie sur TAB pour afficher la carte automatique)"
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:127
 msgid "Hey, I'm not a bank!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:128
+#, fuzzy
 msgid "Come back when you can afford it."
-msgstr ""
+msgstr "Reviens avec de l'argent."
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:135
 msgid "Nah, dont think so. "
@@ -222,8 +233,9 @@ msgid "Hope you won't get lost and killed out there."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:139
+#, fuzzy
 msgid "But don't count on it."
-msgstr ""
+msgstr " Je ne te fais pas confiance."
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:144
 #, fuzzy
@@ -4359,9 +4371,6 @@ msgstr ""
 #~ msgid "Long Island iced water please."
 #~ msgstr " Une eau glacée de Long Island, je te prie."
 
-#~ msgid "Here you go."
-#~ msgstr "Va ici."
-
 #, fuzzy
 #~ msgid "I want something cheap... Give me some fortified water."
 #~ msgstr ""
@@ -5898,10 +5907,6 @@ msgstr ""
 #~ "munitions lors de l'entraînement et pour mon horaire. Disons... Cent "
 #~ "triangles devraient être suffisants."
 
-#, fuzzy
-#~ msgid "Come back when you have both."
-#~ msgstr "Reviens avec de l'argent."
-
 #~ msgid ""
 #~ "You don't have enough money! I cannot afford to just give away training "
 #~ "for free."
@@ -6958,10 +6963,6 @@ msgstr ""
 #~ msgstr " S'il te plaît, désactive les armes !"
 
 #, fuzzy
-#~ msgid "Ok, I'll disable them."
-#~ msgstr " D'accord, je les désactiverai."
-
-#, fuzzy
 #~ msgid "I just need to make some preparations. You will have to wait..."
 #~ msgstr ""
 #~ " J'ai seulement besoin de quelques préparatifs. Vous devez attendre..."
@@ -7686,25 +7687,6 @@ msgstr ""
 
 #~ msgid "Sure! I've got one that will perfectly fit your head."
 #~ msgstr "Bien sûr ! J'en ai un qui sera parfait pour toi."
-
-#, fuzzy
-#~ msgid "How do I activate such a device?"
-#~ msgstr " Comment activer un tel appareil ?"
-
-#~ msgid ""
-#~ "Just put that thing on your head, and the nanotechnological bots will "
-#~ "enter your body."
-#~ msgstr ""
-#~ "Mets le juste sur ta tête, et les robots nano-technologiques pénétreront "
-#~ "dans ton organisme."
-
-#~ msgid "Everything within 7 meters of you will be displayed on your retinas."
-#~ msgstr ""
-#~ "Tous les éléments se trouvant à moins de 7 mètres de toi seront affichés "
-#~ "sur tes rétines."
-
-#~ msgid "(Just press tab to see the automap.)"
-#~ msgstr "(Appuie sur TAB pour afficher la carte automatique)"
 
 #~ msgid "You don't say. I'm not living here either. I'm just on vacation."
 #~ msgstr "Et ? Moi aussi je ne suis pas d'ici. Je suis un simple touriste."

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroid\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:26+0000\n"
 "PO-Revision-Date: 2008-10-28 08:03+0000\n"
 "Last-Translator: Christian Widell <Christian_widell@hotmail.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
@@ -206,7 +206,7 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:163
 msgid ""
-"If you are really board, you can try gambling with me.  But the Red Guard "
+"If you are really board, you can try gambling with me. But the Red Guard "
 "taxes it."
 msgstr ""
 
@@ -219,7 +219,7 @@ msgid "Here, have a watery mary."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:176
-msgid "Sure, I'll gamble with you.  What do you play?"
+msgid "Sure, I'll gamble with you. What do you play?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:179
@@ -309,8 +309,9 @@ msgid "How about a bet of 10 circuits"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:261
+#, fuzzy
 msgid "Name your game."
-msgstr ""
+msgstr "Vi ses senare."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:282
 msgid "Dice it is. Roll your first die."
@@ -359,7 +360,7 @@ msgid "Coin flipping it is."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:348
-msgid "So.  What do you think?  Heads or tails?"
+msgid "So. What do you think? Heads or tails?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:355
@@ -453,8 +454,9 @@ msgstr ""
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:446
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:452
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:459
+#, fuzzy
 msgid "Heads."
-msgstr ""
+msgstr "Ja."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:454
 msgid "Last flip. I hope it is the one I want!"
@@ -1054,9 +1056,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Nu säljer jag delarna som jag tar bort från bottarna för att köpa mer "
 #~ "ammunition och mat."
-
-#~ msgid "Yes."
-#~ msgstr "Ja."
 
 #~ msgid "I will sell the information for a lot of cybergeld."
 #~ msgstr "I kan sälja den informationen för en del cybergeld."

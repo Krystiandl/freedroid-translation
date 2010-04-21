@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:24+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -55,10 +55,13 @@ msgstr ""
 "et j'ai été obligé d'augmenter les prix."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:58
+#, fuzzy
 msgid ""
 "No one wants to pay 499 circs for bottom shelf swill that even Bender would "
 "not drink..."
 msgstr ""
+"Personne ne veut payer 499 triangles la rinçre de l'étagère du bas, que même "
+"Bender ne boirait pas."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:59
 msgid ""
@@ -243,7 +246,7 @@ msgstr "Marrant, si tu me demandes."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:163
 msgid ""
-"If you are really board, you can try gambling with me.  But the Red Guard "
+"If you are really board, you can try gambling with me. But the Red Guard "
 "taxes it."
 msgstr ""
 
@@ -256,7 +259,7 @@ msgid "Here, have a watery mary."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:176
-msgid "Sure, I'll gamble with you.  What do you play?"
+msgid "Sure, I'll gamble with you. What do you play?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:179
@@ -264,8 +267,9 @@ msgid "I play a dice game and a coin-flipping game."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:191
+#, fuzzy
 msgid "You should come back when you have more to gamble with."
-msgstr ""
+msgstr "Ne reviens jamais. Je te déteste."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:197
 msgid "Tell me the rules for your 'dice game'."
@@ -338,16 +342,18 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:223
+#, fuzzy
 msgid "But if you are only partially wrong... well, then you get nothing."
-msgstr ""
+msgstr "Mais si tu veux vraiment y aller, la porte est ouverte."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:235
 msgid "How about a bet of 10 circuits"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:261
+#, fuzzy
 msgid "Name your game."
-msgstr ""
+msgstr "Bon courage."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:282
 msgid "Dice it is. Roll your first die."
@@ -360,8 +366,9 @@ msgid "I rolled a "
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:285
+#, fuzzy
 msgid "What multiplier are you going to bet?"
-msgstr ""
+msgstr " Que faites-vous ici ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:310
 msgid "You've bet "
@@ -384,19 +391,21 @@ msgid "It looks like I scored "
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:325
+#, fuzzy
 msgid "You won! Good job."
-msgstr ""
+msgstr "Bon travail."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:336
+#, fuzzy
 msgid "You lost. Bad luck."
-msgstr ""
+msgstr "Bon travail."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:347
 msgid "Coin flipping it is."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:348
-msgid "So.  What do you think?  Heads or tails?"
+msgid "So. What do you think? Heads or tails?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:355
@@ -408,8 +417,9 @@ msgid "Tails? Fits, since you've got one."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:371
+#, fuzzy
 msgid "Here goes nothing."
-msgstr ""
+msgstr "Il n'y a rien de plus là dedans."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:374
 msgid "Looks like it is 'tails'."
@@ -490,8 +500,9 @@ msgstr ""
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:446
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:452
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:459
+#, fuzzy
 msgid "Heads."
-msgstr ""
+msgstr "Oui."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:454
 msgid "Last flip. I hope it is the one I want!"
@@ -530,8 +541,9 @@ msgid "Looks like another winning combination! Good job!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:502
+#, fuzzy
 msgid "Looks like you got everything wrong."
-msgstr ""
+msgstr "Je vais tout te dire."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:505
 msgid "Looks like you got everything wrong... here is some of your bet back."
@@ -1097,9 +1109,6 @@ msgstr "Au revoir et souviens toi : Mon bar est toujours ouvert."
 #~ msgstr ""
 #~ "Non ! S'il te plaît... Je ferai n'importe quoi, n'appelles pas la Garde "
 #~ "Rouge ! Ils n'aiment pas les déserteurs. Ils ne m'aiment pas. "
-
-#~ msgid "I will tell you everything."
-#~ msgstr "Je vais tout te dire."
 
 #, fuzzy
 #~ msgid ""
@@ -1719,10 +1728,6 @@ msgstr "Au revoir et souviens toi : Mon bar est toujours ouvert."
 
 #~ msgid "I think that is enough of an introduction for now."
 #~ msgstr "Je pense que c'est suffisant pour commencer."
-
-#, fuzzy
-#~ msgid "What are you doing here?"
-#~ msgstr " Que faites-vous ici ?"
 
 #~ msgid "I'm on guard duty right now."
 #~ msgstr "Je suis en service de garde pour le moment."
@@ -2818,9 +2823,6 @@ msgstr "Au revoir et souviens toi : Mon bar est toujours ouvert."
 #, fuzzy
 #~ msgid "I want to know how to extract modules from the bots."
 #~ msgstr " Je veux savoir comment démonter des modules de robots."
-
-#~ msgid "Yes."
-#~ msgstr "Oui."
 
 #~ msgid "I will sell the information for a lot of cybergeld."
 #~ msgstr "Je te l'enseignerai moyennant monnaie sonnante et trébuchante."
@@ -4568,17 +4570,6 @@ msgstr "Au revoir et souviens toi : Mon bar est toujours ouvert."
 #~ "va pas s'enfuir en courant, donc privilégie une approche lente."
 
 #, fuzzy
-#~ msgid "Good luck."
-#~ msgstr "Bon travail."
-
-#~ msgid ""
-#~ "No one wants to pay 499 triangles for bottom shelf swill that even Bender "
-#~ "would not drink..."
-#~ msgstr ""
-#~ "Personne ne veut payer 499 triangles la rinçre de l'étagère du bas, que "
-#~ "même Bender ne boirait pas."
-
-#, fuzzy
 #~ msgid ""
 #~ "Linarian, please leave. You are no longer welcome here. You have done me "
 #~ "wrong and I have no desire to talk to you."
@@ -6041,10 +6032,6 @@ msgstr "Au revoir et souviens toi : Mon bar est toujours ouvert."
 #~ "de combats."
 
 #, fuzzy
-#~ msgid "So come back when you have both."
-#~ msgstr "Ne reviens jamais. Je te déteste."
-
-#, fuzzy
 #~ msgid ""
 #~ "Yes, I want to improve my ranged weapons skill. (cost 3 training points, "
 #~ "100 cash)"
@@ -7220,9 +7207,6 @@ msgstr "Au revoir et souviens toi : Mon bar est toujours ouvert."
 #~ msgid "I pity you, silly bird. Don't go there."
 #~ msgstr "J'ai pitié de toi, tête de piaf. Ne va pas là-bas."
 
-#~ msgid "But if you really want it, the door is open."
-#~ msgstr "Mais si tu veux vraiment y aller, la porte est ouverte."
-
 #, fuzzy
 #~ msgid "The master arena is clear."
 #~ msgstr " Le maître de l'arène est honnête."
@@ -7615,9 +7599,6 @@ msgstr "Au revoir et souviens toi : Mon bar est toujours ouvert."
 #~ msgid "Very simple. He likes destruction, and I am creation."
 #~ msgstr "Très simple. Il aime la destruction, et je suis la création."
 
-#~ msgid "There is nothing more to it."
-#~ msgstr "Il n'y a rien de plus là dedans."
-
 #, fuzzy
 #~ msgid "I will go now."
 #~ msgstr " Je dois y aller maintenant."
@@ -7970,9 +7951,6 @@ msgstr "Au revoir et souviens toi : Mon bar est toujours ouvert."
 
 #~ msgid "For a price. Hundred bucks should be enough."
 #~ msgstr "Si tu es fortuné. Cent dollars suffisent."
-
-#~ msgid "Have courage."
-#~ msgstr "Bon courage."
 
 #, fuzzy
 #~ msgid ""
@@ -9242,9 +9220,6 @@ msgstr "Au revoir et souviens toi : Mon bar est toujours ouvert."
 #~ msgstr ""
 #~ "La division technique a rapporté que tu les avais sortis d'affaire avec "
 #~ "leurs difficultés, néanmoins, ils sont restés très vagues à ce sujet."
-
-#~ msgid "Good job."
-#~ msgstr "Bon travail."
 
 #~ msgid ""
 #~ "Dixon, the leader of the technical division, mentioned to me a few days "

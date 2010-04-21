@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:24+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -25,10 +25,13 @@ msgstr ""
 "et d'abattre quatre robots."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:52
+#, fuzzy
 msgid ""
 "I've already opened the door. What are you waiting for? All you need to do "
 "is go down to the master arena and fight the bots."
 msgstr ""
+"Mais j'ai déjà ouvert la porte. Qu'est-ce que tu attends ? Tout ce que tu as "
+"besoin de faire est de descendre dans l'arène et de combattre les robots."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:53
 msgid ""
@@ -115,10 +118,13 @@ msgid "Yeah. I want to fight."
 msgstr " Ouais. Je veux combattre."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:115
+#, fuzzy
 msgid ""
 "Good. I opened up the novice arena gate. Just climb down the ladder south of "
 "here."
 msgstr ""
+"Bien. J'ai ouvert la porte de l'arène sud pour toi, donc maintenant tu peux "
+"y descendre par l'échelle."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:116
 #, fuzzy
@@ -220,8 +226,9 @@ msgid "I pity you, silly bird. Don't go there."
 msgstr "J'ai pitié de toi, tête de piaf. Ne va pas là-bas."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:155
+#, fuzzy
 msgid "But if you really want it, the door is now open."
-msgstr ""
+msgstr "Mais si tu veux vraiment y aller, la porte est ouverte."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:163
 #, fuzzy
@@ -235,12 +242,14 @@ msgstr ""
 "Quoi !? Impossible ! Personne n'avait survécu à la seconde arène avant ça !"
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:166
+#, fuzzy
 msgid "One has to be out of his mind to try the second arena."
-msgstr ""
+msgstr "Quelqu'un d'assez fou pour essayer la seconde arène."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:167
+#, fuzzy
 msgid "You are not a newbie, but you are COMPLETELY INSANE!"
-msgstr ""
+msgstr "Tu n'es pas un débutant, mais tu es COMPLÈTEMENT IDIOT !"
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:168
 msgid "I pity you, poor fool. You will die young."
@@ -303,8 +312,9 @@ msgid "Hey, the bots bleed black. With oil."
 msgstr "Hé, les robots pissent du noir. Avec de l'huile."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:207
+#, fuzzy
 msgid "But... But..."
-msgstr ""
+msgstr " Mais... Mais... "
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:208
 msgid "No 'but' about it, newbie."
@@ -328,8 +338,9 @@ msgid "Great. Get in the door, newbie."
 msgstr "Génial. Prends la porte, débutant."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:218
+#, fuzzy
 msgid "I want to fight in the novice arena!"
-msgstr ""
+msgstr " Je voudrais passer le portail."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:220
 msgid ""
@@ -349,8 +360,9 @@ msgstr ""
 "dis le simplement."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:227
+#, fuzzy
 msgid "I want to fight in the master arena!"
-msgstr ""
+msgstr " Je voudrais passer le portail."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:229
 msgid ""
@@ -1593,14 +1605,6 @@ msgstr "Certainement."
 #, fuzzy
 #~ msgid "Give me the master arena."
 #~ msgstr " Ouvre moi l'arène de niveau 'maître'."
-
-#~ msgid ""
-#~ "But I've already opened the door. What are you waiting for? All you need "
-#~ "to do is go down to the master arena and fight the bots."
-#~ msgstr ""
-#~ "Mais j'ai déjà ouvert la porte. Qu'est-ce que tu attends ? Tout ce que tu "
-#~ "as besoin de faire est de descendre dans l'arène et de combattre les "
-#~ "robots."
 
 #, fuzzy
 #~ msgid ""
@@ -7040,27 +7044,6 @@ msgstr "Certainement."
 #~ msgid "The underground arena."
 #~ msgstr "Le sous-sol de l'arène."
 
-#, fuzzy
-#~ msgid ""
-#~ "Good. I opened up the south arena gate for you, so just climb down the "
-#~ "ladder."
-#~ msgstr ""
-#~ "Bien. J'ai ouvert la porte de l'arène sud pour toi, donc maintenant tu "
-#~ "peux y descendre par l'échelle."
-
-#~ msgid "But if you really want it, the door is open."
-#~ msgstr "Mais si tu veux vraiment y aller, la porte est ouverte."
-
-#~ msgid "One has to be insane to try the second arena."
-#~ msgstr "Quelqu'un d'assez fou pour essayer la seconde arène."
-
-#~ msgid "You are not a newbie, but you are a TOTAL IDIOT!"
-#~ msgstr "Tu n'es pas un débutant, mais tu es COMPLÈTEMENT IDIOT !"
-
-#, fuzzy
-#~ msgid "But... But... "
-#~ msgstr " Mais... Mais... "
-
 #~ msgid "No. The hostiles have not shown up within the last 24 hours."
 #~ msgstr "Non. L'ennemi ne s'est pas montré au cours des dernières 24 heures."
 
@@ -7120,10 +7103,6 @@ msgstr "Certainement."
 #~ msgstr ""
 #~ "C'est fermé pour que personne ne vienne fouiner à l'intérieur si je "
 #~ "tourne la tête."
-
-#, fuzzy
-#~ msgid "I want to get into the guardhouse."
-#~ msgstr " Je voudrais passer le portail."
 
 #~ msgid ""
 #~ "Of course. Guard members are always authorized to enter the guardhouse. "

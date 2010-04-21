@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:25+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -37,8 +37,10 @@ msgid "*******"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:38
+#, fuzzy
 msgid "Last login from dev/ttyS0 on Sun, 23 mar 2057."
 msgstr ""
+"Dernière connexion sur /dev/ttyS0, Dim, 23 mar 2057. admin@sadefense: ~#"
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:41
 msgid "This "
@@ -108,7 +110,7 @@ msgid "script V 1.0.5 (c) gnu.org, 2054"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:84
-msgid "Movement unit: Power-up...  [Done]."
+msgid "Movement unit: Power-up... [Done]."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:85
@@ -129,16 +131,18 @@ msgid "Are you really sure you want to destroy this robot? Y/N"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:102
+#, fuzzy
 msgid "Yes"
-msgstr ""
+msgstr "Oui."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:104
 msgid "Destruction confirmed."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:110
+#, fuzzy
 msgid "No"
-msgstr ""
+msgstr "Non."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:112
 msgid "Destrucion averted."
@@ -1223,9 +1227,6 @@ msgstr ""
 #~ " Comment une fille aussi charmante peut-elle être aussi sévère ? Ne "
 #~ "pouvons nous pas nous entendre ?"
 
-#~ msgid "No."
-#~ msgstr "Non."
-
 #, fuzzy
 #~ msgid "What are you up to?"
 #~ msgstr " Que faites vous ?"
@@ -1587,10 +1588,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "Login : admin  Password : *******"
 #~ msgstr " Identifiant : admin  Mot de passe : *******"
-
-#~ msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057. admin@sadefence: ~ #"
-#~ msgstr ""
-#~ "Dernière connexion sur /dev/ttyS0, Dim, 23 mar 2057. admin@sadefense: ~#"
 
 #, fuzzy
 #~ msgid "/usr/bin/guns --disable"
@@ -2431,9 +2428,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "I want to know how to extract modules from the bots."
 #~ msgstr " Je veux savoir comment démonter des modules de robots."
-
-#~ msgid "Yes."
-#~ msgstr "Oui."
 
 #~ msgid "I will sell the information for a lot of cybergeld."
 #~ msgstr "Je te l'enseignerai moyennant monnaie sonnante et trébuchante."

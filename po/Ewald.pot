@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 13:07+0000\n"
-"PO-Revision-Date: 2010-04-09 13:07+0000\n"
+"POT-Creation-Date: 2010-04-21 11:28+0000\n"
+"PO-Revision-Date: 2010-04-21 11:28+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -196,8 +196,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:163
 msgid ""
-"If you are really board, you can try gambling with me.  But the Red Guard taxe"
-"s it."
+"If you are really board, you can try gambling with me. But the Red Guard taxes"
+" it."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:168
@@ -209,7 +209,7 @@ msgid "Here, have a watery mary."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:176
-msgid "Sure, I'll gamble with you.  What do you play?"
+msgid "Sure, I'll gamble with you. What do you play?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:179
@@ -349,7 +349,7 @@ msgid "Coin flipping it is."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:348
-msgid "So.  What do you think?  Heads or tails?"
+msgid "So. What do you think? Heads or tails?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:355

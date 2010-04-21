@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:24+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -130,8 +130,9 @@ msgid ""
 msgstr "Je peux t'apprendre tout ce que tu veux, pour trois cents dollars."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:92
+#, fuzzy
 msgid "Sorry, don't have that much money right now."
-msgstr ""
+msgstr " Euh... Je n'ai pas assez d'argent."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:99
 msgid ""
@@ -332,10 +333,13 @@ msgid "I want to become a hacker."
 msgstr " Je veux devenir un hacker."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:173
+#, fuzzy
 msgid ""
 "Your desire for information amuses me. Your wish will be granted. I will "
 "teach you how to improve your skill in designing hacking programs."
 msgstr ""
+"Ton désir de collecter des informations m'amuse. Je vais exaucer ton "
+"souhait. Je vais t'enseigner le piratage."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:174
 msgid ""
@@ -408,8 +412,9 @@ msgid "I want money."
 msgstr " Je veux de l'argent."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:199
+#, fuzzy
 msgid "Eh... Here, take these 900 circuits. That should be enough."
-msgstr ""
+msgstr "Hé... Tiens, prends ces 500 dollars. Ça devrait être suffisant."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:207
 #, fuzzy
@@ -463,9 +468,10 @@ msgstr ""
 "faire, tu sauras également quel est le meilleur moyen de la hacker."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:231
+#, fuzzy
 msgid ""
 "Now I see the feature set of your hacking program has already improved a lot."
-msgstr ""
+msgstr "Je vois que ton savoir en hack a déjà beaucoup augmenté."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:241
 #, fuzzy
@@ -7509,10 +7515,6 @@ msgstr "Fais attention, les robots sont de mauvaise humeur aujourd'hui."
 #~ msgstr "C'est tentant. Il me faudra 100 cyberdollars."
 
 #, fuzzy
-#~ msgid "Erm... I don't have that much."
-#~ msgstr " Euh... Je n'ai pas assez d'argent."
-
-#, fuzzy
 #~ msgid "Well, too bad."
 #~ msgstr "Bienvenue à bord."
 
@@ -7549,16 +7551,6 @@ msgstr "Fais attention, les robots sont de mauvaise humeur aujourd'hui."
 
 #~ msgid "Good riddance."
 #~ msgstr "Bon débarras."
-
-#~ msgid ""
-#~ "Your desire for information amuses me. Your wish will be granted. I will "
-#~ "teach you how to hack."
-#~ msgstr ""
-#~ "Ton désir de collecter des informations m'amuse. Je vais exaucer ton "
-#~ "souhait. Je vais t'enseigner le piratage."
-
-#~ msgid "Eh... Here, take these 500 bucks. That should be enough."
-#~ msgstr "Hé... Tiens, prends ces 500 dollars. Ça devrait être suffisant."
 
 #~ msgid "So you have come. I knew Duncan would not let me live for too long."
 #~ msgstr ""
@@ -8034,9 +8026,6 @@ msgstr "Fais attention, les robots sont de mauvaise humeur aujourd'hui."
 #~ msgstr ""
 #~ "Tu n'as pas assez d'expérience. Je ne peux pas t'apprendre quoi que ce "
 #~ "soit de plus de cette façon."
-
-#~ msgid "Now I see your hacking skill has already improved a lot."
-#~ msgstr "Je vois que ton savoir en hack a déjà beaucoup augmenté."
 
 #, fuzzy
 #~ msgid ""

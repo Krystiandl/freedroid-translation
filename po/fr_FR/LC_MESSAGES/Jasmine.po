@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:24+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -133,8 +133,9 @@ msgid "Traceback printed to stdout."
 msgstr "Informations de retour envoyées vers la sortie standard."
 
 #: /home/david/src/freedroid-translation/dialogs/Jasmine.dialog:124
+#, fuzzy
 msgid "Kernel panic in module: Jasmine"
-msgstr ""
+msgstr "Kernel panic dans le module : Jasmine "
 
 #: /home/david/src/freedroid-translation/dialogs/Jasmine.dialog:125
 msgid "Buffer overrun in anger.c:1532"
@@ -1142,9 +1143,6 @@ msgstr "Core dumpé. Arrêt du système."
 #, fuzzy
 #~ msgid "Resuming guard program."
 #~ msgstr " Retour au programme de surveillance."
-
-#~ msgid "Kernel panic in module: Jasmine "
-#~ msgstr "Kernel panic dans le module : Jasmine "
 
 #~ msgid ""
 #~ "A newcomer! Great! We can always use more people. Welcome to the Red "

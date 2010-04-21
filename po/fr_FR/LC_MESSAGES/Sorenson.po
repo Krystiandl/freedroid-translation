@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:25+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -228,8 +228,9 @@ msgid "Um... Your voice sounds strange. Is everything fine?"
 msgstr " Hum... Ta voix a une étrange intonation. Est-ce que tout va bien ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Sorenson.dialog:123
+#, fuzzy
 msgid "519n 7h3 c0n7r4c7!!!!"
-msgstr ""
+msgstr "519n3 l3 (0n7r47 !!!!"
 
 #: /home/david/src/freedroid-translation/dialogs/Sorenson.dialog:128
 #, fuzzy
@@ -273,8 +274,9 @@ msgid "Elbereth"
 msgstr " Elbereth"
 
 #: /home/david/src/freedroid-translation/dialogs/Sorenson.dialog:160
+#, fuzzy
 msgid "4444! 17 burn5! 7'm m3171n9!"
-msgstr ""
+msgstr "4444 ! Ç4 brûl3 ! "
 
 #: /home/david/src/freedroid-translation/dialogs/Sorenson.dialog:161
 msgid "44444444444444444!"
@@ -391,17 +393,11 @@ msgstr ""
 "S'il te plaît, reviens me voir plus tard, Linarien. Nous avons encore des "
 "choses à nous dire."
 
-#~ msgid "519n 7h3 (0n7r4(7!!!!"
-#~ msgstr "519n3 l3 (0n7r47 !!!!"
-
 #~ msgid "Yes! I am free!"
 #~ msgstr "Oui ! Je suis libre !"
 
 #~ msgid "Yes! I am free at last!"
 #~ msgstr "Oui ! Je suis libre !"
-
-#~ msgid "4444! 17 burn5! 7'm m3171n9! "
-#~ msgstr "4444 ! Ç4 brûl3 ! "
 
 #, fuzzy
 #~ msgid "Hi... Erm... Who are you?"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 13:07+0000\n"
-"PO-Revision-Date: 2010-04-09 13:07+0000\n"
+"POT-Creation-Date: 2010-04-21 11:28+0000\n"
+"PO-Revision-Date: 2010-04-21 11:28+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgid "I'm "
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:58
-msgid "Um, what are you?  Some kind of overgrown penguin?"
+msgid "Um, what are you? Some kind of overgrown penguin?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:59
@@ -278,8 +278,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:219
 msgid ""
-"Three kinds of enhancement pills were developed.  One for strength, one for de"
-"xterity and one for programming abilities."
+"Three kinds of enhancement pills were developed. One for strength, one for dex"
+"terity and one for programming abilities."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:220
@@ -370,8 +370,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:258
 msgid ""
-"Yep. It kills the bacteria that want to kill you.  It improves your health sig"
-"nificantly."
+"Yep. It kills the bacteria that want to kill you. It improves your health sign"
+"ificantly."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:263

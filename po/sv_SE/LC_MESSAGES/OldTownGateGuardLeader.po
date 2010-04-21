@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroid\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:26+0000\n"
 "PO-Revision-Date: 2008-10-28 08:03+0000\n"
 "Last-Translator: Christian Widell <Christian_widell@hotmail.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
@@ -164,8 +164,9 @@ msgid "I said: THIS PLACE LOOKS CLASSY."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:151
+#, fuzzy
 msgid "Sure you said that."
-msgstr ""
+msgstr "Vi ses senare."
 
 #: /home/david/src/freedroid-translation/dialogs/OldTownGateGuardLeader.dialog:156
 msgid "Please don't hurt me."
@@ -267,9 +268,6 @@ msgstr ""
 
 #~ msgid "And neither do I."
 #~ msgstr "Inte jag heller."
-
-#~ msgid "See you later."
-#~ msgstr "Vi ses senare."
 
 #~ msgid "Nothing more and nothing less."
 #~ msgstr "Inget mer och inget mindre."

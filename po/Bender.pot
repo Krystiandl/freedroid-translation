@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-09 13:06+0000\n"
-"PO-Revision-Date: 2010-04-09 13:06+0000\n"
+"POT-Creation-Date: 2010-04-21 11:27+0000\n"
+"PO-Revision-Date: 2010-04-21 11:27+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -244,7 +244,7 @@ msgid "And I'll sure vote for you if you want into the city guard! "
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bender.dialog:190
-msgid "What secrets?  Like a secret handshake?"
+msgid "What secrets? Like a secret handshake?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bender.dialog:193
@@ -316,7 +316,7 @@ msgid "What are you doing now?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bender.dialog:226
-msgid "I'm killing time.  Guard work is very boring."
+msgid "I'm killing time. Guard work is very boring."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bender.dialog:231

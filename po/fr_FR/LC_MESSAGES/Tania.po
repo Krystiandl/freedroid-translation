@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:25+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -17,8 +17,9 @@ msgstr ""
 "X-Poedit-Language: French\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:49
+#, fuzzy
 msgid "Um, hi."
-msgstr ""
+msgstr "Hem, salut."
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:51
 msgid "Oh! It happened! I have been waiting for you for 3226 hours!"
@@ -37,10 +38,13 @@ msgid "Imaginary?! I am as real as you are."
 msgstr "Imaginaire ?! Je suis aussi vrai que toi."
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:65
+#, fuzzy
 msgid ""
 "This place is locked. Hermetically sealed and guarded by bots. So you can't "
 "possibly be anything more than the product of my imagination."
 msgstr ""
+"Cet endroit est fermé. Hermétiquement préservé et surveillé par les robots. "
+"Donc tu ne peux être autre chose que le pur produit de mon imagination."
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:70
 msgid "Where am I?"
@@ -190,14 +194,18 @@ msgstr ""
 "travers ce trou."
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:135
+#, fuzzy
 msgid "Do you mean I can go out to the surface?!"
-msgstr ""
+msgstr "Tu veux dire que je peux atteindre la surface ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:136
+#, fuzzy
 msgid ""
 "Oh god! I - I told Peter that he chose the wrong place, but he was so "
 "stubborn!"
 msgstr ""
+"Oh mon dieu ! J'ai dit à Peter qu'il a choisi la mauvaise place, mais il "
+"était tellement borné !"
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:141
 msgid "Yes, you can get to the surface. But the guns are still on."
@@ -236,12 +244,17 @@ msgid "How can I disable the guns?"
 msgstr "Comment puis-je désactiver les armes ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:164
+#, fuzzy
 msgid ""
 "Somewhere in a distant part of the lab should be an SACD - Secret Area "
 "Control Droid. It controls all the defense systems in the base. If you "
 "manage to persuade it, you would be able to control the base. However, it's "
 "very hard to find and get to the SACD."
 msgstr ""
+"Quelque part dans un endroit reculé du laboratoire, devrait se trouver SACD "
+"- zone secrète du droïde de surveillance. Il gère le système de défense de "
+"la base. Si tu parviens à le convaincre, tu devrais être pouvoir contrôler "
+"la base entière. Mais il sera très difficile à trouver."
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:169
 #, fuzzy
@@ -2622,41 +2635,6 @@ msgstr "C'est bon. Mais, je t'en supplie, reviens me voir. Je suis si seul."
 
 #~ msgid "Goodbye and viel gluck."
 #~ msgstr "Au revoir, et viel glück."
-
-#~ msgid "Em, hi."
-#~ msgstr "Hem, salut."
-
-#, fuzzy
-#~ msgid ""
-#~ "This place is locked. Hermetically sealed and guarded by bots. So you can "
-#~ "be nothing more than the product of my imagination."
-#~ msgstr ""
-#~ "Cet endroit est fermé. Hermétiquement préservé et surveillé par les "
-#~ "robots. Donc tu ne peux être autre chose que le pur produit de mon "
-#~ "imagination."
-
-#~ msgid "Do you mean I can go out to the surface ?!"
-#~ msgstr "Tu veux dire que je peux atteindre la surface ?"
-
-#, fuzzy
-#~ msgid ""
-#~ "Oh god! I've told Peter that he chosed the wrong place, but he was so "
-#~ "stubborn!"
-#~ msgstr ""
-#~ "Oh mon dieu ! J'ai dit à Peter qu'il a choisi la mauvaise place, mais il "
-#~ "était tellement borné !"
-
-#, fuzzy
-#~ msgid ""
-#~ "Somewhere in a distant part of the lab should be an SACD - secret area "
-#~ "control droid. It controls all the defense systems in the base. If you "
-#~ "manage to persuade him, you will be able to control the base. But it's "
-#~ "very hard to find him."
-#~ msgstr ""
-#~ "Quelque part dans un endroit reculé du laboratoire, devrait se trouver "
-#~ "SACD - zone secrète du droïde de surveillance. Il gère le système de "
-#~ "défense de la base. Si tu parviens à le convaincre, tu devrais être "
-#~ "pouvoir contrôler la base entière. Mais il sera très difficile à trouver."
 
 #, fuzzy
 #~ msgid "Um... Hello?"

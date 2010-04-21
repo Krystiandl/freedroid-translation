@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroid\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:26+0000\n"
 "PO-Revision-Date: 2008-10-28 08:03+0000\n"
 "Last-Translator: Christian Widell <Christian_widell@hotmail.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
@@ -385,7 +385,7 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:283
 msgid ""
-"Nice try, though.  I may owe you, but I can't let you in.  You must leave."
+"Nice try, though. I may owe you, but I can't let you in. You must leave."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:290

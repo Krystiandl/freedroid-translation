@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroid\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:26+0000\n"
 "PO-Revision-Date: 2008-10-28 08:03+0000\n"
 "Last-Translator: Christian Widell <Christian_widell@hotmail.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
@@ -18,8 +18,9 @@ msgstr ""
 "X-Generator: Launchpad (build Unknown)\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:38
+#, fuzzy
 msgid "What can I help you with."
-msgstr ""
+msgstr "Vad vill du?"
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:44
 msgid "Hi, I'm Tux."
@@ -223,10 +224,6 @@ msgstr ""
 
 #~ msgid "Forget it."
 #~ msgstr "Glöm det."
-
-#, fuzzy
-#~ msgid "What can I help you with?"
-#~ msgstr "Vad vill du?"
 
 #, fuzzy
 #~ msgid "Well, Linarian, most of the time, it is."

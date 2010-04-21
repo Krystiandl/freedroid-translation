@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroid\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:25+0000\n"
 "PO-Revision-Date: 2008-10-28 08:03+0000\n"
 "Last-Translator: Christian Widell <Christian_widell@hotmail.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
@@ -205,8 +205,9 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:160
+#, fuzzy
 msgid "What is it that he took from you?"
-msgstr ""
+msgstr "VAD?! Vad är det du försöker säga?"
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:162
 msgid "A cube. Trust me, you can't miss it."
@@ -344,8 +345,9 @@ msgid "But then again, neither are you, so my thoughts are we are even."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:264
+#, fuzzy
 msgid "What do you mean? I am "
-msgstr ""
+msgstr "Vad vill du?"
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:265
 msgid "And I am Duncan McNamara, the maker of grenades and nothing else."
@@ -885,9 +887,6 @@ msgstr ""
 #~ msgid "Real freedom is really dead."
 #~ msgstr "Verklig frihet är helt försvunnen."
 
-#~ msgid "WHAT?! What is it that you want to say?"
-#~ msgstr "VAD?! Vad är det du försöker säga?"
-
 #~ msgid "WHAT!? SPIT IT OUT!"
 #~ msgstr "VAD!? UT MED SPRÅKET!"
 
@@ -1309,9 +1308,6 @@ msgstr ""
 
 #~ msgid "Not now, I'm busy."
 #~ msgstr "Inte nu, jag är upptagen."
-
-#~ msgid "What do you want?"
-#~ msgstr "Vad vill du?"
 
 #~ msgid "Eh... I guess you could put it that way, yes."
 #~ msgstr "Eh... Jag antar att man kan se det på det sättet, ja."

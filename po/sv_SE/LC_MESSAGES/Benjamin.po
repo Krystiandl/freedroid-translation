@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroid\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:25+0000\n"
 "PO-Revision-Date: 2008-10-28 08:03+0000\n"
 "Last-Translator: Christian Widell <Christian_widell@hotmail.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
@@ -190,11 +190,15 @@ msgstr ""
 "fokuserade ljusstrålar för att orsaka skada."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:104
+#, fuzzy
 msgid ""
 "Because the beam is composed out of light, it travels REALLY fast, at the "
 "speed of lights so to say. Also it is not affected by gravity or wind, which "
 "makes aiming easier."
 msgstr ""
+"Eftersom strålen består av ljus färdas den MYCKET snabbt. Dessutom påverkas "
+"den inte heller av gravitation eller vind, vilket gör det lätt att sikta med "
+"med dessa vapen."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:105
 #, fuzzy
@@ -378,7 +382,7 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:191
 msgid ""
-"Watch your target closely.  Pretend you're moving with it. Aim for the head."
+"Watch your target closely. Pretend you're moving with it. Aim for the head."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:192
@@ -395,7 +399,7 @@ msgid "Good. I think that it is enough for today."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:198
-msgid "You are not ready.  Go kill some bots and come back."
+msgid "You are not ready. Go kill some bots and come back."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:202
@@ -533,8 +537,9 @@ msgid "Intriguing."
 msgstr "Intressant."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:295
+#, fuzzy
 msgid "Fifty circuits per bit of information."
-msgstr ""
+msgstr "Femtio trianglar för varje stycke information."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:296
 msgid "So... What do you exactly want to know?"
@@ -553,10 +558,13 @@ msgstr ""
 "många. Strax över 20, sist jag inventerade."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:305
+#, fuzzy
 msgid ""
 "However, as you can clearly see, it's more than enough to keep all of the "
 "damn bots away."
 msgstr ""
+"Men, som du kan se, så är det mer än tillräckligt för att hålla alla de där "
+"förbannade botarna borta."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:313
 msgid "Well, I am a bit short on cash right now..."
@@ -1253,25 +1261,6 @@ msgstr "Ses senare!"
 
 #~ msgid "I'll be finished in about a week."
 #~ msgstr "Jag kommer vara klar inom en vecka."
-
-#~ msgid ""
-#~ "Because the beam is composed out of light, it travels REALLY fast. Also "
-#~ "it is not affected by gravity or wind, which makes aiming easier."
-#~ msgstr ""
-#~ "Eftersom strålen består av ljus färdas den MYCKET snabbt. Dessutom "
-#~ "påverkas den inte heller av gravitation eller vind, vilket gör det lätt "
-#~ "att sikta med med dessa vapen."
-
-#, fuzzy
-#~ msgid "Fifty triangles per bit of information."
-#~ msgstr "Femtio trianglar för varje stycke information."
-
-#~ msgid ""
-#~ "However, as you can clearly see, this is more than enough to keep all of "
-#~ "the damn bots away."
-#~ msgstr ""
-#~ "Men, som du kan se, så är det mer än tillräckligt för att hålla alla de "
-#~ "där förbannade botarna borta."
 
 #~ msgid "Hello. I'm Doc Moore. I'm the medic of this town."
 #~ msgstr "Hej. Jag är doktor Moore. Jag är läkaren här i staden."

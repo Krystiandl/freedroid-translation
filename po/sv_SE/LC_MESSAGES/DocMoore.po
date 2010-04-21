@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroid\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:25+0000\n"
 "PO-Revision-Date: 2008-10-28 08:03+0000\n"
 "Last-Translator: Christian Widell <Christian_widell@hotmail.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
@@ -22,16 +22,17 @@ msgid "Hello!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:56
+#, fuzzy
 msgid ""
 "Hello. I'm Doc Moore. I'm the medic of this town. I don't believe we've met?"
-msgstr ""
+msgstr "Hej. Jag är doktor Moore. Jag är läkaren här i staden."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:57
 msgid "I'm "
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:58
-msgid "Um, what are you?  Some kind of overgrown penguin?"
+msgid "Um, what are you? Some kind of overgrown penguin?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:59
@@ -53,8 +54,9 @@ msgid "Do you also sell medical equipment?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:72
+#, fuzzy
 msgid "Yes. Here is what I can offer today."
-msgstr ""
+msgstr "Visst. Här är vad jag har att erbjuda idag."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:78
 msgid "May I buy some medical equipment?"
@@ -289,7 +291,7 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:219
 msgid ""
-"Three kinds of enhancement pills were developed.  One for strength, one for "
+"Three kinds of enhancement pills were developed. One for strength, one for "
 "dexterity and one for programming abilities."
 msgstr ""
 
@@ -381,7 +383,7 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:258
 msgid ""
-"Yep. It kills the bacteria that want to kill you.  It improves your health "
+"Yep. It kills the bacteria that want to kill you. It improves your health "
 "significantly."
 msgstr ""
 
@@ -1180,9 +1182,6 @@ msgstr "Vi ses senare."
 
 #~ msgid "See you later!"
 #~ msgstr "Ses senare!"
-
-#~ msgid "Hello. I'm Doc Moore. I'm the medic of this town."
-#~ msgstr "Hej. Jag är doktor Moore. Jag är läkaren här i staden."
 
 #~ msgid " . . . "
 #~ msgstr " . . . "

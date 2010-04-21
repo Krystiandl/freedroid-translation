@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:25+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -65,10 +65,13 @@ msgstr ""
 "Il n'y a pas de nourriture ici, seulement ces infâmes rations militaires."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:84
+#, fuzzy
 msgid ""
 "They are made fully out of artificial nutrients and carcinogenic flavors. "
 "Even the army hated them."
 msgstr ""
+"Entièrement constituées de nutriments artificiels et d'arômes cancérigènes. "
+"Même l'armée les hait."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:85
 msgid ""
@@ -140,17 +143,24 @@ msgid "Just look at this stupid town!"
 msgstr "Regarde seulement cette ville idiote!"
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:113
+#, fuzzy
 msgid ""
 "We are constantly pushed around by our 'saviors' the damn Red Guard. I hope "
 "they all die from rat bites as soon as possible and go to the deepest hells "
 "to boil in lava forever."
 msgstr ""
+"Nous sommes constamment opprimés par nos 'sauveurs' , la satanée Garde "
+"Rouge. J'espère qu'ils mourront tous de maladie et s'en iront dans les "
+"profondeurs des enfers bouillir à jamais dans la lave."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:114
+#, fuzzy
 msgid ""
 "And the bots are keeping us busy by murdering, chopping, slicing, cleaving, "
 "rending and wounding us. How wonderful."
 msgstr ""
+"Et les robots ne nous laissent pas de répit en passant leur temps à tuer, "
+"découper, trancher, briser, ravager et détruire. Génial. "
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:115
 msgid ""
@@ -236,7 +246,7 @@ msgid "Here, try this slice of lemon meringue pie."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:146
-msgid "Wait, you don't have a Fork.  You need a fork..."
+msgid "Wait, you don't have a Fork. You need a fork..."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:148
@@ -269,8 +279,9 @@ msgid "Oh, Michelangelo had forgotten..."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:163
+#, fuzzy
 msgid "How about a... yummy army snack instead?"
-msgstr ""
+msgstr " Je veux quelques une de ces alléchantes rations militaires !"
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:166
 msgid "I am in the midst of a culinary masterpiece."
@@ -313,8 +324,9 @@ msgid "I am racked with hunger pains, give me some army snacks!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:182
+#, fuzzy
 msgid "I thought you would have learned by now."
-msgstr ""
+msgstr "Ouais, je pensais bien que tu aimerais ça. Il y en a plus ici."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:183
 msgid "As you wish."
@@ -330,8 +342,9 @@ msgid "Oh yes. You were warned, so don't blame me."
 msgstr "Oh oui. Je t'avais prévenu, ne m'en veux pas."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:192
+#, fuzzy
 msgid "Bleah! That is not food!"
-msgstr ""
+msgstr " Berk ! Ce n'est pas de la nourriture ! "
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:193
 msgid ""
@@ -384,10 +397,13 @@ msgid "What was I supposed to do again?"
 msgstr " Qu'est ce que je dois faire, déjà ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:215
+#, fuzzy
 msgid ""
 "Get me three dilithium crystals before the whole stupid town commits mass "
 "suicide because of poor food quality."
 msgstr ""
+"Donne moi un peu de dilithium avant que cette stupide colonie ne fasse un "
+"suicide collectif à cause de la mauvaise qualité de la nourriture."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:216
 msgid ""
@@ -399,16 +415,21 @@ msgstr ""
 "assiette quelques fois."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:220
+#, fuzzy
 msgid "Where can I find dilithium crystals?"
-msgstr ""
+msgstr " Où est-ce que je peux trouver des cristaux ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:222
+#, fuzzy
 msgid "There is an old abandoned dilithium mine is to the east of the town."
 msgstr ""
+"Il y une vieille mine de dilithium à l'est. Je suis certain qu'il y a "
+"beaucoup de ces trucs là bas."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:223
+#, fuzzy
 msgid "Be careful if you go down there!"
-msgstr ""
+msgstr " Que faites-vous ici ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:227
 #, fuzzy
@@ -433,8 +454,9 @@ msgid "The bots made a bloody mess out of him."
 msgstr "Les robots l'ont vraiment écharpé."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:236
+#, fuzzy
 msgid "Maybe I can get you some dilithium."
-msgstr ""
+msgstr " Je peux t'avoir un peu de dilithium."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:238
 msgid "Have you gotten overheated, Linarian?"
@@ -457,8 +479,9 @@ msgstr ""
 "comme ça. C'est tellement plus simple."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:245
+#, fuzzy
 msgid "Don't worry, I'll be fine."
-msgstr ""
+msgstr "Ne t'en fais pas pour moi. Je vais bien."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:247
 msgid ""
@@ -469,16 +492,22 @@ msgstr ""
 "que possible... D'autres veulent faire la même chose, mais plus lentement."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:248
+#, fuzzy
 msgid ""
 "I have seen corpses with nearly all of the fingers ripped off. People with "
 "eyes drilled out by some big tool."
 msgstr ""
+"J'ai vu des cadavres dont tous les doigts avaient été arrachés, des gens "
+"avec les yeux percés... "
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:249
+#, fuzzy
 msgid ""
 "I smelled burnt meat and heard the screams of the captives as they were "
 "incinerated alive outside the city walls."
 msgstr ""
+"J'ai senti l'odeur de viande grillée et entendu les cris des captifs tandis "
+"qu'ils étaient incinérés vivants à l'extérieur des murailles de la cité. "
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:250
 msgid ""
@@ -523,7 +552,7 @@ msgstr ""
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:257
 msgid ""
 "A single small crystal could power my oven for a decade if it is of good "
-"quality.  But unfortunately my oven requires two to operate correctly.  And "
+"quality. But unfortunately my oven requires two to operate correctly. And "
 "since it is so dangerous to send anyone to get dilithium, could you get me a "
 "spare as well?"
 msgstr ""
@@ -537,8 +566,9 @@ msgid "Yes. Please get me three dilithium crystals."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:266
+#, fuzzy
 msgid "What is this 'dilithium'?"
-msgstr ""
+msgstr " Qu'est ce que le dilithium ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:268
 msgid ""
@@ -549,10 +579,13 @@ msgstr ""
 "leur connaissance de l'univers. De toutes façons..."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:269
+#, fuzzy
 msgid ""
 "Dilithium is a substance which is usually seen in the form of a small "
 "crystal."
 msgstr ""
+"Le dilithium est une substance qui se présente habituellement sous la forme "
+"d'un petit cristal. "
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:270
 msgid ""
@@ -624,8 +657,9 @@ msgstr ""
 "réacteur."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:295
+#, fuzzy
 msgid "I need a dilithium crystal."
-msgstr ""
+msgstr " J'ai le dilithium que tu voulais."
 
 #: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:297
 msgid ""
@@ -1803,10 +1837,6 @@ msgstr "À plus tard."
 
 #~ msgid "I think that is enough of an introduction for now."
 #~ msgstr "Je pense que c'est suffisant pour commencer."
-
-#, fuzzy
-#~ msgid "What are you doing here?"
-#~ msgstr " Que faites-vous ici ?"
 
 #~ msgid "I'm on guard duty right now."
 #~ msgstr "Je suis en service de garde pour le moment."
@@ -3824,75 +3854,9 @@ msgstr "À plus tard."
 #~ msgid "Feel free to come here any time you want."
 #~ msgstr "Tu es libre de venir ici à chaque fois que tu le souhaites."
 
-#~ msgid ""
-#~ "Made fully out of artificial nutrients and carcinogenic flavors. Even the "
-#~ "army hated them."
-#~ msgstr ""
-#~ "Entièrement constituées de nutriments artificiels et d'arômes "
-#~ "cancérigènes. Même l'armée les hait."
-
-#~ msgid ""
-#~ "We are constantly pushed around by our 'saviours' the damn Red Guard. I "
-#~ "hope they all die from rat bites as soon as possible and go to the "
-#~ "deepest hells to boil in lava forever."
-#~ msgstr ""
-#~ "Nous sommes constamment opprimés par nos 'sauveurs' , la satanée Garde "
-#~ "Rouge. J'espère qu'ils mourront tous de maladie et s'en iront dans les "
-#~ "profondeurs des enfers bouillir à jamais dans la lave."
-
-#~ msgid ""
-#~ "And the bots are keeping us busy by murdering, chopping, slicing, "
-#~ "cleaving, rending and wounding us. How wonderful. "
-#~ msgstr ""
-#~ "Et les robots ne nous laissent pas de répit en passant leur temps à tuer, "
-#~ "découper, trancher, briser, ravager et détruire. Génial. "
-
-#, fuzzy
-#~ msgid "Bleah! That is not food! "
-#~ msgstr " Berk ! Ce n'est pas de la nourriture ! "
-
-#, fuzzy
-#~ msgid ""
-#~ "Get me some dilithium before the whole stupid town commits mass suicide "
-#~ "because of poor food quality."
-#~ msgstr ""
-#~ "Donne moi un peu de dilithium avant que cette stupide colonie ne fasse un "
-#~ "suicide collectif à cause de la mauvaise qualité de la nourriture."
-
-#, fuzzy
-#~ msgid "I can get you some dilithium."
-#~ msgstr " Je peux t'avoir un peu de dilithium."
-
 #, fuzzy
 #~ msgid "I'll be fine. Don't worry."
 #~ msgstr " Ça ira. Ne t'inquiète pas."
-
-#, fuzzy
-#~ msgid ""
-#~ "I have seen corpses with nearly all of the fingers ripped off. People "
-#~ "with eyes drilled out by some big tool. "
-#~ msgstr ""
-#~ "J'ai vu des cadavres dont tous les doigts avaient été arrachés, des gens "
-#~ "avec les yeux percés... "
-
-#~ msgid ""
-#~ "I smelled burnt meat and heard the screams of the captives as they were "
-#~ "incinerated alive outside the city walls. "
-#~ msgstr ""
-#~ "J'ai senti l'odeur de viande grillée et entendu les cris des captifs "
-#~ "tandis qu'ils étaient incinérés vivants à l'extérieur des murailles de la "
-#~ "cité. "
-
-#, fuzzy
-#~ msgid "What is this dilithium?"
-#~ msgstr " Qu'est ce que le dilithium ?"
-
-#~ msgid ""
-#~ "Dilithium is a substance which is usually seen in the form of a small "
-#~ "crystal. "
-#~ msgstr ""
-#~ "Le dilithium est une substance qui se présente habituellement sous la "
-#~ "forme d'un petit cristal. "
 
 #~ msgid "A small crystal would power my oven for weeks."
 #~ msgstr "Un petit cristal alimenterait mon four pendant des semaines."
@@ -4381,9 +4345,6 @@ msgstr "À plus tard."
 #, fuzzy
 #~ msgid "Ahh... Fresh water! Give me some more of that."
 #~ msgstr " Ahh... De l'eau fraîche ! Donne m'en plus."
-
-#~ msgid "Yeah, I thought you would like it. Here is more."
-#~ msgstr "Ouais, je pensais bien que tu aimerais ça. Il y en a plus ici."
 
 #, fuzzy
 #~ msgid ""
@@ -7874,9 +7835,6 @@ msgstr "À plus tard."
 #~ msgstr ""
 #~ "Salut. Ça fait quelques semaines que je n'ai pas dormi, je suis seulement "
 #~ "un peu fatigué."
-
-#~ msgid "Don't worry about me. I'll be fine."
-#~ msgstr "Ne t'en fais pas pour moi. Je vais bien."
 
 #~ msgid "I'm Kevin, a computer security expert."
 #~ msgstr "Je m'appelle Kevin, je suis expert en sécurité informatique."

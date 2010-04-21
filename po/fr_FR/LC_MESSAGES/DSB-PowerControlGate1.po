@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:24+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -41,8 +41,10 @@ msgid " "
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControlGate1.dialog:43
+#, fuzzy
 msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
 msgstr ""
+"Dernière connexion sur /dev/ttyS0, Dim, 23 mar 2057. admin@sadefense: ~#"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControlGate1.dialog:53
 msgid "GAME BUG. PLEASE REPORT."
@@ -107,8 +109,9 @@ msgid "Exiting"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControlGate1.dialog:102
+#, fuzzy
 msgid "Have a nice day."
-msgstr ""
+msgstr "Un jour peut être..."
 
 #, fuzzy
 #~ msgid "Sure. I'll sign it."
@@ -1521,10 +1524,6 @@ msgstr ""
 #~ msgid "Login : admin  Password : *******"
 #~ msgstr " Identifiant : admin  Mot de passe : *******"
 
-#~ msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057. admin@sadefence: ~ #"
-#~ msgstr ""
-#~ "Dernière connexion sur /dev/ttyS0, Dim, 23 mar 2057. admin@sadefense: ~#"
-
 #, fuzzy
 #~ msgid "/usr/bin/guns --disable"
 #~ msgstr " /usr/bin/guns --disable"
@@ -2349,9 +2348,6 @@ msgstr ""
 #~ msgid "Maybe then you will tell us other gut jokes that you know."
 #~ msgstr ""
 #~ "Puisses-tu alors nous raconter d'autres bonnes blagues de ta connaissance."
-
-#~ msgid "Maybe one day..."
-#~ msgstr "Un jour peut être..."
 
 #, fuzzy
 #~ msgid "What did you use to do before you became a hunter?"

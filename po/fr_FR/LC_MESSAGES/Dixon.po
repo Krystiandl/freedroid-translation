@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:24+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -97,17 +97,24 @@ msgstr ""
 "colmatés."
 
 #: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:92
+#, fuzzy
 msgid ""
 "We need to perform a statistical analysis of the energy distribution in our "
 "power supply system, there is a leak somewhere and we are losing many "
 "megawatts."
 msgstr ""
+"Il nous faut une analyse à grande échelle de la distribution d'énergie dans "
+"notre réseau, il y a une baisse de régime quelque part et beaucoup de "
+"mégawatts sont perdus."
 
 #: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:93
+#, fuzzy
 msgid ""
 "Our defensive bots are falling into disrepair and many are in desperate need "
 "of maintenance."
 msgstr ""
+"Nos robots de défense tombent en panne à cause du manque d'entretien, qui "
+"est un besoin crucial."
 
 #: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:94
 msgid ""
@@ -231,11 +238,16 @@ msgstr ""
 "enfuis toi le plus vite possible."
 
 #: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:126
+#, fuzzy
 msgid ""
 "I will give you two small devices charged with plasma. If you get in trouble "
 "just activate one and it will send a shockwave of plasma around you damaging "
 "anything in its way. It should give you some breathing room."
 msgstr ""
+"Je vous donnerai deux petits appareils chargés au plasma. Si vous avez des "
+"problèmes, activez en seulement un et il enverra un onde de choc de plasma "
+"qui endommagera tout ce qui est sur votre chemin. Ça devrait dégager "
+"l'espace."
 
 #: /home/david/src/freedroid-translation/dialogs/Dixon.dialog:127
 #, fuzzy
@@ -5208,33 +5220,6 @@ msgstr " Je dois partir maintenant."
 
 #~ msgid "Goodbye and remember: My bar is always open."
 #~ msgstr "Au revoir et souviens toi : Mon bar est toujours ouvert."
-
-#, fuzzy
-#~ msgid ""
-#~ "We need to perform a statistical analysis of the energy distribution in "
-#~ "our power supply system, there is a leak somewhere and we are losing a "
-#~ "lot of megawatts."
-#~ msgstr ""
-#~ "Il nous faut une analyse à grande échelle de la distribution d'énergie "
-#~ "dans notre réseau, il y a une baisse de régime quelque part et beaucoup "
-#~ "de mégawatts sont perdus."
-
-#~ msgid ""
-#~ "Our defensive bots are falling into disrepair and many are in desperate "
-#~ "need of a lot of maintenance."
-#~ msgstr ""
-#~ "Nos robots de défense tombent en panne à cause du manque d'entretien, qui "
-#~ "est un besoin crucial."
-
-#~ msgid ""
-#~ "I will give you two small devices charged with plasma. If you get in "
-#~ "trouble just activate one and it will send a shockwave of plasma around "
-#~ "you damaging anything in it's way. It should give you some breathing room."
-#~ msgstr ""
-#~ "Je vous donnerai deux petits appareils chargés au plasma. Si vous avez "
-#~ "des problèmes, activez en seulement un et il enverra un onde de choc de "
-#~ "plasma qui endommagera tout ce qui est sur votre chemin. Ça devrait "
-#~ "dégager l'espace."
 
 #, fuzzy
 #~ msgid "Logout"

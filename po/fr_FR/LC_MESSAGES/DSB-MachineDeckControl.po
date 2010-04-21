@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:24+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -33,8 +33,10 @@ msgid "*******"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:39
+#, fuzzy
 msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
 msgstr ""
+"Dernière connexion sur /dev/ttyS0, Dim, 23 mar 2057. admin@sadefense: ~#"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:47
 #, fuzzy
@@ -42,16 +44,21 @@ msgid "passwd"
 msgstr " mot de passe"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:49
+#, fuzzy
 msgid "Changing password for admin. Enter new password: "
 msgstr ""
+" Changement du mot de passe de l'administrateur. Entrez le nouveau mot de "
+"passe: "
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:50
+#, fuzzy
 msgid "Enter new password again: "
-msgstr ""
+msgstr " Entrez de nouveau le mot de passe: "
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:51
+#, fuzzy
 msgid "Password successfully changed."
-msgstr ""
+msgstr " Mot de passe modifié avec succès."
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:58
 #, fuzzy
@@ -59,20 +66,24 @@ msgid "shieldmgr --disable --force"
 msgstr " shieldmgr --disable --everywhere"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:60
+#, fuzzy
 msgid "Disabling disruptor shield... "
-msgstr ""
+msgstr "Désactivation des armes..."
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:61
+#, fuzzy
 msgid "Shield disabled."
-msgstr ""
+msgstr " Bouclier activé."
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:63
+#, fuzzy
 msgid "WARNING: Another user is using this computer."
-msgstr ""
+msgstr " ATTENTION: quelqu'un d'autre utilise cet ordinateur. "
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:64
+#, fuzzy
 msgid "Disruptor shield is active."
-msgstr ""
+msgstr " Bouclier brouilleur activé."
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:73
 #, fuzzy
@@ -1494,16 +1505,9 @@ msgstr ""
 #~ msgid "Login : admin  Password : *******"
 #~ msgstr " Identifiant : admin  Mot de passe : *******"
 
-#~ msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057. admin@sadefence: ~ #"
-#~ msgstr ""
-#~ "Dernière connexion sur /dev/ttyS0, Dim, 23 mar 2057. admin@sadefense: ~#"
-
 #, fuzzy
 #~ msgid "/usr/bin/guns --disable"
 #~ msgstr " /usr/bin/guns --disable"
-
-#~ msgid "Disabling guns..."
-#~ msgstr "Désactivation des armes..."
 
 #~ msgid "Connecting to peripheral controller..."
 #~ msgstr "Connection au contrôleur de périphérique..."
@@ -8135,23 +8139,6 @@ msgstr ""
 #~ msgid "Don't come back."
 #~ msgstr "Ne reviens pas."
 
-#~ msgid " Changing password for admin. Enter new password: "
-#~ msgstr ""
-#~ " Changement du mot de passe de l'administrateur. Entrez le nouveau mot de "
-#~ "passe: "
-
-#~ msgid " Enter new password again: "
-#~ msgstr " Entrez de nouveau le mot de passe: "
-
-#~ msgid " Password successfully changed."
-#~ msgstr " Mot de passe modifié avec succès."
-
-#~ msgid " WARNING: somebody else is using this computer. "
-#~ msgstr " ATTENTION: quelqu'un d'autre utilise cet ordinateur. "
-
-#~ msgid " Disruptor shield is active."
-#~ msgstr " Bouclier brouilleur activé."
-
 #~ msgid "Welcome, welcome! I'm Richard. I'm the computer guy around here."
 #~ msgstr ""
 #~ "Bienvenue, bienvenue ! Je suis Richard. Je suis l'informaticien du coin."
@@ -9572,9 +9559,6 @@ msgstr ""
 
 #~ msgid " shieldmgr --enable --everywhere"
 #~ msgstr " shieldmgr --enable --everywhere"
-
-#~ msgid " Shield enabled."
-#~ msgstr " Bouclier activé."
 
 #~ msgid " Disruptor shield deactivated near main enterance."
 #~ msgstr " Bouclier brouilleur désactivé à l'entrée principale."

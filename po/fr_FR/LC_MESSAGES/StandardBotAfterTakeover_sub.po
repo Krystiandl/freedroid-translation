@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:25+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -21,8 +21,9 @@ msgid ".. bot_name().."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:39
+#, fuzzy
 msgid "cd .."
-msgstr ""
+msgstr ". . ."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:45
 msgid "./est_repair.plx"
@@ -61,7 +62,7 @@ msgid "No upgrades found."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:87
-msgid "Always ask for confirmation before execution of ./hcf.py? Y/N"
+msgid "Always ask for confirmation before execution of hcf.py? Y/N"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:92
@@ -69,7 +70,7 @@ msgid "Yes, always ask."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:94
-msgid "Confirmation will now be asked before execution of ./hcf.py."
+msgid "Confirmation will now be asked before execution of hcf.py."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:95
@@ -77,11 +78,12 @@ msgid "Settings saved"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:104
+#, fuzzy
 msgid "No, don't ask"
-msgstr ""
+msgstr "Ne me demande pas."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:106
-msgid "./hcf.py will be executed without asking for confirmation."
+msgid "hcf.py will be executed without asking for confirmation."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:118
@@ -649,9 +651,6 @@ msgstr ""
 
 #~ msgid "I'll be going then."
 #~ msgstr "Alors j'y vais."
-
-#~ msgid ". . ."
-#~ msgstr ". . ."
 
 #~ msgid "Good. I need sleep."
 #~ msgstr "Bien. J'ai besoin de dormir."
@@ -3289,9 +3288,6 @@ msgstr ""
 #~ msgstr ""
 #~ "J'aurai aimé que les robots me tuent, simplement, mais j'ai été "
 #~ "'chanceux' et j'ai fini dans ce trou infernal."
-
-#~ msgid "Don't ask."
-#~ msgstr "Ne me demande pas."
 
 #~ msgid "'Terribly' would be a huge understatement."
 #~ msgstr "'Terriblement' serait franchement faible."

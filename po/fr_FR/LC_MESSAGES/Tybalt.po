@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:25+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -75,8 +75,9 @@ msgid ""
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:72
+#, fuzzy
 msgid "Also, we don't have to answer questions."
-msgstr ""
+msgstr " Je n'ai pas de secret."
 
 #: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:80
 #, fuzzy
@@ -107,8 +108,9 @@ msgid "Thank you."
 msgstr "Merci."
 
 #: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:103
+#, fuzzy
 msgid "That is not a hundred."
-msgstr ""
+msgstr " Les robots sont morts."
 
 #: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:108
 #, fuzzy
@@ -473,10 +475,6 @@ msgstr "Bon débarras."
 
 #~ msgid "That way I get to keep my secret, and you get to keep yours."
 #~ msgstr "De cette façon je garderai mes secrets, et tu garderas les tiens."
-
-#, fuzzy
-#~ msgid "I don't have any secrets."
-#~ msgstr " Je n'ai pas de secret."
 
 #~ msgid "And neither do I."
 #~ msgstr "Et je fais de même."
@@ -6950,10 +6948,6 @@ msgstr "Bon débarras."
 #~ msgstr ""
 #~ "Mais souviens-toi, la porte de sortie ne s'ouvrira que lorsque tu auras "
 #~ "détruit tous les robots."
-
-#, fuzzy
-#~ msgid "The bots are dead."
-#~ msgstr " Les robots sont morts."
 
 #~ msgid "Good for you."
 #~ msgstr "Pas mal pour toi."

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"POT-Creation-Date: 2010-04-21 11:24+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -25,7 +25,7 @@ msgid "admin"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControl.dialog:39
-msgid "  Password : "
+msgid " Password : "
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControl.dialog:40
@@ -33,8 +33,10 @@ msgid "*******"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControl.dialog:41
+#, fuzzy
 msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
 msgstr ""
+"Dernière connexion sur /dev/ttyS0, Dim, 23 mar 2057. admin@sadefense: ~#"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControl.dialog:49
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControl.dialog:51
@@ -1460,10 +1462,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "Login : admin  Password : *******"
 #~ msgstr " Identifiant : admin  Mot de passe : *******"
-
-#~ msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057. admin@sadefence: ~ #"
-#~ msgstr ""
-#~ "Dernière connexion sur /dev/ttyS0, Dim, 23 mar 2057. admin@sadefense: ~#"
 
 #, fuzzy
 #~ msgid "/usr/bin/guns --disable"
