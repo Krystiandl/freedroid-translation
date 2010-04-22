@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_data\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-21 07:39+0000\n"
+"POT-Creation-Date: 2010-04-22 12:23+0000\n"
 "PO-Revision-Date: 2009-02-23 00:43+0100\n"
 "Last-Translator: barbatrix <blue.bits@arcor.de>\n"
 "Language-Team: Deutsch\n"
@@ -17,9 +17,15 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 
 #: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:58
+msgid "North Gate Guard"
+msgstr ""
+
 #: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:59
+msgid "Gate Guardhouse Guard"
+msgstr ""
+
 #: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:60
-msgid "Old Town Gate Guard"
+msgid "Town Teleporter Guard"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:61
@@ -43,13 +49,24 @@ msgid "Sorenson -- Mystery coder"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:66
+msgid "614 -- North Gate Guard Bot"
+msgstr ""
+
 #: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:67
 #: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:68
+msgid "614 -- South Gate Guard Bot"
+msgstr ""
+
 #: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:69
+#, fuzzy
+msgid "614 -- East Gate Guard Bot"
+msgstr "Zurück zu Kevins Garten"
+
 #: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:70
 #: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:71
-msgid "614 -- Town Guard Bot"
-msgstr ""
+#, fuzzy
+msgid "614 -- Patrolling Guard Bot"
+msgstr "Zurück zu Kevins Garten"
 
 #: /home/david/src/freedroid-translation/map/ReturnOfTux.droids:72
 msgid "Richard -- Programmer"

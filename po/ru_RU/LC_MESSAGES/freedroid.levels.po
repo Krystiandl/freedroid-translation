@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidRPG 0.10.4cvs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-21 07:39+0000\n"
+"POT-Creation-Date: 2010-04-22 12:23+0000\n"
 "PO-Revision-Date: 2009-01-01 21:28+0000\n"
 "Last-Translator: Alex Mr.Brightside Demurine <extrimall90@mail.ru>\n"
 "Language-Team: Russian\n"
@@ -16,185 +16,185 @@ msgstr ""
 msgid "Town"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:3836
+#: /home/david/src/freedroid-translation/map/freedroid.levels:3835
 msgid "Warehouse Level 1"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:4800
+#: /home/david/src/freedroid-translation/map/freedroid.levels:4799
 msgid "Warehouse Level 2"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:5454
+#: /home/david/src/freedroid-translation/map/freedroid.levels:5453
 msgid "Kevins Underground Station"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:5923
+#: /home/david/src/freedroid-translation/map/freedroid.levels:5922
 msgid "Machine Deck Control Room"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:6660
-#: /home/david/src/freedroid-translation/map/freedroid.levels:8735
+#: /home/david/src/freedroid-translation/map/freedroid.levels:6659
+#: /home/david/src/freedroid-translation/map/freedroid.levels:8734
 msgid "Disruptor Shield Control"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:8161
+#: /home/david/src/freedroid-translation/map/freedroid.levels:8160
 msgid "Maintenance Tunnels"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:9445
+#: /home/david/src/freedroid-translation/map/freedroid.levels:9444
 msgid "Temple Wood"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:11314
+#: /home/david/src/freedroid-translation/map/freedroid.levels:11313
 msgid "Crystal Fields"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:12369
-#: /home/david/src/freedroid-translation/map/freedroid.levels:34561
-#: /home/david/src/freedroid-translation/map/freedroid.levels:34911
-#: /home/david/src/freedroid-translation/map/freedroid.levels:35309
+#: /home/david/src/freedroid-translation/map/freedroid.levels:12368
+#: /home/david/src/freedroid-translation/map/freedroid.levels:34554
+#: /home/david/src/freedroid-translation/map/freedroid.levels:34904
+#: /home/david/src/freedroid-translation/map/freedroid.levels:35302
 #, fuzzy
 msgid "Desert Valley"
 msgstr "Капсула Ловкости."
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:12854
+#: /home/david/src/freedroid-translation/map/freedroid.levels:12852
 msgid "Slasher Mountains"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:13887
+#: /home/david/src/freedroid-translation/map/freedroid.levels:13880
 msgid "Cryo Stasis Lab"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:16159
+#: /home/david/src/freedroid-translation/map/freedroid.levels:16152
 msgid "Telemetry"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:16327
+#: /home/david/src/freedroid-translation/map/freedroid.levels:16320
 msgid "Scientists quarters and Telemetry"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:17807
+#: /home/david/src/freedroid-translation/map/freedroid.levels:17800
 msgid "Disruptor Base Access Tunnel"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:18899
+#: /home/david/src/freedroid-translation/map/freedroid.levels:18892
 #, fuzzy
 msgid "Terminal Shore"
 msgstr "Истребитель"
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:19773
+#: /home/david/src/freedroid-translation/map/freedroid.levels:19766
 msgid "Ethereal Meadows"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:20814
+#: /home/david/src/freedroid-translation/map/freedroid.levels:20807
 msgid "Kevins Main Energy Source"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:21045
-#: /home/david/src/freedroid-translation/map/freedroid.levels:21552
+#: /home/david/src/freedroid-translation/map/freedroid.levels:21038
+#: /home/david/src/freedroid-translation/map/freedroid.levels:21545
 msgid "Northern Shoreline"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:22173
-#: /home/david/src/freedroid-translation/map/freedroid.levels:22293
-#: /home/david/src/freedroid-translation/map/freedroid.levels:22413
-#: /home/david/src/freedroid-translation/map/freedroid.levels:35771
+#: /home/david/src/freedroid-translation/map/freedroid.levels:22166
+#: /home/david/src/freedroid-translation/map/freedroid.levels:22286
+#: /home/david/src/freedroid-translation/map/freedroid.levels:22406
+#: /home/david/src/freedroid-translation/map/freedroid.levels:35764
 msgid "World Edge Sea"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:22533
-#: /home/david/src/freedroid-translation/map/freedroid.levels:38107
+#: /home/david/src/freedroid-translation/map/freedroid.levels:22526
+#: /home/david/src/freedroid-translation/map/freedroid.levels:38100
 msgid "Hell Fortress"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:23641
+#: /home/david/src/freedroid-translation/map/freedroid.levels:23634
 msgid "Broken Glass Path"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:24544
+#: /home/david/src/freedroid-translation/map/freedroid.levels:24537
 msgid "Swamp"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:25040
+#: /home/david/src/freedroid-translation/map/freedroid.levels:25033
 msgid "Mushroom Forest"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:25160
+#: /home/david/src/freedroid-translation/map/freedroid.levels:25153
 msgid "Some temple"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:25357
+#: /home/david/src/freedroid-translation/map/freedroid.levels:25350
 msgid "Novice Arena"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:25574
+#: /home/david/src/freedroid-translation/map/freedroid.levels:25567
 msgid "Master Arena"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:25791
+#: /home/david/src/freedroid-translation/map/freedroid.levels:25784
 msgid "Hell Fortress entrance"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:29046
+#: /home/david/src/freedroid-translation/map/freedroid.levels:29039
 msgid "Power Facility Underground"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:29350
+#: /home/david/src/freedroid-translation/map/freedroid.levels:29343
 msgid "Crystal Cavens"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:31776
+#: /home/david/src/freedroid-translation/map/freedroid.levels:31769
 msgid "Forgotten bunker"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:32071
+#: /home/david/src/freedroid-translation/map/freedroid.levels:32064
 msgid "Secret research center"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:33401
+#: /home/david/src/freedroid-translation/map/freedroid.levels:33394
 msgid "Secret area service tunnels"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:33638
+#: /home/david/src/freedroid-translation/map/freedroid.levels:33631
 msgid "Tutorial"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:35891
-#: /home/david/src/freedroid-translation/map/freedroid.levels:36233
+#: /home/david/src/freedroid-translation/map/freedroid.levels:35884
+#: /home/david/src/freedroid-translation/map/freedroid.levels:36226
 msgid "World Edge"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:36124
+#: /home/david/src/freedroid-translation/map/freedroid.levels:36117
 msgid "Old abandoned complex"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:36380
-#: /home/david/src/freedroid-translation/map/freedroid.levels:39181
-#: /home/david/src/freedroid-translation/map/freedroid.levels:39301
-#: /home/david/src/freedroid-translation/map/freedroid.levels:39421
-#: /home/david/src/freedroid-translation/map/freedroid.levels:39541
-#: /home/david/src/freedroid-translation/map/freedroid.levels:39879
+#: /home/david/src/freedroid-translation/map/freedroid.levels:36373
+#: /home/david/src/freedroid-translation/map/freedroid.levels:39174
+#: /home/david/src/freedroid-translation/map/freedroid.levels:39294
+#: /home/david/src/freedroid-translation/map/freedroid.levels:39414
+#: /home/david/src/freedroid-translation/map/freedroid.levels:39534
+#: /home/david/src/freedroid-translation/map/freedroid.levels:39872
 msgid "New level just created"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:36500
+#: /home/david/src/freedroid-translation/map/freedroid.levels:36493
 msgid "Worker Mines"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:36997
-#: /home/david/src/freedroid-translation/map/freedroid.levels:37188
+#: /home/david/src/freedroid-translation/map/freedroid.levels:36990
+#: /home/david/src/freedroid-translation/map/freedroid.levels:37181
 msgid "Southern Shorline"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:37606
+#: /home/david/src/freedroid-translation/map/freedroid.levels:37599
 msgid "Southern Shoreline"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:39661
+#: /home/david/src/freedroid-translation/map/freedroid.levels:39654
 msgid "Mashine Deck Upper Catacombs"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/map/freedroid.levels:39770
+#: /home/david/src/freedroid-translation/map/freedroid.levels:39763
 msgid "Machine Deck Lower Catacombs"
 msgstr ""
 
