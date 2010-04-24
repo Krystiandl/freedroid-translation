@@ -6,7 +6,8 @@ cd po/
 echo "for the language code ${1}"
 pwd
 if [ ! -d "${1}/LC_MESSAGES" ]; then 
-    mkdir "${1}" "${i}/LC_MESSAGES" ;
+    mkdir "${1}" ;
+    mkdir "${i}/LC_MESSAGES" ;
 fi ;
 
 for i in *.pot ; do  # on all the pot files 
