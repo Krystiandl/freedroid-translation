@@ -1,0 +1,564 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CHANGE THIS\n"
+"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
+"POT-Creation-Date: 2010-04-24 11:46+0000\n"
+"PO-Revision-Date: 2010-04-24 11:46+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:61
+msgid "Hi! I'm new here."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:63
+msgid "Hello. I'm Michelangelo. I haven't been here for long either."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:64
+msgid ""
+"I wish the bots had just killed me, but I got 'lucky' and ended up in "
+"this hellhole."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:69
+msgid "How is it going?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:71
+msgid "Don't ask."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:72
+msgid "'Terribly' would be a huge understatement."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:77
+msgid "Can I buy some food here?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:80
+msgid ""
+"Until my next batch of food comes out of the macrowave oven, all I "
+"have are the odoriferous military rations."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:82
+msgid "There is no food here, just the odious military rations."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:84
+msgid ""
+"They are made fully out of artificial nutrients and carcinogenic "
+"flavors. Even the army hated them."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:85
+msgid ""
+"It's better than starving, but some people have already committed "
+"suicide because that repulsive material is the only thing available "
+"to eat."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:86
+msgid "I can give you some, but it's not worthy of being called food."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:92
+msgid "I want some yummy army snacks!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:95
+msgid "I am supposed to read this out to all newcomers. Here goes:"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:96
+msgid ""
+"'Please note that the army rations model #23 you are about to eat is "
+"provided 'as is' without warranty of any kind."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:97
+msgid ""
+"That includes the implied warranty of edibility or fitness for a "
+"particular purpose. The entire risk as to the quality of the food is "
+"with you."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:98
+msgid ""
+"Should the army meal model #23 prove poisonous, you agree to cover "
+"the cost of keeping you alive by the base medical staff or the costs "
+"of your cremation in our nuclear furnaces.'"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:99
+msgid "Well, that is all. Here is the junk that you wanted. Enjoy."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:109
+msgid "You do not sound happy. What is wrong?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:111
+msgid "EVERYTHING!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:112
+msgid "Just look at this stupid town!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:113
+msgid ""
+"We are constantly pushed around by our 'saviors' the damn Red Guard. "
+"I hope they all die from rat bites as soon as possible and go to the "
+"deepest hells to boil in lava forever."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:114
+msgid ""
+"And the bots are keeping us busy by murdering, chopping, slicing, "
+"cleaving, rending and wounding us. How wonderful."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:115
+msgid ""
+"The guards gave me a filthy hovel to live in. The walls are so thin "
+"that every night I am rocked to sleep by the bots communicating with "
+"those beeps and modem sounds."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:116
+msgid ""
+"It sounds like they are singing something. Every night they start "
+"their song... I cannot sleep thanks to that electric chorus."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:117
+msgid ""
+"Have I mentioned that the only food that we have is some kind of "
+"pestilential military ration? The smell alone is making me want to "
+"vomit."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:122
+msgid "Cheer up! All will be fine! Happy days are coming! Hurray!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:124
+msgid "..."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:125
+msgid ""
+"Linarian, have you been gorging on psychoactive pills or something?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:126
+msgid ""
+"Get a grip, the situation is bad and there is no use in pretending "
+"otherwise."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:131
+msgid ""
+"You are a cook. Stop complaining about the poor food! Make some "
+"yourself."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:133
+msgid ""
+"I cannot! My beautiful macrowave oven is out of power. The wretched "
+"Red Guard took away my uranium battery."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:134
+msgid ""
+"I wish I could kill them all with my bare hands. They deserve it."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:135
+msgid "If only I had some dilithium to use as a backup power source..."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:140
+msgid "Got any food yet?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:144
+msgid "Here, try this slice of lemon meringue pie."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:146
+msgid "Wait, you don't have a Fork. You need a fork..."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:148
+msgid "It is as if a cloud from heaven was made into a pie."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:152
+msgid "Try this crab cake."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:154
+msgid "Where is your Plate and Fork?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:156
+msgid ""
+"Such an intense, delectable, blend of savory spices... it melts in my "
+"mouth."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:160
+msgid "May I interest you in some Eggs Sardou?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:161
+msgid "EGGS!?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:162
+msgid "Oh, Michelangelo had forgotten..."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:163
+msgid "How about a... yummy army snack instead?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:166
+msgid "I am in the midst of a culinary masterpiece."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:167
+msgid "I cannot rush art for I am an artist!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:170
+msgid ""
+"I had prepared some delicacies, but the ravenous Red Guard ate it all."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:171
+msgid ""
+"Not a big loss, I have a second batch of food cubes in the oven and "
+"they will be ready shortly."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:172
+msgid ""
+"I think the mood in the town will improve once the cooking master "
+"Michelangelo gets to work. Ha!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:173
+msgid ""
+"But if you are really hungry, I still have some of those disgusting "
+"army snacks."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:180
+msgid "I am racked with hunger pains, give me some army snacks!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:182
+msgid "I thought you would have learned by now."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:183
+msgid "As you wish."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:189
+msgid "Hmm... Crunchy... That is... Oh... No. Ugh. Help."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:191
+msgid "Oh yes. You were warned, so don't blame me."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:192
+msgid "Bleah! That is not food!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:193
+msgid ""
+"We already know that. There is nothing else to eat here, so I hope "
+"you get used to the taste."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:194
+msgid "That thing only looks okay, and has a nice color."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:195
+msgid ""
+"But as you can see, the color cannot be eaten, only the taste counts."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:199
+msgid "I have the dilithium you wanted."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:201
+msgid ""
+"Really? I thought you were dead, but not only did you come back "
+"alive, you also brought some power crystals for my trusty oven."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:202
+msgid "I will start cooking at once."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:203
+msgid ""
+"Thank you, Linarian. As soon as the food cubes are ready I will be "
+"able to give them away to the hungry people."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:213
+msgid "What was I supposed to do again?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:215
+msgid ""
+"Get me three dilithium crystals before the whole stupid town commits "
+"mass suicide because of poor food quality."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:216
+msgid ""
+"Of course our heinous food might do us in far before that. I swear I "
+"saw that stuff glow it the dark and try to sneak away from my plate a "
+"few times."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:220
+msgid "Where can I find dilithium crystals?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:222
+msgid ""
+"There is an old abandoned dilithium mine is to the east of the town."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:223
+msgid "Be careful if you go down there!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:227
+msgid "Why don't you send someone for the dilithium?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:229
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:289
+msgid "I did."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:230
+msgid ""
+"Yesterday a guard patrol found a few tiny bits of him and lots of "
+"dried blood."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:231
+msgid "The bots made a bloody mess out of him."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:236
+msgid "Maybe I can get you some dilithium."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:238
+msgid "Have you gotten overheated, Linarian?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:239
+msgid ""
+"Look, there are dozens of ways you can kill yourself, and most hurt "
+"less than being killed by a bot."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:240
+msgid ""
+"If you want to die just walk into a nuclear reactor or something. So "
+"much simpler."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:245
+msgid "Don't worry, I'll be fine."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:247
+msgid ""
+"Do you know how the bots act? Some want to kill you as soon as "
+"possible... Others want to do the same, but slowly."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:248
+msgid ""
+"I have seen corpses with nearly all of the fingers ripped off. People "
+"with eyes drilled out by some big tool."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:249
+msgid ""
+"I smelled burnt meat and heard the screams of the captives as they "
+"were incinerated alive outside the city walls."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:250
+msgid ""
+"The bots know no mercy. They cannot even define it, damn scrap metal "
+"fiends."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:251
+msgid ""
+"Feel free to go, Linarian, but make sure to be very dead before they "
+"start killing you."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:252
+msgid "Where can I get the crystals?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:253
+msgid ""
+"There is an old dilithium mine to the east. I am sure there is lots "
+"of that stuff there."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:254
+msgid ""
+"I will talk to the guards, they will open the eastern gate for you."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:255
+msgid "Good luck. Try not to get yourself killed."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:256
+msgid "How many dilithium crystals do you need?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:257
+msgid ""
+"A single small crystal could power my oven for a decade if it is of "
+"good quality. But unfortunately my oven requires two to operate "
+"correctly. And since it is so dangerous to send anyone to get "
+"dilithium, could you get me a spare as well?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:258
+msgid "So you need three dilithium crystals?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:259
+msgid "Yes. Please get me three dilithium crystals."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:266
+msgid "What is this 'dilithium'?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:268
+msgid ""
+"You do not know? I thought Linarians were unmatched in their "
+"knowledge of the universe. Anyway..."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:269
+msgid ""
+"Dilithium is a substance which is usually seen in the form of a small "
+"crystal."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:270
+msgid ""
+"It somehow generates and stores amazing amounts of electricity. I do "
+"not know the details. I'm a cook, not a quantum scientist."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:275
+msgid "I have an idea. Use fire to cook the food for the city."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:277
+msgid "A nice idea, but there is a couple of major problems with it."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:278
+msgid ""
+"We are a town of 450 hungry people. It would need to be a very big "
+"fire to supply heat for all of the meals."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:279
+msgid ""
+"There is nothing to burn inside the city. If you want you can go and "
+"try to chop some trees in the region to the north, but odds are the "
+"bots will chop you down before you get a chance to swing the hatchet "
+"once."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:280
+msgid ""
+"Finally, the meal cubes which we have in the freezer are optimized "
+"for macrowaves. If we stick them in a fire they will combust and not "
+"cook."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:281
+msgid "No oven means having to use premacrowaved food."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:282
+msgid ""
+"And the only such thing around is that abhorrent military sludge."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:287
+msgid "Tell the Red Guard that you need your battery back."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:290
+msgid "They said it was already fed to their reactor as fuel."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:295
+msgid "I need a dilithium crystal."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:297
+msgid ""
+"I am already using the ones you got me. They are being used to feed "
+"the town."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:303
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:310
+msgid ""
+"I need one of the dilithium crystals back, it is a matter of life or "
+"death!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:305
+msgid "I gave you all of the crystals I can spare."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:312
+msgid "I guess I can spare one of them, since it is an emergency."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:319
+msgid "I'll be going then."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Michelangelo.dialog:321
+msgid "See you later."
+msgstr ""

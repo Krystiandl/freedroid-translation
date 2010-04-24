@@ -1,0 +1,412 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CHANGE THIS\n"
+"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
+"POT-Creation-Date: 2010-04-24 11:46+0000\n"
+"PO-Revision-Date: 2010-04-24 11:46+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:53
+msgid "Hi... Erm... Who are you?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:55
+msgid ""
+"Duncan McNamara, The Red Guard's resident bomb maker, at your service."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:60
+msgid "I would like to buy a bomb."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:62
+msgid "Yes. I am sure we can arrange something. Take a look."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:68
+msgid "I see only grenades. Do you have something bigger?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:70
+msgid "My deepest apologies, I do not."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:71
+msgid ""
+"The Red Guard prohibits the sales of extremely destructive munitions."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:72
+msgid ""
+"It is not yet the time for the fall of their rule, so I remain loyal."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:77
+msgid ""
+"The fall of the Red Guard? I am going to report that you are "
+"preparing a revolution!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:79
+msgid ""
+"My word against yours. If you wish to try it, please, be my guest."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:80
+msgid ""
+"I am not preparing anything. I am just stating what I see as "
+"inevitable in the future."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:81
+msgid ""
+"I have taken part in many conflicts and I have seen how governments "
+"collapse."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:82
+msgid "As soon as the war is over, the Red Guard will disband."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:83
+msgid ""
+"Of course, I am making the assumption of victory, which is highly "
+"unlikely with the current state of affairs."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:88
+msgid "The fall of the Red Guard? Tell me more about it."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:90
+msgid ""
+"It is not the time to speak of such things yet. Come another day, and "
+"we shall talk about it in more detail."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:91
+msgid ""
+"The Red Guard can have their great laser beams and plasma cannons... "
+"But nothing can save them."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:96
+msgid "I want to buy some grenades."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:98
+msgid "Certainly."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:103
+msgid "What kind of grenade is the best?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:105
+msgid "You get what you pay for."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:110
+msgid "How did you get into making explosives?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:112
+msgid "Twenty years ago there was a conflict."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:113
+msgid ""
+"A grenade I threw destroyed a being which killed many of... my people."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:114
+msgid "Now I make more to smash the destroyers."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:122
+msgid "Ah. Welcome again Linarian."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:123
+msgid "I have a little request for you."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:124
+msgid "I know someone who needs to be taught a lesson."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:125
+msgid "Interested?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:130
+msgid "Tell me more."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:132
+msgid "Ah, excellent."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:133
+msgid "A... friend of mine, Koan, stole something of great value to me."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:134
+msgid ""
+"He is hiding somewhere in the desert, I don't know exactly where."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:139
+msgid "I will get your property back."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:141
+msgid "Excellent. I am pleased to hear this."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:142
+msgid "There is something you must know."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:143
+msgid ""
+"There are not too many bots in the desert, but they are undefeatable. "
+"It is best to avoid them."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:144
+msgid "I will be waiting here for your return."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:150
+msgid "What are those bots?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:152
+msgid "We call them 'Harvester'."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:153
+msgid "They were designed to chop down trees in the mountains."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:154
+msgid "Now they chop down people."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:155
+msgid ""
+"Their only weak point is their security system. But no one has "
+"managed to stay alive long enough to hack them."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:160
+msgid "What is it that he took from you?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:162
+msgid "A cube. Trust me, you can't miss it."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:167
+msgid "That is all I need to know. I will find Koan."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:169
+msgid "Only time will tell."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:170
+msgid ""
+"In any case, I'll let the Red Guard know to open the western gate to "
+"the desert."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:171
+msgid "Good luck!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:178
+msgid "No, I don't find bloodshed a pleasurable activity."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:180
+msgid "That is fine. I will find someone else."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:188
+msgid "So... Any news on the Koan matter?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:191
+msgid ""
+"I could not find him anywhere in the desert. I don't think he is "
+"there anymore."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:192
+msgid "I see."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:203
+msgid "Yeah. I got him. I think this is your cube."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:205
+msgid "Yes. I appreciate your help."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:211
+msgid ""
+"Yeah, I got him. Now, what is this big cube that you had me carry all "
+"the way here?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:213
+msgid "Just a memento from a friend."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:214
+msgid ""
+"A little more than a portable end of the world, which I am looking "
+"forward to disassembling and learning its secrets."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:215
+msgid "Nothing that important."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:220
+msgid ""
+"A 'few' bots? The place was crawling with Harvesters! I nearly got "
+"killed!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:222
+msgid ""
+"There were only one hundred and twenty bots in the entire desert "
+"region. This hardly qualifies as many, considering the size of the "
+"area."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:223
+msgid ""
+"What? You know exactly how many bots were in the desert? Without "
+"being there? I don't like this."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:224
+msgid "I just know a lot of things. You do not need to worry about it."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:225
+msgid "I don't like this at all. I'm getting out of here."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:226
+msgid "As you wish."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:232
+msgid ""
+"Hey, that is really neat. Here is your cube. Enjoy disassembling it "
+"and have fun with it."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:234
+msgid "I will."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:240
+msgid "WHAT? No way I am giving you a doomsday device! Forget about it."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:242
+msgid "I understand. So be it."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:259
+msgid "I feel you are... Different."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:261
+msgid "What a great way to start a conversation."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:262
+msgid "Yes, that is true. I am not who I seem to be."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:263
+msgid "But then again, neither are you, so my thoughts are we are even."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:264
+msgid "What do you mean? I am "
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:265
+msgid ""
+"And I am Duncan McNamara, the maker of grenades and nothing else."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:266
+msgid "I believe the topic is thoroughly exhausted now."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:271
+msgid "Tell me who you are. I need to know."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:273
+msgid "Twenty years ago, the people were kinder to each other."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:274
+msgid "I suggest you be kind to me as well, and I will be kind to you."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:275
+msgid "That way I get to keep my secret, and you get to keep yours."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:280
+msgid "I don't have any secrets."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:282
+msgid "And neither do I."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:287
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:305
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:307
+msgid "See you later."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:289
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:297
+msgid "I wish you cold winds."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:290
+msgid ""
+"Huh? How do you know the Linarian farewell? No one around here knows "
+"it."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:291
+msgid "I read many books on Linarians. That is all."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:292
+msgid "Nothing more and nothing less."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:299
+msgid "May the ice bring you wisdom."
+msgstr ""

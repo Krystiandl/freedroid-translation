@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CHANGE THIS\n"
+"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
+"POT-Creation-Date: 2010-04-24 11:46+0000\n"
+"PO-Revision-Date: 2010-04-24 11:46+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:34
+msgid " . "
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:37
+msgid "Welcome to the Community Network."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:38
+msgid "Login : "
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:45
+msgid " guest "
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:53
+msgid "First time login detected."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:54
+msgid "Please enter your name"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:55
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:62
+msgid "Name : "
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:57
+msgid "Please set password for your personalized guest login "
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:58
+msgid ""
+"Use at least one lower case letter, one upper case letter, one "
+"number, and one symbol."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:59
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:64
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:77
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:96
+msgid "Password : "
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:67
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:84
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:103
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:122
+msgid "Last login from dev/tty3 on unknown"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:73
+msgid "root"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:92
+msgid "lily"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:110
+msgid "cpain"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:114
+msgid "Password: "
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:129
+msgid "IM A BUG. REPORT ME!"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:132
+msgid "Login incorrect"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:133
+msgid "Connection to c-net terminated."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:138
+msgid "cd info_commands/"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:148
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:220
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:278
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:325
+msgid "cd ../"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:158
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:162
+msgid "date"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:163
+msgid "Date unknown"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:168
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:171
+msgid "finger"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:182
+msgid "users"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:192
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:195
+msgid "whoami"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:196
+msgid "guest"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:201
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:204
+msgid "uname"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:205
+msgid "Nkernel"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:210
+msgid "cd file_commands/"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:230
+msgid "ls"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:242
+msgid "mountdisk.sh"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:245
+msgid "./mountdisk.sh"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:246
+msgid "no disk found"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:251
+msgid "statistics.pl"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:255
+msgid "Corrupted file."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:256
+msgid "Bot #Dead# Tux #Hacked/Failed#Ratio"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:258
+msgid "tux@c-net:~$"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:262
+msgid "cd documents/"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:288
+msgid "forkBOMB.sh -arm bomb"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:290
+msgid "bomb armed"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:291
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:299
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:310
+msgid "root@c-net:~$"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:296
+msgid "forkBOMB.sh -disarm bomb"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:298
+msgid "bomb defused"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:305
+msgid "forkBOMB.sh -execute"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:309
+msgid "Script run. Once after logout terminal will be disabled."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:315
+msgid "cd games/"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:335
+msgid "nethack"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:344
+msgid "global_thermonuclear_war"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:347
+msgid "./global_thermonuclear_war"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:353
+msgid "logout"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:357
+msgid "Connection to c-net closed."
+msgstr ""
