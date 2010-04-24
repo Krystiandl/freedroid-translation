@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-22 12:23+0000\n"
+"POT-Creation-Date: 2010-04-24 11:46+0000\n"
 "PO-Revision-Date: 2008-12-16 05:43+0000\n"
 "Last-Translator: Dmitry Tumaikin <nevly@mail.ru>\n"
 "Language-Team: Russian\n"
@@ -13,6 +13,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2009-01-11 17:40+0000\n"
 "X-Generator: Launchpad (build Unknown)\n"
+
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:39
+#, fuzzy
+msgid "Oh, thank heavens! You are still alive. Maybe all hope is not lost."
+msgstr "О, хвала небесам! Ты ещё жив! Возможно, ещё не всё потеряно."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:45
 msgid "Who am I?"
@@ -6229,10 +6234,6 @@ msgstr ""
 
 #~ msgid "Take care, Linarian."
 #~ msgstr "Будь осторожен, Линарианец."
-
-#, fuzzy
-#~ msgid "Oh, thank heavens! You are still alive. Maybe all hope is not lost."
-#~ msgstr "О, хвала небесам! Ты ещё жив! Возможно, ещё не всё потеряно."
 
 #~ msgid ""
 #~ "But you are a member of the Town Guard already! Don't be pulling my leg! "

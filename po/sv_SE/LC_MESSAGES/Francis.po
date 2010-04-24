@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroid\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-22 12:23+0000\n"
+"POT-Creation-Date: 2010-04-24 11:46+0000\n"
 "PO-Revision-Date: 2008-10-28 08:03+0000\n"
 "Last-Translator: Christian Widell <Christian_widell@hotmail.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
@@ -16,6 +16,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2009-01-11 17:40+0000\n"
 "X-Generator: Launchpad (build Unknown)\n"
+
+#: /home/david/src/freedroid-translation/dialogs/Francis.dialog:39
+#, fuzzy
+msgid "Oh, thank heavens! You are still alive. Maybe all hope is not lost."
+msgstr ""
+"Ahh, prisa himmelen. Du lever fortfarande. Kanske inte allt hopp är förlorat."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:45
 msgid "Who am I?"
@@ -1233,12 +1239,6 @@ msgstr ""
 
 #~ msgid "Don't come back."
 #~ msgstr "Kom inte tillbaka."
-
-#, fuzzy
-#~ msgid "Oh, thank heavens! You are still alive. Maybe all hope is not lost."
-#~ msgstr ""
-#~ "Ahh, prisa himmelen. Du lever fortfarande. Kanske inte allt hopp är "
-#~ "förlorat."
 
 #~ msgid "THIS WILL NOT EVER BE VISIBLE"
 #~ msgstr "DET HÄR KOMMER ALDRIG ATT VARA SYNLIGT"

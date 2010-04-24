@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-22 12:23+0000\n"
+"POT-Creation-Date: 2010-04-24 11:46+0000\n"
 "PO-Revision-Date: 2009-02-22 23:51+0100\n"
 "Last-Translator: barbatrix <blue.bits@arcor.de>\n"
 "Language-Team: Deutsch\n"
@@ -15,16 +15,25 @@ msgstr ""
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:39
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:40
 msgid "What? You again? I don't want you here, get out."
 msgstr "Was? Du wieder? Ich will dich hier nicht haben, hau ab!"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:45
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:41
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:163
+msgid "See you later."
+msgstr "Ciao."
+
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:42
+msgid "Don't come back. I hate you."
+msgstr "Komm ja nicht wieder... falsches Aas!"
+
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:48
 #, fuzzy
 msgid "Hi! I'm new here."
 msgstr " Hallo, ich bin neu hier..."
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:47
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:50
 msgid ""
 "Great! A newcomer! Welcome! Welcome! I'm Skippy, and I'm your new best "
 "friend!"
@@ -32,48 +41,48 @@ msgstr ""
 "Großartig! Ein Neuer! Willkommen! Willkommen! Ich heiße Skippy und ich bin "
 "dein neuer bester Freund!"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:48
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:51
 msgid "I already saw you coming. Due to my mapping device! It's great stuff!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:49
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:52
 #, fuzzy
 msgid "And as a special favour, I'll sell you a mapping device for half price!"
 msgstr ""
 "Und als besonderen Gefallen verkaufe ich dir eine Automap-Einheit zum halben "
 "Preis!"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:50
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:53
 msgid "What a GREAT offer! You're so lucky!"
 msgstr "Was für ein TOLLES Angebot! Hast du ein Glück!"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:55
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:58
 msgid "Ok, if I want to buy me one of those mapping pills. How much are they?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:57
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:60
 msgid "They only cost 50. Special price only for you!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:62
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:65
 #, fuzzy
 msgid "How do I activate a mapping device?"
 msgstr " Wie aktiviere ich so eine Kartographie-Einheit?"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:64
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:67
 msgid "Oh, that's so simple. No need to activate anything at all."
 msgstr ""
 "Oh, das ist so einfach! Überhaupt keine Notwendigkeit, irgendwas "
 "einzuschalten."
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:65
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:68
 #, fuzzy
 msgid ""
 "Just swallow the pill and the nanotechnological bots will enter your body."
 msgstr ""
 "Setz dir das Ding einfach auf und die Nanobots dringen in deinen Körper ein."
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:66
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:69
 msgid ""
 "They'll merge with your eyes and transmit data to your brain using the "
 "optical nerves. Nice, eh?"
@@ -81,19 +90,19 @@ msgstr ""
 "Sie werden sich mit deinen Augen verbinden und Daten mit Hilfe der Sehnerven "
 "an dein Gehirn weiterleiten. Hübsch, was?"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:67
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:70
 #, fuzzy
 msgid "Everything within 50 meters of you will be displayed on your retinas."
 msgstr ""
 "Alles im Umkreis von 7 Metern wird erfasst, gespeichert und bei Bedarf "
 "wieder auf deine Retinas projiziert."
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:72
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:75
 #, fuzzy
 msgid "You said you make these things yourself? How do you do that?"
 msgstr " Sie sagten, Sie machen diese Dinger selbst? Wie stellen Sie das an?"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:74
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:77
 msgid ""
 "Oh, I've always been a geek. And I got blueprints from before the Great "
 "Assault."
@@ -101,32 +110,32 @@ msgstr ""
 "Oh, ich war schon immer ein Technikfreak. Und ich habe die Blaupausen aus "
 "der Zeit von vor dem Großen Angriff."
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:75
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:78
 msgid "You can't order anything from a catalogue anymore."
 msgstr "Man kann nichts mehr aus Katalogen bestellen, weißt du."
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:76
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:79
 msgid "The only source of these gizmos is here. It's me!"
 msgstr "Die einzige Quelle für diese kleinen Dingerchen ist hier. Bei mir!"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:81
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:84
 #, fuzzy
 msgid "Nanotechnology? Isn't that dangerous?"
 msgstr " Nanotechnologie? Ist das nicht gefährlich?"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:83
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:86
 msgid ""
 "No way, man, I guarantee it. Don't believe anything you might have heard."
 msgstr ""
 "Keine Spur Mann, glaub mir. Nimm nicht alles ernst, was du vielleicht so "
 "gehört hast."
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:84
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:87
 msgid "This is a perfectly safe and tried technology. No risk at all! Really!"
 msgstr ""
 "Das ist supersichere und erprobte Technologie. Überhaupt kein Risiko! Echt!"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:85
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:88
 msgid ""
 "There is no risk of your head being eaten by a nanotechnological nightmare, "
 "or anything funny like that."
@@ -134,32 +143,32 @@ msgstr ""
 "Keine Gefahr, dass dein Kopf von einem nanotechnischen Alptraum aufgefressen "
 "wird oder irgendwas lächerliches in der Art."
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:86
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:89
 msgid ""
 "I've used one myself for many years now: no side effects! It works just as "
 "great as on the first day!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:87
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:90
 msgid "Trust me! I'm your best friend and I wouldn't lie to you! Never!"
 msgstr ""
 "Vertrau mir! Ich bin dein bester Freund und würde dich nie anlügen! Niemals!"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:92
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:95
 #, fuzzy
 msgid "I don't trust you."
 msgstr " Ich trau Ihnen nicht!"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:94
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:97
 msgid "WHAT? But I'm your best friend! You must trust me!"
 msgstr "WAS? Aber ich bin dein bester Freund! Du musst mir vertrauen!"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:99
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:102
 #, fuzzy
 msgid "I still do not trust you. You are selling junk to people."
 msgstr " Ich muss garnichts! Sie verkaufen Mist an die Leute."
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:101
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:104
 msgid ""
 "WHAT? Fine, you can forget about my great deals now! I don't want to trade "
 "with you anymore!"
@@ -167,113 +176,104 @@ msgstr ""
 "WAS?!! Schön, jetzt du kannst die guten Schnäppchen vergessen! Ich will gar "
 "nicht mehr mit dir handeln!"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:102
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:105
 msgid "I'm no longer your best friend. Go away, you dirty hoser!"
 msgstr ""
 "Ich bin nicht mehr länger dein bester Freund... verschwinde, Dreckskerl!"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:109
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:112
 msgid "Do you sell anything else?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:111
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:114
 msgid ""
 "Sure! I also build some electronics devices, depending on what parts I can "
 "get my hands on."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:113
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:116
 msgid "Resources are a bit scarce nowdays though."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:118
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:121
 #, fuzzy
 msgid "Ok, I'll take one."
 msgstr " Na gut, ich werde sie abstellen."
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:121
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:124
 #, fuzzy
 msgid "Here is your pill."
 msgstr "Bitteschön!"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:122
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:125
 msgid "Just swallow it, and it should work."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:123
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:126
 msgid ""
 "I give a 30 day warranty and adjustments, in case it doesn't work as "
 "expected."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:125
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:128
 #, fuzzy
 msgid "Swallow pill and Press tab to see automap."
 msgstr "(Drücke einfach TAB, um die Karte einzublenden.)"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:127
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:130
 msgid "Hey, I'm not a bank!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:128
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:131
 #, fuzzy
 msgid "Come back when you can afford it."
 msgstr "Komm zurück mit ein wenig Geld."
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:135
-msgid "Nah, dont think so. "
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:138
+msgid "Nah, don't think so. "
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:137
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:140
 msgid "Your loss."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:138
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:141
 msgid "Hope you won't get lost and killed out there."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:139
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:142
 #, fuzzy
 msgid "But don't count on it."
 msgstr " Ich trau Ihnen nicht!"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:144
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:147
 #, fuzzy
 msgid "Why are you so friendly?"
 msgstr " Warum sind Sie so freundlich?"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:146
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:149
 msgid "Because you are my best friend!"
 msgstr "Weil du mein bester Freund bist!"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:147
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:150
 msgid "I always take good care of my special buddies!"
 msgstr "Ich kümmere mich immer gut um meine ganz speziellen Kumpels!"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:152
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:155
 #, fuzzy
 msgid "You are friendly only to sell me your stuff, aren't you?"
 msgstr ""
 " Sie sind nur deshalb so freundlich, um mir diese Dinger anzudrehen, stimmts?"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:154
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:157
 msgid "No, never! I would never be so shallow!"
 msgstr "Nein, nie! Ich wäre nie im Leben so oberflächlich!"
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:155
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:158
 msgid "I am friendly because I like you."
 msgstr "Ich bin so freundlich, weil ich dich mag."
 
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:160
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:167
-msgid "See you later."
-msgstr "Ciao."
-
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:162
-msgid "Don't come back. I hate you."
-msgstr "Komm ja nicht wieder... falsches Aas!"
-
-#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:169
+#: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:165
 msgid ""
 "Yes, we'll meet again, my friend, and I'll have other great deals for you."
 msgstr ""

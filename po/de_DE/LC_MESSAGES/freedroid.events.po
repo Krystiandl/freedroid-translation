@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_data\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-22 12:23+0000\n"
+"POT-Creation-Date: 2010-04-24 11:46+0000\n"
 "PO-Revision-Date: 2009-02-23 00:43+0100\n"
 "Last-Translator: barbatrix <blue.bits@arcor.de>\n"
 "Language-Team: Deutsch\n"
@@ -17,52 +17,61 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:19
-msgid "To maintenance tunnels"
-msgstr "Zu den Wartungstunneln"
+#, fuzzy
+msgid "To Maintenance Tunnels"
+msgstr "Die Wartungstunnel"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:28
-msgid "Enter novice arena"
-msgstr "Betrete Anfänger-Arena"
+#, fuzzy
+msgid "To Novice Arena"
+msgstr "Anfänger-Arena"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:37
-msgid "Enter master arena"
-msgstr "Betrete Experten-Arena"
+#, fuzzy
+msgid "To Master Arena"
+msgstr "Experten-Arena"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:49
-msgid "Exit warehouse"
+#, fuzzy
+msgid "Exit Warehouse"
 msgstr "Lagerhaus verlassen"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:58
-msgid "To warehouse level 2"
-msgstr "Ins Lagerhaus-Untergeschoss 2"
+#, fuzzy
+msgid "To Warehouse Level 2"
+msgstr "Lagerhaus Untergeschoss 2"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:70
-msgid "To warehouse level 1"
-msgstr "Ins Lagerhaus-Untergeschoss 1"
+#, fuzzy
+msgid "To Warehouse Level 1"
+msgstr "Lagerhaus Untergeschoss 1"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:82
-msgid "Back to Kevin's garden"
+#, fuzzy
+msgid "Back to Kevin's Garden"
 msgstr "Zurück zu Kevins Garten"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:91
-msgid "To energy station"
+#, fuzzy
+msgid "To Energy Station"
 msgstr "Zur Energieversorgung"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:103
-msgid "Back to lower catacombs"
+msgid "Back to Lower Catacombs"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:115
 #, fuzzy
-msgid "Way to disruption machine deck"
-msgstr "Zum Disruptor-Maschinendeck"
+msgid "Way to Disruptor Machine Deck"
+msgstr "Disruptor-Maschinendeck"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:127
-msgid "Back from maintenance tunnels"
-msgstr "Rückkehr von den Wartungstunneln"
+msgid "Back to Town"
+msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:143
-msgid "Enter warehouse"
+#, fuzzy
+msgid "Enter Warehouse"
 msgstr "Lagerhaus betreten"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:155
@@ -70,11 +79,13 @@ msgid "Down into Crystal Caves"
 msgstr "Abstieg in die Kristallhöhlen"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:195
-msgid "To Kevin's underground station"
+#, fuzzy
+msgid "To Kevin's Underground Station"
 msgstr "Zu Kevins Untergrundstation"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:207
-msgid "To underground station"
+#, fuzzy
+msgid "To Underground Station"
 msgstr "Zur Untergrundstation"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:243
@@ -82,11 +93,13 @@ msgid "Hatch with broken ladder"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:267
-msgid "Exit novice arena"
+#, fuzzy
+msgid "Exit Novice Arena"
 msgstr "Verlasse Anfänger-Arena"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:279
-msgid "Exit master arena"
+#, fuzzy
+msgid "Exit Master Arena"
 msgstr "Verlasse Experten-Arena"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:291
@@ -106,15 +119,14 @@ msgid "Exit Crystal Caves"
 msgstr "Verlasse Kristallhöhlen"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:339
-msgid "Back from bunker"
-msgstr "Zurück vom Bunker"
-
 #: /home/david/src/freedroid-translation/map/freedroid.events:351
-msgid "Back to the desert"
+#, fuzzy
+msgid "Back to the Desert"
 msgstr "Zurück in die Wüste"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:371
-msgid "To a forgotten bunker"
+#, fuzzy
+msgid "To a Forgotten Bunker"
 msgstr "Eintritt zu einem vergessenen Bunker"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:387
@@ -142,6 +154,31 @@ msgstr ""
 #, fuzzy
 msgid "To Disruptor Mashine Deck"
 msgstr "Disruptor-Maschinendeck"
+
+#~ msgid "To maintenance tunnels"
+#~ msgstr "Zu den Wartungstunneln"
+
+#~ msgid "Enter novice arena"
+#~ msgstr "Betrete Anfänger-Arena"
+
+#~ msgid "Enter master arena"
+#~ msgstr "Betrete Experten-Arena"
+
+#~ msgid "To warehouse level 2"
+#~ msgstr "Ins Lagerhaus-Untergeschoss 2"
+
+#~ msgid "To warehouse level 1"
+#~ msgstr "Ins Lagerhaus-Untergeschoss 1"
+
+#, fuzzy
+#~ msgid "Way to disruption machine deck"
+#~ msgstr "Zum Disruptor-Maschinendeck"
+
+#~ msgid "Back from maintenance tunnels"
+#~ msgstr "Rückkehr von den Wartungstunneln"
+
+#~ msgid "Back from bunker"
+#~ msgstr "Zurück vom Bunker"
 
 #~ msgid ""
 #~ "Spawning item index 0 in editor or drop ingame causes CTD! Dont click "
@@ -1677,20 +1714,11 @@ msgstr "Disruptor-Maschinendeck"
 #~ msgid "Town"
 #~ msgstr "Ortschaft"
 
-#~ msgid "Warehouse Level 1"
-#~ msgstr "Lagerhaus Untergeschoss 1"
-
-#~ msgid "Warehouse Level 2"
-#~ msgstr "Lagerhaus Untergeschoss 2"
-
 #~ msgid "Kevins Underground Station"
 #~ msgstr "Kevins Untergrundstation"
 
 #~ msgid "Disruptor LvV"
 #~ msgstr "Disruptor Level V"
-
-#~ msgid "Maintenance Tunnels"
-#~ msgstr "Die Wartungstunnel"
 
 #~ msgid "Temple Wood"
 #~ msgstr "Tempelwald"
@@ -1742,12 +1770,6 @@ msgstr "Disruptor-Maschinendeck"
 
 #~ msgid "Some temple"
 #~ msgstr "Ein Tempel"
-
-#~ msgid "Novice Arena"
-#~ msgstr "Anfänger-Arena"
-
-#~ msgid "Master Arena"
-#~ msgstr "Experten-Arena"
 
 #~ msgid "Hell Fortress entrance"
 #~ msgstr "Eingang zur Höllenfestung"

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-22 12:23+0000\n"
+"POT-Creation-Date: 2010-04-24 11:46+0000\n"
 "PO-Revision-Date: 2009-02-22 23:51+0100\n"
 "Last-Translator: barbatrix <blue.bits@arcor.de>\n"
 "Language-Team: Deutsch\n"
@@ -72,7 +72,7 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:74
 #, fuzzy
-msgid "What about some money instead?"
+msgid "How about some circuits instead?"
 msgstr " Wie wärs mit etwas Geld?"
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:76
@@ -80,12 +80,32 @@ msgstr " Wie wärs mit etwas Geld?"
 msgid "For 15 million circuits, no less, hehe."
 msgstr "Für 15 Millionen Piepen, nicht weniger... hähä!"
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:81
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:82
+#, fuzzy
+msgid "But I don't have that many circuits!"
+msgstr " Ich habe keine Geheimnisse."
+
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:84
+msgid "That much I can tell."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:85
+msgid ""
+"Look, I'm just fooling around. We don't let just anyone join the Red Guard."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:86
+msgid ""
+"If you seriously want to join, you have to prove yourself first. You might "
+"want to ask around town for things you can do."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:92
 #, fuzzy
 msgid "Maybe I could help somehow?"
 msgstr " Vielleicht kann ich aushelfen?"
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:83
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:94
 msgid ""
 "That would be most kind of you, but I doubt that you will be able to clear "
 "out the warehouse for us."
@@ -93,7 +113,7 @@ msgstr ""
 "Das wäre natürlich äußerst liebenswürdig von Ihnen, nur - ich bezweifle, "
 "dass Sie im Stande sind, das Lagerhaus einzunehmen."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:84
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:95
 msgid ""
 "But since you are said to be powerful and a former hero, I'll once more put "
 "trust into a stranger."
@@ -102,7 +122,7 @@ msgstr ""
 "aus früheren Tagen, also werde ich doch einmal einem Fremden Vertrauen "
 "schenken..."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:85
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:96
 #, fuzzy
 msgid ""
 "I've unlocked the access-way to the warehouse. It's to the north of this "
@@ -111,7 +131,7 @@ msgstr ""
 "Ich habe den Eingang zum Lagerhaus geöffnet. Er ist jenseits des Nordtors, "
 "etwas versteckt im nordöstlichen Tempelwald."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:86
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:97
 msgid ""
 "The stuff we need is on the first floor. Don't go any deeper, there are only "
 "bots in there."
@@ -120,16 +140,16 @@ msgstr ""
 "nicht weiter nach unten - damit wäre uns nicht gedient und die Bots dort "
 "sind mit Sicherheit zu heftig für Sie."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:87
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:98
 msgid "I wish you the best of luck."
 msgstr "Ich wünsche Ihnen alles Gute!"
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:94
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:105
 #, fuzzy
 msgid "How is it going?"
 msgstr " Wie geht es Ihnen?"
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:99
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:110
 msgid ""
 "Thanks to you, we've been able to transport all the goods we need right now. "
 "You've really helped us out there."
@@ -138,21 +158,21 @@ msgstr ""
 "organisieren, die wir zur Zeit brauchen... Sie haben uns da wirklich aus der "
 "Klemme geholfen!"
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:100
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:111
 msgid ""
 "Rest assured that we will never forget your brave activity for our community."
 msgstr ""
 "Seien Sie versichert, dass wir Ihnen Ihren mutigen Einsatz für unsere "
 "Gemeinschaft nie vergessen werden!"
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:102
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:113
 msgid ""
 "Man, you really did it! I can hardly believe it, but all the bots are gone!"
 msgstr ""
 "Mann, Sie haben's wirklich geschafft! Ich kann es kaum glauben, aber alle "
 "Androiden sind weg!"
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:103
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:114
 #, fuzzy
 msgid ""
 "Take these 500 circuits as a reward. And be assured that you've earned my "
@@ -161,7 +181,7 @@ msgstr ""
 "Nehmen Sie die 500 Tribucks als Belohnung. Sie verdienen meinen allergrößten "
 "Respekt, Linarianer!"
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:104
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:115
 msgid ""
 "Our people are transporting the goods as we speak. It can't be too long "
 "until new bots from ships in the orbit of the planet will beam down to "
@@ -171,7 +191,7 @@ msgstr ""
 "mehr allzu lange dauern, bis neue Robots aus den Raumschiffen im Orbit "
 "herunterbeamen und die zerstörten ersetzen."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:110
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:121
 msgid ""
 "Not too good. Without the supplies from the warehouse we are doomed. So my "
 "problems are still the same."
@@ -179,7 +199,7 @@ msgstr ""
 "Nicht sehr gut. Ohne den Nachschub aus dem Lagerhaus sind wir verloren. An "
 "meinen Problemen hat sich nichts geändert."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:111
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:122
 msgid ""
 "Maybe later, when you grow more experienced you might be able to help us "
 "after all."
@@ -187,7 +207,7 @@ msgstr ""
 "Vielleicht können Sie uns später, wenn Sie mehr Erfahrung haben, doch noch "
 "helfen."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:114
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:125
 #, fuzzy
 msgid ""
 "These are bad times. Interplanetary travel is made impossible by bot ships, "
@@ -197,7 +217,7 @@ msgstr ""
 "Robot-Schiffe unmöglich geworden, daher müssen wir mit den lokalen "
 "Rohstoffen auskommen."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:115
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:126
 #, fuzzy
 msgid ""
 "We've got a list of stuff we need from the automated underground storage "
@@ -207,7 +227,7 @@ msgstr ""
 "unterirdischen Lager, außerhalb der Ansiedlung benötigen. Aber die Robots "
 "dort sind sehr zahlreich!"
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:116
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:127
 #, fuzzy
 msgid ""
 "And currently I can't spare a single man from the city defenses. It's quite "
@@ -216,12 +236,12 @@ msgstr ""
 "Und momentan kann ich keinen einzigen Mann entbehren, um die Verteidigung "
 "unserer kleinen Stadt aufrecht zu erhalten. Eine recht schwierige Situation."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:122
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:133
 #, fuzzy
 msgid "Have I done enough quests to become a member now?"
 msgstr " Habe ich genug geleistet, um der Roten Wache nun beitreten zu können?"
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:125
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:136
 #, fuzzy
 msgid ""
 "I think our teleporter service man, Dixon, has some problem. You might want "
@@ -230,13 +250,13 @@ msgstr ""
 "Ich glaube, unser Teleporter-Spezialist Dixon hat ein Problem. Sie könnten "
 "sich eventuell mit Ihm darüber unterhalten..."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:128
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:135
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:142
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:139
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:146
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:153
 msgid "Dixon has his toolkit back."
 msgstr "Dixon hat seine Werkzeugkiste zurück."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:129
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:140
 msgid ""
 "He was in bad mood and told me he had to pay you for getting his own "
 "property back."
@@ -244,20 +264,20 @@ msgstr ""
 "Er erzählte mir schlechtgelaunt, dass er dich dafür bezahlen musste, sein "
 "Eigentum zurückzubekommen."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:130
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:141
 msgid "I think it is the best for him if we leave him alone the next days."
 msgstr ""
 "Ich vermute, es ist am besten, ihn in den nächsten Tagen in Ruhe zu lassen."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:131
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:142
 msgid "I'm sure he has to do a lot now."
 msgstr "Ich bin sicher, er hat zur Zeit viel zu tun."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:136
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:147
 msgid "He seemed quite aggressive and stressed."
 msgstr "Er schien mir ziemlich gestresst und aggressiv."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:137
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:148
 msgid ""
 "Poor guy, if we weren't in such a bad situation, he could have some work-"
 "free days, but bot attacks continue all the time."
@@ -266,11 +286,11 @@ msgstr ""
 "könnte er ein paar freie Tage haben, aber die Roboter-Übergriffe reißen "
 "nicht ab."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:138
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:149
 msgid "You better don't bother him the next days."
 msgstr "Du belästigst ihn wohl besser die nächsten Tage über nicht."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:143
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:154
 #, fuzzy
 msgid ""
 "He did rail against you though. He said he had to give you 400 circuits to "
@@ -279,7 +299,7 @@ msgstr ""
 "Er schimpfte allerdings über dich und sagte, er musste dir 400 Tribucks "
 "geben, um sein Werkzeugset, sein Eigentum zurückzubekommen. "
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:144
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:155
 #, fuzzy
 msgid ""
 "That was nearly all money he had. He said you were too greedy to become a "
@@ -289,7 +309,7 @@ msgstr ""
 "gierig, um ein gutes Mitglied abzugeben und dass er dich nicht mehr sehen "
 "wolle."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:145
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:156
 msgid ""
 "I think everybody has to get a chance. But look ahead! When you are "
 "negatively conspicuous again, we will ban you from our town!"
@@ -297,7 +317,7 @@ msgstr ""
 "Ich meine, jeder sollte eine Chance bekommen. Aber sieh dich vor! Wenn du "
 "wieder im Geheimen krumme Dinger drehst, wirst du aus der Stadt verbannt!"
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:148
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:159
 msgid ""
 "Dixon told me about the matter with his toolkit. He seemed pretty impressed "
 "by you."
@@ -305,7 +325,7 @@ msgstr ""
 "Dixon hat mir über die Angelegenheit mit seinem Auto-Werkzeugset berichtet. "
 "Er schien sichtlich beeindruckt von Ihnen zu sein."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:155
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:166
 msgid ""
 "When I was eating, Michelangelo told me about his renewed oven energy "
 "supply. He seemed very pleased, and so was I."
@@ -314,7 +334,7 @@ msgstr ""
 "Energiekristallen für den Ofen. Er schien überaus zufrieden zu sein, genauso "
 "wie ich."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:157
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:168
 msgid ""
 "I think you should visit the camp's cook sometime. He's usually in the "
 "restaurant kitchen."
@@ -322,13 +342,13 @@ msgstr ""
 "Ich denke, Sie sollten einmal den Koch unserer Gemeinde aufsuchen. Er hält "
 "sich für gewöhnlich in der Küche des Restaurants auf."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:161
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:172
 msgid "From Butch I hear you've become a novice arena master. Congratulations."
 msgstr ""
 "Von Butch höre ich, dass Sie die Anfänger-Arena gemeistert haben. "
 "Glückwunsch."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:163
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:174
 msgid ""
 "You might want to score some arena victories. That could also help your "
 "reputation a lot."
@@ -336,7 +356,7 @@ msgstr ""
 "Sie könnten eventuell ein paar Arena-Kämpfe im südlichen Viertel austragen. "
 "Das könnte Ihr Ansehen hier beträchtlich steigern."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:167
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:178
 #, fuzzy
 msgid ""
 "Helping Bender along was also a smart move. But you should be very careful "
@@ -348,11 +368,11 @@ msgstr ""
 "ausrasten! Praktisch ein kleines Sicherheitsproblem, aber wir können nicht "
 "allzu wählerisch sein..."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:169
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:180
 msgid "As far as I know, Bender is still very sick."
 msgstr "Soweit ich weiß, ist Bender immer noch sterbenskrank..."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:173
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:184
 msgid ""
 "But most importantly, I was very impressed with you when you cleared out the "
 "warehouse. That was a huge deed I will never forget."
@@ -361,7 +381,7 @@ msgstr ""
 "indem Sie das Lagerhaus von den Blechköpfen gesäubert haben - das war eine "
 "Großtat, die ich Ihnen niemals vergessen werde!"
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:175
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:186
 #, fuzzy
 msgid ""
 "Personally I'm also worrying about how we will manage to get some necessary "
@@ -371,7 +391,7 @@ msgstr ""
 "Persönlich mache ich mir auch darüber Sorgen, wie wir es schaffen, einige "
 "dringend benötigte Vorräte aus dem Lagerhaus zu beschaffen."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:180
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:191
 msgid ""
 "OK. Your list of achievements is long enough. You can join us. So I hereby "
 "declare you a member of the Red Guard."
@@ -379,7 +399,7 @@ msgstr ""
 "OK! Ihre Liste an vollbrachten Taten ist lang genug. Sie sind uns "
 "willkommen! Ich erkläre Sie hiermit zum Mitglied der Roten Wache!"
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:181
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:192
 msgid ""
 "But now that you are in the Guard, know this: There is only one rule for us "
 "guards: We stick together. We survive together or we die together. But we do "
@@ -389,7 +409,7 @@ msgstr ""
 "Regel für uns Wachmänner: Wir halten zusammen. Wir überleben gemeinsam und "
 "wir sterben gemeinsam. Aber tun es zusammen!"
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:182
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:193
 #, fuzzy
 msgid ""
 "And now you might want to inspect the guard house. Tell Tybalt to open the "
@@ -399,12 +419,12 @@ msgstr ""
 "Tybalt, er soll Ihnen die Tür öffnen. Lukas in der Waffenausgabe soll Ihnen "
 "Ihren Schutzpanzer geben."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:183
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:194
 msgid "I hope you will prove yourself a worthy member of the Red Guard."
 msgstr ""
 "Ich hoffe, Sie werden sich als würdiges Mitglied der Roten Wache erweisen!"
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:190
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:201
 msgid ""
 "All in all, not quite so bad. But you still need to do the one thing or the "
 "other. Then we can talk about it."
@@ -412,7 +432,7 @@ msgstr ""
 "Alles in allem, nicht so übel. Aber Sie müssen immer noch das Eine oder "
 "Andere erledigen. Dann können wir uns nochmal darüber unterhalten."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:192
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:203
 msgid ""
 "I can't accept you into the guard like this. Get going. There are still many "
 "things to do for you."
@@ -420,14 +440,14 @@ msgstr ""
 "Ich kann Sie so in der Wache nicht gebrauchen. Bleiben Sie am Ball - es gibt "
 "noch viel für Sie zu tun..."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:198
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:209
 #, fuzzy
 msgid "I've heard Richard obtained new information on the town."
 msgstr ""
 " Mir ist zu Ohren gekommen, dass Richard neue Informationen betreffend der "
 "Kolonie zugespielt wurden..."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:200
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:211
 msgid ""
 "Yes, that's right, and in fact it might be crucial. As you may have heard, "
 "the MS office is defended by a disruptor shield. They open it only to let "
@@ -437,7 +457,7 @@ msgstr ""
 "vielleicht gehört haben, wird das MegaSys Office durch einen Disruptorschild "
 "geschützt. Er wird nur geöffnet, um neue Robot-Armeen durchzulassen."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:201
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:212
 msgid ""
 "The data on the cube he obtained indicates the existence of a secret "
 "experimental facility in this region. Our findings suggest that they were "
@@ -449,7 +469,7 @@ msgstr ""
 "legen nahe, dass man dort einen neuartigen Disruptorschild für MS getestet "
 "hat, und dass der Schild von dieser Einrichtung aus gesteuert werden kann."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:202
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:213
 msgid ""
 "If the information is true, then you can take over the control droid and "
 "disable the shield permanently so we can get in."
@@ -457,7 +477,7 @@ msgstr ""
 "Falls die Informationen zutreffen, könnten Sie den Kontrollandroiden "
 "übernehmen und den Schild permanent abschalten, so dass wir hinein können."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:203
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:214
 #, fuzzy
 msgid ""
 "We know that MS had a firmware update system, which could be used to "
@@ -472,7 +492,7 @@ msgstr ""
 "der Höllenfestung sitzt. Um dort hinein zu gelangen, müssen Sie den "
 "Disruptorschild abstellen."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:204
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:215
 msgid ""
 "This seems like a gift sent from the heavens. Cleaning the Hell Fortress is "
 "not going to be easy, though.."
@@ -480,12 +500,12 @@ msgstr ""
 "Das scheint ein Geschenk des Himmels zu sein! Die Höllenfestung zu säubern "
 "dürfte allerdings alles andere als einfach werden..."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:209
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:220
 #, fuzzy
 msgid "I'd like to participate in this operation."
 msgstr " Ich will an dieser Operation teilnehmen!"
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:211
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:222
 msgid ""
 "That's most kind of you to volunteer. So far, I've sent two scouts into the "
 "area. They have found the facility entrance and unlocked the gate."
@@ -494,7 +514,7 @@ msgstr ""
 "ich bereits zwei Kundschafter in die Gegend geschickt. Sie haben die "
 "Forschungseinrichtung gefunden und konnten das Eingangsportal entriegeln."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:212
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:223
 msgid ""
 "That is a good sign, because it shows that the key combinations from the "
 "data cube were correct."
@@ -502,7 +522,7 @@ msgstr ""
 "Das ist ein gutes Zeichen, denn es beweist, dass die Schlüssel-Kombinationen "
 "aus dem Datenwürfel korrekt waren."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:213
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:224
 msgid ""
 "However, we lost contact with them shortly after they went inside. They also "
 "reported heavy bot resistance."
@@ -510,7 +530,7 @@ msgstr ""
 "Allerdings hatten wir, kurz nachdem sie hineingegangen waren, den Kontakt zu "
 "ihnen verloren. Sie berichteten über heftigen Widerstand durch Roboter."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:214
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:225
 #, fuzzy
 msgid ""
 "I'd be glad if you could take a look. But use the utmost care. We can't "
@@ -520,12 +540,12 @@ msgstr ""
 "allergrößte Vorsicht walten. Wir können es uns nicht leisten, einen weiteren "
 "Wachmann zu verlieren..."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:219
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:230
 #, fuzzy
 msgid "OK. I'll be careful. But I'll do it."
 msgstr " OK. Ich werde vorsichtig sein. Aber ich gehe da rein."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:221
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:232
 #, fuzzy
 msgid ""
 "Good. The base entrance is somewhat hidden in the caves to the northeast. "
@@ -536,7 +556,7 @@ msgstr ""
 "im Nordwesten. Gehen Sie am besten durch das Nordtor und wenden Sie sich "
 "dann nach Westen."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:222
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:233
 msgid ""
 "I wish you the best of luck for this operation. It might be that our "
 "survival depends on it. Don't wait for assistance."
@@ -544,7 +564,7 @@ msgstr ""
 "Ich wünsche Ihnen alles Gute für das Gelingen dieser Operation! Könnte sein, "
 "dass unser Überleben davon abhängt, aber warten Sie nicht auf Verstärkung..."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:223
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:234
 msgid ""
 "Try to get control over the disruptor shield if you can. The control droid "
 "should be somewhere on the lowest level of the installation. Simply "
@@ -554,19 +574,19 @@ msgstr ""
 "Der Kontrollandroide sollte sich irgendwo im untersten Geschoss der "
 "Einrichtung aufhalten."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:230
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:241
 #, fuzzy
 msgid "I don't feel like doing it now. I'd rather prepare some more."
 msgstr ""
 " Ich glaube, ich bin noch nicht so weit. Ich möchte mich lieber noch besser "
 "vorbereiten."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:232
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:243
 msgid "Good. You should be well prepared if you intend to go."
 msgstr ""
 "In Ordnung. Sie sollten gut gewappnet sein, falls Sie vorhaben zu gehen."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:233
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:244
 #, fuzzy
 msgid ""
 "Also there is no need to hurry with this. After all, the installation is not "
@@ -576,7 +596,7 @@ msgstr ""
 "das Geheimlabor nicht davonlaufen - also lassen Sie es am besten langsam "
 "angehen."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:238
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:249
 #, fuzzy
 msgid ""
 "It's done. Your soldiers were killed, but I managed to have a word with the "
@@ -586,7 +606,7 @@ msgstr ""
 "mit den Schild-Kontrollandroiden reden. Der Zugang zur Roboterfabrik ist "
 "jetzt offen."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:240
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:251
 msgid ""
 "Good. We cannot help you much in this final mission, but I can tell you what "
 "our recon teams gathered behind the factory doors. You will enter a zone "
@@ -597,7 +617,7 @@ msgstr ""
 "Fabriktoren fanden. Sie werden in eine Zone vordringen, die früher ein Büro "
 "von MS war."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:241
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:252
 msgid ""
 "They carried out some development there, and had part of their patching "
 "division and update management department. The actual factory is located "
@@ -606,7 +626,7 @@ msgstr ""
 "Hier betrieben sie Entwicklung und hatten Teile ihres Patching-"
 "Unternehmensbereichs und der Update-Management-Abteilung untergebracht."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:242
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:253
 msgid ""
 "With a bit of luck, you might not need to access it. We know they have their "
 "update server in the office."
@@ -614,7 +634,7 @@ msgstr ""
 "Mit etwas Glück musst du vielleicht nicht einmal dort hinein. Wir wissen, "
 "dass ihr Update-Server im Büro installiert ist."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:243
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:254
 msgid ""
 "If you can find it and get it to propagate a faulty update, this could "
 "suffice to stopping bots dead in their tracks."
@@ -623,7 +643,7 @@ msgstr ""
 "Update zu verbreiten, könnte das genügen, die Roboter mitten in ihren "
 "Angriffen erstarren zu lassen."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:244
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:255
 msgid ""
 "Look for the entrance of the office in the crystal fields. I will send a "
 "message to the guards so they let you pass. Then you will be on your own."
@@ -632,11 +652,11 @@ msgstr ""
 "den Wachen dort eine Nachricht senden, dass man Sie durchlassen soll. Danach "
 "sind Sie auf sich allein gestellt!"
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:245
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:256
 msgid "Good luck."
 msgstr "Viel Glück!"
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:251
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:262
 #, fuzzy
 msgid ""
 "I will need some time to get myself ready before I clean up the Hell "
@@ -645,15 +665,15 @@ msgstr ""
 "Ich brauche ein wenig Zeit mich darauf vorzubereiten, die Höllenfestung zu "
 "säubern."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:253
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:264
 msgid "You had better be ready."
 msgstr "Die sollten Sie sich auch nehmen!"
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:257
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:268
 msgid "I'll be going then."
 msgstr "Bin schon wieder weg."
 
-#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:259
+#: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:270
 msgid "See you later."
 msgstr "Ciao."
 
@@ -3477,10 +3497,6 @@ msgstr "Ciao."
 
 #~ msgid "That way I get to keep my secret, and you get to keep yours."
 #~ msgstr "Auf diese Weise kann ich mein Geheimnis wahren und Sie das Ihrige."
-
-#, fuzzy
-#~ msgid "I don't have any secrets."
-#~ msgstr " Ich habe keine Geheimnisse."
 
 #~ msgid "And neither do I."
 #~ msgstr "Genauso wie ich."

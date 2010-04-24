@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-22 12:23+0000\n"
+"POT-Creation-Date: 2010-04-24 11:46+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -16,67 +16,67 @@ msgstr ""
 "X-Poedit-Country: FRANCE\n"
 "X-Poedit-Language: French\n"
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:38
-#, fuzzy
-msgid "What can I help you with."
-msgstr " Est ce que je peux vous aider ?"
-
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:44
-msgid "Hi, I'm Tux."
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:36
+msgid "Hi, I'm "
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:46
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:37
 msgid "Welcome to the Library, I'm Tamara."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:47
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:38
 msgid ""
 "Please take a look around and see if there is something here that interests "
 "you."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:48
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:39
 msgid "You are welcome to ask me if you have any questions."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:53
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:42
+#, fuzzy
+msgid "What can I help you with."
+msgstr " Est ce que je peux vous aider ?"
+
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:48
 msgid ""
 "Hmm, you look very similar to another person I met, by the name of Sorenson."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:55
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:50
 msgid "Well, it's understandable. We are sisters."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:56
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:51
 msgid ""
 "Or actually half sisters. She is also half crazy, so we don't communicate "
 "much."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:57
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:52
 msgid "*sigh*"
 msgstr "*sigh*"
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:58
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:53
 msgid "We used to. Even ran this library together."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:59
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:54
 msgid ""
 "Then she started reading more and more books and sitting in front of the "
 "computer day and night, never sleeping."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:60
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:55
 msgid "In the end she completely lost her marbles, sadly."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:61
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:56
 msgid "Now all she does is sit locked in her house staring into the computer."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:66
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:62
 #, fuzzy
 msgid ""
 "I see you have a huge source code book collection. Mind if I buy some from "
@@ -85,43 +85,43 @@ msgstr ""
 " Je vois que vous avez une collection de livres impressionante. Que diriez "
 "vous si je vous en achetais quelques uns ?"
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:68
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:64
 msgid "This is a library, not a book shop."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:69
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:65
 msgid ""
 "However, valuable books have a tendency to simply vanish and never get "
 "returned by some people..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:70
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:66
 msgid "Especially strangers just passing by..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:71
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:67
 msgid "Thus I'm forced to take a deposit for each book."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:75
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:72
 msgid "So what interesting books do you have available right now?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:77
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:74
 #, fuzzy
 msgid "Some of these might interest you."
 msgstr "Sorenson le codeur est ravi de vous rencontrer."
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:77
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:74
 msgid "I only have a few programming volumes, feel free to look through them."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:81
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:79
 #, fuzzy
 msgid "Thank you for the help."
 msgstr " Merci pour ce conseil."
 
-#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:83
+#: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:81
 msgid "No problem, and remember to return your books in time."
 msgstr ""
 

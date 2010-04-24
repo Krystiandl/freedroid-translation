@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidRPG 0.10.4cvs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-22 12:23+0000\n"
+"POT-Creation-Date: 2010-04-24 11:46+0000\n"
 "PO-Revision-Date: 2009-01-01 21:28+0000\n"
 "Last-Translator: Alex Mr.Brightside Demurine <extrimall90@mail.ru>\n"
 "Language-Team: Russian\n"
@@ -13,51 +13,51 @@ msgstr ""
 "X-Generator: Launchpad (build Unknown)\n"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:19
-msgid "To maintenance tunnels"
+msgid "To Maintenance Tunnels"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:28
-msgid "Enter novice arena"
+msgid "To Novice Arena"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:37
-msgid "Enter master arena"
+msgid "To Master Arena"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:49
-msgid "Exit warehouse"
+msgid "Exit Warehouse"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:58
-msgid "To warehouse level 2"
+msgid "To Warehouse Level 2"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:70
-msgid "To warehouse level 1"
+msgid "To Warehouse Level 1"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:82
-msgid "Back to Kevin's garden"
+msgid "Back to Kevin's Garden"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:91
-msgid "To energy station"
+msgid "To Energy Station"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:103
-msgid "Back to lower catacombs"
+msgid "Back to Lower Catacombs"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:115
-msgid "Way to disruption machine deck"
+msgid "Way to Disruptor Machine Deck"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:127
-msgid "Back from maintenance tunnels"
+msgid "Back to Town"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:143
-msgid "Enter warehouse"
+msgid "Enter Warehouse"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:155
@@ -65,11 +65,11 @@ msgid "Down into Crystal Caves"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:195
-msgid "To Kevin's underground station"
+msgid "To Kevin's Underground Station"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:207
-msgid "To underground station"
+msgid "To Underground Station"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:243
@@ -77,11 +77,11 @@ msgid "Hatch with broken ladder"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:267
-msgid "Exit novice arena"
+msgid "Exit Novice Arena"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:279
-msgid "Exit master arena"
+msgid "Exit Master Arena"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:291
@@ -101,15 +101,12 @@ msgid "Exit Crystal Caves"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:339
-msgid "Back from bunker"
-msgstr ""
-
 #: /home/david/src/freedroid-translation/map/freedroid.events:351
-msgid "Back to the desert"
+msgid "Back to the Desert"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:371
-msgid "To a forgotten bunker"
+msgid "To a Forgotten Bunker"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:387
