@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:41
@@ -15,7 +15,8 @@ msgid "Hi! I'm new here."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:43
-msgid "Great. Now back to where you came from. This is no place for you."
+msgid ""
+"Great. Now back to where you came from. This is no place for you."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:48
@@ -23,12 +24,14 @@ msgid "What's the matter with this gate?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:50
-msgid "This is a gate to an automated bot factory we call the Hell Fortress."
+msgid ""
+"This is a gate to an automated bot factory we call the Hell Fortress."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:51
 msgid ""
-"You must be crazy if you want to get in there. That place is full of bots."
+"You must be crazy if you want to get in there. That place is full of "
+"bots."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:52
@@ -48,11 +51,14 @@ msgid "The bots and disruptor shield will take care of that for me."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:61
-msgid "Just remember to give me your valuables before you commit suicide."
+msgid ""
+"Just remember to give me your valuables before you commit suicide."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:62
-msgid "You won't need any money once you're damn dead, and I could use it, eh?"
+msgid ""
+"You won't need any money once you're damn dead, and I could use it, "
+"eh?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:67

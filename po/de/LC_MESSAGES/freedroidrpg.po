@@ -16,7 +16,7 @@ msgstr ""
 "Last-Translator: barbatrix <blue.bits@arcor.de>\n"
 "Language-Team: Deutsch\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:32+0000\n"
 "X-Generator: KBabel 1.11.4\n"
@@ -32,7 +32,8 @@ msgstr "Automap AUS"
 #: ../src/automap.c:90
 #, fuzzy
 msgid "Compass ON (no automap yet: map maker not present."
-msgstr "Automap ist nicht verfügbar: keine Kartographie-Einheit vorhanden."
+msgstr ""
+"Automap ist nicht verfÃ¼gbar: keine Kartographie-Einheit vorhanden."
 
 #: ../src/automap.c:92
 msgid "Compass OFF."
@@ -48,10 +49,11 @@ msgid "Hey! This looks like...a WALL!"
 msgstr "Hey! Sieht aus wie eine... WAND!"
 
 #: ../src/blocks.c:1594
-msgid "Maybe you could use a door to go out. This wall seems pretty solid."
+msgid ""
+"Maybe you could use a door to go out. This wall seems pretty solid."
 msgstr ""
-"Eine Tür zum durchgehen wäre nicht schlecht. Diese Wand sieht sehr solide "
-"aus."
+"Eine TÃ¼r zum durchgehen wÃ¤re nicht schlecht. Diese Wand sieht sehr "
+"solide aus."
 
 #: ../src/blocks.c:1608 ../src/blocks.c:1619
 msgid "Glass wall"
@@ -59,7 +61,7 @@ msgstr "Glaswand"
 
 #: ../src/blocks.c:1609 ../src/blocks.c:1620
 msgid "A wall made out of glass. It lets the light shine through."
-msgstr "Eine Wand aus Glaskacheln. Lässt das Licht durchscheinen."
+msgstr "Eine Wand aus Glaskacheln. LÃ¤sst das Licht durchscheinen."
 
 #: ../src/blocks.c:1630
 msgid "Broken glass wall"
@@ -68,62 +70,68 @@ msgstr "Zerbrochene Glaswand"
 #: ../src/blocks.c:1631
 msgid "You can get through the holes, but beware of sharp edges."
 msgstr ""
-"Man kann durch die Löcher schlüpfen - aber Vorsicht vor scharfen Kanten!"
+"Man kann durch die LÃ¶cher schlÃ¼pfen - aber Vorsicht vor scharfen "
+"Kanten!"
 
 #: ../src/blocks.c:1688 ../src/blocks.c:1690
-msgid "Gentle cyan-colored wall with a small window, a delight to the eye"
+msgid ""
+"Gentle cyan-colored wall with a small window, a delight to the eye"
 msgstr ""
-"Angenehm in Türkis gehaltene Wand mit einem kleinen Fenster - eine Wohltat "
-"für das Auge."
+"Angenehm in TÃ¼rkis gehaltene Wand mit einem kleinen Fenster - eine "
+"Wohltat fÃ¼r das Auge."
 
 #: ../src/blocks.c:1689 ../src/blocks.c:1691 ../src/blocks.c:1693
 #: ../src/blocks.c:1695 ../src/blocks.c:1697 ../src/blocks.c:1699
 #: ../src/blocks.c:1701 ../src/blocks.c:1703
-msgid "Windows, are, besides a famous joke OS trademark, very useful things."
+msgid ""
+"Windows, are, besides a famous joke OS trademark, very useful things."
 msgstr ""
-"'Windows' - neben dem berühmten Spaß-Markennamen für ein Betriebssystem, "
-"sind Fenster recht nützliche Dinger."
+"'Windows' - neben dem berÃ¼hmten SpaÃŸ-Markennamen fÃ¼r ein "
+"Betriebssystem, sind Fenster recht nÃ¼tzliche Dinger."
 
 #: ../src/blocks.c:1692 ../src/blocks.c:1694
 msgid "Cosy wall in claret-red, with a small window"
-msgstr "Gemütlich wirkende Wand in Weinrot, mit einem kleinen Fenster."
+msgstr "GemÃ¼tlich wirkende Wand in Weinrot, mit einem kleinen Fenster."
 
 #: ../src/blocks.c:1696 ../src/blocks.c:1698
 msgid ""
-"Avocado-colored wall with a small window. You start feeling odd as you look "
-"at it"
+"Avocado-colored wall with a small window. You start feeling odd as "
+"you look at it"
 msgstr ""
 "Avocado-farbene Wand mit einem kleinen Fenster.\n"
-"   Du beginnst dich merkwürdig zu fühlen, bei längerem Hinsehen."
+"   Du beginnst dich merkwÃ¼rdig zu fÃ¼hlen, bei lÃ¤ngerem Hinsehen."
 
 #: ../src/blocks.c:1700 ../src/blocks.c:1702
 msgid "Catch the groove! A fantastic wall with a small window"
-msgstr "Jetzt gib dir das! Fantastisch, diese Wand mit einem kleinen Fenster."
+msgstr ""
+"Jetzt gib dir das! Fantastisch, diese Wand mit einem kleinen Fenster."
 
 #: ../src/blocks.c:1737
 msgid "Door"
-msgstr "Tür"
+msgstr "TÃ¼r"
 
 #: ../src/blocks.c:1738
-msgid "This is a door. Seems to open automatically when someone approaches."
+msgid ""
+"This is a door. Seems to open automatically when someone approaches."
 msgstr ""
-"Eine Türe. Scheint sich automatisch zu öffnen, sobald jemand davor tritt."
+"Eine TÃ¼re. Scheint sich automatisch zu Ã¶ffnen, sobald jemand davor "
+"tritt."
 
 #: ../src/blocks.c:1772 ../src/blocks.c:1847 ../src/blocks.c:1889
 msgid "Locked door"
-msgstr "Verschlossene Tür"
+msgstr "Verschlossene TÃ¼r"
 
 #: ../src/blocks.c:1773 ../src/blocks.c:1848 ../src/blocks.c:1890
 msgid "The red color probably indicates that the door is locked."
-msgstr "Das rote Licht könnte bedeuten, dass die Tür verschlossen ist."
+msgstr "Das rote Licht kÃ¶nnte bedeuten, dass die TÃ¼r verschlossen ist."
 
 #: ../src/blocks.c:1898 ../src/blocks.c:1903
 msgid "Pillar"
-msgstr "Säule"
+msgstr "SÃ¤ule"
 
 #: ../src/blocks.c:1899 ../src/blocks.c:1904
 msgid "A pillar made out of gray concrete."
-msgstr "Eine graue Betonsäule."
+msgstr "Eine graue BetonsÃ¤ule."
 
 #: ../src/blocks.c:1913 ../src/blocks.c:1919 ../src/blocks.c:1925
 #: ../src/blocks.c:1931
@@ -133,11 +141,11 @@ msgstr "Supercluster-Terminal"
 #: ../src/blocks.c:1914 ../src/blocks.c:1920 ../src/blocks.c:1926
 #: ../src/blocks.c:1932
 msgid ""
-"This is a small part of a gigantic computer cluster, maybe many square miles "
-"large..."
+"This is a small part of a gigantic computer cluster, maybe many "
+"square miles large..."
 msgstr ""
 "Kleiner Teil eines gigantischen Computerverbunds, vielleicht viele "
-"Quadratkilometer groß..."
+"Quadratkilometer groÃŸ..."
 
 #: ../src/blocks.c:1941 ../src/blocks.c:1948 ../src/blocks.c:1955
 #: ../src/blocks.c:1962
@@ -157,11 +165,11 @@ msgstr "Roboter-Nest"
 #: ../src/blocks.c:1995 ../src/blocks.c:1996 ../src/blocks.c:1997
 #: ../src/blocks.c:1998 ../src/blocks.c:1999
 msgid ""
-"A droid service station, also called 'droid nest'. You suppose it's of no "
-"use for your quest."
+"A droid service station, also called 'droid nest'. You suppose it's "
+"of no use for your quest."
 msgstr ""
-"Eine Roboter-Ladestation, auch 'Roboter-Nest' genannt. Wohl eher unwichtig "
-"für deine Aufgabe."
+"Eine Roboter-Ladestation, auch 'Roboter-Nest' genannt. Wohl eher "
+"unwichtig fÃ¼r deine Aufgabe."
 
 #: ../src/blocks.c:2028 ../src/blocks.c:2038 ../src/blocks.c:2047
 #: ../src/blocks.c:2056
@@ -171,7 +179,7 @@ msgstr "Truhe"
 #: ../src/blocks.c:2029 ../src/blocks.c:2048
 #, fuzzy
 msgid "This chest has already been opened."
-msgstr "Diese Truhe wurde bereits geöffnet."
+msgstr "Diese Truhe wurde bereits geÃ¶ffnet."
 
 #: ../src/blocks.c:2039 ../src/blocks.c:2057
 msgid "This chest is closed."
@@ -188,26 +196,26 @@ msgstr "Selbstschuss-Anlage"
 #, fuzzy
 msgid "A not-that-nice autogun. Beware: it could be harmful."
 msgstr ""
-"Eine nicht allzu niedliche Selbstschuss-Anlage. Vorsicht: sie könnte "
-"gesundheitsschädlich sein."
+"Eine nicht allzu niedliche Selbstschuss-Anlage. Vorsicht: sie kÃ¶nnte "
+"gesundheitsschÃ¤dlich sein."
 
 #: ../src/blocks.c:2089
 msgid "A not-that-nice autogun. It seems disabled for now."
 msgstr ""
-"Eine nicht allzu niedliche Selbstschuss-Anlage. Scheint momentan außer "
-"Betrieb zu sein."
+"Eine nicht allzu niedliche Selbstschuss-Anlage. Scheint momentan "
+"auÃŸer Betrieb zu sein."
 
 #: ../src/blocks.c:2095
 msgid "This killing machine is disabled. For now."
-msgstr "Diese Tötungsmaschine ist abgeschaltet... im Moment."
+msgstr "Diese TÃ¶tungsmaschine ist abgeschaltet... im Moment."
 
 #: ../src/blocks.c:2101
 msgid ""
-"It is looking at you. You are sure it is looking at you. But it does not "
-"fire. For now."
+"It is looking at you. You are sure it is looking at you. But it does "
+"not fire. For now."
 msgstr ""
-"Das Ding sieht dich an. Ja - du bist dir sicher, dass es dich ansieht. Aber "
-"es feuert nicht... im Moment."
+"Das Ding sieht dich an. Ja - du bist dir sicher, dass es dich "
+"ansieht. Aber es feuert nicht... im Moment."
 
 #: ../src/blocks.c:2107
 msgid "The autogun is disabled."
@@ -220,10 +228,11 @@ msgstr "Felswall"
 
 #: ../src/blocks.c:2114 ../src/blocks.c:2120 ../src/blocks.c:2126
 #: ../src/blocks.c:2132 ../src/blocks.c:2138 ../src/blocks.c:2144
-msgid "It's been lasting for millennia. It will last you. Find another path."
+msgid ""
+"It's been lasting for millennia. It will last you. Find another path."
 msgstr ""
-"Er hat die Jahrtausende überdauert. Er wird dich überdauern. Finde einen "
-"anderen Weg."
+"Er hat die Jahrtausende Ã¼berdauert. Er wird dich Ã¼berdauern. Finde "
+"einen anderen Weg."
 
 #: ../src/blocks.c:2152
 msgid "Cooking pot"
@@ -231,14 +240,14 @@ msgstr "Kochtopf"
 
 #: ../src/blocks.c:2153
 msgid ""
-"This cauldron can be used for many good things. Cooking beef or pork for "
-"dinner are some of them. It can also be used for many evil things. Preparing "
-"Linarians for lunch is one of them."
+"This cauldron can be used for many good things. Cooking beef or pork "
+"for dinner are some of them. It can also be used for many evil "
+"things. Preparing Linarians for lunch is one of them."
 msgstr ""
-"Dieser Kessel kann vielen guten Zwecken dienen. Rind- oder Schweinefleisch "
-"zum Abendessen zu garen etwa. Er ist auch für etliche böse Zwecke zu "
-"gebrauchen. Um Linarianer-Eintopf fürs Mitagessen zuzubereiten, "
-"beispielsweise."
+"Dieser Kessel kann vielen guten Zwecken dienen. Rind- oder "
+"Schweinefleisch zum Abendessen zu garen etwa. Er ist auch fÃ¼r etliche "
+"bÃ¶se Zwecke zu gebrauchen. Um Linarianer-Eintopf fÃ¼rs Mitagessen "
+"zuzubereiten, beispielsweise."
 
 #: ../src/blocks.c:2160 ../src/blocks.c:2168 ../src/blocks.c:2176
 #: ../src/blocks.c:2184
@@ -256,7 +265,7 @@ msgstr "Tonne"
 
 #: ../src/blocks.c:2192
 msgid "A painted barrel, protected from rust."
-msgstr "Eine gestrichene Tonne, gut vor Rost geschützt."
+msgstr "Eine gestrichene Tonne, gut vor Rost geschÃ¼tzt."
 
 #: ../src/blocks.c:2198
 msgid "A rusty barrel."
@@ -268,18 +277,19 @@ msgstr "Holzkiste"
 
 #: ../src/blocks.c:2205
 msgid ""
-"This is a big wooden crate that could contain many interesting things. Or "
-"not."
+"This is a big wooden crate that could contain many interesting "
+"things. Or not."
 msgstr ""
-"Eine große Holzkiste, die viele interessante Dinge enthalten könnte. Oder "
-"auch nicht."
+"Eine groÃŸe Holzkiste, die viele interessante Dinge enthalten kÃ¶nnte. "
+"Oder auch nicht."
 
 #: ../src/blocks.c:2211
 msgid ""
-"This is a wooden crate that could contain many interesting things. Or not."
+"This is a wooden crate that could contain many interesting things. Or "
+"not."
 msgstr ""
-"Eine Holzkiste, die viele interessante Dinge enthalten könnte. Oder auch "
-"nicht."
+"Eine Holzkiste, die viele interessante Dinge enthalten kÃ¶nnte. Oder "
+"auch nicht."
 
 #: ../src/blocks.c:2224 ../src/blocks.c:2233 ../src/blocks.c:2242
 #: ../src/blocks.c:2251
@@ -292,11 +302,11 @@ msgstr "Eine reizvolle Zimmerlampe."
 
 #: ../src/blocks.c:2234
 msgid "This is a wonderful room lamp."
-msgstr "Eine wunderschöne Zimmerlampe."
+msgstr "Eine wunderschÃ¶ne Zimmerlampe."
 
 #: ../src/blocks.c:2243
 msgid "This is a great room lamp."
-msgstr "Eine großartige Zimmerlampe!"
+msgstr "Eine groÃŸartige Zimmerlampe!"
 
 #: ../src/blocks.c:2252
 msgid "This is a perfect room lamp."
@@ -308,7 +318,7 @@ msgstr "Holzzaun"
 
 #: ../src/blocks.c:2271 ../src/blocks.c:2300
 msgid "You're staring at a wooden fence. You see no gap here..."
-msgstr "Du starrst einen Holzzaun an. Keine Lücke zu sehen hier..."
+msgstr "Du starrst einen Holzzaun an. Keine LÃ¼cke zu sehen hier..."
 
 #: ../src/blocks.c:2276 ../src/blocks.c:2307
 msgid "Wooden massive fence"
@@ -316,10 +326,11 @@ msgstr "Massiver Holzzaun"
 
 #: ../src/blocks.c:2277 ../src/blocks.c:2308
 msgid ""
-"You're staring at a massive wooden fence. You Keep staring. You see no gap "
-"here..."
+"You're staring at a massive wooden fence. You Keep staring. You see "
+"no gap here..."
 msgstr ""
-"Du starrst einen massiven Holzzaun an. Du starrst noch ein bisschen länger.\n"
+"Du starrst einen massiven Holzzaun an. Du starrst noch ein bisschen "
+"lÃ¤nger.\n"
 "   Er ist immer noch da..."
 
 #: ../src/blocks.c:2285 ../src/blocks.c:2293 ../src/blocks.c:2316
@@ -329,15 +340,18 @@ msgstr "Zaun"
 
 #: ../src/blocks.c:2286 ../src/blocks.c:2317
 msgid ""
-"This type of a barrier constructed out of wire is called mesh wire fence."
-msgstr "Dieses Hindernis aus Drahtgeflecht nennt man auch Maschendrahtzaun."
+"This type of a barrier constructed out of wire is called mesh wire "
+"fence."
+msgstr ""
+"Dieses Hindernis aus Drahtgeflecht nennt man auch Maschendrahtzaun."
 
 #: ../src/blocks.c:2294 ../src/blocks.c:2325
 msgid ""
-"This type of a barrier constructed out of wire is called the chain link "
-"fence."
+"This type of a barrier constructed out of wire is called the chain "
+"link fence."
 msgstr ""
-"Dieses Hindernis aus geflochtenem Draht ist bekannt als Maschendrahtzaun."
+"Dieses Hindernis aus geflochtenem Draht ist bekannt als "
+"Maschendrahtzaun."
 
 #: ../src/blocks.c:2334 ../src/blocks.c:2343 ../src/blocks.c:2350
 #: ../src/blocks.c:2357
@@ -357,7 +371,7 @@ msgstr "Toilette"
 #: ../src/blocks.c:2385
 #, fuzzy
 msgid "Feel like defecating?"
-msgstr "Musst du mal für kleine Pinguine?"
+msgstr "Musst du mal fÃ¼r kleine Pinguine?"
 
 #: ../src/blocks.c:2387
 msgid "Do what you must."
@@ -403,11 +417,11 @@ msgstr "Sitzecke"
 #: ../src/blocks.c:2469 ../src/blocks.c:2478 ../src/blocks.c:2487
 #: ../src/blocks.c:2496
 msgid ""
-"Part of an obviously very expensive brown leather lounge. Looks not overly "
-"comfortable, though."
+"Part of an obviously very expensive brown leather lounge. Looks not "
+"overly comfortable, though."
 msgstr ""
-"Teil einer offensichtlich sehr teueren Ledersitzecke. Sieht allerdings nicht "
-"übermäßig bequem aus."
+"Teil einer offensichtlich sehr teueren Ledersitzecke. Sieht "
+"allerdings nicht Ã¼bermÃ¤ÃŸig bequem aus."
 
 #: ../src/blocks.c:2504 ../src/blocks.c:2513 ../src/blocks.c:2522
 #: ../src/blocks.c:2531
@@ -417,11 +431,11 @@ msgstr "Pflanze"
 #: ../src/blocks.c:2505 ../src/blocks.c:2514 ../src/blocks.c:2523
 #: ../src/blocks.c:2532
 msgid ""
-"After all the humans are killed by the bots, only plants like this one will "
-"remain."
+"After all the humans are killed by the bots, only plants like this "
+"one will remain."
 msgstr ""
-"Nachdem fast alle Menschen durch die Bots ausgelöscht wurden, sind es wohl "
-"nur Pflanzen wie diese hier, die übrigbleiben werden."
+"Nachdem fast alle Menschen durch die Bots ausgelÃ¶scht wurden, sind es "
+"wohl nur Pflanzen wie diese hier, die Ã¼brigbleiben werden."
 
 #: ../src/blocks.c:2540 ../src/blocks.c:2548 ../src/blocks.c:2556
 #: ../src/blocks.c:2564
@@ -432,7 +446,8 @@ msgstr "Schreibtisch"
 #: ../src/blocks.c:2565
 msgid "This desk is designed to handle extreme loads of office work."
 msgstr ""
-"Dieser Schreibtisch ist für ein extremes Quantum an Büroarbeit ausgelegt."
+"Dieser Schreibtisch ist fÃ¼r ein extremes Quantum an BÃ¼roarbeit "
+"ausgelegt."
 
 #: ../src/blocks.c:2572 ../src/blocks.c:2579 ../src/blocks.c:2586
 #: ../src/blocks.c:2593
@@ -442,7 +457,7 @@ msgstr "Klassenzimmer-Stuhl"
 #: ../src/blocks.c:2573 ../src/blocks.c:2580 ../src/blocks.c:2587
 #: ../src/blocks.c:2594
 msgid "You'll know it when you see one. All over the universe."
-msgstr "Du erkennst einen, wenn du ihn siehst. Überall im Universum."
+msgstr "Du erkennst einen, wenn du ihn siehst. Ãœberall im Universum."
 
 #: ../src/blocks.c:2601 ../src/blocks.c:2608 ../src/blocks.c:2615
 #: ../src/blocks.c:2622
@@ -452,7 +467,8 @@ msgstr "Bett"
 #: ../src/blocks.c:2602 ../src/blocks.c:2609 ../src/blocks.c:2616
 #: ../src/blocks.c:2623
 msgid "One of those old fashioned beds. You've seen more inviting ones."
-msgstr "Eines dieser altmodischen Betten. Du hast schon Einladenderes gesehen."
+msgstr ""
+"Eines dieser altmodischen Betten. Du hast schon Einladenderes gesehen."
 
 #: ../src/blocks.c:2630 ../src/blocks.c:2637 ../src/blocks.c:2644
 #: ../src/blocks.c:2651
@@ -462,7 +478,7 @@ msgstr "Parkbank"
 #: ../src/blocks.c:2631 ../src/blocks.c:2638 ../src/blocks.c:2645
 #: ../src/blocks.c:2652
 msgid "A simple white bench."
-msgstr "Eine einfache, weiße Parkbank."
+msgstr "Eine einfache, weiÃŸe Parkbank."
 
 #: ../src/blocks.c:2660 ../src/blocks.c:2668 ../src/blocks.c:2677
 #: ../src/blocks.c:2686
@@ -472,21 +488,24 @@ msgstr "Badewanne"
 #: ../src/blocks.c:2661
 #, fuzzy
 msgid "An idea of what comfort is."
-msgstr "Vermittelt ein Gefühl von Komfort..."
+msgstr "Vermittelt ein GefÃ¼hl von Komfort..."
 
 #: ../src/blocks.c:2669 ../src/blocks.c:2678 ../src/blocks.c:2687
 #, fuzzy
 msgid "Taking a bath is not your current quest - what a pity!"
 msgstr ""
-"Ein Bad zu nehmen gehört nicht zu deiner derzeitigen Aufgabe - wie schade!"
+"Ein Bad zu nehmen gehÃ¶rt nicht zu deiner derzeitigen Aufgabe - wie "
+"schade!"
 
 #: ../src/blocks.c:2694 ../src/blocks.c:2702
 msgid "Washing tub"
 msgstr "Waschzuber"
 
 #: ../src/blocks.c:2695 ../src/blocks.c:2703
-msgid "A metal tub. The washing machine of the post-assault 21st century."
-msgstr "Eine Metallwanne. Die Nachkriegs-Waschmaschine des 21. Jahrhunderts."
+msgid ""
+"A metal tub. The washing machine of the post-assault 21st century."
+msgstr ""
+"Eine Metallwanne. Die Nachkriegs-Waschmaschine des 21. Jahrhunderts."
 
 #: ../src/blocks.c:2709 ../src/blocks.c:2715
 msgid "Curtain"
@@ -504,7 +523,7 @@ msgstr "Kleines Sofa"
 #: ../src/blocks.c:2724 ../src/blocks.c:2731 ../src/blocks.c:2738
 #: ../src/blocks.c:2745
 msgid "A small white leather sofa."
-msgstr "Ein kleines weißes Ledersofa."
+msgstr "Ein kleines weiÃŸes Ledersofa."
 
 #: ../src/blocks.c:2751
 msgid "Tree"
@@ -512,7 +531,7 @@ msgstr "Baum"
 
 #: ../src/blocks.c:2752
 msgid "This tree seems quite ordinary."
-msgstr "Der Baum sieht recht gewöhnlich aus."
+msgstr "Der Baum sieht recht gewÃ¶hnlich aus."
 
 #: ../src/blocks.c:2757
 msgid "Young tree"
@@ -520,11 +539,11 @@ msgstr "Junger Baum"
 
 #: ../src/blocks.c:2758
 msgid "This is a nice young tree."
-msgstr "Ein schöner junger Baum."
+msgstr "Ein schÃ¶ner junger Baum."
 
 #: ../src/blocks.c:2763
 msgid "Healthy tree"
-msgstr "Prächtiger gesunder Baum"
+msgstr "PrÃ¤chtiger gesunder Baum"
 
 #: ../src/blocks.c:2764
 msgid "Yes, you are sure. A tree. It appears quite healthy."
@@ -544,7 +563,7 @@ msgstr "Ein seltsamer Baum"
 
 #: ../src/blocks.c:2778
 msgid "For some strange reason this tree has blue leaves."
-msgstr "Aus unerfindlichen Gründen hat dieser Baum blaue Blätter..!"
+msgstr "Aus unerfindlichen GrÃ¼nden hat dieser Baum blaue BlÃ¤tter..!"
 
 #: ../src/blocks.c:2788 ../src/blocks.c:2795 ../src/blocks.c:2802
 #: ../src/blocks.c:2808 ../src/blocks.c:2814 ../src/blocks.c:2820
@@ -558,11 +577,11 @@ msgstr "Robuste Wand"
 #: ../src/blocks.c:2827 ../src/blocks.c:2833 ../src/blocks.c:2839
 #: ../src/blocks.c:2845
 msgid ""
-"This is a stylish and sturdy wall. Both appealing to the eye and appalling "
-"for vandals."
+"This is a stylish and sturdy wall. Both appealing to the eye and "
+"appalling for vandals."
 msgstr ""
-"Eine stilvolle und zugleich stabile Wand. Ebenso ansprechend für das Auge, "
-"wie abschreckend für Vandalen."
+"Eine stilvolle und zugleich stabile Wand. Ebenso ansprechend fÃ¼r das "
+"Auge, wie abschreckend fÃ¼r Vandalen."
 
 #: ../src/blocks.c:2895
 msgid "Restaurant furniture"
@@ -570,7 +589,7 @@ msgstr "Restaurant-Einrichtung"
 
 #: ../src/blocks.c:2896
 msgid "This is but standard restaurant furniture."
-msgstr "Nur gewöhnliches Restaurant-Mobiliar."
+msgstr "Nur gewÃ¶hnliches Restaurant-Mobiliar."
 
 #: ../src/blocks.c:2905 ../src/blocks.c:2911 ../src/blocks.c:2917
 #: ../src/blocks.c:2923
@@ -580,11 +599,11 @@ msgstr "Felswand"
 #: ../src/blocks.c:2906 ../src/blocks.c:2912 ../src/blocks.c:2918
 #: ../src/blocks.c:2924
 msgid ""
-"Created eons ago. Maybe lasting for some more, if there are no humans left "
-"on the planet."
+"Created eons ago. Maybe lasting for some more, if there are no humans "
+"left on the planet."
 msgstr ""
-"Erschaffen vor Äonen. Übersteht vielleicht noch einige weitere, wenn keine "
-"Menschen auf dem Planeten übrigbleiben."
+"Erschaffen vor Ã„onen. Ãœbersteht vielleicht noch einige weitere, wenn "
+"keine Menschen auf dem Planeten Ã¼brigbleiben."
 
 #: ../src/blocks.c:2946 ../src/blocks.c:2947 ../src/blocks.c:2948
 #: ../src/blocks.c:2949
@@ -595,12 +614,12 @@ msgstr "Graue Wand"
 #: ../src/blocks.c:2953
 #, fuzzy
 msgid ""
-"This is grey and seems quite hard to destroy. People usually call it a wall. "
-"You have no chance to go through: there must be another path."
+"This is grey and seems quite hard to destroy. People usually call it "
+"a wall. You have no chance to go through: there must be another path."
 msgstr ""
-"Es ist grau und offenbar ziemlich schwer zu zerstören... Man nennt es für "
-"gewöhnlich Wand. Du hast keine Chance, da hindurchzukommen. Es muss einen "
-"anderen Weg geben."
+"Es ist grau und offenbar ziemlich schwer zu zerstÃ¶ren... Man nennt es "
+"fÃ¼r gewÃ¶hnlich Wand. Du hast keine Chance, da hindurchzukommen. Es "
+"muss einen anderen Weg geben."
 
 #: ../src/blocks.c:2970 ../src/blocks.c:2977 ../src/blocks.c:2984
 #: ../src/blocks.c:2991
@@ -610,24 +629,24 @@ msgstr "Graues Wand-Eckteil"
 #: ../src/blocks.c:2971 ../src/blocks.c:2978 ../src/blocks.c:2985
 #: ../src/blocks.c:2992
 msgid ""
-"You remember the days when you had to stand in the corner. This wall could "
-"use a tag."
+"You remember the days when you had to stand in the corner. This wall "
+"could use a tag."
 msgstr ""
-"Erinnerungen an jene Tage werden wach, als du in der Ecke stehen musstest... "
-"die Wand könnte eine kleine Verzierung gebrauchen."
+"Erinnerungen an jene Tage werden wach, als du in der Ecke stehen "
+"musstest... die Wand kÃ¶nnte eine kleine Verzierung gebrauchen."
 
 #: ../src/blocks.c:3003 ../src/blocks.c:3011
 msgid "Green wall"
-msgstr "Grüne Wand"
+msgstr "GrÃ¼ne Wand"
 
 #: ../src/blocks.c:3004 ../src/blocks.c:3012
 #, fuzzy
 msgid ""
-"This wall is covered by an avocado-green wallpaper. You feel nausea when "
-"staring at it too long."
+"This wall is covered by an avocado-green wallpaper. You feel nausea "
+"when staring at it too long."
 msgstr ""
-"Diese Wand ist mit einer Avocado-grünen Tapete beklebt. Du fühlst Übelkeit "
-"in dir aufsteigen, wenn du sie zu lange ansiehst."
+"Diese Wand ist mit einer Avocado-grÃ¼nen Tapete beklebt. Du fÃ¼hlst "
+"Ãœbelkeit in dir aufsteigen, wenn du sie zu lange ansiehst."
 
 #: ../src/blocks.c:3019 ../src/blocks.c:3027 ../src/blocks.c:3035
 #: ../src/blocks.c:3043
@@ -637,15 +656,18 @@ msgstr "Schicke Wand."
 #: ../src/blocks.c:3020 ../src/blocks.c:3028 ../src/blocks.c:3036
 #: ../src/blocks.c:3044
 msgid "Man, dig that groovy wallpaper. It's a real blast!"
-msgstr "Irre, sieh dir mal die abgefahrene Tapete an... ein echter Knaller!"
+msgstr ""
+"Irre, sieh dir mal die abgefahrene Tapete an... ein echter Knaller!"
 
 #: ../src/blocks.c:3124
 msgid "Brick wall with wires"
 msgstr "Ziegelmauer mit verlegten Kabeln"
 
 #: ../src/blocks.c:3125
-msgid "A badly constructed brick wall. This one has wires installed to it."
-msgstr "Eine schlechtgemauerte Ziegelwand. An dieser hier sind Kabel verlegt."
+msgid ""
+"A badly constructed brick wall. This one has wires installed to it."
+msgstr ""
+"Eine schlechtgemauerte Ziegelwand. An dieser hier sind Kabel verlegt."
 
 #: ../src/blocks.c:3159 ../src/blocks.c:3229 ../src/blocks.c:3237
 msgid "Brick wall"
@@ -653,11 +675,11 @@ msgstr "Ziegelmauer"
 
 #: ../src/blocks.c:3160
 msgid ""
-"A badly constructed brick wall. It looks like it was built in a rush. The "
-"color is quite nice though."
+"A badly constructed brick wall. It looks like it was built in a rush. "
+"The color is quite nice though."
 msgstr ""
-"Eine schlechtgemauerte Ziegelwand. Sieht sehr hastig hochgezogen aus. Die "
-"Farbe ist allerdings recht nett."
+"Eine schlechtgemauerte Ziegelwand. Sieht sehr hastig hochgezogen aus. "
+"Die Farbe ist allerdings recht nett."
 
 #: ../src/blocks.c:3201 ../src/blocks.c:3204
 msgid "Cracked wall"
@@ -669,12 +691,12 @@ msgstr "Diese Wand ist am Ende. Gib ihr den Rest!"
 
 #: ../src/blocks.c:3216 ../src/blocks.c:3219
 msgid "Crumbled wall"
-msgstr "Eingestürzte Mauer"
+msgstr "EingestÃ¼rzte Mauer"
 
 #: ../src/blocks.c:3217 ../src/blocks.c:3220
 #, fuzzy
 msgid "Well ... it was not very resistant..."
-msgstr "Tja... war nicht besonders widerstandsfähig."
+msgstr "Tja... war nicht besonders widerstandsfÃ¤hig."
 
 #: ../src/blocks.c:3230 ../src/blocks.c:3238
 #, fuzzy
@@ -688,15 +710,15 @@ msgstr "Blut"
 #: ../src/blocks.c:3283
 #, fuzzy
 msgid "Do droids bleed? These do."
-msgstr "Können Roboter bluten? Diese hier schon."
+msgstr "KÃ¶nnen Roboter bluten? Diese hier schon."
 
 #: ../src/blocks.c:3340
 msgid "Oil stains"
-msgstr "Ölflecken"
+msgstr "Ã–lflecken"
 
 #: ../src/blocks.c:3341
 msgid "Do droids bleed? These don't."
-msgstr "Können Roboter bluten? Diese hier nicht."
+msgstr "KÃ¶nnen Roboter bluten? Diese hier nicht."
 
 #: ../src/blocks.c:3363 ../src/blocks.c:3371
 msgid "Entrance"
@@ -704,7 +726,7 @@ msgstr "Eingang"
 
 #: ../src/blocks.c:3364 ../src/blocks.c:3372
 msgid "It leads into the dark tunnels below..."
-msgstr "Führt nach unten, in die dunklen Tunnel..."
+msgstr "FÃ¼hrt nach unten, in die dunklen Tunnel..."
 
 #: ../src/blocks.c:3380 ../src/blocks.c:3389 ../src/blocks.c:3397
 #: ../src/blocks.c:3405
@@ -713,7 +735,7 @@ msgstr "Leiter"
 
 #: ../src/blocks.c:3381 ../src/blocks.c:3390
 msgid "It leads to the surface world."
-msgstr "Führt zur Oberfläche."
+msgstr "FÃ¼hrt zur OberflÃ¤che."
 
 #: ../src/blocks.c:3398 ../src/blocks.c:3406
 msgid "This is a ladder."
@@ -727,8 +749,8 @@ msgstr "Exotische pilzartige Pflanze"
 #, fuzzy
 msgid "A wonderful exotic fungus. You can read \"Made by Basse\" on it."
 msgstr ""
-"Ein hinreißend exotischer Pilz - du kannst \"Hergestellt von Basse\" darauf "
-"lesen."
+"Ein hinreiÃŸend exotischer Pilz - du kannst \"Hergestellt von Basse\" "
+"darauf lesen."
 
 #: ../src/blocks.c:3443
 msgid "Rocks"
@@ -737,35 +759,36 @@ msgstr "Steine"
 #: ../src/blocks.c:3444
 #, fuzzy
 msgid ""
-"Do you think a rock can attack you? No, MS droids can't hide themselves that "
-"way: they crash before."
+"Do you think a rock can attack you? No, MS droids can't hide "
+"themselves that way: they crash before."
 msgstr ""
-"Glaubst du, ein Stein könnte dich angreifen? Nein, MS-Roboter können sich "
-"nicht auf diese Art verstecken. Nur in pulverisiertem Zustand."
+"Glaubst du, ein Stein kÃ¶nnte dich angreifen? Nein, MS-Roboter kÃ¶nnen "
+"sich nicht auf diese Art verstecken. Nur in pulverisiertem Zustand."
 
 #: ../src/blocks.c:3480
 msgid "Eating too much of that could lead to a kernel panic..."
-msgstr "Zuviel von dem Zeug könnte eine Kernel-Panik auslösen..."
+msgstr "Zuviel von dem Zeug kÃ¶nnte eine Kernel-Panik auslÃ¶sen..."
 
 #: ../src/blocks.c:3509 ../src/blocks.c:3510
 msgid "Cosy wall in claret-red"
-msgstr "Gemütlich wirkende wand in Weinrot"
+msgstr "GemÃ¼tlich wirkende wand in Weinrot"
 
 #: ../src/blocks.c:3511 ../src/blocks.c:3512
-msgid "You think it would be better with a penguin on it. You are right!"
+msgid ""
+"You think it would be better with a penguin on it. You are right!"
 msgstr ""
-"Dir ist, als würde das mit einem Pinguin drauf besser aussehen... Recht hast "
-"du!"
+"Dir ist, als wÃ¼rde das mit einem Pinguin drauf besser aussehen... "
+"Recht hast du!"
 
 #: ../src/blocks.c:3513 ../src/blocks.c:3514
 msgid "Gentle cyan-colored wall"
-msgstr "Angenehm in Türkis gehaltene Wand"
+msgstr "Angenehm in TÃ¼rkis gehaltene Wand"
 
 #: ../src/blocks.c:3515 ../src/blocks.c:3516
 msgid "A delight to the eye... could use a penguin on it, nevertheless."
 msgstr ""
-"Eine Wohltat für das Auge... könnte nichtsdestoweniger einen Pinguin darauf "
-"gebrauchen."
+"Eine Wohltat fÃ¼r das Auge... kÃ¶nnte nichtsdestoweniger einen Pinguin "
+"darauf gebrauchen."
 
 #: ../src/blocks.c:3527 ../src/blocks.c:3534
 msgid "Shop counter"
@@ -773,9 +796,10 @@ msgstr "Ladentheke"
 
 #: ../src/blocks.c:3528 ../src/blocks.c:3535
 msgid ""
-"This model of the counter features a built-in cash register and bright neon "
-"lights."
-msgstr "Dieses Thekenmodell hat eine eingebaute Kasse und grelle Neonlichter."
+"This model of the counter features a built-in cash register and "
+"bright neon lights."
+msgstr ""
+"Dieses Thekenmodell hat eine eingebaute Kasse und grelle Neonlichter."
 
 #: ../src/blocks.c:3540 ../src/blocks.c:3545
 msgid "Set of shelves"
@@ -783,19 +807,19 @@ msgstr "Ein paar Regale"
 
 #: ../src/blocks.c:3541
 msgid ""
-"There is a lot of junk in here. Bot parts, medical supplies, scrap metal "
-"bits and other useless things like that."
+"There is a lot of junk in here. Bot parts, medical supplies, scrap "
+"metal bits and other useless things like that."
 msgstr ""
-"Hier drin befindet sich jede Menge Schrott: Roboterteile, medizinische "
-"Gegenstände, Altmetall und ähnlich nutzloses Zeugs."
+"Hier drin befindet sich jede Menge Schrott: Roboterteile, "
+"medizinische GegenstÃ¤nde, Altmetall und Ã¤hnlich nutzloses Zeugs."
 
 #: ../src/blocks.c:3546
 msgid ""
-"There is a lot of junk in here. Bot parts, gold bars, dead rodents, scrap "
-"metal bits and other useless things like that."
+"There is a lot of junk in here. Bot parts, gold bars, dead rodents, "
+"scrap metal bits and other useless things like that."
 msgstr ""
-"Da drin befindet sich haufenweise Schutt: Roboterteile, Goldbarren, tote "
-"Ratten, Altmetall und ähnlicher Krempel."
+"Da drin befindet sich haufenweise Schutt: Roboterteile, Goldbarren, "
+"tote Ratten, Altmetall und Ã¤hnlicher Krempel."
 
 #: ../src/blocks.c:3551 ../src/blocks.c:3556
 msgid "Empty shelves"
@@ -807,11 +831,11 @@ msgstr "Was auch immer vorher hier war, jetzt ist es weg."
 
 #: ../src/blocks.c:3557
 msgid ""
-"These are empty shelves. Silent and hollow they sleep in Spring. No thing "
-"remains here now."
+"These are empty shelves. Silent and hollow they sleep in Spring. No "
+"thing remains here now."
 msgstr ""
-"Das hier sind leere Regale. Leer und verlassen stauben sie da so im Frühling "
-"vor sich hin. Nichts befindet sich jetzt mehr darin."
+"Das hier sind leere Regale. Leer und verlassen stauben sie da so im "
+"FrÃ¼hling vor sich hin. Nichts befindet sich jetzt mehr darin."
 
 #: ../src/blocks.c:3565 ../src/blocks.c:3572
 msgid "A library counter"
@@ -819,11 +843,13 @@ msgstr "Tresen einer Bibliothek."
 
 #: ../src/blocks.c:3566 ../src/blocks.c:3573
 msgid ""
-"You wonder how such things can still exist in a fully computerized world.\n"
+"You wonder how such things can still exist in a fully computerized "
+"world.\n"
 "A faint glimmer of nostalgia is crossing your mind."
 msgstr ""
-"Du fragst dich, wie solche Dinge in einer vollständig computerisierten Welt\n"
-"   immer noch existieren können."
+"Du fragst dich, wie solche Dinge in einer vollstÃ¤ndig "
+"computerisierten Welt\n"
+"   immer noch existieren kÃ¶nnen."
 
 #: ../src/blocks.c:3585 ../src/blocks.c:3592 ../src/blocks.c:3599
 #: ../src/blocks.c:3606 ../src/blocks.c:3613 ../src/blocks.c:3619
@@ -843,14 +869,16 @@ msgstr "Gepanzerte Mauer"
 #: ../src/blocks.c:3687 ../src/blocks.c:3694 ../src/blocks.c:3700
 #: ../src/blocks.c:3706 ../src/blocks.c:3712
 msgid ""
-"This great wall can withstand a swarm of rogue bots madly attacking it for "
-"weeks*! It can belong to you for only 299.99C$ + tax, per section. *( Your "
-"duration may vary. This wall comes with ABSOLUTELY NO WARRANTY! ) "
+"This great wall can withstand a swarm of rogue bots madly attacking "
+"it for weeks*! It can belong to you for only 299.99C$ + tax, per "
+"section. *( Your duration may vary. This wall comes with ABSOLUTELY "
+"NO WARRANTY! ) "
 msgstr ""
-"Diese großartige Mauer kann dem Ansturm eines ganzen Rudels wildgewordener "
-"Bots wochenlang widerstehen!* Werden Sie noch heute für nur 299,99T$ + MwSt. "
-"je Abschnitt stolzer Besitzer! *(Widerstandsfähigkeit unterliegt "
-"Schwankungen. Auslieferung OHNE JEGLICHE GEWÄHRLEISTUNG!). "
+"Diese groÃŸartige Mauer kann dem Ansturm eines ganzen Rudels "
+"wildgewordener Bots wochenlang widerstehen!* Werden Sie noch heute "
+"fÃ¼r nur 299,99T$ + MwSt. je Abschnitt stolzer Besitzer! *"
+"(WiderstandsfÃ¤higkeit unterliegt Schwankungen. Auslieferung OHNE "
+"JEGLICHE GEWÃ„HRLEISTUNG!). "
 
 #: ../src/blocks.c:3721 ../src/blocks.c:3727 ../src/blocks.c:3733
 #: ../src/blocks.c:3739 ../src/blocks.c:3744 ../src/blocks.c:3753
@@ -866,14 +894,16 @@ msgstr "Tor"
 #: ../src/blocks.c:3777 ../src/blocks.c:3799 ../src/blocks.c:3807
 msgid "This gate is little more than just a big door. A very big door."
 msgstr ""
-"Dieses Tor ist kaum mehr als eine große Tür. Eine sehr, sehr große Türe."
+"Dieses Tor ist kaum mehr als eine groÃŸe TÃ¼r. Eine sehr, sehr groÃŸe "
+"TÃ¼re."
 
 #: ../src/blocks.c:3784 ../src/blocks.c:3791
 msgid ""
-"It is locked in order to keep something out. Or maybe to keep something in?"
+"It is locked in order to keep something out. Or maybe to keep "
+"something in?"
 msgstr ""
-"Ist verschlossen, damit nichts hineingelangt. Oder vielleicht, damit nichts "
-"heraus kann?"
+"Ist verschlossen, damit nichts hineingelangt. Oder vielleicht, damit "
+"nichts heraus kann?"
 
 #: ../src/blocks.c:3814 ../src/blocks.c:3820 ../src/blocks.c:3826
 #: ../src/blocks.c:3832
@@ -892,35 +922,35 @@ msgstr "Rote Sitzbank"
 
 #: ../src/blocks.c:3841
 msgid ""
-"It is a soft bench, commonly seen in hospitals, shops and houses all around "
-"the world."
+"It is a soft bench, commonly seen in hospitals, shops and houses all "
+"around the world."
 msgstr ""
-"Es ist eine weiche Sitzbank, wie man sie für gewöhlich in Kliniken, "
-"Geschäften und Häusern überall auf der Welt findet."
+"Es ist eine weiche Sitzbank, wie man sie fÃ¼r gewÃ¶hlich in Kliniken, "
+"GeschÃ¤ften und HÃ¤usern Ã¼berall auf der Welt findet."
 
 #: ../src/blocks.c:3848
 msgid ""
-"It is a soft bench, commonly seen in hospitals, malls and houses all around "
-"the world."
+"It is a soft bench, commonly seen in hospitals, malls and houses all "
+"around the world."
 msgstr ""
-"Es ist eine weiche Sitzbank, wie man sie für gewöhlich in Kliniken, "
-"Einkaufsmeilen und Häusern überall auf der Welt findet."
+"Es ist eine weiche Sitzbank, wie man sie fÃ¼r gewÃ¶hlich in Kliniken, "
+"Einkaufsmeilen und HÃ¤usern Ã¼berall auf der Welt findet."
 
 #: ../src/blocks.c:3855
 msgid ""
-"It is a soft bench, commonly seen in hospitals, barber shops and houses all "
-"around the world."
+"It is a soft bench, commonly seen in hospitals, barber shops and "
+"houses all around the world."
 msgstr ""
-"Es ist eine weiche Sitzbank, wie man sie für gewöhlich in Kliniken, "
-"Friseurläden und Häusern überall auf der Welt findet."
+"Es ist eine weiche Sitzbank, wie man sie fÃ¼r gewÃ¶hlich in Kliniken, "
+"FriseurlÃ¤den und HÃ¤usern Ã¼berall auf der Welt findet."
 
 #: ../src/blocks.c:3862
 msgid ""
-"It is a soft bench, commonly seen in hospitals, coffee shops and houses all "
-"around the world."
+"It is a soft bench, commonly seen in hospitals, coffee shops and "
+"houses all around the world."
 msgstr ""
-"Es ist eine weiche Sitzbank, wie man sie für gewöhlich in Kliniken, Cafés "
-"und Häusern überall auf der Welt findet."
+"Es ist eine weiche Sitzbank, wie man sie fÃ¼r gewÃ¶hlich in Kliniken, "
+"CafÃ©s und HÃ¤usern Ã¼berall auf der Welt findet."
 
 #: ../src/blocks.c:3869 ../src/blocks.c:3874 ../src/blocks.c:3879
 #: ../src/blocks.c:3884
@@ -929,26 +959,29 @@ msgstr "Totes Mitglied der Roten Wache"
 
 #: ../src/blocks.c:3870
 msgid ""
-"If not for the terrible wounds, you could think that he is just asleep..."
+"If not for the terrible wounds, you could think that he is just "
+"asleep..."
 msgstr ""
-"Wären da nicht die grässlichen Wunden, könnte man meinen, er schliefe nur..."
+"WÃ¤ren da nicht die grÃ¤sslichen Wunden, kÃ¶nnte man meinen, er schliefe "
+"nur..."
 
 #: ../src/blocks.c:3875
 msgid "It looks like he fought to the bitter end..."
-msgstr "Sieht aus als hätte er bis zum bitteren Ende gekämpft..."
+msgstr "Sieht aus als hÃ¤tte er bis zum bitteren Ende gekÃ¤mpft..."
 
 #: ../src/blocks.c:3880
 msgid "Numerous wounds cover the body of this brave warrior..."
 msgstr ""
-"Der Körper dieses tapferen Kämpfers ist von zahlreichen Wunden übersäht..."
+"Der KÃ¶rper dieses tapferen KÃ¤mpfers ist von zahlreichen Wunden "
+"Ã¼bersÃ¤ht..."
 
 #: ../src/blocks.c:3885
 msgid ""
-"His body is charred and twisted... Such is the price of the service in the "
-"Red Guard..."
+"His body is charred and twisted... Such is the price of the service "
+"in the Red Guard..."
 msgstr ""
-"Sein Körper ist verkrümmt und angekohlt... der Preis für den Dienst in der "
-"Roten Wache."
+"Sein KÃ¶rper ist verkrÃ¼mmt und angekohlt... der Preis fÃ¼r den Dienst "
+"in der Roten Wache."
 
 #: ../src/blocks.c:3892 ../src/blocks.c:3899 ../src/blocks.c:3906
 #: ../src/blocks.c:3913
@@ -957,9 +990,11 @@ msgstr "Konferenztisch"
 
 #: ../src/blocks.c:3893 ../src/blocks.c:3900 ../src/blocks.c:3907
 #: ../src/blocks.c:3914
-msgid "A round conference table with chairs and a computer at every seat."
+msgid ""
+"A round conference table with chairs and a computer at every seat."
 msgstr ""
-"Ein runder Konferenztisch mit Stühlen und einem Computer an jedem Sitzplatz."
+"Ein runder Konferenztisch mit StÃ¼hlen und einem Computer an jedem "
+"Sitzplatz."
 
 #: ../src/blocks.c:3921 ../src/blocks.c:3929
 msgid "Massive fancy wall"
@@ -970,8 +1005,8 @@ msgid ""
 "That's some rather massive, yet fancy-looking type of wall.\n"
 "A second sight reveals lots of plastics, though."
 msgstr ""
-"Eine ziemlich massive und doch ausgefallene Wand. Ein zweiter Blick enthüllt "
-"allerdings viel Plastik."
+"Eine ziemlich massive und doch ausgefallene Wand. Ein zweiter Blick "
+"enthÃ¼llt allerdings viel Plastik."
 
 #: ../src/blocks.c:3937 ../src/blocks.c:3944 ../src/blocks.c:3951
 #: ../src/blocks.c:3958
@@ -991,8 +1026,10 @@ msgstr "Modernisierte Stockbetten"
 #: ../src/blocks.c:3965 ../src/blocks.c:3971 ../src/blocks.c:3977
 #: ../src/blocks.c:3983
 msgid ""
-"To save space on the floor two sleeping capsules were stacked vertically."
-msgstr "Um Bodenfläche zu sparen, wurden hier zwei Schlafkapseln gestapelt."
+"To save space on the floor two sleeping capsules were stacked "
+"vertically."
+msgstr ""
+"Um BodenflÃ¤che zu sparen, wurden hier zwei Schlafkapseln gestapelt."
 
 #: ../src/blocks.c:3989 ../src/blocks.c:3995 ../src/blocks.c:4001
 #: ../src/blocks.c:4007
@@ -1002,10 +1039,10 @@ msgstr "Projektor"
 #: ../src/blocks.c:3990 ../src/blocks.c:3996 ../src/blocks.c:4002
 #: ../src/blocks.c:4008
 msgid ""
-"This device is used for casting images onto a wall or a screen. It uses "
-"something looking like a film reel as a source of those images."
+"This device is used for casting images onto a wall or a screen. It "
+"uses something looking like a film reel as a source of those images."
 msgstr ""
-"Dieses Gerät strahlt Bilder an die Wand oder auf eine Leinwand. Als "
+"Dieses GerÃ¤t strahlt Bilder an die Wand oder auf eine Leinwand. Als "
 "Bildquelle dient etwas, das wie eine Filmrolle aussieht."
 
 #: ../src/blocks.c:4013 ../src/blocks.c:4018 ../src/blocks.c:4023
@@ -1016,47 +1053,50 @@ msgstr "Projektions-Leinwand"
 #: ../src/blocks.c:4014 ../src/blocks.c:4019 ../src/blocks.c:4024
 #: ../src/blocks.c:4029
 msgid ""
-"This is a projector screen, it allows to get better image quality than the "
-"wall."
+"This is a projector screen, it allows to get better image quality "
+"than the wall."
 msgstr ""
-"Ein Projektions-Schirm; ermöglicht eine bessere Bildwiedergabe als eine Wand."
+"Ein Projektions-Schirm; ermÃ¶glicht eine bessere Bildwiedergabe als "
+"eine Wand."
 
 #: ../src/blocks.c:4034 ../src/blocks.c:4039 ../src/blocks.c:4056
 #: ../src/blocks.c:4061
 msgid "Bookcase"
-msgstr "Bücherregal"
+msgstr "BÃ¼cherregal"
 
 #: ../src/blocks.c:4035
 msgid ""
-"There are many interesting books here, but none of them is a switch opening "
-"a secret passage."
+"There are many interesting books here, but none of them is a switch "
+"opening a secret passage."
 msgstr ""
-"Hier gibt es viele interessante Bücher, aber keines von ihnen dient als "
-"Schalter für einen verborgenen Geheimgang. Schade."
+"Hier gibt es viele interessante BÃ¼cher, aber keines von ihnen dient "
+"als Schalter fÃ¼r einen verborgenen Geheimgang. Schade."
 
 #: ../src/blocks.c:4040
 msgid "There are exactly 451 books here."
-msgstr "Es sind ganz genau 451 Bücher - ich habe nachgezählt!"
+msgstr "Es sind ganz genau 451 BÃ¼cher - ich habe nachgezÃ¤hlt!"
 
 #: ../src/blocks.c:4045 ../src/blocks.c:4050 ../src/blocks.c:4067
 #: ../src/blocks.c:4072
 msgid "Empty bookcase"
-msgstr "Leeres Bücherregal"
+msgstr "Leeres BÃ¼cherregal"
 
 #: ../src/blocks.c:4046 ../src/blocks.c:4051
 msgid "No books here, only dust."
-msgstr "Keine Bücher da, nur Staub."
+msgstr "Keine BÃ¼cher da, nur Staub."
 
 #: ../src/blocks.c:4057 ../src/blocks.c:4062
 msgid ""
-"Only boring books like the Necronomicon here. Yawn. Nothing of interest."
+"Only boring books like the Necronomicon here. Yawn. Nothing of "
+"interest."
 msgstr ""
-"Nur sterbenslangweilige Bücher wie das Necronomicon hier. Gähn. Nichts von "
-"Interesse."
+"Nur sterbenslangweilige BÃ¼cher wie das Necronomicon hier. GÃ¤hn. "
+"Nichts von Interesse."
 
 #: ../src/blocks.c:4068 ../src/blocks.c:4073
 msgid "Dust to trees. Trees to pages. Pages to books. Books to dust."
-msgstr "Staub zu Bäumen. Bäume zu Seiten. Seiten zu Büchern. Bücher zu Staub."
+msgstr ""
+"Staub zu BÃ¤umen. BÃ¤ume zu Seiten. Seiten zu BÃ¼chern. BÃ¼cher zu Staub."
 
 #: ../src/blocks.c:4080 ../src/blocks.c:4094
 msgid "Sign"
@@ -1110,10 +1150,11 @@ msgstr "Bartisch"
 
 #: ../src/blocks.c:4191
 #, fuzzy
-msgid "You can still see some food stains on this yellow round table. Yummy!"
+msgid ""
+"You can still see some food stains on this yellow round table. Yummy!"
 msgstr ""
-"Man kann noch einige Speisereste auf dem runden gelben Tisch erkennen. Wie "
-"lecker!"
+"Man kann noch einige Speisereste auf dem runden gelben Tisch "
+"erkennen. Wie lecker!"
 
 #: ../src/blocks.c:4198 ../src/blocks.c:4206
 msgid "Table"
@@ -1121,11 +1162,11 @@ msgstr "Tisch"
 
 #: ../src/blocks.c:4199 ../src/blocks.c:4207
 msgid ""
-"Tables such as this one have been used for centuries to store various items "
-"on top of them."
+"Tables such as this one have been used for centuries to store various "
+"items on top of them."
 msgstr ""
-"Tische, so wie dieser hier, werden seit Jahrhunderten dazu benutzt, um "
-"verschiedenste Dinge darauf abzustellen."
+"Tische, so wie dieser hier, werden seit Jahrhunderten dazu benutzt, "
+"um verschiedenste Dinge darauf abzustellen."
 
 #: ../src/blocks.c:4216 ../src/blocks.c:4224
 msgid "Glass table"
@@ -1133,7 +1174,7 @@ msgstr "Glastisch"
 
 #: ../src/blocks.c:4217 ../src/blocks.c:4225
 msgid "This table is made out of see-through glass."
-msgstr "Der Tisch ist aus Glas gefertigt. Völlig durchsichtig."
+msgstr "Der Tisch ist aus Glas gefertigt. VÃ¶llig durchsichtig."
 
 #: ../src/blocks.c:4233
 msgid "Water"
@@ -1142,7 +1183,8 @@ msgstr "Wasser"
 #: ../src/blocks.c:4234
 #, fuzzy
 msgid "This water seems dangerous. You'll want to avoid going there."
-msgstr "Das Wasser sieht gefährlich aus - du wirst es sicher meiden wollen. "
+msgstr ""
+"Das Wasser sieht gefÃ¤hrlich aus - du wirst es sicher meiden wollen. "
 
 #: ../src/blocks.c:4242 ../src/blocks.c:4251
 msgid "Restaurant & bar multipurpose counter (tm)"
@@ -1150,10 +1192,10 @@ msgstr "\"Restaurant & Bar-Mehrzweck-Tresen (tm)\""
 
 #: ../src/blocks.c:4243 ../src/blocks.c:4252
 msgid ""
-"A perfect fusion of practical usability, appealing optics and durability has "
-"been fitted into the design of this counter."
+"A perfect fusion of practical usability, appealing optics and "
+"durability has been fitted into the design of this counter."
 msgstr ""
-"Ein perfektes Zusammenspiel von Praktikabilität, ansprechender Optik\n"
+"Ein perfektes Zusammenspiel von PraktikabilitÃ¤t, ansprechender Optik\n"
 "   und Dauerhaftigkeit wurde im Design dieses Tresens vereint."
 
 #: ../src/blocks.c:4258 ../src/blocks.c:4265
@@ -1162,19 +1204,20 @@ msgstr "\"Restaurant & Bar-Mehrzweck-Mobiliar (tm)\""
 
 #: ../src/blocks.c:4259 ../src/blocks.c:4266
 msgid ""
-"In combination with the 'Restaurant & bar multipurpose counter (tm)',\n"
-"  this professional set of heavy-duty kitchen furniture adds up to a pretty "
-"complete catering equipment.\n"
-"  Too bad there just aren't engough human guests around, to run such a "
-"business these days..."
+"In combination with the 'Restaurant & bar multipurpose counter "
+"(tm)',\n"
+"  this professional set of heavy-duty kitchen furniture adds up to a "
+"pretty complete catering equipment.\n"
+"  Too bad there just aren't engough human guests around, to run such "
+"a business these days..."
 msgstr ""
 "In Kombination mit dem \"Restaurant & Bar-Mehrzweck-Tresen (tm)\"\n"
-"   ergänzt sich dieses professionelle Set an hochbelastbarer "
-"Kücheneinrichtung\n"
-"   zu einer durchaus vollständigen Gastronomie-Ausrüstung.\n"
-"   Zu schade nur, dass es in diesen Tagen einfach nicht genügend menschliche "
-"Gäste gibt,\n"
-"   um ein Geschäft wie dieses am Laufen zu halten."
+"   ergÃ¤nzt sich dieses professionelle Set an hochbelastbarer "
+"KÃ¼cheneinrichtung\n"
+"   zu einer durchaus vollstÃ¤ndigen Gastronomie-AusrÃ¼stung.\n"
+"   Zu schade nur, dass es in diesen Tagen einfach nicht genÃ¼gend "
+"menschliche GÃ¤ste gibt,\n"
+"   um ein GeschÃ¤ft wie dieses am Laufen zu halten."
 
 #: ../src/blocks.c:4272 ../src/blocks.c:4279 ../src/blocks.c:4286
 #: ../src/blocks.c:4293 ../src/blocks.c:4300 ../src/blocks.c:4307
@@ -1184,7 +1227,8 @@ msgstr "Kristall-Formation"
 #: ../src/blocks.c:4273 ../src/blocks.c:4280 ../src/blocks.c:4287
 #: ../src/blocks.c:4294 ../src/blocks.c:4301 ../src/blocks.c:4308
 msgid "An unusual and impressive formation of red crystals."
-msgstr "Eine ungewöhnliche und beeindruckende Formation roter Kristalle."
+msgstr ""
+"Eine ungewÃ¶hnliche und beeindruckende Formation roter Kristalle."
 
 #: ../src/blocks.c:4314 ../src/blocks.c:4320 ../src/blocks.c:4326
 #: ../src/blocks.c:4332
@@ -1193,7 +1237,7 @@ msgstr "Ein Waschzuber"
 
 #: ../src/blocks.c:4338 ../src/blocks.c:4344 ../src/blocks.c:4350
 msgid "Desk chair"
-msgstr "Bürostuhl"
+msgstr "BÃ¼rostuhl"
 
 #: ../src/blocks.c:4374
 #, c-format
@@ -1210,11 +1254,11 @@ msgstr ""
 #: ../src/bullet.c:643
 #, c-format
 msgid "Disruptor blast has hit you for %d damage."
-msgstr "Disruptor-Blitz hat dir %d Schaden zugefügt."
+msgstr "Disruptor-Blitz hat dir %d Schaden zugefÃ¼gt."
 
 #: ../src/bullet.c:693
 msgid "That one went into the armor."
-msgstr "Das ging in die Rüstung."
+msgstr "Das ging in die RÃ¼stung."
 
 #: ../src/character.c:234
 msgid "Max level reached!"
@@ -1256,11 +1300,11 @@ msgstr "Tribucks"
 
 #: ../src/character.c:696
 msgid "Strength"
-msgstr "Stärke"
+msgstr "StÃ¤rke"
 
 #: ../src/character.c:704
 msgid "Dexterity"
-msgstr "Agilität"
+msgstr "AgilitÃ¤t"
 
 #: ../src/character.c:712
 msgid "CPU"
@@ -1268,7 +1312,7 @@ msgstr "CPU"
 
 #: ../src/character.c:720
 msgid "Life"
-msgstr "Vitalität"
+msgstr "VitalitÃ¤t"
 
 #: ../src/character.c:729
 msgid "Training points"
@@ -1288,7 +1332,7 @@ msgstr "Ausdauer"
 
 #: ../src/character.c:753 ../src/shop.c:616
 msgid "Armor"
-msgstr "Rüstung"
+msgstr "RÃ¼stung"
 
 #: ../src/character.c:759
 msgid "Attack"
@@ -1309,7 +1353,7 @@ msgstr "Was wirst du sagen?"
 #: ../src/enemy.c:831
 #, c-format
 msgid "Your friend %s was killed by %s."
-msgstr "Dein Freund %s wurde durch %s getötet."
+msgstr "Dein Freund %s wurde durch %s getÃ¶tet."
 
 #: ../src/enemy.c:833
 #, c-format
@@ -1319,7 +1363,7 @@ msgstr "%s wurde von dir eliminiert."
 #: ../src/enemy.c:835
 #, c-format
 msgid "%s is dead."
-msgstr "%s wurde ausgelöscht."
+msgstr "%s wurde ausgelÃ¶scht."
 
 #: ../src/enemy.c:840
 #, c-format
@@ -1329,7 +1373,7 @@ msgstr "%s besiegt. %d Erfahrungspunkte gesammelt."
 #: ../src/enemy.c:843
 #, c-format
 msgid "%s was killed by %s."
-msgstr "%s wurde ausgelöscht von %s."
+msgstr "%s wurde ausgelÃ¶scht von %s."
 
 #: ../src/enemy.c:844
 #, c-format
@@ -1359,12 +1403,12 @@ msgstr "Anzahl: %d \n"
 #: ../src/hud.c:219
 #, c-format
 msgid "Armor: %d"
-msgstr "Rüstung: %d"
+msgstr "RÃ¼stung: %d"
 
 #: ../src/hud.c:231
 #, c-format
 msgid " Durability: %d of %d\n"
-msgstr " Beständigkeit: %d von %d\n"
+msgstr " BestÃ¤ndigkeit: %d von %d\n"
 
 #: ../src/hud.c:233
 #, c-format
@@ -1373,11 +1417,11 @@ msgstr " Bes: %d/%d\n"
 
 #: ../src/hud.c:238
 msgid " Indestructible\n"
-msgstr " Unzerstörbar\n"
+msgstr " UnzerstÃ¶rbar\n"
 
 #: ../src/hud.c:248
 msgid " Required:"
-msgstr " Benötigt:"
+msgstr " BenÃ¶tigt:"
 
 #: ../src/hud.c:252
 #, c-format
@@ -1387,7 +1431,7 @@ msgstr "   Str: %d"
 #: ../src/hud.c:254
 #, c-format
 msgid " Required strength: %d "
-msgstr " Benötigte Stärke: %d "
+msgstr " BenÃ¶tigte StÃ¤rke: %d "
 
 #: ../src/hud.c:261
 #, c-format
@@ -1397,11 +1441,11 @@ msgstr "   Agi: %d"
 #: ../src/hud.c:263
 #, c-format
 msgid " Required dexterity: %d "
-msgstr " Benötigte Agilität: %d "
+msgstr " BenÃ¶tigte AgilitÃ¤t: %d "
 
 #: ../src/hud.c:286
 msgid " , No required attributes "
-msgstr " , keine besonderen Eigenschaften nötig "
+msgstr " , keine besonderen Eigenschaften nÃ¶tig "
 
 #: ../src/hud.c:297
 #, c-format
@@ -1420,12 +1464,12 @@ msgid ""
 " back to your previous position\n"
 msgstr ""
 "Teleportiert dich zu einem sicheren Ort\n"
-" oder zurück zu deiner letzten Position\n"
+" oder zurÃ¼ck zu deiner letzten Position\n"
 
 #: ../src/hud.c:312
 #, c-format
 msgid "Cooling aid\n"
-msgstr "Kühlmittel\n"
+msgstr "KÃ¼hlmittel\n"
 
 #: ../src/hud.c:317
 #, c-format
@@ -1433,7 +1477,7 @@ msgid ""
 "Recover Health, Force\n"
 "and Running Power\n"
 msgstr ""
-"Lebenspunkte, Stärke und \n"
+"Lebenspunkte, StÃ¤rke und \n"
 "Lauf-Ausdauer wiederherstellen\n"
 
 #: ../src/hud.c:322
@@ -1444,12 +1488,12 @@ msgstr "Lauf-Ausdauer wiederherstellen\n"
 #: ../src/hud.c:327
 #, c-format
 msgid "Temporary Boost to Strength\n"
-msgstr "Temporärer Stärkebonus\n"
+msgstr "TemporÃ¤rer StÃ¤rkebonus\n"
 
 #: ../src/hud.c:332
 #, c-format
 msgid "Temporary Boost to Dexterity\n"
-msgstr "Temporärer Agilitäts-Bonus\n"
+msgstr "TemporÃ¤rer AgilitÃ¤ts-Bonus\n"
 
 #: ../src/hud.c:337
 #, c-format
@@ -1459,12 +1503,12 @@ msgstr "Zum Implantieren der Automap-Einheit\n"
 #: ../src/hud.c:342
 #, c-format
 msgid "Increase strength\n"
-msgstr "Stärke erhöhen\n"
+msgstr "StÃ¤rke erhÃ¶hen\n"
 
 #: ../src/hud.c:347
 #, c-format
 msgid "Increase dexterity\n"
-msgstr "Geschicklichkeit erhöhen\n"
+msgstr "Geschicklichkeit erhÃ¶hen\n"
 
 #: ../src/hud.c:352
 #, c-format
@@ -1489,7 +1533,7 @@ msgstr "Gasangriff\n"
 #: ../src/hud.c:373
 #, c-format
 msgid "Huge explosion\n"
-msgstr "Große Explosion\n"
+msgstr "GroÃŸe Explosion\n"
 
 #: ../src/hud.c:379
 #, c-format
@@ -1504,12 +1548,12 @@ msgstr "Rechtsklicken zum Benutzen"
 #: ../src/hud.c:405
 #, c-format
 msgid "%d to strength"
-msgstr "%d zur Stärke"
+msgstr "%d zur StÃ¤rke"
 
 #: ../src/hud.c:415
 #, c-format
 msgid "%d to dexterity"
-msgstr "%d zu Agilität"
+msgstr "%d zu AgilitÃ¤t"
 
 #: ../src/hud.c:424
 #, c-format
@@ -1519,7 +1563,7 @@ msgstr "%d zur CPU-Leistung"
 #: ../src/hud.c:433
 #, c-format
 msgid "%d to life"
-msgstr "%d zur Vitalität"
+msgstr "%d zur VitalitÃ¤t"
 
 #: ../src/hud.c:442
 #, c-format
@@ -1534,7 +1578,7 @@ msgstr "%0.1f Lebenspunkte pro Sekunde"
 #: ../src/hud.c:460
 #, c-format
 msgid "%0.1f cooling per second"
-msgstr "%0.1f Kühlung pro Sekunde"
+msgstr "%0.1f KÃ¼hlung pro Sekunde"
 
 #: ../src/hud.c:462
 #, c-format
@@ -1559,12 +1603,12 @@ msgstr "%d zu allen Eigenschaften"
 #: ../src/hud.c:506
 #, c-format
 msgid "%d%% to armor"
-msgstr "%d%% zur Rüstung"
+msgstr "%d%% zur RÃ¼stung"
 
 #: ../src/hud.c:519
 #, c-format
 msgid "%d%% to damage"
-msgstr "%d%% zur Zerstörungskraft"
+msgstr "%d%% zur ZerstÃ¶rungskraft"
 
 #: ../src/hud.c:529
 #, c-format
@@ -1602,7 +1646,7 @@ msgstr " %s LEER"
 
 #: ../src/hud.c:974
 msgid "REQUIREMENTS NOT MET"
-msgstr "ANFORDERUNGEN NICHT ERFÜLLT"
+msgstr "ANFORDERUNGEN NICHT ERFÃœLLT"
 
 #: ../src/hud.c:1089
 #, c-format
@@ -1663,14 +1707,14 @@ msgid ""
 "This is the protocol.\n"
 "Oh yes, it is indeed!\n"
 "It has multiple lines too!\n"
-"Isn't that great?  But how long may any one line be?  Is there a limit for "
-"that?  Anyway, it looks good."
+"Isn't that great?  But how long may any one line be?  Is there a "
+"limit for that?  Anyway, it looks good."
 msgstr ""
 "Dies ist das Protokoll.\n"
 "Oh ja, wirklich!\n"
 "Hat auch mehrere Zeilen!\n"
-"Ist das nicht toll? Aber wie lang mag jede dieser Zeilen sein? Gibt's da "
-"eine Begrenzung? Jedenfalls, sieht gut aus."
+"Ist das nicht toll? Aber wie lang mag jede dieser Zeilen sein? Gibt's "
+"da eine Begrenzung? Jedenfalls, sieht gut aus."
 
 #: ../src/hud.c:1496 ../src/hud.c:1507 ../src/mission.c:122
 #, c-format
@@ -1702,7 +1746,8 @@ msgstr "Hier ist nichts."
 
 #: ../src/init.c:126
 msgid ""
-"My name is Bug. Software Bug. Please report me to the developers. Thank you."
+"My name is Bug. Software Bug. Please report me to the developers. "
+"Thank you."
 msgstr ""
 "Mein Name ist BUG. Sofware-BUG. Bitte melde mich den Entwicklern von "
 "FreedroidRPG. Danke."
@@ -1714,28 +1759,28 @@ msgstr "Hmm. Das muss der 'Behelfs'-Stadtrat sein..."
 #: ../src/init.c:131
 #, fuzzy
 msgid ""
-"You see a legend. Sorenson Clark. One of the best human programmers that has "
-"ever lived. Just like Paganini, she is said to have sold her soul to the "
-"devil for her skill. Whatever the truth is, her code is like magic, and "
-"there is no denying that."
+"You see a legend. Sorenson Clark. One of the best human programmers "
+"that has ever lived. Just like Paganini, she is said to have sold her "
+"soul to the devil for her skill. Whatever the truth is, her code is "
+"like magic, and there is no denying that."
 msgstr ""
-"Sie ist eine Legende. Sorenson Clark. Eines der größten menschlichen "
-"Programmiergenies, das je auf Erden gelebt hat. Genau wie bei Paganini sagt "
-"man von ihr, sie habe im Tausch für ihr Können die Seele dem Teufel "
-"verkauft. Wie auch immer die Wahrheit aussieht - ihr Code ist wie Magie, das "
-"lässt sich nicht leugnen."
+"Sie ist eine Legende. Sorenson Clark. Eines der grÃ¶ÃŸten menschlichen "
+"Programmiergenies, das je auf Erden gelebt hat. Genau wie bei "
+"Paganini sagt man von ihr, sie habe im Tausch fÃ¼r ihr KÃ¶nnen die "
+"Seele dem Teufel verkauft. Wie auch immer die Wahrheit aussieht - ihr "
+"Code ist wie Magie, das lÃ¤sst sich nicht leugnen."
 
 #: ../src/init.c:133
 #, fuzzy
 msgid ""
-"He is either a college student, a drug addict or a hacker. You bet he has "
-"not had a warm meal for days, he looks totally malnourished. His body keeps "
-"twitching. Must be the caffeine. You hope."
+"He is either a college student, a drug addict or a hacker. You bet he "
+"has not had a warm meal for days, he looks totally malnourished. His "
+"body keeps twitching. Must be the caffeine. You hope."
 msgstr ""
-"Er ist entweder ein Student, ein Drogensüchtiger oder ein Hacker. Wetten, "
-"dass er seit Tagen keine warme Mahlzeit hatte? Er sieht vollkommen "
-"unterernährt aus und sein Körper zuckt unaufhörlich. Muss am Koffein liegen "
-"- hoffentlich jedenfalls!"
+"Er ist entweder ein Student, ein DrogensÃ¼chtiger oder ein Hacker. "
+"Wetten, dass er seit Tagen keine warme Mahlzeit hatte? Er sieht "
+"vollkommen unterernÃ¤hrt aus und sein KÃ¶rper zuckt unaufhÃ¶rlich. Muss "
+"am Koffein liegen - hoffentlich jedenfalls!"
 
 #: ../src/init.c:135
 #, fuzzy
@@ -1745,218 +1790,228 @@ msgstr "Lass die Finger von Steroiden oder du wirst enden so wie er..."
 #: ../src/init.c:137
 msgid ""
 "There are at least 614 reasons to stay away from the 614 bot battle "
-"platform. There are also 614 reasons why a 614 bot battle platform can be "
-"your best friend during combat..."
+"platform. There are also 614 reasons why a 614 bot battle platform "
+"can be your best friend during combat..."
 msgstr ""
-"Es gibt wenigstens 614 gute Gründe, sich von einem 614er "
-"Sicherheitsandroiden fernzuhalten. Es gibt allerdings auch mindestens 614 "
-"Gründe, warum dieser Bot in Kampfsituationen dein bester Freund sein kann..."
+"Es gibt wenigstens 614 gute GrÃ¼nde, sich von einem 614er "
+"Sicherheitsandroiden fernzuhalten. Es gibt allerdings auch mindestens "
+"614 GrÃ¼nde, warum dieser Bot in Kampfsituationen dein bester Freund "
+"sein kann..."
 
 #: ../src/init.c:139
 #, fuzzy
 msgid ""
-"Francis is not looking so good today. His tattered coat is not looking that "
-"much better. The war is taking its toll on them both."
+"Francis is not looking so good today. His tattered coat is not "
+"looking that much better. The war is taking its toll on them both."
 msgstr ""
-"Francis sieht heute nicht so gut aus. Und sein zerschlissener Kittel nicht "
-"viel besser. Der Krieg verlangt beiden einiges ab."
+"Francis sieht heute nicht so gut aus. Und sein zerschlissener Kittel "
+"nicht viel besser. Der Krieg verlangt beiden einiges ab."
 
 #: ../src/init.c:141
 msgid ""
-"What a strange person. He does not seem to really fit into this reality. "
-"There is something very eerie about him. And frightening."
+"What a strange person. He does not seem to really fit into this "
+"reality. There is something very eerie about him. And frightening."
 msgstr ""
-"Was für eine seltsame Person. Scheint nicht so ganz in diese Realität zu "
-"passen. Es ist etwas sehr Gespenstisches und Beängstigendes an ihm..."
+"Was fÃ¼r eine seltsame Person. Scheint nicht so ganz in diese RealitÃ¤t "
+"zu passen. Es ist etwas sehr Gespenstisches und BeÃ¤ngstigendes an "
+"ihm..."
 
 #: ../src/init.c:143
 #, fuzzy
 msgid ""
-"This person looks totally defeated. Tattered clothes surround his skeletal "
-"form. If there was a fifth rider of the apocalypse, it would be him and his "
-"name would be Hard Work."
+"This person looks totally defeated. Tattered clothes surround his "
+"skeletal form. If there was a fifth rider of the apocalypse, it would "
+"be him and his name would be Hard Work."
 msgstr ""
-"Diese Person ist wirklich am Ende. Zerschlissene Kleider verhüllen kaum "
-"seine skelettartige Erscheinung.  Gäbe es einen fünften Reiter der "
-"Apokalypse, dann wäre er es wohl - und sein Name wäre Schichtarbeit."
+"Diese Person ist wirklich am Ende. Zerschlissene Kleider verhÃ¼llen "
+"kaum seine skelettartige Erscheinung.  GÃ¤be es einen fÃ¼nften Reiter "
+"der Apokalypse, dann wÃ¤re er es wohl - und sein Name wÃ¤re "
+"Schichtarbeit."
 
 #: ../src/init.c:145
 #, fuzzy
 msgid ""
-"It seems that even at the end of the world the species known as 'Salesman' "
-"is able to survive. Just his presence makes you want to destroy all humans."
+"It seems that even at the end of the world the species known as "
+"'Salesman' is able to survive. Just his presence makes you want to "
+"destroy all humans."
 msgstr ""
-"Es Scheint, als wäre die unter der Bezeichnung 'Vertriebsprofi' bekannte "
-"Spezies selbst zu Zeiten des Weltuntergangs im Stande zu überleben. Seine "
-"bloße Anwesenheit weckt in dir den Wunsch, alle Menschen auszulöschen!"
+"Es Scheint, als wÃ¤re die unter der Bezeichnung 'Vertriebsprofi' "
+"bekannte Spezies selbst zu Zeiten des Weltuntergangs im Stande zu "
+"Ã¼berleben. Seine bloÃŸe Anwesenheit weckt in dir den Wunsch, alle "
+"Menschen auszulÃ¶schen!"
 
 #: ../src/init.c:147
 msgid "He looks unexplicably happy."
-msgstr "Er sieht auf unerklärliche Weise glücklich aus."
+msgstr "Er sieht auf unerklÃ¤rliche Weise glÃ¼cklich aus."
 
 #: ../src/init.c:149
 msgid ""
-"In some places of the world there exists a very interesting saying. 'Tough "
-"as nails.' However, in every place where the Stone trader family stays for a "
-"while, a new saying emerges. 'Tough as the Stones.'"
+"In some places of the world there exists a very interesting saying. "
+"'Tough as nails.' However, in every place where the Stone trader "
+"family stays for a while, a new saying emerges. 'Tough as the Stones.'"
 msgstr ""
-"In manchen Gegenden der Welt gibt es ein interessantes Sprichwort: 'Zäh wie "
-"Nägel'.Allerdings kommt an jedem Fleck, an dem die Händlerfamilie Stone sich "
-"längere Zeit aufhält, ein neues Sprichwort auf: 'Zäh wie die Stones.'"
+"In manchen Gegenden der Welt gibt es ein interessantes Sprichwort: "
+"'ZÃ¤h wie NÃ¤gel'.Allerdings kommt an jedem Fleck, an dem die "
+"HÃ¤ndlerfamilie Stone sich lÃ¤ngere Zeit aufhÃ¤lt, ein neues Sprichwort "
+"auf: 'ZÃ¤h wie die Stones.'"
 
 #: ../src/init.c:151
 #, fuzzy
 msgid ""
-"It is very obvious that this is not a normal Red Guard. Most of them do not "
-"have oil stains on their armor, or smell of alcohol."
+"It is very obvious that this is not a normal Red Guard. Most of them "
+"do not have oil stains on their armor, or smell of alcohol."
 msgstr ""
-"Es ist ganz offensichtlich, dass dies kein gewöhnliches Mitglied der Roten "
-"Wache ist. Die meisten haben keine Ölflecken auf ihrer Rüstung und riechen "
-"nach Alkohol."
+"Es ist ganz offensichtlich, dass dies kein gewÃ¶hnliches Mitglied der "
+"Roten Wache ist. Die meisten haben keine Ã–lflecken auf ihrer RÃ¼stung "
+"und riechen nach Alkohol."
 
 #: ../src/init.c:153
 msgid ""
-"It looks like a 614. It moves like a 614. It even kills like a 614. Must be "
-"a 614 then."
+"It looks like a 614. It moves like a 614. It even kills like a 614. "
+"Must be a 614 then."
 msgstr ""
-"Sieht wie ein 614er Robot aus. Bewegt sich wie ein 614er Robot. Tötet sogar "
-"wie ein 614er Robot. IST wohl ein 614er Sicherheitsroboter."
+"Sieht wie ein 614er Robot aus. Bewegt sich wie ein 614er Robot. TÃ¶tet "
+"sogar wie ein 614er Robot. IST wohl ein 614er Sicherheitsroboter."
 
 #: ../src/init.c:155
 #, fuzzy
 msgid ""
-"He must be the resident scientist. The only thing keeping his body alive is "
-"the massive coffee overdose that he takes early every morning. The amount of "
-"caffeine that he has in his blood right now would be enough to kill ten "
-"humans, but since computer scientists are a different species, he is "
-"unharmed."
+"He must be the resident scientist. The only thing keeping his body "
+"alive is the massive coffee overdose that he takes early every "
+"morning. The amount of caffeine that he has in his blood right now "
+"would be enough to kill ten humans, but since computer scientists are "
+"a different species, he is unharmed."
 msgstr ""
-"Er muss einer der hiesigen Forscher sein. Das einzige, das seinen Körper am "
-"Leben erhält, ist die massive Kaffee-Überdosis, die er sich immer früh "
-"morgens verabreicht. Die Menge an Koffein, die sich momentan in seinem "
-"Blutkreislauf befindet, dürfte ausreichen, um 10 Menschen zu töten. Aber da "
-"Computer-Wissenschaftler ja einer anderen Gattung angehören, kann sie ihm "
-"nichts anhaben."
+"Er muss einer der hiesigen Forscher sein. Das einzige, das seinen "
+"KÃ¶rper am Leben erhÃ¤lt, ist die massive Kaffee-Ãœberdosis, die er sich "
+"immer frÃ¼h morgens verabreicht. Die Menge an Koffein, die sich "
+"momentan in seinem Blutkreislauf befindet, dÃ¼rfte ausreichen, um 10 "
+"Menschen zu tÃ¶ten. Aber da Computer-Wissenschaftler ja einer anderen "
+"Gattung angehÃ¶ren, kann sie ihm nichts anhaben."
 
 #: ../src/init.c:157
 msgid ""
-"Something about him makes you think of angels. Except angels are usually "
-"sane, do not have an urge to kill everything around them and are much better "
-"at singing religious songs."
+"Something about him makes you think of angels. Except angels are "
+"usually sane, do not have an urge to kill everything around them and "
+"are much better at singing religious songs."
 msgstr ""
-"Etwas an ihm erinnert dich an einen Engel... außer vielleicht, dass Engel "
-"für gewöhnlich vernünftig sind, keinen Drang verspüren, alles um sich herum "
-"umzubringen und auch viel besser im Singen religiöser Hymnen sind!"
+"Etwas an ihm erinnert dich an einen Engel... auÃŸer vielleicht, dass "
+"Engel fÃ¼r gewÃ¶hnlich vernÃ¼nftig sind, keinen Drang verspÃ¼ren, alles "
+"um sich herum umzubringen und auch viel besser im Singen religiÃ¶ser "
+"Hymnen sind!"
 
 #: ../src/init.c:159
 msgid ""
-"As you look at him, you cannot really belive he is there. If you turn your "
-"back on him he will vanish like a ghost into thin air and you will never see "
-"him again."
+"As you look at him, you cannot really belive he is there. If you turn "
+"your back on him he will vanish like a ghost into thin air and you "
+"will never see him again."
 msgstr ""
-"Wenn man ihn so ansieht, kann man gar nicht glauben, dass er überhaupt hier "
-"ist. Du bist dir sicher, wenn du ihm den Rücken zudrehst, wird er sich wie "
-"ein Geist in dünner Luft auflösen und nie wieder erscheinen."
+"Wenn man ihn so ansieht, kann man gar nicht glauben, dass er "
+"Ã¼berhaupt hier ist. Du bist dir sicher, wenn du ihm den RÃ¼cken "
+"zudrehst, wird er sich wie ein Geist in dÃ¼nner Luft auflÃ¶sen und nie "
+"wieder erscheinen."
 
 #: ../src/init.c:161
 msgid ""
-"His IQ is sometimes as high as a dog's. Only sometimes though. He smells "
-"like a dog too."
+"His IQ is sometimes as high as a dog's. Only sometimes though. He "
+"smells like a dog too."
 msgstr ""
-"Sein IQ erreicht ab und zu den eines Hundes. Aber nur manchmal. Er riecht "
-"auch wie ein Hund."
+"Sein IQ erreicht ab und zu den eines Hundes. Aber nur manchmal. Er "
+"riecht auch wie ein Hund."
 
 #: ../src/init.c:163
 msgid ""
-"He seems to be the chief of the gate guards. Hard to say anything more, the "
-"armor hides his body."
+"He seems to be the chief of the gate guards. Hard to say anything "
+"more, the armor hides his body."
 msgstr ""
-"Er scheint der Leiter der Torwache zu sein. Ist schwer, mehr über ihn zu "
-"sagen - sein Körper steckt in einer starken Rüstung."
+"Er scheint der Leiter der Torwache zu sein. Ist schwer, mehr Ã¼ber ihn "
+"zu sagen - sein KÃ¶rper steckt in einer starken RÃ¼stung."
 
 #: ../src/init.c:165
 msgid ""
-"Yet another Red Guard, the ranged weapons instructor. The armor hides his "
-"body."
+"Yet another Red Guard, the ranged weapons instructor. The armor hides "
+"his body."
 msgstr ""
-"Der Feuerwaffen-Ausbilder der Roten Wache. Die Rüstung verbirgt sein Äußeres."
+"Der Feuerwaffen-Ausbilder der Roten Wache. Die RÃ¼stung verbirgt sein "
+"Ã„uÃŸeres."
 
 #: ../src/init.c:167
 msgid ""
-"Some people say that every doctor is addicted to drugs. You estimate that "
-"right now this one is high on at least four different narcotics. Doc Moore "
-"seems very happy indeed..."
+"Some people say that every doctor is addicted to drugs. You estimate "
+"that right now this one is high on at least four different narcotics. "
+"Doc Moore seems very happy indeed..."
 msgstr ""
-"Manche Leute behaupten, dass jeder Arzt drogenabhängig sei. Dieser Vermutung "
-"nach dürfte der hier im Moment unter dem berauschenden Einfluss von "
-"mindestens vier verschiedenen Substanzen stehen. Doc Moore sieht wirklich "
-"SEHR glücklich aus..!"
+"Manche Leute behaupten, dass jeder Arzt drogenabhÃ¤ngig sei. Dieser "
+"Vermutung nach dÃ¼rfte der hier im Moment unter dem berauschenden "
+"Einfluss von mindestens vier verschiedenen Substanzen stehen. Doc "
+"Moore sieht wirklich SEHR glÃ¼cklich aus..!"
 
 #: ../src/init.c:169
 msgid ""
-"Yet another Red Guard. You cannot say anything more, the armor hides his "
-"body."
+"Yet another Red Guard. You cannot say anything more, the armor hides "
+"his body."
 msgstr ""
-"Noch eine 'Rote Wache'. Es gibt wenig mehr darüber zu sagen - die Rüstung "
-"schützt auch vor neugierigen Blicken."
+"Noch eine 'Rote Wache'. Es gibt wenig mehr darÃ¼ber zu sagen - die "
+"RÃ¼stung schÃ¼tzt auch vor neugierigen Blicken."
 
 #: ../src/init.c:171
 #, fuzzy
 msgid ""
-"He looks taller than most of the Red Guards, but you cannot really determine "
-"anything more about him, the armor hides his body."
+"He looks taller than most of the Red Guards, but you cannot really "
+"determine anything more about him, the armor hides his body."
 msgstr ""
-"Er sieht größer aus, als die meisten anderen Mitglieder der Roten Wache. Das "
-"ist aber auch schon so ziemlich alles, was über ihn herauszufinden ist, da "
-"er einen Schutzpanzer trägt."
+"Er sieht grÃ¶ÃŸer aus, als die meisten anderen Mitglieder der Roten "
+"Wache. Das ist aber auch schon so ziemlich alles, was Ã¼ber ihn "
+"herauszufinden ist, da er einen Schutzpanzer trÃ¤gt."
 
 #: ../src/init.c:173
 msgid ""
-"And now you know who is to be blamed for the truly awful food in here. You "
-"are in a killing mood. Oh yeah. The cook must die. The cook must die. Ha. "
-"Ha. Ha."
+"And now you know who is to be blamed for the truly awful food in "
+"here. You are in a killing mood. Oh yeah. The cook must die. The cook "
+"must die. Ha. Ha. Ha."
 msgstr ""
-"Nun weißt du, wer an dem sprichwörtlichen Fraß hier Schuld ist... du bist in "
-"einer Mordsstimmung. Oh ja. Der Koch muss dran glauben. Der Koch muss "
-"sterben... HA! HA! HA!"
+"Nun weiÃŸt du, wer an dem sprichwÃ¶rtlichen FraÃŸ hier Schuld ist... du "
+"bist in einer Mordsstimmung. Oh ja. Der Koch muss dran glauben. Der "
+"Koch muss sterben... HA! HA! HA!"
 
 #: ../src/init.c:175
 msgid ""
-"This is a minor bug. Please report this incident to the developers. Thank "
-"you."
+"This is a minor bug. Please report this incident to the developers. "
+"Thank you."
 msgstr ""
-"Ein unkritischer Fehler ist aufgetreten. Bitte diesen Zwischenfall den "
-"Entwicklern melden. Danke."
+"Ein unkritischer Fehler ist aufgetreten. Bitte diesen Zwischenfall "
+"den Entwicklern melden. Danke."
 
 #: ../src/init.c:177
 msgid ""
-"Blood. Stone. Cog. The Blood has made the Cog from the Stone. Now the Cog is "
-"making more Stone from the Blood. I wonder what is the next step of the "
-"cycle..."
+"Blood. Stone. Cog. The Blood has made the Cog from the Stone. Now the "
+"Cog is making more Stone from the Blood. I wonder what is the next "
+"step of the cycle..."
 msgstr ""
-"Blut. Stein. Zahnrad. Blut schuf das Zahnrad aus Stein. Nun verwandelt das "
-"Zahnrad Blut in Stein. Fragt sich, was wohl der nächste Schritt in diesem "
-"Zyklus ist?"
+"Blut. Stein. Zahnrad. Blut schuf das Zahnrad aus Stein. Nun "
+"verwandelt das Zahnrad Blut in Stein. Fragt sich, was wohl der "
+"nÃ¤chste Schritt in diesem Zyklus ist?"
 
-#: ../src/init.c:179 ../src/init.c:181 ../src/init.c:183 ../src/init.c:185
+#: ../src/init.c:179 ../src/init.c:181 ../src/init.c:183
+#: ../src/init.c:185
 msgid "The armor hides his body."
-msgstr "Die Rüstung verdeckt sein Äußeres."
+msgstr "Die RÃ¼stung verdeckt sein Ã„uÃŸeres."
 
 #: ../src/init.c:187
 msgid ""
-"This very well could be the most attractive human you've ever seen. There is "
-"something odd about her, though..."
+"This very well could be the most attractive human you've ever seen. "
+"There is something odd about her, though..."
 msgstr ""
-"Das könnte durchaus der attraktivste Mensch sein, den du jemals gesehen "
-"hast. Es ist allerdings etwas Merkwürdiges an ihr..."
+"Das kÃ¶nnte durchaus der attraktivste Mensch sein, den du jemals "
+"gesehen hast. Es ist allerdings etwas MerkwÃ¼rdiges an ihr..."
 
 #: ../src/init.c:189
 msgid ""
-"This is Tom. He will introduce you to the game, and help you throughout this "
-"tutorial."
+"This is Tom. He will introduce you to the game, and help you "
+"throughout this tutorial."
 msgstr ""
-"Das ist Tom. Er wird dich in das Spiel einführen und durch das Tutorial "
-"begleiten."
+"Das ist Tom. Er wird dich in das Spiel einfÃ¼hren und durch das "
+"Tutorial begleiten."
 
 #: ../src/init.c:191
 #, fuzzy
@@ -1965,23 +2020,23 @@ msgstr "Eine der Roten Wachen, in einem imposanten Schutzanzug."
 
 #: ../src/init.c:193
 msgid ""
-"This must be the guy Duncan told you about. At least, he's the only one "
-"around."
+"This must be the guy Duncan told you about. At least, he's the only "
+"one around."
 msgstr ""
-"Das muss der Kerl sein, von dem Duncan sprach. Zumindest ist er der Einzige, "
-"der hier ist."
+"Das muss der Kerl sein, von dem Duncan sprach. Zumindest ist er der "
+"Einzige, der hier ist."
 
 #: ../src/init.c:195
 msgid ""
-"A lonely scientist. The months she's spent trapped here seem to have taken "
-"their toll on her sanity."
+"A lonely scientist. The months she's spent trapped here seem to have "
+"taken their toll on her sanity."
 msgstr ""
-"Eine einsame Wissenschaftlerin. Die hier drin zugebrachten Monate scheinen "
-"von ihrem Verstand einigen Tribut gefordert zu haben."
+"Eine einsame Wissenschaftlerin. Die hier drin zugebrachten Monate "
+"scheinen von ihrem Verstand einigen Tribut gefordert zu haben."
 
 #: ../src/init.c:1608
 msgid "Huh? What?  Where am I?"
-msgstr "Häh..? Was? Wo bin ich??"
+msgstr "HÃ¤h..? Was? Wo bin ich??"
 
 #: ../src/init.c:1711
 msgid "Updating Tux images"
@@ -1989,7 +2044,7 @@ msgstr "Tux-Images werden aktualisiert..."
 
 #: ../src/init.c:1712
 msgid "(this may take a little while...)"
-msgstr "(das könnte einen Moment dauern...)"
+msgstr "(das kÃ¶nnte einen Moment dauern...)"
 
 #: ../src/init.c:1715
 msgid "Starting new game."
@@ -2000,15 +2055,16 @@ msgid ""
 "\n"
 "You are playing a candidate release.\n"
 "Many strange bugs might still be present in the game.\n"
-"Please report anything you may find to #freedroid at irc.freenode.net, or\n"
+"Please report anything you may find to #freedroid at irc.freenode."
+"net, or\n"
 " by mail to freedroid-discussion at lists.sourceforge.net\n"
 "Thank you for helping us test the game.\n"
 "Good luck!\n"
 msgstr ""
 "\n"
-"Sie spielen mit einem Candidate Release. Es können \n"
+"Sie spielen mit einem Candidate Release. Es kÃ¶nnen \n"
 "immer noch viele seltsame Fehler in dieser Version auftreten.\n"
-"Bitte melden Sie alle Fehler, auf die Sie stoßen, im IRC-Chat: \n"
+"Bitte melden Sie alle Fehler, auf die Sie stoÃŸen, im IRC-Chat: \n"
 "#freedroid att irc.freenode.net \n"
 "oder per Email an: \n"
 "freedroid-discussions att lists.sourceforge.net\n"
@@ -2057,7 +2113,8 @@ msgstr "lasse Programm laufen!"
 
 #: ../src/items.c:1161
 msgid "doing something so weird the game does not understand what it is"
-msgstr "eine so seltsame Handlung, dass das Spiel es nicht versteht ausführen"
+msgstr ""
+"eine so seltsame Handlung, dass das Spiel es nicht versteht ausfÃ¼hren"
 
 #: ../src/items.c:2126 ../src/items.c:2161 ../src/items.c:2163
 msgid "Identified air."
@@ -2066,7 +2123,7 @@ msgstr "Identifiziert: Luft"
 #: ../src/items.c:2182
 #, c-format
 msgid "You already know all there is to know about the %s."
-msgstr "Du weißt bereits alles Wissenswerte über %s."
+msgstr "Du weiÃŸt bereits alles Wissenswerte Ã¼ber %s."
 
 #: ../src/items.c:2188
 #, c-format
@@ -2074,18 +2131,22 @@ msgid "Identified %s"
 msgstr "Identifiziert: %s"
 
 #: ../src/items.c:2418
-msgid "Two-handed weapon requirements not met: shield bonus doesn't count."
+msgid ""
+"Two-handed weapon requirements not met: shield bonus doesn't count."
 msgstr ""
-"Anforderungen für Zweihandwaffe nicht erfüllt: Schild-Bonus zählt nicht."
+"Anforderungen fÃ¼r Zweihandwaffe nicht erfÃ¼llt: Schild-Bonus zÃ¤hlt "
+"nicht."
 
 #: ../src/items.c:2437
 msgid "You cannot fight with this!"
-msgstr "Damit kannst du nicht kämpfen!"
+msgstr "Damit kannst du nicht kÃ¤mpfen!"
 
 #: ../src/items.c:2480
-msgid "Shield requirements not met: two-handed weapon bonus doesn't count."
+msgid ""
+"Shield requirements not met: two-handed weapon bonus doesn't count."
 msgstr ""
-"Anforderungen für Schild nicht erfüllt: Zweihandwaffen-Bonus zählt nicht."
+"Anforderungen fÃ¼r Schild nicht erfÃ¼llt: Zweihandwaffen-Bonus zÃ¤hlt "
+"nicht."
 
 #: ../src/items.c:2601
 #, c-format
@@ -2098,19 +2159,20 @@ msgstr "Mehr kann ich nicht tragen."
 
 #: ../src/keyboard.c:308
 msgid "ARROWS to select, ENTER to remap, ESCAPE to exit"
-msgstr "PFEILTASTEN zum auswählen, ENTER zum ändern, ESCAPE zum abbrechen"
+msgstr ""
+"PFEILTASTEN zum auswÃ¤hlen, ENTER zum Ã¤ndern, ESCAPE zum abbrechen"
 
 #: ../src/lua.c:183
 msgid "Melee fighting ability improved!"
-msgstr "Nahkampffähigkeit verbessert!"
+msgstr "NahkampffÃ¤higkeit verbessert!"
 
 #: ../src/lua.c:186
 msgid "Ranged combat ability improved!"
-msgstr "Schießtechnik verbessert!"
+msgstr "SchieÃŸtechnik verbessert!"
 
 #: ../src/lua.c:189
 msgid "Programming ability improved!"
-msgstr "Programmierfähigkeit verbessert!"
+msgstr "ProgrammierfÃ¤higkeit verbessert!"
 
 #: ../src/lua.c:266
 msgid "1 Item received (on floor)"
@@ -2142,11 +2204,11 @@ msgstr "%d Tribucks verloren!"
 
 #: ../src/main.c:414
 msgid "Overheating!"
-msgstr "Überhitzung!!"
+msgstr "Ãœberhitzung!!"
 
 #: ../src/main.c:418
 msgid "Automatically shutting down due to near lethal overheat"
-msgstr "Schutz-Abschaltung auf Grund lebensgefährlicher Überhitzung"
+msgstr "Schutz-Abschaltung auf Grund lebensgefÃ¤hrlicher Ãœberhitzung"
 
 #: ../src/main.c:440
 msgid "Weapon reloaded"
@@ -2170,11 +2232,11 @@ msgstr "249 Chicago"
 
 #: ../src/map.c:2820
 msgid "296 Sawmill"
-msgstr "296 Sägewerk"
+msgstr "296 SÃ¤gewerk"
 
 #: ../src/map.c:2821
 msgid "302 Nemesis"
-msgstr "302 Rächer"
+msgstr "302 RÃ¤cher"
 
 #: ../src/map.c:2822
 msgid "329 Sparkie"
@@ -2198,7 +2260,7 @@ msgstr "516 Ghul"
 
 #: ../src/map.c:2827
 msgid "543 Forest Harvester"
-msgstr "543 Holzfäller"
+msgstr "543 HolzfÃ¤ller"
 
 #: ../src/map.c:2828
 msgid "571 Apollo"
@@ -2242,7 +2304,7 @@ msgstr "883 Dalex"
 
 #: ../src/map.c:2838
 msgid "999 Cerebrum"
-msgstr "999 Großhirn"
+msgstr "999 GroÃŸhirn"
 
 #: ../src/map.c:2839
 msgid "No Description For This One"
@@ -2254,12 +2316,12 @@ msgstr "Ihre Profile: "
 
 #: ../src/menu.c:57
 msgid "Select character to delete: "
-msgstr "Profil zum Löschen auswählen: "
+msgstr "Profil zum LÃ¶schen auswÃ¤hlen: "
 
 #: ../src/menu.c:112
 #, c-format
 msgid "OpenGL support compiled: "
-msgstr "OpenGL-Unterstützung kompiliert: "
+msgstr "OpenGL-UnterstÃ¼tzung kompiliert: "
 
 #: ../src/menu.c:114 ../src/menu.c:121
 msgid " YES "
@@ -2288,7 +2350,7 @@ msgstr "Spielen"
 
 #: ../src/menu.c:1426
 msgid "Tutorial"
-msgstr "Einführung"
+msgstr "EinfÃ¼hrung"
 
 #: ../src/menu.c:1427
 msgid "Level Editor"
@@ -2306,7 +2368,8 @@ msgstr "Mitwirkende"
 msgid "Contribute"
 msgstr "Mithelfen"
 
-#: ../src/menu.c:1431 ../src/menu.c:1568 ../src/lvledit/lvledit_menu.c:970
+#: ../src/menu.c:1431 ../src/menu.c:1568
+#: ../src/lvledit/lvledit_menu.c:970
 msgid "Exit FreedroidRPG"
 msgstr "FreedroidRPG beenden"
 
@@ -2322,8 +2385,8 @@ msgid ""
 "    Thank you\n"
 msgstr ""
 "\n"
-"Sie können die Sprache unter Windows\n"
-"oder Mac OS X nicht ändern.\n"
+"Sie kÃ¶nnen die Sprache unter Windows\n"
+"oder Mac OS X nicht Ã¤ndern.\n"
 "\n"
 "FreedroidRPG verwendet einfach die\n"
 "derzeit aktive Sprache Ihres Systems.\n"
@@ -2341,11 +2404,11 @@ msgid ""
 msgstr ""
 "\n"
 "Das Spiel wurde nicht mit \n"
-"GETTEXT-Unterstützung \n"
+"GETTEXT-UnterstÃ¼tzung \n"
 "kompiliert, daher sind keine \n"
-"Übersetzungen verfügbar.\n"
+"Ãœbersetzungen verfÃ¼gbar.\n"
 "\n"
-"Danke für Ihr Verständnis.\n"
+"Danke fÃ¼r Ihr VerstÃ¤ndnis.\n"
 
 #: ../src/menu.c:1498
 msgid "Graphics Options"
@@ -2357,7 +2420,7 @@ msgstr "Sound-Optionen"
 
 #: ../src/menu.c:1500
 msgid "Keys"
-msgstr "Schlüssel"
+msgstr "SchlÃ¼ssel"
 
 #: ../src/menu.c:1501
 msgid "Language"
@@ -2375,13 +2438,14 @@ msgstr "On-Screen-Display"
 msgid "Performance Tweaks"
 msgstr "Leistungs-Optionen"
 
-#: ../src/menu.c:1505 ../src/menu.c:1647 ../src/menu.c:1753 ../src/menu.c:1829
-#: ../src/menu.c:1914 ../src/menu.c:2029 ../src/menu.c:2087 ../src/menu.c:2347
-#: ../src/menu.c:2466 ../src/lvledit/lvledit_menu.c:131
-#: ../src/lvledit/lvledit_menu.c:350 ../src/lvledit/lvledit_menu.c:546
-#: ../src/lvledit/lvledit_menu.c:706 ../src/lvledit/lvledit_menu.c:876
+#: ../src/menu.c:1505 ../src/menu.c:1647 ../src/menu.c:1753
+#: ../src/menu.c:1829 ../src/menu.c:1914 ../src/menu.c:2029
+#: ../src/menu.c:2087 ../src/menu.c:2347 ../src/menu.c:2466
+#: ../src/lvledit/lvledit_menu.c:131 ../src/lvledit/lvledit_menu.c:350
+#: ../src/lvledit/lvledit_menu.c:546 ../src/lvledit/lvledit_menu.c:706
+#: ../src/lvledit/lvledit_menu.c:876
 msgid "Back"
-msgstr "Zurück"
+msgstr "ZurÃ¼ck"
 
 #: ../src/menu.c:1556
 msgid "Resume Play"
@@ -2405,11 +2469,11 @@ msgstr "Backup laden"
 
 #: ../src/menu.c:1565 ../src/lvledit/lvledit_menu.c:969
 msgid "Quit to Main Menu"
-msgstr "Rückkehr zum Hauptmenü"
+msgstr "RÃ¼ckkehr zum HauptmenÃ¼"
 
 #: ../src/menu.c:1567
 msgid "Return to Level Editor"
-msgstr "Zurück zum Level-Editor"
+msgstr "ZurÃ¼ck zum Level-Editor"
 
 #: ../src/menu.c:1608
 #, c-format
@@ -2424,11 +2488,11 @@ msgid ""
 "Thank you.\n"
 msgstr ""
 "\n"
-"Ausgewählt: %d x %d Pixel.\n"
+"AusgewÃ¤hlt: %d x %d Pixel.\n"
 "\n"
-"Die neue Bildschirmauflösung\n"
-"wird automatisch beim nächsten\n"
-"Neustart von FreedroidRPG übernommen.\n"
+"Die neue BildschirmauflÃ¶sung\n"
+"wird automatisch beim nÃ¤chsten\n"
+"Neustart von FreedroidRPG Ã¼bernommen.\n"
 "\n"
 "Vielen Dank.\n"
 
@@ -2440,29 +2504,29 @@ msgid ""
 "   Thank you.\n"
 msgstr ""
 "\n"
-"Die Einstellung wird bei einem Neustart des Spiels berücksichtigt.\n"
+"Die Einstellung wird bei einem Neustart des Spiels berÃ¼cksichtigt.\n"
 "\n"
 "   Vielen Dank\n"
 
 #: ../src/menu.c:1736
 #, c-format
 msgid "Change Screen Resolution"
-msgstr "Bildschirmauflösung ändern"
+msgstr "BildschirmauflÃ¶sung Ã¤ndern"
 
 #: ../src/menu.c:1737
 #, c-format
 msgid "Fullscreen Mode"
 msgstr "Vollbildmodus"
 
-#: ../src/menu.c:1738 ../src/menu.c:2024 ../src/menu.c:2025 ../src/menu.c:2026
-#: ../src/menu.c:2068 ../src/menu.c:2072 ../src/menu.c:2076 ../src/menu.c:2080
-#: ../src/menu.c:2084
+#: ../src/menu.c:1738 ../src/menu.c:2024 ../src/menu.c:2025
+#: ../src/menu.c:2026 ../src/menu.c:2068 ../src/menu.c:2072
+#: ../src/menu.c:2076 ../src/menu.c:2080 ../src/menu.c:2084
 msgid "ON"
 msgstr "EIN"
 
-#: ../src/menu.c:1738 ../src/menu.c:2024 ../src/menu.c:2025 ../src/menu.c:2026
-#: ../src/menu.c:2068 ../src/menu.c:2072 ../src/menu.c:2076 ../src/menu.c:2080
-#: ../src/menu.c:2084
+#: ../src/menu.c:1738 ../src/menu.c:2024 ../src/menu.c:2025
+#: ../src/menu.c:2026 ../src/menu.c:2068 ../src/menu.c:2072
+#: ../src/menu.c:2076 ../src/menu.c:2080 ../src/menu.c:2084
 msgid "OFF"
 msgstr "AUS"
 
@@ -2476,35 +2540,37 @@ msgstr "Gamma-Korrektur"
 msgid "Show Blood"
 msgstr "Blut darstellen"
 
-#: ../src/menu.c:1746 ../src/menu.c:1895 ../src/menu.c:1903 ../src/menu.c:1907
-#: ../src/menu.c:1911 ../src/lvledit/lvledit_menu.c:702
+#: ../src/menu.c:1746 ../src/menu.c:1895 ../src/menu.c:1903
+#: ../src/menu.c:1907 ../src/menu.c:1911
+#: ../src/lvledit/lvledit_menu.c:702
 msgid "YES"
 msgstr "JA"
 
-#: ../src/menu.c:1746 ../src/menu.c:1895 ../src/menu.c:1903 ../src/menu.c:1907
-#: ../src/menu.c:1911 ../src/lvledit/lvledit_menu.c:703
+#: ../src/menu.c:1746 ../src/menu.c:1895 ../src/menu.c:1903
+#: ../src/menu.c:1907 ../src/menu.c:1911
+#: ../src/lvledit/lvledit_menu.c:703
 msgid "NO"
 msgstr "NEIN"
 
 #: ../src/menu.c:1749
 #, c-format
 msgid "Automap Scale"
-msgstr "Automap-Maßstab"
+msgstr "Automap-MaÃŸstab"
 
 #: ../src/menu.c:1821
 #, c-format
 msgid "Background Music Volume"
-msgstr "Lautstärke Hintergrundmusik"
+msgstr "LautstÃ¤rke Hintergrundmusik"
 
 #: ../src/menu.c:1825
 #, c-format
 msgid "Sound Effects Volume"
-msgstr "Lautstärke Soundeffekte"
+msgstr "LautstÃ¤rke Soundeffekte"
 
 #: ../src/menu.c:1894
 #, c-format
 msgid "Hog CPU for max. performance"
-msgstr "CPU besetzen für max. Leistung"
+msgstr "CPU besetzen fÃ¼r max. Leistung"
 
 #: ../src/menu.c:1898
 #, c-format
@@ -2532,7 +2598,7 @@ msgstr "Schatten-Blitting aus"
 #: ../src/menu.c:1910
 #, c-format
 msgid "Skip fadings"
-msgstr "Überblendungen aus"
+msgstr "Ãœberblendungen aus"
 
 #: ../src/menu.c:2024
 #, c-format
@@ -2552,7 +2618,7 @@ msgstr "Energiebalken anzeigen: %s"
 #: ../src/menu.c:2027
 #, c-format
 msgid "Screen Messages at most: %d"
-msgstr "Nachrichten-Anzahl höchstens: %d"
+msgstr "Nachrichten-Anzahl hÃ¶chstens: %d"
 
 #: ../src/menu.c:2028
 #, c-format
@@ -2562,7 +2628,7 @@ msgstr "Nachrichten-Anzeigezeit: %3.1f"
 #: ../src/menu.c:2067
 #, c-format
 msgid "Enemy Hit Texts"
-msgstr "Melde Gegner-Schäden"
+msgstr "Melde Gegner-SchÃ¤den"
 
 #: ../src/menu.c:2071
 #, c-format
@@ -2582,7 +2648,7 @@ msgstr "Sprachausgabe"
 #: ../src/menu.c:2083
 #, c-format
 msgid "Reprogram bots after takeover"
-msgstr "Bot-Umprogrammierung nach Übernahme"
+msgstr "Bot-Umprogrammierung nach Ãœbernahme"
 
 #: ../src/menu.c:2104
 msgid ""
@@ -2594,7 +2660,7 @@ msgid ""
 "     > "
 msgstr ""
 "\n"
-"     Bitte einen Namen für den\n"
+"     Bitte einen Namen fÃ¼r den\n"
 "     neuen Helden eingeben: \n"
 "     (ESC zum Abbrechen.)\n"
 "\n"
@@ -2602,7 +2668,7 @@ msgstr ""
 
 #: ../src/menu.c:2378 ../src/menu.c:2407
 msgid "BACK"
-msgstr "ZURÜCK"
+msgstr "ZURÃœCK"
 
 #: ../src/menu.c:2381
 msgid ""
@@ -2612,7 +2678,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Keine Spielstände gefunden!"
+"Keine SpielstÃ¤nde gefunden!"
 
 #: ../src/menu.c:2406
 msgid "Sure!"
@@ -2621,7 +2687,7 @@ msgstr "Sicher!"
 #: ../src/menu.c:2409
 #, c-format
 msgid "Really delete hero '%s'?"
-msgstr "Profil '%s' wirklich löschen?"
+msgstr "Profil '%s' wirklich lÃ¶schen?"
 
 #: ../src/menu.c:2463
 msgid "New Hero"
@@ -2633,7 +2699,7 @@ msgstr "Bestehendes Profil laden"
 
 #: ../src/menu.c:2465
 msgid "Delete existing Hero"
-msgstr "Bestehendes Profil löschen"
+msgstr "Bestehendes Profil lÃ¶schen"
 
 #: ../src/misc.c:746
 msgid "Pausing game..."
@@ -2662,7 +2728,7 @@ msgstr "Stand: "
 
 #: ../src/mission.c:110
 msgid "COMPLETE"
-msgstr "ERFÜLLT"
+msgstr "ERFÃœLLT"
 
 #: ../src/mission.c:112
 msgid "FAILED"
@@ -2686,7 +2752,7 @@ msgstr "Noch keine offenen Missionen."
 
 #: ../src/mission.c:276
 msgid "No completed quests yet."
-msgstr "Noch keine erfüllten Missionen."
+msgstr "Noch keine erfÃ¼llten Missionen."
 
 #: ../src/mission.c:279
 msgid "No notes yet."
@@ -2696,26 +2762,27 @@ msgstr "Bislang keine Notizen vorhanden."
 msgid ""
 "An error occured when trying to load the savegame.\n"
 "A common reason for this is that the game has been updated to a newer "
-"version since the save was made, in which case the savegame is very likely "
-"not compatible.\n"
-"However if you see this message and you have not updated the game, make sure "
-"to report this to the developers.\n"
+"version since the save was made, in which case the savegame is very "
+"likely not compatible.\n"
+"However if you see this message and you have not updated the game, "
+"make sure to report this to the developers.\n"
 "Thanks!"
 msgstr ""
-"Ein Fehler ist während des Ladevorgangs für den Spielstand aufgetreten.\n"
+"Ein Fehler ist wÃ¤hrend des Ladevorgangs fÃ¼r den Spielstand "
+"aufgetreten.\n"
 "\n"
-"Eine häufige Fehlerursache dafür ist ein Spiel-Update auf eine neuere "
-"Version, seit dem Speichern des Spielstandes - wodurch das gespeicherte "
-"Spiel höchstwahrscheinlich inkompatibel ist."
+"Eine hÃ¤ufige Fehlerursache dafÃ¼r ist ein Spiel-Update auf eine neuere "
+"Version, seit dem Speichern des Spielstandes - wodurch das "
+"gespeicherte Spiel hÃ¶chstwahrscheinlich inkompatibel ist."
 
 #: ../src/saveloadgame.c:154
 msgid "Last Modified:"
-msgstr "Letzte Änderung:"
+msgstr "Letzte Ã„nderung:"
 
 #: ../src/saveloadgame.c:188
 #, c-format
 msgid "File Size: %2.3f MB"
-msgstr "Dateigröße: %2.3f MB"
+msgstr "DateigrÃ¶ÃŸe: %2.3f MB"
 
 #: ../src/saveloadgame.c:264
 msgid "You are dead. Savegame not modified."
@@ -2733,7 +2800,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Fehler beim Öffnen des Spielstandes zum Speichern...\n"
+"Fehler beim Ã–ffnen des Spielstandes zum Speichern...\n"
 "\n"
 "Terminating...\n"
 "\n"
@@ -2747,10 +2814,10 @@ msgid ""
 "\n"
 "W A R N I N G !\n"
 "\n"
-"FreedroidRPG was unable to locate the saved game file you requested to "
-"load.\n"
-"This might mean that it really isn't there cause you tried to load a game "
-"without ever having saved the game before.  \n"
+"FreedroidRPG was unable to locate the saved game file you requested "
+"to load.\n"
+"This might mean that it really isn't there cause you tried to load a "
+"game without ever having saved the game before.  \n"
 "The other explanation of this error might be a severe error in "
 "FreedroidRPG.\n"
 "Nothing will be done about it."
@@ -2758,13 +2825,13 @@ msgstr ""
 "\n"
 "W A R N U N G !\n"
 "\n"
-"FreedroidRPG konnte den angeforderten Spielstand nicht lokalisieren und "
-"laden. Das könnte bedeuten, dass es diesen tatsächlich nicht gibt, da Sie "
-"versuchten, einen Spielstand zu laden, ohne vorher überhaupt ein Spiel zu "
-"speichern.\n"
-"Die andere Erklärung dieser Fehlermeldung könnte in einem schweren internen "
-"Fehler von FreedroidRPG begründet liegen\n"
-"Es wird keine weitere Aktion ausgeführt."
+"FreedroidRPG konnte den angeforderten Spielstand nicht lokalisieren "
+"und laden. Das kÃ¶nnte bedeuten, dass es diesen tatsÃ¤chlich nicht "
+"gibt, da Sie versuchten, einen Spielstand zu laden, ohne vorher "
+"Ã¼berhaupt ein Spiel zu speichern.\n"
+"Die andere ErklÃ¤rung dieser Fehlermeldung kÃ¶nnte in einem schweren "
+"internen Fehler von FreedroidRPG begrÃ¼ndet liegen\n"
+"Es wird keine weitere Aktion ausgefÃ¼hrt."
 
 #: ../src/saveloadgame.c:450
 msgid "Failed to load old game."
@@ -2772,16 +2839,17 @@ msgstr "Laden des Spielstandes fehlgeschlagen."
 
 #: ../src/saveloadgame.c:556
 msgid ""
-"Version or structsize mismatch! The savegame is not from the same version of "
-"freedroidRPG... possible breakage.\n"
+"Version or structsize mismatch! The savegame is not from the same "
+"version of freedroidRPG... possible breakage.\n"
 msgstr ""
-"Versions- oder structsize-Unterschied! Der Spielstand ist nicht unter der "
-"aktuellen Version von FreedroidRPG gespeichert worden und daher "
-"möglicherweise unbrauchbar!\n"
+"Versions- oder structsize-Unterschied! Der Spielstand ist nicht unter "
+"der aktuellen Version von FreedroidRPG gespeichert worden und daher "
+"mÃ¶glicherweise unbrauchbar!\n"
 
 #: ../src/saveloadgame.c:593
 msgid "Updating Tux images (this may take a little while...)"
-msgstr "Tux-Images werden aktualisiert... (das könnte eine Weile dauern...)"
+msgstr ""
+"Tux-Images werden aktualisiert... (das kÃ¶nnte eine Weile dauern...)"
 
 #: ../src/saveloadgame.c:598
 msgid "Game loaded."
@@ -2826,12 +2894,12 @@ msgstr "Anzahl: "
 
 #: ../src/shop.c:657
 msgid "Duration: "
-msgstr "Beständigkeit: "
+msgstr "BestÃ¤ndigkeit: "
 
 #: ../src/shop.c:663
 #, c-format
 msgid "Indestructible\n"
-msgstr "Unzerstörbar\n"
+msgstr "UnzerstÃ¶rbar\n"
 
 #: ../src/shop.c:668
 msgid "Attributes required: "
@@ -2874,7 +2942,7 @@ msgstr "Reparaturkosten: %ld\n"
 #: ../src/shop.c:744
 #, c-format
 msgid "Unsellable\n"
-msgstr "Unverkäuflich\n"
+msgstr "UnverkÃ¤uflich\n"
 
 #: ../src/shop.c:751
 msgid "Identification cost: 100\n"
@@ -2893,7 +2961,7 @@ msgstr "Nachladezeit: %3.2f\n"
 #: ../src/shop.c:775
 #, c-format
 msgid "Time to reload ammo clip: %3.2f\n"
-msgstr "Nachladezeit für Magazin: %3.2f\n"
+msgstr "Nachladezeit fÃ¼r Magazin: %3.2f\n"
 
 #: ../src/shop.c:782
 #, c-format
@@ -2911,34 +2979,37 @@ msgstr " Diese Feuerwaffe speist sich aus Standard-Plasmagas-Munition."
 
 #: ../src/shop.c:796
 msgid " This weapon requires standard laser crystal ammunition."
-msgstr " Eine Energiewaffe, die Laserkristall-Standardmunition benötigt."
+msgstr ""
+" Eine Energiewaffe, die Laserkristall-Standardmunition benÃ¶tigt."
 
 #: ../src/shop.c:799
 msgid " This weapon requires standard exterminator ammunition spheres."
 msgstr ""
-" Schwere Sturmwaffe unbekannter Herkunft, verwendet spezielle Exterminator-"
-"Fissions-Kugeln, Kaliber 2mm."
+" Schwere Sturmwaffe unbekannter Herkunft, verwendet spezielle "
+"Exterminator-Fissions-Kugeln, Kaliber 2mm."
 
 #: ../src/shop.c:802
 msgid " This weapon requires .22 Long Rifle rounds."
-msgstr " Automatikwaffe für Kaliber .22 LR Geschosse."
+msgstr " Automatikwaffe fÃ¼r Kaliber .22 LR Geschosse."
 
 #: ../src/shop.c:805
 msgid " This weapon requires Shotgun shells."
-msgstr " Diese Pumpgun verfeuert standardmäßige Schrotgewehr-Patronen."
+msgstr " Diese Pumpgun verfeuert standardmÃ¤ÃŸige Schrotgewehr-Patronen."
 
 #: ../src/shop.c:808
 msgid " This weapon requires 9x19mm rounds."
-msgstr " Das Schießeisen ist für Kaliber 9x19mm Kugeln ausgelegt."
+msgstr " Das SchieÃŸeisen ist fÃ¼r Kaliber 9x19mm Kugeln ausgelegt."
 
 #: ../src/shop.c:811
 msgid " This weapon requires 7.62x39mm rounds."
 msgstr ""
-" Maschinenkarabiner, der Kaliber 7.62x39mm Munitions-Magazine aufnimmt."
+" Maschinenkarabiner, der Kaliber 7.62x39mm Munitions-Magazine "
+"aufnimmt."
 
 #: ../src/shop.c:814
-msgid " This weapon requires .50 (12.7x99mm) Browning Machine Gun rounds."
-msgstr " Browning-Maschinenpistole für Kaliber .50 BMG Munition."
+msgid ""
+" This weapon requires .50 (12.7x99mm) Browning Machine Gun rounds."
+msgstr " Browning-Maschinenpistole fÃ¼r Kaliber .50 BMG Munition."
 
 #: ../src/shop.c:1248 ../src/shop.c:1275 ../src/shop.c:1497
 msgid "Yes"
@@ -2948,9 +3019,10 @@ msgstr "Ja"
 msgid "No"
 msgstr "Nein"
 
-#: ../src/shop.c:1256 ../src/shop.c:1283 ../src/shop.c:1437 ../src/shop.c:1523
+#: ../src/shop.c:1256 ../src/shop.c:1283 ../src/shop.c:1437
+#: ../src/shop.c:1523
 msgid " BACK "
-msgstr " ZURÜCK "
+msgstr " ZURÃœCK "
 
 #: ../src/shop.c:1259
 msgid ""
@@ -2965,7 +3037,8 @@ msgstr ""
 #: ../src/shop.c:1286
 msgid "You can't afford to have this item identified! "
 msgstr ""
-"Du kannst es dir nicht leisten, diesen Gegenstand identifizieren zu lassen! "
+"Du kannst es dir nicht leisten, diesen Gegenstand identifizieren zu "
+"lassen! "
 
 #: ../src/shop.c:1440
 msgid ""
@@ -2975,15 +3048,17 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"   Im Inventar ist kein Platz für dieses Teil!"
+"   Im Inventar ist kein Platz fÃ¼r dieses Teil!"
 
 #: ../src/shop.c:1464
 msgid ""
 "\n"
-"Tried to take 0 items of a kind from chest or cointainer... doing nothing... "
+"Tried to take 0 items of a kind from chest or cointainer... doing "
+"nothing... "
 msgstr ""
 "\n"
-"0 Gegenstände aus Truhe oder Behälter genommen... keine Aktion ausgeführt... "
+"0 GegenstÃ¤nde aus Truhe oder BehÃ¤lter genommen... keine Aktion "
+"ausgefÃ¼hrt... "
 
 #: ../src/shop.c:1526
 msgid ""
@@ -3008,7 +3083,7 @@ msgstr "Erzeugte Hitze: %c%d%c "
 #: ../src/skills.c:806
 #, c-format
 msgid "Cooling: %c%d%c "
-msgstr "Kühlung: %c%d%c "
+msgstr "KÃ¼hlung: %c%d%c "
 
 #: ../src/skills.c:819
 #, c-format
@@ -3053,12 +3128,12 @@ msgstr "Gift"
 #: ../src/skills.c:848
 #, c-format
 msgid "Takeover charges: %c%d%c "
-msgstr "Übernahme-Ladungen: %c%d%c "
+msgstr "Ãœbernahme-Ladungen: %c%d%c "
 
 #: ../src/skills.c:851
 #, c-format
 msgid "Escape"
-msgstr "Flüchten"
+msgstr "FlÃ¼chten"
 
 #: ../src/skills.c:853
 #, c-format
@@ -3068,7 +3143,7 @@ msgstr "Passiv"
 #: ../src/skills.c:873
 #, c-format
 msgid " for %c%.1f%c seconds"
-msgstr " für %c%.1f%c Sekunden"
+msgstr " fÃ¼r %c%.1f%c Sekunden"
 
 #: ../src/takeover.c:266
 #, c-format
@@ -3105,7 +3180,8 @@ msgstr ""
 #, c-format
 msgid "For taking control of your enemy, you receive %d experience."
 msgstr ""
-"Durch die erfolgreiche Übernahme des Gegners gewinnst du %d Erfahrungspunkte."
+"Durch die erfolgreiche Ãœbernahme des Gegners gewinnst du %d "
+"Erfahrungspunkte."
 
 #: ../src/takeover.c:505
 msgid "You cheat"
@@ -3113,7 +3189,7 @@ msgstr "Du schummelst!"
 
 #: ../src/takeover.c:507
 msgid "Complete"
-msgstr "Vollständig"
+msgstr "VollstÃ¤ndig"
 
 #: ../src/takeover.c:517
 msgid "Rejected"
@@ -3145,7 +3221,8 @@ msgstr "Punkte"
 
 #: ../src/text.c:187
 msgid "Unhandled exception fault.  Press ok to reboot."
-msgstr "Unvorhergesehener Ausnahmefehler.  OK drücken für Computer-Neustart."
+msgstr ""
+"Unvorhergesehener Ausnahmefehler.  OK drÃ¼cken fÃ¼r Computer-Neustart."
 
 #: ../src/text.c:190
 msgid "System fault. Please buy a newer version."
@@ -3153,7 +3230,7 @@ msgstr "Systemfehler. Bitte eine neue Version kaufen."
 
 #: ../src/text.c:193
 msgid "System error. Might be a virus."
-msgstr "Systemfehler. Könnte ein Virus sein."
+msgstr "Systemfehler. KÃ¶nnte ein Virus sein."
 
 #: ../src/text.c:196
 msgid "System error. Please buy an upgrade from MS."
@@ -3161,11 +3238,12 @@ msgstr "Systemfehler. Bitte ein Upgrade von MS kaufen."
 
 #: ../src/text.c:199
 msgid "System error. Press any key to reboot."
-msgstr "Systemfehler. Beliebige Taste drücken für Computer-Neustart."
+msgstr "Systemfehler. Beliebige Taste drÃ¼cken fÃ¼r Computer-Neustart."
 
 #: ../src/text.c:203
 msgid "Aargh, I got hit.  Ugh, I got a bad feeling..."
-msgstr "Aargh... ich wurde getroffen!  Uhh, ich hab ein mieses Gefühl..."
+msgstr ""
+"Aargh... ich wurde getroffen!  Uhh, ich hab ein mieses GefÃ¼hl..."
 
 #: ../src/view.c:258
 #, c-format
@@ -3193,7 +3271,7 @@ msgstr "untrainiert"
 
 #: ../src/vars.h:129
 msgid "novice"
-msgstr "Anfänger"
+msgstr "AnfÃ¤nger"
 
 #: ../src/vars.h:130
 msgid "apprentice"
@@ -3205,7 +3283,7 @@ msgstr "Profi"
 
 #: ../src/vars.h:132
 msgid "master"
-msgstr "Großmeister"
+msgstr "GroÃŸmeister"
 
 #: ../src/vars.h:133
 msgid "god"
@@ -3218,7 +3296,7 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"Bitte Namen für dieses Objekt angeben: \n"
+"Bitte Namen fÃ¼r dieses Objekt angeben: \n"
 "\n"
 
 #: ../src/lvledit/lvledit_actions.c:384
@@ -3228,7 +3306,7 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"Bitte neue Beschreibung für dieses Objekt eingeben: \n"
+"Bitte neue Beschreibung fÃ¼r dieses Objekt eingeben: \n"
 
 #: ../src/lvledit/lvledit_actions.c:478
 #, c-format
@@ -3246,7 +3324,7 @@ msgid ""
 "It has been marked as the origin of the next connection."
 msgstr ""
 "\n"
-"Ist als Ausgangspunkt für die nächste Verbindung markiert."
+"Ist als Ausgangspunkt fÃ¼r die nÃ¤chste Verbindung markiert."
 
 #: ../src/lvledit/lvledit_actions.c:495
 #, c-format
@@ -3284,7 +3362,7 @@ msgid ""
 "Operation done, connection removed."
 msgstr ""
 "\n"
-"Operation ausgeführt, Verbindung entfernt."
+"Operation ausgefÃ¼hrt, Verbindung entfernt."
 
 #: ../src/lvledit/lvledit_actions.c:513
 msgid ""
@@ -3292,7 +3370,7 @@ msgid ""
 "Operation done, connection added."
 msgstr ""
 "\n"
-"Operation ausgeführt, Verbindung angelegt."
+"Operation ausgefÃ¼hrt, Verbindung angelegt."
 
 #: ../src/lvledit/lvledit_actions.c:633
 msgid ""
@@ -3302,8 +3380,8 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"Kein Kartenmarkierungs-Eintrag für diese Position gefunden...\n"
-" Bitte neue Markierung für diese Kartenposition eingeben: \n"
+"Kein Kartenmarkierungs-Eintrag fÃ¼r diese Position gefunden...\n"
+" Bitte neue Markierung fÃ¼r diese Kartenposition eingeben: \n"
 "\n"
 
 #: ../src/lvledit/lvledit_actions.c:644
@@ -3331,8 +3409,8 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"Überschreibe bestehenden Kartenmarkierungs-Listeneintrag...\n"
-" Bitte neue Markierung für diese Kartenposition eingeben: \n"
+"Ãœberschreibe bestehenden Kartenmarkierungs-Listeneintrag...\n"
+" Bitte neue Markierung fÃ¼r diese Kartenposition eingeben: \n"
 "\n"
 
 #: ../src/lvledit/lvledit.c:360
@@ -3341,11 +3419,11 @@ msgstr "Gegenstand ablegen abbrechen."
 
 #: ../src/lvledit/lvledit.c:380
 msgid "NO PREFIX"
-msgstr "KEIN ANFANGSSTÜCK"
+msgstr "KEIN ANFANGSSTÃœCK"
 
 #: ../src/lvledit/lvledit.c:391
 msgid "NO SUFFIX"
-msgstr "KEIN ENDSTÜCK"
+msgstr "KEIN ENDSTÃœCK"
 
 #: ../src/lvledit/lvledit.c:528
 msgid ""
@@ -3354,24 +3432,24 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"Die Liste an Inkonsistenzen der Sprung-Grenzen für diesen Level:\n"
+"Die Liste an Inkonsistenzen der Sprung-Grenzen fÃ¼r diesen Level:\n"
 "\n"
 
 #: ../src/lvledit/lvledit.c:540
 msgid "BACK-FORTH-MISMATCH: North doesn't lead back here (yet)!\n"
-msgstr "VOR-ZURÜCK-FEHLER: Norden führt (noch) nicht hierher zurück!\n"
+msgstr "VOR-ZURÃœCK-FEHLER: Norden fÃ¼hrt (noch) nicht hierher zurÃ¼ck!\n"
 
 #: ../src/lvledit/lvledit.c:549
 msgid "BACK-FORTH-MISMATCH: South doesn't lead back here (yet)!\n"
-msgstr "VOR-ZURÜCK-FEHLER: Süden führt (noch) nicht hierher zurück!\n"
+msgstr "VOR-ZURÃœCK-FEHLER: SÃ¼den fÃ¼hrt (noch) nicht hierher zurÃ¼ck!\n"
 
 #: ../src/lvledit/lvledit.c:558
 msgid "BACK-FORTH-MISMATCH: East doesn't lead back here (yet)!\n"
-msgstr "VOR-ZURÜCK-FEHLER: Osten führt (noch) nicht hierher zurück!\n"
+msgstr "VOR-ZURÃœCK-FEHLER: Osten fÃ¼hrt (noch) nicht hierher zurÃ¼ck!\n"
 
 #: ../src/lvledit/lvledit.c:567
 msgid "BACK-FORTH-MISMATCH: West doesn't lead back here (yet)!\n"
-msgstr "VOR-ZURÜCK-FEHLER: Westen führt (noch) nicht hierher zurück!\n"
+msgstr "VOR-ZURÃœCK-FEHLER: Westen fÃ¼hrt (noch) nicht hierher zurÃ¼ck!\n"
 
 #: ../src/lvledit/lvledit.c:571
 msgid ""
@@ -3380,7 +3458,7 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"KEINE WEITEREN VOR-ZURÜCK-FEHLER, als die oben aufgelisteten\n"
+"KEINE WEITEREN VOR-ZURÃœCK-FEHLER, als die oben aufgelisteten\n"
 "\n"
 
 #: ../src/lvledit/lvledit.c:584
@@ -3388,57 +3466,63 @@ msgid ""
 "INTERFACE SIZE MISMATCH: North doesn't lead so same-sized interface "
 "level!!!\n"
 msgstr ""
-"GRENZLÄNGEN-FEHLER: Norden führt nicht zu Level mit gleichlangen Grenzen!!!\n"
+"GRENZLÃ„NGEN-FEHLER: Norden fÃ¼hrt nicht zu Level mit gleichlangen "
+"Grenzen!!!\n"
 
 #: ../src/lvledit/lvledit.c:594
 msgid ""
 "INTERFACE SIZE MISMATCH: South doesn't lead so same-sized interface "
 "level!!!\n"
 msgstr ""
-"GRENZLÄNGEN-FEHLER: Süden führt nicht zu Level mit gleichlangen Grenzen!!!\n"
+"GRENZLÃ„NGEN-FEHLER: SÃ¼den fÃ¼hrt nicht zu Level mit gleichlangen "
+"Grenzen!!!\n"
 
 #: ../src/lvledit/lvledit.c:604
 msgid ""
-"INTERFACE SIZE MISMATCH: East doesn't lead so same-sized interface level!!!\n"
+"INTERFACE SIZE MISMATCH: East doesn't lead so same-sized interface "
+"level!!!\n"
 msgstr ""
-"GRENZLÄNGEN-FEHLER: Osten führt nicht zu Level mit gleichlangen Grenzen!!!\n"
+"GRENZLÃ„NGEN-FEHLER: Osten fÃ¼hrt nicht zu Level mit gleichlangen "
+"Grenzen!!!\n"
 
 #: ../src/lvledit/lvledit.c:614
 msgid ""
-"INTERFACE SIZE MISMATCH: West doesn't lead so same-sized interface level!!!\n"
+"INTERFACE SIZE MISMATCH: West doesn't lead so same-sized interface "
+"level!!!\n"
 msgstr ""
-"GRENZLÄNGEN-FEHLER: Westen führt nicht zu Level mit gleichlangen Grenzen!!!\n"
+"GRENZLÃ„NGEN-FEHLER: Westen fÃ¼hrt nicht zu Level mit gleichlangen "
+"Grenzen!!!\n"
 
 #: ../src/lvledit/lvledit.c:628
 msgid ""
-"LEVEL DIMENSION MISMATCH: North doesn't lead so same-sized level (non-fatal, "
-"but no good comes from this)!\n"
+"LEVEL DIMENSION MISMATCH: North doesn't lead so same-sized level (non-"
+"fatal, but no good comes from this)!\n"
 msgstr ""
-"LEVEL-DIMENSIONSFEHLER: Norden führt nicht zu gleichgroßem Level\n"
+"LEVEL-DIMENSIONSFEHLER: Norden fÃ¼hrt nicht zu gleichgroÃŸem Level\n"
 " (nicht fatal, aber so entstehen keine guten Spiele)!\n"
 
 #: ../src/lvledit/lvledit.c:637
 msgid ""
-"LEVEL DIMENSION MISMATCH: South doesn't lead so same-sized level (non-fatal, "
-"but no good comes from this)!\n"
+"LEVEL DIMENSION MISMATCH: South doesn't lead so same-sized level (non-"
+"fatal, but no good comes from this)!\n"
 msgstr ""
-"LEVEL-DIMENSIONSFEHLER: Süden führt nicht zu gleichgroßem Level\n"
+"LEVEL-DIMENSIONSFEHLER: SÃ¼den fÃ¼hrt nicht zu gleichgroÃŸem Level\n"
 " (nicht fatal, aber so entstehen keine guten Spiele)!\n"
 
 #: ../src/lvledit/lvledit.c:646
 msgid ""
-"LEVEL DIMENSION MISMATCH: East doesn't lead so same-sized level (non-fatal, "
-"but no good comes from this)!\n"
+"LEVEL DIMENSION MISMATCH: East doesn't lead so same-sized level (non-"
+"fatal, but no good comes from this)!\n"
 msgstr ""
-"LEVEL-DIMENSIONSFEHLER: Osten führt nicht zu gleichgroßem Level\n"
+"LEVEL-DIMENSIONSFEHLER: Osten fÃ¼hrt nicht zu gleichgroÃŸem Level\n"
 " (nicht fatal, aber so entstehen keine guten Spiele)!\n"
 
 #: ../src/lvledit/lvledit.c:655
 msgid ""
-"LEVEL DIMENSION MISMATCH: West doesn't lead so same-sized level (non-fatal, "
-"but no good comes from this)!\n"
+"LEVEL DIMENSION MISMATCH: West doesn't lead so same-sized level (non-"
+"fatal, but no good comes from this)!\n"
 msgstr ""
-"LEVEL-DIMENSIONSFEHLER: Westen führt nicht zu gleichgroßem Level\n"
+"LEVEL-DIMENSIONSFEHLER: Westen fÃ¼hrt nicht zu gleichgroÃŸem Level\n"
 " (nicht fatal, aber so entstehen keine guten Spiele)!\n"
 
 #: ../src/lvledit/lvledit.c:663
@@ -3449,7 +3533,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"--- Listenende --- Leertaste für Rückkehr zum Menü ---\n"
+"--- Listenende --- Leertaste fÃ¼r RÃ¼ckkehr zum MenÃ¼ ---\n"
 
 #: ../src/lvledit/lvledit_display.c:61
 #, c-format
@@ -3475,89 +3559,93 @@ msgstr "Nach: X=%d Y=%d    "
 msgid ""
 "Go level north\n"
 "\n"
-"Use this button to move one level north, i.e. to the level that is glued to "
-"the northern side of this level."
+"Use this button to move one level north, i.e. to the level that is "
+"glued to the northern side of this level."
 msgstr ""
-"Zu nördlichem Level\n"
+"Zu nÃ¶rdlichem Level\n"
 "\n"
-"Springt einen Level nach Norden, d.h., zum Level, der an der nördlichen "
-"Seite des derzeitigen angefügt ist."
+"Springt einen Level nach Norden, d.h., zum Level, der an der "
+"nÃ¶rdlichen Seite des derzeitigen angefÃ¼gt ist."
 
 #: ../src/lvledit/lvledit_display.c:446
 msgid ""
 "Go level south\n"
 "\n"
-"Use this button to move one level south, i.e. to the level that is glued to "
-"the southern side of this level."
+"Use this button to move one level south, i.e. to the level that is "
+"glued to the southern side of this level."
 msgstr ""
-"Zu südlichem Level\n"
+"Zu sÃ¼dlichem Level\n"
 "\n"
-"Springt einen Level nach Süden, d.h., zum Level, der an der südlichen Seite "
-"des derzeitigen angefügt ist."
+"Springt einen Level nach SÃ¼den, d.h., zum Level, der an der sÃ¼dlichen "
+"Seite des derzeitigen angefÃ¼gt ist."
 
 #: ../src/lvledit/lvledit_display.c:451
 msgid ""
 "Go level east\n"
 "\n"
-"Use this button to move one level east, i.e. to the level that is glued to "
-"the eastern side of this level."
+"Use this button to move one level east, i.e. to the level that is "
+"glued to the eastern side of this level."
 msgstr ""
-"Zu östlichem Level\n"
+"Zu Ã¶stlichem Level\n"
 "\n"
-"Springt einen Level nach Osten, d.h., zum Level, der an der östlichen Seite "
-"des derzeitigen angefügt ist."
+"Springt einen Level nach Osten, d.h., zum Level, der an der Ã¶stlichen "
+"Seite des derzeitigen angefÃ¼gt ist."
 
 #: ../src/lvledit/lvledit_display.c:456
 msgid ""
 "Go level west\n"
 "\n"
-"Use this button to move one level west, i.e. to the level that is glued to "
-"the western side of this level."
+"Use this button to move one level west, i.e. to the level that is "
+"glued to the western side of this level."
 msgstr ""
 "Zu westlichem Level\n"
 "\n"
-"Springt einen Level nach Westen, d.h., zum Level, der an der westlichen "
-"Seite des derzeitigen angefügt ist."
+"Springt einen Level nach Westen, d.h., zum Level, der an der "
+"westlichen Seite des derzeitigen angefÃ¼gt ist."
 
 #: ../src/lvledit/lvledit_display.c:461
 msgid ""
 "Export this level\n"
 "\n"
-"In FreedroidRPG maps can be glued together to form one big map.  But that "
-"requires that the maps are identical where they overlap.  This button will "
-"copy the borders of this level to the borders of the neighbouring levels, so "
-"that the maps are in sync again."
+"In FreedroidRPG maps can be glued together to form one big map.  But "
+"that requires that the maps are identical where they overlap.  This "
+"button will copy the borders of this level to the borders of the "
+"neighbouring levels, so that the maps are in sync again."
 msgstr ""
 "Diesen Level exportieren\n"
 "\n"
-"Um alle Level zu einer großen Karte zusammenzufügen, müssen die Karten,\n"
-"wo sie aneinandergefügt werden, identisch sein. Hiermit kopieren Sie die\n"
-"Levelränder an die Grenzen aller umliegenden Level, damit sie übereinstimmen."
+"Um alle Level zu einer groÃŸen Karte zusammenzufÃ¼gen, mÃ¼ssen die "
+"Karten,\n"
+"wo sie aneinandergefÃ¼gt werden, identisch sein. Hiermit kopieren Sie "
+"die\n"
+"LevelrÃ¤nder an die Grenzen aller umliegenden Level, damit sie "
+"Ã¼bereinstimmen."
 
 #: ../src/lvledit/lvledit_display.c:469
 msgid ""
 "Save Impossible!\n"
 "\n"
-"Playing on a map leaves the world in an unclean state not suitable for "
-"saving. Enter the editor directly from the main menu to be able to save any "
-"changes to the map file."
+"Playing on a map leaves the world in an unclean state not suitable "
+"for saving. Enter the editor directly from the main menu to be able "
+"to save any changes to the map file."
 msgstr ""
-"Speichern nicht möglich!\n"
+"Speichern nicht mÃ¶glich!\n"
 "\n"
-"Das Spielen auf einer Karte verändert diese und hinterlässt sie in einem "
-"Zustand, ungeeignet zur Speicherung. Starten Sie den Editor direkt aus dem "
-"Hauptmenü heraus, um Änderungen an der Kartendatei sichern zu können."
+"Das Spielen auf einer Karte verÃ¤ndert diese und hinterlÃ¤sst sie in "
+"einem Zustand, ungeeignet zur Speicherung. Starten Sie den Editor "
+"direkt aus dem HauptmenÃ¼ heraus, um Ã„nderungen an der Kartendatei "
+"sichern zu kÃ¶nnen."
 
 #: ../src/lvledit/lvledit_display.c:471
 msgid ""
 "Save Map\n"
 "\n"
-"This button will save your current map over the file '../map/freedroid."
-"levels' from your current working directory."
+"This button will save your current map over the file '../map/"
+"freedroid.levels' from your current working directory."
 msgstr ""
 "Karte speichern\n"
 "\n"
-"Überschreibt die Karten-Datei '../map/freedroid.levels' im aktuellen "
+"Ãœberschreibt die Karten-Datei '../map/freedroid.levels' im aktuellen "
 "Spieleordner mit der aktuellen (bearbeiteten) Karte."
 
 #: ../src/lvledit/lvledit_display.c:477
@@ -3565,14 +3653,16 @@ msgid ""
 "Toggle waypoints\n"
 "\n"
 "Use this button to toggle waypoints on the current cursor location.  "
-"Waypoints are marked with a white (or multicolored) 4-direction arrow.\n"
+"Waypoints are marked with a white (or multicolored) 4-direction "
+"arrow.\n"
 "\n"
 "You can also use the W key for this."
 msgstr ""
-"Wegpunkte setzen und löschen\n"
+"Wegpunkte setzen und lÃ¶schen\n"
 "\n"
-"Setzt oder löscht Wegpunkte an der aktuellen Cursor-Position. Wegpunkte sind "
-"mit einem weißen (oder mehrfarbigen) Kreuzpfeil gekennzeichnet.\n"
+"Setzt oder lÃ¶scht Wegpunkte an der aktuellen Cursor-Position. "
+"Wegpunkte sind mit einem weiÃŸen (oder mehrfarbigen) Kreuzpfeil "
+"gekennzeichnet.\n"
 "\n"
 "Hotkey - Taste W"
 
@@ -3580,15 +3670,15 @@ msgstr ""
 msgid ""
 "Make waypoint connection\n"
 "\n"
-"Use this button to start a connection between waypoints, so that droids can "
-"move along this connection.\n"
+"Use this button to start a connection between waypoints, so that "
+"droids can move along this connection.\n"
 "\n"
 "You can also use the C key for this."
 msgstr ""
 "Wegpunkt-Verbindung erstellen\n"
 "\n"
 "Stellt eine Verbindung zwischen Wegpunkten her, an der entlang\n"
-"sich die Roboter bewegen können.\n"
+"sich die Roboter bewegen kÃ¶nnen.\n"
 "\n"
 "Hotkey - Taste C"
 
@@ -3596,17 +3686,18 @@ msgstr ""
 msgid ""
 "Complete waypoint connection\n"
 "\n"
-"You have currently a connection attempt going on already.  Go to the desired "
-"destination waypoint and hit this button again to establish the connection.\n"
+"You have currently a connection attempt going on already.  Go to the "
+"desired destination waypoint and hit this button again to establish "
+"the connection.\n"
 "\n"
 "You can also use the C key for this."
 msgstr ""
 "Wegpunkt-Verbindung fertigstellen\n"
 "\n"
-"Sie haben einen Start-Wegpunkt für eine Verbindung gewählt. Markieren Sie "
-"den gewünschten Ziel-Wegpunkt und klicken Sie diesen Knopf, um die "
-"Wegverbindung, an der entlang sich die Roboter bewegen sollen, "
-"abzuschließen.\n"
+"Sie haben einen Start-Wegpunkt fÃ¼r eine Verbindung gewÃ¤hlt. Markieren "
+"Sie den gewÃ¼nschten Ziel-Wegpunkt und klicken Sie diesen Knopf, um "
+"die Wegverbindung, an der entlang sich die Roboter bewegen sollen, "
+"abzuschlieÃŸen.\n"
 "\n"
 "Hotkey - Taste C"
 
@@ -3618,9 +3709,9 @@ msgid ""
 "\n"
 "You can also use the X key for this."
 msgstr ""
-"Markiertes Objekt löschen\n"
+"Markiertes Objekt lÃ¶schen\n"
 "\n"
-"Löscht das derzeit markierte\n"
+"LÃ¶scht das derzeit markierte\n"
 "(farbig flimmernde) Objekt.\n"
 "\n"
 "Hotkey - Taste X"
@@ -3635,8 +3726,8 @@ msgid ""
 msgstr ""
 "Objektauswahl wechseln\n"
 "\n"
-"Wechselt zwischen den markierbaren Objekten auf der aktuellen Position des "
-"Cursorgitters.\n"
+"Wechselt zwischen den markierbaren Objekten auf der aktuellen "
+"Position des Cursorgitters.\n"
 "\n"
 "Hotkey - Taste N"
 
@@ -3644,16 +3735,17 @@ msgstr ""
 msgid ""
 "Beautify grass button\n"
 "\n"
-"Use this button to 'beautify' rough edges of the grass-sand tiles on this "
-"entire level automatically.  The function will attempt to create 'round' "
-"borders and corners.\n"
+"Use this button to 'beautify' rough edges of the grass-sand tiles on "
+"this entire level automatically.  The function will attempt to create "
+"'round' borders and corners.\n"
 "\n"
 "You can also use Ctrl-B for this."
 msgstr ""
-"Gras-Kantenglättung\n"
+"Gras-KantenglÃ¤ttung\n"
 "\n"
-"Glättet automatisch alle Sand-/Graskanten im derzeitigen Level. Das Programm "
-"versucht, 'runde' Verlaufslinien und Ecken, ohne Brüche, zu erzeugen.\n"
+"GlÃ¤ttet automatisch alle Sand-/Graskanten im derzeitigen Level. Das "
+"Programm versucht, 'runde' Verlaufslinien und Ecken, ohne BrÃ¼che, zu "
+"erzeugen.\n"
 "\n"
 "Hotkey - Taste CTRL-B"
 
@@ -3667,7 +3759,7 @@ msgid ""
 msgstr ""
 "Karten-Zoom\n"
 "\n"
-"Die Level-Ansicht der Karte wird vergrößert bzw. verkleinert.\n"
+"Die Level-Ansicht der Karte wird vergrÃ¶ÃŸert bzw. verkleinert.\n"
 "\n"
 "Hotkey - Taste O"
 
@@ -3675,30 +3767,32 @@ msgstr ""
 msgid ""
 "Fill\n"
 "\n"
-"Use this button to fill a concurrent area of the map with the currently "
-"selected map tile.  Filling will proceed from the cursor in all directions "
-"until a change of map tile is encountered."
+"Use this button to fill a concurrent area of the map with the "
+"currently selected map tile.  Filling will proceed from the cursor in "
+"all directions until a change of map tile is encountered."
 msgstr ""
-"Bodenkacheln auffüllen\n"
+"Bodenkacheln auffÃ¼llen\n"
 "\n"
-"Füllt eine bestimmte Fläche der Karte mit der gerade ausgewählten "
-"Bodenkachel aus. Das Auffüllen wird, ausgehend von der Cursorposition, in "
-"alle Richtungen fortgesetzt, bis eine andersartige Bodenkachel erreicht ist. "
-"Dadurch können sich neue, größere Bereiche mit gleichartigen Kacheln bilden."
+"FÃ¼llt eine bestimmte FlÃ¤che der Karte mit der gerade ausgewÃ¤hlten "
+"Bodenkachel aus. Das AuffÃ¼llen wird, ausgehend von der "
+"Cursorposition, in alle Richtungen fortgesetzt, bis eine andersartige "
+"Bodenkachel erreicht ist. Dadurch kÃ¶nnen sich neue, grÃ¶ÃŸere Bereiche "
+"mit gleichartigen Kacheln bilden."
 
 #: ../src/lvledit/lvledit_display.c:518
 msgid ""
 "New obstacle label\n"
 "\n"
-"Use this button to attach a label to the currently marked obstacle.  These "
-"obstacle labels can be used to define obstacles to be modified by events.\n"
+"Use this button to attach a label to the currently marked obstacle.  "
+"These obstacle labels can be used to define obstacles to be modified "
+"by events.\n"
 " Note that you can also use the hotkey 'h' for this."
 msgstr ""
 "Neue Objektmarke setzen\n"
 "\n"
-"Heftet eine neue Objektmarke an das momentan markierte Objekt. Objektmarken "
-"können eingesetzt werden, um durch definierte Ereignisse manipulierbare "
-"Objekte zu erstellen (mittels Skript).\n"
+"Heftet eine neue Objektmarke an das momentan markierte Objekt. "
+"Objektmarken kÃ¶nnen eingesetzt werden, um durch definierte Ereignisse "
+"manipulierbare Objekte zu erstellen (mittels Skript).\n"
 "\n"
 "Hotkey - Taste H."
 
@@ -3710,31 +3804,33 @@ msgid ""
 msgstr ""
 "Neue Objektbeschreibung setzen\n"
 "\n"
-"Setzt bzw. ändert die angezeigte Beschreibung eines markierten Objektes."
+"Setzt bzw. Ã¤ndert die angezeigte Beschreibung eines markierten "
+"Objektes."
 
 #: ../src/lvledit/lvledit_display.c:528
 msgid ""
 "New map label\n"
 "\n"
-"Use this button to attach a new map label to the current cursor position.  "
-"These map labels can be used to define starting points for bots and "
-"characters or also to define locations for events and triggers."
+"Use this button to attach a new map label to the current cursor "
+"position.  These map labels can be used to define starting points for "
+"bots and characters or also to define locations for events and "
+"triggers."
 msgstr ""
 "Neue Kartenmarkierung setzen\n"
 "\n"
-"Bringt eine Markierung auf der Levelkarte, an der momentanen Cursor-Position "
-"an. Diese Kartenmarkierungen können eingesetzt werden, um Startpunkte für "
-"Bots und Charaktere zu setzen oder um Auslösepunkte für definierbare "
-"Ereignisse festzulegen."
+"Bringt eine Markierung auf der Levelkarte, an der momentanen Cursor-"
+"Position an. Diese Kartenmarkierungen kÃ¶nnen eingesetzt werden, um "
+"Startpunkte fÃ¼r Bots und Charaktere zu setzen oder um AuslÃ¶sepunkte "
+"fÃ¼r definierbare Ereignisse festzulegen."
 
 #: ../src/lvledit/lvledit_display.c:533
 msgid ""
 "Add item\n"
 "\n"
-"Use this button to drop a new item to the floor.  You can also use the "
-"hotkey 'G' for this."
+"Use this button to drop a new item to the floor.  You can also use "
+"the hotkey 'G' for this."
 msgstr ""
-"Gegenstand einfügen\n"
+"Gegenstand einfÃ¼gen\n"
 "\n"
 "Ablegen eines neuen Gegenstandes an der Cursor-Position.\n"
 "\n"
@@ -3745,12 +3841,12 @@ msgid ""
 "Menu\n"
 "\n"
 "Use this button to enter the main menu of the level editor.\n"
-" Note, that you can also use the Escape key to enter the level editor main "
-"menu."
+" Note, that you can also use the Escape key to enter the level editor "
+"main menu."
 msgstr ""
-"Editormenü\n"
+"EditormenÃ¼\n"
 "\n"
-"Öffnet das Hauptmenü des Leveleditors.\n"
+"Ã–ffnet das HauptmenÃ¼ des Leveleditors.\n"
 "\n"
 "Hotkey - Taste ESC"
 
@@ -3758,65 +3854,67 @@ msgstr ""
 msgid ""
 "Level resize\n"
 "\n"
-"Use this button to enter the level resize menu.  Levels can be resized in "
-"various ways so as not to destroy your current map too much and so as to "
-"insert the new space where you would best like it to be."
+"Use this button to enter the level resize menu.  Levels can be "
+"resized in various ways so as not to destroy your current map too "
+"much and so as to insert the new space where you would best like it "
+"to be."
 msgstr ""
-"Levelgröße anpassen\n"
+"LevelgrÃ¶ÃŸe anpassen\n"
 "\n"
-"Öffnet Level-Dimensionierungsmenü. Spiele-Level können auf unterschiedliche "
-"Art in ihrer Größe verändert werden, wodurch eine übermäßige Beschädigung "
-"Ihrer aktuellen Karte vermieden und zusätzlicher Platz an der gewünschten "
-"Stelle eingefügt werden kann."
+"Ã–ffnet Level-DimensionierungsmenÃ¼. Spiele-Level kÃ¶nnen auf "
+"unterschiedliche Art in ihrer GrÃ¶ÃŸe verÃ¤ndert werden, wodurch eine "
+"Ã¼bermÃ¤ÃŸige BeschÃ¤digung Ihrer aktuellen Karte vermieden und "
+"zusÃ¤tzlicher Platz an der gewÃ¼nschten Stelle eingefÃ¼gt werden kann."
 
 #: ../src/lvledit/lvledit_display.c:550
 msgid ""
 "Back to game\n"
 "\n"
-"Changes made to the world will be permanent for current Hero. To avoid, load "
-"a previous savegame."
+"Changes made to the world will be permanent for current Hero. To "
+"avoid, load a previous savegame."
 msgstr ""
-"Rückkehr zum Spiel\n"
+"RÃ¼ckkehr zum Spiel\n"
 "\n"
-"Änderungen an der Karte werden permanent für den aktuellen Helden "
-"übernommen.\n"
+"Ã„nderungen an der Karte werden permanent fÃ¼r den aktuellen Helden "
+"Ã¼bernommen.\n"
 "Um dies zu vermeiden, laden Sie ein vorher gespeichertes Spiel."
 
 #: ../src/lvledit/lvledit_display.c:552
 msgid ""
 "Test Map\n"
 "\n"
-"This will save your map and reload it after you finish testing, avoiding "
-"saving an unclean world state."
+"This will save your map and reload it after you finish testing, "
+"avoiding saving an unclean world state."
 msgstr ""
 "Karte testen\n"
 "\n"
-"Sichert Ihre Karte und lädt sie neu, nachdem Sie mit dem Testen fertig "
-"sind,\n"
-"um das Speichern einer \"beschädigten\" Karte zu verhindern."
+"Sichert Ihre Karte und lÃ¤dt sie neu, nachdem Sie mit dem Testen "
+"fertig sind,\n"
+"um das Speichern einer \"beschÃ¤digten\" Karte zu verhindern."
 
 #: ../src/lvledit/lvledit_display.c:558
 msgid ""
 "Underground lighting\n"
 "\n"
-"Use this button to toggle underground lighting, i.e. shadows coming from the "
-"light that the tux emanates.\n"
+"Use this button to toggle underground lighting, i.e. shadows coming "
+"from the light that the tux emanates.\n"
 "\n"
 "There isn't any key to toggle this on the keyboard."
 msgstr ""
 "Untergrund-Ausleuchtung\n"
 "\n"
-"Ändert das Ausleuchtungsverhalten im Untergrund, d.h. schaltet die Schatten, "
-"die von dem von Tux ausgestrahlten Licht erzeugt werden, ein- oder aus.\n"
+"Ã„ndert das Ausleuchtungsverhalten im Untergrund, d.h. schaltet die "
+"Schatten, die von dem von Tux ausgestrahlten Licht erzeugt werden, "
+"ein- oder aus.\n"
 "\n"
-"Keine Hotkey - Taste verfügbar."
+"Keine Hotkey - Taste verfÃ¼gbar."
 
 #: ../src/lvledit/lvledit_display.c:564
 msgid ""
 "Toggle display enemies\n"
 "\n"
-"Use this button to toggle between enemies displayed in level editor or "
-"enemies hidden in level editor."
+"Use this button to toggle between enemies displayed in level editor "
+"or enemies hidden in level editor."
 msgstr ""
 "Gegner-Anzeige\n"
 "\n"
@@ -3827,8 +3925,8 @@ msgstr ""
 msgid ""
 "Toggle display obstacles\n"
 "\n"
-"Use this button to toggle between obstacles displayed in level editor or "
-"obstacles hidden in level editor."
+"Use this button to toggle between obstacles displayed in level editor "
+"or obstacles hidden in level editor."
 msgstr ""
 "Objekt-Anzeige\n"
 "\n"
@@ -3841,9 +3939,9 @@ msgid ""
 "\n"
 "Use this button to undo your last actions."
 msgstr ""
-"Rückgängig\n"
+"RÃ¼ckgÃ¤ngig\n"
 "\n"
-"Macht die letzten Bearbeitungsschritte rückgängig."
+"Macht die letzten Bearbeitungsschritte rÃ¼ckgÃ¤ngig."
 
 #: ../src/lvledit/lvledit_display.c:582
 msgid ""
@@ -3853,7 +3951,7 @@ msgid ""
 msgstr ""
 "Wiederholen\n"
 "\n"
-"Stellt rückgängig gemachte Bearbeitungsschritte wieder her."
+"Stellt rÃ¼ckgÃ¤ngig gemachte Bearbeitungsschritte wieder her."
 
 #: ../src/lvledit/lvledit_display.c:588
 msgid ""
@@ -3863,7 +3961,7 @@ msgid ""
 msgstr ""
 "Hilfe-Popups-Anzeige\n"
 "\n"
-"Hiermit können Sie die nervigen Hilfe-Popups im Level-Editor\n"
+"Hiermit kÃ¶nnen Sie die nervigen Hilfe-Popups im Level-Editor\n"
 "ein- und ausschalten."
 
 #: ../src/lvledit/lvledit_display.c:594
@@ -3879,14 +3977,14 @@ msgstr ""
 #: ../src/lvledit/lvledit_display.c:601
 msgid "Change grid mode ( placement / full / off )"
 msgstr ""
-"Cursorgitter-Modus ändern\n"
+"Cursorgitter-Modus Ã¤ndern\n"
 "\n"
 "( Platzierung / ganz / aus )"
 
 #: ../src/lvledit/lvledit_display.c:642
 #, c-format
 msgid " Source waypoint selected : X=%d Y=%d. "
-msgstr " Ausgangs-Wegpunkt ausgewählt : X=%d Y=%d. "
+msgstr " Ausgangs-Wegpunkt ausgewÃ¤hlt : X=%d Y=%d. "
 
 #: ../src/lvledit/lvledit_menu.c:79 ../src/lvledit/lvledit_menu.c:103
 #: ../src/lvledit/lvledit_menu.c:302 ../src/lvledit/lvledit_menu.c:326
@@ -3911,7 +4009,7 @@ msgstr "Ost"
 #: ../src/lvledit/lvledit_menu.c:314 ../src/lvledit/lvledit_menu.c:338
 #, c-format
 msgid "South"
-msgstr "Süd"
+msgstr "SÃ¼d"
 
 #: ../src/lvledit/lvledit_menu.c:97 ../src/lvledit/lvledit_menu.c:121
 #: ../src/lvledit/lvledit_menu.c:320 ../src/lvledit/lvledit_menu.c:344
@@ -3929,12 +4027,12 @@ msgstr "Schnittstelle"
 #: ../src/lvledit/lvledit_menu.c:127
 #, c-format
 msgid "Current level size in X: %d."
-msgstr "Momentane Levelgröße in X: %d."
+msgstr "Momentane LevelgrÃ¶ÃŸe in X: %d."
 
 #: ../src/lvledit/lvledit_menu.c:129
 #, c-format
 msgid "Current level size in Y: %d."
-msgstr "Momentane Levelgröße in Y: %d."
+msgstr "Momentane LevelgrÃ¶ÃŸe in Y: %d."
 
 #: ../src/lvledit/lvledit_menu.c:300 ../src/lvledit/lvledit_menu.c:306
 #: ../src/lvledit/lvledit_menu.c:312 ../src/lvledit/lvledit_menu.c:318
@@ -3958,7 +4056,7 @@ msgstr "Inkonsistenzen von Levelgrenzen auflisten"
 
 #: ../src/lvledit/lvledit_menu.c:522
 msgid "Add New Level"
-msgstr "Neuen Level hinzufügen"
+msgstr "Neuen Level hinzufÃ¼gen"
 
 #: ../src/lvledit/lvledit_menu.c:545
 msgid "Remove Current Level"
@@ -3972,7 +4070,7 @@ msgstr "Name"
 #: ../src/lvledit/lvledit_menu.c:651
 #, c-format
 msgid "Size"
-msgstr "Größe"
+msgstr "GrÃ¶ÃŸe"
 
 #: ../src/lvledit/lvledit_menu.c:676
 #, c-format
@@ -3990,7 +4088,7 @@ msgstr "Minimum"
 #: ../src/lvledit/lvledit_menu.c:696
 #, c-format
 msgid "Background Music"
-msgstr "Lautstärke Hintergrundmusik"
+msgstr "LautstÃ¤rke Hintergrundmusik"
 
 #: ../src/lvledit/lvledit_menu.c:700
 #, c-format
@@ -4000,7 +4098,7 @@ msgstr "Endlose Lauf-Ausdauer"
 #: ../src/lvledit/lvledit_menu.c:705
 #, fuzzy
 msgid "Add/Rem Level"
-msgstr "Neuen Level hinzufügen"
+msgstr "Neuen Level hinzufÃ¼gen"
 
 #: ../src/lvledit/lvledit_menu.c:747
 msgid ""
@@ -4024,11 +4122,11 @@ msgstr ""
 
 #: ../src/lvledit/lvledit_menu.c:874
 msgid "Run Map Level Validator"
-msgstr "Kartenlevel-Prüfung starten"
+msgstr "Kartenlevel-PrÃ¼fung starten"
 
 #: ../src/lvledit/lvledit_menu.c:875
 msgid "Run Dialog Lua Validator"
-msgstr "Lua-Dialogprüfung starten"
+msgstr "Lua-DialogprÃ¼fung starten"
 
 #: ../src/lvledit/lvledit_menu.c:954
 msgid "Level Options"
@@ -4048,7 +4146,7 @@ msgstr "Karte speichern"
 
 #: ../src/lvledit/lvledit_menu.c:964
 msgid "Return to Game"
-msgstr "Zurück zum Spiel"
+msgstr "ZurÃ¼ck zum Spiel"
 
 #: ../src/lvledit/lvledit_menu.c:965
 msgid "Saving disabled"
@@ -4085,9 +4183,11 @@ msgstr ""
 "\n"
 "N A C H R I C H T\n"
 "\n"
-"Kartendatei wurde im File 'freedroid.levels' im Ordner map gespeichert.\n"
+"Kartendatei wurde im File 'freedroid.levels' im Ordner map "
+"gespeichert.\n"
 "\n"
-"Wenn Sie etwas Cooles gebaut haben und zu FreedroidRPG beisteuern möchten,\n"
+"Wenn Sie etwas Cooles gebaut haben und zu FreedroidRPG beisteuern "
+"mÃ¶chten,\n"
 "kontaktieren Sie bitte das FreedroidRPG Entwicklerteam!"
 
 #: ../src/lvledit/lvledit_widget_button.c:72
@@ -4097,22 +4197,22 @@ msgid ""
 "\n"
 "E R R O R ! Your ship was not saved.\n"
 "\n"
-"Playing on a map leaves the world in an unclean state not suitable for "
-"saving. Enter the editor from the main menu to be able to save."
+"Playing on a map leaves the world in an unclean state not suitable "
+"for saving. Enter the editor from the main menu to be able to save."
 msgstr ""
 "\n"
 "N A C H R I C H T\n"
 "\n"
 "F E H L E R ! Karte wurde nicht gespeichert.\n"
 "\n"
-"Das Spielen auf einer Karte hinterlässt sie in einem zur Speicherung "
-"ungeeigneten Zustand. Starten Sie den Editor aus dem Hauptmenü heraus, um "
-"Ihre Karte speichern zu können."
+"Das Spielen auf einer Karte hinterlÃ¤sst sie in einem zur Speicherung "
+"ungeeigneten Zustand. Starten Sie den Editor aus dem HauptmenÃ¼ "
+"heraus, um Ihre Karte speichern zu kÃ¶nnen."
 
 #: ../src/lvledit/lvledit_widgets.c:231
 #, fuzzy
 msgid "WALL"
-msgstr "WÄNDE"
+msgstr "WÃ„NDE"
 
 #: ../src/lvledit/lvledit_widgets.c:233
 msgid "FURNITURE"
@@ -4125,7 +4225,7 @@ msgstr "MASCHINEN"
 #: ../src/lvledit/lvledit_widgets.c:235
 #, fuzzy
 msgid "CONTAINER"
-msgstr "BEHÄLTER"
+msgstr "BEHÃ„LTER"
 
 #: ../src/lvledit/lvledit_widgets.c:236
 msgid "PLANT"
@@ -4134,7 +4234,7 @@ msgstr ""
 #: ../src/lvledit/lvledit_widgets.c:240
 #, fuzzy
 msgid "ALLOBS."
-msgstr "WÄNDE"
+msgstr "WÃ„NDE"
 
 #: ../src/lvledit/lvledit_widgets.c:241
 msgid "FLOOR"
@@ -4156,13 +4256,13 @@ msgstr ""
 #~ "Thank you.\n"
 #~ msgstr ""
 #~ "\n"
-#~ "Sie spielen in der Auflösung 640x480.\n"
+#~ "Sie spielen in der AuflÃ¶sung 640x480.\n"
 #~ "\n"
-#~ "Obwohl sie einwandfrei funktioniert und ein großartiges \n"
-#~ "Spielerlebnis gewährleistet, wird die Unterstützung dafür \n"
-#~ "in Kürze eingestellt werden. \n"
-#~ "Verwenden Sie deshalb besser eine Auflösung von \n"
-#~ "800x600 oder höher.\n"
+#~ "Obwohl sie einwandfrei funktioniert und ein groÃŸartiges \n"
+#~ "Spielerlebnis gewÃ¤hrleistet, wird die UnterstÃ¼tzung dafÃ¼r \n"
+#~ "in KÃ¼rze eingestellt werden. \n"
+#~ "Verwenden Sie deshalb besser eine AuflÃ¶sung von \n"
+#~ "800x600 oder hÃ¶her.\n"
 #~ "\n"
 #~ "Vielen Dank.\n"
 
@@ -4197,20 +4297,20 @@ msgstr ""
 #~ msgstr ""
 #~ "Leveleditor-Hilfe\n"
 #~ "\n"
-#~ "Öffnet das Tastenbelegungs-Display."
+#~ "Ã–ffnet das Tastenbelegungs-Display."
 
 #~ msgid ""
 #~ "Toggle display Tux\n"
 #~ "\n"
-#~ "Use this button to toggle between Tux displayed in level editor or Tux "
-#~ "hidden in level editor."
+#~ "Use this button to toggle between Tux displayed in level editor or "
+#~ "Tux hidden in level editor."
 #~ msgstr ""
 #~ "Tux-Anzeige\n"
 #~ "\n"
 #~ "Blendet Tux im Level-Editor ein- oder aus."
 
 #~ msgid " Source waypoint selected : NONE"
-#~ msgstr " Ausgangs-Wegpunkt gewählt : KEINER"
+#~ msgstr " Ausgangs-Wegpunkt gewÃ¤hlt : KEINER"
 
 #~ msgid ""
 #~ "\n"
@@ -4218,7 +4318,7 @@ msgstr ""
 #~ "\n"
 #~ msgstr ""
 #~ "\n"
-#~ " Bitte neuen Kommentar für diesen Titel: \n"
+#~ " Bitte neuen Kommentar fÃ¼r diesen Titel: \n"
 #~ "\n"
 
 #~ msgid ""
@@ -4255,14 +4355,14 @@ msgstr ""
 #~ "SORRY. NO MORE CONNECTIONS AVAILABLE FROM THERE."
 #~ msgstr ""
 #~ "\n"
-#~ "LEIDER KEINE WEITEREN VERBINDUNGEN VON HIER MÖGLICH."
+#~ "LEIDER KEINE WEITEREN VERBINDUNGEN VON HIER MÃ–GLICH."
 
 #~ msgid ""
 #~ "\n"
 #~ "Sorry, maximal number of waypoint-connections (%d) reached!\n"
 #~ msgstr ""
 #~ "\n"
-#~ "Die maximale Anzahl an Wegpunkten (%d) ist ausgeschöpft!\n"
+#~ "Die maximale Anzahl an Wegpunkten (%d) ist ausgeschÃ¶pft!\n"
 
 #~ msgid "Level Number: %d."
 #~ msgstr "Level-Nummer: %d"
@@ -4292,7 +4392,7 @@ msgstr ""
 #~ msgstr "Lvl: %d - %s"
 
 #~ msgid "Adding Level disabled"
-#~ msgstr "Level hinzufügen deaktiviert"
+#~ msgstr "Level hinzufÃ¼gen deaktiviert"
 
 #, fuzzy
 #~ msgid "Jump threshold north: %d.  (<-/->)"
@@ -4300,7 +4400,7 @@ msgstr ""
 
 #, fuzzy
 #~ msgid "Jump threshold south: %d.  (<-/->)"
-#~ msgstr "Sprung-Grenzbereich Süd: %d.  Rauf/Runter"
+#~ msgstr "Sprung-Grenzbereich SÃ¼d: %d.  Rauf/Runter"
 
 #, fuzzy
 #~ msgid "Jump threshold east: %d.  (<-/->)"
@@ -4316,7 +4416,7 @@ msgstr ""
 
 #, fuzzy
 #~ msgid "Jump target south: %d.  (<-/->)"
-#~ msgstr "Sprungziel Süd: %d.  Rauf/Runter"
+#~ msgstr "Sprungziel SÃ¼d: %d.  Rauf/Runter"
 
 #, fuzzy
 #~ msgid "Jump target east: %d.  (<-/->)"
@@ -4327,44 +4427,49 @@ msgstr ""
 #~ msgstr "Sprungziel West: %d.  Rauf/Runter"
 
 #~ msgid ""
-#~ "Ah, good, that we have an open collision avoiding standard, isn't it."
+#~ "Ah, good, that we have an open collision avoiding standard, isn't "
+#~ "it."
 #~ msgstr ""
-#~ "Ah, gut, dass wir einen offenen Anti-Kollisions-Standard haben, nicht "
-#~ "wahr?"
+#~ "Ah, gut, dass wir einen offenen Anti-Kollisions-Standard haben, "
+#~ "nicht wahr?"
 
 #~ msgid "Hey, I'm from MS! Walk outa my way!"
 #~ msgstr "He! Ich bin von MS! Geh mir aus dem Weg!"
 
 #~ msgid "Hey, I know the big MS boss! You better go."
-#~ msgstr "He, ich kenne den großen Boss von MS ! Zieh Leine..."
+#~ msgstr "He, ich kenne den groÃŸen Boss von MS ! Zieh Leine..."
 
 #~ msgid "Insert/Remove column to the very west"
-#~ msgstr "Einfügen/Löschen einer Spalte im äußersten Westen"
+#~ msgstr "EinfÃ¼gen/LÃ¶schen einer Spalte im Ã¤uÃŸersten Westen"
 
 #~ msgid "Insert/Remove column just east of western Interface"
 #~ msgstr ""
-#~ "Einfügen/Löschen einer Spalte direkt östlich vom westlichen Übergang"
+#~ "EinfÃ¼gen/LÃ¶schen einer Spalte direkt Ã¶stlich vom westlichen "
+#~ "Ãœbergang"
 
 #~ msgid "Insert/Remove column just west of eastern Interface"
 #~ msgstr ""
-#~ "Einfügen/Löschen einer Spalte direkt westlich vom östlichen Übergang"
+#~ "EinfÃ¼gen/LÃ¶schen einer Spalte direkt westlich vom Ã¶stlichen "
+#~ "Ãœbergang"
 
 #~ msgid "Insert/Remove column to the very east"
-#~ msgstr "Einfügen/Löschen einer Spalte im äußersten Osten"
+#~ msgstr "EinfÃ¼gen/LÃ¶schen einer Spalte im Ã¤uÃŸersten Osten"
 
 #~ msgid "Insert/Remove line to the very north"
-#~ msgstr "Einfügen/Löschen einer Spalte im äußersten Norden"
+#~ msgstr "EinfÃ¼gen/LÃ¶schen einer Spalte im Ã¤uÃŸersten Norden"
 
 #~ msgid "Insert/Remove line just south of northern Interface"
 #~ msgstr ""
-#~ "Einfügen/Löschen einer Spalte direkt südlich vom nördlichen Übergang"
+#~ "EinfÃ¼gen/LÃ¶schen einer Spalte direkt sÃ¼dlich vom nÃ¶rdlichen "
+#~ "Ãœbergang"
 
 #~ msgid "Insert/Remove line just north of southern Interface"
 #~ msgstr ""
-#~ "Einfügen/Löschen einer Spalte direkt nördlich vom südlichen Übergang"
+#~ "EinfÃ¼gen/LÃ¶schen einer Spalte direkt nÃ¶rdlich vom sÃ¼dlichen "
+#~ "Ãœbergang"
 
 #~ msgid "Insert/Remove line to the very south"
-#~ msgstr "Einfügen/Löschen einer Spalte im äußersten Süden"
+#~ msgstr "EinfÃ¼gen/LÃ¶schen einer Spalte im Ã¤uÃŸersten SÃ¼den"
 
 #~ msgid "420 NaN"
 #~ msgstr "Chirurg"
@@ -4391,31 +4496,31 @@ msgstr ""
 #~ msgstr "Irrlicht"
 
 #~ msgid "999 NaN"
-#~ msgstr "999 Großhirn"
+#~ msgstr "999 GroÃŸhirn"
 
 #~ msgid ""
 #~ "Back to game\n"
 #~ "\n"
 #~ "Quits the level editor and takes you into a FredroidRPG game."
 #~ msgstr ""
-#~ "Zurück zum Spiel\n"
+#~ "ZurÃ¼ck zum Spiel\n"
 #~ "\n"
-#~ "Verlässt den Leveleditor und kehrt in den Spiel-Modus zurück."
+#~ "VerlÃ¤sst den Leveleditor und kehrt in den Spiel-Modus zurÃ¼ck."
 
 #~ msgid "Back To Level Editor Main Menu"
-#~ msgstr "Zurück zum Leveleditor-Hauptmenü"
+#~ msgstr "ZurÃ¼ck zum Leveleditor-HauptmenÃ¼"
 
 #~ msgid "SAVE EVERYTHING"
-#~ msgstr "ALLE ÄNDERUNGEN SPEICHERN"
+#~ msgstr "ALLE Ã„NDERUNGEN SPEICHERN"
 
 #~ msgid "Current: %d.  Level Up/Down"
 #~ msgstr "Derzeit: %d.  Level Auf/Ab"
 
 #~ msgid "Add completely new level"
-#~ msgstr "Neuen Level anfügen"
+#~ msgstr "Neuen Level anfÃ¼gen"
 
 #~ msgid "Quit Threshold Editor"
-#~ msgstr "Grenzübergangs-Editor verlassen"
+#~ msgstr "GrenzÃ¼bergangs-Editor verlassen"
 
 #~ msgid "Quit Game"
 #~ msgstr "Spiel beenden"
@@ -4427,8 +4532,8 @@ msgstr ""
 #~ msgstr ""
 #~ "\n"
 #~ "\n"
-#~ "Keine Spielstände gefunden!\n"
-#~ "Löschen abgebrochen. "
+#~ "Keine SpielstÃ¤nde gefunden!\n"
+#~ "LÃ¶schen abgebrochen. "
 
 #~ msgid "%s (%03.1f:%03.1f:%d) Day %d %02d:%02d "
 #~ msgstr "%s (%03.1f:%03.1f:%d) Tag %d %02d:%02d "
@@ -4437,7 +4542,7 @@ msgstr ""
 #~ msgstr "[Tag %d %02d:%02d] "
 
 #~ msgid "No way to pass through. Find another path."
-#~ msgstr "Keine Möglichkeit hindurchzukommen. Finde einen anderen Weg."
+#~ msgstr "Keine MÃ¶glichkeit hindurchzukommen. Finde einen anderen Weg."
 
 #~ msgid "You can't break it. Find another way."
 #~ msgstr "Du kannst nicht durchbrechen. Finde einen anderen Weg."
@@ -4458,11 +4563,11 @@ msgstr ""
 #~ msgstr "Einfach nur eine rosafarbene Wand."
 
 #~ msgid ""
-#~ "This rock is here now and forever, and it is not going anywhere. Go "
-#~ "somewhere else."
+#~ "This rock is here now and forever, and it is not going anywhere. "
+#~ "Go somewhere else."
 #~ msgstr ""
-#~ "Dieser Fels liegt hier auf immer und ewig und er wird sich nirgendwohin "
-#~ "bewegen. Sieh dich woanders um."
+#~ "Dieser Fels liegt hier auf immer und ewig und er wird sich "
+#~ "nirgendwohin bewegen. Sieh dich woanders um."
 
 #~ msgid "Bunk beds"
 #~ msgstr "Etagenbetten"
@@ -4471,10 +4576,10 @@ msgstr ""
 #~ msgstr "Ein Hinweisschild."
 
 #~ msgid "Crystal pillar"
-#~ msgstr "Kristallsäule"
+#~ msgstr "KristallsÃ¤ule"
 
 #~ msgid "A pillar made out of crystal."
-#~ msgstr "Eine aus Kristall gefertigte Säule."
+#~ msgstr "Eine aus Kristall gefertigte SÃ¤ule."
 
 #~ msgid "New level just created"
 #~ msgstr "Neuer Level erzeugt"
@@ -4486,7 +4591,7 @@ msgstr ""
 #~ msgstr "Keine Bemerkung geladen."
 
 #~ msgid "Takeover"
-#~ msgstr "Übernehmen"
+#~ msgstr "Ãœbernehmen"
 
 #~ msgid "average"
 #~ msgstr "durchschnittlich"
@@ -4501,13 +4606,13 @@ msgstr ""
 #~ msgstr "geschult"
 
 #~ msgid "inhuman"
-#~ msgstr "übermenschlich"
+#~ msgstr "Ã¼bermenschlich"
 
 #~ msgid "god-like"
 #~ msgstr "gottgleich"
 
 #~ msgid "super-god-like"
-#~ msgstr "götterkönigs-gleich"
+#~ msgstr "gÃ¶tterkÃ¶nigs-gleich"
 
 #~ msgid "wicked sick"
 #~ msgstr "durchgeknallt"
