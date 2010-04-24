@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:41
@@ -20,8 +20,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:44
 msgid ""
-"Normally I'm a fighter. But now I try to relax, chill, take it easy and have a"
-" lot of fun."
+"Normally I'm a fighter. But now I try to relax, chill, take it easy and have "
+"a lot of fun."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:45
@@ -53,7 +53,8 @@ msgid "Are you sure?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:65
-msgid "I only accept students that already have some experience in fighting bots."
+msgid ""
+"I only accept students that already have some experience in fighting bots."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:70
@@ -121,7 +122,8 @@ msgid "This is enough training for today."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:95
-msgid "You don't have enough experience. I can't teach you anything more right now."
+msgid ""
+"You don't have enough experience. I can't teach you anything more right now."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:96
@@ -130,14 +132,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:100
 msgid ""
-"You don't have enough valuable circuits on you! Come back when you have the mo"
-"ney."
+"You don't have enough valuable circuits on you! Come back when you have the "
+"money."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:103
 msgid ""
-"Hey, wake up! I taught you that stuff already. Go practice on the bots, if you"
-" really want more training."
+"Hey, wake up! I taught you that stuff already. Go practice on the bots, if "
+"you really want more training."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:109
@@ -154,8 +156,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:113
 msgid ""
-"First learn the basics. Spend a year working on that, and then I'll be able to"
-" teach you some advanced tricks."
+"First learn the basics. Spend a year working on that, and then I'll be able "
+"to teach you some advanced tricks."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:118
@@ -168,8 +170,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:125
 msgid ""
-"I want to know the Crazy Double-Fang Wolf-Sunlight I-Like-Tea Death Touch of M"
-"ajor Destruction Flesh-Bursting Attack!"
+"I want to know the Crazy Double-Fang Wolf-Sunlight I-Like-Tea Death Touch of "
+"Major Destruction Flesh-Bursting Attack!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:127
@@ -181,7 +183,8 @@ msgid "You have a very rich imagination. There is no such thing. Get a life."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:133
-msgid "I want to know the forbidden skill of furuike ya kawazu tobikomu mizu no oto."
+msgid ""
+"I want to know the forbidden skill of furuike ya kawazu tobikomu mizu no oto."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:135
@@ -223,4 +226,3 @@ msgstr ""
 #: /home/david/src/freedroid-translation/dialogs/Pendragon.dialog:160
 msgid "Have courage."
 msgstr ""
-

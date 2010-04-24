@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:34
@@ -20,8 +20,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:39
 msgid ""
-"INTRUDER, LOWER YOUR WEAPONS AND IDENTIFY YOURSELF OR FACE IMMEDIATE TERMINATI"
-"ON."
+"INTRUDER, LOWER YOUR WEAPONS AND IDENTIFY YOURSELF OR FACE IMMEDIATE "
+"TERMINATION."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:40
@@ -45,7 +45,8 @@ msgid "STATE THE PURPOSE OF YOUR PRESENCE HERE."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:60
-msgid "I saw this building as I was walking by, and I decided to take a look inside."
+msgid ""
+"I saw this building as I was walking by, and I decided to take a look inside."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:62
@@ -76,12 +77,13 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:83
 msgid ""
-"The people from the uhh... city want me to have a word with him. Yeah, that's "
-"it."
+"The people from the uhh... city want me to have a word with him. Yeah, "
+"that's it."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:90
-msgid "I have some very valuable information. Your master might be interested in it."
+msgid ""
+"I have some very valuable information. Your master might be interested in it."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:92
@@ -154,7 +156,8 @@ msgid "I do not have to tell you anything, bot."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:154
-msgid "ENGAGING AGGRESSION CIRCUITS. YOU SHALL BE DISINTEGRATED IN TEN SECONDS."
+msgid ""
+"ENGAGING AGGRESSION CIRCUITS. YOU SHALL BE DISINTEGRATED IN TEN SECONDS."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:161
@@ -176,4 +179,3 @@ msgstr ""
 #: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:179
 msgid "GOODBYE."
 msgstr ""
-

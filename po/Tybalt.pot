@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:41
@@ -16,8 +16,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:43
 msgid ""
-"Hello. I'm Tybalt. I'm guarding the guardhouse gate. Only authorized personnel"
-" are permitted."
+"Hello. I'm Tybalt. I'm guarding the guardhouse gate. Only authorized "
+"personnel are permitted."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:48
@@ -25,7 +25,8 @@ msgid "Why is the guardhouse locked most of the time?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:50
-msgid "It's locked so no one can sneak inside while I'm not looking. That's why."
+msgid ""
+"It's locked so no one can sneak inside while I'm not looking. That's why."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:55
@@ -34,14 +35,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:58
 msgid ""
-"Of course. Guard members are always authorized to enter the guardhouse. The ga"
-"te is open. Enjoy your stay."
+"Of course. Guard members are always authorized to enter the guardhouse. The "
+"gate is open. Enjoy your stay."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:61
 msgid ""
-"Sorry pal, but I don't think so. Only authorized personnel are permitted and t"
-"hat means members of the Red Guard."
+"Sorry pal, but I don't think so. Only authorized personnel are permitted and "
+"that means members of the Red Guard."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:62
@@ -49,7 +50,8 @@ msgid "Talk to Spencer if you have any business inside. I cannot let you pass."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:71
-msgid "We need to protect our equipment and documents, because lives depend on it."
+msgid ""
+"We need to protect our equipment and documents, because lives depend on it."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:72
@@ -127,4 +129,3 @@ msgstr ""
 #: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:124
 msgid "Good riddance."
 msgstr ""
-

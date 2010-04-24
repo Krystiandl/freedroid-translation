@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:49
@@ -32,8 +32,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:65
 msgid ""
-"This place is locked. Hermetically sealed and guarded by bots. So you can't po"
-"ssibly be anything more than the product of my imagination."
+"This place is locked. Hermetically sealed and guarded by bots. So you can't "
+"possibly be anything more than the product of my imagination."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:70
@@ -42,18 +42,20 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:72
 msgid ""
-"In a prison, a luxurious prison. I am feeling quite lonely, as you can see. Bi"
-"g room, plenty of food, a waterfall behind the window..."
+"In a prison, a luxurious prison. I am feeling quite lonely, as you can see. "
+"Big room, plenty of food, a waterfall behind the window..."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:77
-msgid "All I see through the window are ray emitters. And we are below ground level.."
+msgid ""
+"All I see through the window are ray emitters. And we are below ground "
+"level.."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:79
 msgid ""
-"Yes, I know. But I so badly want to see sun, rivers, trees... there definitely"
-" is waterfall behind them!"
+"Yes, I know. But I so badly want to see sun, rivers, trees... there "
+"definitely is waterfall behind them!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:84
@@ -62,8 +64,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:86
 msgid ""
-"The main power supply is down, so only the emergency lights work. Peter tried "
-"to switch it back on, but he didn't succeed."
+"The main power supply is down, so only the emergency lights work. Peter "
+"tried to switch it back on, but he didn't succeed."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:91
@@ -72,8 +74,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:93
 msgid ""
-"In the past it was a secret lab. You heard about those strength pills? They we"
-"re invented here. Other pills too, but I was working on the strength ones."
+"In the past it was a secret lab. You heard about those strength pills? They "
+"were invented here. Other pills too, but I was working on the strength ones."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:98
@@ -95,20 +97,20 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:103
 msgid ""
-"They are like money. Having money is good, but if you have too much, you can d"
-"ecide that you can do anything."
+"They are like money. Having money is good, but if you have too much, you can "
+"decide that you can do anything."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:104
 msgid ""
-"Peter became not very strong, but very-very-very strong. He thought he could m"
-"ake an exit with his bare hands."
+"Peter became not very strong, but very-very-very strong. He thought he could "
+"make an exit with his bare hands."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:106
 msgid ""
-"If you go further down the corridor, you will find debris and a big stone. Tha"
-"t is his grave."
+"If you go further down the corridor, you will find debris and a big stone. "
+"That is his grave."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:111
@@ -117,14 +119,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:113
 msgid ""
-"That would be something different from what I've done in the last months at le"
-"ast. Some entertainment."
+"That would be something different from what I've done in the last months at "
+"least. Some entertainment."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:114
 msgid ""
-"Let me take a look at that... it's nothing some nanobots couldn't take care of"
-".... You will be all fixed up in a minute."
+"Let me take a look at that... it's nothing some nanobots couldn't take care "
+"of.... You will be all fixed up in a minute."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:119
@@ -141,8 +143,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:128
 msgid ""
-"It is locked and very reliable. Even a tank would not be able to smash it! And"
-" if a door was broken, SADDs would attack, that's their program."
+"It is locked and very reliable. Even a tank would not be able to smash it! "
+"And if a door was broken, SADDs would attack, that's their program."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:133
@@ -155,8 +157,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:136
 msgid ""
-"Oh god! I - I told Peter that he chose the wrong place, but he was so stubborn"
-"!"
+"Oh god! I - I told Peter that he chose the wrong place, but he was so "
+"stubborn!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:141
@@ -172,7 +174,8 @@ msgid "It is strange to see a girl in such a beautiful dress here."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:150
-msgid "I'm going to spend all my life here! So forgive me some little indulgences."
+msgid ""
+"I'm going to spend all my life here! So forgive me some little indulgences."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:155
@@ -180,7 +183,8 @@ msgid "Maybe is it possible to disable the guns?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:157
-msgid "Theoretically yes, but in practice I'm not sure you would be able to do that."
+msgid ""
+"Theoretically yes, but in practice I'm not sure you would be able to do that."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:162
@@ -189,10 +193,10 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:164
 msgid ""
-"Somewhere in a distant part of the lab should be an SACD - Secret Area Control"
-" Droid. It controls all the defense systems in the base. If you manage to pers"
-"uade it, you would be able to control the base. However, it's very hard to fin"
-"d and get to the SACD."
+"Somewhere in a distant part of the lab should be an SACD - Secret Area "
+"Control Droid. It controls all the defense systems in the base. If you "
+"manage to persuade it, you would be able to control the base. However, it's "
+"very hard to find and get to the SACD."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:169
@@ -201,8 +205,9 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:171
 msgid ""
-"Thanks... please be careful. You will not be able to access the control center"
-" directly, it is behind a triple hermetic door. Try using the service tunnels."
+"Thanks... please be careful. You will not be able to access the control "
+"center directly, it is behind a triple hermetic door. Try using the service "
+"tunnels."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:177
@@ -211,9 +216,10 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:179
 msgid ""
-"To open the door you need to know the password. Only the commander of the area"
-" and his deputy knew it. The commander was killed by bots as soon as the assau"
-"lt started, and the deputy was in town, I don't know what happened to him."
+"To open the door you need to know the password. Only the commander of the "
+"area and his deputy knew it. The commander was killed by bots as soon as the "
+"assault started, and the deputy was in town, I don't know what happened to "
+"him."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:184
@@ -222,8 +228,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:186
 msgid ""
-"Peter did all he could to make this room comfortable. The sofa and armchair ar"
-"e from the commanders cabinet, the books are from the lounge..."
+"Peter did all he could to make this room comfortable. The sofa and armchair "
+"are from the commanders cabinet, the books are from the lounge..."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:191
@@ -232,8 +238,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:193
 msgid ""
-"Thanks, thanks a lot! Now I will be able to see the sun, trees, rivers... I mi"
-"ssed those so much!"
+"Thanks, thanks a lot! Now I will be able to see the sun, trees, rivers... I "
+"missed those so much!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:194
@@ -246,10 +252,10 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:207
 msgid ""
-"To the right from the entrance of the area, there is a hall. In the south part"
-" of this hall you will find a triple hermetic door. The control center is behi"
-"nd that door. But it is locked, so you will have to find another way there. Th"
-"e cable collectors may help you."
+"To the right from the entrance of the area, there is a hall. In the south "
+"part of this hall you will find a triple hermetic door. The control center "
+"is behind that door. But it is locked, so you will have to find another way "
+"there. The cable collectors may help you."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:211
@@ -267,4 +273,3 @@ msgstr ""
 #: /home/david/src/freedroid-translation/dialogs/Tania.dialog:220
 msgid "That's ok. But please, please, come back. I'm so lonely."
 msgstr ""
-

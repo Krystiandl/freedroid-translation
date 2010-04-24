@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Engel_sub.dialog:55
@@ -41,8 +41,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Engel_sub.dialog:81
 msgid ""
-"When you have the head open wide, look around for a part which looks like two "
-"circles around a cube. That is what you are looking for."
+"When you have the head open wide, look around for a part which looks like "
+"two circles around a cube. That is what you are looking for."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Engel_sub.dialog:89
@@ -54,7 +54,9 @@ msgid "Remove the bot's engine and look around somewhere close to the battery."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Engel_sub.dialog:91
-msgid "Plasma transistors are shaped like the letter Y. Just rip them out, it's safe."
+msgid ""
+"Plasma transistors are shaped like the letter Y. Just rip them out, it's "
+"safe."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Engel_sub.dialog:99
@@ -67,8 +69,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Engel_sub.dialog:101
 msgid ""
-"Look around the electric system. Power coils, capacitors, generators and the l"
-"ike. Usually there are plenty of sehr gut parts there."
+"Look around the electric system. Power coils, capacitors, generators and the "
+"like. Usually there are plenty of sehr gut parts there."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Engel_sub.dialog:102
@@ -85,8 +87,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Engel_sub.dialog:112
 msgid ""
-"They are easy to find, all you have to do is to get to the engine. But you mus"
-"t remember something very important:"
+"They are easy to find, all you have to do is to get to the engine. But you "
+"must remember something very important:"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Engel_sub.dialog:113
@@ -95,8 +97,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Engel_sub.dialog:114
 msgid ""
-"If you do not do that, you will only succeed in converting yourself to anti-ma"
-"tter. And as you know, there is no coming back from there."
+"If you do not do that, you will only succeed in converting yourself to anti-"
+"matter. And as you know, there is no coming back from there."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Engel_sub.dialog:122
@@ -105,33 +107,33 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Engel_sub.dialog:123
 msgid ""
-"Tachyons are very interesting particles. Many stories have been told about the"
-"m."
+"Tachyons are very interesting particles. Many stories have been told about "
+"them."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Engel_sub.dialog:124
 msgid ""
-"I have no idea why bots have them inside. They are usually not connected to an"
-"ything and serve no function."
+"I have no idea why bots have them inside. They are usually not connected to "
+"anything and serve no function."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Engel_sub.dialog:125
 msgid ""
-"They are usually quite hot when you get them out, but they cool down quickly, "
-"so handling them is not a big deal."
+"They are usually quite hot when you get them out, but they cool down "
+"quickly, so handling them is not a big deal."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Engel_sub.dialog:126
 msgid ""
-"They can be installed just about anywhere, so you have to spend some time digg"
-"ing through the circuits to find one."
+"They can be installed just about anywhere, so you have to spend some time "
+"digging through the circuits to find one."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Engel_sub.dialog:134
-msgid "Nein, I told you everything I know about that. No use asking me twice, ja?"
+msgid ""
+"Nein, I told you everything I know about that. No use asking me twice, ja?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Engel_sub.dialog:139
 msgid "Maybe another time."
 msgstr ""
-

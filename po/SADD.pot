@@ -7,13 +7,13 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:38
 msgid ""
-"Your bio checksum does not trigger a match in staff database. Please show prop"
-"er credentials or leave the premises at once."
+"Your bio checksum does not trigger a match in staff database. Please show "
+"proper credentials or leave the premises at once."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:55
@@ -67,8 +67,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:80
 msgid ""
-"I do! I do! I kill humans, bots, linarians and even dogs, cats and other anima"
-"ls! I would kill anybody!"
+"I do! I do! I kill humans, bots, linarians and even dogs, cats and other "
+"animals! I would kill anybody!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:81
@@ -85,8 +85,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:90
 msgid ""
-"I know only that I have to be recharged, checked and have my firmware updated "
-"every 3 months."
+"I know only that I have to be recharged, checked and have my firmware "
+"updated every 3 months."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:91
@@ -95,8 +95,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:92
 msgid ""
-"One year and a half ago. My accumulator is nearly empty, so I'm going to halt "
-"soon. Gates will become unguarded..."
+"One year and a half ago. My accumulator is nearly empty, so I'm going to "
+"halt soon. Gates will become unguarded..."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:93
@@ -125,14 +125,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:108
 msgid ""
-"And stand here alone until I die? While you are here I can speak with you. Oh,"
-" I haven't spoken to anybody for a looong time!"
+"And stand here alone until I die? While you are here I can speak with you. "
+"Oh, I haven't spoken to anybody for a looong time!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:114
 msgid ""
-"I'm thirsty and hungry. I will die within days, and you will not have an inter"
-"locutor any more!"
+"I'm thirsty and hungry. I will die within days, and you will not have an "
+"interlocutor any more!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:116
@@ -149,8 +149,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:124
 msgid ""
-"Anyway, that's none of your business. Soon I'll be dead. You will be too, and "
-"nobody will enter this place ever again!"
+"Anyway, that's none of your business. Soon I'll be dead. You will be too, "
+"and nobody will enter this place ever again!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:125
@@ -175,8 +175,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:134
 msgid ""
-"I've already disobeyed them, when I told you what I shouldn't have. That's bec"
-"ause of my human nature."
+"I've already disobeyed them, when I told you what I shouldn't have. That's "
+"because of my human nature."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:140
@@ -206,14 +206,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:147
 msgid ""
-"It means what it means! Nothing more, nothing less! Shut up, little piece of b"
-"iomass!"
+"It means what it means! Nothing more, nothing less! Shut up, little piece of "
+"biomass!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:154
 msgid ""
-"I suggest a deal. You let me out, I bring you dilithium crystals. It will save"
-" both of us."
+"I suggest a deal. You let me out, I bring you dilithium crystals. It will "
+"save both of us."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:156
@@ -222,8 +222,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:164
 msgid ""
-"When I say SHUT UP, you MUST shut up! Try this, worthless grain of the univers"
-"e!"
+"When I say SHUT UP, you MUST shut up! Try this, worthless grain of the "
+"universe!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:169
@@ -232,14 +232,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:171
 msgid ""
-"Damn. Ok, I'll give you a super exterminator if you give me dilithium cristals"
-"."
+"Damn. Ok, I'll give you a super exterminator if you give me dilithium "
+"cristals."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:178
 msgid ""
-"It seems that you are sentinent, that you are a form of life. I must help any "
-"form of life."
+"It seems that you are sentinent, that you are a form of life. I must help "
+"any form of life."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:180
@@ -261,8 +261,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:199
 msgid ""
-"Good. I've opened the depot door for you. Take your super exterminator and GET"
-" OUT of here!"
+"Good. I've opened the depot door for you. Take your super exterminator and "
+"GET OUT of here!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:211
@@ -275,8 +275,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:221
 msgid ""
-"Great! Thanks. I've opened some doors for you. I hope you will find something "
-"interesting there. That's all I can do for you."
+"Great! Thanks. I've opened some doors for you. I hope you will find "
+"something interesting there. That's all I can do for you."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:234
@@ -297,14 +297,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:239
 msgid ""
-"Give me a real gun, dude! Immediately! I have brought you what you wanted, now"
-" give me my reward!"
+"Give me a real gun, dude! Immediately! I have brought you what you wanted, "
+"now give me my reward!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:240
 msgid ""
-"You can go standing on your feet, that's your reward. And DON'T TRY MY PATIENC"
-"E!"
+"You can go standing on your feet, that's your reward. And DON'T TRY MY "
+"PATIENCE!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:241
@@ -312,7 +312,9 @@ msgid "I'll kill you if you don't give me my gun!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:242
-msgid "You are welcome. But you would never get out of here, my death won't help you."
+msgid ""
+"You are welcome. But you would never get out of here, my death won't help "
+"you."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:252
@@ -373,7 +375,8 @@ msgid "I'm sorry"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:283
-msgid "Nice try, though. I may owe you, but I can't let you in. You must leave."
+msgid ""
+"Nice try, though. I may owe you, but I can't let you in. You must leave."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:290
@@ -383,4 +386,3 @@ msgstr ""
 #: /home/david/src/freedroid-translation/dialogs/SADD.dialog:292
 msgid "Exactly."
 msgstr ""
-

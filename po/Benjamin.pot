@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:39
@@ -16,8 +16,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:41
 msgid ""
-"Ah, so you are the new member. Welcome. My name is Benjamin, and I take care o"
-"f our ranged weaponry here in the citadel."
+"Ah, so you are the new member. Welcome. My name is Benjamin, and I take care "
+"of our ranged weaponry here in the citadel."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:46
@@ -25,26 +25,27 @@ msgid "What are you doing here alone? "
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:48
-msgid "I'm experimenting with new designs. I want to redesign the laser pistol."
+msgid ""
+"I'm experimenting with new designs. I want to redesign the laser pistol."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:49
 msgid ""
-"A lot of energy is wasted somewhere during firing, and I have no idea where. I"
-"f I could find the source of the problem, the gun would become much more power"
-"ful."
+"A lot of energy is wasted somewhere during firing, and I have no idea where. "
+"If I could find the source of the problem, the gun would become much more "
+"powerful."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:50
 msgid ""
-"So far all my prototypes have failed. Mostly overheating and jamming. Sometime"
-"s I wonder if I am doing something wrong."
+"So far all my prototypes have failed. Mostly overheating and jamming. "
+"Sometimes I wonder if I am doing something wrong."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:55
 msgid ""
-"Did you think about somehow gathering the excess heat and using it to make the"
-" beam stronger?"
+"Did you think about somehow gathering the excess heat and using it to make "
+"the beam stronger?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:57
@@ -61,8 +62,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:71
 msgid ""
-"You know, laser pistols are not a very promising weapon. I think you should wo"
-"rk on something different."
+"You know, laser pistols are not a very promising weapon. I think you should "
+"work on something different."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:73
@@ -75,15 +76,15 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:81
 msgid ""
-"Well, for novice members there are simple laser and plasma pistols. They have "
-"their share of problems, but they do the trick nine times out of ten."
+"Well, for novice members there are simple laser and plasma pistols. They "
+"have their share of problems, but they do the trick nine times out of ten."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:82
 msgid ""
-"For bigger bots we have bigger guns. The exterminator is the best weapon that "
-"we have. We hand them out only in case of an emergency or to highly experience"
-"d people."
+"For bigger bots we have bigger guns. The exterminator is the best weapon "
+"that we have. We hand them out only in case of an emergency or to highly "
+"experienced people."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:87
@@ -96,40 +97,40 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:90
 msgid ""
-"While many people find the ammunition canisters too big, and the bullets too s"
-"low, they cannot deny that once plasma hits, it leaves big holes."
+"While many people find the ammunition canisters too big, and the bullets too "
+"slow, they cannot deny that once plasma hits, it leaves big holes."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:91
 msgid ""
-"Plasma is matter, ionised gas to be exact. It also happens to be hot enough to"
-" make steel boil."
+"Plasma is matter, ionised gas to be exact. It also happens to be hot enough "
+"to make steel boil."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:92
 msgid ""
-"Most of the new recruits hate how hard to aim this weapon is. If bullets were "
-"animals, then plasma would be a well fed cow. By the time it arrives at the ta"
-"rget, the bot is already a mile away."
+"Most of the new recruits hate how hard to aim this weapon is. If bullets "
+"were animals, then plasma would be a well fed cow. By the time it arrives at "
+"the target, the bot is already a mile away."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:93
 msgid ""
-"If you are going to use plasma weapons you need to remember one thing: Don't l"
-"et the weapon get damaged."
+"If you are going to use plasma weapons you need to remember one thing: Don't "
+"let the weapon get damaged."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:94
 msgid ""
-"Even though our armor is designed to resist high temperatures, once the plasma"
-" containment module goes, you will die, along with anything within ten meters "
-"of you."
+"Even though our armor is designed to resist high temperatures, once the "
+"plasma containment module goes, you will die, along with anything within ten "
+"meters of you."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:95
 msgid ""
-"Because of all those drawbacks plasma weapons are not too popular. Quite a pit"
-"y, they have great potential."
+"Because of all those drawbacks plasma weapons are not too popular. Quite a "
+"pity, they have great potential."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:100
@@ -138,39 +139,39 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:102
 msgid ""
-"Laser is an acronym for Light Amplification by Stimulated Emission of Radiatio"
-"n."
+"Laser is an acronym for Light Amplification by Stimulated Emission of "
+"Radiation."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:103
 msgid ""
-"Laser is the technology employed in most of our weaponry. It uses a focused li"
-"ght beam to cause damage."
+"Laser is the technology employed in most of our weaponry. It uses a focused "
+"light beam to cause damage."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:104
 msgid ""
-"Because the beam is composed out of light, it travels REALLY fast, at the spee"
-"d of lights so to say. Also it is not affected by gravity or wind, which makes"
-" aiming easier."
+"Because the beam is composed out of light, it travels REALLY fast, at the "
+"speed of lights so to say. Also it is not affected by gravity or wind, which "
+"makes aiming easier."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:105
 msgid ""
-"However, other than being a good training tool for newbies, that design just f"
-"ails to deliver."
+"However, other than being a good training tool for newbies, that design just "
+"fails to deliver."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:106
 msgid ""
-"The shots tend to be underpowered, the gun takes a long while to power up for "
-"a shot and can overheat during intense combat."
+"The shots tend to be underpowered, the gun takes a long while to power up "
+"for a shot and can overheat during intense combat."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:107
 msgid ""
-"This is why I am trying to improve it, but so far I have had no success. I jus"
-"t feel like giving up."
+"This is why I am trying to improve it, but so far I have had no success. I "
+"just feel like giving up."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:112
@@ -178,7 +179,8 @@ msgid "I am curious about the exterminator."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:114
-msgid "Sorry, but that is classified and confidential. I have said too much already."
+msgid ""
+"Sorry, but that is classified and confidential. I have said too much already."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:119
@@ -187,20 +189,20 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:122
 msgid ""
-"If anyone in this city knows more about guns than me, then my name's not Benja"
-"min."
+"If anyone in this city knows more about guns than me, then my name's not "
+"Benjamin."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:123
 msgid ""
-"Of course, I will need compensation for the ammunition spent in the training a"
-"nd for my time."
+"Of course, I will need compensation for the ammunition spent in the training "
+"and for my time."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:124
 msgid ""
-"Say... A hundred circuits and three training points should be enough for a beg"
-"inner lesson."
+"Say... A hundred circuits and three training points should be enough for a "
+"beginner lesson."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:127
@@ -213,8 +215,8 @@ msgstr ""
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:129
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:140
 msgid ""
-"Waving that cash in front of me when you are too unfocused to train won't help"
-". I can take your money, but you won't learn anything."
+"Waving that cash in front of me when you are too unfocused to train won't "
+"help. I can take your money, but you won't learn anything."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:130
@@ -226,19 +228,20 @@ msgid "Oh, you are ready for some more training?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:134
-msgid "It will of course cost a bit more money as well as mental focus on your part."
+msgid ""
+"It will of course cost a bit more money as well as mental focus on your part."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:135
 msgid ""
-"It will take you two hundred circuits and double the effort on your part to be"
-"come a true apprentice."
+"It will take you two hundred circuits and double the effort on your part to "
+"become a true apprentice."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:141
 msgid ""
-"You don't have enough money! I cannot afford to just give away training for fr"
-"ee."
+"You don't have enough money! I cannot afford to just give away training for "
+"free."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:144
@@ -247,14 +250,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:145
 msgid ""
-"But the next step will cost even more money and require the mental focus equal"
-"ing all your previous training."
+"But the next step will cost even more money and require the mental focus "
+"equaling all your previous training."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:149
 msgid ""
-"But I dont think you have enough experience for this. Come back here after you"
-" see some more action."
+"But I dont think you have enough experience for this. Come back here after "
+"you see some more action."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:150
@@ -268,13 +271,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:154
 msgid ""
-"It will cost you 400 valuable circuits and an awful lot of mental focusing on "
-"the task."
+"It will cost you 400 valuable circuits and an awful lot of mental focusing "
+"on the task."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:159
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:169
-msgid "You don't have enough experience. Come here after you see some more action."
+msgid ""
+"You don't have enough experience. Come here after you see some more action."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:160
@@ -283,14 +287,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:163
 msgid ""
-"To become a true god of firearms, just like me, you need ridiculous amounts of"
-" training."
+"To become a true god of firearms, just like me, you need ridiculous amounts "
+"of training."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:164
 msgid ""
-"It will of course cost a fair bit of cold, hard cash as well. 500, to be preci"
-"se."
+"It will of course cost a fair bit of cold, hard cash as well. 500, to be "
+"precise."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:173
@@ -299,20 +303,20 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:184
 msgid ""
-"Yes, I want to improve my ranged weapons skill. (cost 3 training points, 100 c"
-"ash)"
+"Yes, I want to improve my ranged weapons skill. (cost 3 training points, 100 "
+"cash)"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:188
 msgid ""
-"Now the most important thing is that you turn off the auto-aim on your weapon,"
-" like this."
+"Now the most important thing is that you turn off the auto-aim on your "
+"weapon, like this."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:189
 msgid ""
-"Otherwise your weapon might 'help' you and shoot somewhere you didn't intend t"
-"o fire."
+"Otherwise your weapon might 'help' you and shoot somewhere you didn't intend "
+"to fire."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:190
@@ -320,11 +324,13 @@ msgid "Next important thing is to remember how to properly fire a shot."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:191
-msgid "Watch your target closely. Pretend you're moving with it. Aim for the head."
+msgid ""
+"Watch your target closely. Pretend you're moving with it. Aim for the head."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:192
-msgid "When you feel completely in sync with your target, then you pull the trigger."
+msgid ""
+"When you feel completely in sync with your target, then you pull the trigger."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:193
@@ -353,12 +359,13 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:212
 msgid ""
-"Try breathing out as you pull the trigger and squeeze it gently rather than je"
-"rking it."
+"Try breathing out as you pull the trigger and squeeze it gently rather than "
+"jerking it."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:213
-msgid "That's right. You will find yourself hitting the target much more often now."
+msgid ""
+"That's right. You will find yourself hitting the target much more often now."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:218
@@ -380,14 +387,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:231
 msgid ""
-"It's pretty simple really, just watch to see where it is going and then aim sl"
-"ightly ahead in case you use a non-laser gun."
+"It's pretty simple really, just watch to see where it is going and then aim "
+"slightly ahead in case you use a non-laser gun."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:232
 msgid ""
-"It's easy when you know how, especially with bots, because they tend to move i"
-"n straight lines, not bob and weave like people."
+"It's easy when you know how, especially with bots, because they tend to move "
+"in straight lines, not bob and weave like people."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:233
@@ -403,19 +410,20 @@ msgid "Yes I accept. (cost 12 training points, 400 cash)"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:250
-msgid "Firing on the move is difficult, but can make survival much more likely!"
+msgid ""
+"Firing on the move is difficult, but can make survival much more likely!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:251
 msgid ""
-"The secret is to keep a stable platform and hold the weapon loosely so that it"
-" doesn't jar."
+"The secret is to keep a stable platform and hold the weapon loosely so that "
+"it doesn't jar."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:252
 msgid ""
-"Oh yes, and remember not to trip, because you should be looking where you are "
-"firing, not where you are stepping."
+"Oh yes, and remember not to trip, because you should be looking where you "
+"are firing, not where you are stepping."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:253
@@ -432,8 +440,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:266
 msgid ""
-"Yes I want to become a god in ranged combat. (cost 15 training points, 500 cas"
-"h)"
+"Yes I want to become a god in ranged combat. (cost 15 training points, 500 "
+"cash)"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:270
@@ -453,13 +461,14 @@ msgid "Go ahead and use my firing range as much as you need."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:278
-msgid "Only a well prepared mind is open to the ultimate in ranged combat secrets."
+msgid ""
+"Only a well prepared mind is open to the ultimate in ranged combat secrets."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:281
 msgid ""
-"The ultimate secret to becoming a god in ranged combat is something you should"
-" value."
+"The ultimate secret to becoming a god in ranged combat is something you "
+"should value."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:286
@@ -484,14 +493,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:304
 msgid ""
-"It might come as a surprise to you, but we don't have many. A bit over twenty,"
-" last time I checked."
+"It might come as a surprise to you, but we don't have many. A bit over "
+"twenty, last time I checked."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:305
 msgid ""
-"However, as you can clearly see, it's more than enough to keep all of the damn"
-" bots away."
+"However, as you can clearly see, it's more than enough to keep all of the "
+"damn bots away."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:313
@@ -500,8 +509,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:315
 msgid ""
-"Linarian, I thought we had an agreement. Fifty per infobit. My silence can be "
-"only broken with currency, so if you want to know, you have to pay."
+"Linarian, I thought we had an agreement. Fifty per infobit. My silence can "
+"be only broken with currency, so if you want to know, you have to pay."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:316
@@ -518,8 +527,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:325
 msgid ""
-"We found a crashed army truck on the Terminal Field. It had six crates inside "
-"it, each containing five exterminators."
+"We found a crashed army truck on the Terminal Field. It had six crates "
+"inside it, each containing five exterminators."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:326
@@ -528,8 +537,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:327
 msgid ""
-"A few got damaged in battle, and we failed to recover five after a failed scou"
-"t mission. We have twenty-two right now."
+"A few got damaged in battle, and we failed to recover five after a failed "
+"scout mission. We have twenty-two right now."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:335
@@ -538,26 +547,26 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:338
 msgid ""
-"We use radioactives, whatever type happens to be on hand. Mostly plutonium and"
-" uranium, but we are not too picky."
+"We use radioactives, whatever type happens to be on hand. Mostly plutonium "
+"and uranium, but we are not too picky."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:339
 msgid ""
-"When we get low on ammo, we send in a chain gang of criminals and sluggards in"
-"to the mine shaft K-17."
+"When we get low on ammo, we send in a chain gang of criminals and sluggards "
+"into the mine shaft K-17."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:340
 msgid ""
-"That place was closed down ages ago because of high radiation levels. It's ful"
-"l of good ores from which we make bullets and power our nuclear reactors."
+"That place was closed down ages ago because of high radiation levels. It's "
+"full of good ores from which we make bullets and power our nuclear reactors."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:341
 msgid ""
-"We get our fission materials, and they serve their sentence. It was one of the"
-" best ideas we have ever had."
+"We get our fission materials, and they serve their sentence. It was one of "
+"the best ideas we have ever had."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:349
@@ -590,8 +599,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:362
 msgid ""
-"Keep your money Linarian. No amount of circuits can make me talk about that ac"
-"cursed day."
+"Keep your money Linarian. No amount of circuits can make me talk about that "
+"accursed day."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:367
@@ -600,20 +609,20 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:370
 msgid ""
-"This is a tricky question. Most of the force comes from the miniature nuclear "
-"explosions which happen once the bullet hits something."
+"This is a tricky question. Most of the force comes from the miniature "
+"nuclear explosions which happen once the bullet hits something."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:371
 msgid ""
-"Of course the high velocity of the impact can cause tremendous devastation by "
-"itself."
+"Of course the high velocity of the impact can cause tremendous devastation "
+"by itself."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:372
 msgid ""
-"We never bothered with doing any research on that topic. It works and that is "
-"enough for us."
+"We never bothered with doing any research on that topic. It works and that "
+"is enough for us."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:380
@@ -631,4 +640,3 @@ msgstr ""
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:388
 msgid "See you later!"
 msgstr ""
-

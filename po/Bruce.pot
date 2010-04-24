@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:42
@@ -36,12 +36,13 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:59
 msgid ""
-"No, I am just too tired now. I have been working in the mine for two weeks now"
-"."
+"No, I am just too tired now. I have been working in the mine for two weeks "
+"now."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:60
-msgid "I feel really wiped, so maybe it would be better if you came some other day."
+msgid ""
+"I feel really wiped, so maybe it would be better if you came some other day."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:65
@@ -78,14 +79,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:84
 msgid ""
-"After the Great Assault, I joined the Red Guard. They needed help and were loo"
-"king for volunteers."
+"After the Great Assault, I joined the Red Guard. They needed help and were "
+"looking for volunteers."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:85
 msgid ""
-"I served there for a short while, and they even let me use an exterminator. Bu"
-"t then after a failed mission, I resigned and never wore a uniform again."
+"I served there for a short while, and they even let me use an exterminator. "
+"But then after a failed mission, I resigned and never wore a uniform again."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:90
@@ -98,18 +99,19 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:93
 msgid ""
-"A direct hit from one of those guns is enough to turn most bots into scrap met"
-"al."
+"A direct hit from one of those guns is enough to turn most bots into scrap "
+"metal."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:94
-msgid "Many of the great victories of the Red Guard are thanks to the exterminator."
+msgid ""
+"Many of the great victories of the Red Guard are thanks to the exterminator."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:95
 msgid ""
-"Of course, because of its small clip and terribly long reloading time, equally"
-" many deaths can be attributed to it."
+"Of course, because of its small clip and terribly long reloading time, "
+"equally many deaths can be attributed to it."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:100
@@ -118,42 +120,43 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:102
 msgid ""
-"There were six of us. Me, Wilber, Anderson and three others. I do not remember"
-" the names anymore. We were team number nine."
+"There were six of us. Me, Wilber, Anderson and three others. I do not "
+"remember the names anymore. We were team number nine."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:103
 msgid ""
-"It was a routine scout mission. We saw an interesting building which was not t"
-"here before, and decided to take a look."
+"It was a routine scout mission. We saw an interesting building which was not "
+"there before, and decided to take a look."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:104
 msgid ""
-"It was a terrible fortress, many stories high. It had guns everywhere. When we"
-" got close the shooting started."
+"It was a terrible fortress, many stories high. It had guns everywhere. When "
+"we got close the shooting started."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:105
 msgid ""
-"They were waiting for us. Came in endless swarms. More and more and more. We s"
-"tood our ground and kept firing, but it was no use. More of them came."
+"They were waiting for us. Came in endless swarms. More and more and more. We "
+"stood our ground and kept firing, but it was no use. More of them came."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:106
 msgid ""
-"Our ammunition ran out. They got close. It was the end of team number nine. Th"
-"e Hell Fortress took their lives. I ran. I survived."
+"Our ammunition ran out. They got close. It was the end of team number nine. "
+"The Hell Fortress took their lives. I ran. I survived."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:107
 msgid ""
-"After that I decided that I am not fit to be one of the Red Guard. I resigned "
-"and started to work in the mine shortly after."
+"After that I decided that I am not fit to be one of the Red Guard. I "
+"resigned and started to work in the mine shortly after."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:108
-msgid "I do not want to face the anger of the Hell Fortress ever again. Never again."
+msgid ""
+"I do not want to face the anger of the Hell Fortress ever again. Never again."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:113
@@ -162,20 +165,20 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:115
 msgid ""
-"And I said that I do not want to talk about it. It hurts too much. Please stop"
-" asking about it and leave me alone."
+"And I said that I do not want to talk about it. It hurts too much. Please "
+"stop asking about it and leave me alone."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:120
 msgid ""
-"You don't understand. I wasn't asking. Now, tell me about your life as a soldi"
-"er, or I will tell the guards you are slacking off."
+"You don't understand. I wasn't asking. Now, tell me about your life as a "
+"soldier, or I will tell the guards you are slacking off."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:122
 msgid ""
-"No! Please... I will do anything, just don't call the Red Guard! They do not l"
-"ike people who left the service. They do not like me. "
+"No! Please... I will do anything, just don't call the Red Guard! They do not "
+"like people who left the service. They do not like me. "
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:123
@@ -184,8 +187,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:129
 msgid ""
-"I have some bad memories too. I know how hard it can be to talk about them. Ke"
-"ep your stories to yourself."
+"I have some bad memories too. I know how hard it can be to talk about them. "
+"Keep your stories to yourself."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:131
@@ -204,4 +207,3 @@ msgstr ""
 #: /home/david/src/freedroid-translation/dialogs/Bruce.dialog:146
 msgid "Good. I need sleep."
 msgstr ""
-

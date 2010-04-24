@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:54
@@ -15,7 +15,8 @@ msgid "Hello!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:56
-msgid "Hello. I'm Doc Moore. I'm the medic of this town. I don't believe we've met?"
+msgid ""
+"Hello. I'm Doc Moore. I'm the medic of this town. I don't believe we've met?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:57
@@ -32,8 +33,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:60
 msgid ""
-"Oh, I vaguely remember reading something about Linarian biology back in my uni"
-"versity days..."
+"Oh, I vaguely remember reading something about Linarian biology back in my "
+"university days..."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:61
@@ -66,12 +67,13 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:89
 msgid ""
-"To poison yourself, 1 more time, that's entirely your own business and I'm not"
-" responsible."
+"To poison yourself, 1 more time, that's entirely your own business and I'm "
+"not responsible."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:90
-msgid "As far as I am concerned, in this town everyone gets everything equally."
+msgid ""
+"As far as I am concerned, in this town everyone gets everything equally."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:93
@@ -84,20 +86,20 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:95
 msgid ""
-"Now, take this antidote. It should remove the dangerous substances within your"
-" body."
+"Now, take this antidote. It should remove the dangerous substances within "
+"your body."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:96
 msgid ""
-"But remember, I'll only give you this help once, because you didn't know the e"
-"ffects."
+"But remember, I'll only give you this help once, because you didn't know the "
+"effects."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:97
 msgid ""
-"Should you take that junk again, I won't feel responsible for what happens to "
-"you any more."
+"Should you take that junk again, I won't feel responsible for what happens "
+"to you any more."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:106
@@ -130,14 +132,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:119
 msgid ""
-"Sure, as the only doctor of this slowly growing community, I take responsibili"
-"ty for everyone's health."
+"Sure, as the only doctor of this slowly growing community, I take "
+"responsibility for everyone's health."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:121
 msgid ""
-"However, self-inflicted damage might be exempted from this rule in some cases."
-".."
+"However, self-inflicted damage might be exempted from this rule in some "
+"cases..."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:124
@@ -158,26 +160,26 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:134
 msgid ""
-"Bender asked my advice about some pills he saw advertised in an e-mail. I told"
-" him not to buy them."
+"Bender asked my advice about some pills he saw advertised in an e-mail. I "
+"told him not to buy them."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:135
 msgid ""
-"But guess what? He bought and took the stupid pills anyways, and then he came "
-"back to me to fix him."
+"But guess what? He bought and took the stupid pills anyways, and then he "
+"came back to me to fix him."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:136
 msgid ""
-"If he, or anyone, is going to completely disregard my medical advice, and then"
-" think they are going to get my medical supplies, then they are wrong."
+"If he, or anyone, is going to completely disregard my medical advice, and "
+"then think they are going to get my medical supplies, then they are wrong."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:137
 msgid ""
-"He won't get anything from me anymore. It would be unfair to the community to "
-"waste all the supplies on him, and that's my final word on that."
+"He won't get anything from me anymore. It would be unfair to the community "
+"to waste all the supplies on him, and that's my final word on that."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:143
@@ -206,8 +208,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:160
 msgid ""
-"Humans... You are so interesting. I always wanted to know exactly how much blo"
-"od you have."
+"Humans... You are so interesting. I always wanted to know exactly how much "
+"blood you have."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:161
@@ -238,8 +240,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:167
 msgid ""
-"I guess this means I get to inherit all your stuff. I hope you don't mind if I"
-" take everything?"
+"I guess this means I get to inherit all your stuff. I hope you don't mind if "
+"I take everything?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:169
@@ -272,38 +274,38 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:218
 msgid ""
-"Those pills are only one variant of a fantastic scientific breakthrough that h"
-"appened shortly before the Great Assault."
+"Those pills are only one variant of a fantastic scientific breakthrough that "
+"happened shortly before the Great Assault."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:219
 msgid ""
-"Three kinds of enhancement pills were developed. One for strength, one for dex"
-"terity and one for programming abilities."
+"Three kinds of enhancement pills were developed. One for strength, one for "
+"dexterity and one for programming abilities."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:220
 msgid ""
-"These pills work on a nanotechnological basis with small machines connecting t"
-"o your muscle and nerve tissue."
+"These pills work on a nanotechnological basis with small machines connecting "
+"to your muscle and nerve tissue."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:221
 msgid ""
-"The machines connect together and form some inorganic artificial tissue that h"
-"as been optimized for certain qualities."
+"The machines connect together and form some inorganic artificial tissue that "
+"has been optimized for certain qualities."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:222
 msgid ""
-"Since this invention only came about shortly before the Great Assault, these p"
-"ills are now very rare."
+"Since this invention only came about shortly before the Great Assault, these "
+"pills are now very rare."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:223
 msgid ""
-"But if you should get them, even better, because the effects are permanent, an"
-"d as far as we can tell, there aren't any side effects!"
+"But if you should get them, even better, because the effects are permanent, "
+"and as far as we can tell, there aren't any side effects!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:228
@@ -316,8 +318,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:233
 msgid ""
-"Those pills are almost pure biological waste! They are sold to stupid ignorant"
-" gullible people. Never EVER take one."
+"Those pills are almost pure biological waste! They are sold to stupid "
+"ignorant gullible people. Never EVER take one."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:238
@@ -326,8 +328,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:240
 msgid ""
-"Have you tasted the army snacks that the cook, Michelangelo, has been handing "
-"out?"
+"Have you tasted the army snacks that the cook, Michelangelo, has been "
+"handing out?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:242
@@ -348,8 +350,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:248
 msgid ""
-"Well, unlike the army snacks, the Diet Supplements actually have a slight nutr"
-"itional benefit."
+"Well, unlike the army snacks, the Diet Supplements actually have a slight "
+"nutritional benefit."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:249
@@ -370,8 +372,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:258
 msgid ""
-"Yep. It kills the bacteria that want to kill you. It improves your health sign"
-"ificantly."
+"Yep. It kills the bacteria that want to kill you. It improves your health "
+"significantly."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:263
@@ -380,9 +382,9 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:265
 msgid ""
-"It is a device that releases millions of short-lived nanobots that swarm all o"
-"ver your body inside and out repairing and fixing almost all but the most seri"
-"ous wounds."
+"It is a device that releases millions of short-lived nanobots that swarm all "
+"over your body inside and out repairing and fixing almost all but the most "
+"serious wounds."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:266
@@ -391,16 +393,16 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:267
 msgid ""
-"They found that long-lived nanobots evolve self-replication and act like a can"
-"cer. A cancer of gray goo that eats everything."
+"They found that long-lived nanobots evolve self-replication and act like a "
+"cancer. A cancer of gray goo that eats everything."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:268
-msgid "Several planets were made uninhabitable before they figured that one out."
+msgid ""
+"Several planets were made uninhabitable before they figured that one out."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:273
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:275
 msgid "See you later."
 msgstr ""
-

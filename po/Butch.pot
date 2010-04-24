@@ -7,25 +7,25 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:40
 msgid ""
-"I've already opened the door for you. All you need to do is walk in there and "
-"crush all four bots."
+"I've already opened the door for you. All you need to do is walk in there "
+"and crush all four bots."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:52
 msgid ""
-"I've already opened the door. What are you waiting for? All you need to do is "
-"go down to the master arena and fight the bots."
+"I've already opened the door. What are you waiting for? All you need to do "
+"is go down to the master arena and fight the bots."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:53
 msgid ""
-"But I can understand if you hesitate. The master arena is by no means an easy "
-"task. Maybe you should practice some more before you go down."
+"But I can understand if you hesitate. The master arena is by no means an "
+"easy task. Maybe you should practice some more before you go down."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:66
@@ -82,8 +82,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:107
 msgid ""
-"The underground arena. With holographic bots to train combat techniques agains"
-"t."
+"The underground arena. With holographic bots to train combat techniques "
+"against."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:108
@@ -96,8 +96,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:115
 msgid ""
-"Good. I opened up the novice arena gate. Just climb down the ladder south of h"
-"ere."
+"Good. I opened up the novice arena gate. Just climb down the ladder south of "
+"here."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:116
@@ -106,14 +106,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:117
 msgid ""
-"And be careful, your brain get so fooled by what happens in the holographic wo"
-"rld that you take physical damage for real."
+"And be careful, your brain get so fooled by what happens in the holographic "
+"world that you take physical damage for real."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:118
 msgid ""
-"So even if the enemies are only holograms, they can still hurt you and even ki"
-"ll you."
+"So even if the enemies are only holograms, they can still hurt you and even "
+"kill you."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:125
@@ -158,20 +158,20 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:148
 msgid ""
-"I'm sorry, but town regulations forbid access to the master arena unless you'v"
-"e completed the novice arena first."
+"I'm sorry, but town regulations forbid access to the master arena unless "
+"you've completed the novice arena first."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:149
 msgid ""
-"This regulation is in place for your own safety, so that no newbie accidentall"
-"y signs up for the master arena."
+"This regulation is in place for your own safety, so that no newbie "
+"accidentally signs up for the master arena."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:150
 msgid ""
-"You might try taking the novice arena first. Then I can grant you access to th"
-"e master field."
+"You might try taking the novice arena first. Then I can grant you access to "
+"the master field."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:152
@@ -219,7 +219,8 @@ msgid "Beacuse you ARE a newbie, newbie!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:182
-msgid "Why the hell are you organizing fights? Enough people have died already!"
+msgid ""
+"Why the hell are you organizing fights? Enough people have died already!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:184
@@ -265,8 +266,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:210
 msgid ""
-"You... Have ruined my pacifistic slogan... I am angry... So angry that I want "
-"to smash things!"
+"You... Have ruined my pacifistic slogan... I am angry... So angry that I "
+"want to smash things!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:211
@@ -279,14 +280,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:220
 msgid ""
-"You've already completed the novice arena. But since you really want to have a"
-"nother go, I'll cause the bots to respawn now. There, it's done."
+"You've already completed the novice arena. But since you really want to have "
+"another go, I'll cause the bots to respawn now. There, it's done."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:221
 msgid ""
-"But you also might want to try the master arena now, maybe? If so, just say so"
-"."
+"But you also might want to try the master arena now, maybe? If so, just say "
+"so."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:227
@@ -295,14 +296,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:229
 msgid ""
-"But you've already completed the master arena. Ok, but I can have the bots res"
-"pawn for you now, so you can have another go!"
+"But you've already completed the master arena. Ok, but I can have the bots "
+"respawn for you now, so you can have another go!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:230
 msgid ""
-"But certainly you've earned yourself a reputation as arena master around here "
-"now and we respect that."
+"But certainly you've earned yourself a reputation as arena master around "
+"here now and we respect that."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:236
@@ -312,4 +313,3 @@ msgstr ""
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:238
 msgid "Sure."
 msgstr ""
-

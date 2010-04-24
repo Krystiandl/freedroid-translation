@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:40
@@ -28,7 +28,9 @@ msgid "Hi! I'm new here."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:50
-msgid "Great! A newcomer! Welcome! Welcome! I'm Skippy, and I'm your new best friend!"
+msgid ""
+"Great! A newcomer! Welcome! Welcome! I'm Skippy, and I'm your new best "
+"friend!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:51
@@ -60,13 +62,14 @@ msgid "Oh, that's so simple. No need to activate anything at all."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:68
-msgid "Just swallow the pill and the nanotechnological bots will enter your body."
+msgid ""
+"Just swallow the pill and the nanotechnological bots will enter your body."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:69
 msgid ""
-"They'll merge with your eyes and transmit data to your brain using the optical"
-" nerves. Nice, eh?"
+"They'll merge with your eyes and transmit data to your brain using the "
+"optical nerves. Nice, eh?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:70
@@ -79,8 +82,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:77
 msgid ""
-"Oh, I've always been a geek. And I got blueprints from before the Great Assaul"
-"t."
+"Oh, I've always been a geek. And I got blueprints from before the Great "
+"Assault."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:78
@@ -96,7 +99,8 @@ msgid "Nanotechnology? Isn't that dangerous?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:86
-msgid "No way, man, I guarantee it. Don't believe anything you might have heard."
+msgid ""
+"No way, man, I guarantee it. Don't believe anything you might have heard."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:87
@@ -105,14 +109,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:88
 msgid ""
-"There is no risk of your head being eaten by a nanotechnological nightmare, or"
-" anything funny like that."
+"There is no risk of your head being eaten by a nanotechnological nightmare, "
+"or anything funny like that."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:89
 msgid ""
-"I've used one myself for many years now: no side effects! It works just as gre"
-"at as on the first day!"
+"I've used one myself for many years now: no side effects! It works just as "
+"great as on the first day!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:90
@@ -133,8 +137,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:104
 msgid ""
-"WHAT? Fine, you can forget about my great deals now! I don't want to trade wit"
-"h you anymore!"
+"WHAT? Fine, you can forget about my great deals now! I don't want to trade "
+"with you anymore!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:105
@@ -147,8 +151,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:114
 msgid ""
-"Sure! I also build some electronics devices, depending on what parts I can get"
-" my hands on."
+"Sure! I also build some electronics devices, depending on what parts I can "
+"get my hands on."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:116
@@ -168,7 +172,9 @@ msgid "Just swallow it, and it should work."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:126
-msgid "I give a 30 day warranty and adjustments, in case it doesn't work as expected."
+msgid ""
+"I give a 30 day warranty and adjustments, in case it doesn't work as "
+"expected."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:128
@@ -224,6 +230,6 @@ msgid "I am friendly because I like you."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Skippy.dialog:165
-msgid "Yes, we'll meet again, my friend, and I'll have other great deals for you."
+msgid ""
+"Yes, we'll meet again, my friend, and I'll have other great deals for you."
 msgstr ""
-

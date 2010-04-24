@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:53
@@ -44,8 +44,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:77
 msgid ""
-"The fall of the Red Guard? I am going to report that you are preparing a revol"
-"ution!"
+"The fall of the Red Guard? I am going to report that you are preparing a "
+"revolution!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:79
@@ -54,12 +54,13 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:80
 msgid ""
-"I am not preparing anything. I am just stating what I see as inevitable in the"
-" future."
+"I am not preparing anything. I am just stating what I see as inevitable in "
+"the future."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:81
-msgid "I have taken part in many conflicts and I have seen how governments collapse."
+msgid ""
+"I have taken part in many conflicts and I have seen how governments collapse."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:82
@@ -68,8 +69,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:83
 msgid ""
-"Of course, I am making the assumption of victory, which is highly unlikely wit"
-"h the current state of affairs."
+"Of course, I am making the assumption of victory, which is highly unlikely "
+"with the current state of affairs."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:88
@@ -78,14 +79,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:90
 msgid ""
-"It is not the time to speak of such things yet. Come another day, and we shall"
-" talk about it in more detail."
+"It is not the time to speak of such things yet. Come another day, and we "
+"shall talk about it in more detail."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:91
 msgid ""
-"The Red Guard can have their great laser beams and plasma cannons... But nothi"
-"ng can save them."
+"The Red Guard can have their great laser beams and plasma cannons... But "
+"nothing can save them."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:96
@@ -166,8 +167,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:143
 msgid ""
-"There are not too many bots in the desert, but they are undefeatable. It is be"
-"st to avoid them."
+"There are not too many bots in the desert, but they are undefeatable. It is "
+"best to avoid them."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:144
@@ -192,8 +193,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:155
 msgid ""
-"Their only weak point is their security system. But no one has managed to stay"
-" alive long enough to hack them."
+"Their only weak point is their security system. But no one has managed to "
+"stay alive long enough to hack them."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:160
@@ -214,8 +215,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:170
 msgid ""
-"In any case, I'll let the Red Guard know to open the western gate to the deser"
-"t."
+"In any case, I'll let the Red Guard know to open the western gate to the "
+"desert."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:171
@@ -236,8 +237,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:191
 msgid ""
-"I could not find him anywhere in the desert. I don't think he is there anymore"
-"."
+"I could not find him anywhere in the desert. I don't think he is there "
+"anymore."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:192
@@ -254,8 +255,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:211
 msgid ""
-"Yeah, I got him. Now, what is this big cube that you had me carry all the way "
-"here?"
+"Yeah, I got him. Now, what is this big cube that you had me carry all the "
+"way here?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:213
@@ -264,8 +265,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:214
 msgid ""
-"A little more than a portable end of the world, which I am looking forward to "
-"disassembling and learning its secrets."
+"A little more than a portable end of the world, which I am looking forward "
+"to disassembling and learning its secrets."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:215
@@ -273,19 +274,20 @@ msgid "Nothing that important."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:220
-msgid "A 'few' bots? The place was crawling with Harvesters! I nearly got killed!"
+msgid ""
+"A 'few' bots? The place was crawling with Harvesters! I nearly got killed!"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:222
 msgid ""
-"There were only one hundred and twenty bots in the entire desert region. This "
-"hardly qualifies as many, considering the size of the area."
+"There were only one hundred and twenty bots in the entire desert region. "
+"This hardly qualifies as many, considering the size of the area."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:223
 msgid ""
-"What? You know exactly how many bots were in the desert? Without being there? "
-"I don't like this."
+"What? You know exactly how many bots were in the desert? Without being "
+"there? I don't like this."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:224
@@ -302,8 +304,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:232
 msgid ""
-"Hey, that is really neat. Here is your cube. Enjoy disassembling it and have f"
-"un with it."
+"Hey, that is really neat. Here is your cube. Enjoy disassembling it and have "
+"fun with it."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:234
@@ -382,7 +384,8 @@ msgid "I wish you cold winds."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:290
-msgid "Huh? How do you know the Linarian farewell? No one around here knows it."
+msgid ""
+"Huh? How do you know the Linarian farewell? No one around here knows it."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:291
@@ -396,4 +399,3 @@ msgstr ""
 #: /home/david/src/freedroid-translation/dialogs/Duncan.dialog:299
 msgid "May the ice bring you wisdom."
 msgstr ""
-

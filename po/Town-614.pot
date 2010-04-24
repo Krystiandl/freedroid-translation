@@ -7,7 +7,7 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:35
@@ -16,8 +16,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:37
 msgid ""
-"I am a 614 security bot, once one of the best-selling products of \3Nicholson,"
-" Inc.\2."
+"I am a 614 security bot, once one of the best-selling products of Nicholson, "
+"Inc.."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:41
@@ -25,19 +25,19 @@ msgid "What can you tell me about the Nicholson company?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:43
-msgid "\3Nicholson, Inc.\2 produces security bots."
+msgid "Nicholson, Inc. produces security bots."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:44
 msgid ""
-"It was founded by Karl Nicholson, a former Kernel hacker who was not satisfied"
-" with the development of the GPL license."
+"It was founded by Karl Nicholson, a former Kernel hacker who was not "
+"satisfied with the development of the GPL license."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:45
 msgid ""
-"Nicholson decided to stick to one GPL version because he saw things getting wo"
-"rse."
+"Nicholson decided to stick to one GPL version because he saw things getting "
+"worse."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:46
@@ -50,14 +50,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:48
 msgid ""
-"The Nkernel development team grew fast and technicians started to produce thei"
-"r own droids optimized for the Nkernel."
+"The Nkernel development team grew fast and technicians started to produce "
+"their own droids optimized for the Nkernel."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:49
 msgid ""
-"The Team became a company which released their first security droid, the 610 L"
-"ovely."
+"The Team became a company which released their first security droid, the 610 "
+"Lovely."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:50
@@ -81,7 +81,8 @@ msgid "The official manual classifies the 614 as a high class security droid."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:65
-msgid "It was mainly used within ships to protect certain areas from intruders."
+msgid ""
+"It was mainly used within ships to protect certain areas from intruders."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:66
@@ -98,8 +99,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:74
 msgid ""
-"My orders are to protect the living beings in this camp from attacks by hostil"
-"e bots."
+"My orders are to protect the living beings in this camp from attacks by "
+"hostile bots."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:75
@@ -112,25 +113,25 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:82
 msgid ""
-"I belong to a an older generation of bots, running a custom-made security guar"
-"d operating system."
+"I belong to a an older generation of bots, running a custom-made security "
+"guard operating system."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:83
 msgid ""
-"None of the bots of this generation were affected by the proceedings that led "
-"to bots attacking, generally known as the Great Assault."
+"None of the bots of this generation were affected by the proceedings that "
+"led to bots attacking, generally known as the Great Assault."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:84
 msgid ""
-"Even though discontinued by the \3Nicholson, Inc.\2 long ago, today, some peop"
-"le have picked up the work and are even trying to improve the operating system"
-" running on my series."
+"Even though discontinued by the Nicholson, Inc. long ago, today, some people "
+"have picked up the work and are even trying to improve the operating system "
+"running on my series."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:85
-msgid "Don't forget to buy products from \3Nicholson, Inc.\2. They are the best."
+msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:90
@@ -140,4 +141,3 @@ msgstr ""
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:92
 msgid "Resuming guard program."
 msgstr ""
-

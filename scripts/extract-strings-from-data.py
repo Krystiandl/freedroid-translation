@@ -75,7 +75,7 @@ msgstr ""
 "Last-Translator: \\n"
 "Language-Team: \\n"
 "MIME-Version: 1.0\\n"
-"Content-Type: text/plain; charset=ISO-8859-15\\n"
+"Content-Type: text/plain; charset=UTF-8\\n"
 "Content-Transfer-Encoding: 8bit\\n"\n\n'''% (self.project,
             self.bugs_email, date, date)
         open(filename, 'w').write(s + self.strings.render())
