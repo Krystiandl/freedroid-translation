@@ -29,7 +29,7 @@ git commit -a -m "update of the pot files from the dialogs/ and map/ directory"
 
 # merge the translation with the new pots files
 
-for lang in "fr" "sv" "ru" "de" "bn" "ar" "el" ; do
+for lang in $(cat lang.txt) ; do
 
     echo "For the language ${lang}"
     cd .. ;

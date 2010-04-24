@@ -1,5 +1,6 @@
 #!/bin/sh
-
+# this script upgrade the pot files for the translatable files
+# listed below
 cd .. ;
 
 cd map ;
