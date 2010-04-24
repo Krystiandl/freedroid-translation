@@ -12,69 +12,74 @@ msgstr ""
 "Last-Translator: KiberGus <kibergus@gmail.com>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=cp1251\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:32+0000\n"
 "X-Generator: Launchpad (build Unknown)\n"
 
 #: ../src/automap.c:83
 msgid "Automap ON."
-msgstr "Автокарта ВКЛ."
+msgstr "РђРІС‚РѕРєР°СЂС‚Р° Р’РљР›."
 
 #: ../src/automap.c:85
 msgid "Automap OFF."
-msgstr "Автокарта ВЫКЛ."
+msgstr "РђРІС‚РѕРєР°СЂС‚Р° Р’Р«РљР›."
 
 #: ../src/automap.c:90
 #, fuzzy
 msgid "Compass ON (no automap yet: map maker not present."
-msgstr "Извините, но у вас пока нет автокарты: картосоставитель отсутствует."
+msgstr ""
+"РР·РІРёРЅРёС‚Рµ, РЅРѕ Сѓ РІР°СЃ РїРѕРєР° РЅРµС‚ Р°РІС‚РѕРєР°СЂС‚С‹: РєР°СЂС‚РѕСЃРѕСЃС‚Р°РІРёС‚РµР»СЊ РѕС‚СЃСѓС‚СЃС‚РІСѓРµС‚."
 
 #: ../src/automap.c:92
 #, fuzzy
 msgid "Compass OFF."
-msgstr "Автокарта ВЫКЛ."
+msgstr "РђРІС‚РѕРєР°СЂС‚Р° Р’Р«РљР›."
 
 #: ../src/blocks.c:1577 ../src/blocks.c:1584 ../src/blocks.c:1592
 msgid "Wall"
-msgstr "Стена"
+msgstr "РЎС‚РµРЅР°"
 
 #: ../src/blocks.c:1578 ../src/blocks.c:1585
 #, fuzzy
 msgid "Hey! This looks like...a WALL!"
-msgstr "Эй! Это похоже на... СТЕНУ!"
+msgstr "Р­Р№! Р­С‚Рѕ РїРѕС…РѕР¶Рµ РЅР°... РЎРўР•РќРЈ!"
 
 #: ../src/blocks.c:1594
-msgid "Maybe you could use a door to go out. This wall seems pretty solid."
-msgstr "Возможно вам стоит поискать дверь. Эта стена достаточно тверда."
+msgid ""
+"Maybe you could use a door to go out. This wall seems pretty solid."
+msgstr "Р’РѕР·РјРѕР¶РЅРѕ РІР°Рј СЃС‚РѕРёС‚ РїРѕРёСЃРєР°С‚СЊ РґРІРµСЂСЊ. Р­С‚Р° СЃС‚РµРЅР° РґРѕСЃС‚Р°С‚РѕС‡РЅРѕ С‚РІРµСЂРґР°."
 
 #: ../src/blocks.c:1608 ../src/blocks.c:1619
 msgid "Glass wall"
-msgstr "Стеклянная стена"
+msgstr "РЎС‚РµРєР»СЏРЅРЅР°СЏ СЃС‚РµРЅР°"
 
 #: ../src/blocks.c:1609 ../src/blocks.c:1620
 #, fuzzy
 msgid "A wall made out of glass. It lets the light shine through."
-msgstr "Стеклянная стена, через нее проникает свет."
+msgstr "РЎС‚РµРєР»СЏРЅРЅР°СЏ СЃС‚РµРЅР°, С‡РµСЂРµР· РЅРµРµ РїСЂРѕРЅРёРєР°РµС‚ СЃРІРµС‚."
 
 #: ../src/blocks.c:1630
 msgid "Broken glass wall"
-msgstr "Сломанная стеклянная стена"
+msgstr "РЎР»РѕРјР°РЅРЅР°СЏ СЃС‚РµРєР»СЏРЅРЅР°СЏ СЃС‚РµРЅР°"
 
 #: ../src/blocks.c:1631
 #, fuzzy
 msgid "You can get through the holes, but beware of sharp edges."
-msgstr "Ты можешь пройти через дыру, но остерегайся острых краёв."
+msgstr "РўС‹ РјРѕР¶РµС€СЊ РїСЂРѕР№С‚Рё С‡РµСЂРµР· РґС‹СЂСѓ, РЅРѕ РѕСЃС‚РµСЂРµРіР°Р№СЃСЏ РѕСЃС‚СЂС‹С… РєСЂР°С‘РІ."
 
 #: ../src/blocks.c:1688 ../src/blocks.c:1690
-msgid "Gentle cyan-colored wall with a small window, a delight to the eye"
+msgid ""
+"Gentle cyan-colored wall with a small window, a delight to the eye"
 msgstr ""
 
 #: ../src/blocks.c:1689 ../src/blocks.c:1691 ../src/blocks.c:1693
 #: ../src/blocks.c:1695 ../src/blocks.c:1697 ../src/blocks.c:1699
 #: ../src/blocks.c:1701 ../src/blocks.c:1703
-msgid "Windows, are, besides a famous joke OS trademark, very useful things."
-msgstr "Окна, если не считать знаменитой шуточной ОС, очень хорошая штука."
+msgid ""
+"Windows, are, besides a famous joke OS trademark, very useful things."
+msgstr ""
+"РћРєРЅР°, РµСЃР»Рё РЅРµ СЃС‡РёС‚Р°С‚СЊ Р·РЅР°РјРµРЅРёС‚РѕР№ С€СѓС‚РѕС‡РЅРѕР№ РћРЎ, РѕС‡РµРЅСЊ С…РѕСЂРѕС€Р°СЏ С€С‚СѓРєР°."
 
 #: ../src/blocks.c:1692 ../src/blocks.c:1694
 msgid "Cosy wall in claret-red, with a small window"
@@ -82,8 +87,8 @@ msgstr ""
 
 #: ../src/blocks.c:1696 ../src/blocks.c:1698
 msgid ""
-"Avocado-colored wall with a small window. You start feeling odd as you look "
-"at it"
+"Avocado-colored wall with a small window. You start feeling odd as "
+"you look at it"
 msgstr ""
 
 #: ../src/blocks.c:1700 ../src/blocks.c:1702
@@ -92,207 +97,214 @@ msgstr ""
 
 #: ../src/blocks.c:1737
 msgid "Door"
-msgstr "Дверь"
+msgstr "Р”РІРµСЂСЊ"
 
 #: ../src/blocks.c:1738
-msgid "This is a door. Seems to open automatically when someone approaches."
+msgid ""
+"This is a door. Seems to open automatically when someone approaches."
 msgstr ""
-"Это дверь. Кажись, она открывается автоматически, когда к ней кто-то "
-"приближается."
+"Р­С‚Рѕ РґРІРµСЂСЊ. РљР°Р¶РёСЃСЊ, РѕРЅР° РѕС‚РєСЂС‹РІР°РµС‚СЃСЏ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё, РєРѕРіРґР° Рє РЅРµР№ РєС‚Рѕ-С‚Рѕ "
+"РїСЂРёР±Р»РёР¶Р°РµС‚СЃСЏ."
 
 #: ../src/blocks.c:1772 ../src/blocks.c:1847 ../src/blocks.c:1889
 msgid "Locked door"
-msgstr "Закрытая дверь"
+msgstr "Р—Р°РєСЂС‹С‚Р°СЏ РґРІРµСЂСЊ"
 
 #: ../src/blocks.c:1773 ../src/blocks.c:1848 ../src/blocks.c:1890
 msgid "The red color probably indicates that the door is locked."
-msgstr "Можно предположить, что красный цвет означает, что дверь закрыта."
+msgstr ""
+"РњРѕР¶РЅРѕ РїСЂРµРґРїРѕР»РѕР¶РёС‚СЊ, С‡С‚Рѕ РєСЂР°СЃРЅС‹Р№ С†РІРµС‚ РѕР·РЅР°С‡Р°РµС‚, С‡С‚Рѕ РґРІРµСЂСЊ Р·Р°РєСЂС‹С‚Р°."
 
 #: ../src/blocks.c:1898 ../src/blocks.c:1903
 msgid "Pillar"
-msgstr "Колонна"
+msgstr "РљРѕР»РѕРЅРЅР°"
 
 #: ../src/blocks.c:1899 ../src/blocks.c:1904
 msgid "A pillar made out of gray concrete."
-msgstr "Колонна из серого бетона."
+msgstr "РљРѕР»РѕРЅРЅР° РёР· СЃРµСЂРѕРіРѕ Р±РµС‚РѕРЅР°."
 
 #: ../src/blocks.c:1913 ../src/blocks.c:1919 ../src/blocks.c:1925
 #: ../src/blocks.c:1931
 msgid "Supercluster terminal"
-msgstr "Терминал большого кластера"
+msgstr "РўРµСЂРјРёРЅР°Р» Р±РѕР»СЊС€РѕРіРѕ РєР»Р°СЃС‚РµСЂР°"
 
 #: ../src/blocks.c:1914 ../src/blocks.c:1920 ../src/blocks.c:1926
 #: ../src/blocks.c:1932
 msgid ""
-"This is a small part of a gigantic computer cluster, maybe many square miles "
-"large..."
+"This is a small part of a gigantic computer cluster, maybe many "
+"square miles large..."
 msgstr ""
-"Это малая часть огромного компьтерного кластера, возможно простирающегося на "
-"много километров."
+"Р­С‚Рѕ РјР°Р»Р°СЏ С‡Р°СЃС‚СЊ РѕРіСЂРѕРјРЅРѕРіРѕ РєРѕРјРїСЊС‚РµСЂРЅРѕРіРѕ РєР»Р°СЃС‚РµСЂР°, РІРѕР·РјРѕР¶РЅРѕ "
+"РїСЂРѕСЃС‚РёСЂР°СЋС‰РµРіРѕСЃСЏ РЅР° РјРЅРѕРіРѕ РєРёР»РѕРјРµС‚СЂРѕРІ."
 
 #: ../src/blocks.c:1941 ../src/blocks.c:1948 ../src/blocks.c:1955
 #: ../src/blocks.c:1962
 msgid "Ray emitter"
-msgstr "Излучатель"
+msgstr "РР·Р»СѓС‡Р°С‚РµР»СЊ"
 
 #: ../src/blocks.c:1942 ../src/blocks.c:1949 ../src/blocks.c:1956
 #: ../src/blocks.c:1963
 msgid "It appears to be in \"standby\" mode."
-msgstr "Кажется оно в \"ждущем\" режиме."
+msgstr "РљР°Р¶РµС‚СЃСЏ РѕРЅРѕ РІ \"Р¶РґСѓС‰РµРј\" СЂРµР¶РёРјРµ."
 
 #: ../src/blocks.c:1990 ../src/blocks.c:1991 ../src/blocks.c:1992
 #: ../src/blocks.c:1993 ../src/blocks.c:1994
 msgid "Droid nest"
-msgstr "Гнездо для дроида"
+msgstr "Р“РЅРµР·РґРѕ РґР»СЏ РґСЂРѕРёРґР°"
 
 #: ../src/blocks.c:1995 ../src/blocks.c:1996 ../src/blocks.c:1997
 #: ../src/blocks.c:1998 ../src/blocks.c:1999
 #, fuzzy
 msgid ""
-"A droid service station, also called 'droid nest'. You suppose it's of no "
-"use for your quest."
+"A droid service station, also called 'droid nest'. You suppose it's "
+"of no use for your quest."
 msgstr ""
-"Гнездо для сервисного обслуживания дроида. Для твоей высокой миссии оно "
-"бесполезно."
+"Р“РЅРµР·РґРѕ РґР»СЏ СЃРµСЂРІРёСЃРЅРѕРіРѕ РѕР±СЃР»СѓР¶РёРІР°РЅРёСЏ РґСЂРѕРёРґР°. Р”Р»СЏ С‚РІРѕРµР№ РІС‹СЃРѕРєРѕР№ РјРёСЃСЃРёРё "
+"РѕРЅРѕ Р±РµСЃРїРѕР»РµР·РЅРѕ."
 
 #: ../src/blocks.c:2028 ../src/blocks.c:2038 ../src/blocks.c:2047
 #: ../src/blocks.c:2056
 msgid "Chest"
-msgstr "Сундук"
+msgstr "РЎСѓРЅРґСѓРє"
 
 #: ../src/blocks.c:2029 ../src/blocks.c:2048
 #, fuzzy
 msgid "This chest has already been opened."
-msgstr "Этот сундук уже открыт"
+msgstr "Р­С‚РѕС‚ СЃСѓРЅРґСѓРє СѓР¶Рµ РѕС‚РєСЂС‹С‚"
 
 #: ../src/blocks.c:2039 ../src/blocks.c:2057
 msgid "This chest is closed."
-msgstr "Сундук закрыт."
+msgstr "РЎСѓРЅРґСѓРє Р·Р°РєСЂС‹С‚."
 
 #: ../src/blocks.c:2063 ../src/blocks.c:2069 ../src/blocks.c:2075
 #: ../src/blocks.c:2081 ../src/blocks.c:2088 ../src/blocks.c:2094
 #: ../src/blocks.c:2100 ../src/blocks.c:2106
 msgid "Autogun"
-msgstr "Автопушка"
+msgstr "РђРІС‚РѕРїСѓС€РєР°"
 
 #: ../src/blocks.c:2064 ../src/blocks.c:2070 ../src/blocks.c:2076
 #: ../src/blocks.c:2082
 #, fuzzy
 msgid "A not-that-nice autogun. Beware: it could be harmful."
-msgstr "Отнюдь не приятная автопушка. Окуратней: она может быть весьма опасна."
+msgstr ""
+"РћС‚РЅСЋРґСЊ РЅРµ РїСЂРёСЏС‚РЅР°СЏ Р°РІС‚РѕРїСѓС€РєР°. РћРєСѓСЂР°С‚РЅРµР№: РѕРЅР° РјРѕР¶РµС‚ Р±С‹С‚СЊ РІРµСЃСЊРјР° РѕРїР°СЃРЅР°."
 
 #: ../src/blocks.c:2089
 msgid "A not-that-nice autogun. It seems disabled for now."
-msgstr "Отнюдь не приятная автопушка. Окуратней: пока она отключена."
+msgstr "РћС‚РЅСЋРґСЊ РЅРµ РїСЂРёСЏС‚РЅР°СЏ Р°РІС‚РѕРїСѓС€РєР°. РћРєСѓСЂР°С‚РЅРµР№: РїРѕРєР° РѕРЅР° РѕС‚РєР»СЋС‡РµРЅР°."
 
 #: ../src/blocks.c:2095
 msgid "This killing machine is disabled. For now."
-msgstr "Эта мясорубка бездействует. пока..."
+msgstr "Р­С‚Р° РјСЏСЃРѕСЂСѓР±РєР° Р±РµР·РґРµР№СЃС‚РІСѓРµС‚. РїРѕРєР°..."
 
 #: ../src/blocks.c:2101
 msgid ""
-"It is looking at you. You are sure it is looking at you. But it does not "
-"fire. For now."
+"It is looking at you. You are sure it is looking at you. But it does "
+"not fire. For now."
 msgstr ""
-"Оно на тебя смотрит. Ты можешь покласться, что оно на тебя смотрит. Но не "
-"стреляет. Пока не стреляет."
+"РћРЅРѕ РЅР° С‚РµР±СЏ СЃРјРѕС‚СЂРёС‚. РўС‹ РјРѕР¶РµС€СЊ РїРѕРєР»Р°СЃС‚СЊСЃСЏ, С‡С‚Рѕ РѕРЅРѕ РЅР° С‚РµР±СЏ СЃРјРѕС‚СЂРёС‚. "
+"РќРѕ РЅРµ СЃС‚СЂРµР»СЏРµС‚. РџРѕРєР° РЅРµ СЃС‚СЂРµР»СЏРµС‚."
 
 #: ../src/blocks.c:2107
 msgid "The autogun is disabled."
-msgstr "Автопушка отключена."
+msgstr "РђРІС‚РѕРїСѓС€РєР° РѕС‚РєР»СЋС‡РµРЅР°."
 
 #: ../src/blocks.c:2113 ../src/blocks.c:2119 ../src/blocks.c:2125
 #: ../src/blocks.c:2131 ../src/blocks.c:2137 ../src/blocks.c:2143
 msgid "Rock barrier"
-msgstr "Каменная стена"
+msgstr "РљР°РјРµРЅРЅР°СЏ СЃС‚РµРЅР°"
 
 #: ../src/blocks.c:2114 ../src/blocks.c:2120 ../src/blocks.c:2126
 #: ../src/blocks.c:2132 ../src/blocks.c:2138 ../src/blocks.c:2144
-msgid "It's been lasting for millennia. It will last you. Find another path."
+msgid ""
+"It's been lasting for millennia. It will last you. Find another path."
 msgstr ""
 
 #: ../src/blocks.c:2152
 msgid "Cooking pot"
-msgstr "Кастрюля"
+msgstr "РљР°СЃС‚СЂСЋР»СЏ"
 
 #: ../src/blocks.c:2153
 #, fuzzy
 msgid ""
-"This cauldron can be used for many good things. Cooking beef or pork for "
-"dinner are some of them. It can also be used for many evil things. Preparing "
-"Linarians for lunch is one of them."
+"This cauldron can be used for many good things. Cooking beef or pork "
+"for dinner are some of them. It can also be used for many evil "
+"things. Preparing Linarians for lunch is one of them."
 msgstr ""
-"Этот котелок можно использовать для многих хороших вещей. Можно приготовить "
-"говядину или свинину. Впрочем, его можно использовать и во вред, например "
-"для варки пингвинятины."
+"Р­С‚РѕС‚ РєРѕС‚РµР»РѕРє РјРѕР¶РЅРѕ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ РґР»СЏ РјРЅРѕРіРёС… С…РѕСЂРѕС€РёС… РІРµС‰РµР№. РњРѕР¶РЅРѕ "
+"РїСЂРёРіРѕС‚РѕРІРёС‚СЊ РіРѕРІСЏРґРёРЅСѓ РёР»Рё СЃРІРёРЅРёРЅСѓ. Р’РїСЂРѕС‡РµРј, РµРіРѕ РјРѕР¶РЅРѕ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ Рё "
+"РІРѕ РІСЂРµРґ, РЅР°РїСЂРёРјРµСЂ РґР»СЏ РІР°СЂРєРё РїРёРЅРіРІРёРЅСЏС‚РёРЅС‹."
 
 #: ../src/blocks.c:2160 ../src/blocks.c:2168 ../src/blocks.c:2176
 #: ../src/blocks.c:2184
 msgid "Terminal"
-msgstr "Терминал"
+msgstr "РўРµСЂРјРёРЅР°Р»"
 
 #: ../src/blocks.c:2161 ../src/blocks.c:2169 ../src/blocks.c:2177
 #: ../src/blocks.c:2185
 #, fuzzy
 msgid "This is a Terminus 2 data terminal. Made by Parafunken."
-msgstr "Терминал Terminus 2 от Parafunken."
+msgstr "РўРµСЂРјРёРЅР°Р» Terminus 2 РѕС‚ Parafunken."
 
 #: ../src/blocks.c:2191 ../src/blocks.c:2197
 msgid "Barrel"
-msgstr "Бочка"
+msgstr "Р‘РѕС‡РєР°"
 
 #: ../src/blocks.c:2192
 msgid "A painted barrel, protected from rust."
-msgstr "Окрашенная бочка, не ржавеет."
+msgstr "РћРєСЂР°С€РµРЅРЅР°СЏ Р±РѕС‡РєР°, РЅРµ СЂР¶Р°РІРµРµС‚."
 
 #: ../src/blocks.c:2198
 msgid "A rusty barrel."
-msgstr "Прогнившая бочка."
+msgstr "РџСЂРѕРіРЅРёРІС€Р°СЏ Р±РѕС‡РєР°."
 
 #: ../src/blocks.c:2204 ../src/blocks.c:2210
 msgid "Wooden crate"
-msgstr "Деревянный ящик"
+msgstr "Р”РµСЂРµРІСЏРЅРЅС‹Р№ СЏС‰РёРє"
 
 #: ../src/blocks.c:2205
 #, fuzzy
 msgid ""
-"This is a big wooden crate that could contain many interesting things. Or "
-"not."
+"This is a big wooden crate that could contain many interesting "
+"things. Or not."
 msgstr ""
-"Это большой деревянный ящик в котором лежит много вкусняшек. Или не лежит."
+"Р­С‚Рѕ Р±РѕР»СЊС€РѕР№ РґРµСЂРµРІСЏРЅРЅС‹Р№ СЏС‰РёРє РІ РєРѕС‚РѕСЂРѕРј Р»РµР¶РёС‚ РјРЅРѕРіРѕ РІРєСѓСЃРЅСЏС€РµРє. РР»Рё РЅРµ "
+"Р»РµР¶РёС‚."
 
 #: ../src/blocks.c:2211
 #, fuzzy
 msgid ""
-"This is a wooden crate that could contain many interesting things. Or not."
+"This is a wooden crate that could contain many interesting things. Or "
+"not."
 msgstr ""
-"Это деревянный ящик набитый интересненькими вещицами, а может быть и нет."
+"Р­С‚Рѕ РґРµСЂРµРІСЏРЅРЅС‹Р№ СЏС‰РёРє РЅР°Р±РёС‚С‹Р№ РёРЅС‚РµСЂРµСЃРЅРµРЅСЊРєРёРјРё РІРµС‰РёС†Р°РјРё, Р° РјРѕР¶РµС‚ Р±С‹С‚СЊ Рё "
+"РЅРµС‚."
 
 #: ../src/blocks.c:2224 ../src/blocks.c:2233 ../src/blocks.c:2242
 #: ../src/blocks.c:2251
 msgid "Room lamp"
-msgstr "Комнатная лампа"
+msgstr "РљРѕРјРЅР°С‚РЅР°СЏ Р»Р°РјРїР°"
 
 #: ../src/blocks.c:2225
 msgid "This is a charming room lamp."
-msgstr "Эта лампа добавит уют в любую комнату."
+msgstr "Р­С‚Р° Р»Р°РјРїР° РґРѕР±Р°РІРёС‚ СѓСЋС‚ РІ Р»СЋР±СѓСЋ РєРѕРјРЅР°С‚Сѓ."
 
 #: ../src/blocks.c:2234
 msgid "This is a wonderful room lamp."
-msgstr "Замечательная комнатная лампа."
+msgstr "Р—Р°РјРµС‡Р°С‚РµР»СЊРЅР°СЏ РєРѕРјРЅР°С‚РЅР°СЏ Р»Р°РјРїР°."
 
 #: ../src/blocks.c:2243
 msgid "This is a great room lamp."
-msgstr "Отличная напольная лампа."
+msgstr "РћС‚Р»РёС‡РЅР°СЏ РЅР°РїРѕР»СЊРЅР°СЏ Р»Р°РјРїР°."
 
 #: ../src/blocks.c:2252
 msgid "This is a perfect room lamp."
-msgstr "Первоклассная напольная лампа без малейших изъянов."
+msgstr "РџРµСЂРІРѕРєР»Р°СЃСЃРЅР°СЏ РЅР°РїРѕР»СЊРЅР°СЏ Р»Р°РјРїР° Р±РµР· РјР°Р»РµР№С€РёС… РёР·СЉСЏРЅРѕРІ."
 
 #: ../src/blocks.c:2270 ../src/blocks.c:2299
 #, fuzzy
 msgid "Wooden fence"
-msgstr "Деревянный ящик"
+msgstr "Р”РµСЂРµРІСЏРЅРЅС‹Р№ СЏС‰РёРє"
 
 #: ../src/blocks.c:2271 ../src/blocks.c:2300
 msgid "You're staring at a wooden fence. You see no gap here..."
@@ -304,45 +316,46 @@ msgstr ""
 
 #: ../src/blocks.c:2277 ../src/blocks.c:2308
 msgid ""
-"You're staring at a massive wooden fence. You Keep staring. You see no gap "
-"here..."
+"You're staring at a massive wooden fence. You Keep staring. You see "
+"no gap here..."
 msgstr ""
 
 #: ../src/blocks.c:2285 ../src/blocks.c:2293 ../src/blocks.c:2316
 #: ../src/blocks.c:2324
 msgid "Fence"
-msgstr "Ограда"
+msgstr "РћРіСЂР°РґР°"
 
 #: ../src/blocks.c:2286 ../src/blocks.c:2317
 msgid ""
-"This type of a barrier constructed out of wire is called mesh wire fence."
+"This type of a barrier constructed out of wire is called mesh wire "
+"fence."
 msgstr ""
 
 #: ../src/blocks.c:2294 ../src/blocks.c:2325
 msgid ""
-"This type of a barrier constructed out of wire is called the chain link "
-"fence."
+"This type of a barrier constructed out of wire is called the chain "
+"link fence."
 msgstr ""
 
 #: ../src/blocks.c:2334 ../src/blocks.c:2343 ../src/blocks.c:2350
 #: ../src/blocks.c:2357
 msgid "Small toilet"
-msgstr "Маленький туалет"
+msgstr "РњР°Р»РµРЅСЊРєРёР№ С‚СѓР°Р»РµС‚"
 
 #: ../src/blocks.c:2335 ../src/blocks.c:2344 ../src/blocks.c:2351
 #: ../src/blocks.c:2358
 msgid "Smells good."
-msgstr "Хорошо пахнет."
+msgstr "РҐРѕСЂРѕС€Рѕ РїР°С…РЅРµС‚."
 
 #: ../src/blocks.c:2384 ../src/blocks.c:2386 ../src/blocks.c:2388
 #: ../src/blocks.c:2390
 msgid "Toilet"
-msgstr "Туалет"
+msgstr "РўСѓР°Р»РµС‚"
 
 #: ../src/blocks.c:2385
 #, fuzzy
 msgid "Feel like defecating?"
-msgstr "Покакать захотелось?"
+msgstr "РџРѕРєР°РєР°С‚СЊ Р·Р°С…РѕС‚РµР»РѕСЃСЊ?"
 
 #: ../src/blocks.c:2387
 msgid "Do what you must."
@@ -350,71 +363,72 @@ msgstr ""
 
 #: ../src/blocks.c:2389
 msgid "Yes, they are clean."
-msgstr "Да, они чистые."
+msgstr "Р”Р°, РѕРЅРё С‡РёСЃС‚С‹Рµ."
 
 #: ../src/blocks.c:2391
 #, fuzzy
 msgid "Would you have something to empty?"
-msgstr "У вас не найдется чего-нибудь опустошить?"
+msgstr "РЈ РІР°СЃ РЅРµ РЅР°Р№РґРµС‚СЃСЏ С‡РµРіРѕ-РЅРёР±СѓРґСЊ РѕРїСѓСЃС‚РѕС€РёС‚СЊ?"
 
 #: ../src/blocks.c:2399 ../src/blocks.c:2407 ../src/blocks.c:2415
 #: ../src/blocks.c:2423
 msgid "Chair"
-msgstr "Стул"
+msgstr "РЎС‚СѓР»"
 
 #: ../src/blocks.c:2400 ../src/blocks.c:2408 ../src/blocks.c:2416
 #, fuzzy
 msgid "This is an orange chair which does not look too comfortable."
-msgstr "Оранжевый стул. Я бы не сказал, что он удобен."
+msgstr "РћСЂР°РЅР¶РµРІС‹Р№ СЃС‚СѓР». РЇ Р±С‹ РЅРµ СЃРєР°Р·Р°Р», С‡С‚Рѕ РѕРЅ СѓРґРѕР±РµРЅ."
 
 #: ../src/blocks.c:2424
 msgid "This is an orange chair which does not look too comfortable"
-msgstr "Оранжевый стул. Я бы не сказал, что он удобен."
+msgstr "РћСЂР°РЅР¶РµРІС‹Р№ СЃС‚СѓР». РЇ Р±С‹ РЅРµ СЃРєР°Р·Р°Р», С‡С‚Рѕ РѕРЅ СѓРґРѕР±РµРЅ."
 
 #: ../src/blocks.c:2432 ../src/blocks.c:2441 ../src/blocks.c:2450
 #: ../src/blocks.c:2459
 msgid "Sofa"
-msgstr "Софа"
+msgstr "РЎРѕС„Р°"
 
 #: ../src/blocks.c:2433 ../src/blocks.c:2442 ../src/blocks.c:2451
 #: ../src/blocks.c:2460
 msgid "A soft red sofa."
-msgstr "Мягкий красный диван."
+msgstr "РњСЏРіРєРёР№ РєСЂР°СЃРЅС‹Р№ РґРёРІР°РЅ."
 
 #: ../src/blocks.c:2468 ../src/blocks.c:2477 ../src/blocks.c:2486
 #: ../src/blocks.c:2495
 #, fuzzy
 msgid "Lounge"
-msgstr "Касса"
+msgstr "РљР°СЃСЃР°"
 
 #: ../src/blocks.c:2469 ../src/blocks.c:2478 ../src/blocks.c:2487
 #: ../src/blocks.c:2496
 msgid ""
-"Part of an obviously very expensive brown leather lounge. Looks not overly "
-"comfortable, though."
+"Part of an obviously very expensive brown leather lounge. Looks not "
+"overly comfortable, though."
 msgstr ""
 
 #: ../src/blocks.c:2504 ../src/blocks.c:2513 ../src/blocks.c:2522
 #: ../src/blocks.c:2531
 msgid "Plant"
-msgstr "Растение"
+msgstr "Р Р°СЃС‚РµРЅРёРµ"
 
 #: ../src/blocks.c:2505 ../src/blocks.c:2514 ../src/blocks.c:2523
 #: ../src/blocks.c:2532
 msgid ""
-"After all the humans are killed by the bots, only plants like this one will "
-"remain."
-msgstr "Когда боты перебьют всех людей, только растения вроде этого останутся."
+"After all the humans are killed by the bots, only plants like this "
+"one will remain."
+msgstr ""
+"РљРѕРіРґР° Р±РѕС‚С‹ РїРµСЂРµР±СЊСЋС‚ РІСЃРµС… Р»СЋРґРµР№, С‚РѕР»СЊРєРѕ СЂР°СЃС‚РµРЅРёСЏ РІСЂРѕРґРµ СЌС‚РѕРіРѕ РѕСЃС‚Р°РЅСѓС‚СЃСЏ."
 
 #: ../src/blocks.c:2540 ../src/blocks.c:2548 ../src/blocks.c:2556
 #: ../src/blocks.c:2564
 msgid "Desk"
-msgstr "Рабочий стол"
+msgstr "Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»"
 
 #: ../src/blocks.c:2541 ../src/blocks.c:2549 ../src/blocks.c:2557
 #: ../src/blocks.c:2565
 msgid "This desk is designed to handle extreme loads of office work."
-msgstr "Этот стол должен выдерживать кучи офисной работы."
+msgstr "Р­С‚РѕС‚ СЃС‚РѕР» РґРѕР»Р¶РµРЅ РІС‹РґРµСЂР¶РёРІР°С‚СЊ РєСѓС‡Рё РѕС„РёСЃРЅРѕР№ СЂР°Р±РѕС‚С‹."
 
 #: ../src/blocks.c:2572 ../src/blocks.c:2579 ../src/blocks.c:2586
 #: ../src/blocks.c:2593
@@ -429,7 +443,7 @@ msgstr ""
 #: ../src/blocks.c:2601 ../src/blocks.c:2608 ../src/blocks.c:2615
 #: ../src/blocks.c:2622
 msgid "Bed"
-msgstr "Кровать"
+msgstr "РљСЂРѕРІР°С‚СЊ"
 
 #: ../src/blocks.c:2602 ../src/blocks.c:2609 ../src/blocks.c:2616
 #: ../src/blocks.c:2623
@@ -439,34 +453,35 @@ msgstr ""
 #: ../src/blocks.c:2630 ../src/blocks.c:2637 ../src/blocks.c:2644
 #: ../src/blocks.c:2651
 msgid "Bench"
-msgstr "Скамейка"
+msgstr "РЎРєР°РјРµР№РєР°"
 
 #: ../src/blocks.c:2631 ../src/blocks.c:2638 ../src/blocks.c:2645
 #: ../src/blocks.c:2652
 msgid "A simple white bench."
-msgstr "Обычная простенькая белая скамейка."
+msgstr "РћР±С‹С‡РЅР°СЏ РїСЂРѕСЃС‚РµРЅСЊРєР°СЏ Р±РµР»Р°СЏ СЃРєР°РјРµР№РєР°."
 
 #: ../src/blocks.c:2660 ../src/blocks.c:2668 ../src/blocks.c:2677
 #: ../src/blocks.c:2686
 msgid "Bath tub"
-msgstr "Ванна"
+msgstr "Р’Р°РЅРЅР°"
 
 #: ../src/blocks.c:2661
 #, fuzzy
 msgid "An idea of what comfort is."
-msgstr "Воплощение комфорта"
+msgstr "Р’РѕРїР»РѕС‰РµРЅРёРµ РєРѕРјС„РѕСЂС‚Р°"
 
 #: ../src/blocks.c:2669 ../src/blocks.c:2678 ../src/blocks.c:2687
 #, fuzzy
 msgid "Taking a bath is not your current quest - what a pity!"
-msgstr "К сожалению тебе сейчас не до ванной, как жаль!"
+msgstr "Рљ СЃРѕР¶Р°Р»РµРЅРёСЋ С‚РµР±Рµ СЃРµР№С‡Р°СЃ РЅРµ РґРѕ РІР°РЅРЅРѕР№, РєР°Рє Р¶Р°Р»СЊ!"
 
 #: ../src/blocks.c:2694 ../src/blocks.c:2702
 msgid "Washing tub"
 msgstr ""
 
 #: ../src/blocks.c:2695 ../src/blocks.c:2703
-msgid "A metal tub. The washing machine of the post-assault 21st century."
+msgid ""
+"A metal tub. The washing machine of the post-assault 21st century."
 msgstr ""
 
 #: ../src/blocks.c:2709 ../src/blocks.c:2715
@@ -481,22 +496,22 @@ msgstr ""
 #: ../src/blocks.c:2744
 #, fuzzy
 msgid "Small sofa"
-msgstr "Маленький туалет"
+msgstr "РњР°Р»РµРЅСЊРєРёР№ С‚СѓР°Р»РµС‚"
 
 #: ../src/blocks.c:2724 ../src/blocks.c:2731 ../src/blocks.c:2738
 #: ../src/blocks.c:2745
 #, fuzzy
 msgid "A small white leather sofa."
-msgstr "Обычная простенькая белая скамейка."
+msgstr "РћР±С‹С‡РЅР°СЏ РїСЂРѕСЃС‚РµРЅСЊРєР°СЏ Р±РµР»Р°СЏ СЃРєР°РјРµР№РєР°."
 
 #: ../src/blocks.c:2751
 msgid "Tree"
-msgstr "Дерево"
+msgstr "Р”РµСЂРµРІРѕ"
 
 #: ../src/blocks.c:2752
 #, fuzzy
 msgid "This tree seems quite ordinary."
-msgstr "Это дерево выглядит вполне нормальным"
+msgstr "Р­С‚Рѕ РґРµСЂРµРІРѕ РІС‹РіР»СЏРґРёС‚ РІРїРѕР»РЅРµ РЅРѕСЂРјР°Р»СЊРЅС‹Рј"
 
 #: ../src/blocks.c:2757
 msgid "Young tree"
@@ -505,12 +520,12 @@ msgstr ""
 #: ../src/blocks.c:2758
 #, fuzzy
 msgid "This is a nice young tree."
-msgstr "Это хорошее дерево"
+msgstr "Р­С‚Рѕ С…РѕСЂРѕС€РµРµ РґРµСЂРµРІРѕ"
 
 #: ../src/blocks.c:2763
 #, fuzzy
 msgid "Healthy tree"
-msgstr "Здоровье"
+msgstr "Р—РґРѕСЂРѕРІСЊРµ"
 
 #: ../src/blocks.c:2764
 msgid "Yes, you are sure. A tree. It appears quite healthy."
@@ -522,16 +537,16 @@ msgstr ""
 
 #: ../src/blocks.c:2771
 msgid "This tree does not look too healthy."
-msgstr "Кажется это дерево приболело"
+msgstr "РљР°Р¶РµС‚СЃСЏ СЌС‚Рѕ РґРµСЂРµРІРѕ РїСЂРёР±РѕР»РµР»Рѕ"
 
 #: ../src/blocks.c:2777
 #, fuzzy
 msgid "Strange tree"
-msgstr "Сила"
+msgstr "РЎРёР»Р°"
 
 #: ../src/blocks.c:2778
 msgid "For some strange reason this tree has blue leaves."
-msgstr "По неизвестным науке причинам у этого дерева синие листья."
+msgstr "РџРѕ РЅРµРёР·РІРµСЃС‚РЅС‹Рј РЅР°СѓРєРµ РїСЂРёС‡РёРЅР°Рј Сѓ СЌС‚РѕРіРѕ РґРµСЂРµРІР° СЃРёРЅРёРµ Р»РёСЃС‚СЊСЏ."
 
 #: ../src/blocks.c:2788 ../src/blocks.c:2795 ../src/blocks.c:2802
 #: ../src/blocks.c:2808 ../src/blocks.c:2814 ../src/blocks.c:2820
@@ -539,53 +554,53 @@ msgstr "По неизвестным науке причинам у этого дерева синие листья."
 #: ../src/blocks.c:2844
 #, fuzzy
 msgid "Sturdy wall"
-msgstr "Крепкая стена"
+msgstr "РљСЂРµРїРєР°СЏ СЃС‚РµРЅР°"
 
 #: ../src/blocks.c:2789 ../src/blocks.c:2796 ../src/blocks.c:2803
 #: ../src/blocks.c:2809 ../src/blocks.c:2815 ../src/blocks.c:2821
 #: ../src/blocks.c:2827 ../src/blocks.c:2833 ../src/blocks.c:2839
 #: ../src/blocks.c:2845
 msgid ""
-"This is a stylish and sturdy wall. Both appealing to the eye and appalling "
-"for vandals."
+"This is a stylish and sturdy wall. Both appealing to the eye and "
+"appalling for vandals."
 msgstr ""
 
 #: ../src/blocks.c:2895
 #, fuzzy
 msgid "Restaurant furniture"
-msgstr "Ресторанные полки"
+msgstr "Р РµСЃС‚РѕСЂР°РЅРЅС‹Рµ РїРѕР»РєРё"
 
 #: ../src/blocks.c:2896
 msgid "This is but standard restaurant furniture."
-msgstr "Обычная ресторанная мебель"
+msgstr "РћР±С‹С‡РЅР°СЏ СЂРµСЃС‚РѕСЂР°РЅРЅР°СЏ РјРµР±РµР»СЊ"
 
 #: ../src/blocks.c:2905 ../src/blocks.c:2911 ../src/blocks.c:2917
 #: ../src/blocks.c:2923
 msgid "Rock wall"
-msgstr "Каменная стена"
+msgstr "РљР°РјРµРЅРЅР°СЏ СЃС‚РµРЅР°"
 
 #: ../src/blocks.c:2906 ../src/blocks.c:2912 ../src/blocks.c:2918
 #: ../src/blocks.c:2924
 msgid ""
-"Created eons ago. Maybe lasting for some more, if there are no humans left "
-"on the planet."
+"Created eons ago. Maybe lasting for some more, if there are no humans "
+"left on the planet."
 msgstr ""
 
 #: ../src/blocks.c:2946 ../src/blocks.c:2947 ../src/blocks.c:2948
 #: ../src/blocks.c:2949
 msgid "Grey wall"
-msgstr "Серая стена"
+msgstr "РЎРµСЂР°СЏ СЃС‚РµРЅР°"
 
 #: ../src/blocks.c:2950 ../src/blocks.c:2951 ../src/blocks.c:2952
 #: ../src/blocks.c:2953
 #, fuzzy
 msgid ""
-"This is grey and seems quite hard to destroy. People usually call it a wall. "
-"You have no chance to go through: there must be another path."
+"This is grey and seems quite hard to destroy. People usually call it "
+"a wall. You have no chance to go through: there must be another path."
 msgstr ""
-"Оно серое и кажется разрушить его нелегко. Люди обычно называют это стеной. "
-"Даже не стоит пройти насквозь: должен быть какой-то другой способ попасть на "
-"ту сторону."
+"РћРЅРѕ СЃРµСЂРѕРµ Рё РєР°Р¶РµС‚СЃСЏ СЂР°Р·СЂСѓС€РёС‚СЊ РµРіРѕ РЅРµР»РµРіРєРѕ. Р›СЋРґРё РѕР±С‹С‡РЅРѕ РЅР°Р·С‹РІР°СЋС‚ СЌС‚Рѕ "
+"СЃС‚РµРЅРѕР№. Р”Р°Р¶Рµ РЅРµ СЃС‚РѕРёС‚ РїСЂРѕР№С‚Рё РЅР°СЃРєРІРѕР·СЊ: РґРѕР»Р¶РµРЅ Р±С‹С‚СЊ РєР°РєРѕР№-С‚Рѕ РґСЂСѓРіРѕР№ "
+"СЃРїРѕСЃРѕР± РїРѕРїР°СЃС‚СЊ РЅР° С‚Сѓ СЃС‚РѕСЂРѕРЅСѓ."
 
 #: ../src/blocks.c:2970 ../src/blocks.c:2977 ../src/blocks.c:2984
 #: ../src/blocks.c:2991
@@ -595,73 +610,74 @@ msgstr ""
 #: ../src/blocks.c:2971 ../src/blocks.c:2978 ../src/blocks.c:2985
 #: ../src/blocks.c:2992
 msgid ""
-"You remember the days when you had to stand in the corner. This wall could "
-"use a tag."
+"You remember the days when you had to stand in the corner. This wall "
+"could use a tag."
 msgstr ""
 
 #: ../src/blocks.c:3003 ../src/blocks.c:3011
 msgid "Green wall"
-msgstr "Зеленая стена"
+msgstr "Р—РµР»РµРЅР°СЏ СЃС‚РµРЅР°"
 
 #: ../src/blocks.c:3004 ../src/blocks.c:3012
 #, fuzzy
 msgid ""
-"This wall is covered by an avocado-green wallpaper. You feel nausea when "
-"staring at it too long."
-msgstr "Эта стена покрыта зелеными обоями"
+"This wall is covered by an avocado-green wallpaper. You feel nausea "
+"when staring at it too long."
+msgstr "Р­С‚Р° СЃС‚РµРЅР° РїРѕРєСЂС‹С‚Р° Р·РµР»РµРЅС‹РјРё РѕР±РѕСЏРјРё"
 
 #: ../src/blocks.c:3019 ../src/blocks.c:3027 ../src/blocks.c:3035
 #: ../src/blocks.c:3043
 msgid "Groovy wall"
-msgstr "Прикольная стена"
+msgstr "РџСЂРёРєРѕР»СЊРЅР°СЏ СЃС‚РµРЅР°"
 
 #: ../src/blocks.c:3020 ../src/blocks.c:3028 ../src/blocks.c:3036
 #: ../src/blocks.c:3044
 msgid "Man, dig that groovy wallpaper. It's a real blast!"
-msgstr "Чувак, глянь на эти прикольные обоины, да это просто улет!"
+msgstr "Р§СѓРІР°Рє, РіР»СЏРЅСЊ РЅР° СЌС‚Рё РїСЂРёРєРѕР»СЊРЅС‹Рµ РѕР±РѕРёРЅС‹, РґР° СЌС‚Рѕ РїСЂРѕСЃС‚Рѕ СѓР»РµС‚!"
 
 #: ../src/blocks.c:3124
 #, fuzzy
 msgid "Brick wall with wires"
-msgstr "Кирпичная стена"
+msgstr "РљРёСЂРїРёС‡РЅР°СЏ СЃС‚РµРЅР°"
 
 #: ../src/blocks.c:3125
 #, fuzzy
-msgid "A badly constructed brick wall. This one has wires installed to it."
+msgid ""
+"A badly constructed brick wall. This one has wires installed to it."
 msgstr ""
-"Плохо сложенная кирпичная стена. Кажется, будто её строили в спешке. "
-"Впрочем, цвет довольно приятный."
+"РџР»РѕС…Рѕ СЃР»РѕР¶РµРЅРЅР°СЏ РєРёСЂРїРёС‡РЅР°СЏ СЃС‚РµРЅР°. РљР°Р¶РµС‚СЃСЏ, Р±СѓРґС‚Рѕ РµС‘ СЃС‚СЂРѕРёР»Рё РІ СЃРїРµС€РєРµ. "
+"Р’РїСЂРѕС‡РµРј, С†РІРµС‚ РґРѕРІРѕР»СЊРЅРѕ РїСЂРёСЏС‚РЅС‹Р№."
 
 #: ../src/blocks.c:3159 ../src/blocks.c:3229 ../src/blocks.c:3237
 msgid "Brick wall"
-msgstr "Кирпичная стена"
+msgstr "РљРёСЂРїРёС‡РЅР°СЏ СЃС‚РµРЅР°"
 
 #: ../src/blocks.c:3160
 msgid ""
-"A badly constructed brick wall. It looks like it was built in a rush. The "
-"color is quite nice though."
+"A badly constructed brick wall. It looks like it was built in a rush. "
+"The color is quite nice though."
 msgstr ""
-"Плохо сложенная кирпичная стена. Кажется, будто её строили в спешке. "
-"Впрочем, цвет довольно приятный."
+"РџР»РѕС…Рѕ СЃР»РѕР¶РµРЅРЅР°СЏ РєРёСЂРїРёС‡РЅР°СЏ СЃС‚РµРЅР°. РљР°Р¶РµС‚СЃСЏ, Р±СѓРґС‚Рѕ РµС‘ СЃС‚СЂРѕРёР»Рё РІ СЃРїРµС€РєРµ. "
+"Р’РїСЂРѕС‡РµРј, С†РІРµС‚ РґРѕРІРѕР»СЊРЅРѕ РїСЂРёСЏС‚РЅС‹Р№."
 
 #: ../src/blocks.c:3201 ../src/blocks.c:3204
 #, fuzzy
 msgid "Cracked wall"
-msgstr "Кирпичная стена"
+msgstr "РљРёСЂРїРёС‡РЅР°СЏ СЃС‚РµРЅР°"
 
 #: ../src/blocks.c:3202 ../src/blocks.c:3205
 msgid "This wall is suffering. Finish it!"
-msgstr "Стенка почти развалилась, приконци её!"
+msgstr "РЎС‚РµРЅРєР° РїРѕС‡С‚Рё СЂР°Р·РІР°Р»РёР»Р°СЃСЊ, РїСЂРёРєРѕРЅС†Рё РµС‘!"
 
 #: ../src/blocks.c:3216 ../src/blocks.c:3219
 #, fuzzy
 msgid "Crumbled wall"
-msgstr "Красная стена"
+msgstr "РљСЂР°СЃРЅР°СЏ СЃС‚РµРЅР°"
 
 #: ../src/blocks.c:3217 ../src/blocks.c:3220
 #, fuzzy
 msgid "Well ... it was not very resistant..."
-msgstr "Ну чтож, она не особо сопротивлялась "
+msgstr "РќСѓ С‡С‚РѕР¶, РѕРЅР° РЅРµ РѕСЃРѕР±Рѕ СЃРѕРїСЂРѕС‚РёРІР»СЏР»Р°СЃСЊ "
 
 #: ../src/blocks.c:3230 ../src/blocks.c:3238
 msgid "Hmm... something's odd about this wall..."
@@ -669,79 +685,80 @@ msgstr ""
 
 #: ../src/blocks.c:3282
 msgid "Blood"
-msgstr "Кровь"
+msgstr "РљСЂРѕРІСЊ"
 
 #: ../src/blocks.c:3283
 #, fuzzy
 msgid "Do droids bleed? These do."
-msgstr "Боты истекают маслом? Эти да."
+msgstr "Р‘РѕС‚С‹ РёСЃС‚РµРєР°СЋС‚ РјР°СЃР»РѕРј? Р­С‚Рё РґР°."
 
 #: ../src/blocks.c:3340
 msgid "Oil stains"
-msgstr "Масляные пятна"
+msgstr "РњР°СЃР»СЏРЅС‹Рµ РїСЏС‚РЅР°"
 
 #: ../src/blocks.c:3341
 msgid "Do droids bleed? These don't."
-msgstr "Дроиды истекают маслом? Эти нет."
+msgstr "Р”СЂРѕРёРґС‹ РёСЃС‚РµРєР°СЋС‚ РјР°СЃР»РѕРј? Р­С‚Рё РЅРµС‚."
 
 #: ../src/blocks.c:3363 ../src/blocks.c:3371
 msgid "Entrance"
-msgstr "Вход"
+msgstr "Р’С…РѕРґ"
 
 #: ../src/blocks.c:3364 ../src/blocks.c:3372
 msgid "It leads into the dark tunnels below..."
-msgstr "Он ведет в темные подземные тунели..."
+msgstr "РћРЅ РІРµРґРµС‚ РІ С‚РµРјРЅС‹Рµ РїРѕРґР·РµРјРЅС‹Рµ С‚СѓРЅРµР»Рё..."
 
 #: ../src/blocks.c:3380 ../src/blocks.c:3389 ../src/blocks.c:3397
 #: ../src/blocks.c:3405
 msgid "Ladder"
-msgstr "Лестница"
+msgstr "Р›РµСЃС‚РЅРёС†Р°"
 
 #: ../src/blocks.c:3381 ../src/blocks.c:3390
 msgid "It leads to the surface world."
-msgstr "Она ведет к поверхности."
+msgstr "РћРЅР° РІРµРґРµС‚ Рє РїРѕРІРµСЂС…РЅРѕСЃС‚Рё."
 
 #: ../src/blocks.c:3398 ../src/blocks.c:3406
 #, fuzzy
 msgid "This is a ladder."
-msgstr "Это %s. %s"
+msgstr "Р­С‚Рѕ %s. %s"
 
 #: ../src/blocks.c:3419 ../src/blocks.c:3479
 #, fuzzy
 msgid "Exotic fungoid plant"
-msgstr "Экзотическое растение"
+msgstr "Р­РєР·РѕС‚РёС‡РµСЃРєРѕРµ СЂР°СЃС‚РµРЅРёРµ"
 
 #: ../src/blocks.c:3420
 #, fuzzy
 msgid "A wonderful exotic fungus. You can read \"Made by Basse\" on it."
 msgstr ""
-"Замечательное экзотическое растение. Вы можетет разглядеть на нем клеймо "
-"\"Нарисовано Бассе\""
+"Р—Р°РјРµС‡Р°С‚РµР»СЊРЅРѕРµ СЌРєР·РѕС‚РёС‡РµСЃРєРѕРµ СЂР°СЃС‚РµРЅРёРµ. Р’С‹ РјРѕР¶РµС‚РµС‚ СЂР°Р·РіР»СЏРґРµС‚СЊ РЅР° РЅРµРј "
+"РєР»РµР№РјРѕ \"РќР°СЂРёСЃРѕРІР°РЅРѕ Р‘Р°СЃСЃРµ\""
 
 #: ../src/blocks.c:3443
 msgid "Rocks"
-msgstr "Камни"
+msgstr "РљР°РјРЅРё"
 
 #: ../src/blocks.c:3444
 #, fuzzy
 msgid ""
-"Do you think a rock can attack you? No, MS droids can't hide themselves that "
-"way: they crash before."
+"Do you think a rock can attack you? No, MS droids can't hide "
+"themselves that way: they crash before."
 msgstr ""
-"Ты правда думсаешь, что кмень может на тебя напасть? Не, боты МС так "
-"прятаться не умеют: они сначала ломаются."
+"РўС‹ РїСЂР°РІРґР° РґСѓРјСЃР°РµС€СЊ, С‡С‚Рѕ РєРјРµРЅСЊ РјРѕР¶РµС‚ РЅР° С‚РµР±СЏ РЅР°РїР°СЃС‚СЊ? РќРµ, Р±РѕС‚С‹ РњРЎ С‚Р°Рє "
+"РїСЂСЏС‚Р°С‚СЊСЃСЏ РЅРµ СѓРјРµСЋС‚: РѕРЅРё СЃРЅР°С‡Р°Р»Р° Р»РѕРјР°СЋС‚СЃСЏ."
 
 #: ../src/blocks.c:3480
 #, fuzzy
 msgid "Eating too much of that could lead to a kernel panic..."
-msgstr "Если съесть слишком много, то можно заработать kernel panic."
+msgstr "Р•СЃР»Рё СЃСЉРµСЃС‚СЊ СЃР»РёС€РєРѕРј РјРЅРѕРіРѕ, С‚Рѕ РјРѕР¶РЅРѕ Р·Р°СЂР°Р±РѕС‚Р°С‚СЊ kernel panic."
 
 #: ../src/blocks.c:3509 ../src/blocks.c:3510
 msgid "Cosy wall in claret-red"
 msgstr ""
 
 #: ../src/blocks.c:3511 ../src/blocks.c:3512
-msgid "You think it would be better with a penguin on it. You are right!"
+msgid ""
+"You think it would be better with a penguin on it. You are right!"
 msgstr ""
 
 #: ../src/blocks.c:3513 ../src/blocks.c:3514
@@ -754,56 +771,58 @@ msgstr ""
 
 #: ../src/blocks.c:3527 ../src/blocks.c:3534
 msgid "Shop counter"
-msgstr "Магазинная касса"
+msgstr "РњР°РіР°Р·РёРЅРЅР°СЏ РєР°СЃСЃР°"
 
 #: ../src/blocks.c:3528 ../src/blocks.c:3535
 msgid ""
-"This model of the counter features a built-in cash register and bright neon "
-"lights."
-msgstr "Эта модель имеет встроенный лоток для денег и яркие неоновые лампочки."
+"This model of the counter features a built-in cash register and "
+"bright neon lights."
+msgstr ""
+"Р­С‚Р° РјРѕРґРµР»СЊ РёРјРµРµС‚ РІСЃС‚СЂРѕРµРЅРЅС‹Р№ Р»РѕС‚РѕРє РґР»СЏ РґРµРЅРµРі Рё СЏСЂРєРёРµ РЅРµРѕРЅРѕРІС‹Рµ Р»Р°РјРїРѕС‡РєРё."
 
 #: ../src/blocks.c:3540 ../src/blocks.c:3545
 msgid "Set of shelves"
-msgstr "Стелаж"
+msgstr "РЎС‚РµР»Р°Р¶"
 
 #: ../src/blocks.c:3541
 msgid ""
-"There is a lot of junk in here. Bot parts, medical supplies, scrap metal "
-"bits and other useless things like that."
+"There is a lot of junk in here. Bot parts, medical supplies, scrap "
+"metal bits and other useless things like that."
 msgstr ""
-"Тут полно всякого хлама. Запчасти для ботов, медикаменты, металлический "
-"сусор и прочая фигня."
+"РўСѓС‚ РїРѕР»РЅРѕ РІСЃСЏРєРѕРіРѕ С…Р»Р°РјР°. Р—Р°РїС‡Р°СЃС‚Рё РґР»СЏ Р±РѕС‚РѕРІ, РјРµРґРёРєР°РјРµРЅС‚С‹, "
+"РјРµС‚Р°Р»Р»РёС‡РµСЃРєРёР№ СЃСѓСЃРѕСЂ Рё РїСЂРѕС‡Р°СЏ С„РёРіРЅСЏ."
 
 #: ../src/blocks.c:3546
 msgid ""
-"There is a lot of junk in here. Bot parts, gold bars, dead rodents, scrap "
-"metal bits and other useless things like that."
+"There is a lot of junk in here. Bot parts, gold bars, dead rodents, "
+"scrap metal bits and other useless things like that."
 msgstr ""
-"Тут полно всякого хлама. Запчасти для ботов, слитки золота, дохлые крысы, "
-"металлический мусор и прочая фигня."
+"РўСѓС‚ РїРѕР»РЅРѕ РІСЃСЏРєРѕРіРѕ С…Р»Р°РјР°. Р—Р°РїС‡Р°СЃС‚Рё РґР»СЏ Р±РѕС‚РѕРІ, СЃР»РёС‚РєРё Р·РѕР»РѕС‚Р°, РґРѕС…Р»С‹Рµ "
+"РєСЂС‹СЃС‹, РјРµС‚Р°Р»Р»РёС‡РµСЃРєРёР№ РјСѓСЃРѕСЂ Рё РїСЂРѕС‡Р°СЏ С„РёРіРЅСЏ."
 
 #: ../src/blocks.c:3551 ../src/blocks.c:3556
 msgid "Empty shelves"
-msgstr "Пустой стелаж"
+msgstr "РџСѓСЃС‚РѕР№ СЃС‚РµР»Р°Р¶"
 
 #: ../src/blocks.c:3552
 msgid "Whatever was here before, is not here anymore."
-msgstr "Что бы тут не хранилось раньше, теперь тут ничего нет."
+msgstr "Р§С‚Рѕ Р±С‹ С‚СѓС‚ РЅРµ С…СЂР°РЅРёР»РѕСЃСЊ СЂР°РЅСЊС€Рµ, С‚РµРїРµСЂСЊ С‚СѓС‚ РЅРёС‡РµРіРѕ РЅРµС‚."
 
 #: ../src/blocks.c:3557
 msgid ""
-"These are empty shelves. Silent and hollow they sleep in Spring. No thing "
-"remains here now."
+"These are empty shelves. Silent and hollow they sleep in Spring. No "
+"thing remains here now."
 msgstr ""
 
 #: ../src/blocks.c:3565 ../src/blocks.c:3572
 #, fuzzy
 msgid "A library counter"
-msgstr "Просто касса."
+msgstr "РџСЂРѕСЃС‚Рѕ РєР°СЃСЃР°."
 
 #: ../src/blocks.c:3566 ../src/blocks.c:3573
 msgid ""
-"You wonder how such things can still exist in a fully computerized world.\n"
+"You wonder how such things can still exist in a fully computerized "
+"world.\n"
 "A faint glimmer of nostalgia is crossing your mind."
 msgstr ""
 
@@ -815,7 +834,7 @@ msgstr ""
 #: ../src/blocks.c:3686 ../src/blocks.c:3693 ../src/blocks.c:3699
 #: ../src/blocks.c:3705 ../src/blocks.c:3711
 msgid "Strong wall"
-msgstr "Крепкая стена"
+msgstr "РљСЂРµРїРєР°СЏ СЃС‚РµРЅР°"
 
 #: ../src/blocks.c:3586 ../src/blocks.c:3593 ../src/blocks.c:3600
 #: ../src/blocks.c:3607 ../src/blocks.c:3614 ../src/blocks.c:3621
@@ -825,14 +844,15 @@ msgstr "Крепкая стена"
 #: ../src/blocks.c:3687 ../src/blocks.c:3694 ../src/blocks.c:3700
 #: ../src/blocks.c:3706 ../src/blocks.c:3712
 msgid ""
-"This great wall can withstand a swarm of rogue bots madly attacking it for "
-"weeks*! It can belong to you for only 299.99C$ + tax, per section. *( Your "
-"duration may vary. This wall comes with ABSOLUTELY NO WARRANTY! ) "
+"This great wall can withstand a swarm of rogue bots madly attacking "
+"it for weeks*! It can belong to you for only 299.99C$ + tax, per "
+"section. *( Your duration may vary. This wall comes with ABSOLUTELY "
+"NO WARRANTY! ) "
 msgstr ""
-"Эта стена может выдерживать орды ботов, осаждающих её денно и нощно "
-"неделями*! Она ваша всего за $299.99 за секцию не считая налогов. *"
-"( Продолжительность может меняться, эта стена поставляется БЕЗ КАКИХ ЛИБО "
-"ГАРАНТИЙ ) "
+"Р­С‚Р° СЃС‚РµРЅР° РјРѕР¶РµС‚ РІС‹РґРµСЂР¶РёРІР°С‚СЊ РѕСЂРґС‹ Р±РѕС‚РѕРІ, РѕСЃР°Р¶РґР°СЋС‰РёС… РµС‘ РґРµРЅРЅРѕ Рё РЅРѕС‰РЅРѕ "
+"РЅРµРґРµР»СЏРјРё*! РћРЅР° РІР°С€Р° РІСЃРµРіРѕ Р·Р° $299.99 Р·Р° СЃРµРєС†РёСЋ РЅРµ СЃС‡РёС‚Р°СЏ РЅР°Р»РѕРіРѕРІ. *"
+"( РџСЂРѕРґРѕР»Р¶РёС‚РµР»СЊРЅРѕСЃС‚СЊ РјРѕР¶РµС‚ РјРµРЅСЏС‚СЊСЃСЏ, СЌС‚Р° СЃС‚РµРЅР° РїРѕСЃС‚Р°РІР»СЏРµС‚СЃСЏ Р‘Р•Р— РљРђРљРРҐ "
+"Р›РР‘Рћ Р“РђР РђРќРўРР™ ) "
 
 #: ../src/blocks.c:3721 ../src/blocks.c:3727 ../src/blocks.c:3733
 #: ../src/blocks.c:3739 ../src/blocks.c:3744 ../src/blocks.c:3753
@@ -840,7 +860,7 @@ msgstr ""
 #: ../src/blocks.c:3776 ../src/blocks.c:3783 ../src/blocks.c:3790
 #: ../src/blocks.c:3798 ../src/blocks.c:3806
 msgid "Gate"
-msgstr "Ворота"
+msgstr "Р’РѕСЂРѕС‚Р°"
 
 #: ../src/blocks.c:3722 ../src/blocks.c:3728 ../src/blocks.c:3734
 #: ../src/blocks.c:3740 ../src/blocks.c:3745 ../src/blocks.c:3754
@@ -848,12 +868,14 @@ msgstr "Ворота"
 #: ../src/blocks.c:3777 ../src/blocks.c:3799 ../src/blocks.c:3807
 msgid "This gate is little more than just a big door. A very big door."
 msgstr ""
-"Эти ворота - нечто большее, чем большая дверь. Это очень больная дверь."
+"Р­С‚Рё РІРѕСЂРѕС‚Р° - РЅРµС‡С‚Рѕ Р±РѕР»СЊС€РµРµ, С‡РµРј Р±РѕР»СЊС€Р°СЏ РґРІРµСЂСЊ. Р­С‚Рѕ РѕС‡РµРЅСЊ Р±РѕР»СЊРЅР°СЏ "
+"РґРІРµСЂСЊ."
 
 #: ../src/blocks.c:3784 ../src/blocks.c:3791
 msgid ""
-"It is locked in order to keep something out. Or maybe to keep something in?"
-msgstr "Она закрыта, чтобы никто не входил. Или чтобы никто не выходил?"
+"It is locked in order to keep something out. Or maybe to keep "
+"something in?"
+msgstr "РћРЅР° Р·Р°РєСЂС‹С‚Р°, С‡С‚РѕР±С‹ РЅРёРєС‚Рѕ РЅРµ РІС…РѕРґРёР». РР»Рё С‡С‚РѕР±С‹ РЅРёРєС‚Рѕ РЅРµ РІС‹С…РѕРґРёР»?"
 
 #: ../src/blocks.c:3814 ../src/blocks.c:3820 ../src/blocks.c:3826
 #: ../src/blocks.c:3832
@@ -864,81 +886,84 @@ msgstr ""
 #: ../src/blocks.c:3833
 #, fuzzy
 msgid "The yellow lounge chair looks very inviting."
-msgstr "Так и хочется присесть на этот желтый стул."
+msgstr "РўР°Рє Рё С…РѕС‡РµС‚СЃСЏ РїСЂРёСЃРµСЃС‚СЊ РЅР° СЌС‚РѕС‚ Р¶РµР»С‚С‹Р№ СЃС‚СѓР»."
 
 #: ../src/blocks.c:3840 ../src/blocks.c:3847 ../src/blocks.c:3854
 #: ../src/blocks.c:3861
 msgid "Red bench"
-msgstr "Красная койка"
+msgstr "РљСЂР°СЃРЅР°СЏ РєРѕР№РєР°"
 
 #: ../src/blocks.c:3841
 msgid ""
-"It is a soft bench, commonly seen in hospitals, shops and houses all around "
-"the world."
+"It is a soft bench, commonly seen in hospitals, shops and houses all "
+"around the world."
 msgstr ""
-"Это мягкий диванчик, такие нередко можно видеть в больницах, магазинах и "
-"домах по всему миру."
+"Р­С‚Рѕ РјСЏРіРєРёР№ РґРёРІР°РЅС‡РёРє, С‚Р°РєРёРµ РЅРµСЂРµРґРєРѕ РјРѕР¶РЅРѕ РІРёРґРµС‚СЊ РІ Р±РѕР»СЊРЅРёС†Р°С…, "
+"РјР°РіР°Р·РёРЅР°С… Рё РґРѕРјР°С… РїРѕ РІСЃРµРјСѓ РјРёСЂСѓ."
 
 #: ../src/blocks.c:3848
 msgid ""
-"It is a soft bench, commonly seen in hospitals, malls and houses all around "
-"the world."
+"It is a soft bench, commonly seen in hospitals, malls and houses all "
+"around the world."
 msgstr ""
-"Это мягкий диванчик, такие нередко можно видеть в больницах, гипермаркетах и "
-"домах по всему миру."
+"Р­С‚Рѕ РјСЏРіРєРёР№ РґРёРІР°РЅС‡РёРє, С‚Р°РєРёРµ РЅРµСЂРµРґРєРѕ РјРѕР¶РЅРѕ РІРёРґРµС‚СЊ РІ Р±РѕР»СЊРЅРёС†Р°С…, "
+"РіРёРїРµСЂРјР°СЂРєРµС‚Р°С… Рё РґРѕРјР°С… РїРѕ РІСЃРµРјСѓ РјРёСЂСѓ."
 
 #: ../src/blocks.c:3855
 msgid ""
-"It is a soft bench, commonly seen in hospitals, barber shops and houses all "
-"around the world."
+"It is a soft bench, commonly seen in hospitals, barber shops and "
+"houses all around the world."
 msgstr ""
-"Это мягкий диванчик, такие нередко можно видеть в больницах, парикмахерских "
-"и домах по всему миру."
+"Р­С‚Рѕ РјСЏРіРєРёР№ РґРёРІР°РЅС‡РёРє, С‚Р°РєРёРµ РЅРµСЂРµРґРєРѕ РјРѕР¶РЅРѕ РІРёРґРµС‚СЊ РІ Р±РѕР»СЊРЅРёС†Р°С…, "
+"РїР°СЂРёРєРјР°С…РµСЂСЃРєРёС… Рё РґРѕРјР°С… РїРѕ РІСЃРµРјСѓ РјРёСЂСѓ."
 
 #: ../src/blocks.c:3862
 msgid ""
-"It is a soft bench, commonly seen in hospitals, coffee shops and houses all "
-"around the world."
+"It is a soft bench, commonly seen in hospitals, coffee shops and "
+"houses all around the world."
 msgstr ""
-"Это мягкий диванчик, такие нередко можно видеть в больницах, кофейнях и "
-"домах по всему миру."
+"Р­С‚Рѕ РјСЏРіРєРёР№ РґРёРІР°РЅС‡РёРє, С‚Р°РєРёРµ РЅРµСЂРµРґРєРѕ РјРѕР¶РЅРѕ РІРёРґРµС‚СЊ РІ Р±РѕР»СЊРЅРёС†Р°С…, РєРѕС„РµР№РЅСЏС… "
+"Рё РґРѕРјР°С… РїРѕ РІСЃРµРјСѓ РјРёСЂСѓ."
 
 #: ../src/blocks.c:3869 ../src/blocks.c:3874 ../src/blocks.c:3879
 #: ../src/blocks.c:3884
 msgid "Dead member of the Red Guard"
-msgstr "Труп красногвардейца"
+msgstr "РўСЂСѓРї РєСЂР°СЃРЅРѕРіРІР°СЂРґРµР№С†Р°"
 
 #: ../src/blocks.c:3870
 msgid ""
-"If not for the terrible wounds, you could think that he is just asleep..."
+"If not for the terrible wounds, you could think that he is just "
+"asleep..."
 msgstr ""
-"Если бы не ужасные раны можно было бы считать, что он просто прилег "
-"поспать..."
+"Р•СЃР»Рё Р±С‹ РЅРµ СѓР¶Р°СЃРЅС‹Рµ СЂР°РЅС‹ РјРѕР¶РЅРѕ Р±С‹Р»Рѕ Р±С‹ СЃС‡РёС‚Р°С‚СЊ, С‡С‚Рѕ РѕРЅ РїСЂРѕСЃС‚Рѕ РїСЂРёР»РµРі "
+"РїРѕСЃРїР°С‚СЊ..."
 
 #: ../src/blocks.c:3875
 msgid "It looks like he fought to the bitter end..."
-msgstr "Кажется он бился до последней капли крови..."
+msgstr "РљР°Р¶РµС‚СЃСЏ РѕРЅ Р±РёР»СЃСЏ РґРѕ РїРѕСЃР»РµРґРЅРµР№ РєР°РїР»Рё РєСЂРѕРІРё..."
 
 #: ../src/blocks.c:3880
 msgid "Numerous wounds cover the body of this brave warrior..."
-msgstr "Множество ран покрывает тело этого бравого воина..."
+msgstr "РњРЅРѕР¶РµСЃС‚РІРѕ СЂР°РЅ РїРѕРєСЂС‹РІР°РµС‚ С‚РµР»Рѕ СЌС‚РѕРіРѕ Р±СЂР°РІРѕРіРѕ РІРѕРёРЅР°..."
 
 #: ../src/blocks.c:3885
 msgid ""
-"His body is charred and twisted... Such is the price of the service in the "
-"Red Guard..."
+"His body is charred and twisted... Such is the price of the service "
+"in the Red Guard..."
 msgstr ""
 
 #: ../src/blocks.c:3892 ../src/blocks.c:3899 ../src/blocks.c:3906
 #: ../src/blocks.c:3913
 msgid "Conference table"
-msgstr "Стол для совещаний"
+msgstr "РЎС‚РѕР» РґР»СЏ СЃРѕРІРµС‰Р°РЅРёР№"
 
 #: ../src/blocks.c:3893 ../src/blocks.c:3900 ../src/blocks.c:3907
 #: ../src/blocks.c:3914
-msgid "A round conference table with chairs and a computer at every seat."
+msgid ""
+"A round conference table with chairs and a computer at every seat."
 msgstr ""
-"Круглый стол для совещаний со стульями и компьютером перед каждым сидящим."
+"РљСЂСѓРіР»С‹Р№ СЃС‚РѕР» РґР»СЏ СЃРѕРІРµС‰Р°РЅРёР№ СЃРѕ СЃС‚СѓР»СЊСЏРјРё Рё РєРѕРјРїСЊСЋС‚РµСЂРѕРј РїРµСЂРµРґ РєР°Р¶РґС‹Рј "
+"СЃРёРґСЏС‰РёРј."
 
 #: ../src/blocks.c:3921 ../src/blocks.c:3929
 msgid "Massive fancy wall"
@@ -958,7 +983,7 @@ msgstr ""
 #: ../src/blocks.c:3938 ../src/blocks.c:3945 ../src/blocks.c:3952
 #: ../src/blocks.c:3959
 msgid "This is a standard sleeping capsule."
-msgstr "Обычная капсула для сна."
+msgstr "РћР±С‹С‡РЅР°СЏ РєР°РїСЃСѓР»Р° РґР»СЏ СЃРЅР°."
 
 #: ../src/blocks.c:3964 ../src/blocks.c:3970 ../src/blocks.c:3976
 #: ../src/blocks.c:3982
@@ -968,78 +993,85 @@ msgstr ""
 #: ../src/blocks.c:3965 ../src/blocks.c:3971 ../src/blocks.c:3977
 #: ../src/blocks.c:3983
 msgid ""
-"To save space on the floor two sleeping capsules were stacked vertically."
-msgstr "Чтобы сэкономить место капсулы для сна расположены одна над другой."
+"To save space on the floor two sleeping capsules were stacked "
+"vertically."
+msgstr ""
+"Р§С‚РѕР±С‹ СЃСЌРєРѕРЅРѕРјРёС‚СЊ РјРµСЃС‚Рѕ РєР°РїСЃСѓР»С‹ РґР»СЏ СЃРЅР° СЂР°СЃРїРѕР»РѕР¶РµРЅС‹ РѕРґРЅР° РЅР°Рґ РґСЂСѓРіРѕР№."
 
 #: ../src/blocks.c:3989 ../src/blocks.c:3995 ../src/blocks.c:4001
 #: ../src/blocks.c:4007
 msgid "Projector"
-msgstr "Проектор"
+msgstr "РџСЂРѕРµРєС‚РѕСЂ"
 
 #: ../src/blocks.c:3990 ../src/blocks.c:3996 ../src/blocks.c:4002
 #: ../src/blocks.c:4008
 msgid ""
-"This device is used for casting images onto a wall or a screen. It uses "
-"something looking like a film reel as a source of those images."
+"This device is used for casting images onto a wall or a screen. It "
+"uses something looking like a film reel as a source of those images."
 msgstr ""
-"Этот агрегат используется для проецирования изображения на стену или экран. "
-"В качестве носителя изображений используется что-то вроде кинопленки."
+"Р­С‚РѕС‚ Р°РіСЂРµРіР°С‚ РёСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ РґР»СЏ РїСЂРѕРµС†РёСЂРѕРІР°РЅРёСЏ РёР·РѕР±СЂР°Р¶РµРЅРёСЏ РЅР° СЃС‚РµРЅСѓ РёР»Рё "
+"СЌРєСЂР°РЅ. Р’ РєР°С‡РµСЃС‚РІРµ РЅРѕСЃРёС‚РµР»СЏ РёР·РѕР±СЂР°Р¶РµРЅРёР№ РёСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ С‡С‚Рѕ-С‚Рѕ РІСЂРѕРґРµ "
+"РєРёРЅРѕРїР»РµРЅРєРё."
 
 #: ../src/blocks.c:4013 ../src/blocks.c:4018 ../src/blocks.c:4023
 #: ../src/blocks.c:4028
 msgid "Projector screen"
-msgstr "Проекционный экран"
+msgstr "РџСЂРѕРµРєС†РёРѕРЅРЅС‹Р№ СЌРєСЂР°РЅ"
 
 #: ../src/blocks.c:4014 ../src/blocks.c:4019 ../src/blocks.c:4024
 #: ../src/blocks.c:4029
 msgid ""
-"This is a projector screen, it allows to get better image quality than the "
-"wall."
+"This is a projector screen, it allows to get better image quality "
+"than the wall."
 msgstr ""
-"Это проекционный экран. Картинка на нем смотрится куда лучше, чем на стене."
+"Р­С‚Рѕ РїСЂРѕРµРєС†РёРѕРЅРЅС‹Р№ СЌРєСЂР°РЅ. РљР°СЂС‚РёРЅРєР° РЅР° РЅРµРј СЃРјРѕС‚СЂРёС‚СЃСЏ РєСѓРґР° Р»СѓС‡С€Рµ, С‡РµРј РЅР° "
+"СЃС‚РµРЅРµ."
 
 #: ../src/blocks.c:4034 ../src/blocks.c:4039 ../src/blocks.c:4056
 #: ../src/blocks.c:4061
 msgid "Bookcase"
-msgstr "Книжный шкаф"
+msgstr "РљРЅРёР¶РЅС‹Р№ С€РєР°С„"
 
 #: ../src/blocks.c:4035
 msgid ""
-"There are many interesting books here, but none of them is a switch opening "
-"a secret passage."
+"There are many interesting books here, but none of them is a switch "
+"opening a secret passage."
 msgstr ""
-"Тут много интересных книг, но ни одна из них не открывает секретного хода."
+"РўСѓС‚ РјРЅРѕРіРѕ РёРЅС‚РµСЂРµСЃРЅС‹С… РєРЅРёРі, РЅРѕ РЅРё РѕРґРЅР° РёР· РЅРёС… РЅРµ РѕС‚РєСЂС‹РІР°РµС‚ СЃРµРєСЂРµС‚РЅРѕРіРѕ "
+"С…РѕРґР°."
 
 #: ../src/blocks.c:4040
 msgid "There are exactly 451 books here."
-msgstr "Тут ровнёхонько 451 книга."
+msgstr "РўСѓС‚ СЂРѕРІРЅС‘С…РѕРЅСЊРєРѕ 451 РєРЅРёРіР°."
 
 #: ../src/blocks.c:4045 ../src/blocks.c:4050 ../src/blocks.c:4067
 #: ../src/blocks.c:4072
 msgid "Empty bookcase"
-msgstr "Пустой книжный шкаф"
+msgstr "РџСѓСЃС‚РѕР№ РєРЅРёР¶РЅС‹Р№ С€РєР°С„"
 
 #: ../src/blocks.c:4046 ../src/blocks.c:4051
 #, fuzzy
 msgid "No books here, only dust."
-msgstr "Книг нет, одна пыль."
+msgstr "РљРЅРёРі РЅРµС‚, РѕРґРЅР° РїС‹Р»СЊ."
 
 #: ../src/blocks.c:4057 ../src/blocks.c:4062
 #, fuzzy
 msgid ""
-"Only boring books like the Necronomicon here. Yawn. Nothing of interest."
+"Only boring books like the Necronomicon here. Yawn. Nothing of "
+"interest."
 msgstr ""
-"Скучноватая подборка книг вроде Некрономикона. *Зевает* Ничего интересного."
+"РЎРєСѓС‡РЅРѕРІР°С‚Р°СЏ РїРѕРґР±РѕСЂРєР° РєРЅРёРі РІСЂРѕРґРµ РќРµРєСЂРѕРЅРѕРјРёРєРѕРЅР°. *Р—РµРІР°РµС‚* РќРёС‡РµРіРѕ "
+"РёРЅС‚РµСЂРµСЃРЅРѕРіРѕ."
 
 #: ../src/blocks.c:4068 ../src/blocks.c:4073
 msgid "Dust to trees. Trees to pages. Pages to books. Books to dust."
 msgstr ""
-"Из пыли вырастают деревья, из деревьев делают бумагу, из бумаги книги, а "
-"книги превращаются в пыль."
+"РР· РїС‹Р»Рё РІС‹СЂР°СЃС‚Р°СЋС‚ РґРµСЂРµРІСЊСЏ, РёР· РґРµСЂРµРІСЊРµРІ РґРµР»Р°СЋС‚ Р±СѓРјР°РіСѓ, РёР· Р±СѓРјР°РіРё "
+"РєРЅРёРіРё, Р° РєРЅРёРіРё РїСЂРµРІСЂР°С‰Р°СЋС‚СЃСЏ РІ РїС‹Р»СЊ."
 
 #: ../src/blocks.c:4080 ../src/blocks.c:4094
 msgid "Sign"
-msgstr "Знак"
+msgstr "Р—РЅР°Рє"
 
 #: ../src/blocks.c:4081
 msgid "An informational sign...?"
@@ -1048,7 +1080,7 @@ msgstr ""
 #: ../src/blocks.c:4087
 #, fuzzy
 msgid "Sign!"
-msgstr "Знак"
+msgstr "Р—РЅР°Рє"
 
 #: ../src/blocks.c:4088
 msgid "A warning sign! But where's the danger here?"
@@ -1058,20 +1090,21 @@ msgstr ""
 #, fuzzy
 msgid "The arrow points at a direction. Maybe you should follow it..."
 msgstr ""
-"Стрелка указывает вон туда. Может стоит последовать в этом направлении."
+"РЎС‚СЂРµР»РєР° СѓРєР°Р·С‹РІР°РµС‚ РІРѕРЅ С‚СѓРґР°. РњРѕР¶РµС‚ СЃС‚РѕРёС‚ РїРѕСЃР»РµРґРѕРІР°С‚СЊ РІ СЌС‚РѕРј "
+"РЅР°РїСЂР°РІР»РµРЅРёРё."
 
 #: ../src/blocks.c:4100 ../src/blocks.c:4109 ../src/blocks.c:4116
 #: ../src/blocks.c:4123 ../src/blocks.c:4131 ../src/blocks.c:4138
 #: ../src/blocks.c:4145 ../src/blocks.c:4152 ../src/blocks.c:4160
 #: ../src/blocks.c:4167 ../src/blocks.c:4174 ../src/blocks.c:4181
 msgid "Counter"
-msgstr "Касса"
+msgstr "РљР°СЃСЃР°"
 
 #: ../src/blocks.c:4101 ../src/blocks.c:4110 ../src/blocks.c:4117
 #: ../src/blocks.c:4124
 #, fuzzy
 msgid "A counter section."
-msgstr "Просто касса."
+msgstr "РџСЂРѕСЃС‚Рѕ РєР°СЃСЃР°."
 
 #: ../src/blocks.c:4132 ../src/blocks.c:4139 ../src/blocks.c:4146
 #: ../src/blocks.c:4153
@@ -1085,39 +1118,40 @@ msgstr ""
 
 #: ../src/blocks.c:4190
 msgid "Bar table"
-msgstr "Барная стойка"
+msgstr "Р‘Р°СЂРЅР°СЏ СЃС‚РѕР№РєР°"
 
 #: ../src/blocks.c:4191
 #, fuzzy
-msgid "You can still see some food stains on this yellow round table. Yummy!"
-msgstr "Вы видите остатки еды на круглом желтом столе."
+msgid ""
+"You can still see some food stains on this yellow round table. Yummy!"
+msgstr "Р’С‹ РІРёРґРёС‚Рµ РѕСЃС‚Р°С‚РєРё РµРґС‹ РЅР° РєСЂСѓРіР»РѕРј Р¶РµР»С‚РѕРј СЃС‚РѕР»Рµ."
 
 #: ../src/blocks.c:4198 ../src/blocks.c:4206
 msgid "Table"
-msgstr "Стол"
+msgstr "РЎС‚РѕР»"
 
 #: ../src/blocks.c:4199 ../src/blocks.c:4207
 msgid ""
-"Tables such as this one have been used for centuries to store various items "
-"on top of them."
-msgstr "Столы вроде этого веками применялись для хранения вещей на них."
+"Tables such as this one have been used for centuries to store various "
+"items on top of them."
+msgstr "РЎС‚РѕР»С‹ РІСЂРѕРґРµ СЌС‚РѕРіРѕ РІРµРєР°РјРё РїСЂРёРјРµРЅСЏР»РёСЃСЊ РґР»СЏ С…СЂР°РЅРµРЅРёСЏ РІРµС‰РµР№ РЅР° РЅРёС…."
 
 #: ../src/blocks.c:4216 ../src/blocks.c:4224
 msgid "Glass table"
-msgstr "Стеклянный стол"
+msgstr "РЎС‚РµРєР»СЏРЅРЅС‹Р№ СЃС‚РѕР»"
 
 #: ../src/blocks.c:4217 ../src/blocks.c:4225
 msgid "This table is made out of see-through glass."
-msgstr "Этот стол сделан из прозрачного стекла."
+msgstr "Р­С‚РѕС‚ СЃС‚РѕР» СЃРґРµР»Р°РЅ РёР· РїСЂРѕР·СЂР°С‡РЅРѕРіРѕ СЃС‚РµРєР»Р°."
 
 #: ../src/blocks.c:4233
 msgid "Water"
-msgstr "Вода"
+msgstr "Р’РѕРґР°"
 
 #: ../src/blocks.c:4234
 #, fuzzy
 msgid "This water seems dangerous. You'll want to avoid going there."
-msgstr "Вода выглядит опасной. Тебе лучше не заходить в нее. "
+msgstr "Р’РѕРґР° РІС‹РіР»СЏРґРёС‚ РѕРїР°СЃРЅРѕР№. РўРµР±Рµ Р»СѓС‡С€Рµ РЅРµ Р·Р°С…РѕРґРёС‚СЊ РІ РЅРµРµ. "
 
 #: ../src/blocks.c:4242 ../src/blocks.c:4251
 msgid "Restaurant & bar multipurpose counter (tm)"
@@ -1125,8 +1159,8 @@ msgstr ""
 
 #: ../src/blocks.c:4243 ../src/blocks.c:4252
 msgid ""
-"A perfect fusion of practical usability, appealing optics and durability has "
-"been fitted into the design of this counter."
+"A perfect fusion of practical usability, appealing optics and "
+"durability has been fitted into the design of this counter."
 msgstr ""
 
 #: ../src/blocks.c:4258 ../src/blocks.c:4265
@@ -1135,11 +1169,12 @@ msgstr ""
 
 #: ../src/blocks.c:4259 ../src/blocks.c:4266
 msgid ""
-"In combination with the 'Restaurant & bar multipurpose counter (tm)',\n"
-"  this professional set of heavy-duty kitchen furniture adds up to a pretty "
-"complete catering equipment.\n"
-"  Too bad there just aren't engough human guests around, to run such a "
-"business these days..."
+"In combination with the 'Restaurant & bar multipurpose counter "
+"(tm)',\n"
+"  this professional set of heavy-duty kitchen furniture adds up to a "
+"pretty complete catering equipment.\n"
+"  Too bad there just aren't engough human guests around, to run such "
+"a business these days..."
 msgstr ""
 
 #: ../src/blocks.c:4272 ../src/blocks.c:4279 ../src/blocks.c:4286
@@ -1164,12 +1199,12 @@ msgstr ""
 #: ../src/blocks.c:4374
 #, c-format
 msgid "unnamed_obstacle"
-msgstr "неизвестный объект"
+msgstr "РЅРµРёР·РІРµСЃС‚РЅС‹Р№ РѕР±СЉРµРєС‚"
 
 #: ../src/blocks.c:4380
 #, c-format
 msgid "This obstacle seems solid."
-msgstr "Этот объект выглядит твердым."
+msgstr "Р­С‚РѕС‚ РѕР±СЉРµРєС‚ РІС‹РіР»СЏРґРёС‚ С‚РІРµСЂРґС‹Рј."
 
 #: ../src/bullet.c:643
 #, c-format
@@ -1182,85 +1217,85 @@ msgstr ""
 
 #: ../src/character.c:234
 msgid "Max level reached!"
-msgstr "Достигнут максимальный уровень!"
+msgstr "Р”РѕСЃС‚РёРіРЅСѓС‚ РјР°РєСЃРёРјР°Р»СЊРЅС‹Р№ СѓСЂРѕРІРµРЅСЊ!"
 
 #: ../src/character.c:257
 msgid "Level Gained!"
-msgstr "Достигнут уровень!"
+msgstr "Р”РѕСЃС‚РёРіРЅСѓС‚ СѓСЂРѕРІРµРЅСЊ!"
 
 #: ../src/character.c:585
 msgid "Melee"
-msgstr "Контактный"
+msgstr "РљРѕРЅС‚Р°РєС‚РЅС‹Р№"
 
 #: ../src/character.c:603
 msgid "Ranged"
-msgstr "Дистанционный"
+msgstr "Р”РёСЃС‚Р°РЅС†РёРѕРЅРЅС‹Р№"
 
 #: ../src/character.c:621
 msgid "Programming"
-msgstr "Программирование"
+msgstr "РџСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ"
 
 #: ../src/character.c:672 ../src/lvledit/lvledit_menu.c:643
 #: ../src/lvledit/lvledit_menu.c:950
 #, c-format
 msgid "Level"
-msgstr "Уровень"
+msgstr "РЈСЂРѕРІРµРЅСЊ"
 
 #: ../src/character.c:678
 msgid "Experience"
-msgstr "Опыт"
+msgstr "РћРїС‹С‚"
 
 #: ../src/character.c:684
 msgid "Next level"
-msgstr "Следующий уровень"
+msgstr "РЎР»РµРґСѓСЋС‰РёР№ СѓСЂРѕРІРµРЅСЊ"
 
 #: ../src/character.c:690
 msgid "Money"
-msgstr "Деньги"
+msgstr "Р”РµРЅСЊРіРё"
 
 #: ../src/character.c:696
 msgid "Strength"
-msgstr "Сила"
+msgstr "РЎРёР»Р°"
 
 #: ../src/character.c:704
 msgid "Dexterity"
-msgstr "Ловкость"
+msgstr "Р›РѕРІРєРѕСЃС‚СЊ"
 
 #: ../src/character.c:712
 msgid "CPU"
-msgstr "ЦП"
+msgstr "Р¦Рџ"
 
 #: ../src/character.c:720
 msgid "Life"
-msgstr "Жизнь"
+msgstr "Р–РёР·РЅСЊ"
 
 #: ../src/character.c:729
 msgid "Training points"
-msgstr "Очки опыта"
+msgstr "РћС‡РєРё РѕРїС‹С‚Р°"
 
 #: ../src/character.c:735
 msgid "Health"
-msgstr "Здоровье"
+msgstr "Р—РґРѕСЂРѕРІСЊРµ"
 
 #: ../src/character.c:741
 msgid "Temperature"
-msgstr "Температура"
+msgstr "РўРµРјРїРµСЂР°С‚СѓСЂР°"
 
 #: ../src/character.c:747
 msgid "Stamina"
-msgstr "Выносливость"
+msgstr "Р’С‹РЅРѕСЃР»РёРІРѕСЃС‚СЊ"
 
 #: ../src/character.c:753 ../src/shop.c:616
 msgid "Armor"
-msgstr "Защита"
+msgstr "Р—Р°С‰РёС‚Р°"
 
 #: ../src/character.c:759
 msgid "Attack"
-msgstr "Нападение"
+msgstr "РќР°РїР°РґРµРЅРёРµ"
 
 #: ../src/character.c:765
 msgid "Damage"
-msgstr "Урон"
+msgstr "РЈСЂРѕРЅ"
 
 #: ../src/chat.c:877
 msgid "Start of Dialog"
@@ -1268,62 +1303,62 @@ msgstr ""
 
 #: ../src/chat.c:926
 msgid "What will you say?"
-msgstr "Что ты скажешь?"
+msgstr "Р§С‚Рѕ С‚С‹ СЃРєР°Р¶РµС€СЊ?"
 
 #: ../src/enemy.c:831
 #, c-format
 msgid "Your friend %s was killed by %s."
-msgstr "Твой друг %s был убит %s."
+msgstr "РўРІРѕР№ РґСЂСѓРі %s Р±С‹Р» СѓР±РёС‚ %s."
 
 #: ../src/enemy.c:833
 #, c-format
 msgid "You killed %s."
-msgstr "Ты убил %s."
+msgstr "РўС‹ СѓР±РёР» %s."
 
 #: ../src/enemy.c:835
 #, c-format
 msgid "%s is dead."
-msgstr "%s мертв."
+msgstr "%s РјРµСЂС‚РІ."
 
 #: ../src/enemy.c:840
 #, c-format
 msgid "For defeating %s, you receive %d experience."
-msgstr "За победу над %s, ты получаешь %d опыта."
+msgstr "Р—Р° РїРѕР±РµРґСѓ РЅР°Рґ %s, С‚С‹ РїРѕР»СѓС‡Р°РµС€СЊ %d РѕРїС‹С‚Р°."
 
 #: ../src/enemy.c:843
 #, c-format
 msgid "%s was killed by %s."
-msgstr "%s был убит %s."
+msgstr "%s Р±С‹Р» СѓР±РёС‚ %s."
 
 #: ../src/enemy.c:844
 #, c-format
 msgid "%s died."
-msgstr "%s умер."
+msgstr "%s СѓРјРµСЂ."
 
 #: ../src/hud.c:190
 #, c-format
 msgid "Damage: %d to %d \n"
-msgstr "Урон: от %d до %d \n"
+msgstr "РЈСЂРѕРЅ: РѕС‚ %d РґРѕ %d \n"
 
 #: ../src/hud.c:192
 #, c-format
 msgid "Dam: %d-%d "
-msgstr "Урон: %d-%d "
+msgstr "РЈСЂРѕРЅ: %d-%d "
 
 #: ../src/hud.c:198
 #, c-format
 msgid "Ammo : %d of %d\n"
-msgstr "Патроны : %d of %d\n"
+msgstr "РџР°С‚СЂРѕРЅС‹ : %d of %d\n"
 
 #: ../src/hud.c:209
 #, c-format
 msgid "Multiplicity: %d \n"
-msgstr "Количество: %d \n"
+msgstr "РљРѕР»РёС‡РµСЃС‚РІРѕ: %d \n"
 
 #: ../src/hud.c:219
 #, fuzzy, c-format
 msgid "Armor: %d"
-msgstr "Броня: %d"
+msgstr "Р‘СЂРѕРЅСЏ: %d"
 
 #: ../src/hud.c:231
 #, c-format
@@ -1337,11 +1372,11 @@ msgstr ""
 
 #: ../src/hud.c:238
 msgid " Indestructible\n"
-msgstr " Неразрушимый\n"
+msgstr " РќРµСЂР°Р·СЂСѓС€РёРјС‹Р№\n"
 
 #: ../src/hud.c:248
 msgid " Required:"
-msgstr " требуется:"
+msgstr " С‚СЂРµР±СѓРµС‚СЃСЏ:"
 
 #: ../src/hud.c:252
 #, c-format
@@ -1351,7 +1386,7 @@ msgstr ""
 #: ../src/hud.c:254
 #, c-format
 msgid " Required strength: %d "
-msgstr " Требуемая сила: %d "
+msgstr " РўСЂРµР±СѓРµРјР°СЏ СЃРёР»Р°: %d "
 
 #: ../src/hud.c:261
 #, c-format
@@ -1414,17 +1449,17 @@ msgstr ""
 #: ../src/hud.c:337
 #, c-format
 msgid "To implant the automap device\n"
-msgstr "Вживить автосоставитель карт\n"
+msgstr "Р’Р¶РёРІРёС‚СЊ Р°РІС‚РѕСЃРѕСЃС‚Р°РІРёС‚РµР»СЊ РєР°СЂС‚\n"
 
 #: ../src/hud.c:342
 #, c-format
 msgid "Increase strength\n"
-msgstr "Увеличить силу\n"
+msgstr "РЈРІРµР»РёС‡РёС‚СЊ СЃРёР»Сѓ\n"
 
 #: ../src/hud.c:347
 #, c-format
 msgid "Increase dexterity\n"
-msgstr "Увеличить выносливость\n"
+msgstr "РЈРІРµР»РёС‡РёС‚СЊ РІС‹РЅРѕСЃР»РёРІРѕСЃС‚СЊ\n"
 
 #: ../src/hud.c:352
 #, c-format
@@ -1439,7 +1474,7 @@ msgstr ""
 #: ../src/hud.c:362
 #, c-format
 msgid "Electromagnetic pulse\n"
-msgstr "Электромагнитный импульс\n"
+msgstr "Р­Р»РµРєС‚СЂРѕРјР°РіРЅРёС‚РЅС‹Р№ РёРјРїСѓР»СЊСЃ\n"
 
 #: ../src/hud.c:368
 #, c-format
@@ -1449,7 +1484,7 @@ msgstr ""
 #: ../src/hud.c:373
 #, c-format
 msgid "Huge explosion\n"
-msgstr "Сильный взрыв\n"
+msgstr "РЎРёР»СЊРЅС‹Р№ РІР·СЂС‹РІ\n"
 
 #: ../src/hud.c:379
 #, c-format
@@ -1459,27 +1494,27 @@ msgstr ""
 #: ../src/hud.c:383
 #, c-format
 msgid "Right click to use"
-msgstr "Правый клик для использования"
+msgstr "РџСЂР°РІС‹Р№ РєР»РёРє РґР»СЏ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ"
 
 #: ../src/hud.c:405
 #, c-format
 msgid "%d to strength"
-msgstr "%d к силе"
+msgstr "%d Рє СЃРёР»Рµ"
 
 #: ../src/hud.c:415
 #, c-format
 msgid "%d to dexterity"
-msgstr "%d к выносливости"
+msgstr "%d Рє РІС‹РЅРѕСЃР»РёРІРѕСЃС‚Рё"
 
 #: ../src/hud.c:424
 #, c-format
 msgid "%d to CPU"
-msgstr "%d к ЦП"
+msgstr "%d Рє Р¦Рџ"
 
 #: ../src/hud.c:433
 #, c-format
 msgid "%d to life"
-msgstr "%d к жизни"
+msgstr "%d Рє Р¶РёР·РЅРё"
 
 #: ../src/hud.c:442
 #, c-format
@@ -1509,22 +1544,22 @@ msgstr ""
 #: ../src/hud.c:480
 #, c-format
 msgid "%d%% to hit"
-msgstr "%d%% к удару"
+msgstr "%d%% Рє СѓРґР°СЂСѓ"
 
 #: ../src/hud.c:489
 #, c-format
 msgid "%d to all attributes"
-msgstr "%d ко всем атрибутам"
+msgstr "%d РєРѕ РІСЃРµРј Р°С‚СЂРёР±СѓС‚Р°Рј"
 
 #: ../src/hud.c:506
 #, fuzzy, c-format
 msgid "%d%% to armor"
-msgstr "%d%% к защите"
+msgstr "%d%% Рє Р·Р°С‰РёС‚Рµ"
 
 #: ../src/hud.c:519
 #, c-format
 msgid "%d%% to damage"
-msgstr "%d%% к урону"
+msgstr "%d%% Рє СѓСЂРѕРЅСѓ"
 
 #: ../src/hud.c:529
 #, c-format
@@ -1534,31 +1569,31 @@ msgstr ""
 #: ../src/hud.c:538
 #, c-format
 msgid "+%d to resist fire"
-msgstr "+%d к выносливости огня"
+msgstr "+%d Рє РІС‹РЅРѕСЃР»РёРІРѕСЃС‚Рё РѕРіРЅСЏ"
 
 #: ../src/hud.c:547
 #, c-format
 msgid "+%d to resist electricity"
-msgstr "+%d к выносливости электричесва"
+msgstr "+%d Рє РІС‹РЅРѕСЃР»РёРІРѕСЃС‚Рё СЌР»РµРєС‚СЂРёС‡РµСЃРІР°"
 
 #: ../src/hud.c:565
 #, c-format
 msgid "%d to light radius"
-msgstr "%d к радиусу освещенности"
+msgstr "%d Рє СЂР°РґРёСѓСЃСѓ РѕСЃРІРµС‰РµРЅРЅРѕСЃС‚Рё"
 
 #: ../src/hud.c:575
 msgid " UNIDENTIFIED "
-msgstr " НЕИДЕНТИФИЦИРОВАН "
+msgstr " РќР•РР”Р•РќРўРР¤РР¦РР РћР’РђРќ "
 
 #: ../src/hud.c:710
 #, c-format
 msgid "reloading"
-msgstr "перезаряжаю"
+msgstr "РїРµСЂРµР·Р°СЂСЏР¶Р°СЋ"
 
 #: ../src/hud.c:712
 #, c-format
 msgid " %sEMPTY"
-msgstr " %sПУСТ"
+msgstr " %sРџРЈРЎРў"
 
 #: ../src/hud.c:974
 msgid "REQUIREMENTS NOT MET"
@@ -1570,7 +1605,7 @@ msgid ""
 "Health\n"
 "%s%d/%d"
 msgstr ""
-"Здоровье\n"
+"Р—РґРѕСЂРѕРІСЊРµ\n"
 "%s%d/%d"
 
 #: ../src/hud.c:1099
@@ -1579,7 +1614,7 @@ msgid ""
 "Temperature \n"
 "%s%d/%d"
 msgstr ""
-"Температура \n"
+"РўРµРјРїРµСЂР°С‚СѓСЂР° \n"
 "%s%d/%d"
 
 #: ../src/hud.c:1109
@@ -1588,7 +1623,7 @@ msgid ""
 "Run\n"
 "%s%d/%d"
 msgstr ""
-"Бег\n"
+"Р‘РµРі\n"
 "%s%d/%d"
 
 #: ../src/hud.c:1119
@@ -1597,25 +1632,25 @@ msgid ""
 "XP\n"
 "%d/%d"
 msgstr ""
-"Опыт\n"
+"РћРїС‹С‚\n"
 "%d/%d"
 
 #: ../src/hud.c:1162
 msgid " C H E S T "
-msgstr " С У Н Д У К "
+msgstr " РЎ РЈ Рќ Р” РЈ Рљ "
 
 #: ../src/hud.c:1188
 msgid " B A R R E L "
-msgstr " Б О Ч К А "
+msgstr " Р‘ Рћ Р§ Рљ Рђ "
 
 #: ../src/hud.c:1192
 msgid " C R A T E "
-msgstr " Я Щ И К "
+msgstr " РЇ Р© Р Рљ "
 
 #: ../src/hud.c:1385
 #, c-format
 msgid "--- Message Protocol ---"
-msgstr "--- Протокол сообщений ---"
+msgstr "--- РџСЂРѕС‚РѕРєРѕР» СЃРѕРѕР±С‰РµРЅРёР№ ---"
 
 #: ../src/hud.c:1414
 #, c-format
@@ -1623,8 +1658,8 @@ msgid ""
 "This is the protocol.\n"
 "Oh yes, it is indeed!\n"
 "It has multiple lines too!\n"
-"Isn't that great?  But how long may any one line be?  Is there a limit for "
-"that?  Anyway, it looks good."
+"Isn't that great?  But how long may any one line be?  Is there a "
+"limit for that?  Anyway, it looks good."
 msgstr ""
 
 #: ../src/hud.c:1496 ../src/hud.c:1507 ../src/mission.c:122
@@ -1634,21 +1669,21 @@ msgstr ""
 
 #: ../src/influ.c:524
 msgid "Clip empty, reloading..."
-msgstr "Обойма закончилась, перезаряжаюсь!"
+msgstr "РћР±РѕР№РјР° Р·Р°РєРѕРЅС‡РёР»Р°СЃСЊ, РїРµСЂРµР·Р°СЂСЏР¶Р°СЋСЃСЊ!"
 
 #: ../src/influ.c:2429
 msgid "No more ammunition !"
-msgstr "Кончились патроны!"
+msgstr "РљРѕРЅС‡РёР»РёСЃСЊ РїР°С‚СЂРѕРЅС‹!"
 
 #: ../src/influ.c:2913
 #, c-format
 msgid "This is a %s. %s"
-msgstr "Это %s. %s"
+msgstr "Р­С‚Рѕ %s. %s"
 
 #: ../src/influ.c:2942
 #, fuzzy, c-format
 msgid "Examining %s. %s"
-msgstr "Изучаю %s.  %s"
+msgstr "РР·СѓС‡Р°СЋ %s.  %s"
 
 #: ../src/influ.c:2954
 #, c-format
@@ -1657,10 +1692,11 @@ msgstr ""
 
 #: ../src/init.c:126
 msgid ""
-"My name is Bug. Software Bug. Please report me to the developers. Thank you."
+"My name is Bug. Software Bug. Please report me to the developers. "
+"Thank you."
 msgstr ""
-"Меня зовут глюк. Программный глюк. Пожалуйста сообщите обо мне "
-"разработчикам. Спасибо."
+"РњРµРЅСЏ Р·РѕРІСѓС‚ РіР»СЋРє. РџСЂРѕРіСЂР°РјРјРЅС‹Р№ РіР»СЋРє. РџРѕР¶Р°Р»СѓР№СЃС‚Р° СЃРѕРѕР±С‰РёС‚Рµ РѕР±Рѕ РјРЅРµ "
+"СЂР°Р·СЂР°Р±РѕС‚С‡РёРєР°Рј. РЎРїР°СЃРёР±Рѕ."
 
 #: ../src/init.c:129
 msgid "Hmm... This must be the token town sage."
@@ -1668,17 +1704,17 @@ msgstr ""
 
 #: ../src/init.c:131
 msgid ""
-"You see a legend. Sorenson Clark. One of the best human programmers that has "
-"ever lived. Just like Paganini, she is said to have sold her soul to the "
-"devil for her skill. Whatever the truth is, her code is like magic, and "
-"there is no denying that."
+"You see a legend. Sorenson Clark. One of the best human programmers "
+"that has ever lived. Just like Paganini, she is said to have sold her "
+"soul to the devil for her skill. Whatever the truth is, her code is "
+"like magic, and there is no denying that."
 msgstr ""
 
 #: ../src/init.c:133
 msgid ""
-"He is either a college student, a drug addict or a hacker. You bet he has "
-"not had a warm meal for days, he looks totally malnourished. His body keeps "
-"twitching. Must be the caffeine. You hope."
+"He is either a college student, a drug addict or a hacker. You bet he "
+"has not had a warm meal for days, he looks totally malnourished. His "
+"body keeps twitching. Must be the caffeine. You hope."
 msgstr ""
 
 #: ../src/init.c:135
@@ -1688,33 +1724,34 @@ msgstr ""
 #: ../src/init.c:137
 msgid ""
 "There are at least 614 reasons to stay away from the 614 bot battle "
-"platform. There are also 614 reasons why a 614 bot battle platform can be "
-"your best friend during combat..."
+"platform. There are also 614 reasons why a 614 bot battle platform "
+"can be your best friend during combat..."
 msgstr ""
 
 #: ../src/init.c:139
 msgid ""
-"Francis is not looking so good today. His tattered coat is not looking that "
-"much better. The war is taking its toll on them both."
+"Francis is not looking so good today. His tattered coat is not "
+"looking that much better. The war is taking its toll on them both."
 msgstr ""
 
 #: ../src/init.c:141
 msgid ""
-"What a strange person. He does not seem to really fit into this reality. "
-"There is something very eerie about him. And frightening."
+"What a strange person. He does not seem to really fit into this "
+"reality. There is something very eerie about him. And frightening."
 msgstr ""
 
 #: ../src/init.c:143
 msgid ""
-"This person looks totally defeated. Tattered clothes surround his skeletal "
-"form. If there was a fifth rider of the apocalypse, it would be him and his "
-"name would be Hard Work."
+"This person looks totally defeated. Tattered clothes surround his "
+"skeletal form. If there was a fifth rider of the apocalypse, it would "
+"be him and his name would be Hard Work."
 msgstr ""
 
 #: ../src/init.c:145
 msgid ""
-"It seems that even at the end of the world the species known as 'Salesman' "
-"is able to survive. Just his presence makes you want to destroy all humans."
+"It seems that even at the end of the world the species known as "
+"'Salesman' is able to survive. Just his presence makes you want to "
+"destroy all humans."
 msgstr ""
 
 #: ../src/init.c:147
@@ -1723,167 +1760,173 @@ msgstr ""
 
 #: ../src/init.c:149
 msgid ""
-"In some places of the world there exists a very interesting saying. 'Tough "
-"as nails.' However, in every place where the Stone trader family stays for a "
-"while, a new saying emerges. 'Tough as the Stones.'"
+"In some places of the world there exists a very interesting saying. "
+"'Tough as nails.' However, in every place where the Stone trader "
+"family stays for a while, a new saying emerges. 'Tough as the Stones.'"
 msgstr ""
 
 #: ../src/init.c:151
 msgid ""
-"It is very obvious that this is not a normal Red Guard. Most of them do not "
-"have oil stains on their armor, or smell of alcohol."
+"It is very obvious that this is not a normal Red Guard. Most of them "
+"do not have oil stains on their armor, or smell of alcohol."
 msgstr ""
 
 #: ../src/init.c:153
 msgid ""
-"It looks like a 614. It moves like a 614. It even kills like a 614. Must be "
-"a 614 then."
+"It looks like a 614. It moves like a 614. It even kills like a 614. "
+"Must be a 614 then."
 msgstr ""
 
 #: ../src/init.c:155
 msgid ""
-"He must be the resident scientist. The only thing keeping his body alive is "
-"the massive coffee overdose that he takes early every morning. The amount of "
-"caffeine that he has in his blood right now would be enough to kill ten "
-"humans, but since computer scientists are a different species, he is "
-"unharmed."
+"He must be the resident scientist. The only thing keeping his body "
+"alive is the massive coffee overdose that he takes early every "
+"morning. The amount of caffeine that he has in his blood right now "
+"would be enough to kill ten humans, but since computer scientists are "
+"a different species, he is unharmed."
 msgstr ""
 
 #: ../src/init.c:157
 msgid ""
-"Something about him makes you think of angels. Except angels are usually "
-"sane, do not have an urge to kill everything around them and are much better "
-"at singing religious songs."
+"Something about him makes you think of angels. Except angels are "
+"usually sane, do not have an urge to kill everything around them and "
+"are much better at singing religious songs."
 msgstr ""
 
 #: ../src/init.c:159
 msgid ""
-"As you look at him, you cannot really belive he is there. If you turn your "
-"back on him he will vanish like a ghost into thin air and you will never see "
-"him again."
+"As you look at him, you cannot really belive he is there. If you turn "
+"your back on him he will vanish like a ghost into thin air and you "
+"will never see him again."
 msgstr ""
 
 #: ../src/init.c:161
 msgid ""
-"His IQ is sometimes as high as a dog's. Only sometimes though. He smells "
-"like a dog too."
+"His IQ is sometimes as high as a dog's. Only sometimes though. He "
+"smells like a dog too."
 msgstr ""
 
 #: ../src/init.c:163
 msgid ""
-"He seems to be the chief of the gate guards. Hard to say anything more, the "
-"armor hides his body."
+"He seems to be the chief of the gate guards. Hard to say anything "
+"more, the armor hides his body."
 msgstr ""
 
 #: ../src/init.c:165
 #, fuzzy
 msgid ""
-"Yet another Red Guard, the ranged weapons instructor. The armor hides his "
-"body."
+"Yet another Red Guard, the ranged weapons instructor. The armor hides "
+"his body."
 msgstr ""
-"Еще один красноармеец. Сказать большего нельзя: защита скрывает его тело."
+"Р•С‰Рµ РѕРґРёРЅ РєСЂР°СЃРЅРѕР°СЂРјРµРµС†. РЎРєР°Р·Р°С‚СЊ Р±РѕР»СЊС€РµРіРѕ РЅРµР»СЊР·СЏ: Р·Р°С‰РёС‚Р° СЃРєСЂС‹РІР°РµС‚ РµРіРѕ "
+"С‚РµР»Рѕ."
 
 #: ../src/init.c:167
 msgid ""
-"Some people say that every doctor is addicted to drugs. You estimate that "
-"right now this one is high on at least four different narcotics. Doc Moore "
-"seems very happy indeed..."
+"Some people say that every doctor is addicted to drugs. You estimate "
+"that right now this one is high on at least four different narcotics. "
+"Doc Moore seems very happy indeed..."
 msgstr ""
 
 #: ../src/init.c:169
 msgid ""
-"Yet another Red Guard. You cannot say anything more, the armor hides his "
-"body."
+"Yet another Red Guard. You cannot say anything more, the armor hides "
+"his body."
 msgstr ""
-"Еще один красноармеец. Сказать большего нельзя: защита скрывает его тело."
+"Р•С‰Рµ РѕРґРёРЅ РєСЂР°СЃРЅРѕР°СЂРјРµРµС†. РЎРєР°Р·Р°С‚СЊ Р±РѕР»СЊС€РµРіРѕ РЅРµР»СЊР·СЏ: Р·Р°С‰РёС‚Р° СЃРєСЂС‹РІР°РµС‚ РµРіРѕ "
+"С‚РµР»Рѕ."
 
 #: ../src/init.c:171
 #, fuzzy
 msgid ""
-"He looks taller than most of the Red Guards, but you cannot really determine "
-"anything more about him, the armor hides his body."
+"He looks taller than most of the Red Guards, but you cannot really "
+"determine anything more about him, the armor hides his body."
 msgstr ""
-"Еще один красноармеец. Сказать большего нельзя: защита скрывает его тело."
+"Р•С‰Рµ РѕРґРёРЅ РєСЂР°СЃРЅРѕР°СЂРјРµРµС†. РЎРєР°Р·Р°С‚СЊ Р±РѕР»СЊС€РµРіРѕ РЅРµР»СЊР·СЏ: Р·Р°С‰РёС‚Р° СЃРєСЂС‹РІР°РµС‚ РµРіРѕ "
+"С‚РµР»Рѕ."
 
 #: ../src/init.c:173
 msgid ""
-"And now you know who is to be blamed for the truly awful food in here. You "
-"are in a killing mood. Oh yeah. The cook must die. The cook must die. Ha. "
-"Ha. Ha."
+"And now you know who is to be blamed for the truly awful food in "
+"here. You are in a killing mood. Oh yeah. The cook must die. The cook "
+"must die. Ha. Ha. Ha."
 msgstr ""
 
 #: ../src/init.c:175
 #, fuzzy
 msgid ""
-"This is a minor bug. Please report this incident to the developers. Thank "
-"you."
+"This is a minor bug. Please report this incident to the developers. "
+"Thank you."
 msgstr ""
-"Меня зовут глюк. Программный глюк. Пожалуйста сообщите обо мне "
-"разработчикам. Спасибо."
+"РњРµРЅСЏ Р·РѕРІСѓС‚ РіР»СЋРє. РџСЂРѕРіСЂР°РјРјРЅС‹Р№ РіР»СЋРє. РџРѕР¶Р°Р»СѓР№СЃС‚Р° СЃРѕРѕР±С‰РёС‚Рµ РѕР±Рѕ РјРЅРµ "
+"СЂР°Р·СЂР°Р±РѕС‚С‡РёРєР°Рј. РЎРїР°СЃРёР±Рѕ."
 
 #: ../src/init.c:177
 msgid ""
-"Blood. Stone. Cog. The Blood has made the Cog from the Stone. Now the Cog is "
-"making more Stone from the Blood. I wonder what is the next step of the "
-"cycle..."
+"Blood. Stone. Cog. The Blood has made the Cog from the Stone. Now the "
+"Cog is making more Stone from the Blood. I wonder what is the next "
+"step of the cycle..."
 msgstr ""
 
-#: ../src/init.c:179 ../src/init.c:181 ../src/init.c:183 ../src/init.c:185
+#: ../src/init.c:179 ../src/init.c:181 ../src/init.c:183
+#: ../src/init.c:185
 msgid "The armor hides his body."
 msgstr ""
 
 #: ../src/init.c:187
 msgid ""
-"This very well could be the most attractive human you've ever seen. There is "
-"something odd about her, though..."
+"This very well could be the most attractive human you've ever seen. "
+"There is something odd about her, though..."
 msgstr ""
 
 #: ../src/init.c:189
 msgid ""
-"This is Tom. He will introduce you to the game, and help you throughout this "
-"tutorial."
+"This is Tom. He will introduce you to the game, and help you "
+"throughout this tutorial."
 msgstr ""
 
 #: ../src/init.c:191
 #, fuzzy
 msgid "Keeper of the Red Guard armory.  The armor hides his body."
 msgstr ""
-"Еще один красноармеец. Сказать большего нельзя: защита скрывает его тело."
+"Р•С‰Рµ РѕРґРёРЅ РєСЂР°СЃРЅРѕР°СЂРјРµРµС†. РЎРєР°Р·Р°С‚СЊ Р±РѕР»СЊС€РµРіРѕ РЅРµР»СЊР·СЏ: Р·Р°С‰РёС‚Р° СЃРєСЂС‹РІР°РµС‚ РµРіРѕ "
+"С‚РµР»Рѕ."
 
 #: ../src/init.c:193
 msgid ""
-"This must be the guy Duncan told you about. At least, he's the only one "
-"around."
+"This must be the guy Duncan told you about. At least, he's the only "
+"one around."
 msgstr ""
 
 #: ../src/init.c:195
 msgid ""
-"A lonely scientist. The months she's spent trapped here seem to have taken "
-"their toll on her sanity."
+"A lonely scientist. The months she's spent trapped here seem to have "
+"taken their toll on her sanity."
 msgstr ""
 
 #: ../src/init.c:1608
 msgid "Huh? What?  Where am I?"
-msgstr "А? Что? Где я?"
+msgstr "Рђ? Р§С‚Рѕ? Р“РґРµ СЏ?"
 
 #: ../src/init.c:1711
 msgid "Updating Tux images"
-msgstr "Одновляю картинки Тукса"
+msgstr "РћРґРЅРѕРІР»СЏСЋ РєР°СЂС‚РёРЅРєРё РўСѓРєСЃР°"
 
 #: ../src/init.c:1712
 msgid "(this may take a little while...)"
-msgstr "(на это может потребоваться время...)"
+msgstr "(РЅР° СЌС‚Рѕ РјРѕР¶РµС‚ РїРѕС‚СЂРµР±РѕРІР°С‚СЊСЃСЏ РІСЂРµРјСЏ...)"
 
 #: ../src/init.c:1715
 msgid "Starting new game."
-msgstr "Началась новая игра"
+msgstr "РќР°С‡Р°Р»Р°СЃСЊ РЅРѕРІР°СЏ РёРіСЂР°"
 
 #: ../src/init.c:1998
 msgid ""
 "\n"
 "You are playing a candidate release.\n"
 "Many strange bugs might still be present in the game.\n"
-"Please report anything you may find to #freedroid at irc.freenode.net, or\n"
+"Please report anything you may find to #freedroid at irc.freenode."
+"net, or\n"
 " by mail to freedroid-discussion at lists.sourceforge.net\n"
 "Thank you for helping us test the game.\n"
 "Good luck!\n"
@@ -1891,11 +1934,11 @@ msgstr ""
 
 #: ../src/init.c:2017
 msgid "Game over.\n"
-msgstr "Игра окончена.\n"
+msgstr "РРіСЂР° РѕРєРѕРЅС‡РµРЅР°.\n"
 
 #: ../src/init.c:2104
 msgid "Game won.\n"
-msgstr "Вы победили.\n"
+msgstr "Р’С‹ РїРѕР±РµРґРёР»Рё.\n"
 
 #: ../src/items.c:449
 msgid " (Unidentified)"
@@ -1908,32 +1951,33 @@ msgstr ""
 #: ../src/items.c:1142
 #, c-format
 msgid "How do you expect to do two things at a time? You are "
-msgstr "Я не Цезарь, чтобы делать два дела сразу? Я уже "
+msgstr "РЇ РЅРµ Р¦РµР·Р°СЂСЊ, С‡С‚РѕР±С‹ РґРµР»Р°С‚СЊ РґРІР° РґРµР»Р° СЃСЂР°Р·Сѓ? РЇ СѓР¶Рµ "
 
 #: ../src/items.c:1146
 msgid "drinking a potion!"
-msgstr "пью напиток!"
+msgstr "РїСЊСЋ РЅР°РїРёС‚РѕРє!"
 
 #: ../src/items.c:1149
 #, fuzzy
 msgid "waiting for your weapon to fire again!"
-msgstr "Жду, перезарядки оружия, чтобы снова выстрелить!"
+msgstr "Р–РґСѓ, РїРµСЂРµР·Р°СЂСЏРґРєРё РѕСЂСѓР¶РёСЏ, С‡С‚РѕР±С‹ СЃРЅРѕРІР° РІС‹СЃС‚СЂРµР»РёС‚СЊ!"
 
 #: ../src/items.c:1152
 msgid "reloading your weapon!"
-msgstr "перезаряжаю пушку!"
+msgstr "РїРµСЂРµР·Р°СЂСЏР¶Р°СЋ РїСѓС€РєСѓ!"
 
 #: ../src/items.c:1155
 msgid "throwing a grenade!"
-msgstr "кидаю гранату!"
+msgstr "РєРёРґР°СЋ РіСЂР°РЅР°С‚Сѓ!"
 
 #: ../src/items.c:1158
 msgid "running a program!"
-msgstr "Выполняю программу!"
+msgstr "Р’С‹РїРѕР»РЅСЏСЋ РїСЂРѕРіСЂР°РјРјСѓ!"
 
 #: ../src/items.c:1161
 msgid "doing something so weird the game does not understand what it is"
-msgstr "делаю что-то настолько хитрое, что игра не может понять что именно."
+msgstr ""
+"РґРµР»Р°СЋ С‡С‚Рѕ-С‚Рѕ РЅР°СЃС‚РѕР»СЊРєРѕ С…РёС‚СЂРѕРµ, С‡С‚Рѕ РёРіСЂР° РЅРµ РјРѕР¶РµС‚ РїРѕРЅСЏС‚СЊ С‡С‚Рѕ РёРјРµРЅРЅРѕ."
 
 #: ../src/items.c:2126 ../src/items.c:2161 ../src/items.c:2163
 msgid "Identified air."
@@ -1950,25 +1994,27 @@ msgid "Identified %s"
 msgstr ""
 
 #: ../src/items.c:2418
-msgid "Two-handed weapon requirements not met: shield bonus doesn't count."
+msgid ""
+"Two-handed weapon requirements not met: shield bonus doesn't count."
 msgstr ""
 
 #: ../src/items.c:2437
 msgid "You cannot fight with this!"
-msgstr "С этим я на трезвую голову драться не могу!"
+msgstr "РЎ СЌС‚РёРј СЏ РЅР° С‚СЂРµР·РІСѓСЋ РіРѕР»РѕРІСѓ РґСЂР°С‚СЊСЃСЏ РЅРµ РјРѕРіСѓ!"
 
 #: ../src/items.c:2480
-msgid "Shield requirements not met: two-handed weapon bonus doesn't count."
+msgid ""
+"Shield requirements not met: two-handed weapon bonus doesn't count."
 msgstr ""
 
 #: ../src/items.c:2601
 #, c-format
 msgid "Item taken: %s."
-msgstr "Предмет взят: %s."
+msgstr "РџСЂРµРґРјРµС‚ РІР·СЏС‚: %s."
 
 #: ../src/items.c:2653 ../src/items.c:2827
 msgid "I can't carry any more."
-msgstr "Я не могу столько тащить."
+msgstr "РЇ РЅРµ РјРѕРіСѓ СЃС‚РѕР»СЊРєРѕ С‚Р°С‰РёС‚СЊ."
 
 #: ../src/keyboard.c:308
 msgid "ARROWS to select, ENTER to remap, ESCAPE to exit"
@@ -1988,21 +2034,21 @@ msgstr ""
 
 #: ../src/lua.c:266
 msgid "1 Item received (on floor)"
-msgstr "1 предмет получен (валяется на полу)"
+msgstr "1 РїСЂРµРґРјРµС‚ РїРѕР»СѓС‡РµРЅ (РІР°Р»СЏРµС‚СЃСЏ РЅР° РїРѕР»Сѓ)"
 
 #: ../src/lua.c:270
 msgid "1 Item received!"
-msgstr "1 предмет получен!"
+msgstr "1 РїСЂРµРґРјРµС‚ РїРѕР»СѓС‡РµРЅ!"
 
 #: ../src/lua.c:365
 #, fuzzy, c-format
 msgid "+%d Experience Points"
-msgstr "Опыт"
+msgstr "РћРїС‹С‚"
 
 #: ../src/lua.c:375
 #, fuzzy, c-format
 msgid "%d training point(s) spent!"
-msgstr "Очки опыта"
+msgstr "РћС‡РєРё РѕРїС‹С‚Р°"
 
 #: ../src/lua.c:399
 #, c-format
@@ -2133,20 +2179,20 @@ msgstr ""
 #: ../src/menu.c:112
 #, c-format
 msgid "OpenGL support compiled: "
-msgstr "Собрано с поддержкой OpenGL: "
+msgstr "РЎРѕР±СЂР°РЅРѕ СЃ РїРѕРґРґРµСЂР¶РєРѕР№ OpenGL: "
 
 #: ../src/menu.c:114 ../src/menu.c:121
 msgid " YES "
-msgstr " ДА "
+msgstr " Р”Рђ "
 
 #: ../src/menu.c:116 ../src/menu.c:123
 msgid " NO "
-msgstr " НЕТ "
+msgstr " РќР•Рў "
 
 #: ../src/menu.c:119
 #, c-format
 msgid "OpenGL output active: "
-msgstr "Вывод через OpenGL: "
+msgstr "Р’С‹РІРѕРґ С‡РµСЂРµР· OpenGL: "
 
 #: ../src/menu.c:251 ../src/menu.c:2344
 msgid "[down]"
@@ -2158,32 +2204,33 @@ msgstr ""
 
 #: ../src/menu.c:1425
 msgid "Play"
-msgstr "Играть"
+msgstr "РРіСЂР°С‚СЊ"
 
 #: ../src/menu.c:1426
 #, fuzzy
 msgid "Tutorial"
-msgstr "Терминал"
+msgstr "РўРµСЂРјРёРЅР°Р»"
 
 #: ../src/menu.c:1427
 msgid "Level Editor"
-msgstr "Редактор уровней"
+msgstr "Р РµРґР°РєС‚РѕСЂ СѓСЂРѕРІРЅРµР№"
 
 #: ../src/menu.c:1428 ../src/menu.c:1561
 msgid "Options"
-msgstr "Настройки"
+msgstr "РќР°СЃС‚СЂРѕР№РєРё"
 
 #: ../src/menu.c:1429
 msgid "Credits"
-msgstr "Разработчики"
+msgstr "Р Р°Р·СЂР°Р±РѕС‚С‡РёРєРё"
 
 #: ../src/menu.c:1430
 msgid "Contribute"
-msgstr "Помочь проекту"
+msgstr "РџРѕРјРѕС‡СЊ РїСЂРѕРµРєС‚Сѓ"
 
-#: ../src/menu.c:1431 ../src/menu.c:1568 ../src/lvledit/lvledit_menu.c:970
+#: ../src/menu.c:1431 ../src/menu.c:1568
+#: ../src/lvledit/lvledit_menu.c:970
 msgid "Exit FreedroidRPG"
-msgstr "Выйти из FreedroidRPG"
+msgstr "Р’С‹Р№С‚Рё РёР· FreedroidRPG"
 
 #: ../src/menu.c:1465
 msgid ""
@@ -2209,11 +2256,11 @@ msgstr ""
 
 #: ../src/menu.c:1498
 msgid "Graphics Options"
-msgstr "Настройки графики"
+msgstr "РќР°СЃС‚СЂРѕР№РєРё РіСЂР°С„РёРєРё"
 
 #: ../src/menu.c:1499
 msgid "Sound Options"
-msgstr "Настройки звука"
+msgstr "РќР°СЃС‚СЂРѕР№РєРё Р·РІСѓРєР°"
 
 #: ../src/menu.c:1500
 msgid "Keys"
@@ -2221,52 +2268,53 @@ msgstr ""
 
 #: ../src/menu.c:1501
 msgid "Language"
-msgstr "Язык"
+msgstr "РЇР·С‹Рє"
 
 #: ../src/menu.c:1502
 msgid "Droid Talk"
-msgstr "Разговоры дроидов"
+msgstr "Р Р°Р·РіРѕРІРѕСЂС‹ РґСЂРѕРёРґРѕРІ"
 
 #: ../src/menu.c:1503
 msgid "On-Screen Displays"
-msgstr "Экранные информаторы"
+msgstr "Р­РєСЂР°РЅРЅС‹Рµ РёРЅС„РѕСЂРјР°С‚РѕСЂС‹"
 
 #: ../src/menu.c:1504
 msgid "Performance Tweaks"
-msgstr "Настройки производительности"
+msgstr "РќР°СЃС‚СЂРѕР№РєРё РїСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚Рё"
 
-#: ../src/menu.c:1505 ../src/menu.c:1647 ../src/menu.c:1753 ../src/menu.c:1829
-#: ../src/menu.c:1914 ../src/menu.c:2029 ../src/menu.c:2087 ../src/menu.c:2347
-#: ../src/menu.c:2466 ../src/lvledit/lvledit_menu.c:131
-#: ../src/lvledit/lvledit_menu.c:350 ../src/lvledit/lvledit_menu.c:546
-#: ../src/lvledit/lvledit_menu.c:706 ../src/lvledit/lvledit_menu.c:876
+#: ../src/menu.c:1505 ../src/menu.c:1647 ../src/menu.c:1753
+#: ../src/menu.c:1829 ../src/menu.c:1914 ../src/menu.c:2029
+#: ../src/menu.c:2087 ../src/menu.c:2347 ../src/menu.c:2466
+#: ../src/lvledit/lvledit_menu.c:131 ../src/lvledit/lvledit_menu.c:350
+#: ../src/lvledit/lvledit_menu.c:546 ../src/lvledit/lvledit_menu.c:706
+#: ../src/lvledit/lvledit_menu.c:876
 msgid "Back"
-msgstr "Назад"
+msgstr "РќР°Р·Р°Рґ"
 
 #: ../src/menu.c:1556
 #, fuzzy
 msgid "Resume Play"
-msgstr "Продолжить игру"
+msgstr "РџСЂРѕРґРѕР»Р¶РёС‚СЊ РёРіСЂСѓ"
 
 #: ../src/menu.c:1558
 #, fuzzy
 msgid "Resume Playtest"
-msgstr "Продолжить игру"
+msgstr "РџСЂРѕРґРѕР»Р¶РёС‚СЊ РёРіСЂСѓ"
 
 #: ../src/menu.c:1560
 #, fuzzy
 msgid "Save Hero"
-msgstr "Создать нового героя"
+msgstr "РЎРѕР·РґР°С‚СЊ РЅРѕРІРѕРіРѕ РіРµСЂРѕСЏ"
 
 #: ../src/menu.c:1562
 #, fuzzy
 msgid "Load Latest"
-msgstr "Загрузить игру"
+msgstr "Р—Р°РіСЂСѓР·РёС‚СЊ РёРіСЂСѓ"
 
 #: ../src/menu.c:1563
 #, fuzzy
 msgid "Load Backup"
-msgstr "Загрузить игру"
+msgstr "Р—Р°РіСЂСѓР·РёС‚СЊ РёРіСЂСѓ"
 
 #: ../src/menu.c:1565 ../src/lvledit/lvledit_menu.c:969
 msgid "Quit to Main Menu"
@@ -2275,7 +2323,7 @@ msgstr ""
 #: ../src/menu.c:1567
 #, fuzzy
 msgid "Return to Level Editor"
-msgstr "Редактор уровней"
+msgstr "Р РµРґР°РєС‚РѕСЂ СѓСЂРѕРІРЅРµР№"
 
 #: ../src/menu.c:1608
 #, c-format
@@ -2301,82 +2349,84 @@ msgstr ""
 #: ../src/menu.c:1736
 #, c-format
 msgid "Change Screen Resolution"
-msgstr "Изменить разрешение"
+msgstr "РР·РјРµРЅРёС‚СЊ СЂР°Р·СЂРµС€РµРЅРёРµ"
 
 #: ../src/menu.c:1737
 #, fuzzy, c-format
 msgid "Fullscreen Mode"
-msgstr "Полноэкранный режим: %s"
+msgstr "РџРѕР»РЅРѕСЌРєСЂР°РЅРЅС‹Р№ СЂРµР¶РёРј: %s"
 
-#: ../src/menu.c:1738 ../src/menu.c:2024 ../src/menu.c:2025 ../src/menu.c:2026
-#: ../src/menu.c:2068 ../src/menu.c:2072 ../src/menu.c:2076 ../src/menu.c:2080
-#: ../src/menu.c:2084
+#: ../src/menu.c:1738 ../src/menu.c:2024 ../src/menu.c:2025
+#: ../src/menu.c:2026 ../src/menu.c:2068 ../src/menu.c:2072
+#: ../src/menu.c:2076 ../src/menu.c:2080 ../src/menu.c:2084
 msgid "ON"
-msgstr "ВКЛ"
+msgstr "Р’РљР›"
 
-#: ../src/menu.c:1738 ../src/menu.c:2024 ../src/menu.c:2025 ../src/menu.c:2026
-#: ../src/menu.c:2068 ../src/menu.c:2072 ../src/menu.c:2076 ../src/menu.c:2080
-#: ../src/menu.c:2084
+#: ../src/menu.c:1738 ../src/menu.c:2024 ../src/menu.c:2025
+#: ../src/menu.c:2026 ../src/menu.c:2068 ../src/menu.c:2072
+#: ../src/menu.c:2076 ../src/menu.c:2080 ../src/menu.c:2084
 msgid "OFF"
-msgstr "ВЫКЛ"
+msgstr "Р’Р«РљР›"
 
 #: ../src/menu.c:1741
 #, fuzzy, c-format
 msgid "Gamma Correction"
-msgstr "Гамма коррекция %1.2f"
+msgstr "Р“Р°РјРјР° РєРѕСЂСЂРµРєС†РёСЏ %1.2f"
 
 #: ../src/menu.c:1745
 #, fuzzy, c-format
 msgid "Show Blood"
-msgstr "Отображать кровь: %s"
+msgstr "РћС‚РѕР±СЂР°Р¶Р°С‚СЊ РєСЂРѕРІСЊ: %s"
 
-#: ../src/menu.c:1746 ../src/menu.c:1895 ../src/menu.c:1903 ../src/menu.c:1907
-#: ../src/menu.c:1911 ../src/lvledit/lvledit_menu.c:702
+#: ../src/menu.c:1746 ../src/menu.c:1895 ../src/menu.c:1903
+#: ../src/menu.c:1907 ../src/menu.c:1911
+#: ../src/lvledit/lvledit_menu.c:702
 msgid "YES"
-msgstr "ДА"
+msgstr "Р”Рђ"
 
-#: ../src/menu.c:1746 ../src/menu.c:1895 ../src/menu.c:1903 ../src/menu.c:1907
-#: ../src/menu.c:1911 ../src/lvledit/lvledit_menu.c:703
+#: ../src/menu.c:1746 ../src/menu.c:1895 ../src/menu.c:1903
+#: ../src/menu.c:1907 ../src/menu.c:1911
+#: ../src/lvledit/lvledit_menu.c:703
 msgid "NO"
-msgstr "НЕТ"
+msgstr "РќР•Рў"
 
 #: ../src/menu.c:1749
 #, fuzzy, c-format
 msgid "Automap Scale"
-msgstr "Масштаб автокарты: %2.1f"
+msgstr "РњР°СЃС€С‚Р°Р± Р°РІС‚РѕРєР°СЂС‚С‹: %2.1f"
 
 #: ../src/menu.c:1821
 #, fuzzy, c-format
 msgid "Background Music Volume"
-msgstr "Громкость фоновой музыки: %1.2f"
+msgstr "Р“СЂРѕРјРєРѕСЃС‚СЊ С„РѕРЅРѕРІРѕР№ РјСѓР·С‹РєРё: %1.2f"
 
 #: ../src/menu.c:1825
 #, fuzzy, c-format
 msgid "Sound Effects Volume"
-msgstr "Громкость звуковых эффектов: %1.2f"
+msgstr "Р“СЂРѕРјРєРѕСЃС‚СЊ Р·РІСѓРєРѕРІС‹С… СЌС„С„РµРєС‚РѕРІ: %1.2f"
 
 #: ../src/menu.c:1894
 #, fuzzy, c-format
 msgid "Hog CPU for max. performance"
-msgstr "Захватывать CPU для увеличения производительности: %s"
+msgstr "Р—Р°С…РІР°С‚С‹РІР°С‚СЊ CPU РґР»СЏ СѓРІРµР»РёС‡РµРЅРёСЏ РїСЂРѕРёР·РІРѕРґРёС‚РµР»СЊРЅРѕСЃС‚Рё: %s"
 
 #: ../src/menu.c:1898
 #, fuzzy, c-format
 msgid "Highlighting mode"
-msgstr "Режим подсветки: %s"
+msgstr "Р РµР¶РёРј РїРѕРґСЃРІРµС‚РєРё: %s"
 
 #: ../src/menu.c:1899
 msgid "FULL"
-msgstr "ПОЛНЫЙ"
+msgstr "РџРћР›РќР«Р™"
 
 #: ../src/menu.c:1899
 msgid "REDUCED"
-msgstr "СОКРАЩЕННЫЙ"
+msgstr "РЎРћРљР РђР©Р•РќРќР«Р™"
 
 #: ../src/menu.c:1902
 #, fuzzy, c-format
 msgid "Skip light radius"
-msgstr "%d к радиусу освещенности"
+msgstr "%d Рє СЂР°РґРёСѓСЃСѓ РѕСЃРІРµС‰РµРЅРЅРѕСЃС‚Рё"
 
 #: ../src/menu.c:1906
 #, c-format
@@ -2391,22 +2441,22 @@ msgstr ""
 #: ../src/menu.c:2024
 #, c-format
 msgid "Show Position: %s"
-msgstr "Показывать положение: %s"
+msgstr "РџРѕРєР°Р·С‹РІР°С‚СЊ РїРѕР»РѕР¶РµРЅРёРµ: %s"
 
 #: ../src/menu.c:2025
 #, c-format
 msgid "Show Framerate: %s"
-msgstr "Показывать частоту кадров: %s"
+msgstr "РџРѕРєР°Р·С‹РІР°С‚СЊ С‡Р°СЃС‚РѕС‚Сѓ РєР°РґСЂРѕРІ: %s"
 
 #: ../src/menu.c:2026
 #, fuzzy, c-format
 msgid "Show Energy Bars: %s"
-msgstr "Отображать кол-во энергии противников: %s"
+msgstr "РћС‚РѕР±СЂР°Р¶Р°С‚СЊ РєРѕР»-РІРѕ СЌРЅРµСЂРіРёРё РїСЂРѕС‚РёРІРЅРёРєРѕРІ: %s"
 
 #: ../src/menu.c:2027
 #, c-format
 msgid "Screen Messages at most: %d"
-msgstr "Сообщений на экране не более: %d"
+msgstr "РЎРѕРѕР±С‰РµРЅРёР№ РЅР° СЌРєСЂР°РЅРµ РЅРµ Р±РѕР»РµРµ: %d"
 
 #: ../src/menu.c:2028
 #, c-format
@@ -2436,7 +2486,7 @@ msgstr ""
 #: ../src/menu.c:2083
 #, fuzzy, c-format
 msgid "Reprogram bots after takeover"
-msgstr "Перепрограммировать ботов после захвата: %s"
+msgstr "РџРµСЂРµРїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°С‚СЊ Р±РѕС‚РѕРІ РїРѕСЃР»Рµ Р·Р°С…РІР°С‚Р°: %s"
 
 #: ../src/menu.c:2104
 msgid ""
@@ -2448,15 +2498,15 @@ msgid ""
 "     > "
 msgstr ""
 "\n"
-"     Пожалуйста, введите\n"
-"     имя нового героя: \n"
-"     (ESCAPE для отмены)\n"
+"     РџРѕР¶Р°Р»СѓР№СЃС‚Р°, РІРІРµРґРёС‚Рµ\n"
+"     РёРјСЏ РЅРѕРІРѕРіРѕ РіРµСЂРѕСЏ: \n"
+"     (ESCAPE РґР»СЏ РѕС‚РјРµРЅС‹)\n"
 "\n"
 "     > "
 
 #: ../src/menu.c:2378 ../src/menu.c:2407
 msgid "BACK"
-msgstr "НАЗАД"
+msgstr "РќРђР—РђР”"
 
 #: ../src/menu.c:2381
 #, fuzzy
@@ -2467,65 +2517,65 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Сохраненных игр не обнаружено! Загрузка невозможна. "
+"РЎРѕС…СЂР°РЅРµРЅРЅС‹С… РёРіСЂ РЅРµ РѕР±РЅР°СЂСѓР¶РµРЅРѕ! Р—Р°РіСЂСѓР·РєР° РЅРµРІРѕР·РјРѕР¶РЅР°. "
 
 #: ../src/menu.c:2406
 msgid "Sure!"
-msgstr "Уверен!"
+msgstr "РЈРІРµСЂРµРЅ!"
 
 #: ../src/menu.c:2409
 #, c-format
 msgid "Really delete hero '%s'?"
-msgstr "Вы уверены, что хотите удалить героя '%s'?"
+msgstr "Р’С‹ СѓРІРµСЂРµРЅС‹, С‡С‚Рѕ С…РѕС‚РёС‚Рµ СѓРґР°Р»РёС‚СЊ РіРµСЂРѕСЏ '%s'?"
 
 #: ../src/menu.c:2463
 msgid "New Hero"
-msgstr "Создать нового героя"
+msgstr "РЎРѕР·РґР°С‚СЊ РЅРѕРІРѕРіРѕ РіРµСЂРѕСЏ"
 
 #: ../src/menu.c:2464
 msgid "Load existing Hero"
-msgstr "Загрузить существующего героя"
+msgstr "Р—Р°РіСЂСѓР·РёС‚СЊ СЃСѓС‰РµСЃС‚РІСѓСЋС‰РµРіРѕ РіРµСЂРѕСЏ"
 
 #: ../src/menu.c:2465
 msgid "Delete existing Hero"
-msgstr "Удалить существующего героя"
+msgstr "РЈРґР°Р»РёС‚СЊ СЃСѓС‰РµСЃС‚РІСѓСЋС‰РµРіРѕ РіРµСЂРѕСЏ"
 
 #: ../src/misc.c:746
 msgid "Pausing game..."
-msgstr "Приостанавливаю игру..."
+msgstr "РџСЂРёРѕСЃС‚Р°РЅР°РІР»РёРІР°СЋ РёРіСЂСѓ..."
 
 #: ../src/misc.c:760
 msgid "GAME PAUSED"
-msgstr "ИГРА ПРИОСТАНОВЛЕНА"
+msgstr "РР“Р Рђ РџР РРћРЎРўРђРќРћР’Р›Р•РќРђ"
 
 #: ../src/misc.c:774
 msgid "Game resumed."
-msgstr "Игра возобновлена."
+msgstr "РРіСЂР° РІРѕР·РѕР±РЅРѕРІР»РµРЅР°."
 
 #: ../src/misc.c:1325
 #, c-format
 msgid "Arrived at %s."
-msgstr "Вы прибыли в %s."
+msgstr "Р’С‹ РїСЂРёР±С‹Р»Рё РІ %s."
 
 #: ../src/mission.c:97
 msgid "Mission: "
-msgstr "Миссия: "
+msgstr "РњРёСЃСЃРёСЏ: "
 
 #: ../src/mission.c:108
 msgid "Status: "
-msgstr "Статус: "
+msgstr "РЎС‚Р°С‚СѓСЃ: "
 
 #: ../src/mission.c:110
 msgid "COMPLETE"
-msgstr "ВЫПОЛНЕНА"
+msgstr "Р’Р«РџРћР›РќР•РќРђ"
 
 #: ../src/mission.c:112
 msgid "FAILED"
-msgstr "ПРОВАЛЕНА"
+msgstr "РџР РћР’РђР›Р•РќРђ"
 
 #: ../src/mission.c:114
 msgid "STILL OPEN"
-msgstr "ОТКРЫТА"
+msgstr "РћРўРљР Р«РўРђ"
 
 #: ../src/mission.c:115
 msgid ""
@@ -2535,11 +2585,11 @@ msgstr ""
 
 #: ../src/mission.c:273
 msgid "No open quests yet."
-msgstr "Нет открытых квестов."
+msgstr "РќРµС‚ РѕС‚РєСЂС‹С‚С‹С… РєРІРµСЃС‚РѕРІ."
 
 #: ../src/mission.c:276
 msgid "No completed quests yet."
-msgstr "Нет выполненых квестов."
+msgstr "РќРµС‚ РІС‹РїРѕР»РЅРµРЅС‹С… РєРІРµСЃС‚РѕРІ."
 
 #: ../src/mission.c:279
 msgid "No notes yet."
@@ -2549,10 +2599,10 @@ msgstr ""
 msgid ""
 "An error occured when trying to load the savegame.\n"
 "A common reason for this is that the game has been updated to a newer "
-"version since the save was made, in which case the savegame is very likely "
-"not compatible.\n"
-"However if you see this message and you have not updated the game, make sure "
-"to report this to the developers.\n"
+"version since the save was made, in which case the savegame is very "
+"likely not compatible.\n"
+"However if you see this message and you have not updated the game, "
+"make sure to report this to the developers.\n"
 "Thanks!"
 msgstr ""
 
@@ -2582,17 +2632,17 @@ msgstr ""
 
 #: ../src/saveloadgame.c:369
 msgid "Game saved."
-msgstr "Игра сохранена."
+msgstr "РРіСЂР° СЃРѕС…СЂР°РЅРµРЅР°."
 
 #: ../src/saveloadgame.c:449
 msgid ""
 "\n"
 "W A R N I N G !\n"
 "\n"
-"FreedroidRPG was unable to locate the saved game file you requested to "
-"load.\n"
-"This might mean that it really isn't there cause you tried to load a game "
-"without ever having saved the game before.  \n"
+"FreedroidRPG was unable to locate the saved game file you requested "
+"to load.\n"
+"This might mean that it really isn't there cause you tried to load a "
+"game without ever having saved the game before.  \n"
 "The other explanation of this error might be a severe error in "
 "FreedroidRPG.\n"
 "Nothing will be done about it."
@@ -2600,12 +2650,12 @@ msgstr ""
 
 #: ../src/saveloadgame.c:450
 msgid "Failed to load old game."
-msgstr "При загрузке игры произошла ошибка."
+msgstr "РџСЂРё Р·Р°РіСЂСѓР·РєРµ РёРіСЂС‹ РїСЂРѕРёР·РѕС€Р»Р° РѕС€РёР±РєР°."
 
 #: ../src/saveloadgame.c:556
 msgid ""
-"Version or structsize mismatch! The savegame is not from the same version of "
-"freedroidRPG... possible breakage.\n"
+"Version or structsize mismatch! The savegame is not from the same "
+"version of freedroidRPG... possible breakage.\n"
 msgstr ""
 
 #: ../src/saveloadgame.c:593
@@ -2614,11 +2664,11 @@ msgstr ""
 
 #: ../src/saveloadgame.c:598
 msgid "Game loaded."
-msgstr "Игра загружена."
+msgstr "РРіСЂР° Р·Р°РіСЂСѓР¶РµРЅР°."
 
 #: ../src/shop.c:612
 msgid "Weapon"
-msgstr "Оружие"
+msgstr "РћСЂСѓР¶РёРµ"
 
 #: ../src/shop.c:614
 msgid "Drive"
@@ -2630,7 +2680,7 @@ msgstr ""
 
 #: ../src/shop.c:620
 msgid "Helm"
-msgstr "Шлем"
+msgstr "РЁР»РµРј"
 
 #: ../src/shop.c:621
 msgid "Miscellaneous"
@@ -2649,7 +2699,7 @@ msgstr ""
 
 #: ../src/shop.c:650
 msgid "Multiplicity: "
-msgstr "Количество: "
+msgstr "РљРѕР»РёС‡РµСЃС‚РІРѕ: "
 
 #: ../src/shop.c:657
 msgid "Duration: "
@@ -2761,20 +2811,22 @@ msgid " This weapon requires 7.62x39mm rounds."
 msgstr ""
 
 #: ../src/shop.c:814
-msgid " This weapon requires .50 (12.7x99mm) Browning Machine Gun rounds."
+msgid ""
+" This weapon requires .50 (12.7x99mm) Browning Machine Gun rounds."
 msgstr ""
 
 #: ../src/shop.c:1248 ../src/shop.c:1275 ../src/shop.c:1497
 msgid "Yes"
-msgstr "Да"
+msgstr "Р”Р°"
 
 #: ../src/shop.c:1249 ../src/shop.c:1276 ../src/shop.c:1498
 msgid "No"
-msgstr "Нет"
+msgstr "РќРµС‚"
 
-#: ../src/shop.c:1256 ../src/shop.c:1283 ../src/shop.c:1437 ../src/shop.c:1523
+#: ../src/shop.c:1256 ../src/shop.c:1283 ../src/shop.c:1437
+#: ../src/shop.c:1523
 msgid " BACK "
-msgstr " НАЗАД "
+msgstr " РќРђР—РђР” "
 
 #: ../src/shop.c:1259
 msgid ""
@@ -2797,7 +2849,8 @@ msgstr ""
 #: ../src/shop.c:1464
 msgid ""
 "\n"
-"Tried to take 0 items of a kind from chest or cointainer... doing nothing... "
+"Tried to take 0 items of a kind from chest or cointainer... doing "
+"nothing... "
 msgstr ""
 
 #: ../src/shop.c:1526
@@ -2860,7 +2913,7 @@ msgstr ""
 #: ../src/skills.c:844
 #, c-format
 msgid "Poison"
-msgstr "Яд"
+msgstr "РЇРґ"
 
 #: ../src/skills.c:848
 #, c-format
@@ -2870,7 +2923,7 @@ msgstr ""
 #: ../src/skills.c:851
 #, c-format
 msgid "Escape"
-msgstr "Выход"
+msgstr "Р’С‹С…РѕРґ"
 
 #: ../src/skills.c:853
 #, c-format
@@ -2910,7 +2963,7 @@ msgstr ""
 #: ../src/takeover.c:465
 #, c-format
 msgid "For taking control of your enemy, you receive %d experience."
-msgstr "За перехват вашего противника вы получаете %d опыта."
+msgstr "Р—Р° РїРµСЂРµС…РІР°С‚ РІР°С€РµРіРѕ РїСЂРѕС‚РёРІРЅРёРєР° РІС‹ РїРѕР»СѓС‡Р°РµС‚Рµ %d РѕРїС‹С‚Р°."
 
 #: ../src/takeover.c:505
 msgid "You cheat"
@@ -2918,11 +2971,11 @@ msgstr ""
 
 #: ../src/takeover.c:507
 msgid "Complete"
-msgstr "Завершено"
+msgstr "Р—Р°РІРµСЂС€РµРЅРѕ"
 
 #: ../src/takeover.c:517
 msgid "Rejected"
-msgstr "Отказано"
+msgstr "РћС‚РєР°Р·Р°РЅРѕ"
 
 #: ../src/takeover.c:525
 msgid "Deadlock"
@@ -2931,7 +2984,7 @@ msgstr ""
 #: ../src/takeover.c:622
 #, c-format
 msgid "Color-%d"
-msgstr "Цвет-%d"
+msgstr "Р¦РІРµС‚-%d"
 
 #: ../src/takeover.c:661
 #, c-format
@@ -2941,12 +2994,12 @@ msgstr ""
 #: ../src/takeover.c:715
 #, c-format
 msgid "Finish-%d"
-msgstr "Прикончи-%d"
+msgstr "РџСЂРёРєРѕРЅС‡Рё-%d"
 
 #: ../src/takeover.c:1963
 #, c-format
 msgid "Score"
-msgstr "Очки"
+msgstr "РћС‡РєРё"
 
 #: ../src/text.c:187
 msgid "Unhandled exception fault.  Press ok to reboot."
@@ -2975,7 +3028,7 @@ msgstr ""
 #: ../src/view.c:258
 #, c-format
 msgid "GPS: X=%3.1f Y=%3.1f Lev=%d"
-msgstr "GPS: X=%3.1f Y=%3.1f Ур=%d"
+msgstr "GPS: X=%3.1f Y=%3.1f РЈСЂ=%d"
 
 #: ../src/view.c:275
 #, c-format
@@ -2990,21 +3043,21 @@ msgstr ""
 #: ../src/view.c:314
 #, fuzzy, c-format
 msgid "Bots remaining on level: %d\n"
-msgstr "На уровне осталось %d ботов"
+msgstr "РќР° СѓСЂРѕРІРЅРµ РѕСЃС‚Р°Р»РѕСЃСЊ %d Р±РѕС‚РѕРІ"
 
 #: ../src/vars.h:128
 #, fuzzy
 msgid "untrained"
-msgstr "Вход"
+msgstr "Р’С…РѕРґ"
 
 #: ../src/vars.h:129
 msgid "novice"
-msgstr "новичок"
+msgstr "РЅРѕРІРёС‡РѕРє"
 
 #: ../src/vars.h:130
 #, fuzzy
 msgid "apprentice"
-msgstr "Опыт"
+msgstr "РћРїС‹С‚"
 
 #: ../src/vars.h:131
 msgid "professional"
@@ -3013,7 +3066,7 @@ msgstr ""
 #: ../src/vars.h:132
 #, fuzzy
 msgid "master"
-msgstr "мастер"
+msgstr "РјР°СЃС‚РµСЂ"
 
 #: ../src/vars.h:133
 msgid "god"
@@ -3167,36 +3220,38 @@ msgstr ""
 
 #: ../src/lvledit/lvledit.c:604
 msgid ""
-"INTERFACE SIZE MISMATCH: East doesn't lead so same-sized interface level!!!\n"
+"INTERFACE SIZE MISMATCH: East doesn't lead so same-sized interface "
+"level!!!\n"
 msgstr ""
 
 #: ../src/lvledit/lvledit.c:614
 msgid ""
-"INTERFACE SIZE MISMATCH: West doesn't lead so same-sized interface level!!!\n"
+"INTERFACE SIZE MISMATCH: West doesn't lead so same-sized interface "
+"level!!!\n"
 msgstr ""
 
 #: ../src/lvledit/lvledit.c:628
 msgid ""
-"LEVEL DIMENSION MISMATCH: North doesn't lead so same-sized level (non-fatal, "
-"but no good comes from this)!\n"
+"LEVEL DIMENSION MISMATCH: North doesn't lead so same-sized level (non-"
+"fatal, but no good comes from this)!\n"
 msgstr ""
 
 #: ../src/lvledit/lvledit.c:637
 msgid ""
-"LEVEL DIMENSION MISMATCH: South doesn't lead so same-sized level (non-fatal, "
-"but no good comes from this)!\n"
+"LEVEL DIMENSION MISMATCH: South doesn't lead so same-sized level (non-"
+"fatal, but no good comes from this)!\n"
 msgstr ""
 
 #: ../src/lvledit/lvledit.c:646
 msgid ""
-"LEVEL DIMENSION MISMATCH: East doesn't lead so same-sized level (non-fatal, "
-"but no good comes from this)!\n"
+"LEVEL DIMENSION MISMATCH: East doesn't lead so same-sized level (non-"
+"fatal, but no good comes from this)!\n"
 msgstr ""
 
 #: ../src/lvledit/lvledit.c:655
 msgid ""
-"LEVEL DIMENSION MISMATCH: West doesn't lead so same-sized level (non-fatal, "
-"but no good comes from this)!\n"
+"LEVEL DIMENSION MISMATCH: West doesn't lead so same-sized level (non-"
+"fatal, but no good comes from this)!\n"
 msgstr ""
 
 #: ../src/lvledit/lvledit.c:663
@@ -3227,59 +3282,59 @@ msgstr ""
 msgid ""
 "Go level north\n"
 "\n"
-"Use this button to move one level north, i.e. to the level that is glued to "
-"the northern side of this level."
+"Use this button to move one level north, i.e. to the level that is "
+"glued to the northern side of this level."
 msgstr ""
 
 #: ../src/lvledit/lvledit_display.c:446
 msgid ""
 "Go level south\n"
 "\n"
-"Use this button to move one level south, i.e. to the level that is glued to "
-"the southern side of this level."
+"Use this button to move one level south, i.e. to the level that is "
+"glued to the southern side of this level."
 msgstr ""
 
 #: ../src/lvledit/lvledit_display.c:451
 msgid ""
 "Go level east\n"
 "\n"
-"Use this button to move one level east, i.e. to the level that is glued to "
-"the eastern side of this level."
+"Use this button to move one level east, i.e. to the level that is "
+"glued to the eastern side of this level."
 msgstr ""
 
 #: ../src/lvledit/lvledit_display.c:456
 msgid ""
 "Go level west\n"
 "\n"
-"Use this button to move one level west, i.e. to the level that is glued to "
-"the western side of this level."
+"Use this button to move one level west, i.e. to the level that is "
+"glued to the western side of this level."
 msgstr ""
 
 #: ../src/lvledit/lvledit_display.c:461
 msgid ""
 "Export this level\n"
 "\n"
-"In FreedroidRPG maps can be glued together to form one big map.  But that "
-"requires that the maps are identical where they overlap.  This button will "
-"copy the borders of this level to the borders of the neighbouring levels, so "
-"that the maps are in sync again."
+"In FreedroidRPG maps can be glued together to form one big map.  But "
+"that requires that the maps are identical where they overlap.  This "
+"button will copy the borders of this level to the borders of the "
+"neighbouring levels, so that the maps are in sync again."
 msgstr ""
 
 #: ../src/lvledit/lvledit_display.c:469
 msgid ""
 "Save Impossible!\n"
 "\n"
-"Playing on a map leaves the world in an unclean state not suitable for "
-"saving. Enter the editor directly from the main menu to be able to save any "
-"changes to the map file."
+"Playing on a map leaves the world in an unclean state not suitable "
+"for saving. Enter the editor directly from the main menu to be able "
+"to save any changes to the map file."
 msgstr ""
 
 #: ../src/lvledit/lvledit_display.c:471
 msgid ""
 "Save Map\n"
 "\n"
-"This button will save your current map over the file '../map/freedroid."
-"levels' from your current working directory."
+"This button will save your current map over the file '../map/"
+"freedroid.levels' from your current working directory."
 msgstr ""
 
 #: ../src/lvledit/lvledit_display.c:477
@@ -3287,7 +3342,8 @@ msgid ""
 "Toggle waypoints\n"
 "\n"
 "Use this button to toggle waypoints on the current cursor location.  "
-"Waypoints are marked with a white (or multicolored) 4-direction arrow.\n"
+"Waypoints are marked with a white (or multicolored) 4-direction "
+"arrow.\n"
 "\n"
 "You can also use the W key for this."
 msgstr ""
@@ -3296,8 +3352,8 @@ msgstr ""
 msgid ""
 "Make waypoint connection\n"
 "\n"
-"Use this button to start a connection between waypoints, so that droids can "
-"move along this connection.\n"
+"Use this button to start a connection between waypoints, so that "
+"droids can move along this connection.\n"
 "\n"
 "You can also use the C key for this."
 msgstr ""
@@ -3306,8 +3362,9 @@ msgstr ""
 msgid ""
 "Complete waypoint connection\n"
 "\n"
-"You have currently a connection attempt going on already.  Go to the desired "
-"destination waypoint and hit this button again to establish the connection.\n"
+"You have currently a connection attempt going on already.  Go to the "
+"desired destination waypoint and hit this button again to establish "
+"the connection.\n"
 "\n"
 "You can also use the C key for this."
 msgstr ""
@@ -3334,9 +3391,9 @@ msgstr ""
 msgid ""
 "Beautify grass button\n"
 "\n"
-"Use this button to 'beautify' rough edges of the grass-sand tiles on this "
-"entire level automatically.  The function will attempt to create 'round' "
-"borders and corners.\n"
+"Use this button to 'beautify' rough edges of the grass-sand tiles on "
+"this entire level automatically.  The function will attempt to create "
+"'round' borders and corners.\n"
 "\n"
 "You can also use Ctrl-B for this."
 msgstr ""
@@ -3354,17 +3411,18 @@ msgstr ""
 msgid ""
 "Fill\n"
 "\n"
-"Use this button to fill a concurrent area of the map with the currently "
-"selected map tile.  Filling will proceed from the cursor in all directions "
-"until a change of map tile is encountered."
+"Use this button to fill a concurrent area of the map with the "
+"currently selected map tile.  Filling will proceed from the cursor in "
+"all directions until a change of map tile is encountered."
 msgstr ""
 
 #: ../src/lvledit/lvledit_display.c:518
 msgid ""
 "New obstacle label\n"
 "\n"
-"Use this button to attach a label to the currently marked obstacle.  These "
-"obstacle labels can be used to define obstacles to be modified by events.\n"
+"Use this button to attach a label to the currently marked obstacle.  "
+"These obstacle labels can be used to define obstacles to be modified "
+"by events.\n"
 " Note that you can also use the hotkey 'h' for this."
 msgstr ""
 
@@ -3379,17 +3437,18 @@ msgstr ""
 msgid ""
 "New map label\n"
 "\n"
-"Use this button to attach a new map label to the current cursor position.  "
-"These map labels can be used to define starting points for bots and "
-"characters or also to define locations for events and triggers."
+"Use this button to attach a new map label to the current cursor "
+"position.  These map labels can be used to define starting points for "
+"bots and characters or also to define locations for events and "
+"triggers."
 msgstr ""
 
 #: ../src/lvledit/lvledit_display.c:533
 msgid ""
 "Add item\n"
 "\n"
-"Use this button to drop a new item to the floor.  You can also use the "
-"hotkey 'G' for this."
+"Use this button to drop a new item to the floor.  You can also use "
+"the hotkey 'G' for this."
 msgstr ""
 
 #: ../src/lvledit/lvledit_display.c:538
@@ -3397,41 +3456,42 @@ msgid ""
 "Menu\n"
 "\n"
 "Use this button to enter the main menu of the level editor.\n"
-" Note, that you can also use the Escape key to enter the level editor main "
-"menu."
+" Note, that you can also use the Escape key to enter the level editor "
+"main menu."
 msgstr ""
 
 #: ../src/lvledit/lvledit_display.c:543
 msgid ""
 "Level resize\n"
 "\n"
-"Use this button to enter the level resize menu.  Levels can be resized in "
-"various ways so as not to destroy your current map too much and so as to "
-"insert the new space where you would best like it to be."
+"Use this button to enter the level resize menu.  Levels can be "
+"resized in various ways so as not to destroy your current map too "
+"much and so as to insert the new space where you would best like it "
+"to be."
 msgstr ""
 
 #: ../src/lvledit/lvledit_display.c:550
 msgid ""
 "Back to game\n"
 "\n"
-"Changes made to the world will be permanent for current Hero. To avoid, load "
-"a previous savegame."
+"Changes made to the world will be permanent for current Hero. To "
+"avoid, load a previous savegame."
 msgstr ""
 
 #: ../src/lvledit/lvledit_display.c:552
 msgid ""
 "Test Map\n"
 "\n"
-"This will save your map and reload it after you finish testing, avoiding "
-"saving an unclean world state."
+"This will save your map and reload it after you finish testing, "
+"avoiding saving an unclean world state."
 msgstr ""
 
 #: ../src/lvledit/lvledit_display.c:558
 msgid ""
 "Underground lighting\n"
 "\n"
-"Use this button to toggle underground lighting, i.e. shadows coming from the "
-"light that the tux emanates.\n"
+"Use this button to toggle underground lighting, i.e. shadows coming "
+"from the light that the tux emanates.\n"
 "\n"
 "There isn't any key to toggle this on the keyboard."
 msgstr ""
@@ -3440,16 +3500,16 @@ msgstr ""
 msgid ""
 "Toggle display enemies\n"
 "\n"
-"Use this button to toggle between enemies displayed in level editor or "
-"enemies hidden in level editor."
+"Use this button to toggle between enemies displayed in level editor "
+"or enemies hidden in level editor."
 msgstr ""
 
 #: ../src/lvledit/lvledit_display.c:570
 msgid ""
 "Toggle display obstacles\n"
 "\n"
-"Use this button to toggle between obstacles displayed in level editor or "
-"obstacles hidden in level editor."
+"Use this button to toggle between obstacles displayed in level editor "
+"or obstacles hidden in level editor."
 msgstr ""
 
 #: ../src/lvledit/lvledit_display.c:576
@@ -3506,7 +3566,7 @@ msgstr ""
 #: ../src/lvledit/lvledit_menu.c:308 ../src/lvledit/lvledit_menu.c:332
 #, fuzzy, c-format
 msgid "East"
-msgstr "мастер"
+msgstr "РјР°СЃС‚РµСЂ"
 
 #: ../src/lvledit/lvledit_menu.c:91 ../src/lvledit/lvledit_menu.c:115
 #: ../src/lvledit/lvledit_menu.c:314 ../src/lvledit/lvledit_menu.c:338
@@ -3518,14 +3578,14 @@ msgstr ""
 #: ../src/lvledit/lvledit_menu.c:320 ../src/lvledit/lvledit_menu.c:344
 #, fuzzy, c-format
 msgid "West"
-msgstr "Сундук"
+msgstr "РЎСѓРЅРґСѓРє"
 
 #: ../src/lvledit/lvledit_menu.c:105 ../src/lvledit/lvledit_menu.c:111
 #: ../src/lvledit/lvledit_menu.c:117 ../src/lvledit/lvledit_menu.c:123
 #: ../src/lvledit/lvledit_menu.c:657
 #, fuzzy, c-format
 msgid "Interface"
-msgstr "Вход"
+msgstr "Р’С…РѕРґ"
 
 #: ../src/lvledit/lvledit_menu.c:127
 #, c-format
@@ -3560,7 +3620,7 @@ msgstr ""
 #: ../src/lvledit/lvledit_menu.c:522
 #, fuzzy
 msgid "Add New Level"
-msgstr "Следующий уровень"
+msgstr "РЎР»РµРґСѓСЋС‰РёР№ СѓСЂРѕРІРµРЅСЊ"
 
 #: ../src/lvledit/lvledit_menu.c:545
 msgid "Remove Current Level"
@@ -3569,7 +3629,7 @@ msgstr ""
 #: ../src/lvledit/lvledit_menu.c:647
 #, fuzzy, c-format
 msgid "Name"
-msgstr "Новая игра"
+msgstr "РќРѕРІР°СЏ РёРіСЂР°"
 
 #: ../src/lvledit/lvledit_menu.c:651
 #, c-format
@@ -3592,17 +3652,17 @@ msgstr ""
 #: ../src/lvledit/lvledit_menu.c:696
 #, fuzzy, c-format
 msgid "Background Music"
-msgstr "Громкость фоновой музыки: %1.2f"
+msgstr "Р“СЂРѕРјРєРѕСЃС‚СЊ С„РѕРЅРѕРІРѕР№ РјСѓР·С‹РєРё: %1.2f"
 
 #: ../src/lvledit/lvledit_menu.c:700
 #, fuzzy, c-format
 msgid "Infinite Running"
-msgstr "На уровне осталось %d ботов"
+msgstr "РќР° СѓСЂРѕРІРЅРµ РѕСЃС‚Р°Р»РѕСЃСЊ %d Р±РѕС‚РѕРІ"
 
 #: ../src/lvledit/lvledit_menu.c:705
 #, fuzzy
 msgid "Add/Rem Level"
-msgstr "Следующий уровень"
+msgstr "РЎР»РµРґСѓСЋС‰РёР№ СѓСЂРѕРІРµРЅСЊ"
 
 #: ../src/lvledit/lvledit_menu.c:747
 msgid ""
@@ -3621,22 +3681,22 @@ msgstr ""
 #: ../src/lvledit/lvledit_menu.c:874
 #, fuzzy
 msgid "Run Map Level Validator"
-msgstr "Редактор уровней"
+msgstr "Р РµРґР°РєС‚РѕСЂ СѓСЂРѕРІРЅРµР№"
 
 #: ../src/lvledit/lvledit_menu.c:875
 #, fuzzy
 msgid "Run Dialog Lua Validator"
-msgstr "Редактор уровней"
+msgstr "Р РµРґР°РєС‚РѕСЂ СѓСЂРѕРІРЅРµР№"
 
 #: ../src/lvledit/lvledit_menu.c:954
 #, fuzzy
 msgid "Level Options"
-msgstr "Настройки"
+msgstr "РќР°СЃС‚СЂРѕР№РєРё"
 
 #: ../src/lvledit/lvledit_menu.c:955
 #, fuzzy
 msgid "Advanced Options"
-msgstr "Настройки"
+msgstr "РќР°СЃС‚СЂРѕР№РєРё"
 
 #: ../src/lvledit/lvledit_menu.c:958
 msgid "Playtest Mapfile"
@@ -3645,12 +3705,12 @@ msgstr ""
 #: ../src/lvledit/lvledit_menu.c:959
 #, fuzzy
 msgid "Save Mapfile"
-msgstr "Сохранить игру"
+msgstr "РЎРѕС…СЂР°РЅРёС‚СЊ РёРіСЂСѓ"
 
 #: ../src/lvledit/lvledit_menu.c:964
 #, fuzzy
 msgid "Return to Game"
-msgstr "Редактор уровней"
+msgstr "Р РµРґР°РєС‚РѕСЂ СѓСЂРѕРІРЅРµР№"
 
 #: ../src/lvledit/lvledit_menu.c:965
 msgid "Saving disabled"
@@ -3689,27 +3749,27 @@ msgid ""
 "\n"
 "E R R O R ! Your ship was not saved.\n"
 "\n"
-"Playing on a map leaves the world in an unclean state not suitable for "
-"saving. Enter the editor from the main menu to be able to save."
+"Playing on a map leaves the world in an unclean state not suitable "
+"for saving. Enter the editor from the main menu to be able to save."
 msgstr ""
 
 #: ../src/lvledit/lvledit_widgets.c:231
 #, fuzzy
 msgid "WALL"
-msgstr "СТЕНЫ"
+msgstr "РЎРўР•РќР«"
 
 #: ../src/lvledit/lvledit_widgets.c:233
 msgid "FURNITURE"
-msgstr "МЕБЕЛЬ"
+msgstr "РњР•Р‘Р•Р›Р¬"
 
 #: ../src/lvledit/lvledit_widgets.c:234
 msgid "MACHINERY"
-msgstr "ТЕХНИКА"
+msgstr "РўР•РҐРќРРљРђ"
 
 #: ../src/lvledit/lvledit_widgets.c:235
 #, fuzzy
 msgid "CONTAINER"
-msgstr "КОНТЕЙНЕРЫ"
+msgstr "РљРћРќРўР•Р™РќР•Р Р«"
 
 #: ../src/lvledit/lvledit_widgets.c:236
 msgid "PLANT"
@@ -3718,82 +3778,83 @@ msgstr ""
 #: ../src/lvledit/lvledit_widgets.c:240
 #, fuzzy
 msgid "ALLOBS."
-msgstr "СТЕНЫ"
+msgstr "РЎРўР•РќР«"
 
 #: ../src/lvledit/lvledit_widgets.c:241
 msgid "FLOOR"
-msgstr "ПОЛ"
+msgstr "РџРћР›"
 
 #: ../src/lvledit/lvledit_widgets.c:243
 msgid "WAYPT"
 msgstr ""
 
 #~ msgid "NATURE"
-#~ msgstr "ПРИРОДА"
+#~ msgstr "РџР РР РћР”Рђ"
 
 #~ msgid "ALL"
-#~ msgstr "ВСЕ"
+#~ msgstr "Р’РЎР•"
 
 #, fuzzy
 #~ msgid "Comment"
-#~ msgstr "Завершено"
+#~ msgstr "Р—Р°РІРµСЂС€РµРЅРѕ"
 
 #, fuzzy
 #~ msgid "%d bucks received"
-#~ msgstr "1 предмет получен!"
+#~ msgstr "1 РїСЂРµРґРјРµС‚ РїРѕР»СѓС‡РµРЅ!"
 
 #, fuzzy
 #~ msgid "%s..."
-#~ msgstr "К %s...."
+#~ msgstr "Рљ %s...."
 
 #, fuzzy
 #~ msgid "Background music file name: %s"
-#~ msgstr "Громкость фоновой музыки: %1.2f"
+#~ msgstr "Р“СЂРѕРјРєРѕСЃС‚СЊ С„РѕРЅРѕРІРѕР№ РјСѓР·С‹РєРё: %1.2f"
 
 #~ msgid "Hey, I'm from MS! Walk outa my way!"
-#~ msgstr "Эй, я из MS! Прочь с дороги!"
+#~ msgstr "Р­Р№, СЏ РёР· MS! РџСЂРѕС‡СЊ СЃ РґРѕСЂРѕРіРё!"
 
 #~ msgid "Wall with a window"
-#~ msgstr "Стена с окном"
+#~ msgstr "РЎС‚РµРЅР° СЃ РѕРєРЅРѕРј"
 
 #~ msgid "No way to pass through. Find another path."
-#~ msgstr "Тут не пройти, поищи обход."
+#~ msgstr "РўСѓС‚ РЅРµ РїСЂРѕР№С‚Рё, РїРѕРёС‰Рё РѕР±С…РѕРґ."
 
 #~ msgid "This is a wooden fence. Find another path."
-#~ msgstr "Это деревянный забор, поищи обход."
+#~ msgstr "Р­С‚Рѕ РґРµСЂРµРІСЏРЅРЅС‹Р№ Р·Р°Р±РѕСЂ, РїРѕРёС‰Рё РѕР±С…РѕРґ."
 
 #~ msgid "You can't break it. Find another way."
-#~ msgstr "Тебе его не сломать, поищи обход."
+#~ msgstr "РўРµР±Рµ РµРіРѕ РЅРµ СЃР»РѕРјР°С‚СЊ, РїРѕРёС‰Рё РѕР±С…РѕРґ."
 
 #~ msgid "No, it definitely doesn't look like a droid"
-#~ msgstr "Не, это никапельки не похоже на бота"
+#~ msgstr "РќРµ, СЌС‚Рѕ РЅРёРєР°РїРµР»СЊРєРё РЅРµ РїРѕС…РѕР¶Рµ РЅР° Р±РѕС‚Р°"
 
 #~ msgid "Colony wall"
-#~ msgstr "Городская стена"
+#~ msgstr "Р“РѕСЂРѕРґСЃРєР°СЏ СЃС‚РµРЅР°"
 
 #~ msgid "This is just a pink wall."
-#~ msgstr "Это просто розовая стена."
+#~ msgstr "Р­С‚Рѕ РїСЂРѕСЃС‚Рѕ СЂРѕР·РѕРІР°СЏ СЃС‚РµРЅР°."
 
 #~ msgid ""
-#~ "This rock is here now and forever, and it is not going anywhere. Go "
-#~ "somewhere else."
+#~ "This rock is here now and forever, and it is not going anywhere. "
+#~ "Go somewhere else."
 #~ msgstr ""
-#~ "Этот камень тут навсегда и никуда не убежит. Так что проваливай ка отсюда."
+#~ "Р­С‚РѕС‚ РєР°РјРµРЅСЊ С‚СѓС‚ РЅР°РІСЃРµРіРґР° Рё РЅРёРєСѓРґР° РЅРµ СѓР±РµР¶РёС‚. РўР°Рє С‡С‚Рѕ РїСЂРѕРІР°Р»РёРІР°Р№ РєР° "
+#~ "РѕС‚СЃСЋРґР°."
 
 #~ msgid "Bunk beds"
-#~ msgstr "Сдвоенные койки"
+#~ msgstr "РЎРґРІРѕРµРЅРЅС‹Рµ РєРѕР№РєРё"
 
 #~ msgid "A sign."
-#~ msgstr "Просто знак."
+#~ msgstr "РџСЂРѕСЃС‚Рѕ Р·РЅР°Рє."
 
 #~ msgid "Crystal pillar"
-#~ msgstr "Кристальная колонна"
+#~ msgstr "РљСЂРёСЃС‚Р°Р»СЊРЅР°СЏ РєРѕР»РѕРЅРЅР°"
 
 #~ msgid "A pillar made out of crystal."
-#~ msgstr "Колонна из самородного кристалла."
+#~ msgstr "РљРѕР»РѕРЅРЅР° РёР· СЃР°РјРѕСЂРѕРґРЅРѕРіРѕ РєСЂРёСЃС‚Р°Р»Р»Р°."
 
 #~ msgid "Quit"
-#~ msgstr "Выход"
+#~ msgstr "Р’С‹С…РѕРґ"
 
 #~ msgid ""
 #~ "\n"
@@ -3802,68 +3863,70 @@ msgstr ""
 #~ msgstr ""
 #~ "\n"
 #~ "\n"
-#~ "Сохраненных игр не найдено! Удаление невозможно. "
+#~ "РЎРѕС…СЂР°РЅРµРЅРЅС‹С… РёРіСЂ РЅРµ РЅР°Р№РґРµРЅРѕ! РЈРґР°Р»РµРЅРёРµ РЅРµРІРѕР·РјРѕР¶РЅРѕ. "
 
 #~ msgid "Takeover"
-#~ msgstr "Перехват"
+#~ msgstr "РџРµСЂРµС…РІР°С‚"
 
 #~ msgid "average"
-#~ msgstr "средний"
+#~ msgstr "СЃСЂРµРґРЅРёР№"
 
 #~ msgid "experienced"
-#~ msgstr "опытный"
+#~ msgstr "РѕРїС‹С‚РЅС‹Р№"
 
 #~ msgid "skilled"
-#~ msgstr "искуссный"
+#~ msgstr "РёСЃРєСѓСЃСЃРЅС‹Р№"
 
 #~ msgid "adept"
-#~ msgstr "знаток"
+#~ msgstr "Р·РЅР°С‚РѕРє"
 
 #~ msgid "inhuman"
-#~ msgstr "нечеловеческий"
+#~ msgstr "РЅРµС‡РµР»РѕРІРµС‡РµСЃРєРёР№"
 
 #~ msgid "god-like"
-#~ msgstr "божественный"
+#~ msgstr "Р±РѕР¶РµСЃС‚РІРµРЅРЅС‹Р№"
 
 #~ msgid "super-god-like"
-#~ msgstr "сверхбожественный"
+#~ msgstr "СЃРІРµСЂС…Р±РѕР¶РµСЃС‚РІРµРЅРЅС‹Р№"
 
 #~ msgid "wicked sick"
-#~ msgstr "круче не бывает"
+#~ msgstr "РєСЂСѓС‡Рµ РЅРµ Р±С‹РІР°РµС‚"
 
-#~ msgid "You see the floor.  It should be perfectly safe to walk on it."
-#~ msgstr "Вы видите пол. По идее, ходить по нему - абсолютно безопасно."
+#~ msgid ""
+#~ "You see the floor.  It should be perfectly safe to walk on it."
+#~ msgstr ""
+#~ "Р’С‹ РІРёРґРёС‚Рµ РїРѕР». РџРѕ РёРґРµРµ, С…РѕРґРёС‚СЊ РїРѕ РЅРµРјСѓ - Р°Р±СЃРѕР»СЋС‚РЅРѕ Р±РµР·РѕРїР°СЃРЅРѕ."
 
 #~ msgid ""
 #~ "\n"
 #~ "* Mission completed: "
 #~ msgstr ""
 #~ "\n"
-#~ "* Миссия выполнена: "
+#~ "* РњРёСЃСЃРёСЏ РІС‹РїРѕР»РЅРµРЅР°: "
 
 #~ msgid ""
 #~ "\n"
 #~ "* Mission failed: "
 #~ msgstr ""
 #~ "\n"
-#~ "* Миссия провалена: "
+#~ "* РњРёСЃСЃРёСЏ РїСЂРѕРІР°Р»РµРЅР°: "
 
 #~ msgid ""
 #~ "\n"
 #~ "* Mission not yet assigned: "
 #~ msgstr ""
 #~ "\n"
-#~ "* Миссия пока еще не назначена: "
+#~ "* РњРёСЃСЃРёСЏ РїРѕРєР° РµС‰Рµ РЅРµ РЅР°Р·РЅР°С‡РµРЅР°: "
 
 #~ msgid ""
 #~ "\n"
 #~ "* Mission assigned: "
 #~ msgstr ""
 #~ "\n"
-#~ "* Назначена миссия: "
+#~ "* РќР°Р·РЅР°С‡РµРЅР° РјРёСЃСЃРёСЏ: "
 
 #~ msgid "Sawmill"
-#~ msgstr "Лесопилка"
+#~ msgstr "Р›РµСЃРѕРїРёР»РєР°"
 
 #~ msgid ""
 #~ "\n"
@@ -3879,31 +3942,31 @@ msgstr ""
 #~ "   Thank you.\n"
 #~ msgstr ""
 #~ "\n"
-#~ "К сожалению, полноэкранный режим\n"
-#~ "не может быть активирован в windows\n"
-#~ "без перезапуска.\n"
-#~ "Мы приносим свои извинения.\n"
+#~ "Рљ СЃРѕР¶Р°Р»РµРЅРёСЋ, РїРѕР»РЅРѕСЌРєСЂР°РЅРЅС‹Р№ СЂРµР¶РёРј\n"
+#~ "РЅРµ РјРѕР¶РµС‚ Р±С‹С‚СЊ Р°РєС‚РёРІРёСЂРѕРІР°РЅ РІ windows\n"
+#~ "Р±РµР· РїРµСЂРµР·Р°РїСѓСЃРєР°.\n"
+#~ "РњС‹ РїСЂРёРЅРѕСЃРёРј СЃРІРѕРё РёР·РІРёРЅРµРЅРёСЏ.\n"
 #~ "\n"
-#~ "Есть много хороших дистрибутивов linux.\n"
-#~ " Обратите на них внимание.\n"
+#~ "Р•СЃС‚СЊ РјРЅРѕРіРѕ С…РѕСЂРѕС€РёС… РґРёСЃС‚СЂРёР±СѓС‚РёРІРѕРІ linux.\n"
+#~ " РћР±СЂР°С‚РёС‚Рµ РЅР° РЅРёС… РІРЅРёРјР°РЅРёРµ.\n"
 #~ "\n"
-#~ "Также вы можете запустить игру с ключом -w.\n"
+#~ "РўР°РєР¶Рµ РІС‹ РјРѕР¶РµС‚Рµ Р·Р°РїСѓСЃС‚РёС‚СЊ РёРіСЂСѓ СЃ РєР»СЋС‡РѕРј -w.\n"
 #~ "\n"
-#~ "   Спасибо.\n"
+#~ "   РЎРїР°СЃРёР±Рѕ.\n"
 
 #~ msgid ""
 #~ "\n"
 #~ "Status: "
 #~ msgstr ""
 #~ "\n"
-#~ "Статус: "
+#~ "РЎС‚Р°С‚СѓСЃ: "
 
 #~ msgid ""
 #~ "\n"
 #~ "Details: "
 #~ msgstr ""
 #~ "\n"
-#~ "Подробности: "
+#~ "РџРѕРґСЂРѕР±РЅРѕСЃС‚Рё: "
 
 #~ msgid "Use SDL automap: %s"
-#~ msgstr "Использовать SDL автокарту: %s"
+#~ msgstr "РСЃРїРѕР»СЊР·РѕРІР°С‚СЊ SDL Р°РІС‚РѕРєР°СЂС‚Сѓ: %s"

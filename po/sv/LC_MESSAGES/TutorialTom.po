@@ -23,8 +23,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:54
 msgid ""
-"Long stasis sleep unfortunately has the side effect of temporary memory "
-"loss, sometimes even for simple ordinary every day things."
+"Long stasis sleep unfortunately has the side effect of temporary "
+"memory loss, sometimes even for simple ordinary every day things."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:55
@@ -46,8 +46,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:71
 msgid ""
-"As I understand it, you Linarians see the world in a way very similar to the "
-"Heads Up Displays used in our computer games of the past."
+"As I understand it, you Linarians see the world in a way very similar "
+"to the Heads Up Displays used in our computer games of the past."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:72
@@ -56,24 +56,28 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:73
 msgid ""
-"I'll start with your compass. Linarians have a remarkable internal sense of "
-"direction, represented on your HUD by four arrows in the upper right corner."
+"I'll start with your compass. Linarians have a remarkable internal "
+"sense of direction, represented on your HUD by four arrows in the "
+"upper right corner."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:74
 msgid ""
-"It's fairly simple, but it does show all four cardinal directions, and North "
-"is marked. Going clockwise from North, you have East, South, and West."
+"It's fairly simple, but it does show all four cardinal directions, "
+"and North is marked. Going clockwise from North, you have East, "
+"South, and West."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:75
 msgid ""
-"I'll go ahead and mention the automap. Rumor has it that there was once a "
-"world-wide mapping network that you as a Linarian could tap into."
+"I'll go ahead and mention the automap. Rumor has it that there was "
+"once a world-wide mapping network that you as a Linarian could tap "
+"into."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:76
-msgid "Much of the bot activity has made it difficult or impossible to use."
+msgid ""
+"Much of the bot activity has made it difficult or impossible to use."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:77
@@ -84,9 +88,9 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:78
 msgid ""
-"Rumors abound, of course, and there may not be a bit of truth to it, but if "
-"there's any chance it may help you on your journey, it may be worth "
-"investigating."
+"Rumors abound, of course, and there may not be a bit of truth to it, "
+"but if there's any chance it may help you on your journey, it may be "
+"worth investigating."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:79
@@ -96,25 +100,27 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:84
 msgid ""
-"My limbs don't seem to want to work properly. Can you help me with that?"
+"My limbs don't seem to want to work properly. Can you help me with "
+"that?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:86
 msgid ""
-"Ah yes, movement. It's second nature to us humans, but our research with you "
-"in the past showed that your brain seems to work more like a computer."
+"Ah yes, movement. It's second nature to us humans, but our research "
+"with you in the past showed that your brain seems to work more like a "
+"computer."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:87
 msgid ""
-"To move somewhere, you first need to determine where you want to go, then "
-"motivate yourself to go there."
+"To move somewhere, you first need to determine where you want to go, "
+"then motivate yourself to go there."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:88
 msgid ""
-"As I understand it, this is represented on your HUD by moving a pointer to a "
-"location in your view and left clicking."
+"As I understand it, this is represented on your HUD by moving a "
+"pointer to a location in your view and left clicking."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:89
@@ -127,20 +133,21 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:91
 msgid ""
-"Going along with that, you do have the ability to run for a reasonable "
-"distance."
+"Going along with that, you do have the ability to run for a "
+"reasonable distance."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:92
 msgid ""
-"This distance is determined by your stamina; the more you have, the farther "
-"you can run without becoming winded. To do so, use the Control key."
+"This distance is determined by your stamina; the more you have, the "
+"farther you can run without becoming winded. To do so, use the "
+"Control key."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:93
 msgid ""
-"Speaking of keys, F1 will let you set your keymap. Or that's what your notes "
-"say. I really can't make head nor tales of it."
+"Speaking of keys, F1 will let you set your keymap. Or that's what "
+"your notes say. I really can't make head nor tales of it."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:98
@@ -150,8 +157,8 @@ msgstr ""
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:100
 msgid ""
 "As a Linarian, you have some special abilities that no human does. In "
-"specific, you seem to be able to translate programming source code into "
-"something like magic."
+"specific, you seem to be able to translate programming source code "
+"into something like magic."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:101
@@ -166,20 +173,21 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:103
 msgid ""
-"However, using a special ability called Emergency Shutdown, you can cool "
-"your body significantly, at the cost of shutting down for several seconds."
+"However, using a special ability called Emergency Shutdown, you can "
+"cool your body significantly, at the cost of shutting down for "
+"several seconds."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:104
 msgid ""
-"Normally, you would have this ability as well as the ability to hack bots, "
-"but your mind is probably still recovering from the stasis."
+"Normally, you would have this ability as well as the ability to hack "
+"bots, but your mind is probably still recovering from the stasis."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:105
 msgid ""
-"We'll talk about programs in depth later on, but for now you can access the "
-"Skills/Programs menu by pressing S."
+"We'll talk about programs in depth later on, but for now you can "
+"access the Skills/Programs menu by pressing S."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:110
@@ -192,53 +200,56 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:113
 msgid ""
-"Linarians seem to have some sort of affinity for the detection of items."
+"Linarians seem to have some sort of affinity for the detection of "
+"items."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:114
 msgid ""
-"Like any sighted being, you can detect items by looking at them as they "
-"enter your field of view."
+"Like any sighted being, you can detect items by looking at them as "
+"they enter your field of view."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:115
 msgid ""
-"Pressing the Z key will enable augmented reality and turn on labels for all "
-"items on the ground. Pressing Z a second time will return to normal reality "
-"displaying."
+"Pressing the Z key will enable augmented reality and turn on labels "
+"for all items on the ground. Pressing Z a second time will return to "
+"normal reality displaying."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:116
 msgid ""
-"If you just want to look for a moment, you can press and hold the X key to "
-"do the same thing."
+"If you just want to look for a moment, you can press and hold the X "
+"key to do the same thing."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:117
 msgid ""
-"Unlike people, you can even examine items from behind a wall using this "
-"technique."
+"Unlike people, you can even examine items from behind a wall using "
+"this technique."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:118
-msgid "Moving your mouse over an item will tell you more about that item."
+msgid ""
+"Moving your mouse over an item will tell you more about that item."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:119
 msgid ""
-"On our way to the next stopping point, we'll pass some items on the floor."
+"On our way to the next stopping point, we'll pass some items on the "
+"floor."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:120
 msgid ""
-"Feel free to stop and examine them to get practice. You can also pick them "
-"up, and view the inventory by pressing i."
+"Feel free to stop and examine them to get practice. You can also pick "
+"them up, and view the inventory by pressing i."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:125
 msgid ""
-"No, thanks, I still remember how to walk, run and pick up things and which "
-"way is north."
+"No, thanks, I still remember how to walk, run and pick up things and "
+"which way is north."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:129
@@ -255,8 +266,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:148
 msgid ""
-"Well, open it up and find out by simply clicking on it with the left mouse "
-"button."
+"Well, open it up and find out by simply clicking on it with the left "
+"mouse button."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:149
@@ -268,19 +279,21 @@ msgid "Some items came out."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:157
-msgid "Well, you've discovered a great secret: chests sometimes contain items."
+msgid ""
+"Well, you've discovered a great secret: chests sometimes contain "
+"items."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:158
 msgid ""
-"We humans have a fascination with hiding our treasures. What comprises a "
-"treasure means different things to different people."
+"We humans have a fascination with hiding our treasures. What "
+"comprises a treasure means different things to different people."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:159
 msgid ""
-"For some, it's valuable metals in robotic circuitry. That's the current "
-"monetary standard on our world."
+"For some, it's valuable metals in robotic circuitry. That's the "
+"current monetary standard on our world."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:160
@@ -295,8 +308,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:162
 msgid ""
-"Perhaps the best thing you can find, though, is armor. At least, given the "
-"current situation with the bots, that is."
+"Perhaps the best thing you can find, though, is armor. At least, "
+"given the current situation with the bots, that is."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:167
@@ -305,8 +318,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:169
 msgid ""
-"In the years since you entered stasis, mankind has done much research in the "
-"field of robotics."
+"In the years since you entered stasis, mankind has done much research "
+"in the field of robotics."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:170
@@ -317,20 +330,20 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:171
 msgid ""
-"Because they run a very simple operating system, nanobots were not affected "
-"by whatever caused the Great Assault."
+"Because they run a very simple operating system, nanobots were not "
+"affected by whatever caused the Great Assault."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:172
 msgid ""
-"To this day, our armor and clothing are made out of nanobots. This enables "
-"many different sizes of people to wear the same clothing."
+"To this day, our armor and clothing are made out of nanobots. This "
+"enables many different sizes of people to wear the same clothing."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:173
 msgid ""
-"The nanobots reshape the garment for a comfortable fit, so even you should "
-"be able to wear them without problem."
+"The nanobots reshape the garment for a comfortable fit, so even you "
+"should be able to wear them without problem."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:178
@@ -351,21 +364,22 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:183
 msgid ""
-"Even the best of fighters sometimes get hit by enemy blows. If I were you, I "
-"would seriously consider wearing some sort of armor before mixing it up with "
-"those bots."
+"Even the best of fighters sometimes get hit by enemy blows. If I were "
+"you, I would seriously consider wearing some sort of armor before "
+"mixing it up with those bots."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:184
 msgid ""
-"They will help to mitigate some of the damage you take from melee or ranged "
-"combat."
+"They will help to mitigate some of the damage you take from melee or "
+"ranged combat."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:185
 msgid ""
-"Keep in mind, though, that there is a chance that your armor will take "
-"damage whenever you get hit. Keep an eye on it, or you'll lose it."
+"Keep in mind, though, that there is a chance that your armor will "
+"take damage whenever you get hit. Keep an eye on it, or you'll lose "
+"it."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:190
@@ -374,40 +388,41 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:192
 msgid ""
-"Well, let me start by saying that there are four classes of armor: headgear, "
-"shoes, body armor, and shields."
+"Well, let me start by saying that there are four classes of armor: "
+"headgear, shoes, body armor, and shields."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:193
 msgid ""
-"When you pick up a piece of armor of a particular class, and you don't "
-"already have one equipped, you will automatically equip it if you can."
+"When you pick up a piece of armor of a particular class, and you "
+"don't already have one equipped, you will automatically equip it if "
+"you can."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:194
 msgid ""
-"Picking up armor and other items can be accomplished by left clicking on the "
-"item on the ground. If you have enough room in your inventory, you will pick "
-"the item up."
+"Picking up armor and other items can be accomplished by left clicking "
+"on the item on the ground. If you have enough room in your inventory, "
+"you will pick the item up."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:195
 msgid ""
-"If you currently have one piece of armor equipped that you would like to "
-"swap out for another, simply drag the new armor piece to the current armor "
-"piece and left click."
+"If you currently have one piece of armor equipped that you would like "
+"to swap out for another, simply drag the new armor piece to the "
+"current armor piece and left click."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:196
 msgid ""
-"They will swap places, and you can put the other piece of armor back into "
-"your inventory."
+"They will swap places, and you can put the other piece of armor back "
+"into your inventory."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:197
 msgid ""
-"Alternatively, you can drag it into your field of view and drop it on the "
-"ground."
+"Alternatively, you can drag it into your field of view and drop it on "
+"the ground."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:202
@@ -420,20 +435,22 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:205
 msgid ""
-"First, any equipped item in poor condition will show up yellow on your HUD. "
-"If the item reaches critical condition, it will be red. Well, at least if "
-"you interface with reality through OGL. If your visual reality interface is "
-"done with only SDL, colors won't change."
+"First, any equipped item in poor condition will show up yellow on "
+"your HUD. If the item reaches critical condition, it will be red. "
+"Well, at least if you interface with reality through OGL. If your "
+"visual reality interface is done with only SDL, colors won't change."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:206
 msgid ""
-"If you don't unequip the item then, you run the risk of it becoming ruined."
+"If you don't unequip the item then, you run the risk of it becoming "
+"ruined."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:207
 msgid ""
-"There are three things you can do when an item reaches critical condition."
+"There are three things you can do when an item reaches critical "
+"condition."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:208
@@ -442,15 +459,15 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:209
 msgid ""
-"A better choice would be to use your repair equipment program on the item. "
-"This allows you to repair the item, at the cost of losing a percentage of "
-"its maximum useful life."
+"A better choice would be to use your repair equipment program on the "
+"item. This allows you to repair the item, at the cost of losing a "
+"percentage of its maximum useful life."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:210
 msgid ""
-"Most of the time, though, your best choice will be to pay to have the item "
-"repaired at a shop. This maintains the useful life of the item."
+"Most of the time, though, your best choice will be to pay to have the "
+"item repaired at a shop. This maintains the useful life of the item."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:215
@@ -463,38 +480,41 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:218
 msgid ""
-"The most obvious would be not having enough room in your inventory. If you "
-"need a different item more, then you shouldn't be afraid to drop a less "
-"valuable item."
+"The most obvious would be not having enough room in your inventory. "
+"If you need a different item more, then you shouldn't be afraid to "
+"drop a less valuable item."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:219
 msgid ""
-"If an item is close to being destroyed, you might also consider dropping it."
+"If an item is close to being destroyed, you might also consider "
+"dropping it."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:220
 msgid ""
-"You may also encounter items that give negative status effects. Certain "
-"pieces of armor or weapons may affect you in different ways."
+"You may also encounter items that give negative status effects. "
+"Certain pieces of armor or weapons may affect you in different ways."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:221
 msgid ""
-"Some will help you out, for example by increasing your cooling rate or "
-"increasing your dexterity. This is the work of specialized nanobots."
+"Some will help you out, for example by increasing your cooling rate "
+"or increasing your dexterity. This is the work of specialized "
+"nanobots."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:222
 msgid ""
-"Some items, on the other hand, may affect you negatively. They may decrease "
-"your strength or cause you to heat up."
+"Some items, on the other hand, may affect you negatively. They may "
+"decrease your strength or cause you to heat up."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:223
 msgid ""
-"Because they are undesirable, these cannot be sold, and so must either be "
-"used or discarded. Discarding is usually the preferred choice."
+"Because they are undesirable, these cannot be sold, and so must "
+"either be used or discarded. Discarding is usually the preferred "
+"choice."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:228
@@ -503,36 +523,37 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:230
 msgid ""
-"Perhaps I should start by explaining programs in general. You already know "
-"about some programs, and that they can be accessed through your HUD."
+"Perhaps I should start by explaining programs in general. You already "
+"know about some programs, and that they can be accessed through your "
+"HUD."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:231
 msgid ""
-"To use a program, select it through your HUD. Then, run the program by right "
-"clicking. You can target an enemy, an item, or just the world depending on "
-"the program."
+"To use a program, select it through your HUD. Then, run the program "
+"by right clicking. You can target an enemy, an item, or just the "
+"world depending on the program."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:232
 msgid ""
-"You can also assign quick-select keys to programs. Simply hover over the "
-"program in the Skills/Program menu and press one of the keys F5 to F12. "
-"Then, whenever you press this button, you will select the corresponding "
-"program."
+"You can also assign quick-select keys to programs. Simply hover over "
+"the program in the Skills/Program menu and press one of the keys F5 "
+"to F12. Then, whenever you press this button, you will select the "
+"corresponding program."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:233
 msgid ""
-"If you're curious what a program does, you can find out by clicking the "
-"question mark in the Skills/Program menu."
+"If you're curious what a program does, you can find out by clicking "
+"the question mark in the Skills/Program menu."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:234
 msgid ""
-"Now, to answer your question, you use your repair equipment program by "
-"selecting it in the Skills/Program menu, then right clicking on the item you "
-"wish to repair."
+"Now, to answer your question, you use your repair equipment program "
+"by selecting it in the Skills/Program menu, then right clicking on "
+"the item you wish to repair."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:241
@@ -541,8 +562,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:243
 msgid ""
-"Ok, I'll open the next door then. But prepare yourself, soon you will learn "
-"how to fight against bots in hand to hand combat."
+"Ok, I'll open the next door then. But prepare yourself, soon you will "
+"learn how to fight against bots in hand to hand combat."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:252
@@ -555,32 +576,33 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:255
 msgid ""
-"It's odd to think that a flightless bird would be such a scrapper, but you "
-"Linarians have been surprising us since the beginning."
+"It's odd to think that a flightless bird would be such a scrapper, "
+"but you Linarians have been surprising us since the beginning."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:256
 msgid ""
-"We prefer to fight the damn droids at a distance. They're less likely to "
-"rend us limb from limb that way."
+"We prefer to fight the damn droids at a distance. They're less likely "
+"to rend us limb from limb that way."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:257
 msgid ""
-"Unfortunately, guns and other ranged weaponry are hard to come by these days."
+"Unfortunately, guns and other ranged weaponry are hard to come by "
+"these days."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:258
 msgid ""
-"That goes double for ammunition. Because these are bots, you really can't "
-"effectively keep them at bay by just waving around an empty gun."
+"That goes double for ammunition. Because these are bots, you really "
+"can't effectively keep them at bay by just waving around an empty gun."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:259
 msgid ""
-"With that in mind, your most reliable weapons are your fists. They never run "
-"out of ammo or wear down, but of course they don't do much damage against a "
-"metal body, either."
+"With that in mind, your most reliable weapons are your fists. They "
+"never run out of ammo or wear down, but of course they don't do much "
+"damage against a metal body, either."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:264
@@ -593,8 +615,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:267
 msgid ""
-"Melee combat, armed or unarmed, can be initiated by left clicking on an "
-"enemy."
+"Melee combat, armed or unarmed, can be initiated by left clicking on "
+"an enemy."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:268
@@ -603,7 +625,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:269
 msgid ""
-"Now, I understand you may have some concerns over your safety during this..."
+"Now, I understand you may have some concerns over your safety during "
+"this..."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:270
@@ -614,8 +637,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:271
 msgid ""
-"Fred, if you're afraid, you'll have to overlook it. Besides, you knew the "
-"job was dangerous when you took it."
+"Fred, if you're afraid, you'll have to overlook it. Besides, you knew "
+"the job was dangerous when you took it."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:272
@@ -628,19 +651,20 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:274
 msgid ""
-"Fighting the bots hand-to-hand has risks, there is no question. However, "
-"there are things you can do to even the odds."
+"Fighting the bots hand-to-hand has risks, there is no question. "
+"However, there are things you can do to even the odds."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:275
 msgid ""
-"We already discussed armor. Another useful type of item is medical supplies."
+"We already discussed armor. Another useful type of item is medical "
+"supplies."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:276
 msgid ""
-"There are a few different types of restorative items. The most common are "
-"health drinks."
+"There are a few different types of restorative items. The most common "
+"are health drinks."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:281
@@ -649,7 +673,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:283
 msgid ""
-"Man has practiced medicine in one form or another for hundreds of years."
+"Man has practiced medicine in one form or another for hundreds of "
+"years."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:284
@@ -660,36 +685,38 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:285
 msgid ""
-"There are many kinds, but all accomplish the same thing, to varying degrees."
+"There are many kinds, but all accomplish the same thing, to varying "
+"degrees."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:286
 msgid ""
-"Certain items, like health drinks, can be used directly without clicking on "
-"them."
+"Certain items, like health drinks, can be used directly without "
+"clicking on them."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:287
 msgid ""
-"At the bottom of your HUD, you'll notice your item access belt. Small items "
-"can go here and be used by pressing the numbers 0 through 9."
+"At the bottom of your HUD, you'll notice your item access belt. Small "
+"items can go here and be used by pressing the numbers 0 through 9."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:288
 msgid ""
-"Unlike armor or weapons, multiple of these items will group together in your "
-"inventory slots."
+"Unlike armor or weapons, multiple of these items will group together "
+"in your inventory slots."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:289
 msgid ""
-"If you have Diet Supplements equipped in item slot 1, you can press 1 to use "
-"one."
+"If you have Diet Supplements equipped in item slot 1, you can press 1 "
+"to use one."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:290
 msgid ""
-"This will restore your health, and will be invaluable in the heat of battle."
+"This will restore your health, and will be invaluable in the heat of "
+"battle."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:295
@@ -702,26 +729,26 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:298
 msgid ""
-"I've unlocked the door leading to the first bot. Take care of it, then come "
-"back and talk to me."
+"I've unlocked the door leading to the first bot. Take care of it, "
+"then come back and talk to me."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:299
 msgid ""
-"I'm also giving you some health drinks. Feel free to use them, though I can "
-"heal you if you need it."
+"I'm also giving you some health drinks. Feel free to use them, though "
+"I can heal you if you need it."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:300
 msgid ""
-"Your health will also regenerate over time. I wish it were so easy for us "
-"humans."
+"Your health will also regenerate over time. I wish it were so easy "
+"for us humans."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:301
 msgid ""
-"The first bot is carrying an Entropy Inverter . Bring it to me to prove "
-"you've beaten it."
+"The first bot is carrying an Entropy Inverter . Bring it to me to "
+"prove you've beaten it."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:302
@@ -758,13 +785,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:326
 msgid ""
-"Certain parts in the bots are valuable. You can sell them at stores for cash."
+"Certain parts in the bots are valuable. You can sell them at stores "
+"for cash."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:327
 msgid ""
-"If you can learn to extract these parts, it can help improve your lot in the "
-"world."
+"If you can learn to extract these parts, it can help improve your lot "
+"in the world."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:328
@@ -773,8 +801,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:333
 msgid ""
-"Trying to cheat your way through the tutorial doesn't bode well for your "
-"chances in the real world."
+"Trying to cheat your way through the tutorial doesn't bode well for "
+"your chances in the real world."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:334
@@ -791,8 +819,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:343
 msgid ""
-"That's correct. The second bot is a lot more dangerous, and you're not "
-"likely to make much headway against it with your fists."
+"That's correct. The second bot is a lot more dangerous, and you're "
+"not likely to make much headway against it with your fists."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:344
@@ -801,26 +829,26 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:345
 msgid ""
-"Fighting bots with your fists is fine, but there are a number of items you "
-"can use for melee."
+"Fighting bots with your fists is fine, but there are a number of "
+"items you can use for melee."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:346
 msgid ""
-"There are several traditional weapons in the world such as swords or light "
-"sabers that can be used against the bots."
+"There are several traditional weapons in the world such as swords or "
+"light sabers that can be used against the bots."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:347
 msgid ""
-"However, more common items you encounter everyday can often be used to bash "
-"or pry at droid armor."
+"However, more common items you encounter everyday can often be used "
+"to bash or pry at droid armor."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:348
 msgid ""
-"For example, that wrench I just gave you will increase the damage you do, "
-"and should let you best the next bot."
+"For example, that wrench I just gave you will increase the damage you "
+"do, and should let you best the next bot."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:353
@@ -828,7 +856,8 @@ msgid "I'm ready to take the next bot on."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:355
-msgid "I certainly hope so. I will heal you before you go to the next room."
+msgid ""
+"I certainly hope so. I will heal you before you go to the next room."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:356
@@ -837,14 +866,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:357
 msgid ""
-"A 247 is nothing to trifle with, so I'm giving you a shield in the hopes "
-"that it'll help keep you alive."
+"A 247 is nothing to trifle with, so I'm giving you a shield in the "
+"hopes that it'll help keep you alive."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:358
 msgid ""
-"Finally, I'm giving you couple of somewhat experimental pills that will "
-"temporarily increase your strength and dexterity, respectively."
+"Finally, I'm giving you couple of somewhat experimental pills that "
+"will temporarily increase your strength and dexterity, respectively."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:359
@@ -853,8 +882,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:360
 msgid ""
-"If I were you, I would think about using your repair equipment program on "
-"your armor and that wrench before you go into the room."
+"If I were you, I would think about using your repair equipment "
+"program on your armor and that wrench before you go into the room."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:361
@@ -863,14 +892,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:362
 msgid ""
-"Like the last bot, this one will be carrying an item. Bring me the Tachyon "
-"Condensator it is carrying to continue."
+"Like the last bot, this one will be carrying an item. Bring me the "
+"Tachyon Condensator it is carrying to continue."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:363
 msgid ""
-"I've unlocked the door. Good luck, and talk to me when you have the Tachyon "
-"Condensator."
+"I've unlocked the door. Good luck, and talk to me when you have the "
+"Tachyon Condensator."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:375
@@ -893,13 +922,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:381
 msgid ""
-"Talk to me when you're ready to move on to the next part of the tutorial."
+"Talk to me when you're ready to move on to the next part of the "
+"tutorial."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:388
 msgid ""
-"You didn't bring back the Tachyon Condensator. You'll need to bring it back "
-"before we can continue."
+"You didn't bring back the Tachyon Condensator. You'll need to bring "
+"it back before we can continue."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:389
@@ -923,13 +953,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:401
 msgid ""
-"Our next destination is the ranged combat training area, so you're in luck."
+"Our next destination is the ranged combat training area, so you're in "
+"luck."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:403
 msgid ""
-"I'll unlock the door to the south. Follow the corridor east to the shooting "
-"range."
+"I'll unlock the door to the south. Follow the corridor east to the "
+"shooting range."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:410
@@ -943,8 +974,8 @@ msgstr "Åh, Linärian, du roar mig så."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:413
 msgid ""
-"There are some bots with ranged weaponry, but we don't have any of those in "
-"captivity."
+"There are some bots with ranged weaponry, but we don't have any of "
+"those in captivity."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:418
@@ -953,38 +984,39 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:420
 msgid ""
-"The basic idea behind ranged weaponry is to hurt or kill an enemy without "
-"having to come in swinging range."
+"The basic idea behind ranged weaponry is to hurt or kill an enemy "
+"without having to come in swinging range."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:421
 msgid ""
-"There are three basic ways to do this: traditional firearms, lasers, and "
-"plasma weapons."
+"There are three basic ways to do this: traditional firearms, lasers, "
+"and plasma weapons."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:422
 msgid ""
-"Traditional firearms are things that go bang. A small explosion accelerates "
-"the ammunition towards the target at a high velocity, causing injury."
+"Traditional firearms are things that go bang. A small explosion "
+"accelerates the ammunition towards the target at a high velocity, "
+"causing injury."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:423
 msgid ""
-"Lasers use an intensified beam of light to burn through the intended victim. "
-"These operate on replaceable charge packs."
+"Lasers use an intensified beam of light to burn through the intended "
+"victim. These operate on replaceable charge packs."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:424
 msgid ""
-"Plasma weapons use superheated ionized gas to burn the target. The gas comes "
-"in loadable canisters."
+"Plasma weapons use superheated ionized gas to burn the target. The "
+"gas comes in loadable canisters."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:425
 msgid ""
-"Most other ranged weapons are variations of these three. We have a few in "
-"storage for training purposes."
+"Most other ranged weapons are variations of these three. We have a "
+"few in storage for training purposes."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:430
@@ -993,8 +1025,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:432
 msgid ""
-"Well, firing is pretty simple. First, equip a ranged weapon that you have "
-"ammunition for."
+"Well, firing is pretty simple. First, equip a ranged weapon that you "
+"have ammunition for."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:433
@@ -1003,24 +1035,26 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:434
 msgid ""
-"Alternatively, you can select the Fire Weapon program, and right click on "
-"the enemy."
+"Alternatively, you can select the Fire Weapon program, and right "
+"click on the enemy."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:435
 msgid ""
-"That is the best way if you are trying to conserve precious ammo with high "
-"rate of fire guns."
+"That is the best way if you are trying to conserve precious ammo with "
+"high rate of fire guns."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:436
 msgid ""
-"There are a couple of new tricks with ranged weapons. If you want to move "
-"while firing, simply hold shift and left click your desired position."
+"There are a couple of new tricks with ranged weapons. If you want to "
+"move while firing, simply hold shift and left click your desired "
+"position."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:437
-msgid "If you'd rather stay in place, Hold A, then left click your target."
+msgid ""
+"If you'd rather stay in place, Hold A, then left click your target."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:438
@@ -1031,8 +1065,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:439
 msgid ""
-"Sometimes, you will need or want to manually reload. You can do this by "
-"pressing R."
+"Sometimes, you will need or want to manually reload. You can do this "
+"by pressing R."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:444
@@ -1041,24 +1075,25 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:446
 msgid ""
-"In that case, I'll let you in to the armory. There are some crates and "
-"chests in there with weapons and ammunition."
+"In that case, I'll let you in to the armory. There are some crates "
+"and chests in there with weapons and ammunition."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:447
-msgid "Be careful though, smashing open crates and barrels could hurt you."
+msgid ""
+"Be careful though, smashing open crates and barrels could hurt you."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:449
 msgid ""
-"You already got the .22 pistol I gave you earlier when destroying that 247. "
-"It's not much as guns go, but it can do the trick."
+"You already got the .22 pistol I gave you earlier when destroying "
+"that 247. It's not much as guns go, but it can do the trick."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:451
 msgid ""
-"Here's my personal .22 Automatic pistol. It's not much as guns go, but it "
-"can do the trick."
+"Here's my personal .22 Automatic pistol. It's not much as guns go, "
+"but it can do the trick."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:454
@@ -1067,8 +1102,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:457
 msgid ""
-"You'll no doubt get more mileage out of the plasma pistol, though. Or any "
-"other gun, for that matter."
+"You'll no doubt get more mileage out of the plasma pistol, though. Or "
+"any other gun, for that matter."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:458
@@ -1077,8 +1112,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:459
 msgid ""
-"On the other side of that fence are some bots. Practice killing them off "
-"with various ranged weapons."
+"On the other side of that fence are some bots. Practice killing them "
+"off with various ranged weapons."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:460
@@ -1095,8 +1130,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:476
 msgid ""
-"Keep shooting like that, and the bots will never stand a chance, as long as "
-"you still have ammo."
+"Keep shooting like that, and the bots will never stand a chance, as "
+"long as you still have ammo."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:477
@@ -1109,17 +1144,20 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:479
 msgid ""
-"Put all your ranged weapons in your inventory, then talk to me and we'll "
-"move on."
+"Put all your ranged weapons in your inventory, then talk to me and "
+"we'll move on."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:484
 msgid ""
-"I don't mind if you don't want to do this, but please don't try to trick me."
+"I don't mind if you don't want to do this, but please don't try to "
+"trick me."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:485
-msgid "I don't have verified kills on all those bots, so you're not moving on."
+msgid ""
+"I don't have verified kills on all those bots, so you're not moving "
+"on."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:493
@@ -1128,19 +1166,20 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:501
 msgid ""
-"I'll need you to surrender your guns. Unequip them all, then talk to me "
-"again."
+"I'll need you to surrender your guns. Unequip them all, then talk to "
+"me again."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:502
 msgid ""
-"You will need to have the guns in your inventory to give them to me, so if "
-"you dropped them, please go get them."
+"You will need to have the guns in your inventory to give them to me, "
+"so if you dropped them, please go get them."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:503
 msgid ""
-"That includes the laser and plasma pistols in the storage room to the west."
+"That includes the laser and plasma pistols in the storage room to the "
+"west."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:509
@@ -1167,14 +1206,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:524
 msgid ""
-"As you achieve combat experience, you'll be able to apply it to better "
-"yourself."
+"As you achieve combat experience, you'll be able to apply it to "
+"better yourself."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:525
 msgid ""
-"As with most things, you view this as a panel in your HUD. Press C to open "
-"the Character panel."
+"As with most things, you view this as a panel in your HUD. Press C to "
+"open the Character panel."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:526
@@ -1185,31 +1224,32 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:527
 msgid ""
-"You'll also be given 5 points to spend however you choose in three different "
-"areas. Characteristics, Skills and Programs."
+"You'll also be given 5 points to spend however you choose in three "
+"different areas. Characteristics, Skills and Programs."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:528
 msgid ""
-"Strength governs the amount of damage you do with each hit in melee combat."
+"Strength governs the amount of damage you do with each hit in melee "
+"combat."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:529
 msgid ""
-"Dexterity controls your hit rate, or how likely you are to hit the enemy. It "
-"also determines how likely you are to dodge a hit from them."
+"Dexterity controls your hit rate, or how likely you are to hit the "
+"enemy. It also determines how likely you are to dodge a hit from them."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:530
 msgid ""
-"CPU is your processors cooling. or heat resilience, and determines how much "
-"you can process before your system starts overheating."
+"CPU is your processors cooling. or heat resilience, and determines "
+"how much you can process before your system starts overheating."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:531
 msgid ""
-"Finally, among your main characteristics, Life determines how much health "
-"you have."
+"Finally, among your main characteristics, Life determines how much "
+"health you have."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:532
@@ -1220,30 +1260,33 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:533
 msgid ""
-"They are general Melee and Ranged fighting skills, both of which increase "
-"the damage you inflict and how fast you attack as you improve them."
+"They are general Melee and Ranged fighting skills, both of which "
+"increase the damage you inflict and how fast you attack as you "
+"improve them."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:534
 msgid ""
-"You also have the Programming skill, which essentially is about programming "
-"in an energy efficient manner so programs cause less heat."
+"You also have the Programming skill, which essentially is about "
+"programming in an energy efficient manner so programs cause less heat."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:535
 msgid ""
-"Apart from this, a few programs require a teacher and training points to "
-"improve."
+"Apart from this, a few programs require a teacher and training points "
+"to improve."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:536
 msgid ""
-"Extract bot parts is a special passive skill that will allow you to salvage "
-"parts from bots you 'retire', which you can trade for money in the town."
+"Extract bot parts is a special passive skill that will allow you to "
+"salvage parts from bots you 'retire', which you can trade for money "
+"in the town."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:537
-msgid "The Hacking program we will speak a bit more of in a little while."
+msgid ""
+"The Hacking program we will speak a bit more of in a little while."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:544
@@ -1252,13 +1295,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:545
 msgid ""
-"I'll give you some points to spend, and you can distribute them as you like."
+"I'll give you some points to spend, and you can distribute them as "
+"you like."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:546
 msgid ""
-"Since you'll be hacking up ahead, you should probably use a few of them on "
-"CPU."
+"Since you'll be hacking up ahead, you should probably use a few of "
+"them on CPU."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:547
@@ -1285,8 +1329,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:566
 msgid ""
-"As I mentioned before, your brain works in a way remarkably similar to a "
-"central processing unit."
+"As I mentioned before, your brain works in a way remarkably similar "
+"to a central processing unit."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:567
@@ -1297,8 +1341,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:568
 msgid ""
-"You seem to have access to an API that isn't exposed to humans. You can "
-"interact with the environment in ways we only dream of."
+"You seem to have access to an API that isn't exposed to humans. You "
+"can interact with the environment in ways we only dream of."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:569
@@ -1307,13 +1351,14 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:570
 msgid ""
-"You can attempt to take them over, or monkey with their programming, or even "
-"cause them to damage themselves."
+"You can attempt to take them over, or monkey with their programming, "
+"or even cause them to damage themselves."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:571
 msgid ""
-"Likewise, there are certain programs that affect you or items around you."
+"Likewise, there are certain programs that affect you or items around "
+"you."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:576
@@ -1328,20 +1373,20 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:579
 msgid ""
-"However, you did leave yourself instructions before you went into stasis "
-"sleep."
+"However, you did leave yourself instructions before you went into "
+"stasis sleep."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:580
 msgid ""
-"Takeover, or hacking, comes in the form of a game or competition placing you "
-"against the bot."
+"Takeover, or hacking, comes in the form of a game or competition "
+"placing you against the bot."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:581
 msgid ""
-"You initiate it by selecting the Hacking program, then right-clicking on a "
-"hostile bot."
+"You initiate it by selecting the Hacking program, then right-clicking "
+"on a hostile bot."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:582
@@ -1352,42 +1397,43 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:583
 msgid ""
-"In the center of the field is a column of boxes known as logic cores. These "
-"cores have wires attached to them from both circuit boards."
+"In the center of the field is a column of boxes known as logic cores. "
+"These cores have wires attached to them from both circuit boards."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:584
 msgid ""
-"Your objective is to activate as many cores in your chosen color as possible "
-"at the end of each round."
+"Your objective is to activate as many cores in your chosen color as "
+"possible at the end of each round."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:585
 msgid ""
-"This is accomplished by selecting a wire with the up or down buttons, then "
-"pressing spacebar to activate that core."
+"This is accomplished by selecting a wire with the up or down buttons, "
+"then pressing spacebar to activate that core."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:586
 msgid ""
-"You will be given about 10 seconds initially to select which color you want "
-"with spacebar."
+"You will be given about 10 seconds initially to select which color "
+"you want with spacebar."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:587
 msgid ""
-"At that point, you have 10 more seconds in which to activate more cores than "
-"the bot."
+"At that point, you have 10 more seconds in which to activate more "
+"cores than the bot."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:588
 msgid ""
-"You have a limited number of charges, 3 by default, so choose your targets "
-"carefully."
+"You have a limited number of charges, 3 by default, so choose your "
+"targets carefully."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:589
-msgid "I can tell you about some more advanced techniques, if you'd like."
+msgid ""
+"I can tell you about some more advanced techniques, if you'd like."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:594
@@ -1396,8 +1442,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:596
 msgid ""
-"Ah, yes. While you are busy trying to take the bot over, it will be busy "
-"trying to stop you."
+"Ah, yes. While you are busy trying to take the bot over, it will be "
+"busy trying to stop you."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:597
@@ -1408,20 +1454,21 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:598
 msgid ""
-"Fortunately for you, software bugs do indeed exist, and therefore some cores "
-"will be on your side from the beginning."
+"Fortunately for you, software bugs do indeed exist, and therefore "
+"some cores will be on your side from the beginning."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:599
 msgid ""
-"Likewise, the bots only have a limited number of charges. Occasionally, they "
-"will have more than you, but that is a risk you have to take."
+"Likewise, the bots only have a limited number of charges. "
+"Occasionally, they will have more than you, but that is a risk you "
+"have to take."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:600
 msgid ""
-"Because you are initiating the attack, you do get to choose your side, which "
-"can let you handicap the bot greatly if used wisely."
+"Because you are initiating the attack, you do get to choose your "
+"side, which can let you handicap the bot greatly if used wisely."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:605
@@ -1430,14 +1477,15 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:607
 msgid ""
-"Each charge will activate and remain active for a certain amount of time. "
-"This will let you take over a core that a bot just took over."
+"Each charge will activate and remain active for a certain amount of "
+"time. This will let you take over a core that a bot just took over."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:608
 msgid ""
 "Sometimes, the bots will already have charges on the wires. When you "
-"activate one of these, it will increase the time that wire is activated for."
+"activate one of these, it will increase the time that wire is "
+"activated for."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:609
@@ -1448,38 +1496,38 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:610
 msgid ""
-"The wiring inside the bots sometimes contain splitters. These can be used in "
-"two ways."
+"The wiring inside the bots sometimes contain splitters. These can be "
+"used in two ways."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:611
 msgid ""
-"A 2-to-1 splitter is undesirable. This requires two charges to activate one "
-"core, halving your efficiency."
+"A 2-to-1 splitter is undesirable. This requires two charges to "
+"activate one core, halving your efficiency."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:612
 msgid ""
-"A 1-to-2 splitter, however, will activate two nodes for the price of one "
-"charge."
+"A 1-to-2 splitter, however, will activate two nodes for the price of "
+"one charge."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:613
 msgid ""
-"Sometimes these splitters will be stacked. Tracing the route ahead of time "
-"will be crucial to your tactical success."
+"Sometimes these splitters will be stacked. Tracing the route ahead of "
+"time will be crucial to your tactical success."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:614
 msgid ""
-"Ideally, you want to stick your opponent with 2-to-1 splitters, while you "
-"have 1-to-2 splitters at your disposal."
+"Ideally, you want to stick your opponent with 2-to-1 splitters, while "
+"you have 1-to-2 splitters at your disposal."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:615
 msgid ""
-"Finally, remember that patience is often a virtue. Taking over all cores "
-"early on only to lose them later can be a crushing blow."
+"Finally, remember that patience is often a virtue. Taking over all "
+"cores early on only to lose them later can be a crushing blow."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:620
@@ -1504,37 +1552,39 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:626
 msgid ""
-"You seem to be able to handle quite a bit of heat, but you have your limits."
+"You seem to be able to handle quite a bit of heat, but you have your "
+"limits."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:627
 msgid ""
-"If you accumulate too much heat, you will automatically shut down in order "
-"to cool off."
+"If you accumulate too much heat, you will automatically shut down in "
+"order to cool off."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:628
 msgid ""
-"Over time, the heat will seep away from your body naturally. However, there "
-"are ways to speed up the process."
+"Over time, the heat will seep away from your body naturally. However, "
+"there are ways to speed up the process."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:629
 msgid ""
-"If you can find them, cooling drinks will quickly relieve your thermal "
-"discomfort, in much the same way healing drinks help your health."
+"If you can find them, cooling drinks will quickly relieve your "
+"thermal discomfort, in much the same way healing drinks help your "
+"health."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:630
 msgid ""
-"You also have a special program called Emergency Shutdown that will lower "
-"your heat level drastically, although not without cost."
+"You also have a special program called Emergency Shutdown that will "
+"lower your heat level drastically, although not without cost."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:631
 msgid ""
-"Using it will paralyze you for several seconds, during which you are a "
-"sitting duck... er, penguin."
+"Using it will paralyze you for several seconds, during which you are "
+"a sitting duck... er, penguin."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:632
@@ -1547,20 +1597,20 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:634
 msgid ""
-"In addition to hacking, you have the ability to execute arbitrary code on "
-"bots."
+"In addition to hacking, you have the ability to execute arbitrary "
+"code on bots."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:635
 msgid ""
-"These scripts and programs can be learned through reading source code books. "
-"To read a book, right-click on it in inventory."
+"These scripts and programs can be learned through reading source code "
+"books. To read a book, right-click on it in inventory."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:636
 msgid ""
-"You should have recovered your hacking ability by now, and I'll give you a "
-"couple of source code books as well."
+"You should have recovered your hacking ability by now, and I'll give "
+"you a couple of source code books as well."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:641
@@ -1573,8 +1623,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:644
 msgid ""
-"Take them over, then talk to me when they're all dead, and we'll be done "
-"with the tutorial."
+"Take them over, then talk to me when they're all dead, and we'll be "
+"done with the tutorial."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:645
@@ -1583,12 +1633,13 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:646
 msgid ""
-"Oh, and Linarian... If you fail when hacking, you'll receive an electrical "
-"shock."
+"Oh, and Linarian... If you fail when hacking, you'll receive an "
+"electrical shock."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:647
-msgid "It shouldn't kill you, but you need to be aware of it nonetheless."
+msgid ""
+"It shouldn't kill you, but you need to be aware of it nonetheless."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:662
@@ -1604,7 +1655,8 @@ msgid "Come back and talk to me after they are."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:668
-msgid "If you're having trouble, you might try the Malformed packet program."
+msgid ""
+"If you're having trouble, you might try the Malformed packet program."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:670
@@ -1616,7 +1668,8 @@ msgid "Now, there's one last thing you should know."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:677
-msgid "You Linarians can apparently withdraw from our world temporarily."
+msgid ""
+"You Linarians can apparently withdraw from our world temporarily."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:678
@@ -1637,8 +1690,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:682
 msgid ""
-"I'm afraid there's nothing more I can teach you. I wish you good luck, "
-"Linarian."
+"I'm afraid there's nothing more I can teach you. I wish you good "
+"luck, Linarian."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:683
@@ -1655,8 +1708,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:693
 msgid ""
-"But things will be much clearer once you try for yourself than when I try to "
-"explain."
+"But things will be much clearer once you try for yourself than when I "
+"try to explain."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:694
@@ -1669,8 +1722,8 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:701
 msgid ""
-"Ok, I'll be around if you need any more questions answered. Don't hesitate "
-"to ask."
+"Ok, I'll be around if you need any more questions answered. Don't "
+"hesitate to ask."
 msgstr ""
 
 #~ msgid "Interested?"
@@ -1682,21 +1735,25 @@ msgstr ""
 #~ msgid "Yes, that is true. I am not who I seem to be."
 #~ msgstr "Ja, det är sant. Jag är vem jag verkar vara."
 
-#~ msgid "And I am Duncan McNamara, the maker of grenades and nothing else."
+#~ msgid ""
+#~ "And I am Duncan McNamara, the maker of grenades and nothing else."
 #~ msgstr ""
-#~ "Och jag är Duncan McNamara, skapare av granater och ingenting annat."
+#~ "Och jag är Duncan McNamara, skapare av granater och ingenting "
+#~ "annat."
 
 #~ msgid "Twenty years ago, the people were kinder to each other."
 #~ msgstr "För tjugo år sedan, var människor vänligare mot varann."
 
-#~ msgid "I suggest you be kind to me as well, and I will be kind to you."
+#~ msgid ""
+#~ "I suggest you be kind to me as well, and I will be kind to you."
 #~ msgstr ""
-#~ "Jag föreslår att du är vänlig mot mig med, så kommer jag att vara vänlig "
-#~ "mot dig."
+#~ "Jag föreslår att du är vänlig mot mig med, så kommer jag att vara "
+#~ "vänlig mot dig."
 
 #~ msgid "That way I get to keep my secret, and you get to keep yours."
 #~ msgstr ""
-#~ "På det sättet får jag behålla min hemlighet, och du får behålla din."
+#~ "På det sättet får jag behålla min hemlighet, och du får behålla "
+#~ "din."
 
 #~ msgid "And neither do I."
 #~ msgstr "Inte jag heller."
@@ -1708,19 +1765,22 @@ msgstr ""
 #~ msgstr "Inget mer och inget mindre."
 
 #~ msgid ""
-#~ "I am a 614 security bot, once one of the best-selling products of the "
-#~ "Nicholson company."
+#~ "I am a 614 security bot, once one of the best-selling products of "
+#~ "the Nicholson company."
 #~ msgstr ""
-#~ "Jag är en 614 säkerhets bot, en gång i tiden en av de bäst säljande "
-#~ "produkterna från Nicholson company."
+#~ "Jag är en 614 säkerhets bot, en gång i tiden en av de bäst "
+#~ "säljande produkterna från Nicholson company."
 
 #~ msgid ""
-#~ "The official manual classifies the 614 as a high class security droid."
+#~ "The official manual classifies the 614 as a high class security "
+#~ "droid."
 #~ msgstr ""
-#~ "Den officiella manualen klassifierar 614 som en högklass säkerhets droid."
+#~ "Den officiella manualen klassifierar 614 som en högklass säkerhets "
+#~ "droid."
 
 #~ msgid ""
-#~ "It was mainly used within ships to protect certain areas from intruders."
+#~ "It was mainly used within ships to protect certain areas from "
+#~ "intruders."
 #~ msgstr ""
 #~ "Den användes oftast inuti skepp för att skydda vissa områden från "
 #~ "inkräktare."
@@ -1732,9 +1792,11 @@ msgstr ""
 #~ msgstr "Så oroa dig inte. Jag är fortfarande i ganska bra form."
 
 #~ msgid ""
-#~ "Don't forget to buy products from Nicholson Company. They are the best."
+#~ "Don't forget to buy products from Nicholson Company. They are the "
+#~ "best."
 #~ msgstr ""
-#~ "Glöm inte att köpa produkter från Nicholson Company. De är de bästa."
+#~ "Glöm inte att köpa produkter från Nicholson Company. De är de "
+#~ "bästa."
 
 #, fuzzy
 #~ msgid "Resuming guard program."
@@ -1808,106 +1870,117 @@ msgstr ""
 #~ msgstr "Åh nej! Det här är inte bra. Inte bra alls."
 
 #~ msgid ""
-#~ "*sigh* Long stasis sleep can cause neurological damage and impact the "
-#~ "memory. Looks like that is what happened here."
+#~ "*sigh* Long stasis sleep can cause neurological damage and impact "
+#~ "the memory. Looks like that is what happened here."
 #~ msgstr ""
-#~ "*suck* Lång nerfrysning kan ge neurologiska skador och påverka minnet. "
-#~ "Det är nog vad som hänt i ditt fall."
+#~ "*suck* Lång nerfrysning kan ge neurologiska skador och påverka "
+#~ "minnet. Det är nog vad som hänt i ditt fall."
 
 #~ msgid ""
-#~ "It will all come back to you in a few hours, but I guess I will make it "
-#~ "easier for you if I say what I know."
+#~ "It will all come back to you in a few hours, but I guess I will "
+#~ "make it easier for you if I say what I know."
 #~ msgstr ""
-#~ "Dina egna minnen torde komma tillbaka inom några timmar, men jag ska göra "
-#~ "det lite enklare för dig just nu och berätta åtminstone vad jag vet."
+#~ "Dina egna minnen torde komma tillbaka inom några timmar, men jag "
+#~ "ska göra det lite enklare för dig just nu och berätta åtminstone "
+#~ "vad jag vet."
 
 #~ msgid ""
-#~ "You are a Linarian, a species not native to this planet. Twenty of you "
-#~ "arrived here close to a century ago."
+#~ "You are a Linarian, a species not native to this planet. Twenty of "
+#~ "you arrived here close to a century ago."
 #~ msgstr ""
-#~ "Du är en Linarian, en art som inte hör hemma på denna planeten. Ett "
-#~ "tjugotal av er anlände för ungefär ett sekel sedan."
+#~ "Du är en Linarian, en art som inte hör hemma på denna planeten. "
+#~ "Ett tjugotal av er anlände för ungefär ett sekel sedan."
 
 #~ msgid ""
-#~ "There was a... misunderstanding of some sort and humans welcomed your "
-#~ "expedition with blaster fire. A terrible mistake on our part."
+#~ "There was a... misunderstanding of some sort and humans welcomed "
+#~ "your expedition with blaster fire. A terrible mistake on our part."
 #~ msgstr ""
-#~ "Tyvärr var där... något slags missförstånd och vi människor välkomnade "
-#~ "eran expedition med vapeneld. Ett fruktansvärt misstag från vår sida."
+#~ "Tyvärr var där... något slags missförstånd och vi människor "
+#~ "välkomnade eran expedition med vapeneld. Ett fruktansvärt misstag "
+#~ "från vår sida."
 
 #~ msgid ""
-#~ "A few of you survived the slaughter and went into hiding and obscurity."
+#~ "A few of you survived the slaughter and went into hiding and "
+#~ "obscurity."
 #~ msgstr ""
-#~ "Ett fåtal av er överlevde massakern och gömde sig och höll sig undan."
+#~ "Ett fåtal av er överlevde massakern och gömde sig och höll sig "
+#~ "undan."
 
 #~ msgid ""
-#~ "During that time Linarians became known as helpers and heroes. Of course "
-#~ "now most people think it all was just a fairy tale."
+#~ "During that time Linarians became known as helpers and heroes. Of "
+#~ "course now most people think it all was just a fairy tale."
 #~ msgstr ""
-#~ "Under denna tid blev ni Linarier kända som hjältar och hjälpare i det "
-#~ "fördolda. Nu förtiden så tror förstås de flesta att allt bara är sagor."
+#~ "Under denna tid blev ni Linarier kända som hjältar och hjälpare i "
+#~ "det fördolda. Nu förtiden så tror förstås de flesta att allt bara "
+#~ "är sagor."
 
 #~ msgid "It is a long story. It all happened five months ago."
 #~ msgstr "Det är en lång historia. Det började för fem månader sedan."
 
 #~ msgid ""
-#~ "I was at a protest against MegaSys, a computer company. They killed free "
-#~ "software by finding a loophole in the GPL3.14 licence. It all became "
-#~ "their property. Bastards."
+#~ "I was at a protest against MegaSys, a computer company. They "
+#~ "killed free software by finding a loophole in the GPL3.14 licence. "
+#~ "It all became their property. Bastards."
 #~ msgstr ""
-#~ "Jag var på ett protestmöte mot MegaSys, ett datorföretag. De tog död på "
-#~ "fri programvara genom att hitta ett ett kryphål i GPL 3.14. ALL "
-#~ "programvara tillhörde plötsligt dem. Otäckingar!"
+#~ "Jag var på ett protestmöte mot MegaSys, ett datorföretag. De tog "
+#~ "död på fri programvara genom att hitta ett ett kryphål i GPL 3.14. "
+#~ "ALL programvara tillhörde plötsligt dem. Otäckingar!"
 
 #~ msgid ""
-#~ "Lots of people were angry about this. Protests and riots spread in waves "
-#~ "all around the world."
+#~ "Lots of people were angry about this. Protests and riots spread in "
+#~ "waves all around the world."
 #~ msgstr ""
-#~ "Massor med människor blev arga på detta. Protester och upplopp spred sig "
-#~ "i vågor över världen."
+#~ "Massor med människor blev arga på detta. Protester och upplopp "
+#~ "spred sig i vågor över världen."
 
 #~ msgid ""
-#~ "When the police bots approached at dawn, we thought that they were going "
-#~ "to simply disperse the crowds. Instead, they started killing us."
+#~ "When the police bots approached at dawn, we thought that they were "
+#~ "going to simply disperse the crowds. Instead, they started killing "
+#~ "us."
 #~ msgstr ""
-#~ "När polisrobotarna närmade sig i gryningen trodde vi bara att de kom för "
-#~ "att skingra folkmassorna. Istället började de DÖDA oss!"
+#~ "När polisrobotarna närmade sig i gryningen trodde vi bara att de "
+#~ "kom för att skingra folkmassorna. Istället började de DÖDA oss!"
 
 #~ msgid ""
-#~ "I broke into a parked hover car and used it to escape. The sight from the "
-#~ "air was horrible."
+#~ "I broke into a parked hover car and used it to escape. The sight "
+#~ "from the air was horrible."
 #~ msgstr ""
-#~ "Jag bröt mig in i en parkerad svävare och använde den för att fly i "
-#~ "säkerhet. Men vad jag såg från luften var hemskt."
+#~ "Jag bröt mig in i en parkerad svävare och använde den för att fly "
+#~ "i säkerhet. Men vad jag såg från luften var hemskt."
 
 #, fuzzy
 #~ msgid ""
-#~ "The city was full of flames, flashes of gunfire and screaming people. "
-#~ "That image still does not let me sleep at night."
+#~ "The city was full of flames, flashes of gunfire and screaming "
+#~ "people. That image still does not let me sleep at night."
 #~ msgstr ""
-#~ "Hela staden stod i lågor, vapen avfyrades överallt och människor skrek i "
-#~ "vild panik. Den bilden håller mig fortfarande vaken om nätterna."
+#~ "Hela staden stod i lågor, vapen avfyrades överallt och människor "
+#~ "skrek i vild panik. Den bilden håller mig fortfarande vaken om "
+#~ "nätterna."
 
 #~ msgid "First we made them, and then they unmade us. How ironic."
 #~ msgstr ""
-#~ "Först skapade vi dem, sedan avskaffade de oss. Ironi på högsta nivå."
-
-#~ msgid "I got shot down and I crashed a few kilometers away from here."
-#~ msgstr "Jag blev nerskjuten och kraschade ett par kilometer härifrån."
+#~ "Först skapade vi dem, sedan avskaffade de oss. Ironi på högsta "
+#~ "nivå."
 
 #~ msgid ""
-#~ "Later I learned that the bots started attacking all around the globe. The "
-#~ "journalists called it 'The Great Assault'. The name stuck."
+#~ "I got shot down and I crashed a few kilometers away from here."
 #~ msgstr ""
-#~ "Senare fick jag reda på att robotarna hade startat attackera runt hela "
-#~ "jorden. Journalisterna kallade det \"Det stora anfallet\". Namnet hängde "
-#~ "kvar."
+#~ "Jag blev nerskjuten och kraschade ett par kilometer härifrån."
+
+#~ msgid ""
+#~ "Later I learned that the bots started attacking all around the "
+#~ "globe. The journalists called it 'The Great Assault'. The name "
+#~ "stuck."
+#~ msgstr ""
+#~ "Senare fick jag reda på att robotarna hade startat attackera runt "
+#~ "hela jorden. Journalisterna kallade det \"Det stora anfallet\". "
+#~ "Namnet hängde kvar."
 
 #, fuzzy
 #~ msgid ""
 #~ "Then the bots started jamming our broadcasts and long distance "
-#~ "communication became impossible. I have no idea what happened in the "
-#~ "world after that. We are cut off."
+#~ "communication became impossible. I have no idea what happened in "
+#~ "the world after that. We are cut off."
 #~ msgstr ""
 #~ "Snart så började robotarna att störa ut vår radiokommunikation och "
 #~ "kontakt med fjärran belägna platser blev omöjlig."
@@ -1917,20 +1990,20 @@ msgstr ""
 
 #, fuzzy
 #~ msgid ""
-#~ "This facility is located not too far away from a mining town where we "
-#~ "have made a stand against the damn contraptions. However, I'm alone here "
-#~ "with only 1 droid for security."
+#~ "This facility is located not too far away from a mining town where "
+#~ "we have made a stand against the damn contraptions. However, I'm "
+#~ "alone here with only 1 droid for security."
 #~ msgstr ""
-#~ "Lokalbefolkningen kallar stället Tempelskogen. Vi befinner oss inte "
-#~ "speciellt långt ifrån en liten gruvstad där vi har tagit upp "
+#~ "Lokalbefolkningen kallar stället Tempelskogen. Vi befinner oss "
+#~ "inte speciellt långt ifrån en liten gruvstad där vi har tagit upp "
 #~ "försvarsställning mot de förbannade maskinerna."
 
 #~ msgid ""
-#~ "The planet you mean? No one knows that. None of you ever said anything "
-#~ "about it."
+#~ "The planet you mean? No one knows that. None of you ever said "
+#~ "anything about it."
 #~ msgstr ""
-#~ "Den här planeten menar du? Ingen vet det. Ingen av er har någonsin sagt "
-#~ "något om det."
+#~ "Den här planeten menar du? Ingen vet det. Ingen av er har någonsin "
+#~ "sagt något om det."
 
 #~ msgid "Sorry, I cannot help you with that."
 #~ msgstr "Tyvärr, jag kan inte hjälpa dig med det."
@@ -1939,11 +2012,11 @@ msgstr ""
 #~ msgstr "Du menar var i universum?"
 
 #~ msgid ""
-#~ "Well, we are in a barred spiral galaxy, twenty-six thousand light years "
-#~ "away from the galactic core."
+#~ "Well, we are in a barred spiral galaxy, twenty-six thousand light "
+#~ "years away from the galactic core."
 #~ msgstr ""
-#~ "Ja, vi befinner oss i en spiral galax, ca tjugosex tusen ljusår från "
-#~ "galaxens centrum."
+#~ "Ja, vi befinner oss i en spiral galax, ca tjugosex tusen ljusår "
+#~ "från galaxens centrum."
 
 #~ msgid ""
 #~ "The galactic radius is 43,000 light years and the circumference is "
@@ -1953,27 +2026,27 @@ msgstr ""
 #~ "270.000 ljusår."
 
 #~ msgid ""
-#~ "This is a planetary system of ten planets, and we are presently located "
-#~ "on the third one from our star, Sun."
+#~ "This is a planetary system of ten planets, and we are presently "
+#~ "located on the third one from our star, Sun."
 #~ msgstr ""
-#~ "Det här är ett solsystem med 10 planeter, och vi befinner oss just nu på "
-#~ "den 3dje himlakroppen från vår stjärna, Solen."
+#~ "Det här är ett solsystem med 10 planeter, och vi befinner oss just "
+#~ "nu på den 3dje himlakroppen från vår stjärna, Solen."
 
 #, fuzzy
 #~ msgid ""
-#~ "I am not an astronomer, so I could be wrong. I am too tired to keep track "
-#~ "of what is a planet and what is just an oversized rock."
+#~ "I am not an astronomer, so I could be wrong. I am too tired to "
+#~ "keep track of what is a planet and what is just an oversized rock."
 #~ msgstr ""
-#~ "Jag är dock ingen astronom, så jag kan ha fel. Jag är för trött för att "
-#~ "hålla reda på vad som egentligen är en planet och vad som bara är en stor "
-#~ "stenklump."
+#~ "Jag är dock ingen astronom, så jag kan ha fel. Jag är för trött "
+#~ "för att hålla reda på vad som egentligen är en planet och vad som "
+#~ "bara är en stor stenklump."
 
 #~ msgid "I guess I will start with myself."
 #~ msgstr "Jag gissar att jag borde börja med mig själv."
 
 #~ msgid ""
-#~ "Francis. Francis Spark. I used to be a teacher at a small university "
-#~ "before all hell broke loose."
+#~ "Francis. Francis Spark. I used to be a teacher at a small "
+#~ "university before all hell broke loose."
 #~ msgstr ""
 #~ "Jag heter Francis. Francis Spark. Jag var en lärare på ett litet "
 #~ "universitet innan helvetet bröt lös."
@@ -1982,53 +2055,55 @@ msgstr ""
 #~ "Currently, there is a war raging all around the globe. Humans are "
 #~ "fighting against bots."
 #~ msgstr ""
-#~ "För närvarande pågår det ett världskrig runt hela planeten. Människor "
-#~ "slåss mot robotar."
+#~ "För närvarande pågår det ett världskrig runt hela planeten. "
+#~ "Människor slåss mot robotar."
 
 #~ msgid "And it looks like we are losing the war."
 #~ msgstr "Och det ser ut som om vi förlorar kriget."
 
 #~ msgid ""
-#~ "Sorry, star sciences are my weak point. Maybe someone in the town might "
-#~ "know something more."
+#~ "Sorry, star sciences are my weak point. Maybe someone in the town "
+#~ "might know something more."
 #~ msgstr ""
-#~ "Förlåt, astronomi är en av mina svagare sidor. Kanske någon i staden kan "
-#~ "ge bättre information."
+#~ "Förlåt, astronomi är en av mina svagare sidor. Kanske någon i "
+#~ "staden kan ge bättre information."
 
 #~ msgid ""
-#~ "This is normal. You were in stasis sleep for over 70 years. Stasis is not "
-#~ "too kind on the mind. Your strange dreams will keep recurring for several "
-#~ "years."
+#~ "This is normal. You were in stasis sleep for over 70 years. Stasis "
+#~ "is not too kind on the mind. Your strange dreams will keep "
+#~ "recurring for several years."
 #~ msgstr ""
-#~ "Det är normalt. Du has legat nedfryst i dvala i över 70 år. Stasis är "
-#~ "inte alltför snällt mot medvetandet. Dina konstiga drömmar kommer att "
-#~ "dyka upp i flera år."
+#~ "Det är normalt. Du has legat nedfryst i dvala i över 70 år. Stasis "
+#~ "är inte alltför snällt mot medvetandet. Dina konstiga drömmar "
+#~ "kommer att dyka upp i flera år."
 
 #, fuzzy
 #~ msgid ""
-#~ "Whatever the reason was for putting yourself through this, it must have "
-#~ "been a damn good one."
+#~ "Whatever the reason was for putting yourself through this, it must "
+#~ "have been a damn good one."
 #~ msgstr ""
-#~ "Vad än orsaken var för att göra detta mot dig själv, så måste du haft en "
-#~ "jäkligt god anledning."
+#~ "Vad än orsaken var för att göra detta mot dig själv, så måste du "
+#~ "haft en jäkligt god anledning."
 
 #~ msgid ""
-#~ "You are lucky that I found you and woke you up. A few more decades in "
-#~ "there and you would end up insane."
+#~ "You are lucky that I found you and woke you up. A few more decades "
+#~ "in there and you would end up insane."
 #~ msgstr ""
-#~ "Du har tur att jag hittade och väckte upp dig. Ett par årtionden till "
-#~ "nedfryst och du skulle blivit helt tokig."
+#~ "Du har tur att jag hittade och väckte upp dig. Ett par årtionden "
+#~ "till nedfryst och du skulle blivit helt tokig."
 
 #, fuzzy
-#~ msgid "It is a small mining community of no more than 500 inhabitants..."
+#~ msgid ""
+#~ "It is a small mining community of no more than 500 inhabitants..."
 #~ msgstr "Det är en liten gruvstad med inte mer än 500 innevånare..."
 
 #~ msgid ""
 #~ "It was a stroke of luck that it did not get destroyed by the bots. "
 #~ "Because of poor funding, the city could not afford new models."
 #~ msgstr ""
-#~ "Det var ren tur att den inte blev förstörd av robotarna. På grund av "
-#~ "dålig ekonomi så hade staden inte råd att uppgradera till nya modeller."
+#~ "Det var ren tur att den inte blev förstörd av robotarna. På grund "
+#~ "av dålig ekonomi så hade staden inte råd att uppgradera till nya "
+#~ "modeller."
 
 #, fuzzy
 #~ msgid ""
@@ -2036,45 +2111,45 @@ msgstr ""
 #~ "platforms. They were running an old operating system and were not "
 #~ "affected by whatever caused the other bots to go crazy."
 #~ msgstr ""
-#~ "Därför hade de bara gamla modell 614 strids plattformen. De körde ett "
-#~ "gammalt operativsystem och blev inte affekterade av vad det nu var som "
-#~ "fick alla de andra botarna att bli vansinniga."
+#~ "Därför hade de bara gamla modell 614 strids plattformen. De körde "
+#~ "ett gammalt operativsystem och blev inte affekterade av vad det nu "
+#~ "var som fick alla de andra botarna att bli vansinniga."
 
 #~ msgid ""
-#~ "Right now the place is protected by the Red Guard, a bunch of volunteers. "
-#~ "I cannot say I agree with their methods."
+#~ "Right now the place is protected by the Red Guard, a bunch of "
+#~ "volunteers. I cannot say I agree with their methods."
 #~ msgstr ""
-#~ "Just nu skyddas den av Röda Gardet, en grupp frivilliga. Jag kan inte "
-#~ "säga att jag alltid håller med deras metoder."
+#~ "Just nu skyddas den av Röda Gardet, en grupp frivilliga. Jag kan "
+#~ "inte säga att jag alltid håller med deras metoder."
 
 #~ msgid ""
-#~ "However, I must admit that being a prisoner of a walled town looks pretty "
-#~ "good compared to the alternative of being eviscerated alive."
+#~ "However, I must admit that being a prisoner of a walled town looks "
+#~ "pretty good compared to the alternative of being eviscerated alive."
 #~ msgstr ""
-#~ "Dock måste jag medge att vara nästan en fånge i en stad skyddad bakom "
-#~ "murar är ett ganska tilltalande alternativ till att bli lemlästad av "
-#~ "botarna."
+#~ "Dock måste jag medge att vara nästan en fånge i en stad skyddad "
+#~ "bakom murar är ett ganska tilltalande alternativ till att bli "
+#~ "lemlästad av botarna."
 
 #~ msgid "We don't really know the reason for this insanity. However..."
 #~ msgstr "Vi vet inte riktigt varför de blev tokiga. Men..."
 
 #~ msgid ""
-#~ "All of the attacking bots are using a MegaSys operating system, so we "
-#~ "think they are responsible."
+#~ "All of the attacking bots are using a MegaSys operating system, so "
+#~ "we think they are responsible."
 #~ msgstr ""
-#~ "Alla av de attackerande botarna använder MegaSys operativsystem, så vi "
-#~ "tror att de är ansvariga."
+#~ "Alla av de attackerande botarna använder MegaSys operativsystem, "
+#~ "så vi tror att de är ansvariga."
 
 #~ msgid "Not surprisingly, the bastards deny everything."
 #~ msgstr "Inte speciellt överraskande förnekar de all inblandning."
 
 #, fuzzy
 #~ msgid ""
-#~ "Of course, because nearly every single bot in the world runs on that "
-#~ "junk, the situation does not look pretty."
+#~ "Of course, because nearly every single bot in the world runs on "
+#~ "that junk, the situation does not look pretty."
 #~ msgstr ""
-#~ "Eftersom nästan varenda en av världens botar kör på deras skräp så ser "
-#~ "inte situationen speciellt lovande ut."
+#~ "Eftersom nästan varenda en av världens botar kör på deras skräp så "
+#~ "ser inte situationen speciellt lovande ut."
 
 #~ msgid "Relax. Everything will be fine in a few hours."
 #~ msgstr "Ta det lugnt. Allt kommer att bli bra om några timmar."
@@ -2084,39 +2159,40 @@ msgstr ""
 
 #~ msgid ""
 #~ "It can. They got close to a monopoly 30 years ago, but their last "
-#~ "competitor, the open source community, was defeated by them about a year "
-#~ "ago."
+#~ "competitor, the open source community, was defeated by them about "
+#~ "a year ago."
 #~ msgstr ""
 #~ "Jodå. De fick nästan helt monopol för 30 år sedan, men deras sista "
-#~ "kvarvarande konkurrent, öppen källkods mjukvara, blev besegrade av dem "
-#~ "för ungefär ett år sedan."
+#~ "kvarvarande konkurrent, öppen källkods mjukvara, blev besegrade av "
+#~ "dem för ungefär ett år sedan."
 
 #~ msgid ""
 #~ "Since then all of the newly made bots have been made with MegaSys "
 #~ "firmware burnt into their circuits."
 #~ msgstr ""
-#~ "Sedan dess har alla nya robotar tillverkats med MegaSys firmware inbränt "
-#~ "i sina minneschips."
+#~ "Sedan dess har alla nya robotar tillverkats med MegaSys firmware "
+#~ "inbränt i sina minneschips."
 
 #~ msgid ""
-#~ "The situation at the town is not good. The walls are crumbling and we "
-#~ "have lost a lot of good people."
+#~ "The situation at the town is not good. The walls are crumbling and "
+#~ "we have lost a lot of good people."
 #~ msgstr ""
-#~ "Situationen i staden är inte speciellt bra. Murarna håller knappt ihop "
-#~ "och vi har redan förlorat många bra människor."
+#~ "Situationen i staden är inte speciellt bra. Murarna håller knappt "
+#~ "ihop och vi har redan förlorat många bra människor."
 
 #~ msgid ""
-#~ "Even if this is only partly true, we need it. The situation is quite ugly."
+#~ "Even if this is only partly true, we need it. The situation is "
+#~ "quite ugly."
 #~ msgstr ""
-#~ "Även om det bara skulle vara en halvsanning så behöver vi den hjälpen. "
-#~ "Situationen är ganska dålig för oss för tillfället."
+#~ "Även om det bara skulle vara en halvsanning så behöver vi den "
+#~ "hjälpen. Situationen är ganska dålig för oss för tillfället."
 
 #~ msgid "We need you."
 #~ msgstr "Vi behöver dig."
 
 #~ msgid ""
-#~ "I am glad I could help you. You should be careful around here. Best head "
-#~ "straight for our town."
+#~ "I am glad I could help you. You should be careful around here. "
+#~ "Best head straight for our town."
 #~ msgstr ""
 #~ "Jag är glad att jag kunde hjälpa dig. Du borde vara försiktig här "
 #~ "omkring. Säkrast att gå rakt till staden."
@@ -2125,7 +2201,8 @@ msgstr ""
 #~ msgstr "Hallå. Vi är Fleischer bröderna."
 
 #~ msgid "I am Engel. He is Geist, and he does not know the language."
-#~ msgstr "Jag är Engel. Min bror heter Geist, men han kan inte språket."
+#~ msgstr ""
+#~ "Jag är Engel. Min bror heter Geist, men han kan inte språket."
 
 #~ msgid "Revenge."
 #~ msgstr "Tar hämnd!"
@@ -2145,10 +2222,11 @@ msgstr ""
 #~ msgid "What a beautiful day. Yes."
 #~ msgstr "Vilken vacker dag. Ja."
 
-#~ msgid "Every day since the mess started I come here to fight the bots."
+#~ msgid ""
+#~ "Every day since the mess started I come here to fight the bots."
 #~ msgstr ""
-#~ "Varje dag sedan den här röran började har jag kommit hit för att strida "
-#~ "mot bottarna."
+#~ "Varje dag sedan den här röran började har jag kommit hit för att "
+#~ "strida mot bottarna."
 
 #~ msgid "Today will be no different."
 #~ msgstr "Idag är inget undantag."
@@ -2158,19 +2236,21 @@ msgstr ""
 
 #~ msgid "Nowhere. This is the end of the world. There is no help."
 #~ msgstr ""
-#~ "Ingenstans. Det här är världens ände, ragnarök. Det finns ingen hjälp."
+#~ "Ingenstans. Det här är världens ände, ragnarök. Det finns ingen "
+#~ "hjälp."
 
 #~ msgid ""
-#~ "There is a city a bit south from here, but if I were you, I would not go "
-#~ "there."
+#~ "There is a city a bit south from here, but if I were you, I would "
+#~ "not go there."
 #~ msgstr ""
-#~ "Det finns en stad, en bit söderut härifrån, men om jag var du, skulle jag "
-#~ "inte gå dit."
+#~ "Det finns en stad, en bit söderut härifrån, men om jag var du, "
+#~ "skulle jag inte gå dit."
 
 #~ msgid ""
 #~ "The Rot Guard is the ruler there, and cruelty is their solution to "
 #~ "everything."
-#~ msgstr "Röda Gardet härskar där, och brutalitet är deras lösning på allt."
+#~ msgstr ""
+#~ "Röda Gardet härskar där, och brutalitet är deras lösning på allt."
 
 #~ msgid "Real freedom is really dead."
 #~ msgstr "Verklig frihet är helt försvunnen."
@@ -2184,9 +2264,11 @@ msgstr ""
 #~ msgid "Donnerwetter, you are a funny one."
 #~ msgstr "Donnerwetter, du är då verkligen en rolig en."
 
-#~ msgid "I hope that one day we shall meet again, maybe in a better time."
+#~ msgid ""
+#~ "I hope that one day we shall meet again, maybe in a better time."
 #~ msgstr ""
-#~ "Jag hoppas att vi en dag kommer att mötas igen, kanske i bättre tider."
+#~ "Jag hoppas att vi en dag kommer att mötas igen, kanske i bättre "
+#~ "tider."
 
 #~ msgid "Maybe then you will tell us other gut jokes that you know."
 #~ msgstr "Kanske kommer du då att berätta fler gute skämt som du kan."
@@ -2198,11 +2280,11 @@ msgstr ""
 #~ msgstr "Jag var en bott konstruktör. Byggde min mammas mördare."
 
 #~ msgid ""
-#~ "Now I sell the parts that I remove from the bots to buy more ammunition "
-#~ "and food."
+#~ "Now I sell the parts that I remove from the bots to buy more "
+#~ "ammunition and food."
 #~ msgstr ""
-#~ "Nu säljer jag delarna som jag tar bort från bottarna för att köpa mer "
-#~ "ammunition och mat."
+#~ "Nu säljer jag delarna som jag tar bort från bottarna för att köpa "
+#~ "mer ammunition och mat."
 
 #~ msgid "Yes."
 #~ msgstr "Ja."
@@ -2224,36 +2306,41 @@ msgstr ""
 #~ msgstr "Jag kommer vara klar inom en vecka."
 
 #~ msgid ""
-#~ "Ah, so you are the new member. Welcome. My name is Benjamin, and I take "
-#~ "care of our ranged weaponry here in the citadel."
+#~ "Ah, so you are the new member. Welcome. My name is Benjamin, and I "
+#~ "take care of our ranged weaponry here in the citadel."
 #~ msgstr ""
-#~ "Åh, så du är den nya medlemmen. Välkommen. Mitt namn är Benjamin, och jag "
-#~ "tar hand om våra distansvapen här i citadellet."
+#~ "Åh, så du är den nya medlemmen. Välkommen. Mitt namn är Benjamin, "
+#~ "och jag tar hand om våra distansvapen här i citadellet."
 
 #~ msgid ""
-#~ "I'm experimenting with new designs. I want to redesign the laser pistol."
+#~ "I'm experimenting with new designs. I want to redesign the laser "
+#~ "pistol."
 #~ msgstr ""
-#~ "Jag experimenterar med nya konstruktioner. Jag skulle vilja designa om "
-#~ "laserpistolen."
+#~ "Jag experimenterar med nya konstruktioner. Jag skulle vilja "
+#~ "designa om laserpistolen."
 
 #~ msgid ""
-#~ "A lot of energy is wasted somewhere during firing, and I have no idea "
-#~ "where. If I could find the source of the problem, the gun would become "
-#~ "much more powerful."
+#~ "A lot of energy is wasted somewhere during firing, and I have no "
+#~ "idea where. If I could find the source of the problem, the gun "
+#~ "would become much more powerful."
 #~ msgstr ""
-#~ "En massa energi försvinner någonstans när man skjuter, och jag har ingen "
-#~ "aning om var. Om jag kunde finna källan till problemet, skulle vapnet bli "
-#~ "mycket mer kraftfullt."
+#~ "En massa energi försvinner någonstans när man skjuter, och jag har "
+#~ "ingen aning om var. Om jag kunde finna källan till problemet, "
+#~ "skulle vapnet bli mycket mer kraftfullt."
 
 #~ msgid ""
-#~ "So far all my prototypes have failed. Mostly overheating and jamming. "
-#~ "Sometimes I wonder if I am doing something wrong."
+#~ "So far all my prototypes have failed. Mostly overheating and "
+#~ "jamming. Sometimes I wonder if I am doing something wrong."
 #~ msgstr ""
 #~ "Än så länge har alla mina prototyper misslyckats. Mestadels har de "
-#~ "överhettats eller hakat upp sig. Ibland undrar jag om jag gör något fel."
+#~ "överhettats eller hakat upp sig. Ibland undrar jag om jag gör "
+#~ "något fel."
 
-#~ msgid "Hmm... There might be something in that idea. I will think about it."
-#~ msgstr "Hmm... Du har nog en poäng i den idén. Jag ska fundera på det."
+#~ msgid ""
+#~ "Hmm... There might be something in that idea. I will think about "
+#~ "it."
+#~ msgstr ""
+#~ "Hmm... Du har nog en poäng i den idén. Jag ska fundera på det."
 
 #~ msgid "Hmm... I will think about it. Hmm..."
 #~ msgstr "Hmm... Jag ska fundera på det. Hmm..."
@@ -2262,132 +2349,137 @@ msgstr ""
 #~ msgstr "Ja, du kanske har rätt. Jag ska fundera på det."
 
 #~ msgid ""
-#~ "Well, for novice members there are simple laser and plasma pistols. They "
-#~ "have their share of problems, but they do the trick nine times out of ten."
+#~ "Well, for novice members there are simple laser and plasma "
+#~ "pistols. They have their share of problems, but they do the trick "
+#~ "nine times out of ten."
 #~ msgstr ""
-#~ "Tja, för nybörjare finns det tex simpla laser och plasma pistoler. De har "
-#~ "sina brister, men i 9 fall av 10 så duger de till uppgiften."
+#~ "Tja, för nybörjare finns det tex simpla laser och plasma pistoler. "
+#~ "De har sina brister, men i 9 fall av 10 så duger de till uppgiften."
 
 #~ msgid ""
-#~ "For bigger bots we have bigger guns. The exterminator is the best weapon "
-#~ "that we have. We hand them out only in case of an emergency or to highly "
-#~ "experienced people."
+#~ "For bigger bots we have bigger guns. The exterminator is the best "
+#~ "weapon that we have. We hand them out only in case of an emergency "
+#~ "or to highly experienced people."
 #~ msgstr ""
-#~ "För större bottar har vi större gevär. Utrotaren är det bästa vapnet vi "
-#~ "har. Men sådana ger vi endast ut i nödfall eller till väldigt erfarna "
-#~ "personer."
+#~ "För större bottar har vi större gevär. Utrotaren är det bästa "
+#~ "vapnet vi har. Men sådana ger vi endast ut i nödfall eller till "
+#~ "väldigt erfarna personer."
 
 #~ msgid "It is!"
 #~ msgstr "Det är det!"
 
 #, fuzzy
 #~ msgid ""
-#~ "While many people find the ammunition canisters too big, and the bullets "
-#~ "too slow, they cannot deny that once plasma hits, it leaves big holes."
+#~ "While many people find the ammunition canisters too big, and the "
+#~ "bullets too slow, they cannot deny that once plasma hits, it "
+#~ "leaves big holes."
 #~ msgstr ""
 #~ "Trots att många finner magasinen otympliga och själva skotten för "
-#~ "långsamma, så är det ingen som förnekar att när plasman väl träffar så "
-#~ "lämnar den STORA hål."
+#~ "långsamma, så är det ingen som förnekar att när plasman väl "
+#~ "träffar så lämnar den STORA hål."
 
 #~ msgid ""
-#~ "Plasma is matter, ionised gas to be exact. It also happens to be hot "
-#~ "enough to make steel boil."
+#~ "Plasma is matter, ionised gas to be exact. It also happens to be "
+#~ "hot enough to make steel boil."
 #~ msgstr ""
-#~ "Plasma är materia, joniserad gas om man ska vara exakt. Det råkar också "
-#~ "vara varmt nog att få stål att koka."
+#~ "Plasma är materia, joniserad gas om man ska vara exakt. Det råkar "
+#~ "också vara varmt nog att få stål att koka."
 
 #, fuzzy
 #~ msgid ""
-#~ "Most of the new recruits hate how hard to aim this weapon is. If bullets "
-#~ "were animals, then plasma would be a well fed cow. By the time it arrives "
-#~ "at the target, the bot is already a mile away."
+#~ "Most of the new recruits hate how hard to aim this weapon is. If "
+#~ "bullets were animals, then plasma would be a well fed cow. By the "
+#~ "time it arrives at the target, the bot is already a mile away."
 #~ msgstr ""
-#~ "De flesta nybörjare tycker det är väldigt svårt att sikta med detta "
-#~ "vapen. Om skott var djur, då skulle plasma vara en fet ko! När skottet "
-#~ "väl kommer fram är målet ofta redan långt därifrån."
+#~ "De flesta nybörjare tycker det är väldigt svårt att sikta med "
+#~ "detta vapen. Om skott var djur, då skulle plasma vara en fet ko! "
+#~ "När skottet väl kommer fram är målet ofta redan långt därifrån."
 
 #, fuzzy
 #~ msgid ""
-#~ "If you are going to use plasma weapons you need to remember one thing: "
-#~ "Don't let the weapon get damaged."
+#~ "If you are going to use plasma weapons you need to remember one "
+#~ "thing: Don't let the weapon get damaged."
 #~ msgstr ""
-#~ "Om du ska använda plasmavapen behöver du komma ihåg en sak: Låt inte "
-#~ "vapnet bli skadat. "
+#~ "Om du ska använda plasmavapen behöver du komma ihåg en sak: Låt "
+#~ "inte vapnet bli skadat. "
 
 #~ msgid ""
-#~ "Even though our armor is designed to resist high temperatures, once the "
-#~ "plasma containment module goes, you will die, along with anything within "
-#~ "ten meters of you."
+#~ "Even though our armor is designed to resist high temperatures, "
+#~ "once the plasma containment module goes, you will die, along with "
+#~ "anything within ten meters of you."
 #~ msgstr ""
 #~ "Trots att vår skyddsdräkt är konstruerad för att motstå höga "
 #~ "temperaturer, om plasma behållaren går sönder, då stryker du med, "
 #~ "tillsammans med allt annat inom 10 meters radie från dig."
 
 #~ msgid ""
-#~ "Because of all those drawbacks plasma weapons are not too popular. Quite "
-#~ "a pity, they have great potential."
+#~ "Because of all those drawbacks plasma weapons are not too popular. "
+#~ "Quite a pity, they have great potential."
 #~ msgstr ""
-#~ "På grund av alla dessa nackdelar så är inte plasma vapnen speciellt "
-#~ "populära. Lite synd faktiskt, för de har stor potential."
+#~ "På grund av alla dessa nackdelar så är inte plasma vapnen "
+#~ "speciellt populära. Lite synd faktiskt, för de har stor potential."
 
 #~ msgid ""
-#~ "Laser is the technology employed in most of our weaponry. It uses a "
-#~ "focused light beam to cause damage."
+#~ "Laser is the technology employed in most of our weaponry. It uses "
+#~ "a focused light beam to cause damage."
 #~ msgstr ""
-#~ "Laser är den teknologin som används mest i vår vapenarsenal. Den använder "
-#~ "fokuserade ljusstrålar för att orsaka skada."
+#~ "Laser är den teknologin som används mest i vår vapenarsenal. Den "
+#~ "använder fokuserade ljusstrålar för att orsaka skada."
 
 #~ msgid ""
-#~ "Because the beam is composed out of light, it travels REALLY fast. Also "
-#~ "it is not affected by gravity or wind, which makes aiming easier."
+#~ "Because the beam is composed out of light, it travels REALLY fast. "
+#~ "Also it is not affected by gravity or wind, which makes aiming "
+#~ "easier."
 #~ msgstr ""
 #~ "Eftersom strålen består av ljus färdas den MYCKET snabbt. Dessutom "
-#~ "påverkas den inte heller av gravitation eller vind, vilket gör det lätt "
-#~ "att sikta med med dessa vapen."
+#~ "påverkas den inte heller av gravitation eller vind, vilket gör det "
+#~ "lätt att sikta med med dessa vapen."
 
 #, fuzzy
 #~ msgid ""
-#~ "However, other than being a good training tool for newbies, that design "
-#~ "just fails to deliver."
+#~ "However, other than being a good training tool for newbies, that "
+#~ "design just fails to deliver."
 #~ msgstr ""
 #~ "Dock, förutom som ett träningsvapen för nybörjare, duger inte den "
 #~ "designen mycket till."
 
 #~ msgid ""
-#~ "The shots tend to be underpowered, the gun takes a long while to power up "
-#~ "for a shot and can overheat during intense combat."
+#~ "The shots tend to be underpowered, the gun takes a long while to "
+#~ "power up for a shot and can overheat during intense combat."
 #~ msgstr ""
-#~ "Skotten tenderar att ha liten effekt, vapnet tar en hel del tid att ladda "
-#~ "upp för skott och kan lätt bli överhettat i intensiva strider."
+#~ "Skotten tenderar att ha liten effekt, vapnet tar en hel del tid "
+#~ "att ladda upp för skott och kan lätt bli överhettat i intensiva "
+#~ "strider."
 
 #~ msgid ""
-#~ "This is why I am trying to improve it, but so far I have had no success. "
-#~ "I just feel like giving up."
+#~ "This is why I am trying to improve it, but so far I have had no "
+#~ "success. I just feel like giving up."
 #~ msgstr ""
-#~ "Det är anledningen till att jag försöker förbättra den, men än så länge "
-#~ "har jag inte haft någon framgång. Ibland känner jag att jag bara vill ge "
-#~ "upp."
+#~ "Det är anledningen till att jag försöker förbättra den, men än så "
+#~ "länge har jag inte haft någon framgång. Ibland känner jag att jag "
+#~ "bara vill ge upp."
 
 #~ msgid ""
-#~ "Sorry, but that is classified and confidential. I have said too much "
-#~ "already."
-#~ msgstr "Tyvärr, det är hemligstämplat. Jag har redan sagt för mycket."
-
-#, fuzzy
-#~ msgid ""
-#~ "If anyone in this city knows more about guns than me, then my name's not "
-#~ "Benjamin."
+#~ "Sorry, but that is classified and confidential. I have said too "
+#~ "much already."
 #~ msgstr ""
-#~ "Om någon i den här staden vet mer om gevär än mig, så är inte mitt namn "
-#~ "Benjamin."
+#~ "Tyvärr, det är hemligstämplat. Jag har redan sagt för mycket."
 
 #, fuzzy
 #~ msgid ""
-#~ "Of course, I will need compensation for the ammunition spent in the "
-#~ "training and for my time."
+#~ "If anyone in this city knows more about guns than me, then my "
+#~ "name's not Benjamin."
 #~ msgstr ""
-#~ "Självklart behöver jag kompensation för ammunitionen som förbrukas och "
-#~ "för min tid. Ska vi säga... Hundra trianglar allt som allt."
+#~ "Om någon i den här staden vet mer om gevär än mig, så är inte mitt "
+#~ "namn Benjamin."
+
+#, fuzzy
+#~ msgid ""
+#~ "Of course, I will need compensation for the ammunition spent in "
+#~ "the training and for my time."
+#~ msgstr ""
+#~ "Självklart behöver jag kompensation för ammunitionen som förbrukas "
+#~ "och för min tid. Ska vi säga... Hundra trianglar allt som allt."
 
 #~ msgid "Intriguing."
 #~ msgstr "Intressant."
@@ -2400,26 +2492,27 @@ msgstr ""
 #~ msgstr "Nåväl, vad exakt är det du vill veta?"
 
 #~ msgid ""
-#~ "It might come as a surprise to you, but we don't have many. A bit over "
-#~ "twenty, last time I checked."
+#~ "It might come as a surprise to you, but we don't have many. A bit "
+#~ "over twenty, last time I checked."
 #~ msgstr ""
-#~ "Det kommer kanske som en överraskning för dig, men vi har inte speciellt "
-#~ "många. Strax över 20, sist jag inventerade."
+#~ "Det kommer kanske som en överraskning för dig, men vi har inte "
+#~ "speciellt många. Strax över 20, sist jag inventerade."
 
 #~ msgid ""
-#~ "However, as you can clearly see, this is more than enough to keep all of "
-#~ "the damn bots away."
+#~ "However, as you can clearly see, this is more than enough to keep "
+#~ "all of the damn bots away."
 #~ msgstr ""
-#~ "Men, som du kan se, så är det mer än tillräckligt för att hålla alla de "
-#~ "där förbannade botarna borta."
+#~ "Men, som du kan se, så är det mer än tillräckligt för att hålla "
+#~ "alla de där förbannade botarna borta."
 
 #~ msgid ""
-#~ "Linarian, I thought we had an agreement. Fifty per infobit. My silence "
-#~ "can be only broken with currency, so if you want to know, you have to pay."
+#~ "Linarian, I thought we had an agreement. Fifty per infobit. My "
+#~ "silence can be only broken with currency, so if you want to know, "
+#~ "you have to pay."
 #~ msgstr ""
-#~ "Linarian, jag trodde vi hade en överenskommelse. Femtio trianglar för "
-#~ "information. Min tystnad kan endast brytas med hjälp av pengar, så vill "
-#~ "du veta så får du betala."
+#~ "Linarian, jag trodde vi hade en överenskommelse. Femtio trianglar "
+#~ "för information. Min tystnad kan endast brytas med hjälp av "
+#~ "pengar, så vill du veta så får du betala."
 
 #~ msgid "This conversation is now over."
 #~ msgstr "Denna konversation än nu över."
@@ -2449,8 +2542,8 @@ msgstr ""
 #~ "Should you take that junk again, I won't feel responsible for what "
 #~ "happens to you any more."
 #~ msgstr ""
-#~ "Om du tar den där skiten igen kommer jag inte längre ta ansvar för vad "
-#~ "som händer dig."
+#~ "Om du tar den där skiten igen kommer jag inte längre ta ansvar för "
+#~ "vad som händer dig."
 
 #~ msgid "No! Over my dead body."
 #~ msgstr "Nej! Över min döda kropp."
@@ -2480,20 +2573,21 @@ msgstr ""
 
 #, fuzzy
 #~ msgid ""
-#~ "Don't forget to buy products from the Nicholson Company. They are the "
-#~ "best."
+#~ "Don't forget to buy products from the Nicholson Company. They are "
+#~ "the best."
 #~ msgstr ""
-#~ "Glöm inte att köpa produkter från Nicholson Company. De är de bästa."
+#~ "Glöm inte att köpa produkter från Nicholson Company. De är de "
+#~ "bästa."
 
 #~ msgid " Resuming guard program."
 #~ msgstr " Återupptar vakt program."
 
 #~ msgid ""
-#~ "You don't have enough experience. I can't teach you anything more right "
-#~ "now."
+#~ "You don't have enough experience. I can't teach you anything more "
+#~ "right now."
 #~ msgstr ""
-#~ "Du har inte tillräckligt med erfarenhet. Jag kan inte lära dig något mer "
-#~ "just nu."
+#~ "Du har inte tillräckligt med erfarenhet. Jag kan inte lära dig "
+#~ "något mer just nu."
 
 #~ msgid "First collect more experience. Then we can go on."
 #~ msgstr "Samla först mer erfarenhet. Sedan kan vi fortsätta."
@@ -2514,11 +2608,11 @@ msgstr ""
 #~ msgstr "Du är en rätt ambitiös kamrat."
 
 #~ msgid ""
-#~ "First learn the basics. Spend a year working on that, and then I'll be "
-#~ "able to teach you some advanced tricks."
+#~ "First learn the basics. Spend a year working on that, and then "
+#~ "I'll be able to teach you some advanced tricks."
 #~ msgstr ""
-#~ "Börja med grunderna. Spendera ett år med att jobba på det, och då kommer "
-#~ "jag att kunna lära dig några avancerade trick."
+#~ "Börja med grunderna. Spendera ett år med att jobba på det, och då "
+#~ "kommer jag att kunna lära dig några avancerade trick."
 
 #~ msgid "Go away."
 #~ msgstr "Försvinn."
@@ -2527,10 +2621,11 @@ msgstr ""
 #~ msgstr "Wow."
 
 #~ msgid ""
-#~ "You have a very rich imagination. There is no such thing. Get a life."
+#~ "You have a very rich imagination. There is no such thing. Get a "
+#~ "life."
 #~ msgstr ""
-#~ "Du har en väldigt riklig fantasi. Det finns inget sådant. Skaffa dig ett "
-#~ "liv."
+#~ "Du har en väldigt riklig fantasi. Det finns inget sådant. Skaffa "
+#~ "dig ett liv."
 
 #~ msgid "This is starting to make me angry. Shut up and go away."
 #~ msgstr "Det här börjar göra mig arg. Håll tyst och försvinn."
@@ -2555,8 +2650,10 @@ msgstr ""
 #~ msgid "Lesson number two. The bots have no mercy."
 #~ msgstr "Lektion nummer två. Botarna visar ingen nåd."
 
-#~ msgid "They won't let you get up if you fall down. They will kill you."
-#~ msgstr "De hjälper dig inte upp om du ramlar. De kommer att döda dig."
+#~ msgid ""
+#~ "They won't let you get up if you fall down. They will kill you."
+#~ msgstr ""
+#~ "De hjälper dig inte upp om du ramlar. De kommer att döda dig."
 
 #~ msgid "Now, lesson number -- ugh! That hurt!"
 #~ msgstr "Nu, lektion nummer -- urk! Det gjorde ont!"
@@ -2566,11 +2663,15 @@ msgstr ""
 
 #~ msgid "I need to... Lie down for a while... My head hurts..."
 #~ msgstr ""
-#~ "Jag behöver... Lägga mig ner en liten stund... Mitt huvud gör ont..."
+#~ "Jag behöver... Lägga mig ner en liten stund... Mitt huvud gör "
+#~ "ont..."
 
-#~ msgid "Lesson number four. Never hit your sparring partner with full force."
+#~ msgid ""
+#~ "Lesson number four. Never hit your sparring partner with full "
+#~ "force."
 #~ msgstr ""
-#~ "Lektion nummer fyra. Slå aldrig din sparringpartner med full styrka."
+#~ "Lektion nummer fyra. Slå aldrig din sparringpartner med full "
+#~ "styrka."
 
 #~ msgid "I think you broke my ribs..."
 #~ msgstr "Jag tror att du krossade mina revben..."
@@ -2581,8 +2682,11 @@ msgstr ""
 #~ msgid "Fine."
 #~ msgstr "Bra."
 
-#~ msgid "Hi. I haven't slept for a few weeks, so I'm just a little bit tired."
-#~ msgstr "Hej. Jag har inte sovit på några veckor, så jag är bara lite trött."
+#~ msgid ""
+#~ "Hi. I haven't slept for a few weeks, so I'm just a little bit "
+#~ "tired."
+#~ msgstr ""
+#~ "Hej. Jag har inte sovit på några veckor, så jag är bara lite trött."
 
 #~ msgid "Don't worry about me. I'll be fine."
 #~ msgstr "Oroa dig inte för mig. Jag är okej."
@@ -2591,11 +2695,11 @@ msgstr ""
 #~ msgstr "Jag är Kevin, en datorsäkerhets expert."
 
 #~ msgid ""
-#~ "As I've told you, I cannot teach you anything right now. I don't have the "
-#~ "time."
+#~ "As I've told you, I cannot teach you anything right now. I don't "
+#~ "have the time."
 #~ msgstr ""
-#~ "Som jag sa till dig, jag kan inte lära dig någonting just nu. Jag har "
-#~ "inte tid."
+#~ "Som jag sa till dig, jag kan inte lära dig någonting just nu. Jag "
+#~ "har inte tid."
 
 #~ msgid "Not now, I'm busy."
 #~ msgstr "Inte nu, jag är upptagen."
@@ -2607,35 +2711,45 @@ msgstr ""
 #~ msgstr "Eh... Jag antar att man kan se det på det sättet, ja."
 
 #~ msgid ""
-#~ "It will be a while till I get her together again, but she will be fine."
+#~ "It will be a while till I get her together again, but she will be "
+#~ "fine."
 #~ msgstr ""
-#~ "Det kommer att ta ett litet tag för mig att få ihop henne igen, men hon "
-#~ "kommer att klara sig."
-
-#~ msgid "Great. Now back to where you came from. This is no place for you."
-#~ msgstr ""
-#~ "Utmärkt. Gå nu tillbaka dit du kom ifrån. Det här är ingen plats för dig."
+#~ "Det kommer att ta ett litet tag för mig att få ihop henne igen, "
+#~ "men hon kommer att klara sig."
 
 #~ msgid ""
-#~ "This is a gate to an automated bot factory we call the Hell Fortress."
+#~ "Great. Now back to where you came from. This is no place for you."
 #~ msgstr ""
-#~ "Det här är porten till en automatiserad bot fabrik som vi kallar Hell "
+#~ "Utmärkt. Gå nu tillbaka dit du kom ifrån. Det här är ingen plats "
+#~ "för dig."
+
+#~ msgid ""
+#~ "This is a gate to an automated bot factory we call the Hell "
 #~ "Fortress."
+#~ msgstr ""
+#~ "Det här är porten till en automatiserad bot fabrik som vi kallar "
+#~ "Hell Fortress."
 
 #~ msgid ""
-#~ "You must be crazy if you want to get in there. That place is full of bots."
+#~ "You must be crazy if you want to get in there. That place is full "
+#~ "of bots."
 #~ msgstr ""
-#~ "Du måste vara galen om du vill in dit. Det stället kryllar av botar."
+#~ "Du måste vara galen om du vill in dit. Det stället kryllar av "
+#~ "botar."
 
 #~ msgid "Get out of here. They might attack at any moment!"
 #~ msgstr "Försvinn härifrån. De kan attackera när som helst!"
 
-#~ msgid "Of course not. Murdering you would be a complete waste of time."
+#~ msgid ""
+#~ "Of course not. Murdering you would be a complete waste of time."
 #~ msgstr ""
-#~ "Självklart inte. Att mörda dig skulle vara ett totalt slöseri med tid."
+#~ "Självklart inte. Att mörda dig skulle vara ett totalt slöseri med "
+#~ "tid."
 
-#~ msgid "Just remember to give me your valuables before you commit suicide."
-#~ msgstr "Kom bara ihåg att ge mig dina värdesaker innan du begår självmord."
+#~ msgid ""
+#~ "Just remember to give me your valuables before you commit suicide."
+#~ msgstr ""
+#~ "Kom bara ihåg att ge mig dina värdesaker innan du begår självmord."
 
 #~ msgid "You're dead if you don't take it."
 #~ msgstr "Du är död om du inte tar det."
@@ -2647,33 +2761,35 @@ msgstr ""
 #~ msgstr "Kom inte tillbaka."
 
 #, fuzzy
-#~ msgid "Oh, thank heavens! You are still alive. Maybe all hope is not lost."
+#~ msgid ""
+#~ "Oh, thank heavens! You are still alive. Maybe all hope is not lost."
 #~ msgstr ""
-#~ "Ahh, prisa himmelen. Du lever fortfarande. Kanske inte allt hopp är "
-#~ "förlorat."
+#~ "Ahh, prisa himmelen. Du lever fortfarande. Kanske inte allt hopp "
+#~ "är förlorat."
 
 #~ msgid "THIS WILL NOT EVER BE VISIBLE"
 #~ msgstr "DET HÄR KOMMER ALDRIG ATT VARA SYNLIGT"
 
 #~ msgid ""
-#~ "I have no idea what happened in the world after that. We are cut off."
+#~ "I have no idea what happened in the world after that. We are cut "
+#~ "off."
 #~ msgstr ""
-#~ "Jag har ingen aning om vad som hänt i världen efter det. Vi är helt "
-#~ "avskurna."
+#~ "Jag har ingen aning om vad som hänt i världen efter det. Vi är "
+#~ "helt avskurna."
 
 #~ msgid ""
-#~ "I am sorry to disappoint, but my knowledge of geography is a bit lacking, "
-#~ "I have no idea where in the world we are."
+#~ "I am sorry to disappoint, but my knowledge of geography is a bit "
+#~ "lacking, I have no idea where in the world we are."
 #~ msgstr ""
-#~ "Jag är ledsen, men min kunskap i geografi är inte den bästa, jag har "
-#~ "ingen aning om var i världen vi är."
+#~ "Jag är ledsen, men min kunskap i geografi är inte den bästa, jag "
+#~ "har ingen aning om var i världen vi är."
 
 #~ msgid ""
-#~ "Most people here have a German accent, so if I had to guess, I would say "
-#~ "Europe."
+#~ "Most people here have a German accent, so if I had to guess, I "
+#~ "would say Europe."
 #~ msgstr ""
-#~ "De flesta här talar med en tysk accent, så om jag ska gissa skulle jag "
-#~ "säga någonstans i Väst-Central Europa."
+#~ "De flesta här talar med en tysk accent, så om jag ska gissa skulle "
+#~ "jag säga någonstans i Väst-Central Europa."
 
 #~ msgid "The path from this house should lead you directly to it."
 #~ msgstr "Vägen utanför detta hus leder direkt dit."
