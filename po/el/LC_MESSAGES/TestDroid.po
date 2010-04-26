@@ -1,3 +1,4 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
@@ -12,12 +13,9 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: /home/david/src/freedroid-translation/dialogs/TestDroid.dialog:41
-msgid ""
-"This is a MegaSys test bot, running a very basic version of their OS. "
-"I can do nothing with this bot, because it doesn't know how to do "
-"anything."
-msgstr ""
+msgid "This is a MegaSys test bot, running a very basic version of their OS. I can do nothing with this bot, because it doesn't know how to do anything."
+msgstr "Αυτό είναι ένα MegaSys δοκιμαστικό βοτ, που τρέχει μια πολύ βασική έκδοση του OS τους. Δεν μπορώ να κάνω τίποτα με αυτό το bot, γιατί δεν ξέρει πώς να κάνει οτιδηποτε."
 
 #: /home/david/src/freedroid-translation/dialogs/TestDroid.dialog:47
 msgid "logout"
-msgstr ""
+msgstr "αποσύνδεση"
