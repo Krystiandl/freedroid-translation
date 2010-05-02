@@ -1,0 +1,1128 @@
+# Swedish translation for freedroid
+# Copyright (c) 2008 Rosetta Contributors and Canonical Ltd 2008
+# This file is distributed under the same license as the freedroid package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: freedroid\n"
+"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
+"POT-Creation-Date: 2010-04-08 14:10+0000\n"
+"PO-Revision-Date: 2008-10-28 08:03+0000\n"
+"Last-Translator: Christian Widell <Christian_widell@hotmail.com>\n"
+"Language-Team: Swedish <sv@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2009-01-11 17:40+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+#: /home/david/src/freedroid-translation/dialogs/StandardMSFacilityGateGuard.dialog:41
+msgid "Hi! I'm new here."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/StandardMSFacilityGateGuard.dialog:43
+msgid ""
+"Great. Now back to where you came from. This is no place for you."
+msgstr ""
+"Utmärkt. Gå nu tillbaka dit du kom ifrån. Det här är ingen plats för "
+"dig."
+
+#: /home/david/src/freedroid-translation/dialogs/StandardMSFacilityGateGuard.dialog:48
+msgid "What's the matter with this gate?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/StandardMSFacilityGateGuard.dialog:50
+msgid ""
+"This is a gate to an automated bot factory we call the Hell Fortress."
+msgstr ""
+"Det här är porten till en automatiserad bot fabrik som vi kallar Hell "
+"Fortress."
+
+#: /home/david/src/freedroid-translation/dialogs/StandardMSFacilityGateGuard.dialog:51
+msgid ""
+"You must be crazy if you want to get in there. That place is full of "
+"bots."
+msgstr ""
+"Du måste vara galen om du vill in dit. Det stället kryllar av botar."
+
+#: /home/david/src/freedroid-translation/dialogs/StandardMSFacilityGateGuard.dialog:52
+msgid "Get out of here. They might attack at any moment!"
+msgstr "Försvinn härifrån. De kan attackera när som helst!"
+
+#: /home/david/src/freedroid-translation/dialogs/StandardMSFacilityGateGuard.dialog:57
+msgid "What if I just walk in there? Will you try to stop me?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/StandardMSFacilityGateGuard.dialog:59
+msgid "Of course not. Murdering you would be a complete waste of time."
+msgstr ""
+"Självklart inte. Att mörda dig skulle vara ett totalt slöseri med tid."
+
+#: /home/david/src/freedroid-translation/dialogs/StandardMSFacilityGateGuard.dialog:60
+msgid "The bots and disruptor shield will take care of that for me."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/StandardMSFacilityGateGuard.dialog:61
+msgid ""
+"Just remember to give me your valuables before you commit suicide."
+msgstr ""
+"Kom bara ihåg att ge mig dina värdesaker innan du begår självmord."
+
+#: /home/david/src/freedroid-translation/dialogs/StandardMSFacilityGateGuard.dialog:62
+msgid ""
+"You won't need any money once you're damn dead, and I could use it, "
+"eh?"
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/StandardMSFacilityGateGuard.dialog:67
+msgid "Thanks for the advice."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/StandardMSFacilityGateGuard.dialog:69
+msgid "You're dead if you don't take it."
+msgstr "Du är död om du inte tar det."
+
+#: /home/david/src/freedroid-translation/dialogs/StandardMSFacilityGateGuard.dialog:74
+msgid "I'll be going then."
+msgstr ""
+
+#: /home/david/src/freedroid-translation/dialogs/StandardMSFacilityGateGuard.dialog:76
+msgid "Finally."
+msgstr "Äntligen."
+
+#~ msgid "Interested?"
+#~ msgstr "Intresserad?"
+
+#~ msgid "What a great way to start a conversation."
+#~ msgstr "Vilket bra sätt att starta en konversation på."
+
+#~ msgid "Yes, that is true. I am not who I seem to be."
+#~ msgstr "Ja, det är sant. Jag är vem jag verkar vara."
+
+#~ msgid ""
+#~ "And I am Duncan McNamara, the maker of grenades and nothing else."
+#~ msgstr ""
+#~ "Och jag är Duncan McNamara, skapare av granater och ingenting "
+#~ "annat."
+
+#~ msgid "Twenty years ago, the people were kinder to each other."
+#~ msgstr "För tjugo år sedan, var människor vänligare mot varann."
+
+#~ msgid ""
+#~ "I suggest you be kind to me as well, and I will be kind to you."
+#~ msgstr ""
+#~ "Jag föreslår att du är vänlig mot mig med, så kommer jag att vara "
+#~ "vänlig mot dig."
+
+#~ msgid "That way I get to keep my secret, and you get to keep yours."
+#~ msgstr ""
+#~ "På det sättet får jag behålla min hemlighet, och du får behålla "
+#~ "din."
+
+#~ msgid "And neither do I."
+#~ msgstr "Inte jag heller."
+
+#~ msgid "See you later."
+#~ msgstr "Vi ses senare."
+
+#~ msgid "Nothing more and nothing less."
+#~ msgstr "Inget mer och inget mindre."
+
+#~ msgid ""
+#~ "I am a 614 security bot, once one of the best-selling products of "
+#~ "the Nicholson company."
+#~ msgstr ""
+#~ "Jag är en 614 säkerhets bot, en gång i tiden en av de bäst "
+#~ "säljande produkterna från Nicholson company."
+
+#~ msgid ""
+#~ "The official manual classifies the 614 as a high class security "
+#~ "droid."
+#~ msgstr ""
+#~ "Den officiella manualen klassifierar 614 som en högklass säkerhets "
+#~ "droid."
+
+#~ msgid ""
+#~ "It was mainly used within ships to protect certain areas from "
+#~ "intruders."
+#~ msgstr ""
+#~ "Den användes oftast inuti skepp för att skydda vissa områden från "
+#~ "inkräktare."
+
+#~ msgid "It is considered an old but reliable device."
+#~ msgstr "Den är ansedd som en gammal men pålitlig apparat."
+
+#~ msgid "So don't worry. I'm still in pretty good shape."
+#~ msgstr "Så oroa dig inte. Jag är fortfarande i ganska bra form."
+
+#~ msgid ""
+#~ "Don't forget to buy products from Nicholson Company. They are the "
+#~ "best."
+#~ msgstr ""
+#~ "Glöm inte att köpa produkter från Nicholson Company. De är de "
+#~ "bästa."
+
+#, fuzzy
+#~ msgid "Resuming guard program."
+#~ msgstr " Återupptar vakt program."
+
+#~ msgid "Yes. Hello. What do you want?"
+#~ msgstr "Ja. Hallå. Vad vill du?"
+
+#~ msgid "People call me Jasmine..."
+#~ msgstr "Alla kallar mig Jasmine..."
+
+#~ msgid "That is not my real name, but it will do for now."
+#~ msgstr "Det är inte mitt riktiga namn, men det duger för tillfället."
+
+#~ msgid "I live with him, stupid."
+#~ msgstr "Jag bor här med honom, tönt."
+
+#~ msgid "I like him. He... He is very much like me."
+#~ msgstr "Jag tycker om honom. Han... Han är väldigt like mig."
+
+#~ msgid "Shitty. Now leave me alone."
+#~ msgstr "Dåligt. Låt mig vara!"
+
+#~ msgid "No."
+#~ msgstr "Nej."
+
+#~ msgid "Nothing. Quit asking questions."
+#~ msgstr "Ingenting. Sluta fråga!"
+
+#~ msgid "Don't bore me."
+#~ msgstr "Tråka inte ut mig."
+
+#, fuzzy
+#~ msgid "And you are at least a quarter wrong."
+#~ msgstr "Du har till minst en fjärdedel fel."
+
+#~ msgid "Now, please get out of my sight."
+#~ msgstr "Kan du då äntligen försvinna ur min åsyn?"
+
+#~ msgid "Forget it."
+#~ msgstr "Glöm det."
+
+#, fuzzy
+#~ msgid "What can I help you with?"
+#~ msgstr "Vad vill du?"
+
+#, fuzzy
+#~ msgid "Well, Linarian, most of the time, it is."
+#~ msgstr "Åh, Linärian, du roar mig så."
+
+#~ msgid "<?>"
+#~ msgstr "<?>"
+
+#~ msgid "Verschwinde."
+#~ msgstr "Verschwinde."
+
+#~ msgid "Ich bin der Geist, der stets verneint."
+#~ msgstr "Ich bin der Geist, der stets verneint."
+
+#~ msgid "Und das mit Recht; denn alles, was entsteht,"
+#~ msgstr "Und das mit Recht; denn alles, was entsteht,"
+
+#~ msgid "ist wert, dass es zugrunde geht."
+#~ msgstr "ist wert, dass es zugrunde geht."
+
+#~ msgid "Wer sie nicht kennte, die Elemente,"
+#~ msgstr "Wer sie nicht kennte, die Elemente,"
+
+#~ msgid "ihre Kraft und Eigenschaft,"
+#~ msgstr "ihre Kraft und Eigenschaft,"
+
+#~ msgid "waere kein Meister ueber die Geister."
+#~ msgstr "waere kein Meister ueber die Geister."
+
+#~ msgid " . . ."
+#~ msgstr " . . ."
+
+#~ msgid "Oh dear. This is not good. Not good."
+#~ msgstr "Åh nej! Det här är inte bra. Inte bra alls."
+
+#~ msgid ""
+#~ "*sigh* Long stasis sleep can cause neurological damage and impact "
+#~ "the memory. Looks like that is what happened here."
+#~ msgstr ""
+#~ "*suck* Lång nerfrysning kan ge neurologiska skador och påverka "
+#~ "minnet. Det är nog vad som hänt i ditt fall."
+
+#~ msgid ""
+#~ "It will all come back to you in a few hours, but I guess I will "
+#~ "make it easier for you if I say what I know."
+#~ msgstr ""
+#~ "Dina egna minnen torde komma tillbaka inom några timmar, men jag "
+#~ "ska göra det lite enklare för dig just nu och berätta åtminstone "
+#~ "vad jag vet."
+
+#~ msgid ""
+#~ "You are a Linarian, a species not native to this planet. Twenty of "
+#~ "you arrived here close to a century ago."
+#~ msgstr ""
+#~ "Du är en Linarian, en art som inte hör hemma på denna planeten. "
+#~ "Ett tjugotal av er anlände för ungefär ett sekel sedan."
+
+#~ msgid ""
+#~ "There was a... misunderstanding of some sort and humans welcomed "
+#~ "your expedition with blaster fire. A terrible mistake on our part."
+#~ msgstr ""
+#~ "Tyvärr var där... något slags missförstånd och vi människor "
+#~ "välkomnade eran expedition med vapeneld. Ett fruktansvärt misstag "
+#~ "från vår sida."
+
+#~ msgid ""
+#~ "A few of you survived the slaughter and went into hiding and "
+#~ "obscurity."
+#~ msgstr ""
+#~ "Ett fåtal av er överlevde massakern och gömde sig och höll sig "
+#~ "undan."
+
+#~ msgid ""
+#~ "During that time Linarians became known as helpers and heroes. Of "
+#~ "course now most people think it all was just a fairy tale."
+#~ msgstr ""
+#~ "Under denna tid blev ni Linarier kända som hjältar och hjälpare i "
+#~ "det fördolda. Nu förtiden så tror förstås de flesta att allt bara "
+#~ "är sagor."
+
+#~ msgid "It is a long story. It all happened five months ago."
+#~ msgstr "Det är en lång historia. Det började för fem månader sedan."
+
+#~ msgid ""
+#~ "I was at a protest against MegaSys, a computer company. They "
+#~ "killed free software by finding a loophole in the GPL3.14 licence. "
+#~ "It all became their property. Bastards."
+#~ msgstr ""
+#~ "Jag var på ett protestmöte mot MegaSys, ett datorföretag. De tog "
+#~ "död på fri programvara genom att hitta ett ett kryphål i GPL 3.14. "
+#~ "ALL programvara tillhörde plötsligt dem. Otäckingar!"
+
+#~ msgid ""
+#~ "Lots of people were angry about this. Protests and riots spread in "
+#~ "waves all around the world."
+#~ msgstr ""
+#~ "Massor med människor blev arga på detta. Protester och upplopp "
+#~ "spred sig i vågor över världen."
+
+#~ msgid ""
+#~ "When the police bots approached at dawn, we thought that they were "
+#~ "going to simply disperse the crowds. Instead, they started killing "
+#~ "us."
+#~ msgstr ""
+#~ "När polisrobotarna närmade sig i gryningen trodde vi bara att de "
+#~ "kom för att skingra folkmassorna. Istället började de DÖDA oss!"
+
+#~ msgid ""
+#~ "I broke into a parked hover car and used it to escape. The sight "
+#~ "from the air was horrible."
+#~ msgstr ""
+#~ "Jag bröt mig in i en parkerad svävare och använde den för att fly "
+#~ "i säkerhet. Men vad jag såg från luften var hemskt."
+
+#, fuzzy
+#~ msgid ""
+#~ "The city was full of flames, flashes of gunfire and screaming "
+#~ "people. That image still does not let me sleep at night."
+#~ msgstr ""
+#~ "Hela staden stod i lågor, vapen avfyrades överallt och människor "
+#~ "skrek i vild panik. Den bilden håller mig fortfarande vaken om "
+#~ "nätterna."
+
+#~ msgid "First we made them, and then they unmade us. How ironic."
+#~ msgstr ""
+#~ "Först skapade vi dem, sedan avskaffade de oss. Ironi på högsta "
+#~ "nivå."
+
+#~ msgid ""
+#~ "I got shot down and I crashed a few kilometers away from here."
+#~ msgstr ""
+#~ "Jag blev nerskjuten och kraschade ett par kilometer härifrån."
+
+#~ msgid ""
+#~ "Later I learned that the bots started attacking all around the "
+#~ "globe. The journalists called it 'The Great Assault'. The name "
+#~ "stuck."
+#~ msgstr ""
+#~ "Senare fick jag reda på att robotarna hade startat attackera runt "
+#~ "hela jorden. Journalisterna kallade det \"Det stora anfallet\". "
+#~ "Namnet hängde kvar."
+
+#, fuzzy
+#~ msgid ""
+#~ "Then the bots started jamming our broadcasts and long distance "
+#~ "communication became impossible. I have no idea what happened in "
+#~ "the world after that. We are cut off."
+#~ msgstr ""
+#~ "Snart så började robotarna att störa ut vår radiokommunikation och "
+#~ "kontakt med fjärran belägna platser blev omöjlig."
+
+#~ msgid "For all I know the war might be already over."
+#~ msgstr "Såvitt jag vet kan kriget redan vara över."
+
+#, fuzzy
+#~ msgid ""
+#~ "This facility is located not too far away from a mining town where "
+#~ "we have made a stand against the damn contraptions. However, I'm "
+#~ "alone here with only 1 droid for security."
+#~ msgstr ""
+#~ "Lokalbefolkningen kallar stället Tempelskogen. Vi befinner oss "
+#~ "inte speciellt långt ifrån en liten gruvstad där vi har tagit upp "
+#~ "försvarsställning mot de förbannade maskinerna."
+
+#~ msgid ""
+#~ "The planet you mean? No one knows that. None of you ever said "
+#~ "anything about it."
+#~ msgstr ""
+#~ "Den här planeten menar du? Ingen vet det. Ingen av er har någonsin "
+#~ "sagt något om det."
+
+#~ msgid "Sorry, I cannot help you with that."
+#~ msgstr "Tyvärr, jag kan inte hjälpa dig med det."
+
+#~ msgid "I guess you mean in the universe?"
+#~ msgstr "Du menar var i universum?"
+
+#~ msgid ""
+#~ "Well, we are in a barred spiral galaxy, twenty-six thousand light "
+#~ "years away from the galactic core."
+#~ msgstr ""
+#~ "Ja, vi befinner oss i en spiral galax, ca tjugosex tusen ljusår "
+#~ "från galaxens centrum."
+
+#~ msgid ""
+#~ "The galactic radius is 43,000 light years and the circumference is "
+#~ "estimated at 270,000 light years."
+#~ msgstr ""
+#~ "Galaxens radie är ca 43.000 ljusår och omkretsen är estimerad till "
+#~ "270.000 ljusår."
+
+#~ msgid ""
+#~ "This is a planetary system of ten planets, and we are presently "
+#~ "located on the third one from our star, Sun."
+#~ msgstr ""
+#~ "Det här är ett solsystem med 10 planeter, och vi befinner oss just "
+#~ "nu på den 3dje himlakroppen från vår stjärna, Solen."
+
+#, fuzzy
+#~ msgid ""
+#~ "I am not an astronomer, so I could be wrong. I am too tired to "
+#~ "keep track of what is a planet and what is just an oversized rock."
+#~ msgstr ""
+#~ "Jag är dock ingen astronom, så jag kan ha fel. Jag är för trött "
+#~ "för att hålla reda på vad som egentligen är en planet och vad som "
+#~ "bara är en stor stenklump."
+
+#~ msgid "I guess I will start with myself."
+#~ msgstr "Jag gissar att jag borde börja med mig själv."
+
+#~ msgid ""
+#~ "Francis. Francis Spark. I used to be a teacher at a small "
+#~ "university before all hell broke loose."
+#~ msgstr ""
+#~ "Jag heter Francis. Francis Spark. Jag var en lärare på ett litet "
+#~ "universitet innan helvetet bröt lös."
+
+#~ msgid ""
+#~ "Currently, there is a war raging all around the globe. Humans are "
+#~ "fighting against bots."
+#~ msgstr ""
+#~ "För närvarande pågår det ett världskrig runt hela planeten. "
+#~ "Människor slåss mot robotar."
+
+#~ msgid "And it looks like we are losing the war."
+#~ msgstr "Och det ser ut som om vi förlorar kriget."
+
+#~ msgid ""
+#~ "Sorry, star sciences are my weak point. Maybe someone in the town "
+#~ "might know something more."
+#~ msgstr ""
+#~ "Förlåt, astronomi är en av mina svagare sidor. Kanske någon i "
+#~ "staden kan ge bättre information."
+
+#~ msgid ""
+#~ "This is normal. You were in stasis sleep for over 70 years. Stasis "
+#~ "is not too kind on the mind. Your strange dreams will keep "
+#~ "recurring for several years."
+#~ msgstr ""
+#~ "Det är normalt. Du has legat nedfryst i dvala i över 70 år. Stasis "
+#~ "är inte alltför snällt mot medvetandet. Dina konstiga drömmar "
+#~ "kommer att dyka upp i flera år."
+
+#, fuzzy
+#~ msgid ""
+#~ "Whatever the reason was for putting yourself through this, it must "
+#~ "have been a damn good one."
+#~ msgstr ""
+#~ "Vad än orsaken var för att göra detta mot dig själv, så måste du "
+#~ "haft en jäkligt god anledning."
+
+#~ msgid ""
+#~ "You are lucky that I found you and woke you up. A few more decades "
+#~ "in there and you would end up insane."
+#~ msgstr ""
+#~ "Du har tur att jag hittade och väckte upp dig. Ett par årtionden "
+#~ "till nedfryst och du skulle blivit helt tokig."
+
+#, fuzzy
+#~ msgid ""
+#~ "It is a small mining community of no more than 500 inhabitants..."
+#~ msgstr "Det är en liten gruvstad med inte mer än 500 innevånare..."
+
+#~ msgid ""
+#~ "It was a stroke of luck that it did not get destroyed by the bots. "
+#~ "Because of poor funding, the city could not afford new models."
+#~ msgstr ""
+#~ "Det var ren tur att den inte blev förstörd av robotarna. På grund "
+#~ "av dålig ekonomi så hade staden inte råd att uppgradera till nya "
+#~ "modeller."
+
+#, fuzzy
+#~ msgid ""
+#~ "All they had at the time of the bot attack were the 614 battle bot "
+#~ "platforms. They were running an old operating system and were not "
+#~ "affected by whatever caused the other bots to go crazy."
+#~ msgstr ""
+#~ "Därför hade de bara gamla modell 614 strids plattformen. De körde "
+#~ "ett gammalt operativsystem och blev inte affekterade av vad det nu "
+#~ "var som fick alla de andra botarna att bli vansinniga."
+
+#~ msgid ""
+#~ "Right now the place is protected by the Red Guard, a bunch of "
+#~ "volunteers. I cannot say I agree with their methods."
+#~ msgstr ""
+#~ "Just nu skyddas den av Röda Gardet, en grupp frivilliga. Jag kan "
+#~ "inte säga att jag alltid håller med deras metoder."
+
+#~ msgid ""
+#~ "However, I must admit that being a prisoner of a walled town looks "
+#~ "pretty good compared to the alternative of being eviscerated alive."
+#~ msgstr ""
+#~ "Dock måste jag medge att vara nästan en fånge i en stad skyddad "
+#~ "bakom murar är ett ganska tilltalande alternativ till att bli "
+#~ "lemlästad av botarna."
+
+#~ msgid "We don't really know the reason for this insanity. However..."
+#~ msgstr "Vi vet inte riktigt varför de blev tokiga. Men..."
+
+#~ msgid ""
+#~ "All of the attacking bots are using a MegaSys operating system, so "
+#~ "we think they are responsible."
+#~ msgstr ""
+#~ "Alla av de attackerande botarna använder MegaSys operativsystem, "
+#~ "så vi tror att de är ansvariga."
+
+#~ msgid "Not surprisingly, the bastards deny everything."
+#~ msgstr "Inte speciellt överraskande förnekar de all inblandning."
+
+#, fuzzy
+#~ msgid ""
+#~ "Of course, because nearly every single bot in the world runs on "
+#~ "that junk, the situation does not look pretty."
+#~ msgstr ""
+#~ "Eftersom nästan varenda en av världens botar kör på deras skräp så "
+#~ "ser inte situationen speciellt lovande ut."
+
+#~ msgid "Relax. Everything will be fine in a few hours."
+#~ msgstr "Ta det lugnt. Allt kommer att bli bra om några timmar."
+
+#~ msgid "This is perfectly normal."
+#~ msgstr "Det här är helt normalt."
+
+#~ msgid ""
+#~ "It can. They got close to a monopoly 30 years ago, but their last "
+#~ "competitor, the open source community, was defeated by them about "
+#~ "a year ago."
+#~ msgstr ""
+#~ "Jodå. De fick nästan helt monopol för 30 år sedan, men deras sista "
+#~ "kvarvarande konkurrent, öppen källkods mjukvara, blev besegrade av "
+#~ "dem för ungefär ett år sedan."
+
+#~ msgid ""
+#~ "Since then all of the newly made bots have been made with MegaSys "
+#~ "firmware burnt into their circuits."
+#~ msgstr ""
+#~ "Sedan dess har alla nya robotar tillverkats med MegaSys firmware "
+#~ "inbränt i sina minneschips."
+
+#~ msgid ""
+#~ "The situation at the town is not good. The walls are crumbling and "
+#~ "we have lost a lot of good people."
+#~ msgstr ""
+#~ "Situationen i staden är inte speciellt bra. Murarna håller knappt "
+#~ "ihop och vi har redan förlorat många bra människor."
+
+#~ msgid ""
+#~ "Even if this is only partly true, we need it. The situation is "
+#~ "quite ugly."
+#~ msgstr ""
+#~ "Även om det bara skulle vara en halvsanning så behöver vi den "
+#~ "hjälpen. Situationen är ganska dålig för oss för tillfället."
+
+#~ msgid "We need you."
+#~ msgstr "Vi behöver dig."
+
+#~ msgid ""
+#~ "I am glad I could help you. You should be careful around here. "
+#~ "Best head straight for our town."
+#~ msgstr ""
+#~ "Jag är glad att jag kunde hjälpa dig. Du borde vara försiktig här "
+#~ "omkring. Säkrast att gå rakt till staden."
+
+#~ msgid "Hello. We are the Fleischer brothers."
+#~ msgstr "Hallå. Vi är Fleischer bröderna."
+
+#~ msgid "I am Engel. He is Geist, and he does not know the language."
+#~ msgstr ""
+#~ "Jag är Engel. Min bror heter Geist, men han kan inte språket."
+
+#~ msgid "Revenge."
+#~ msgstr "Tar hämnd!"
+
+#~ msgid "The bots have killed our mother. Now we kill them."
+#~ msgstr "Bottarna har dödat vår mor. Nu dödar vi dem."
+
+#~ msgid "No mercy. We hunt them."
+#~ msgstr "Vi jagar dem och visar ingen nåd."
+
+#~ msgid "Nein. Let us die as warriors. That is all we ask for."
+#~ msgstr "Nein. Låt oss dö som krigare. Det är allt vi ber om."
+
+#~ msgid "Sehr gut. Let them come. We are ready."
+#~ msgstr "Sehr gut. Låt de komma. Vi är redo."
+
+#~ msgid "What a beautiful day. Yes."
+#~ msgstr "Vilken vacker dag. Ja."
+
+#~ msgid ""
+#~ "Every day since the mess started I come here to fight the bots."
+#~ msgstr ""
+#~ "Varje dag sedan den här röran började har jag kommit hit för att "
+#~ "strida mot bottarna."
+
+#~ msgid "Today will be no different."
+#~ msgstr "Idag är inget undantag."
+
+#~ msgid "Do not try to stop us. We have our rifles loaded."
+#~ msgstr "Försök inte stoppa oss. Våra gevär är laddade."
+
+#~ msgid "Nowhere. This is the end of the world. There is no help."
+#~ msgstr ""
+#~ "Ingenstans. Det här är världens ände, ragnarök. Det finns ingen "
+#~ "hjälp."
+
+#~ msgid ""
+#~ "There is a city a bit south from here, but if I were you, I would "
+#~ "not go there."
+#~ msgstr ""
+#~ "Det finns en stad, en bit söderut härifrån, men om jag var du, "
+#~ "skulle jag inte gå dit."
+
+#~ msgid ""
+#~ "The Rot Guard is the ruler there, and cruelty is their solution to "
+#~ "everything."
+#~ msgstr ""
+#~ "Röda Gardet härskar där, och brutalitet är deras lösning på allt."
+
+#~ msgid "Real freedom is really dead."
+#~ msgstr "Verklig frihet är helt försvunnen."
+
+#~ msgid "WHAT?! What is it that you want to say?"
+#~ msgstr "VAD?! Vad är det du försöker säga?"
+
+#~ msgid "WHAT!? SPIT IT OUT!"
+#~ msgstr "VAD!? UT MED SPRÅKET!"
+
+#~ msgid "Donnerwetter, you are a funny one."
+#~ msgstr "Donnerwetter, du är då verkligen en rolig en."
+
+#~ msgid ""
+#~ "I hope that one day we shall meet again, maybe in a better time."
+#~ msgstr ""
+#~ "Jag hoppas att vi en dag kommer att mötas igen, kanske i bättre "
+#~ "tider."
+
+#~ msgid "Maybe then you will tell us other gut jokes that you know."
+#~ msgstr "Kanske kommer du då att berätta fler gute skämt som du kan."
+
+#~ msgid "Maybe one day..."
+#~ msgstr "Kanske en dag..."
+
+#~ msgid "I was a bot constructor. Built the killers of my mother."
+#~ msgstr "Jag var en bott konstruktör. Byggde min mammas mördare."
+
+#~ msgid ""
+#~ "Now I sell the parts that I remove from the bots to buy more "
+#~ "ammunition and food."
+#~ msgstr ""
+#~ "Nu säljer jag delarna som jag tar bort från bottarna för att köpa "
+#~ "mer ammunition och mat."
+
+#~ msgid "Yes."
+#~ msgstr "Ja."
+
+#~ msgid "I will sell the information for a lot of cybergeld."
+#~ msgstr "I kan sälja den informationen för en del cybergeld."
+
+#~ msgid "Nein. Our problem. Our hunt."
+#~ msgstr "Nein. Vårat problem. Våran jakt."
+
+#~ msgid "Goodbye and viel gluck."
+#~ msgstr "Hejdå och viel gluck."
+
+#, fuzzy
+#~ msgid "... What's the difference?"
+#~ msgstr "... Vad är det för skillnad? "
+
+#~ msgid "I'll be finished in about a week."
+#~ msgstr "Jag kommer vara klar inom en vecka."
+
+#~ msgid ""
+#~ "Ah, so you are the new member. Welcome. My name is Benjamin, and I "
+#~ "take care of our ranged weaponry here in the citadel."
+#~ msgstr ""
+#~ "Åh, så du är den nya medlemmen. Välkommen. Mitt namn är Benjamin, "
+#~ "och jag tar hand om våra distansvapen här i citadellet."
+
+#~ msgid ""
+#~ "I'm experimenting with new designs. I want to redesign the laser "
+#~ "pistol."
+#~ msgstr ""
+#~ "Jag experimenterar med nya konstruktioner. Jag skulle vilja "
+#~ "designa om laserpistolen."
+
+#~ msgid ""
+#~ "A lot of energy is wasted somewhere during firing, and I have no "
+#~ "idea where. If I could find the source of the problem, the gun "
+#~ "would become much more powerful."
+#~ msgstr ""
+#~ "En massa energi försvinner någonstans när man skjuter, och jag har "
+#~ "ingen aning om var. Om jag kunde finna källan till problemet, "
+#~ "skulle vapnet bli mycket mer kraftfullt."
+
+#~ msgid ""
+#~ "So far all my prototypes have failed. Mostly overheating and "
+#~ "jamming. Sometimes I wonder if I am doing something wrong."
+#~ msgstr ""
+#~ "Än så länge har alla mina prototyper misslyckats. Mestadels har de "
+#~ "överhettats eller hakat upp sig. Ibland undrar jag om jag gör "
+#~ "något fel."
+
+#~ msgid ""
+#~ "Hmm... There might be something in that idea. I will think about "
+#~ "it."
+#~ msgstr ""
+#~ "Hmm... Du har nog en poäng i den idén. Jag ska fundera på det."
+
+#~ msgid "Hmm... I will think about it. Hmm..."
+#~ msgstr "Hmm... Jag ska fundera på det. Hmm..."
+
+#~ msgid "Yeah, maybe you are right. I will think about it."
+#~ msgstr "Ja, du kanske har rätt. Jag ska fundera på det."
+
+#~ msgid ""
+#~ "Well, for novice members there are simple laser and plasma "
+#~ "pistols. They have their share of problems, but they do the trick "
+#~ "nine times out of ten."
+#~ msgstr ""
+#~ "Tja, för nybörjare finns det tex simpla laser och plasma pistoler. "
+#~ "De har sina brister, men i 9 fall av 10 så duger de till uppgiften."
+
+#~ msgid ""
+#~ "For bigger bots we have bigger guns. The exterminator is the best "
+#~ "weapon that we have. We hand them out only in case of an emergency "
+#~ "or to highly experienced people."
+#~ msgstr ""
+#~ "För större bottar har vi större gevär. Utrotaren är det bästa "
+#~ "vapnet vi har. Men sådana ger vi endast ut i nödfall eller till "
+#~ "väldigt erfarna personer."
+
+#~ msgid "It is!"
+#~ msgstr "Det är det!"
+
+#, fuzzy
+#~ msgid ""
+#~ "While many people find the ammunition canisters too big, and the "
+#~ "bullets too slow, they cannot deny that once plasma hits, it "
+#~ "leaves big holes."
+#~ msgstr ""
+#~ "Trots att många finner magasinen otympliga och själva skotten för "
+#~ "långsamma, så är det ingen som förnekar att när plasman väl "
+#~ "träffar så lämnar den STORA hål."
+
+#~ msgid ""
+#~ "Plasma is matter, ionised gas to be exact. It also happens to be "
+#~ "hot enough to make steel boil."
+#~ msgstr ""
+#~ "Plasma är materia, joniserad gas om man ska vara exakt. Det råkar "
+#~ "också vara varmt nog att få stål att koka."
+
+#, fuzzy
+#~ msgid ""
+#~ "Most of the new recruits hate how hard to aim this weapon is. If "
+#~ "bullets were animals, then plasma would be a well fed cow. By the "
+#~ "time it arrives at the target, the bot is already a mile away."
+#~ msgstr ""
+#~ "De flesta nybörjare tycker det är väldigt svårt att sikta med "
+#~ "detta vapen. Om skott var djur, då skulle plasma vara en fet ko! "
+#~ "När skottet väl kommer fram är målet ofta redan långt därifrån."
+
+#, fuzzy
+#~ msgid ""
+#~ "If you are going to use plasma weapons you need to remember one "
+#~ "thing: Don't let the weapon get damaged."
+#~ msgstr ""
+#~ "Om du ska använda plasmavapen behöver du komma ihåg en sak: Låt "
+#~ "inte vapnet bli skadat. "
+
+#~ msgid ""
+#~ "Even though our armor is designed to resist high temperatures, "
+#~ "once the plasma containment module goes, you will die, along with "
+#~ "anything within ten meters of you."
+#~ msgstr ""
+#~ "Trots att vår skyddsdräkt är konstruerad för att motstå höga "
+#~ "temperaturer, om plasma behållaren går sönder, då stryker du med, "
+#~ "tillsammans med allt annat inom 10 meters radie från dig."
+
+#~ msgid ""
+#~ "Because of all those drawbacks plasma weapons are not too popular. "
+#~ "Quite a pity, they have great potential."
+#~ msgstr ""
+#~ "På grund av alla dessa nackdelar så är inte plasma vapnen "
+#~ "speciellt populära. Lite synd faktiskt, för de har stor potential."
+
+#~ msgid ""
+#~ "Laser is the technology employed in most of our weaponry. It uses "
+#~ "a focused light beam to cause damage."
+#~ msgstr ""
+#~ "Laser är den teknologin som används mest i vår vapenarsenal. Den "
+#~ "använder fokuserade ljusstrålar för att orsaka skada."
+
+#~ msgid ""
+#~ "Because the beam is composed out of light, it travels REALLY fast. "
+#~ "Also it is not affected by gravity or wind, which makes aiming "
+#~ "easier."
+#~ msgstr ""
+#~ "Eftersom strålen består av ljus färdas den MYCKET snabbt. Dessutom "
+#~ "påverkas den inte heller av gravitation eller vind, vilket gör det "
+#~ "lätt att sikta med med dessa vapen."
+
+#, fuzzy
+#~ msgid ""
+#~ "However, other than being a good training tool for newbies, that "
+#~ "design just fails to deliver."
+#~ msgstr ""
+#~ "Dock, förutom som ett träningsvapen för nybörjare, duger inte den "
+#~ "designen mycket till."
+
+#~ msgid ""
+#~ "The shots tend to be underpowered, the gun takes a long while to "
+#~ "power up for a shot and can overheat during intense combat."
+#~ msgstr ""
+#~ "Skotten tenderar att ha liten effekt, vapnet tar en hel del tid "
+#~ "att ladda upp för skott och kan lätt bli överhettat i intensiva "
+#~ "strider."
+
+#~ msgid ""
+#~ "This is why I am trying to improve it, but so far I have had no "
+#~ "success. I just feel like giving up."
+#~ msgstr ""
+#~ "Det är anledningen till att jag försöker förbättra den, men än så "
+#~ "länge har jag inte haft någon framgång. Ibland känner jag att jag "
+#~ "bara vill ge upp."
+
+#~ msgid ""
+#~ "Sorry, but that is classified and confidential. I have said too "
+#~ "much already."
+#~ msgstr ""
+#~ "Tyvärr, det är hemligstämplat. Jag har redan sagt för mycket."
+
+#, fuzzy
+#~ msgid ""
+#~ "If anyone in this city knows more about guns than me, then my "
+#~ "name's not Benjamin."
+#~ msgstr ""
+#~ "Om någon i den här staden vet mer om gevär än mig, så är inte mitt "
+#~ "namn Benjamin."
+
+#, fuzzy
+#~ msgid ""
+#~ "Of course, I will need compensation for the ammunition spent in "
+#~ "the training and for my time."
+#~ msgstr ""
+#~ "Självklart behöver jag kompensation för ammunitionen som förbrukas "
+#~ "och för min tid. Ska vi säga... Hundra trianglar allt som allt."
+
+#~ msgid "Intriguing."
+#~ msgstr "Intressant."
+
+#, fuzzy
+#~ msgid "Fifty triangles per bit of information."
+#~ msgstr "Femtio trianglar för varje stycke information."
+
+#~ msgid "So... What do you exactly want to know?"
+#~ msgstr "Nåväl, vad exakt är det du vill veta?"
+
+#~ msgid ""
+#~ "It might come as a surprise to you, but we don't have many. A bit "
+#~ "over twenty, last time I checked."
+#~ msgstr ""
+#~ "Det kommer kanske som en överraskning för dig, men vi har inte "
+#~ "speciellt många. Strax över 20, sist jag inventerade."
+
+#~ msgid ""
+#~ "However, as you can clearly see, this is more than enough to keep "
+#~ "all of the damn bots away."
+#~ msgstr ""
+#~ "Men, som du kan se, så är det mer än tillräckligt för att hålla "
+#~ "alla de där förbannade botarna borta."
+
+#~ msgid ""
+#~ "Linarian, I thought we had an agreement. Fifty per infobit. My "
+#~ "silence can be only broken with currency, so if you want to know, "
+#~ "you have to pay."
+#~ msgstr ""
+#~ "Linarian, jag trodde vi hade en överenskommelse. Femtio trianglar "
+#~ "för information. Min tystnad kan endast brytas med hjälp av "
+#~ "pengar, så vill du veta så får du betala."
+
+#~ msgid "This conversation is now over."
+#~ msgstr "Denna konversation än nu över."
+
+#~ msgid "Ugh. That will cost you triple."
+#~ msgstr "Urk. Det kommer att kosta dig trippelt."
+
+#~ msgid "No. Wait."
+#~ msgstr "Nej. Vänta."
+
+#~ msgid "I changed my mind."
+#~ msgstr "Jag ändrade mig."
+
+#~ msgid "See you later!"
+#~ msgstr "Ses senare!"
+
+#~ msgid "Hello. I'm Doc Moore. I'm the medic of this town."
+#~ msgstr "Hej. Jag är doktor Moore. Jag är läkaren här i staden."
+
+#~ msgid "Sure. Here is what I can offer today."
+#~ msgstr "Visst. Här är vad jag har att erbjuda idag."
+
+#~ msgid "THIS WILL NEVER BE VISIBLE"
+#~ msgstr "DET HÄR SKA ALDRIG ATT VARA SYNLIGT"
+
+#~ msgid ""
+#~ "Should you take that junk again, I won't feel responsible for what "
+#~ "happens to you any more."
+#~ msgstr ""
+#~ "Om du tar den där skiten igen kommer jag inte längre ta ansvar för "
+#~ "vad som händer dig."
+
+#~ msgid "No! Over my dead body."
+#~ msgstr "Nej! Över min döda kropp."
+
+#~ msgid "Huh? What?"
+#~ msgstr "Huh? Vaa?"
+
+#~ msgid "Don't do this. Don't do this."
+#~ msgstr "Gör inte det här. Gör inte det här."
+
+#~ msgid "Don't do this! DON'T DO THIS!"
+#~ msgstr "Gör inte det här! GÖR INTE DET HÄR!"
+
+#~ msgid "AAAAAAAAAAAA!"
+#~ msgstr "AAAAAAAAAAAA!"
+
+#~ msgid " . . . "
+#~ msgstr " . . . "
+
+#, fuzzy
+#~ msgid "Hostile? What do you mean?"
+#~ msgstr "Vad vill du?"
+
+#, fuzzy
+#~ msgid "Why do you ask?"
+#~ msgstr "Vad vill du?"
+
+#, fuzzy
+#~ msgid ""
+#~ "Don't forget to buy products from the Nicholson Company. They are "
+#~ "the best."
+#~ msgstr ""
+#~ "Glöm inte att köpa produkter från Nicholson Company. De är de "
+#~ "bästa."
+
+#~ msgid " Resuming guard program."
+#~ msgstr " Återupptar vakt program."
+
+#~ msgid ""
+#~ "You don't have enough experience. I can't teach you anything more "
+#~ "right now."
+#~ msgstr ""
+#~ "Du har inte tillräckligt med erfarenhet. Jag kan inte lära dig "
+#~ "något mer just nu."
+
+#~ msgid "First collect more experience. Then we can go on."
+#~ msgstr "Samla först mer erfarenhet. Sedan kan vi fortsätta."
+
+#~ msgid "Let us begin then."
+#~ msgstr "Låt oss börja då."
+
+#~ msgid "Come closer..."
+#~ msgstr "Kom närmare..."
+
+#~ msgid "HA!"
+#~ msgstr "HA!"
+
+#~ msgid "Oh, Linarian, you amuse me so."
+#~ msgstr "Åh, Linärian, du roar mig så."
+
+#~ msgid "You are quite an ambitious fellow."
+#~ msgstr "Du är en rätt ambitiös kamrat."
+
+#~ msgid ""
+#~ "First learn the basics. Spend a year working on that, and then "
+#~ "I'll be able to teach you some advanced tricks."
+#~ msgstr ""
+#~ "Börja med grunderna. Spendera ett år med att jobba på det, och då "
+#~ "kommer jag att kunna lära dig några avancerade trick."
+
+#~ msgid "Go away."
+#~ msgstr "Försvinn."
+
+#~ msgid "Wow."
+#~ msgstr "Wow."
+
+#~ msgid ""
+#~ "You have a very rich imagination. There is no such thing. Get a "
+#~ "life."
+#~ msgstr ""
+#~ "Du har en väldigt riklig fantasi. Det finns inget sådant. Skaffa "
+#~ "dig ett liv."
+
+#~ msgid "This is starting to make me angry. Shut up and go away."
+#~ msgstr "Det här börjar göra mig arg. Håll tyst och försvinn."
+
+#~ msgid "*sigh*"
+#~ msgstr "*suck*"
+
+#~ msgid "Very well. Observe very carefully."
+#~ msgstr "Okej då. Titta noga."
+
+#~ msgid "You will see this only once, so make sure to pay attention."
+#~ msgstr ""
+#~ "Du kommer bara att få se det här en gång, så var noga med att vara "
+#~ "uppmärksam."
+
+#~ msgid "DIEEEE!"
+#~ msgstr "DÖÖÖÖ!"
+
+#~ msgid "Lesson number one. Never trust the opponent."
+#~ msgstr "Lektion nummer ett. Lita aldrig på din motståndare."
+
+#~ msgid "Lesson number two. The bots have no mercy."
+#~ msgstr "Lektion nummer två. Botarna visar ingen nåd."
+
+#~ msgid ""
+#~ "They won't let you get up if you fall down. They will kill you."
+#~ msgstr ""
+#~ "De hjälper dig inte upp om du ramlar. De kommer att döda dig."
+
+#~ msgid "Now, lesson number -- ugh! That hurt!"
+#~ msgstr "Nu, lektion nummer -- urk! Det gjorde ont!"
+
+#~ msgid "Ugh. Yes. You are correct."
+#~ msgstr "Urk. Ja. Du har rätt."
+
+#~ msgid "I need to... Lie down for a while... My head hurts..."
+#~ msgstr ""
+#~ "Jag behöver... Lägga mig ner en liten stund... Mitt huvud gör "
+#~ "ont..."
+
+#~ msgid ""
+#~ "Lesson number four. Never hit your sparring partner with full "
+#~ "force."
+#~ msgstr ""
+#~ "Lektion nummer fyra. Slå aldrig din sparringpartner med full "
+#~ "styrka."
+
+#~ msgid "I think you broke my ribs..."
+#~ msgstr "Jag tror att du krossade mina revben..."
+
+#~ msgid "This is enough training for today."
+#~ msgstr "Det här är nog med träning för idag."
+
+#~ msgid "Fine."
+#~ msgstr "Bra."
+
+#~ msgid ""
+#~ "Hi. I haven't slept for a few weeks, so I'm just a little bit "
+#~ "tired."
+#~ msgstr ""
+#~ "Hej. Jag har inte sovit på några veckor, så jag är bara lite trött."
+
+#~ msgid "Don't worry about me. I'll be fine."
+#~ msgstr "Oroa dig inte för mig. Jag är okej."
+
+#~ msgid "I'm Kevin, a computer security expert."
+#~ msgstr "Jag är Kevin, en datorsäkerhets expert."
+
+#~ msgid ""
+#~ "As I've told you, I cannot teach you anything right now. I don't "
+#~ "have the time."
+#~ msgstr ""
+#~ "Som jag sa till dig, jag kan inte lära dig någonting just nu. Jag "
+#~ "har inte tid."
+
+#~ msgid "Not now, I'm busy."
+#~ msgstr "Inte nu, jag är upptagen."
+
+#~ msgid "What do you want?"
+#~ msgstr "Vad vill du?"
+
+#~ msgid "Eh... I guess you could put it that way, yes."
+#~ msgstr "Eh... Jag antar att man kan se det på det sättet, ja."
+
+#~ msgid ""
+#~ "It will be a while till I get her together again, but she will be "
+#~ "fine."
+#~ msgstr ""
+#~ "Det kommer att ta ett litet tag för mig att få ihop henne igen, "
+#~ "men hon kommer att klara sig."
+
+#~ msgid "Don't come back."
+#~ msgstr "Kom inte tillbaka."
+
+#, fuzzy
+#~ msgid ""
+#~ "Oh, thank heavens! You are still alive. Maybe all hope is not lost."
+#~ msgstr ""
+#~ "Ahh, prisa himmelen. Du lever fortfarande. Kanske inte allt hopp "
+#~ "är förlorat."
+
+#~ msgid "THIS WILL NOT EVER BE VISIBLE"
+#~ msgstr "DET HÄR KOMMER ALDRIG ATT VARA SYNLIGT"
+
+#~ msgid ""
+#~ "I have no idea what happened in the world after that. We are cut "
+#~ "off."
+#~ msgstr ""
+#~ "Jag har ingen aning om vad som hänt i världen efter det. Vi är "
+#~ "helt avskurna."
+
+#~ msgid ""
+#~ "I am sorry to disappoint, but my knowledge of geography is a bit "
+#~ "lacking, I have no idea where in the world we are."
+#~ msgstr ""
+#~ "Jag är ledsen, men min kunskap i geografi är inte den bästa, jag "
+#~ "har ingen aning om var i världen vi är."
+
+#~ msgid ""
+#~ "Most people here have a German accent, so if I had to guess, I "
+#~ "would say Europe."
+#~ msgstr ""
+#~ "De flesta här talar med en tysk accent, så om jag ska gissa skulle "
+#~ "jag säga någonstans i Väst-Central Europa."
+
+#~ msgid "The path from this house should lead you directly to it."
+#~ msgstr "Vägen utanför detta hus leder direkt dit."
