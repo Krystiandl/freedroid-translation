@@ -1,1 +1,15 @@
-for i in *.pot ; do if [ ! -f ../dialogs/${i/.pot/.dialog} -a ! -f ../map/${i/.pot/} ] ; then echo $i ; fi ; done
+cd ../po
+
+for i in $(cat ../scripts/lang.txt) ; do
+#   pwd
+    cd ${i}/LC_MESSAGES/ 
+#   pwd
+    for j in *.po ; do
+        if [ ! -f ../../${j/.po/.pot} ] ; then 
+            echo "${i}/LC_MESSAGES/${j/.pot/.po}"
+#           ls ../../${j/.po/.pot}
+        fi 
+    done
+    cd ../..
+#   pwd
+done
