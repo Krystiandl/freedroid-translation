@@ -1,0 +1,62 @@
+Translate freedroid rpg : how-to
+
+h2.Introduction
+
+The translation of freedroid rpg is a separate part of the freedroid rpg game.
+Anyone who want to contribute to the translation is welcome. The translation is
+using currently the platform transifex, at http://www.transifex.net .
+
+Join the freedroid rpg translation team
+
+To join the freedroid rpg translation team, you need two things :
+A transifex account : you have to go to www.transifex.net, and to subscribe,
+in the order to contribute to the freedroid translation. Subscribe at
+http://www.transifex.net/accounts/register/ . It's simple, you just have to 
+pick up a nick name and a password, then you give your email adress, and finally
+you have to confirm your account creation by clicking the link in the mail you
+received.
+Screen shot :
+
+Once you have done this work, you will have to join one of the teams managing
+the freedroid translation. In this order, you have to go visit the freedroid
+RPG translation project page on tx.net, at
+http://www.transifex.net/projects/p/freedroid-rpg/ , or by submitting a search
+for freedroid in the tx research form. Then, click on the freedroid rpg project
+component [b]freedroid RPG translation repository[/b], at
+http://www.transifex.net/projects/p/freedroid-rpg/c/freedroid-translation/ . 
+
+When it's done, select to what language you wish translate freedroidRPG. You
+will reach the team page for your language. Now, you just have to make a
+request to join the team. I wish you welcome for your entrance.
+
+Translate
+
+Now you are a translator, and you will probably look for some work to do.
+Local translation : a .po files editor : there is several softwares for this
+task. Windows users can download poedit : http://www.poedit.net/ . For linux
+users, you can use lokalize (kde app), gtranslator (gnome app), or emacs in the
+.po mode. I think there is other softwares you can use, it's up to you to look
+for something else. What's up now it's done ? You have to go the project page.
+Well, and get a bit of Transifex. Transifex permit to use translation language
+teams, you know. If you decided to translate freedroid rpg, you should have an
+idea of in what language you would like to translate freedroid rpg, isn't it ?
+
+Well, if your language team already exists, you just have to ask me
+(elijahbal) or the coordinator of the team to set you as a member. Once you are
+a member of a translation team, you should begin to translate easily.
+
+About what be careful when translating ?
+
+The first thing is : we need UTF8. It will shortly be difficult if we dont have
+an unified encoding to translate the game and to use for font rendering, etc.
+So recall that if you dont use UTF8 by now, you should set up your po editor to
+give UTF8 encoded po files. More, Transifex eats only utf8 files. That's why,
+you don't have really the choice.
+
+The second thing is : the game is written in english, and then translated into
+other languages. You do not need to write dialogs, just to translate. If you
+want to write dialogs, it will be a theme rather than a version. Any idea of
+dialog should be submitted to the main project directly. But I can receive Idea
+and patches for you if you like.
+
+
