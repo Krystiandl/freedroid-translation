@@ -17,12 +17,10 @@ msgstr ""
 "X-Generator: Launchpad (build Unknown)\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:39
-#, fuzzy
 msgid "Oh, thank heavens! You are still alive. Maybe all hope is not lost."
 msgstr "Vous êtes encore en vie. Grâce à Dieu. Il reste encore de l'espoir."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:45
-#, fuzzy
 msgid "Who am I?"
 msgstr " Qui suis-je ?"
 
@@ -55,12 +53,10 @@ msgid "During that time Linarians became known as helpers and heroes. Of course 
 msgstr "Pendant ce temps, vous avez acquis la réputation d'être des sauveurs et des héros. Actuellement, ces histoires sont seulement considérées comme des légendes."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:54
-#, fuzzy
 msgid "If the computer is not lying, then your name is "
-msgstr "Si l'ordinateur ne ment pas, votre nom est Tux."
+msgstr "Si l'ordinateur ne ment pas, votre nom est"
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:59
-#, fuzzy
 msgid "How did the war start?"
 msgstr " Comment la guerre a-t-elle commencé ?"
 
@@ -85,7 +81,6 @@ msgid "I broke into a parked hover car and used it to escape. The sight from the
 msgstr "J'ai volé un planeur garé là, et je l'ai utilisé pour m'échapper. Le spectacle vu des airs était horrible."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:66
-#, fuzzy
 msgid "The city was full of flames, flashes of gunfire and screaming people. That image still does not let me sleep at night."
 msgstr "La ville était en flammes, on entendait les rafales des armes à feu et les cris des gens. Cette vision n'en finit pas de hanter mes nuits."
 
@@ -94,7 +89,6 @@ msgid "First we made them, and then they unmade us. How ironic."
 msgstr "Nous les avons tout d'abord fait, puis ils nous ont défaits. Quelle ironie."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:72
-#, fuzzy
 msgid "What happened then?"
 msgstr " Qu'est-ce qui s'est passé après ?"
 
@@ -107,9 +101,8 @@ msgid "Later I learned that the bots started attacking all around the globe. The
 msgstr "Plus tard, j'appris que ce n'avait pas été un fait isolé. Les robots avaient attaqué tout autour du globe, et les journalistes appelèrent ce jour 'Le Grand Assaut'. Le nom est resté."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:76
-#, fuzzy
 msgid "Then the bots started jamming our broadcasts and long distance communication became impossible. I have no idea what happened in the world after that. We are cut off."
-msgstr "Lorsque les robots ont commencé à brouiller nos émissions de radio, toute communication longue distance est devenue impossible."
+msgstr "Lorsque les robots ont commencé à brouiller nos émissions de radio, toute communication longue distance est devenue impossible. Je n'ai aucune idée de ce qui s'est passé dans le monde postérieurement à ces évènements. Nous avons été littéralement séparés."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:77
 msgid "For all I know the war might be already over."
@@ -121,7 +114,7 @@ msgstr "Où suis-je ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:84
 msgid "The locals call this place the popsicle storage, because of all the people lying here frozen in cryogenic sleep. All were frozen down before the Great Assault."
-msgstr ""
+msgstr "Le nom local de cette place est popsicle storage, à cause de tous les gens fixés ici, en sommeil cryogénique. Tous étaient congelés avant le Grand Assaut."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:85
 #, fuzzy
@@ -130,14 +123,13 @@ msgstr "Les indigènes nomment cet endroit le Temple de Bois. Nous sommes non lo
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:86
 msgid "There are just too few humans alive and awake to allow us to properly protect this place, and nobody else is foolish enough to stay out here alone."
-msgstr ""
+msgstr "Il y a juste trop peu d'humains vivant et réveiller pour nous permettre de protéger cet endroit correctement, et personne d'autre n'est assez fou pour rester ici solitaire."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:87
 msgid "I try to do my best to make sure nothing goes bad here and all these people die. Luckily, the outer gates of this place are quite sturdy."
-msgstr ""
+msgstr "Je ferai de mon mieux pour m'assurer que rien de mauvais n'arrive ici, et que tous ces gens meurent. Heureusement, les portes extérieures de cet endroit sont vraiment solides."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:92
-#, fuzzy
 msgid "Why did the Linarians come to this world?"
 msgstr " Pourquoi les Linariens sont ils venus sur ce monde?"
 
@@ -150,7 +142,6 @@ msgid "Sorry, I cannot help you with that."
 msgstr "Désolé, je ne peux pas vous aider à ce propos."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:100
-#, fuzzy
 msgid "Where in the void is this world?"
 msgstr " Où est situé ce monde dans le Vide ?"
 
@@ -159,7 +150,6 @@ msgid "I guess you mean in the universe?"
 msgstr "Je suppose que vous voulez dire dans l'univers ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:103
-#, fuzzy
 msgid "Yes, I think that is your name for it."
 msgstr " Oui, je pense que c'est le nom que vous lui donnez."
 
@@ -176,12 +166,10 @@ msgid "This is a planetary system of ten planets, and we are presently located o
 msgstr "C'est un système solaire de dix planètes, et nous sommes situés sur la troisième en partant de notre étoile, le Soleil."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:107
-#, fuzzy
 msgid "I am not an astronomer, so I could be wrong. I am too tired to keep track of what is a planet and what is just an oversized rock."
 msgstr "Je ne suis pas astronome, donc je peux me tromper. Je suis trop fatigué pour garder une idée de ce qui fait une différence entre une planète et un caillou obèse."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:108
-#, fuzzy
 msgid "This could be just about anywhere. Your description is too ambiguous."
 msgstr " Ça pourrait être vrai pour n'importe quel endroit. Votre description est trop ambiguë."
 
@@ -211,27 +199,24 @@ msgid "And it looks like we are losing the war."
 msgstr "Et il semble que nous soyons en train de perdre la guerre."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:124
-#, fuzzy
 msgid "I feel terrible... Was I asleep? I remember nightmares. A meteor shower striking a planet full of life and killing everything on it..."
-msgstr " Je me sens mal... Étais-je endormi ? Je me souviens de cauchemars. Un astéroïde qui fonçait sur une planète et en éliminait toute forme de vie..."
+msgstr " Je me sens mal... Étais-je endormi ? Je me souviens de cauchemars. Une pluie d'astéroïdes heurtant une planète y éliminant ainsi toute forme de vie..."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:126
 msgid "This is normal. You were in stasis sleep for over 70 years. Stasis is not too kind on the mind. Your strange dreams will keep recurring for several years."
 msgstr "C'est normal. Vous êtes resté en hibernation pendant plus de 70 années. La stase n'est pas sans effet sur l'esprit. Vos rêves étranges reviendront pendant plusieurs années."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:127
-#, fuzzy
 msgid "Whatever the reason was for putting yourself through this, it must have been a damn good one."
-msgstr "Quelle qu'ait été la raison pour vous mettre là dedans, elle devait être sacrément bonne."
+msgstr "Quelle qu'ait été la raison pour vous mettre là dedans, ça doit avoir été une sacrée bonne."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:128
 msgid "You are lucky that I found you and woke you up. A few more decades in there and you would end up insane."
 msgstr "Vous avez de la chance que je vous ai trouvé et réveillé. Quelques décennies de plus et vous auriez subi des lésions cérébrales irréversibles."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:133
-#, fuzzy
 msgid "Tell me more about the town you mentioned."
-msgstr " Pouvez-vous m'en dire plus à propos de la ville que vous avez mentionnée ?"
+msgstr "Pouvez-vous m'en dire plus à propos de la ville que vous avez mentionnée ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:135
 #, fuzzy
