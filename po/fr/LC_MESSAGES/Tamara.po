@@ -59,58 +59,55 @@ msgstr "Nous étions habitués à cela. "
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:54
 msgid "Then she started reading more and more books and sitting in front of the computer day and night, never sleeping."
-msgstr ""
+msgstr "Alors, elle commença à lire de plus en plus de livres, et à s'asseoir devant l'ordinateur pendant des jours et des nuits. Le sommeil l'avait définitivement quitté."
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:55
 msgid "In the end she completely lost her marbles, sadly."
-msgstr ""
+msgstr "Tristement, elle avait complètement perdu son bon sens, à la fin."
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:56
 msgid "Now all she does is sit locked in her house staring into the computer."
-msgstr ""
+msgstr "Maintenant, elle vit complètement enfermée dans sa maison, contemplant sans fin l'ordinateur."
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:62
-#, fuzzy
 msgid "I see you have a huge source code book collection. Mind if I buy some from you?"
 msgstr " Je vois que vous avez une collection de livres impressionante. Que diriez vous si je vous en achetais quelques uns ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:64
 msgid "This is a library, not a book shop."
-msgstr ""
+msgstr "Nous sommes ici dans un magasin de livre, pas une bibliothèque."
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:65
 msgid "However, valuable books have a tendency to simply vanish and never get returned by some people..."
-msgstr ""
+msgstr "Malgré cela, les livres de grande valeur, ont une tendance à disparaître par enchantement, et ne sont jamais rendu par quelques personnes..."
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:66
 msgid "Especially strangers just passing by..."
-msgstr ""
+msgstr "Les étrangers de passage sont particulièrement concernés par cela…"
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:67
 msgid "Thus I'm forced to take a deposit for each book."
-msgstr ""
+msgstr "Je suis ainsi forcé de prendre un dépôt de garanti pour chaque livre prêté."
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:72
 msgid "So what interesting books do you have available right now?"
-msgstr ""
+msgstr "Alors, quels livres intéressants avez vous à disposition, pour l'instant ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:74
-#, fuzzy
 msgid "Some of these might interest you."
-msgstr "Sorenson le codeur est ravi de vous rencontrer."
+msgstr "Quelques uns parmis ceux là pourraient vous intéresser."
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:74
 msgid "I only have a few programming volumes, feel free to look through them."
-msgstr ""
+msgstr "J'ai seulement quelques volumes sur la programmation, je vous en prie, parcourez les autant que vous le souhaitez."
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:79
-#, fuzzy
 msgid "Thank you for the help."
-msgstr " Merci pour ce conseil."
+msgstr " Merci pour votre aide."
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:81
 msgid "No problem, and remember to return your books in time."
-msgstr ""
+msgstr "Il n'y a aucun problème, rappelez vous seulement de me rapporter les livres à temps."
 
 #~ msgid "Sure. I'll sign it."
 #~ msgstr " Certainement. Je le signerai."
