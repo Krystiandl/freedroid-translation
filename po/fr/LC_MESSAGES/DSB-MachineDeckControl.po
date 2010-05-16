@@ -17,20 +17,23 @@ msgstr ""
 "X-Generator: Launchpad (build Unknown)\n"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:35
+#, fuzzy
 msgid "Login : "
-msgstr ""
+msgstr "Login :"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:36
+#, fuzzy
 msgid "admin"
-msgstr ""
+msgstr "admin"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:37
+#, fuzzy
 msgid "Password : "
-msgstr ""
+msgstr "Mot de passe :"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:38
 msgid "*******"
-msgstr ""
+msgstr "*******"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:39
 #, fuzzy
