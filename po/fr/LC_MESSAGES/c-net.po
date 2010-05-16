@@ -17,9 +17,8 @@ msgstr ""
 "X-Generator: Launchpad (build Unknown)\n"
 
 #: /home/david/src/freedroid-translation/dialogs/c-net.dialog:34
-#, fuzzy
 msgid " . "
-msgstr ". . ."
+msgstr " . "
 
 #: /home/david/src/freedroid-translation/dialogs/c-net.dialog:37
 msgid "Welcome to the Community Network."
@@ -184,7 +183,6 @@ msgid "cd documents/"
 msgstr "cd documents/"
 
 #: /home/david/src/freedroid-translation/dialogs/c-net.dialog:288
-#, fuzzy
 msgid "forkBOMB.sh -arm bomb"
 msgstr "forkBOMB.sh -arm bomb"
 
@@ -195,12 +193,10 @@ msgstr "bombe armée"
 #: /home/david/src/freedroid-translation/dialogs/c-net.dialog:291
 #: /home/david/src/freedroid-translation/dialogs/c-net.dialog:299
 #: /home/david/src/freedroid-translation/dialogs/c-net.dialog:310
-#, fuzzy
 msgid "root@c-net:~$"
 msgstr "root@c-net:~$"
 
 #: /home/david/src/freedroid-translation/dialogs/c-net.dialog:296
-#, fuzzy
 msgid "forkBOMB.sh -disarm bomb"
 msgstr "forkBOMB.sh -disarm bomb"
 
@@ -214,7 +210,7 @@ msgstr "forkBOMB.sh -execute"
 
 #: /home/david/src/freedroid-translation/dialogs/c-net.dialog:309
 msgid "Script run. Once after logout terminal will be disabled."
-msgstr ""
+msgstr "Script lancé. Le terminal sera désactivé après la déconnexion."
 
 #: /home/david/src/freedroid-translation/dialogs/c-net.dialog:315
 msgid "cd games/"
