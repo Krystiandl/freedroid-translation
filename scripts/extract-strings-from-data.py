@@ -80,9 +80,9 @@ msgstr ""
             self.bugs_email, date, date)
         open(filename, 'w').write(s + self.strings.render())
 
-#############################################################################
+#######################################################################
 ## LINE PARSING PART
-#############################################################################
+#######################################################################
 regexp = re.compile(r'_"(.+?)"', re.M | re.S)
 class ArchetypeFile(object):
     def __init__(self, fname):
@@ -99,9 +99,9 @@ class ArchetypeFile(object):
             contentbis = " " * (index) + contentbis[index:]
             potfile.strings.append(string.replace('\n', '\\n'), self.filename, line)
 
-#############################################################################
+#######################################################################
 ## SCRIPT MAIN FUNCTION
-#############################################################################
+#######################################################################
 def main():
     if len(sys.argv) < 4:
         print "Usage: %s <input-dir> <pattern> <output-file>" % sys.argv[0]
