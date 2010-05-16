@@ -18,7 +18,7 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:36
 msgid "Hi, I'm "
-msgstr ""
+msgstr "Bonjour, je suis "
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:37
 msgid "Welcome to the Library, I'm Tamara."
@@ -53,9 +53,8 @@ msgid "*sigh*"
 msgstr "*sigh*"
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:53
-#, fuzzy
 msgid "We used to. Even ran this library together."
-msgstr "Nous étions habitués à cela. "
+msgstr "C'était le cas avant. Nous avons tenu cette bibliothèque ensemble."
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:54
 msgid "Then she started reading more and more books and sitting in front of the computer day and night, never sleeping."

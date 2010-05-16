@@ -17,9 +17,8 @@ msgstr ""
 "X-Generator: Launchpad (build Unknown)\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:42
-#, fuzzy
 msgid "Hi! I'm new here."
-msgstr " Bonjour ! Je suis nouveau ici."
+msgstr "Salut! Je suis nouveau ici."
 
 #: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:44
 msgid "A newcomer! Great! We can always use more people. Welcome to the Red Guard! I'm Lukas. I'm in charge of our little armory here."

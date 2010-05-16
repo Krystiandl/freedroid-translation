@@ -18,7 +18,7 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/HF-FirmwareUpdateServer.dialog:33
 msgid "Welcome to MS firmware upgrade server for region #54658."
-msgstr ""
+msgstr "Bienvenue sur le serveur de mise à jour de firmware de MS pour la zone 54658."
 
 #: /home/david/src/freedroid-translation/dialogs/HF-FirmwareUpdateServer.dialog:34
 msgid "Please select action"
@@ -62,9 +62,8 @@ msgid "Firmware update propagated!"
 msgstr "Mise à jour du micro-logiciel effectuée !"
 
 #: /home/david/src/freedroid-translation/dialogs/HF-FirmwareUpdateServer.dialog:63
-#, fuzzy
 msgid "Logout"
-msgstr " Déconnecter"
+msgstr "Se déconnecter"
 
 #~ msgid "Sure. I'll sign it."
 #~ msgstr " Certainement. Je le signerai."
