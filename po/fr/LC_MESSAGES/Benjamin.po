@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
 "POT-Creation-Date: 2010-04-24 11:46+0000\n"
-"PO-Revision-Date: 2010-05-17 19:20+0200\n"
+"PO-Revision-Date: 2010-05-17 20:46+0200\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -269,7 +269,7 @@ msgid ""
 "Say... A hundred circuits and three training points should be enough for a "
 "beginner lesson."
 msgstr ""
-"Disons... Cent triangles et trois points d'entraînement devraient être "
+"Disons... Cent Tribucks et trois points d'entraînement devraient être "
 "suffisants pour une leçon de niveau débutant."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:127
@@ -277,7 +277,7 @@ msgstr ""
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:157
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:167
 msgid "Interested?"
-msgstr "Tu es intéressé ?"
+msgstr "Intéressé ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:129
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:140
@@ -309,7 +309,7 @@ msgid ""
 "It will take you two hundred circuits and double the effort on your part to "
 "become a true apprentice."
 msgstr ""
-"Il vous faudra deux cents triangles et le double d'efforts pour devenir un "
+"Il vous faudra deux cents Tribucks et le double d'efforts pour devenir un "
 "réel apprenti."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:141
@@ -346,16 +346,15 @@ msgid "Then come back when you have both."
 msgstr "Alors reviens quand tu aura les deux."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:153
-#, fuzzy
 msgid "Oh, you want to become a real master with shooters?"
-msgstr "Oh, tu veux devenir un vrai maître avec les pistolets ?"
+msgstr "Oh, tu veux devenir un vrai maître avec les armes à feu ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:154
 msgid ""
 "It will cost you 400 valuable circuits and an awful lot of mental focusing "
 "on the task."
 msgstr ""
-"Ça te coûtera 400 triangles précieux et énormément de concentration mentale "
+"Ça te coûtera 400 précieux Tribucks et énormément de concentration mentale "
 "sur la tâche."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:159
@@ -399,7 +398,7 @@ msgid ""
 "cash)"
 msgstr ""
 "Oui, je veux améliorer ma compétence d'armes à distances. (coûte 3 points "
-"d'entraînement, 100 triangles) "
+"d'entraînement, 100 Tribucks) "
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:188
 msgid ""
@@ -456,7 +455,7 @@ msgstr "Tu as besoin de plus d'or."
 msgid "Yes I want even more training. (cost 6 training points, 200 cash)"
 msgstr ""
 "Oui, je veux encore plus d'entraînement. (coûte 6 points d'entraînement, 200 "
-"triangles)"
+"Tribucks)"
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:211
 msgid "You must remain calm whilst shooting."
@@ -488,7 +487,7 @@ msgstr "Merci de ne pas me déranger si tu ne peux pas me payer."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:226
 msgid "Yes I accept. (cost 9 training points, 300 cash)"
-msgstr "Oui, j'accepte. (coûte 9 points d'entraînement, 300 triangles) "
+msgstr "Oui, j'accepte. (coûte 9 points d'entraînement, 300 Tribucks) "
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:230
 msgid "Next lesson is hitting a moving target."
@@ -524,7 +523,7 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:246
 msgid "Yes I accept. (cost 12 training points, 400 cash)"
-msgstr "Oui j'accepte. (coûte 12 points d'entraînement, 400 triangles) "
+msgstr "Oui j'accepte. (coûte 12 points d'entraînement, 400 Tribucks) "
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:250
 msgid ""
@@ -568,7 +567,7 @@ msgid ""
 "cash)"
 msgstr ""
 "Oui je veux devenir un dieu dans le combat à distance. (coûte 15 points "
-"d'entraînement, 500 triangles) "
+"d'entraînement, 500 Tribucks) "
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:270
 msgid "I don't tell everyone this, so keep it to yourself, alright?"
@@ -612,7 +611,7 @@ msgstr "Bizarre."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:295
 msgid "Fifty circuits per bit of information."
-msgstr "Cinquante triangles pour chaque parcelle d'information."
+msgstr "Cinquante Tribucks pour chaque parcelle d'information."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:296
 msgid "So... What do you exactly want to know?"
@@ -754,11 +753,12 @@ msgid "I changed my mind."
 msgstr "J'ai changé d'avis."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:362
-#, fuzzy
 msgid ""
 "Keep your money Linarian. No amount of circuits can make me talk about that "
 "accursed day."
-msgstr "Garde ton argent, Linarien. Rien ne me fera parler de ce jour passé."
+msgstr ""
+"Garde ton argent, Linarien. Aucune quantité de Tribucks ne peut me faire "
+"parler à propos de ce jour maudit."
 
 #: /home/david/src/freedroid-translation/dialogs/Benjamin.dialog:367
 msgid "What makes the exterminator so powerful?"
