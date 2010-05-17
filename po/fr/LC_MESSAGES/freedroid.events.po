@@ -14,9 +14,8 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:19
-#, fuzzy
 msgid "To Maintenance Tunnels"
-msgstr "Vers les tunnels de maintenance"
+msgstr "Vers les conduits de maintenance."
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:28
 #, fuzzy
@@ -72,9 +71,8 @@ msgid "Enter Warehouse"
 msgstr "Vers l'entrepôt"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:155
-#, fuzzy
 msgid "Down into Crystal Caves"
-msgstr "Descendre dans les caves de crystal"
+msgstr "Descendre dans les cavernes de cristal"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:195
 #, fuzzy
@@ -113,9 +111,8 @@ msgid "FIXME2"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:327
-#, fuzzy
 msgid "Exit Crystal Caves"
-msgstr "Quitter les caves de crystal"
+msgstr "Quitter les cavernes de cristal"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:339
 #: /home/david/src/freedroid-translation/map/freedroid.events:351
