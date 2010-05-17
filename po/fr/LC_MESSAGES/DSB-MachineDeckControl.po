@@ -17,17 +17,14 @@ msgstr ""
 "X-Generator: Launchpad (build Unknown)\n"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:35
-#, fuzzy
 msgid "Login : "
-msgstr "Login :"
+msgstr "Login : "
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:36
-#, fuzzy
 msgid "admin"
 msgstr "admin"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:37
-#, fuzzy
 msgid "Password : "
 msgstr "Mot de passe :"
 
@@ -36,9 +33,8 @@ msgid "*******"
 msgstr "*******"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:39
-#, fuzzy
 msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
-msgstr "Dernière connexion sur /dev/ttyS0, Dim, 23 mar 2057. admin@sadefense: ~#"
+msgstr "Dernière connexion sur /dev/ttyS0, Dim, 23 mar 2057."
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:47
 msgid "passwd"
@@ -57,9 +53,8 @@ msgid "Password successfully changed."
 msgstr "Mot de passe modifié avec succès."
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:58
-#, fuzzy
 msgid "shieldmgr --disable --force"
-msgstr " shieldmgr --disable --everywhere"
+msgstr "shieldmgr --disable --force"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-MachineDeckControl.dialog:60
 msgid "Disabling disruptor shield... "
