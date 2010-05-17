@@ -17,7 +17,6 @@ msgstr ""
 "X-Generator: Launchpad (build Unknown)\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:41
-#, fuzzy
 msgid "Hi! I'm new here. "
 msgstr " Bonjour ! Je suis nouveau ici. "
 
@@ -30,7 +29,6 @@ msgid "I am Engel. He is Geist, and he does not know the language."
 msgstr "Moi c'est Engel. L'autre s'appelle Geist, il est muet."
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:49
-#, fuzzy
 msgid "What are you doing here?"
 msgstr " Que faites-vous ici ?"
 
@@ -47,7 +45,6 @@ msgid "No mercy. We hunt them."
 msgstr "Nous les chassons sans merci."
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:58
-#, fuzzy
 msgid "Can I help you somehow?"
 msgstr " Est ce que je peux vous aider ?"
 
@@ -56,14 +53,12 @@ msgid "Nein. Let us die as warriors. That is all we ask for."
 msgstr "Non. Nous voulons mourir en soldats. C'est notre seul souhait."
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:65
-#, fuzzy
 msgid "If you keep standing here more bots will come and they will kill you. Go somewhere safe, and set up defense there."
-msgstr " Si vous restez ici, d'autres robots viendront pour vous tuer. Allez dans un endroit sûr, et érigez des défenses."
+msgstr "Si vous restez ici, d'autres robots viendront pour vous tuer. Allez dans un endroit sûr, et érigez-y des défenses."
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:73
-#, fuzzy
 msgid "If you keep standing here more bots will come and --"
-msgstr " Si vous restez ici, plus de robots vont venir et --"
+msgstr "Si vous restez ici, plus de robots vont venir et --"
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:75
 msgid "Sehr gut. Let them come. We are ready."
@@ -74,9 +69,8 @@ msgid "What a beautiful day. Yes."
 msgstr "Oui, c'est une belle journée."
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:81
-#, fuzzy
 msgid "You are insane. Get out of here while you still can."
-msgstr " Vous êtes fou. Partez avant qu'il ne soit trop tard."
+msgstr "Vous êtes fou. Partez avant qu'il ne soit trop tard."
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:83
 msgid "No."
@@ -95,9 +89,8 @@ msgid "Do not try to stop us. We have our rifles loaded."
 msgstr "Ne tentez pas de nous en empêcher. Nos fusils sont chargés."
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:91
-#, fuzzy
 msgid "Where can I get some help?"
-msgstr " Où puis-je trouver de l'aide?"
+msgstr "Où puis-je trouver de l'aide?"
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:93
 msgid "Nowhere. This is the end of the world. There is no help."
@@ -116,32 +109,28 @@ msgid "Real freedom is really dead."
 msgstr "La liberté est vraiment morte."
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:101
-#, fuzzy
 msgid "You guys are totally nuts. Get a life."
-msgstr " Vous êtes complètement fous. Réveillez-vous !"
+msgstr "Vous êtes complètement fous. Réveillez-vous !"
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:109
-#, fuzzy
 msgid "You guys are tota --"
-msgstr " Vous êtes complète --"
+msgstr "Vous êtes complète --"
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:111
 msgid "WHAT?! What is it that you want to say?"
 msgstr "QUOI ?! Qu'est ce que tu veux dire ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:112
-#, fuzzy
 msgid "Erm... I --"
-msgstr " Erg... Je --"
+msgstr "Erg... Je --"
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:113
 msgid "WHAT!? SPIT IT OUT!"
 msgstr "QUOI ?! RETIRE ÇA !"
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:114
-#, fuzzy
 msgid "Er... You guys are really great and I admire your bravery in the face of certain death."
-msgstr " Euh... Vos hommes sont extraordinaires et j'admire votre courage face à une mort certaine."
+msgstr "Euh... Vos hommes sont extraordinaires et j'admire votre courage face à une mort certaine."
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:115
 msgid "Donnerwetter, you are a funny one."
@@ -160,9 +149,8 @@ msgid "Maybe one day..."
 msgstr "Un jour peut être..."
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:123
-#, fuzzy
 msgid "What did you use to do before you became a hunter?"
-msgstr " Que faisiez-vous avant de chasser les robots ?"
+msgstr "Que faisiez-vous avant de chasser les robots ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:125
 msgid "I was a bot constructor. Built the killers of my mother."
@@ -173,16 +161,14 @@ msgid "Now I sell the parts that I remove from the bots to buy more ammunition a
 msgstr "À présent je vends des pièces que j'extrais des robots pour acheter de la nourriture et des munitions."
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:131
-#, fuzzy
 msgid "I want to know how to extract modules from the bots."
-msgstr " Je veux savoir comment démonter des modules de robots."
+msgstr "Je veux savoir comment démonter des modules de robots."
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:133
 msgid "Yes."
 msgstr "Oui."
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:134
-#, fuzzy
 msgid "I will sell the information for a lot of Schaltkreise."
 msgstr "Je vais vendre l'information pour beaucoup de Schaltkreise."
 
@@ -191,7 +177,6 @@ msgid "Interested?"
 msgstr "Tu es intéressé ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:140
-#, fuzzy
 msgid "Can I join your hunt?"
 msgstr " Puis-je me joindre à votre quête ?"
 
@@ -204,7 +189,6 @@ msgid "I'll be going then."
 msgstr "Alors j'y vais."
 
 #: /home/david/src/freedroid-translation/dialogs/Engel.dialog:149
-#, fuzzy
 msgid "Goodbye and viel Gluck."
 msgstr "Au revoir, et viel glück."
 
