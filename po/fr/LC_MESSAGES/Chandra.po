@@ -30,7 +30,7 @@ msgstr "Que peut tu me dire à propos de cet endroit ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:50
 msgid "This small town used to be a somewhat successful mining community, exporting rare earth materials and other resources to the rest of the solar system."
-msgstr ""
+msgstr "Cette petite ville était autrefois une prospère communauté minière, exportant des terres rares et d'autres ressources au reste du système solaire."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:51
 msgid "The mines have depleted recently, however. The town was under a threat of bankruptcy. Living here became harder and many left to seek new opportunities elsewhere."
@@ -65,7 +65,6 @@ msgid "So what's so strange about the attack?"
 msgstr " Alors qu'est-ce qui est étrange à propos de cette attaque ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:69
-#, fuzzy
 msgid "According to my calculations from the Fermi estimate, there are about seven million bots active in the region, everything from cleaner bots and servant droids to much more dangerous ones."
 msgstr "Selon mes calculs issus de l'estimation de Fermi, il y a environ sept millions de robots actifs dans la région, des engins nettoyeurs aux servants droïdes jusqu'aux robots les plus dangereux."
 
@@ -125,9 +124,8 @@ msgid "What types of bots are out there?"
 msgstr " Quel genre de robot y a-t-il à l'extérieur ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:93
-#, fuzzy
 msgid "There are many. Each kind of bot has a number consisting of three digits. The first one is the most significant, the class of a bot."
-msgstr "Hmm... Chaque genre de robot a un numéro composé de trois chiffres. Le premier est le plus significatif, il désigne la classe du robot."
+msgstr "Il y en a de nombreux. Chaque genre de robot a un numéro composé de trois chiffres. Le premier est le plus significatif, il désigne la classe du robot."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:94
 msgid "I know a bit about three classes."
@@ -147,10 +145,9 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:98
 msgid "There are many more classes out there. The military used bots, of course, and they were used on ships, but I know nothing about those types."
-msgstr ""
+msgstr "Il y a beaucoup plus de genres à l'extérieur d'ici. Les robots militaires habituels, naturellement, étaient utilisés sur des navires, mais je ne sais rien à propos de ce genre de robots."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:103
-#, fuzzy
 msgid "I want to leave this place."
 msgstr " Je veux quitter cet endroit."
 
@@ -167,9 +164,8 @@ msgid "You cannot live for long out there."
 msgstr "Tu ne peux pas vivre longtemps à l'extérieur."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:112
-#, fuzzy
 msgid "No, I meant I would like to leave this world."
-msgstr " Non, je voulais dire \"je veux quitter ce monde\"."
+msgstr " Non, je voulais dire « je veux quitter ce monde »."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:114
 msgid "Simple. Walk outside the city walls, and the bots will send you to the other world within a few minutes."
@@ -184,9 +180,8 @@ msgid "Most likely all of our cosmodromes have been destroyed in the bot attacks
 msgstr "La plupart de nos cosmodromes ont été détruits dans l'attaque des robots."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:121
-#, fuzzy
 msgid "I keep getting beaten up by the bots. What can I do?"
-msgstr " Je crois que je serai battu par les robots. Qu'est-ce que je peux faire?"
+msgstr "Je serai continuellement battu par les robots. Qu'est-ce que je peux faire?"
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:123
 msgid "There are many things you can do. The first is to fight more bots."
