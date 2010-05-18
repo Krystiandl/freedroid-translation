@@ -33,17 +33,14 @@ msgid "Do what you must."
 msgstr "Fais ce que tu dois faire."
 
 #: /home/david/src/freedroid-translation/dialogs/Koan.dialog:41
-#, fuzzy
 msgid "It's a pleasure to meet you again."
 msgstr "C'est un plaisir de vous revoir."
 
 #: /home/david/src/freedroid-translation/dialogs/Koan.dialog:46
-#, fuzzy
 msgid "With pleasure."
 msgstr " Avec plaisir."
 
 #: /home/david/src/freedroid-translation/dialogs/Koan.dialog:54
-#, fuzzy
 msgid "No. I have not come here to kill you."
 msgstr " Non. Je ne suis pas venu ici pour te tuer."
 
@@ -60,9 +57,8 @@ msgid "The water is safe to drink and the fruit from the tree is quite delicious
 msgstr "L'eau est potable et les fruits de l'arbre sont vraiment délicieux."
 
 #: /home/david/src/freedroid-translation/dialogs/Koan.dialog:65
-#, fuzzy
 msgid "What is this place? Why is there grass and water under the desert?"
-msgstr " Quel est cet endroit ? Pourquoi l'herbe est-elle verte en dessous du désert ?"
+msgstr " Qu'est ce que c'est que cet endroit ? Pourquoi  y'a t'il de l'herbe et de l'eau sous le désert ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Koan.dialog:67
 msgid "Ah, yes. That is my fault, I am afraid."
@@ -77,12 +73,10 @@ msgid "I thought I could hide from Duncan in this old bunker."
 msgstr "Je pensais que je pouvais être caché de Duncan dans ce vieux bunker."
 
 #: /home/david/src/freedroid-translation/dialogs/Koan.dialog:70
-#, fuzzy
 msgid "When I woke up the next day, things were as you see them now."
-msgstr "Lorsque je me suis éveillé le jour d'après, les choses étaient telles que tu les vois maintenant."
+msgstr "Lorsque je me suis éveillé le lendemain, les choses étaient telles que tu les vois maintenant."
 
 #: /home/david/src/freedroid-translation/dialogs/Koan.dialog:75
-#, fuzzy
 msgid "This was a bunker?"
 msgstr " C'était un bunker ?"
 
@@ -107,9 +101,8 @@ msgid "I do not want this wonderful bunker to become devoid of life again."
 msgstr "Je ne veux pas que la vie quitte ce merveilleux bunker à nouveau."
 
 #: /home/david/src/freedroid-translation/dialogs/Koan.dialog:86
-#, fuzzy
 msgid "Why does Duncan want you dead?"
-msgstr " Pourquoi Duncan veut-il te voir mort ?"
+msgstr " Pourquoi Duncan veut-il ta mort ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Koan.dialog:88
 msgid "Very simple. He likes destruction, and I am creation."
@@ -120,7 +113,6 @@ msgid "There is nothing more to it."
 msgstr "Il n'y a rien de plus là dedans."
 
 #: /home/david/src/freedroid-translation/dialogs/Koan.dialog:94
-#, fuzzy
 msgid "I will go now."
 msgstr " Je dois y aller maintenant."
 
