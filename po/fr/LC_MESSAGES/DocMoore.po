@@ -17,22 +17,21 @@ msgstr ""
 "X-Generator: Launchpad (build Unknown)\n"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:54
-#, fuzzy
 msgid "Hello!"
 msgstr " Bonjour !"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:56
-#, fuzzy
 msgid "Hello. I'm Doc Moore. I'm the medic of this town. I don't believe we've met?"
-msgstr "Bonjour. Je suis le docteur Moore. Je suis le médecin de cette ville."
+msgstr "Bonjour. Je suis le docteur Moore. Je suis le médecin de cette ville. Je pense que c'est la première fois qu'on se voit."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:57
 msgid "I'm "
-msgstr ""
+msgstr "Je suis"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:58
+#, fuzzy
 msgid "Um, what are you? Some kind of overgrown penguin?"
-msgstr ""
+msgstr "Hmm, qu'est-ce que vous êtes ? Une sorte de manchot géant ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:59
 msgid "I'm a Linarian."
@@ -91,7 +90,6 @@ msgid "Now, take this antidote. It should remove the dangerous substances within
 msgstr "Bon, prends cet antidote. Il devrait détruire les substances dangereuses contenues dans ton organisme."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:96
-#, fuzzy
 msgid "But remember, I'll only give you this help once, because you didn't know the effects."
 msgstr "Mais souviens-toi, c'est la seule fois que je t'en donne, et seulement parce que tu n'étais pas au courant des effets secondaire de cette pilule"
 
@@ -100,8 +98,9 @@ msgid "Should you take that junk again, I won't feel responsible for what happen
 msgstr "Si tu prends encore de cette cochonnerie, je ne me sentirai pas responsable de ce qui t'arrivera."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:106
+#, fuzzy
 msgid "Doctor, how can I keep healthy and alive?"
-msgstr ""
+msgstr "Docteur, comment puis-je rester en bonne forme et vivant ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:108
 msgid "Always remember L-I-F-E"
@@ -124,12 +123,10 @@ msgid "E - Evacuate to the town if you cannot flee."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:117
-#, fuzzy
 msgid "Can you fix me up?"
 msgstr " Pouvez vous me soigner ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:119
-#, fuzzy
 msgid "Sure, as the only doctor of this slowly growing community, I take responsibility for everyone's health."
 msgstr "Bien sûr. Étant donné que je suis le seul médecin de cette petite communauté, je suis responsable de la santé de chacun."
 
@@ -142,7 +139,6 @@ msgid "There, it's done. You're completely fixed. You can go now."
 msgstr "Voilà, c'est bon. Tu es complètement guéri. Tu peux partir, maintenant."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:130
-#, fuzzy
 msgid "What do you mean, self-inflicted damage?"
 msgstr " Comment ça, des dommages infligés à soi-même ?"
 
@@ -152,28 +148,29 @@ msgid "Well, you see that idiotic Bender character on my doorstep?"
 msgstr "Tu vois cet idiot de Bender, là, à mon seuil ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:133
-#, fuzzy
 msgid "What can you tell me about Bender?"
-msgstr " Que pouvez vous me dire à propos des gardes ici ?"
+msgstr " Que pouvez vous me dire à propos de Bender ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:134
+#, fuzzy
 msgid "Bender asked my advice about some pills he saw advertised in an e-mail. I told him not to buy them."
-msgstr ""
+msgstr "Bender m'a demandé conseil à propos de certaines pillules dont il avait reçu des pubs par e-mail. Je lui ai dit de ne pas les acheter."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:135
+#, fuzzy
 msgid "But guess what? He bought and took the stupid pills anyways, and then he came back to me to fix him."
-msgstr ""
+msgstr "Mais devine quoi ? Il les a achetées et avalées quand même, ensuite il est venu et m'a demandé de le soigner"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:136
+#, fuzzy
 msgid "If he, or anyone, is going to completely disregard my medical advice, and then think they are going to get my medical supplies, then they are wrong."
-msgstr ""
+msgstr "Si lui, ou n'importe qui, ne prends pas en compte mes conseils médicaux et pense qu'ensuite il pourra obtenir des soins médicaux de ma part, il se trompe."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:137
 msgid "He won't get anything from me anymore. It would be unfair to the community to waste all the supplies on him, and that's my final word on that."
 msgstr "Il n'obtiendra rien de moi. Il serait injuste vis-à-vis de la communauté de gaspiller toutes les réserves pour lui. Ma décision est irrévoquable."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:143
-#, fuzzy
 msgid "Doc... I really want the antidote."
 msgstr " Docteur... J'ai vraiment besoin de l'antidote."
 
@@ -182,7 +179,6 @@ msgid "No! I am not giving it to you. Forget about it."
 msgstr "Non ! Je ne suis pas en train de te faire un cadeau. Oublie ça."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:150
-#, fuzzy
 msgid "My patience is running out. Give me the antidote. Now."
 msgstr " Ma patience est à bout. Donne moi l'antidote. Maintenant."
 
@@ -191,7 +187,6 @@ msgid "No! Over my dead body."
 msgstr "Non ! Tu devras me passer sur le corps."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:157
-#, fuzzy
 msgid "Your wish is my command!"
 msgstr " Tu vas faire ce que je te dis."
 
@@ -200,7 +195,6 @@ msgid "Huh? What?"
 msgstr "Hein ? Quoi ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:160
-#, fuzzy
 msgid "Humans... You are so interesting. I always wanted to know exactly how much blood you have."
 msgstr " Les humains... Vous êtes tellement intéressants. J'ai toujours voulu savoir quelle quantité de sang exactement vous pouvez dégorger."
 
@@ -209,7 +203,6 @@ msgid "Don't do this. Don't do this."
 msgstr "Ne fait pas ça. Ne fais pas ça."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:162
-#, fuzzy
 msgid "Prepare, Doc. The experiment begins."
 msgstr " Préparez vous Docteur. L'expérience va commencer."
 
@@ -222,7 +215,6 @@ msgid "AAAAAAAAAAAA!"
 msgstr "AAAAAAAAAAAAA !"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:165
-#, fuzzy
 msgid "Ugh. Human blood is disgusting. At least four liters. I feel sick."
 msgstr " Uhh. Le sang humain est dégoûtant. Au moins quatre litres. Je me sens mal."
 
@@ -303,12 +295,14 @@ msgid "What can you tell me about Brain Pills?"
 msgstr " Que pouvez vous me dire à propos des pilules de force ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:231
+#, fuzzy
 msgid "I already warned you about those!"
-msgstr ""
+msgstr "Je vous ai déjà avertit à propos de celles-là !"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:233
+#, fuzzy
 msgid "Those pills are almost pure biological waste! They are sold to stupid ignorant gullible people. Never EVER take one."
-msgstr ""
+msgstr "Ces pilules sont des déchets biologiques ! Elles sont vondues à des gens stupides, ignorants et naïfs. N'en prends JAMAIS."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:238
 #, fuzzy
@@ -316,57 +310,67 @@ msgid "What can you tell me about Diet supplements?"
 msgstr " Peux-tu m'apprendre quelque chose à propos de cet endroit ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:240
+#, fuzzy
 msgid "Have you tasted the army snacks that the cook, Michelangelo, has been handing out?"
-msgstr ""
+msgstr "Avez vous goûté les snacks de l'armée que le cuisinier, Michelangelo, distribue ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:242
+#, fuzzy
 msgid "Yes, those were horrible. They had a nice color though."
-msgstr ""
+msgstr "Oui, ils sont dégoûtants. Ils ont une jolie color néanmoins."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:243
+#, fuzzy
 msgid "The dye used to make that color is a known carcinogen."
-msgstr ""
+msgstr "La teinture utilisée pour faire cette couleur est cancérigène."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:245
 msgid "No, should I?"
-msgstr ""
+msgstr "Non, je devrais ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:246
+#, fuzzy
 msgid "Not if you can avoid it."
-msgstr ""
+msgstr "Pas si vous pouvez l'éviter."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:248
+#, fuzzy
 msgid "Well, unlike the army snacks, the Diet Supplements actually have a slight nutritional benefit."
-msgstr ""
+msgstr "Contrairement aux snacks de l'armée, les suppléments alimentaires ont en fait un petit bénéfice nutritionnel."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:249
+#, fuzzy
 msgid "After taking one your health should improve slightly."
-msgstr ""
+msgstr "Après en avoir pris un, ta santé devrait s'améliorer un peu."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:254
 #, fuzzy
 msgid "What can you tell me about Antibiotics?"
-msgstr " Peux-tu m'apprendre quelque chose à propos de cet endroit ?"
+msgstr "Que peux-tu me dire à propos des Antibiotiques ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:256
+#, fuzzy
 msgid "Basically it is bottled up poison made by bacteria."
-msgstr ""
+msgstr "Basiquement, c'est du poison fait par des bactéries que l'on a mis en bouteille."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:257
+#, fuzzy
 msgid "And that is good for me?"
-msgstr ""
+msgstr "Et c'est bon pour moi ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:258
+#, fuzzy
 msgid "Yep. It kills the bacteria that want to kill you. It improves your health significantly."
-msgstr ""
+msgstr "Ouaip. Ça tue les bactéres qui veulent te tuer. Ça améliore fortement ta santé."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:263
 msgid "What is a Doc-in-a-can?"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:265
+#, fuzzy
 msgid "It is a device that releases millions of short-lived nanobots that swarm all over your body inside and out repairing and fixing almost all but the most serious wounds."
-msgstr ""
+msgstr "C'est un dispositif qui libère des millions de nano-robots à courte durée de vie qui vont se répandre dans ton corps et réparer presque tout."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:266
 msgid "Wouldn't long-lived nanobots work better?"
