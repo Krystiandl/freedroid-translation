@@ -84,29 +84,32 @@ msgid "Complex Gate Status: OPEN"
 msgstr "Statut de la porte du complexe : OUVERTE"
 
 #: 614_cryo.dialog:67
-#, fuzzy
 msgid "What can you tell me about the 614 type?"
 msgstr " Que peux-tu me dire à propos de la série des 614 ? "
 
 #: 614_cryo.dialog:69
+#, fuzzy
 msgid "The official manual classifies the 614 as a high class security droid."
-msgstr ""
+msgstr "Le manuel officiel classifie les 614 comme des droides de sécurité de classe supérieure."
 
 #: 614_cryo.dialog:70
+#, fuzzy
 msgid "It was mainly used within ships to protect certain areas from intruders."
-msgstr ""
+msgstr "Ils étaient principalement utilisé dans les vaisseaux afin de protéger certaines zones des intrus."
 
 #: 614_cryo.dialog:71
+#, fuzzy
 msgid "It is considered an old but reliable device."
-msgstr ""
+msgstr "Ils sont considérés comme de vieux appareils toujours fiables."
 
 #: 614_cryo.dialog:72
+#, fuzzy
 msgid "So don't worry. I'm still in pretty good shape."
-msgstr ""
+msgstr "Donc ne vous inquiétez pas, je suis toujours fonctionnel"
 
 #: 614_cryo.dialog:77
 msgid "What are your orders?"
-msgstr ""
+msgstr "Quelles sont vos ordres ?"
 
 #: 614_cryo.dialog:79
 #, fuzzy
@@ -114,21 +117,23 @@ msgid "Primary objective: Protect the living beings inside this complex from att
 msgstr "Mes ordres sont de protéger les êtres vivants de ce camp des attaques de robots ennemis."
 
 #: 614_cryo.dialog:80
+#, fuzzy
 msgid "Secondary objective: Protect facility by locking outer gates if Threat Degree Analysis: HIGH."
-msgstr ""
+msgstr "Ainsi que de protéger le complexe en bloquant les portes si le degré de menace devient élevé."
 
 #: 614_cryo.dialog:85
-#, fuzzy
 msgid "Why are you not hostile as are all the other bots?"
 msgstr " Pourquoi n'es-tu pas agressif comme tous les autres robots ?"
 
 #: 614_cryo.dialog:87
+#, fuzzy
 msgid "I belong to a an older generation of bots, running a custom-made security guard operating system."
-msgstr ""
+msgstr "J'appartiens à une ancienne génération de robots, avec un système d'exploitation pour la sécurité fait sur mesure."
 
 #: 614_cryo.dialog:88
+#, fuzzy
 msgid "None of the bots of this generation were affected by the proceedings that led to bots attacking, generally known as the Great Assault."
-msgstr ""
+msgstr "Aucun des robots de cette génération n'étaient affectés par ce qui a amené les robots à attaquer lors du Grand Assaut."
 
 #: 614_cryo.dialog:89
 #, fuzzy
@@ -136,16 +141,17 @@ msgid "Even though discontinued from Nicholson, Inc. long ago, today, some peo
 msgstr "Bien que la compagnie Nicholson en ait stoppé la production depuis longtemps, aujourd'hui, certaines personnes ont amélioré mon fonctionnement et essaient également d'améliorer le système d'exploitation utilisé par ma série."
 
 #: 614_cryo.dialog:90
+#, fuzzy
 msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
-msgstr ""
+msgstr "N'oubliez pas d'acheter des produits de la compagnie Nicholson. Ce sont les meilleurs."
 
 #: 614_cryo.dialog:95
 msgid "See you later."
-msgstr ""
+msgstr "Au revoir."
 
 #: 614_cryo.dialog:97
 msgid "Resuming guard program."
-msgstr ""
+msgstr "Reprise du programme de surveillance."
 
 #~ msgid "No. The hostiles have not shown up within the last 24 hours."
 #~ msgstr "Non. L'ennemi ne s'est pas montré au cours des dernières 24 heures."
