@@ -12,9 +12,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
+"X-Poedit-Language: French\n"
 "X-Poedit-Country: FRANCE\n"
 "X-Generator: Launchpad (build Unknown)\n"
-"X-Poedit-Language: French\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:61
 msgid "Hello... Oh dear... You look awful... Who did this to you? Did they torture you?"
@@ -41,16 +41,14 @@ msgid "Eh... I guess you could put it that way, yes."
 msgstr "Eh bien... Je suppose que tu peux le dire comme ça, oui."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:72
-#, fuzzy
 msgid "What can you teach me about hacking?"
-msgstr " Pouvez me donner des compétences en hacking ?"
+msgstr "Que pouvez-vous m'apprendre à propos du hacking ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:76
 msgid "As I've told you, I cannot teach you anything right now. I don't have the time."
 msgstr "Comme je te l'ai déjà dit, je ne peux rien t'enseigner pour le moment. Je n'ai pas le temps."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:77
-#, fuzzy
 msgid "I must see that the flaky energy stream is distributed in such a way that my research project can continue."
 msgstr "Je dois faire en sorte que le flux énergétique soit bien réparti, pour que mon projet de recherche puisse continuer."
 
@@ -63,7 +61,6 @@ msgid "Not now, I'm busy."
 msgstr "Pas maintenant, je suis occupé."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:81
-#, fuzzy
 msgid "I've got an important research project going on. In fact this project might be crucial to the survival of the whole town."
 msgstr "Je suis sur un projet de recherche important, en ce moment. C'est peut-être la survie de l'intégralité de la colonie qui en dépend."
 
@@ -86,10 +83,9 @@ msgstr "Alors, si tu descends là-bas et que tu stabilises le flux d'énergie, j
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:90
 #, fuzzy
 msgid "I can teach you everything. For three hundred, up front. Still interested?"
-msgstr "Je peux t'apprendre tout ce que tu veux, pour trois cents dollars."
+msgstr "Je peux t'apprendre tout ce que tu veux, pour trois cents circuits. Qu'en dis-tu ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:92
-#, fuzzy
 msgid "Sorry, don't have that much money right now."
 msgstr " Euh... Je n'ai pas assez d'argent."
 
@@ -107,9 +103,8 @@ msgid "That's great. You can't miss it. It's not hard to find. Enter my garden a
 msgstr "C'est super. Tu ne peux pas la rater. Ce n'est pas difficile à trouver. Va dans mon jardin, tu y trouveras l'entrée de la station souterraine."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:112
-#, fuzzy
 msgid "It would be best not to bother with the resistance on the first level. You only need to take care of the energy supply. And that's on the SECOND level."
-msgstr "Ne t'occupe pas des robots du premier sous-sol. Il faut uniquement que tu t'occupes de la source d'énergie, qui se trouve au Deuxième sous-sol."
+msgstr "Ne t'occupe pas des robots du premier sous-sol. Il faut uniquement que tu t'occupes de la source d'énergie, qui se trouve au DEUXIÈME sous-sol."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:113
 msgid "I hope you have a laser pistol or something like that, the bots there will rip you apart if you try to approach them."
@@ -140,7 +135,6 @@ msgid "Yes, since the energy supply has been constant, results were much better.
 msgstr "Oui, étant donné que l'approvisionnement en énergie est resté régulier, les résultats ont été bien meilleurs. J'ai pu parvenir à mon but."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:133
-#, fuzzy
 msgid "I've obtained secret data on the town surroundings. We'll need a big computer cluster to evaluate it properly."
 msgstr "J'ai obtenu des données secrètes sur les alentours de la colonie. Nous allons avoir besoin d'un important cluster d'ordinateurs pour les analyser correctement."
 
@@ -154,7 +148,6 @@ msgid "If I only had a suitable cluster. Then we could start data evaluation rig
 msgstr "Si seulement j'avais un cluster satisfaisant, je pourrais commencer l'analyse des données sur le champ..."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:142
-#, fuzzy
 msgid "Maybe I can help somehow to find a suitable cluster."
 msgstr " Peut-être puis-je t'être utile dans la recherche d'un cluster adéquat."
 
@@ -173,7 +166,6 @@ msgid "That would be great of course. I know that the old town is maintaining a 
 msgstr "Ça serait génial, évidemment. Je sais que la vieille ville entretient une infrastructure de stockage d'informations assez satisfaisante. Ils ont là-bas un cluster qui tourne depuis un bout de temps."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:149
-#, fuzzy
 msgid "The only problem is, I can't go back to town. They would probably kill me because of... a misunderstanding."
 msgstr "Le seul problème, c'est que je ne peux pas retourner à la ville. À cause d'un vieux différent, je risque d'être tué."
 
@@ -183,7 +175,6 @@ msgid "Also, the cluster is inside of the guard citadel. I hear that only member
 msgstr "Par ailleurs, le cluster se trouve à l'intérieur de la citadelle de garde. On m'a dit que seuls les membres de la Garde Rouge ont le droit de pénétrer dans le complexe."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:151
-#, fuzzy
 msgid "But maybe you can arrange that somehow. For me it would be impossible, because of my reputation."
 msgstr "Mais peut-être peux-tu te débrouiller. Pour moi c'est impossible, à cause de ma mauvaise réputation."
 
@@ -192,7 +183,6 @@ msgid "I'll give you the data cube. Take it to the computer cluster administrati
 msgstr "Je vais te donner le cube de données. Porte le au personnel de l'administration du cluster. Ils sauront quoi en faire. Et ne mentionne pas mon nom."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:160
-#, fuzzy
 msgid "How about some reward for securing your energy supply area?"
 msgstr " Et si vous me donniez une récompense pour avoir nettoyé la source d'énergie de tous ces robots ?"
 
@@ -218,7 +208,6 @@ msgid "You must know that hacking is an art. It is easy to chop your enemy to bi
 msgstr "Tu dois savoir que le hack est un art. C'est facile de découper ton ennemi en morceau avec une épée ou de le désintégrer avec une grenade... Mais le hack nécessite des compétences."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:175
-#, fuzzy
 msgid "Look at this terminal... I am connected to a remote system. A fool would just launch a thousand attacks, but a skilled intruder stops and thinks."
 msgstr "Regarde ce terminal... Je suis connecté à un système à distance. Un inconscient va simplement lancer une centaine d'attaques en même temps, mais un intrus compétent va s'arrêter et réfléchir."
 
@@ -239,7 +228,6 @@ msgid "That is all I want to show you for now. Maybe later I will teach you some
 msgstr "C'est tout ce que je te montrerai pour aujourd'hui. Peut être que plus tard je t'enseignerai d'autres choses."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:187
-#, fuzzy
 msgid "I don't want any reward. Just gratitude."
 msgstr " Je ne cherche pas de récompense. Seulement de la gratitude."
 
