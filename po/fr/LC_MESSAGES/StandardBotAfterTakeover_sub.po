@@ -34,7 +34,7 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:57
 msgid "You do not have enough valuable circuits to ensure repair of this "
-msgstr ""
+msgstr "Vous n'avez pas suffisament de circuits intéressants à disposition pour pouvoir réparer ceci."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:65
 msgid "./repair.plx"
@@ -42,7 +42,7 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:67
 msgid "Repair in progress."
-msgstr ""
+msgstr "Réparation en cours."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:82
 msgid "./settings.plx"
@@ -50,7 +50,7 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:84
 msgid "Welcome to the settings menu."
-msgstr ""
+msgstr "Bienvenue au menu de configuration"
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:85
 msgid "Version: 1.82c"
@@ -86,7 +86,7 @@ msgstr "hcf.py sera exécuté sans demander de confirmation."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover_sub.dialog:118
 msgid "Closing remote connection..."
-msgstr ""
+msgstr "Fermeture de la connexion distante."
 
 #~ msgid "Sure. I'll sign it."
 #~ msgstr " Certainement. Je le signerai."
