@@ -17,27 +17,22 @@ msgstr ""
 "X-Poedit-Language: French\n"
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:33
-#, fuzzy
 msgid ".. bot_name().."
 msgstr ".. bot_name() .."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:34
-#, fuzzy
 msgid "Login : "
 msgstr "Login:"
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:35
-#, fuzzy
 msgid "tux"
 msgstr "tux"
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:36
-#, fuzzy
 msgid "Password : "
 msgstr "Mot de passe:"
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:37
-#, fuzzy
 msgid "*******"
 msgstr "*******"
 
@@ -55,15 +50,16 @@ msgid "cd repair&settings/"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:54
+#, fuzzy
 msgid "./hold_position.sh"
-msgstr ""
+msgstr "./tenir_position.sh"
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:56
+#, fuzzy
 msgid "Holding position."
-msgstr ""
+msgstr "Maintient de la position."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:57
-#, fuzzy
 msgid "script V 1.0.2 (c) gnu.org, 2054"
 msgstr "script V 1.0.2 (c) gnu.org, 2054"
 
@@ -73,33 +69,37 @@ msgid "Checking requirements..."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:59
+#, fuzzy
 msgid "Movement unit: Power-down... [Done]."
-msgstr ""
+msgstr "Unité de mouvement: coupure... [Fait]."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:60
+#, fuzzy
 msgid "Status: All movement suppressed."
-msgstr ""
+msgstr "Statut: tous les mouvements sont désactivés"
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:67
-#, fuzzy
 msgid "./follow_me.sh"
 msgstr " ./suis_moi.sh"
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:69
+#, fuzzy
 msgid "Initiating tracking sequence."
-msgstr ""
+msgstr "Début de la séquence de poursuite."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:70
+#, fuzzy
 msgid "Movement unit: Enabled."
-msgstr ""
+msgstr "Unité de mouvement: Activée."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:71
 msgid "Trying to keep up with "
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:72
+#, fuzzy
 msgid "Status: Following "
-msgstr ""
+msgstr "Statut: en train de suivre."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:79
 #, fuzzy
@@ -107,17 +107,18 @@ msgid "./move_freely.sh"
 msgstr " ./bouge_librement.sh"
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:81
+#, fuzzy
 msgid "Enable movement."
-msgstr ""
+msgstr "Activation du mouvement."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:82
-#, fuzzy
 msgid "script V 1.0.5 (c) gnu.org, 2054"
 msgstr "script V 1.0.5 (c) gnu.org, 2054"
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:84
+#, fuzzy
 msgid "Movement unit: Power-up... [Done]."
-msgstr ""
+msgstr "Unité de mouvement: Activation... [Fait]."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:85
 msgid "Resuming normal patrol operations... [Done]"
@@ -129,29 +130,24 @@ msgid "Status: Patrolling."
 msgstr "Statut: en patrouille"
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:93
-#, fuzzy
 msgid "./hcf.py"
 msgstr " ./hcf.py"
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:96
-#, fuzzy
 msgid "Are you really sure you want to destroy this robot? Y/N"
 msgstr "Êtes-vous sûr de vouloir détruire ce robot ? O/n"
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:102
-#, fuzzy
 msgid "Yes"
-msgstr "Oui."
+msgstr "Oui"
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:104
-#, fuzzy
 msgid "Destruction confirmed."
 msgstr "Destruction confirmée."
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:110
-#, fuzzy
 msgid "No"
-msgstr "Non."
+msgstr "Non"
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:112
 #, fuzzy
@@ -184,9 +180,8 @@ msgid "logout"
 msgstr " Déconnecter"
 
 #: /home/david/src/freedroid-translation/dialogs/StandardBotAfterTakeover.dialog:141
-#, fuzzy
 msgid "Closing remote connection..."
-msgstr "Fermeture de la connexion."
+msgstr "Fermeture de la connexion..."
 
 #~ msgid "Sure. I'll sign it."
 #~ msgstr " Certainement. Je le signerai."
