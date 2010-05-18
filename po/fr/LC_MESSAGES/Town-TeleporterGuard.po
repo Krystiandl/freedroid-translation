@@ -26,30 +26,30 @@ msgid ""
 "gate? My apologies, he lost his little sister in the Great Assault. He never "
 "got over it."
 msgstr ""
-"Ah, un nouvelle arrivant. Je suppose que vous avez t trait assez durement "
-"par mon ami  l'entre ? Mes excuses, il a perdu sa petite soeur dans le Grand "
-"Assaut. Il ne s'en ai jamais remis."
+"Ah, un nouvel arrivant. Je suppose que vous avez été traité assez durement "
+"par mon ami à l'entrée ? Toutes mes excuses, il a perdu sa petite sœur durant "
+"le Grand Assaut. Il ne s'en est jamais remis."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-TeleporterGuard.dialog:44
 msgid ""
 "So, stranger, welcome here. You might want to talk to Chandra or to Spencer, "
 "they can tell you a lot about our current situation."
 msgstr ""
-"Alors tranger, bienvenu ici. Vous voulez probablement parler  Chandra ou "
-"Spencer, ils peuvent vous dire beaucoup  propos de notre situation actuelle."
+"Alors étranger, bienvenue ici. Vous pouvez parler à Chandra ou Spencer, "
+"ils peuvent vous en dire beaucoup à propos de notre situation actuelle."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-TeleporterGuard.dialog:45
 msgid ""
 "The city is presently ruled by the Red Guard. We are the police and the "
 "soldiers here."
 msgstr ""
-"La ville est prsentement gouverne par la Garde Rouge. Nous somme la police "
+"La ville est présentement gouvernée par la Garde Rouge. Nous somme la police "
 "et les soldats ici."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-TeleporterGuard.dialog:46
 msgid "There is only one law concerning outsiders here: Don't be stupid."
 msgstr ""
-"Il n'y a qu'une seul loi concernant les trangers ici : Ne soyer pas stupide."
+"Il n'y a qu'une seule loi concernant les étrangers ici : Ne soyez pas stupide."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-TeleporterGuard.dialog:47
 msgid "I think that is enough of an introduction for now."
@@ -57,7 +57,7 @@ msgstr "Je pense que pour une introduction, cela suffit pour le moment."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-TeleporterGuard.dialog:52
 msgid "What are you doing here?"
-msgstr "Que faite vous ici ?"
+msgstr "Que faites vous ici ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Town-TeleporterGuard.dialog:54
 msgid "I'm on guard duty right now."
@@ -69,7 +69,7 @@ msgid ""
 "something big is about to happen."
 msgstr ""
 "Il n'y a pas eu d'attaques depuis un moment maintenant. C'est trop "
-"silencieux, je pense que quelque chose de gros est sur le point de se "
+"calme, je pense que quelque chose de gros est sur le point de se "
 "produire."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-TeleporterGuard.dialog:60
