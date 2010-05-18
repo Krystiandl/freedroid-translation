@@ -12,9 +12,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
-"X-Poedit-Language: French\n"
 "X-Poedit-Country: FRANCE\n"
 "X-Generator: Launchpad (build Unknown)\n"
+"X-Poedit-Language: French\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:40
 msgid "I've already opened the door for you. All you need to do is walk in there and crush all four bots."
@@ -30,7 +30,6 @@ msgid "But I can understand if you hesitate. The master arena is by no means an 
 msgstr "Mais je comprends que tu sois hésitant. L'arène principale n'est pas une épreuve facile. Peut-être tu que tu devrais t'entraîner un peu plus avant d'y descendre."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:66
-#, fuzzy
 msgid "Hi! I'm new here."
 msgstr " Bonjour ! Je suis nouveau ici."
 
@@ -56,7 +55,6 @@ msgid "Ha!"
 msgstr "Ha !"
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:82
-#, fuzzy
 msgid "I really mean it. I will kill you for that insult."
 msgstr " Je t'ai prévenu. Je te tuerai pour cet affront."
 
@@ -65,7 +63,6 @@ msgid "Go for it."
 msgstr "On y va."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:89
-#, fuzzy
 msgid "BANZAI! DIE DIE DIE!"
 msgstr " BANZAI ! MEURS MEURS MEURS !"
 
@@ -74,7 +71,6 @@ msgid "Wha --"
 msgstr "Ouah --"
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:98
-#, fuzzy
 msgid "And who are you?"
 msgstr " Et qui es-tu ?"
 
@@ -83,7 +79,6 @@ msgid "Butch... The arena master."
 msgstr "Butch... Le maître de l'arène."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:105
-#, fuzzy
 msgid "Arena? What arena?"
 msgstr " L'arène ? Quelle arène ?"
 
@@ -97,7 +92,6 @@ msgid "Wanna fight?"
 msgstr "Tu veux te battre ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:113
-#, fuzzy
 msgid "Yeah. I want to fight."
 msgstr " Ouais. Je veux combattre."
 
@@ -121,7 +115,6 @@ msgid "So even if the enemies are only holograms, they can still hurt you and ev
 msgstr "Bien que les ennemis soient des hologrammes, il peuvent toujours te faire mal et même te tuer."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:125
-#, fuzzy
 msgid "The bots are dead."
 msgstr " Les robots sont morts."
 
@@ -138,7 +131,6 @@ msgid "I will say a good word to Spencer about this."
 msgstr "Je placerai un bon mot à Spencer à propos de ça."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:135
-#, fuzzy
 msgid "I thought I was going to fight you, coward."
 msgstr " Je pensais que j'allais me battre contre toi, lâche."
 
@@ -159,7 +151,6 @@ msgid "There is nothing more to say, newbie."
 msgstr "Il n'y a rien de plus à dire, débutant."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:145
-#, fuzzy
 msgid "I want a bigger challenge."
 msgstr " Je veux un défi plus conséquent."
 
@@ -189,14 +180,13 @@ msgid "I pity you, silly bird. Don't go there."
 msgstr "J'ai pitié de toi, tête de piaf. Ne va pas là-bas."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:155
-#, fuzzy
 msgid "But if you really want it, the door is now open."
 msgstr "Mais si tu veux vraiment y aller, la porte est ouverte."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:163
 #, fuzzy
 msgid "The master arena is clear."
-msgstr " Le maître de l'arène est honnête."
+msgstr "Les bots de la seconde arène sont morts."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:165
 #, fuzzy
@@ -265,7 +255,6 @@ msgid "Hey, the bots bleed black. With oil."
 msgstr "Hé, les robots pissent du noir. Avec de l'huile."
 
 #: /home/david/src/freedroid-translation/dialogs/Butch.dialog:207
-#, fuzzy
 msgid "But... But..."
 msgstr " Mais... Mais... "
 
