@@ -18,7 +18,7 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:38
 msgid "Greetings fellow Red Guard member."
-msgstr ""
+msgstr "Salutations compagnon de la Garde rouge."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:51
 #, fuzzy
