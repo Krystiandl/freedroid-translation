@@ -12,9 +12,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
+"X-Poedit-Language: French\n"
 "X-Poedit-Country: FRANCE\n"
 "X-Generator: Launchpad (build Unknown)\n"
-"X-Poedit-Language: French\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:38
 msgid "Greetings fellow Red Guard member."
@@ -295,18 +295,16 @@ msgid "However, we lost contact with them shortly after they went inside. They a
 msgstr "Cependant, nous avons perdu contact avec eux peu après leur entrée. Ils nous ont indiqué une forte concentration de robots."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:225
-#, fuzzy
 msgid "I'd be glad if you could take a look. But use the utmost care. We can't afford to lose another guard."
-msgstr "Ça serait bien que tu y jettes un oeil. Mais soit extrêmement prudent. Nous ne pouvons pas nous permettre de perdre un autre garde."
+msgstr "Je serai très heureux que tu y jettes un oeil. Mais soit extrêmement prudent. Nous ne pouvons pas nous permettre de perdre un autre garde."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:230
 msgid "OK. I'll be careful. But I'll do it."
 msgstr " D'accord, je ferai attention. Mais je le ferai."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:232
-#, fuzzy
 msgid "Good. The base entrance is somewhat hidden in the caves to the northeast. Best to use the north gate out of town, then head east, and turn north again along the shore."
-msgstr "Bien. L'entrée de la base est cachée quelque part dans les grottes du nord-ouest. Prends la sortie nord de la ville, et dirige toi vers l'ouest."
+msgstr "Bien. L'entrée de la base est cachée quelque part dans les grottes du nord-ouest. C'est une meilleur idée d'utiliser la sortie nord de la ville, puis de se tourner vers l'ouest, enfin de tourner au nord encore le long de la bordure."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:233
 msgid "I wish you the best of luck for this operation. It might be that our survival depends on it. Don't wait for assistance."
@@ -317,7 +315,6 @@ msgid "Try to get control over the disruptor shield if you can. The control droi
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:241
-#, fuzzy
 msgid "I don't feel like doing it now. I'd rather prepare some more."
 msgstr " Je ne me sens pas de le faire tout de suite. Je préfère continuer â  me préparer."
 
@@ -326,9 +323,8 @@ msgid "Good. You should be well prepared if you intend to go."
 msgstr "Bien. Si tu as vraiment l'intention d'y aller, tu ferais mieux d'être bien préparé."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:244
-#, fuzzy
 msgid "Also there is no need to hurry with this. After all, the installation is not running away, so it's best to take a cautious approach."
-msgstr "Par ailleurs, il est inutile de se presser. Après tout, l'installation ne va pas s'enfuir en courant, donc privilégie une approche lente."
+msgstr "Par ailleurs, il est inutile de se presser. Après tout, l'installation ne va pas s'enfuir en courant, donc privilégie une approche prudente."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:249
 msgid "It's done. Your soldiers were killed, but I managed to have a word with the shield control droid. The access to the bot factory is now open."
