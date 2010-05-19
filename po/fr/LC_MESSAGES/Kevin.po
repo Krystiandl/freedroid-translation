@@ -81,9 +81,8 @@ msgid "Now, if you go down there and make the power flow stable, then I'll find 
 msgstr "Alors, si tu descends là-bas et que tu stabilises le flux d'énergie, j'aurais le temps de t'apprendre quelques trucs."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:90
-#, fuzzy
 msgid "I can teach you everything. For three hundred, up front. Still interested?"
-msgstr "Je peux t'apprendre tout ce que tu veux, pour trois cents circuits. Qu'en dis-tu ?"
+msgstr "Je peux t'apprendre tout ce que tu veux, pour trois cents tribucks. Qu'en dis-tu ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:92
 msgid "Sorry, don't have that much money right now."
