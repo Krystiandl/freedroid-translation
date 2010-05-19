@@ -12,16 +12,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
-"X-Poedit-Language: French\n"
 "X-Poedit-Country: FRANCE\n"
 "X-Generator: Launchpad (build Unknown)\n"
+"X-Poedit-Language: French\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:38
 msgid "Greetings fellow Red Guard member."
 msgstr "Salutations compagnon de la Garde rouge."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:51
-#, fuzzy
 msgid "Hi! I'm new here."
 msgstr " Bonjour ! Je suis nouveau ici."
 
@@ -30,7 +29,6 @@ msgid "I'm Spencer. I'm the leader of the Red Guard. Is there anything I can hel
 msgstr "Mon nom est Spencer. Je suis le chef de la Garde rouge. En quoi puis-je t'aider ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:58
-#, fuzzy
 msgid "I want to join the Red Guard."
 msgstr " Je veux faire partie de la Garde rouge."
 
@@ -43,12 +41,10 @@ msgid "You must prove that you would make a good new member."
 msgstr "Tu dois d'abord prouver que tu pourras faire un bon élément au sein de la Garde."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:66
-#, fuzzy
 msgid "I really want to become a member."
-msgstr " J'ai vraiment envie de devenir un membre de la Garde rouge."
+msgstr " J'ai vraiment envie de devenir un membre de la Garde Rouge."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:68
-#, fuzzy
 msgid "This is not so easy. First you must establish a reputation around here. Ask around, talk to people and build your reputation."
 msgstr "Ce n'est pas si facile que ça. Tout d'abord tu dois te construire une réputation dans les parages. Pour cela, tu dois parler, poser des questions aux gens des alentours."
 
@@ -57,34 +53,34 @@ msgid "Once you're a known character around here, we might let you join the rank
 msgstr "Quand tu seras quelqu'un de connu, nous te laisserons peut-être rejoindre les rangs de la Garde."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:74
-#, fuzzy
 msgid "How about some circuits instead?"
 msgstr " Et si je te payais ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:76
 #, fuzzy
 msgid "For 15 million circuits, no less, hehe."
-msgstr "Pour 15 millions de dollars, pas moins, hé hé"
+msgstr "Pour 15 millions de circuits, pas moins, hé hé"
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:82
 #, fuzzy
 msgid "But I don't have that many circuits!"
-msgstr " Je n'ai pas de secret."
+msgstr "Mais je n'en ai pas autant !"
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:84
 msgid "That much I can tell."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:85
+#, fuzzy
 msgid "Look, I'm just fooling around. We don't let just anyone join the Red Guard."
-msgstr ""
+msgstr "Écoute, c'était une blague. On ne laisse pas n'importe qui entrer dans la Garde Rouge."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:86
+#, fuzzy
 msgid "If you seriously want to join, you have to prove yourself first. You might want to ask around town for things you can do."
-msgstr ""
+msgstr "Si tu veux vraiment nous joindre, tu dois d'abord prouver que tu en es digne. Tu peux aller demander aux gens aux alentours ce que tu peux faire."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:92
-#, fuzzy
 msgid "Maybe I could help somehow?"
 msgstr " Peut être puis-je t'aider d'une quelconque façon ?"
 
@@ -97,7 +93,6 @@ msgid "But since you are said to be powerful and a former hero, I'll once more p
 msgstr "Mais étant donné qu'on dit de toi que tu es puissant et que tu as été, dans le passé, un héros, je vais encore une fois faire confiance à un inconnu."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:96
-#, fuzzy
 msgid "I've unlocked the access-way to the warehouse. It's to the north of this town, somewhat hidden in the woods northeast."
 msgstr "J'ai déverrouillé la voie d'accès vers le hangar. C'est au nord de la ville, caché quelque part dans les bois du nord-est."
 
@@ -110,7 +105,6 @@ msgid "I wish you the best of luck."
 msgstr "Je te souhaite bonne chance."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:105
-#, fuzzy
 msgid "How is it going?"
 msgstr " Comment ça va ?"
 
@@ -129,7 +123,7 @@ msgstr "Eh mec, t'as vraiment réussi ! J'ai du mal à y croire, mais tous les r
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:114
 #, fuzzy
 msgid "Take these 500 circuits as a reward. And be assured that you've earned my deepest respect, Linarian."
-msgstr "Tiens, prends ces 500 billets en guise de récompense. Crois bien que tu as mérité mon plus profond respect, Linarien."
+msgstr "Tiens, prends ces 500 circuits en guise de récompense. Crois bien que tu as mérité mon plus profond respect, Linarien."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:115
 msgid "Our people are transporting the goods as we speak. It can't be too long until new bots from ships in the orbit of the planet will beam down to replace the dead bots."
@@ -151,7 +145,7 @@ msgstr "Nous sommes dans une période trouble. À cause des vaisseaux robots, il
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:126
 #, fuzzy
 msgid "We've got a list of stuff we need from the automated underground storage north of town. But the bots there are numerous."
-msgstr "Il y a une série d'objets qui se trouvent dans le hangar souterrain automatisé, au nord de la ville, dont nous avons besoin. Mais les robots y sont nombreux."
+msgstr "Il y a une série d'objets dont nous avons besoin qui se trouvent dans le hangar souterrain automatisé, au nord de la ville. Mais les robots y sont nombreux."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:127
 #, fuzzy
@@ -159,7 +153,6 @@ msgid "And currently I can't spare a single man from the city defenses. It's qui
 msgstr "Et actuellement, je ne peux pas me permettre de perdre un seul homme posté à un poste de défense, au frontières de la ville. C'est une situation assez difficile."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:133
-#, fuzzy
 msgid "Have I done enough quests to become a member now?"
 msgstr " Ai-je réussi suffisamment de quêtes pour devenir un membre de la Garde ?"
 
@@ -171,17 +164,14 @@ msgstr "Je crois que notre préposé au téléporteur, Dixon, a un problème. Tu
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:139
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:146
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:153
-#, fuzzy
 msgid "Dixon has his toolkit back."
 msgstr "Dixon a récupéré sa boîte à outils."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:140
-#, fuzzy
 msgid "He was in bad mood and told me he had to pay you for getting his own property back."
 msgstr "Il était de mauvaise humeur et m'a dit qu'il avait du te payer pour récupérer son bien."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:141
-#, fuzzy
 msgid "I think it is the best for him if we leave him alone the next days."
 msgstr "Je pense que c'est mieux pour lui de le laisser seul quelques jours."
 
@@ -190,16 +180,15 @@ msgid "I'm sure he has to do a lot now."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:147
-#, fuzzy
 msgid "He seemed quite aggressive and stressed."
 msgstr "Il avait l'air assez agressif et stressé."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:148
+#, fuzzy
 msgid "Poor guy, if we weren't in such a bad situation, he could have some work-free days, but bot attacks continue all the time."
-msgstr ""
+msgstr "Pauvre gars, s'il n'était pas dans une si mauvaise situation, il aurait pu prendre quelques jours de congés, mais les attaques de robots continuent tout le temps."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:149
-#, fuzzy
 msgid "You better don't bother him the next days."
 msgstr "Tu ferais mieux de le laisser tranquille les prochains jours."
 
@@ -306,7 +295,6 @@ msgid "This seems like a gift sent from the heavens. Cleaning the Hell Fortress 
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:220
-#, fuzzy
 msgid "I'd like to participate in this operation."
 msgstr " J'aimerais participer à cette opération."
 
@@ -328,7 +316,6 @@ msgid "I'd be glad if you could take a look. But use the utmost care. We can't a
 msgstr "Ça serait bien que tu y jettes un oeil. Mais soit extrêmement prudent. Nous ne pouvons pas nous permettre de perdre un autre garde."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:230
-#, fuzzy
 msgid "OK. I'll be careful. But I'll do it."
 msgstr " D'accord, je ferai attention. Mais je le ferai."
 
