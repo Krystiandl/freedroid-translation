@@ -18,7 +18,7 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:35
 msgid "Who are you?"
-msgstr " Qui es tu ?"
+msgstr " Qui êtes vous ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:37
 msgid "I am a 614 security bot, once one of the best-selling products of Nicholson, Inc.."
@@ -26,12 +26,11 @@ msgstr "Je suis un robot de sécurité de type 614, un des produits les plus ven
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:41
 msgid "What can you tell me about the Nicholson company?"
-msgstr "Qu'as tu à me dire sur la compagnie Nicholson ?"
+msgstr " Peux-tu m'apprendre quelque chose à propos  la compagnie Nicholson ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:43
-#, fuzzy
 msgid "Nicholson, Inc. produces security bots."
-msgstr "Nicholson produit des robots pour la sécurité."
+msgstr "Nicholson, Inc produit des robots de sécurité."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:44
 #, fuzzy
@@ -40,15 +39,15 @@ msgstr "Elle a été fondé par Karl Nicholson, un ancien Kernel Hacker que n'é
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:45
 msgid "Nicholson decided to stick to one GPL version because he saw things getting worse."
-msgstr ""
+msgstr "Nicholson a décidé de coller à une version unique de la GPL, parce qu'il a vu que les choses devenaient pires."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:46
 msgid "Others were warned, but nobody listened to Nicholsons announcements."
-msgstr ""
+msgstr "Les autres étaient avertis, mais personne n'a écouté les avertissements de Nicholson."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:47
 msgid "He built up a team and developed an own Kernel called 'Nkernel'."
-msgstr ""
+msgstr "Il a construit une équipe et a développé son propre noyau, appelé « Nkernel » ."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:48
 msgid "The Nkernel development team grew fast and technicians started to produce their own droids optimized for the Nkernel."
