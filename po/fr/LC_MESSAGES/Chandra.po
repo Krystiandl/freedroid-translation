@@ -12,9 +12,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
-"X-Poedit-Language: French\n"
 "X-Poedit-Country: FRANCE\n"
 "X-Generator: Launchpad (build Unknown)\n"
+"X-Poedit-Language: French\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:41
 msgid "Hi! I'm new here."
@@ -34,7 +34,7 @@ msgstr "Cette petite ville était autrefois une prospère communauté minière, 
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:51
 msgid "The mines have depleted recently, however. The town was under a threat of bankruptcy. Living here became harder and many left to seek new opportunities elsewhere."
-msgstr ""
+msgstr "Les mines se sont appauvries récemment, cependant. La ville était sous une menace de banqueroute. Vivre ici devenait beaucoup plus difficile, et un grand nombre sont partis pour chercher ailleur de nouvelles opportunités."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:52
 msgid "But now after the Great Assault, the rest of the planet gets bombarded by automated bot ships every now and then, so being down here isn't so bad at all."
@@ -42,7 +42,7 @@ msgstr "Mais depuis le Grand Assaut, le reste de la planète subit des bombardem
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:53
 msgid "Even with the Red Guard in charge, I suppose."
-msgstr ""
+msgstr "Même avec la garde rouge en charge, je suppose."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:58
 msgid "Where can I get better equipment?"
@@ -54,7 +54,7 @@ msgstr "Le magasin est vers le nord. Mlle Stone a toujours un bon choix d'équip
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:61
 msgid "Not that you have much choice."
-msgstr ""
+msgstr "Ce n'est pas comme si tu avais beaucoup de possibilités."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:62
 msgid "Of course, the Red Guard always has the biggest guns and the best armor, but they do not sell them to non-members."
@@ -109,17 +109,14 @@ msgid "What do you know about the hostile bots?"
 msgstr " Que sais-tu à propos des robots hostiles ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:85
-#, fuzzy
 msgid "The phenomenon of hostile bots has occupied my mind for quite some time. There are some strange irrationalities in this behaviour, that I cannot explain."
-msgstr "Le phénomène des robots hostiles a occupé mon esprit pendant beaucoup de temps. Il y a quelque chose d'étrange dans ce comportement, que je ne parviens pas à expliquer."
+msgstr "Le phénomène des robots agressifs m'a préoccupé pendant beaucoup de temps. Il y a quelque chose d'étrange dans ce comportement, que je ne parviens pas à expliquer."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:86
-#, fuzzy
 msgid "This concerns not only the suddenness of the attack but also the methods and the scale of it all."
-msgstr "Cela ne concerne pas seulement l'irrationalité des attaques mais également les méthodes et le niveau de tout cela."
+msgstr "Cela ne concerne pas seulement l'irrationalité des attaques mais également les méthodes et l'échelle de ce comportement."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:91
-#, fuzzy
 msgid "What types of bots are out there?"
 msgstr " Quel genre de robot y a-t-il à l'extérieur ?"
 
@@ -133,15 +130,15 @@ msgstr "J'en sais un peu à propos de trois classes."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:95
 msgid "The 100s are cleaning bots of old. Being that, they are quite common. Fortunately for us they aren't as good at killing things as they are at cleaning up the mess afterwards."
-msgstr ""
+msgstr "Les types 100 sont des robots de nettoyage pour retraités. Heureusement pour nous, ils ne sont pas aussi bon au meurtre qu'ils ne le sont pour nettoyer la cantine."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:96
 msgid "The 200s are servant bots, designed to come quickly when summoned and be able to lift heavy weights. That makes them more dangerous under most circumstances, so beware of being attacked by more than one at the same time."
-msgstr ""
+msgstr "Les types 200 sont des robots de service, conçus pour venir rapidement lorsqu'ils sont convoqués et pour être capable de soulever des poids élevés. Cela les rends plus dangereux dans la plupart des circonstances, donc fais attention aux attaques simultanées."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:97
 msgid "Right now, an encounter with a 300 type bot equals death, so try to avoid it. They were messenger bots before the Great Assault, which means they have superb visual sensors and some are very fast."
-msgstr ""
+msgstr "À partir de maintenant, une rencontre avec un robot de type 300 équivaut à la mort, donc essaie de l'éviter. Ils étaient des robots messagers avant le Grand Assaut, ce qui signifie qu'ils ont de superbes senseurs visuels et sont également très rapides."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:98
 msgid "There are many more classes out there. The military used bots, of course, and they were used on ships, but I know nothing about those types."
@@ -185,87 +182,79 @@ msgstr "Je serai continuellement battu par les robots. Qu'est-ce que je peux fai
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:123
 msgid "There are many things you can do. The first is to fight more bots."
-msgstr ""
+msgstr "Il y a de nombreuses choses que tu peux faire. La première est de combattre plus de robots."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:124
 msgid "Er... Wouldn't that cause me to get beaten up more and therefore be counter-productive?"
-msgstr ""
+msgstr "Est-ce que je ne risque pas d'être vaincu davantage, et de devenir ainsi contre-productif ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:125
 msgid "Your logic is infallible, Linarian, but you are forgetting one thing: the more you fight, the more experienced you become, and the better at surviving you get."
-msgstr ""
+msgstr "Ta logique est infaillible, mais tu oublies une chose. Plus tu combats, plus tu es expérimenté, et mieux tu apprends à survivre."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:126
 msgid "Also, if you have the money and can find a supplier, it is wise to invest in better equipment - more protective clothing and better weaponry."
-msgstr ""
+msgstr "De plus, si tu as de l'argent et que tu peux trouver un fournisseur, c'est une bonne idée d'investir dans un équipement de meilleur qualité − des vêtements plus protecteurs et un armement plus puissant."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:127
-#, fuzzy
 msgid "My advice is to invest in a ranged weapon. While that can create a huge hole in your wallet, it also creates several in the bots, and is better than a huge hole in you."
-msgstr "Mon conseil est d'investir dans un ratelier d'armes. Bien que ça puisse créer un trou béant dans ton mur, c'est mieux qu'un trou béant dans toi."
+msgstr "Mon conseil est d'investir dans un ratelier d'armes. Bien que ça puisse créer un trou béant dans ton portefeuille, ça va aussi en faire plusieurs dans les robots. C'est mieux qu'un trou dans toi."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:128
 msgid "Currently there is a ban on selling such things. The Red Guard wants to be the only ones with good weapons."
 msgstr "Actuellement, il y a un embargo sur la vente de certaines choses. La Garde Rouge veut garder le monopole de l'armement efficace."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:129
-#, fuzzy
 msgid "Should you fail to find something decent to shoot or swing with, there are always other options."
-msgstr "Tu devrais avoir du mal à trouver quelque chose de décent pour tirer, mais il y a d'autres options."
+msgstr "Si jamais tu échouais à trouver quelque chose de décent à tirer ou à lancer, il y a toujours d'autres options."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:130
 msgid "Ewald, the barkeeper, usually sells an assortment of junk, but even he sometimes has something worthwhile on display."
-msgstr ""
+msgstr "Ewald, le tenancier, vend habituellement un assortiment de drogues, mais il a parfois quelque chose de valable en magasin."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:131
-#, fuzzy
 msgid "There was a person selling grenades, too. Eh... I forgot his name, my memory is not serving me very well today. He's a very mysterious fellow. Perhaps he can help you."
-msgstr "Il y avait une personne qui vendait des grenades aussi. Euh... J'ai oublié son nom, la mémoire me fait défaut aujourd'hui. Je suis certain qu'il peut t'aider."
+msgstr "Il y avait une personne qui vendait des grenades aussi. Euh... J'ai oublié son nom, la mémoire me fait défaut aujourd'hui. C'est une personne très mystérieuse. Peut être peut-il t'aider."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:132
 msgid "Other than that, you are on your own."
 msgstr "Autrement, tu es livré à toi-même."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:137
-#, fuzzy
 msgid "Do you think I could join the guardians of this town?"
 msgstr " Est-ce que tu penses que je pourrais rejoindre les gardiens de cette ville ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:139
-#, fuzzy
 msgid "The Red Guard? Unlikely. You'd have to establish a reputation beforehand, and demonstrate that you can fix things."
 msgstr "La Garde Rouge ? Improbable. Tu devras te faire une réputation avant et montrer que tu peux réparer les objets."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:140
-#, fuzzy
 msgid "Also, the Red Guard is not a very popular organization, so if you do join them then you can expect to be hated by nearly everyone here."
-msgstr "Naturellement, la Garde Rouge n'est pas une organisation très populaire, donc si tu les rejoins, tu devras t'attendre à ce que certaines personnes te haïssent."
+msgstr "Naturellement, la Garde Rouge n'est pas une organisation très populaire, donc si tu les rejoins, tu devras t'attendre à être haï par certaines personnes du voisinage."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:141
 msgid "As the ancients said, 'Boni pastoris est tondere pecus, non deglubere'. A good tax must be a reasonable tax."
 msgstr "Comme les anciens le disaient, 'Boni pastoris est tondere pecus, non deglubere'. Une bonne taxe doit être une taxe raisonnable."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:146
-#, fuzzy
 msgid "What bots are in the 100 class?"
 msgstr " Comment sont les robots dans la classe des 100 ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:148
 msgid "I know of two types, the 123 and the 139. The former is a simple cleaning bot, and is fairly weak. The latter is a mobile trash compactor. Don't get your flippers get caught in one of those."
-msgstr ""
+msgstr "Je connais deux types de robots, le 123 et le 139. Le premier est un simple robot de nettoyage, et il est vraiment faible. Le second est un compacteur à ordure mobile. Ne laisse pas tes ailes se faire happer par un de ceux-là."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:149
 msgid "I've seen some of those on my way here. They were... Shooting at me."
-msgstr ""
+msgstr "J'en ai vu quelques un sur mon chemin. Ils étaient… en train de me tirer dessus."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:150
 msgid "Many strange things have happened since the Great Assault."
-msgstr ""
+msgstr "De nombreuses étranges choses se sont passées depuis le Grand Assaut."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:151
-#, fuzzy
 msgid "Any way, because the class 100 bots are neither fast nor dangerous, the Red Guard often uses them for target practice."
-msgstr "Parce qu'ils sont aussi rapides qu'inoffensifs, la Garde Rouge les utilise comme cibles d'entraînement."
+msgstr "De toutes façon, les robots de la classe 100 ne sont ni rapides, ni dangereux, ce qui fait que la garde rouge les utilise comme cible d'entraînement."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:152
 msgid "If I were you, I would not overestimate them. "
@@ -276,62 +265,58 @@ msgid "Nec Hercules contra plures."
 msgstr "Nec Hercules contra plures."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:158
-#, fuzzy
 msgid "What bots are in the 200 class?"
-msgstr " Quels sont les robots de classe 200 ?"
+msgstr " Quels sont les robots dans la classe 200 ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:160
 msgid "In fitting with the lazy nature of humans, there are several servant bots of the 200 class."
-msgstr ""
+msgstr "En accord avec la tendance à la paresse des êtres humains, il y a plusieurs robots serviteurs dans la classe 200."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:161
 msgid "The 247 is often called the 'Banshee'. Being a simple servant robot, it isn't very well equipped to kill, although its arms are quite strong."
-msgstr ""
+msgstr "Le 247 est souvent appelé la « Banshee ». Étant un simple robot domestique, il n'est pas très bien équipé pour tuer, bien que ses bras sont vraiment forts."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:162
 msgid "Also, as I said, the 200s were built to report quickly. The 247 is no exception, and moves faster than some of us can run. As a killer bot, it has a fast rate of attack. It is not something to be trifled with."
-msgstr ""
+msgstr "De plus, comme je l'ai dit, les robots de la classe 200 étaient construit pour apporter rapidement. Le 247 ne fait pas exception, et bouge plus vite que la plupart d'entre nous ne peuvent courir. Comme un robot assassin, il a un taux d'attaque élevé. Ce n'est pas quelque chose à négliger."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:163
 msgid "The 249 is a cheaper version of the Banshee. It uses a tripedal drive instead of anti-gravity propulsion, and is therefore slower. However it is much more dangerous: its machine gun has a very high rate of fire."
-msgstr ""
+msgstr "Le 249 est une version plus économe de la « Banshee ». Il utilise un propulseur tri-pédale au lieu de la propulsion à anti-gravité, et est ainsi plus lent. Malgré cela, il est beaucoup plus dangereux : sa mitraillette a une cadence très élevée."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:164
 msgid "Machine gun?! But... But it's a servant bot!"
-msgstr ""
+msgstr "Mitraillette ?! Mais… Mais c'est un robot de service.."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:165
 msgid "I know, "
-msgstr ""
+msgstr "Je sais,"
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:166
 msgid "Let's see... Oh, there is also the 296, which was used for serving drinks. Ewald once had one of those in his bar."
-msgstr ""
+msgstr "Voyons voir… Oh, il y a également le 296, qui a été utilisé pour le service de boissons. Ewald en avait un dans son bar."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:167
-#, fuzzy
 msgid "Once? What happened to it?"
-msgstr " Qu'est-ce qui s'est passé après ?"
+msgstr " Un exemplaire ? Qu'est-ce qui lui est arrivé ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:168
 msgid "No one knows. One day it simply wasn't there. Ewald probably remembers more than I do, though."
-msgstr ""
+msgstr "Personne ne le sait. Un jour il n'était simplement plus là. Ewald se rappelle probablement mieux."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:174
-#, fuzzy
 msgid "What other bots are out there?"
-msgstr " Comment sont les autres robots ?"
+msgstr "Quels sont les autres types de robot à l'extérieur ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:176
 msgid "Though I do not know the details, I assure you there are many. Robots and automated machinery served almost every purpose you can imagine, and probably some that you can't."
-msgstr ""
+msgstr "Bien que je ne connaisse pas les détails, je t'assure qu'ils sont nombreux. Les robots et les automates ont servi pour la plupart des usages que tu peux imaginer, et probablement pour d'autres que tu ne peux pas."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:177
 msgid "They were used by the military, aboard ships, as security droids and more. Right now, however, most of the people who know them up close are pushing up daisies."
-msgstr ""
+msgstr "Ils étaient utilisés par les militaires, à bord des bateaux, comme des droïdes de sécurité, et d'autres. À l'heure où je te parle, la plupart des gens qui les ont connus de près sont recouverts par les paquerettes.."
 
 #: /home/david/src/freedroid-translation/dialogs/Chandra.dialog:182
-#, fuzzy
 msgid "Thank you for your wise words."
 msgstr " Merci pour tes paroles avisées."
 
