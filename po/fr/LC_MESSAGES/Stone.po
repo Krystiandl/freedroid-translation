@@ -93,9 +93,8 @@ msgid "If things are so bad right now, why --"
 msgstr " Si tout va si mal, pourquoi --"
 
 #: /home/david/src/freedroid-translation/dialogs/Stone.dialog:97
-#, fuzzy
 msgid "I don't want to hear this jabberwocky."
-msgstr "Je ne veux pas entendre ce genre d'excuses couardes. "
+msgstr "Je ne veux pas entendre ce genre d'excuses."
 
 #: /home/david/src/freedroid-translation/dialogs/Stone.dialog:98
 msgid "A hint, Linarian: We don't have much, but we're alive and we'd rather stay that way."
@@ -150,9 +149,8 @@ msgid "Maybe there is still hope, Ms. Stone. How much exactly do you need?"
 msgstr " Il est possible qu'il y ait de l'espoir, Mlle Stone. De combien avez vous besoin exactement ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Stone.dialog:129
-#, fuzzy
 msgid "I couldn't get myself to look at my finance logs for a while now. I guess about two thousand triangles."
-msgstr "Je ne peux pas aller voir ce qu'il me reste maintenant, mais je dirais environ 2000."
+msgstr "Je ne peux pas aller voir ce qu'il me reste maintenant, mais je dirais environ 2000 tribucks."
 
 #: /home/david/src/freedroid-translation/dialogs/Stone.dialog:137
 msgid "A pity that nothing can be done about your store."
@@ -183,14 +181,12 @@ msgid "But this isn't fair to you. The Stones are a family of fair merchants and
 msgstr "Mais c'est injuste pour toi. Les Stones sont une famille de marchands honorable et je n'ai pas l'intention de changer la tradition."
 
 #: /home/david/src/freedroid-translation/dialogs/Stone.dialog:150
-#, fuzzy
 msgid "I need 1,547 bucks to get through the month. I will accept only that and not a cent more."
-msgstr "J'ai besoin de  1547 dollars pour ce mois. J'accepte cette somme exactement et pas un centime de plus. Le compte est bon. Merci."
+msgstr "J'ai besoin de 1547 tribucks pour ce mois. Je ne te prends que la somme exacte, pas un centime de plus. Le compte est bon. Merci."
 
 #: /home/david/src/freedroid-translation/dialogs/Stone.dialog:152
-#, fuzzy
 msgid "Now it's fair. Thank you."
-msgstr "Bender va bien maintenant. Merci."
+msgstr "Maintenant, c'est bon. Merci."
 
 #: /home/david/src/freedroid-translation/dialogs/Stone.dialog:153
 msgid "You've given me a bit of hope.. "
@@ -201,27 +197,24 @@ msgid "Wait a second... I think I recognize you..."
 msgstr "Attends une seconde... Je te reconnais..."
 
 #: /home/david/src/freedroid-translation/dialogs/Stone.dialog:155
-#, fuzzy
 msgid "You are "
-msgstr " Qui êtes vous ?"
+msgstr "Tu es"
 
 #: /home/david/src/freedroid-translation/dialogs/Stone.dialog:156
 msgid "The hero..."
 msgstr "Le héros..."
 
 #: /home/david/src/freedroid-translation/dialogs/Stone.dialog:160
-#, fuzzy
 msgid "Hold on a minute, you are still a bit short on money."
-msgstr "Attends un peu, tu n'as pas assez d'argent"
+msgstr "Attends un peu, tu es encore un peu court sur l'argent."
 
 #: /home/david/src/freedroid-translation/dialogs/Stone.dialog:161
-#, fuzzy
 msgid "Please return with the full amount if you want to help."
-msgstr "Reviens avec le montant complet si tu veux de l'aide."
+msgstr "Reviens avec le montant exact si tu veux de l'aide."
 
 #: /home/david/src/freedroid-translation/dialogs/Stone.dialog:162
 msgid "Otherwise you're throwing good money after bad, and I couldn't let you do that."
-msgstr ""
+msgstr "Autrement, tu mets du bon argent dans une mauvaise cause, et je ne peux pas te laisser faire ça."
 
 #: /home/david/src/freedroid-translation/dialogs/Stone.dialog:168
 msgid "Yes, its me."
