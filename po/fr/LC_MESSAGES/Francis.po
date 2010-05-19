@@ -12,9 +12,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
-"X-Poedit-Language: French\n"
 "X-Poedit-Country: FRANCE\n"
 "X-Generator: Launchpad (build Unknown)\n"
+"X-Poedit-Language: French\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:39
 msgid "Oh, thank heavens! You are still alive. Maybe all hope is not lost."
@@ -117,9 +117,8 @@ msgid "The locals call this place the popsicle storage, because of all the peopl
 msgstr "Le nom local de cette place est popsicle storage, à cause de tous les gens fixés ici, en sommeil cryogénique. Tous étaient congelés avant le Grand Assaut."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:85
-#, fuzzy
 msgid "This facility is located not too far away from a mining town where we have made a stand against the damn contraptions. However, I'm alone here with only 1 droid for security."
-msgstr "Les indigènes nomment cet endroit le Temple de Bois. Nous sommes non loin d'une ville minière où nous avions manifesté contre ces satanées machines."
+msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:86
 msgid "There are just too few humans alive and awake to allow us to properly protect this place, and nobody else is foolish enough to stay out here alone."
@@ -178,7 +177,6 @@ msgid "Sorry, star sciences are my weak point. Maybe someone in the town might k
 msgstr "Désolé, mes compétences en sciences astronomiques ont atteint leurs limites. Peut être que quelqu'un en ville pourrait en savoir plus."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:114
-#, fuzzy
 msgid "Who are you? What is going on?"
 msgstr " Qui êtes-vous ? Que se passe-t-il ?"
 
@@ -219,18 +217,16 @@ msgid "Tell me more about the town you mentioned."
 msgstr "Pouvez-vous m'en dire plus à propos de la ville que vous avez mentionnée ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:135
-#, fuzzy
 msgid "It is a small mining community of no more than 500 inhabitants..."
-msgstr "C'est une petite communauté minière de pas plus de 500 habitants..."
+msgstr "C'est une petite communauté minière qui ne compte pas plus de 500 habitants."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:136
 msgid "It was a stroke of luck that it did not get destroyed by the bots. Because of poor funding, the city could not afford new models."
 msgstr "Ça a été un coup de chance qu'elle n'ait pas été détruite par les robots La ville était trop pauvre pour s'offrir de nouveaux modèles."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:137
-#, fuzzy
 msgid "All they had at the time of the bot attack were the 614 battle bot platforms. They were running an old operating system and were not affected by whatever caused the other bots to go crazy."
-msgstr "Tout ce qu'ils avaient au moment de l'attaque robot était la plate-forme de combat modèle 614. Ils fonctionnent sur un vieux système d'exploitation et n'ont pas été affectés par ce qui a rendu les autres robots fous."
+msgstr "Tout ce qu'ils avaient au moment de l'attaque robot était la plate-forme de combat des modèles 614. Ils fonctionnent sur un vieux système d'exploitation et n'étaient pas affectés par ce qui a rendu les autres robots fous."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:138
 msgid "Right now the place is protected by the Red Guard, a bunch of volunteers. I cannot say I agree with their methods."
@@ -241,7 +237,6 @@ msgid "However, I must admit that being a prisoner of a walled town looks pretty
 msgstr "Néanmoins, je dois admettre qu'être prisonnier des murailles de la ville est bien plus sympathique que l'alternative d'être éviscéré vivant."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:144
-#, fuzzy
 msgid "Why did the bots attack?"
 msgstr " Pourquoi est-ce que les robots ont attaqué ?"
 
@@ -258,14 +253,12 @@ msgid "Not surprisingly, the bastards deny everything."
 msgstr "Mais comme on peut s'y attendre, les salauds nient tout en bloc."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:149
-#, fuzzy
 msgid "Of course, because nearly every single bot in the world runs on that junk, the situation does not look pretty."
 msgstr "Naturellement parce que presque tous les robots du monde fonctionnent avec ce bidule, la situation ne paraît pas excellente."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:154
-#, fuzzy
 msgid "I also heard a voice... Someone calling himself Dvorak... "
-msgstr " J'entendais également une voix... Quelqu'un s'appelant  Dvorak... "
+msgstr "J'entendais également une voix... Quelqu'un s'appelant  Dvorak... "
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:156
 msgid "Relax. Everything will be fine in a few hours."
@@ -292,37 +285,35 @@ msgid "And an even bigger problem would be to feed everyone. Our food resources 
 msgstr "Et un problème supplémentaire serait de nourrir tous ces gens. Nos ressources en nourriture sont vraiment maigres. Pour le moment, ils sont mieux en hibernation."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:171
-#, fuzzy
 msgid "Can you tell me how to get to town?"
-msgstr " Pourrais tu m'apprendre à me battre ?"
+msgstr " Peux tu me dire comment me rendre en ville ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:173
 msgid "Sure. You just need to follow the road outside to the east. After the bridge, turn right and continue to follow the road and you will soon be outside of the town main gate."
-msgstr ""
+msgstr "Bien sûr. Tu as juste besoin de suivre la route à l'extérieur vers l'est. Après le pont, tourne à droite et continue pour suivre la route, tu seras bientôt devant les portes principales de la ville."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:174
 msgid "If you run across too many bots, you can try to circle around them. But avoid getting too far off the road, so you don't get lost. It's very dangerous out there."
-msgstr ""
+msgstr "Si tu croises trop de robots, tu peux essayer de les contourner. Mais évite d'aller trop loin du chemin, ainsi tu ne te perdras pas. C'est très dangereux à l'extérieur."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:175
 msgid "Once in town you will be able to purchase or trade a few more items for protection at Ms. Stone's shop just inside the town gate."
-msgstr ""
+msgstr "Une fois en ville, tu seras capable d'acheter ou de vendre quelques objets de plus pour ta protection, au magasin de Mademoiselle Stone, juste à l'intérieur des portes de la ville."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:180
-#, fuzzy
 msgid "How do I get out from here?"
-msgstr " J'aimerai mieux sortir d'ici..."
+msgstr "Comment est-ce que je sors d'ici ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:182
 msgid "Oh, just take the small door and corridor out to the waiting room. And from there you can get out through the customer entrance."
-msgstr ""
+msgstr "Oh, prends simplement la petite porte et le couloir à la sortie de la salle d'attente. Et depuis là, tu peux sortir au travers de l'entrée de la cuisine."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:183
+#, fuzzy
 msgid "I keep the back entrance, close to my sleeping quarters, locked at all times for safety reasons. Better safe than sorry."
-msgstr ""
+msgstr "Je garde l'entrée de derrière proche de ma chambre à coucher, fermée à tout instant pour des raisons de sécurité. Meilleure sécurité."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:188
-#, fuzzy
 msgid "It cannot be true. One company cannot control all of the bot software on a whole world."
 msgstr " Ça ne peut pas être vrai. Une compagnie ne peut pas contrôler tous les logiciels pour robot dans un monde entier."
 
@@ -335,7 +326,6 @@ msgid "Since then all of the newly made bots have been made with MegaSys firmwar
 msgstr "Depuis ce jour, chaque nouveau robot fabriqué utilise un firmware MegaSys gravé dans ses circuits."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:196
-#, fuzzy
 msgid "Why did you wake me up?"
 msgstr " Pourquoi m'avez-vous réveillé ? "
 
@@ -344,7 +334,6 @@ msgid "The situation at the town is not good. The walls are crumbling and we hav
 msgstr "La situation dans la ville n'est pas bonne. Les murs s'écroulent et nous avons perdu beaucoup de personnes utiles."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:199
-#, fuzzy
 msgid "I heard the Linarians have a special gift for computers and can hack them just by thinking about it."
 msgstr "J'ai entendu dire que les Linariens ont un talent spécial pour les ordinateurs et peuvent les désactiver juste en y pensant."
 
@@ -358,30 +347,29 @@ msgstr "Nous avons besoin de vous."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:206
 msgid "Where are all my things?"
-msgstr ""
+msgstr "Où sont toutes mes affaires ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:208
 msgid "I already took out your chest with personal belongings from storage."
-msgstr ""
+msgstr "J'ai déjà extrait la caisse contenant tes effets personnels du stockage."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:209
 msgid "It is standing there next to the door."
-msgstr ""
+msgstr "Elle est placée à proximité de la prochaine porte."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:210
 msgid "Is that it?"
-msgstr ""
+msgstr "Est-ce que c'est ça ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:211
 msgid "That is all the records show you had with you when your were frozen."
-msgstr ""
+msgstr "Ce sont tous les enregistrement que tu avais avec toi quand tu as été gelé."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:212
 msgid "There are also some references to a bank account of yours, but as you probably understand, there is no working banking system presently."
-msgstr ""
+msgstr "Il y a également quelques références à un compte bancaire t'appartenant, mais comme tu le comprends probablement, il n'y a pas de système bancaire en état de marche actuellement."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:217
-#, fuzzy
 msgid "Thanks for the help. I'll be going now."
 msgstr " Merci pour votre aide. Je vais y aller."
 
@@ -391,7 +379,7 @@ msgstr "Je suis heureux d'avoir pu vous aidez. Faites attention dans le secteur.
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:220
 msgid "Remember to not veer too far off the path, or your quest could be over before it begins."
-msgstr ""
+msgstr "Souviens toi de ne pas trop t'éloigner du chemin, ou ta quête pourrait se terminer avant d'avoir commencer."
 
 #~ msgid "Sure. I'll sign it."
 #~ msgstr " Certainement. Je le signerai."
