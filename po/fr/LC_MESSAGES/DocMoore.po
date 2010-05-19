@@ -320,7 +320,6 @@ msgid "Yes, those were horrible. They had a nice color though."
 msgstr "Oui, ils sont dégoûtants. Ils ont une jolie color néanmoins."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:243
-#, fuzzy
 msgid "The dye used to make that color is a known carcinogen."
 msgstr "La teinture utilisée pour faire cette couleur est cancérigène."
 
@@ -329,7 +328,6 @@ msgid "No, should I?"
 msgstr "Non, je devrais ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:246
-#, fuzzy
 msgid "Not if you can avoid it."
 msgstr "Pas si vous pouvez l'éviter."
 
@@ -354,7 +352,6 @@ msgid "Basically it is bottled up poison made by bacteria."
 msgstr "Basiquement, c'est du poison fait par des bactéries que l'on a mis en bouteille."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:257
-#, fuzzy
 msgid "And that is good for me?"
 msgstr "Et c'est bon pour moi ?"
 
@@ -373,16 +370,19 @@ msgid "It is a device that releases millions of short-lived nanobots that swarm 
 msgstr "C'est un dispositif qui libère des millions de nano-robots à courte durée de vie qui vont se répandre dans ton corps et réparer presque tout."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:266
+#, fuzzy
 msgid "Wouldn't long-lived nanobots work better?"
-msgstr ""
+msgstr "Ça ne serait pas mieux des nano-robots à longue durée de vie ?"
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:267
+#, fuzzy
 msgid "They found that long-lived nanobots evolve self-replication and act like a cancer. A cancer of gray goo that eats everything."
-msgstr ""
+msgstr "Il a été trouvé que les nano-robots à longue durée de vie évoluent par mitose et agissent comme un cancer. Un cancer de glue grisâtre qui mange tout."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:268
+#, fuzzy
 msgid "Several planets were made uninhabitable before they figured that one out."
-msgstr ""
+msgstr "Beaucoup de planètes furent rendues inhabitables avant qu'on ne s'en rende compte."
 
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:273
 #: /home/david/src/freedroid-translation/dialogs/DocMoore.dialog:275
