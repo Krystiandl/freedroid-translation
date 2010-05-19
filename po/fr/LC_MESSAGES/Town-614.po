@@ -50,16 +50,19 @@ msgid "He built up a team and developed an own Kernel called 'Nkernel'."
 msgstr "Il a construit une équipe et a développé son propre noyau, appelé « Nkernel » ."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:48
+#, fuzzy
 msgid "The Nkernel development team grew fast and technicians started to produce their own droids optimized for the Nkernel."
-msgstr ""
+msgstr "L'équipe de développement du Nkernel a grandi très vite et des techniciens ont commencés à preduire leurs propres droides optimisés pour le Nkernel."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:49
+#, fuzzy
 msgid "The Team became a company which released their first security droid, the 610 Lovely."
-msgstr ""
+msgstr "L'équipe est devenue une entreprise qui a sorti leur premier droide de sécurité, le 610 Lovely."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:50
+#, fuzzy
 msgid "I am the 4th generation version of their security droid line."
-msgstr ""
+msgstr "Je fais partie de la 4ème génération de leur droide de sécurité."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:55
 msgid "Have you detected any hostile bot activity?"
@@ -118,7 +121,6 @@ msgid "Even though discontinued by the Nicholson, Inc. long ago, today, some p
 msgstr "Bien que la compagnie Nicholson en ait stoppé la production depuis longtemps, aujourd'hui, certaines personnes ont repris le flambeau et essaient même d'améliorer le système d'exploitation utilisé par ma série."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:85
-#, fuzzy
 msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
 msgstr "N'oubliez pas d'acheter des produits de la Compagnie Nicholson. Ce sont les meilleurs."
 
@@ -127,7 +129,6 @@ msgid "See you later."
 msgstr "À plus tard."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:92
-#, fuzzy
 msgid "Resuming guard program."
 msgstr " Retour au programme de surveillance."
 
