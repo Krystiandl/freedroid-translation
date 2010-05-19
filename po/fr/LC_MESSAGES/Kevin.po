@@ -90,9 +90,8 @@ msgid "Sorry, don't have that much money right now."
 msgstr " Euh... Je n'ai pas assez d'argent."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:99
-#, fuzzy
 msgid "Sorry, my memory databank is filled to the brim right now. Can't learn more until I get some more experience."
-msgstr "Désolé, ma mémoire est entièrement remplie. Je ne peux plus rien apprendre tant que je n'ai pas plus d'expérience."
+msgstr "Désolé, ma mémoire est entièrement remplie. Je ne peux rien apprendre de mieux tant que je n'ai pas plus d'expérience."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:109
 msgid "I'll see after the energy supply now."
@@ -139,9 +138,10 @@ msgid "I've obtained secret data on the town surroundings. We'll need a big comp
 msgstr "J'ai obtenu des données secrètes sur les alentours de la colonie. Nous allons avoir besoin d'un important cluster d'ordinateurs pour les analyser correctement."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:134
-#, fuzzy
 msgid "Once we've evaluated the data, we might find a way to secure the town and ensure our survival. But it's too early to tell yet."
-msgstr "Une fois que nous aurons analysé les données, nous serons peut-être en mesure de trouver un moyen de sécuriser la colonie et assurer notre survie. Mais il est trop tôt pour se prononcer pour l'instant."
+msgstr ""
+"Une fois que nous aurons analysé les données, nous serons peut-être en mesure de trouver un moyen de sécuriser la colonie et assurer notre survie. \r\n"
+"Mais il est trop tôt pour se prononcer pour l'instant."
 
 #: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:135
 msgid "If I only had a suitable cluster. Then we could start data evaluation right away."
