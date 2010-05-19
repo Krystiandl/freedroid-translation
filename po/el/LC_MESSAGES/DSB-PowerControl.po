@@ -1,3 +1,4 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
@@ -13,33 +14,33 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControl.dialog:37
 msgid "Login : "
-msgstr ""
+msgstr "Login : "
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControl.dialog:38
 msgid "admin"
-msgstr ""
+msgstr "admin"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControl.dialog:39
 msgid " Password : "
-msgstr ""
+msgstr " Password : "
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControl.dialog:40
 msgid "*******"
-msgstr ""
+msgstr "*******"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControl.dialog:41
 msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
-msgstr ""
+msgstr "Τελευταία συνδεση από /dev/ttyS0 on Δευ, 23 Μαρ 2057."
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControl.dialog:49
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControl.dialog:51
 msgid "<?>"
-msgstr ""
+msgstr "<?>"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControl.dialog:57
 msgid "logout"
-msgstr ""
+msgstr "logout"
 
 #: /home/david/src/freedroid-translation/dialogs/DSB-PowerControl.dialog:59
 msgid "Exiting"
-msgstr ""
+msgstr "Exiting"
