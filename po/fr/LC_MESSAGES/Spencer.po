@@ -339,29 +339,33 @@ msgid "They carried out some development there, and had part of their patching d
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:253
+#, fuzzy
 msgid "With a bit of luck, you might not need to access it. We know they have their update server in the office."
-msgstr ""
+msgstr "Avec un peu de chance, on pourrait ne pas avoir besoin d'y accéder. On sait qu'il y a un serveur de mise à jour dans le bureau."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:254
 msgid "If you can find it and get it to propagate a faulty update, this could suffice to stopping bots dead in their tracks."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:255
+#, fuzzy
 msgid "Look for the entrance of the office in the crystal fields. I will send a message to the guards so they let you pass. Then you will be on your own."
-msgstr ""
+msgstr "Cherche l'éntrée du bureau dans les champs de crystal. Je vais envoyer un message aux gardes pour qu'ils te laissent passer. Ensuite, tu devra te débrouiller seul."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:256
 #, fuzzy
 msgid "Good luck."
-msgstr "Bon travail."
+msgstr "Bonne chance."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:262
+#, fuzzy
 msgid "I will need some time to get myself ready before I clean up the Hell Fortress."
-msgstr ""
+msgstr "J'ai besoin d'un peu de temps pour me préparer avant d'aller nettoyer cette Forteresse de l'Enfer."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:264
+#, fuzzy
 msgid "You had better be ready."
-msgstr ""
+msgstr "Tu ferais mieux d'être prêt."
 
 #: /home/david/src/freedroid-translation/dialogs/Spencer.dialog:268
 msgid "I'll be going then."
