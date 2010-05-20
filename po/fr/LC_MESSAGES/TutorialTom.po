@@ -22,7 +22,7 @@ msgstr "Bonjour linarien, je t'attendais. Mon nom est Tom Tutorial."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:54
 msgid "Long stasis sleep unfortunately has the side effect of temporary memory loss, sometimes even for simple ordinary every day things."
-msgstr ""
+msgstr "L'hibernation, malheureusement, a l'inconvénient de provoquer des pertes de mémoire temporelle, quelque fois pour la mémoire quotidienne également."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:55
 msgid "So let's start with the basics, shall we?"
