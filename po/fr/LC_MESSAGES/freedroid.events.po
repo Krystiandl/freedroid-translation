@@ -18,83 +18,70 @@ msgid "To Maintenance Tunnels"
 msgstr "Vers les conduits de maintenance."
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:28
-#, fuzzy
 msgid "To Novice Arena"
 msgstr "Vers l'arène débutant"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:37
-#, fuzzy
 msgid "To Master Arena"
 msgstr "Vers l'arène expert"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:49
-#, fuzzy
 msgid "Exit Warehouse"
 msgstr "Sortie de l'entrepôt"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:58
-#, fuzzy
 msgid "To Warehouse Level 2"
 msgstr "Vers le niveau 2 de l'entrepôt"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:70
-#, fuzzy
 msgid "To Warehouse Level 1"
 msgstr "Vers le niveau 1 de l'entrepôt"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:82
-#, fuzzy
 msgid "Back to Kevin's Garden"
-msgstr "Vers le jardin de Kevin"
+msgstr "Retour au jardin de Kevin"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:91
-#, fuzzy
 msgid "To Energy Station"
 msgstr "Conteneur d'énergie plasma"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:103
 msgid "Back to Lower Catacombs"
-msgstr ""
+msgstr "Retour aux basses catacombes"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:115
 msgid "Way to Disruptor Machine Deck"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:127
-#, fuzzy
 msgid "Back to Town"
 msgstr "Vers la ville"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:143
-#, fuzzy
 msgid "Enter Warehouse"
-msgstr "Vers l'entrepôt"
+msgstr "Entre dans l'entrepôt"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:155
 msgid "Down into Crystal Caves"
 msgstr "Descendre dans les cavernes de cristal"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:195
-#, fuzzy
 msgid "To Kevin's Underground Station"
 msgstr "Vers la station sous-terraine de Kevin"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:207
-#, fuzzy
 msgid "To Underground Station"
-msgstr "Vers la station sous-terraine"
+msgstr "Vers la station souterraine"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:243
 msgid "Hatch with broken ladder"
 msgstr ""
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:267
-#, fuzzy
 msgid "Exit Novice Arena"
 msgstr "Quitter l'arène débutant"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:279
-#, fuzzy
 msgid "Exit Master Arena"
 msgstr "Quitter l'arène expert"
 
@@ -116,28 +103,24 @@ msgstr "Quitter les cavernes de cristal"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:339
 #: /home/david/src/freedroid-translation/map/freedroid.events:351
-#, fuzzy
 msgid "Back to the Desert"
-msgstr "Vers le désert"
+msgstr "Retour au désert"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:371
-#, fuzzy
 msgid "To a Forgotten Bunker"
 msgstr "Vers un bunker oublié"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:387
-#, fuzzy
 msgid "Unknown place"
-msgstr "Endroit inconnue"
+msgstr "Endroit inconnu"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:407
-#, fuzzy
 msgid "Hidden way out"
-msgstr "Chemin de sortie caché"
+msgstr "Passage secret vers la sortie"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:463
 msgid "Back to Disruptor Shield Control"
-msgstr ""
+msgstr "Retour à la salle de contrôle du bouclier"
 
 #: /home/david/src/freedroid-translation/map/freedroid.events:472
 msgid "To Mashine Deck Lower Catacombs"
