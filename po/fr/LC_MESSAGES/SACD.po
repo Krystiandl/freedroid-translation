@@ -17,27 +17,22 @@ msgstr ""
 "X-Generator: Launchpad (build Unknown)\n"
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:33
-#, fuzzy
 msgid "Login : "
-msgstr "Login : "
+msgstr "identifiant : "
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:34
-#, fuzzy
 msgid "admin"
 msgstr "admin"
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:35
-#, fuzzy
 msgid " Password : "
-msgstr " Password : "
+msgstr "Mot de passe : "
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:36
-#, fuzzy
 msgid "*******"
 msgstr "*******"
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:37
-#, fuzzy
 msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
 msgstr "Dernière connexion sur /dev/ttyS0, Dim, 23 mar 2057. admin@sadefense: ~#"
 
@@ -45,14 +40,12 @@ msgstr "Dernière connexion sur /dev/ttyS0, Dim, 23 mar 2057. admin@sadefense: ~
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:56
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:69
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:81
-#, fuzzy
 msgid "admin@sadefence: ~ #"
 msgstr "admin@sadefence: ~ #"
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:48
-#, fuzzy
 msgid "/usr/bin/guns --disable"
-msgstr " /usr/bin/guns --disable"
+msgstr " /usr/bin/guns --desactivation"
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:50
 msgid "Disabling guns..."
@@ -69,7 +62,6 @@ msgid "Guns disabled."
 msgstr "Armes désactivées."
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:61
-#, fuzzy
 msgid "/usr/bin/guns --enable"
 msgstr " /usr/bin/guns --activation"
 
@@ -82,9 +74,8 @@ msgid "Guns enabled."
 msgstr "Armes activées."
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:74
-#, fuzzy
 msgid "/usr/bin/hermodoors --open"
-msgstr " /usr/bin/hermodoors --open"
+msgstr " /usr/bin/thermodoors --ouverture"
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:76
 msgid "Opening doors..."
@@ -95,7 +86,6 @@ msgid "Please enter unlock security password:"
 msgstr "S'il vous plaît entrez votre mot de passe de sécurité :"
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:79
-#, fuzzy
 msgid "CTRL+C"
 msgstr " CTRL+C"
 
@@ -104,7 +94,6 @@ msgid "An error occured while opening doors."
 msgstr "Une erreur est survenue à l'ouverture des portes"
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:85
-#, fuzzy
 msgid "./hcf.py"
 msgstr " ./hcf.py"
 
@@ -125,9 +114,8 @@ msgid "SsTeM=#faiPure%^#n 3 S 1()$++"
 msgstr "SsTeM=#faiPure%^#n 3 S 1()$++"
 
 #: /home/david/src/freedroid-translation/dialogs/SACD.dialog:96
-#, fuzzy
 msgid "logout"
-msgstr " Déconnecter"
+msgstr " Déconnection"
 
 #~ msgid "Sure. I'll sign it."
 #~ msgstr " Certainement. Je le signerai."
