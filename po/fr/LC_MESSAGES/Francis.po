@@ -12,9 +12,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
+"X-Poedit-Language: French\n"
 "X-Poedit-Country: FRANCE\n"
 "X-Generator: Launchpad (build Unknown)\n"
-"X-Poedit-Language: French\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:39
 msgid "Oh, thank heavens! You are still alive. Maybe all hope is not lost."
@@ -118,7 +118,7 @@ msgstr "Le nom local de cette place est popsicle storage, à cause de tous les g
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:85
 msgid "This facility is located not too far away from a mining town where we have made a stand against the damn contraptions. However, I'm alone here with only 1 droid for security."
-msgstr ""
+msgstr "Les équipements sont placés à proximité d'une ville minière, élevée en rempart contre les robots. Cependant, je reste seul ici avec un seul droïde de sécurité."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:86
 msgid "There are just too few humans alive and awake to allow us to properly protect this place, and nobody else is foolish enough to stay out here alone."
@@ -309,9 +309,8 @@ msgid "Oh, just take the small door and corridor out to the waiting room. And fr
 msgstr "Oh, prends simplement la petite porte et le couloir à la sortie de la salle d'attente. Et depuis là, tu peux sortir au travers de l'entrée de la cuisine."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:183
-#, fuzzy
 msgid "I keep the back entrance, close to my sleeping quarters, locked at all times for safety reasons. Better safe than sorry."
-msgstr "Je garde l'entrée de derrière proche de ma chambre à coucher, fermée à tout instant pour des raisons de sécurité. Meilleure sécurité."
+msgstr "Je garde l'entrée de derrière proche de ma chambre à coucher, fermée à tout instant pour des raisons de sécurité. Mieux vaut la sécurité que les ennuis."
 
 #: /home/david/src/freedroid-translation/dialogs/Francis.dialog:188
 msgid "It cannot be true. One company cannot control all of the bot software on a whole world."
