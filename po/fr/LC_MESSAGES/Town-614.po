@@ -33,7 +33,6 @@ msgid "Nicholson, Inc. produces security bots."
 msgstr "Nicholson, Inc produit des robots de sécurité."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:44
-#, fuzzy
 msgid "It was founded by Karl Nicholson, a former Kernel hacker who was not satisfied with the development of the GPL license."
 msgstr "Elle a été fondé par Karl Nicholson, un ancien Kernel Hacker que n'était pas satisfait de l'évolution de la licence GPL."
 
@@ -50,19 +49,16 @@ msgid "He built up a team and developed an own Kernel called 'Nkernel'."
 msgstr "Il a construit une équipe et a développé son propre noyau, appelé « Nkernel » ."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:48
-#, fuzzy
 msgid "The Nkernel development team grew fast and technicians started to produce their own droids optimized for the Nkernel."
-msgstr "L'équipe de développement du Nkernel a grandi très vite et des techniciens ont commencés à preduire leurs propres droides optimisés pour le Nkernel."
+msgstr "L'équipe de développement du Nkernel a grandi très vite et des techniciens ont commencés à produire leurs propres droïdes optimisés pour le Nkernel."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:49
-#, fuzzy
 msgid "The Team became a company which released their first security droid, the 610 Lovely."
-msgstr "L'équipe est devenue une entreprise qui a sorti leur premier droide de sécurité, le 610 Lovely."
+msgstr "L'équipe est devenue une entreprise qui a sorti leur premier droïde de sécurité, le 610 Lovely."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:50
-#, fuzzy
 msgid "I am the 4th generation version of their security droid line."
-msgstr "Je fais partie de la 4ème génération de leur droide de sécurité."
+msgstr "J'appartiens à la 4ème génération de leur lignée de droïdes de sécurité."
 
 #: /home/david/src/freedroid-translation/dialogs/Town-614.dialog:55
 msgid "Have you detected any hostile bot activity?"
