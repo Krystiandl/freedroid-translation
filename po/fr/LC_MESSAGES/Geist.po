@@ -62,7 +62,6 @@ msgid "I wish I knew what you are talking about."
 msgstr " J'aurai bien aimé savoir à propos de quoi vous parlez."
 
 #: /home/david/src/freedroid-translation/dialogs/Geist.dialog:74
-#, fuzzy
 msgid "I need to go now."
 msgstr " Je dois y aller maintenant."
 
