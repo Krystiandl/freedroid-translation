@@ -1,1 +1,1 @@
-ar  bn  el  fr  de  ru  sv
+ar  bn  el  fr  de  ru  sv  hu
