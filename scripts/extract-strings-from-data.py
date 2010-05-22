@@ -107,7 +107,7 @@ def main():
         print "Usage: %s <input-dir> <pattern> <output-file>" % sys.argv[0]
         sys.exit(1)
     input_dir, pattern, output_file = sys.argv[1:]
-    of = POTFile('CHANGE THIS', 'CHANGE THIS TOO')
+    of = POTFile('FreedroidRPG translation', 'Ooh2iej7Ae@gmail.com')
     files = [ArchetypeFile(f)
             for f in glob.glob(os.path.join(input_dir, pattern))]
     for f in files:
