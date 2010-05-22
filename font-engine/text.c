@@ -43,9 +43,6 @@
 
 #include "lvledit/lvledit_display.h"
 
-// curent text insertion position
-int MyCursorX;
-int MyCursorY;
 
 int display_char_disabled_local;
 
@@ -54,19 +51,7 @@ int display_char_disabled_local;
  *
  * elijahbal : should be useless in a next release
  */
-static void display_char(unsigned char c)
-{
-	if (handle_switch_font_char(c))
-		return;
-
-	if (c < ' ' || c > GetCurrentFont()->number_of_chars - 1)
-		c = '.';
-
-	if ((!display_char_disabled) && (!display_char_disabled_local))
-		PutCharFont(Screen, GetCurrentFont(), MyCursorX, MyCursorY, c);
-
-	MyCursorX += CharWidth(GetCurrentFont(), c) + get_letter_spacing(GetCurrentFont());
-}
+/* Note : removed */
 
 /*
  *
@@ -251,14 +236,9 @@ void EnemyHitByBulletText(enemy * ThisRobot)
  * This function sets the text cursor used in DisplayText.
  * elijahbal note : should be removed. We should get rid of this
  * global vars, and we should define a proper text engine.
+ * Note : removed
  */
-void SetTextCursor(int x, int y)
-{
-	MyCursorX = x;
-	MyCursorY = y;
 
-	return;
-};				// void SetTextCursor ( int x , int y )
 
 /* -----------------------------------------------------------------
  *
@@ -266,7 +246,8 @@ void SetTextCursor(int x, int y)
  * defined by the global SDL_Rect User_Rect
  *
  * -----------------------------------------------------------------
- * Elijah note : should be kept up to date with SDL_Rect User_Rect
+ * Elijah note : The font engine should be kept up to date with
+ * SDL_Rect User_Rect
  */
 int ScrollText(char *Text, int background_code)
 {
@@ -280,7 +261,8 @@ int ScrollText(char *Text, int background_code)
 
 	Activate_Conservative_Frame_Computation();
 
-	SDL_Rect ScrollRect = { User_Rect.x + 10, User_Rect.y, User_Rect.w - 20, User_Rect.h };
+	SDL_Rect ScrollRect = { User_Rect.x + 10, User_Rect.y, \
+	                        User_Rect.w - 20, User_Rect.h  };
 	SetCurrentFont(Para_BFont);
 	StartInsertLine = ScrollRect.y + ScrollRect.h;
 	InsertLine = StartInsertLine;
@@ -301,7 +283,8 @@ int ScrollText(char *Text, int background_code)
 		ShowGenericButtonFromList(SCROLL_TEXT_UP_BUTTON);
 		ShowGenericButtonFromList(SCROLL_TEXT_DOWN_BUTTON);
 		blit_our_own_mouse_cursor();
-		our_SDL_flip_wrapper();
+		our_SDL_flip_wrapper(); /* This function is often called */
+        /* It means that we are using a custom version of SDL_flip() */
 
 		while (SDL_PollEvent(&event)) {
 			if (event.type == SDL_MOUSEBUTTONDOWN) {
@@ -363,16 +346,14 @@ int ScrollText(char *Text, int background_code)
 			InsertLine = ScrollRect.y - (Number_Of_Line_Feeds + 1) * (int)(FontHeight(GetCurrentFont()) * TEXT_STRETCH);
 			speed = 0;
 		}
-
 		SDL_Delay(30);
-
 	}			// while !Space_Pressed
 
 	while (MouseLeftPressed()) ;	// so that we don't touch again immediately.
 
 	return OK;
 
-};				// int ScrollText ( ... )
+};	// int ScrollText ( ... )
 
 /*
  * This function sets a new text, that will be displayed in huge font
