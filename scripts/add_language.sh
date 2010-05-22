@@ -1,7 +1,7 @@
 #!/bin/bash
 
-cd ..
-cd po/
+
+cd ${HOME}/src/freedroid-translation/po/
 
 echo "for the language code ${1}"
 pwd
