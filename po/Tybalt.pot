@@ -1,131 +1,130 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: CHANGE THIS\n"
-"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-24 11:46+0000\n"
-"PO-Revision-Date: 2010-04-24 11:46+0000\n"
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-05-22 20:22+0000\n"
+"PO-Revision-Date: 2010-05-22 20:22+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:41
+#: ./Tybalt.dialog:41
 msgid "Hi! I'm new here."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:43
+#: ./Tybalt.dialog:43
 msgid ""
-"Hello. I'm Tybalt. I'm guarding the guardhouse gate. Only authorized "
-"personnel are permitted."
+"Hello. I'm Tybalt. I'm guarding the town citadel gate. Only authorized personn"
+"el are permitted."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:48
-msgid "Why is the guardhouse locked most of the time?"
+#: ./Tybalt.dialog:48
+msgid "Why is this gate locked most of the time?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:50
+#: ./Tybalt.dialog:50
+msgid "It's locked so no one can sneak inside while I'm not looking. That's why."
+msgstr ""
+
+#: ./Tybalt.dialog:55
+msgid "I want to get into the citadel."
+msgstr ""
+
+#: ./Tybalt.dialog:58
 msgid ""
-"It's locked so no one can sneak inside while I'm not looking. That's why."
-msgstr ""
-
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:55
-msgid "I want to get into the guardhouse."
-msgstr ""
-
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:58
-msgid ""
-"Of course. Guard members are always authorized to enter the guardhouse. The "
+"Of course. Guard members are always authorized to enter the town citadel. The "
 "gate is open. Enjoy your stay."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:61
+#: ./Tybalt.dialog:61
 msgid ""
-"Sorry pal, but I don't think so. Only authorized personnel are permitted and "
-"that means members of the Red Guard."
+"Sorry pal, but I don't think so. Only authorized personnel are permitted and t"
+"hat means members of the Red Guard."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:62
+#: ./Tybalt.dialog:62
 msgid "Talk to Spencer if you have any business inside. I cannot let you pass."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:71
-msgid ""
-"We need to protect our equipment and documents, because lives depend on it."
+#: ./Tybalt.dialog:72
+msgid "We need to protect our equipment and documents, because lives depend on it."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:72
+#: ./Tybalt.dialog:73
 msgid "Also, we don't have to answer questions."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:80
+#: ./Tybalt.dialog:80
 msgid "I have a lot of money for you."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:82
+#: ./Tybalt.dialog:82
 msgid "Fascinating. Can I have a hundred please?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:88
+#: ./Tybalt.dialog:88
 msgid "Erm... I don't have that much."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:90
+#: ./Tybalt.dialog:90
 msgid "Well, too bad."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:95
+#: ./Tybalt.dialog:95
 msgid "Here you go."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:99
+#: ./Tybalt.dialog:99
 msgid "Thank you."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:103
+#: ./Tybalt.dialog:103
 msgid "That is not a hundred."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:108
+#: ./Tybalt.dialog:108
 msgid "Ok, now please open the door for me."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:110
+#: ./Tybalt.dialog:110
 msgid "What door?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:111
+#: ./Tybalt.dialog:111
 msgid "The door to the citadel!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:112
+#: ./Tybalt.dialog:112
 msgid "But you are not a member of the Red Guard."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:113
+#: ./Tybalt.dialog:113
 msgid "You cannot come in."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:114
+#: ./Tybalt.dialog:114
 msgid "I paid you!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:115
+#: ./Tybalt.dialog:115
 msgid "Really? I don't remember that."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:116
+#: ./Tybalt.dialog:116
 msgid "I want my money back."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:117
+#: ./Tybalt.dialog:117
 msgid "What money?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:122
+#: ./Tybalt.dialog:122
 msgid "See you later."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Tybalt.dialog:124
+#: ./Tybalt.dialog:124
 msgid "Good riddance."
 msgstr ""
+

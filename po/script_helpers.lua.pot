@@ -10,13 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./TestDroid.dialog:41
-msgid ""
-"This is a MegaSys test bot, running a very basic version of their OS. I can do"
-" nothing with this bot, because it doesn't know how to do anything."
+#: ./script_helpers.lua:128
+msgid "   New Quest assigned."
 msgstr ""
 
-#: ./TestDroid.dialog:47
-msgid "logout"
+#: ./script_helpers.lua:134
+msgid "   Quest log updated."
+msgstr ""
+
+#: ./script_helpers.lua:140
+msgid "   Quest completed."
 msgstr ""
 

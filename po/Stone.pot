@@ -1,303 +1,304 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: CHANGE THIS\n"
-"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-24 11:46+0000\n"
-"PO-Revision-Date: 2010-04-24 11:46+0000\n"
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-05-22 20:22+0000\n"
+"PO-Revision-Date: 2010-05-22 20:22+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:46
+#: ./Stone.dialog:46
 msgid "Hi! I'm new here."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:48
+#: ./Stone.dialog:48
 msgid "Welcome to this camp! I'm Ms. Stone. I run this shop."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:53
+#: ./Stone.dialog:53
 msgid "I would like to trade with you."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:55
+#: ./Stone.dialog:55
 msgid "Good! Here is the selection of items I have for sale."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:61
+#: ./Stone.dialog:61
 msgid "Swords, clubs and maces? What is this? I want guns!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:63
+#: ./Stone.dialog:63
 msgid ""
-"Sorry, this is all we have for now. The Red Guard took away all of our "
-"poppers."
+"Sorry, this is all we have for now. The Red Guard took away all of our poppers"
+"."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:64
+#: ./Stone.dialog:64
 msgid "For our own good. Of course."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:70
+#: ./Stone.dialog:70
 msgid "What can you tell me about the guards here?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:72
+#: ./Stone.dialog:72
 msgid "Ah, the Red Guard."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:73
+#: ./Stone.dialog:73
 msgid "Stranger, best if you don't ask such questions."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:74
+#: ./Stone.dialog:74
 msgid "They keep us alive and safe from the bots, but..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:79
+#: ./Stone.dialog:79
 msgid "But...?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:81
+#: ./Stone.dialog:81
 msgid "They run the city with strict laws and demand total obedience."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:82
+#: ./Stone.dialog:82
 msgid "We all need to obey their rules. We need to work hard or they hurt us."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:83
+#: ./Stone.dialog:83
 msgid ""
-"I guess I should not complain. The bots are far worse than the guards can "
-"be, but..."
+"I guess I should not complain. The bots are far worse than the guards can be, "
+"but..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:84
+#: ./Stone.dialog:84
 msgid ""
-"Sucked dry by a bloodthirsty regime over many years or just sliced into bits "
-"by our former servants..."
+"Sucked dry by a bloodthirsty regime over many years or just sliced into bits b"
+"y our former servants..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:85
+#: ./Stone.dialog:85
 msgid "... What's the difference?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:90
+#: ./Stone.dialog:90
 msgid "If things are so bad right now, why don't you leave?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:95
+#: ./Stone.dialog:95
 msgid "If things are so bad right now, why --"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:97
+#: ./Stone.dialog:97
 msgid "I don't want to hear this jabberwocky."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:98
+#: ./Stone.dialog:98
 msgid ""
-"A hint, Linarian: We don't have much, but we're alive and we'd rather stay "
-"that way."
+"A hint, Linarian: We don't have much, but we're alive and we'd rather stay tha"
+"t way."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:99
+#: ./Stone.dialog:99
 msgid "If you want to start a revolution, you're on your own."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:103
+#: ./Stone.dialog:103
 msgid "How is your business going?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:106
+#: ./Stone.dialog:106
 msgid "Thanks to you I have a chance now."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:107
+#: ./Stone.dialog:107
 msgid ""
-"Ha! It's time to show the world that Lily Stone is not going down without "
-"putting up a damn good fight."
+"Ha! It's time to show the world that Lily Stone is not going down without putt"
+"ing up a damn good fight."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:109
+#: ./Stone.dialog:109
 msgid "I'll be finished in about a week."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:110
+#: ./Stone.dialog:110
 msgid ""
-"The Stone family always bought cheap and sold at a low profit. The times "
-"have changed, but not my prices."
+"The Stone family always bought cheap and sold at a low profit. The times have "
+"changed, but not my prices."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:111
+#: ./Stone.dialog:111
 msgid ""
-"The new taxes, the worldwide economic collapse and other factors are slowly "
-"murdering the family store."
+"The new taxes, the worldwide economic collapse and other factors are slowly mu"
+"rdering the family store."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:118
+#: ./Stone.dialog:118
 msgid "Can I help you somehow Ms. Stone?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:120
+#: ./Stone.dialog:120
 msgid ""
-"No, there's nothing that can be done anymore. I don't have enough money to "
-"lift the shop from the downward spiral."
+"No, there's nothing that can be done anymore. I don't have enough money to lif"
+"t the shop from the downward spiral."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:121
+#: ./Stone.dialog:121
 msgid "I'd need thousands to just survive the month."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:122
+#: ./Stone.dialog:122
 msgid "The shop is dying, and there's nothing either of us can do about it."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:127
+#: ./Stone.dialog:127
 msgid "Maybe there is still hope, Ms. Stone. How much exactly do you need?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:129
+#: ./Stone.dialog:129
 msgid ""
-"I couldn't get myself to look at my finance logs for a while now. I guess "
-"about two thousand triangles."
+"I couldn't get myself to look at my finance logs for a while now. I guess abou"
+"t two thousand circuits."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:137
+#: ./Stone.dialog:137
 msgid "A pity that nothing can be done about your store."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:139
+#: ./Stone.dialog:139
 msgid "Yes. A tradition of six generations will die with this shop..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:140
+#: ./Stone.dialog:140
 msgid "I guess it just had to happen one day..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:145
+#: ./Stone.dialog:145
 msgid "I have the money you need Ms. Stone. You can have it."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:147
+#: ./Stone.dialog:147
 msgid "Is... Is this a joke? So much money? And you just give it to me?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:148
+#: ./Stone.dialog:148
 msgid "Thank you! Thank you! Thank you! Savior!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:149
+#: ./Stone.dialog:149
 msgid ""
-"But this isn't fair to you. The Stones are a family of fair merchants and I "
-"intend to uphold that tradition."
+"But this isn't fair to you. The Stones are a family of fair merchants and I in"
+"tend to uphold that tradition."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:150
+#: ./Stone.dialog:150
 msgid ""
-"I need 1,547 bucks to get through the month. I will accept only that and not "
-"a cent more."
+"I need 1,547 circuits to get through the month. I will accept only that and no"
+"t a transistor more."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:152
+#: ./Stone.dialog:152
 msgid "Now it's fair. Thank you."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:153
+#: ./Stone.dialog:153
 msgid "You've given me a bit of hope.. "
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:154
+#: ./Stone.dialog:154
 msgid "Wait a second... I think I recognize you..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:155
+#: ./Stone.dialog:155
 msgid "You are "
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:156
+#: ./Stone.dialog:156
 msgid "The hero..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:160
+#: ./Stone.dialog:160
 msgid "Hold on a minute, you are still a bit short on money."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:161
+#: ./Stone.dialog:161
 msgid "Please return with the full amount if you want to help."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:162
+#: ./Stone.dialog:162
 msgid ""
-"Otherwise you're throwing good money after bad, and I couldn't let you do "
-"that."
+"Otherwise you're throwing good money after bad, and I couldn't let you do that"
+"."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:168
+#: ./Stone.dialog:168
 msgid "Yes, its me."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:170
+#: ./Stone.dialog:170
 msgid ""
-"I thought so. My grandfather used to tell me stories about you. He said you "
-"would come here in a time of despair."
+"I thought so. My grandfather used to tell me stories about you. He said you wo"
+"uld come here in a time of despair."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:171
+#: ./Stone.dialog:171
 msgid "And here you are."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:172
+#: ./Stone.dialog:172
 msgid "I hope your arrival changes the tide of this war..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:173
+#: ./Stone.dialog:173
 msgid ""
-"I have something here for you. I managed to hide this Shotgun from the Red "
-"Guard."
+"I have something here for you. I managed to hide this Shotgun from the Red Gua"
+"rd."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:174
+#: ./Stone.dialog:174
 msgid ""
-"It used to belong to my grandfather, so it's very dear to me, but I'm sure "
-"he would have like you to have it on your journey to save us all."
+"It used to belong to my grandfather, so it's very dear to me, but I'm sure he "
+"would have like you to have it on your journey to save us all."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:175
+#: ./Stone.dialog:175
 msgid ""
-"Tux, if you ever find out who started the Great Assault... GIVE THEM A KICK "
-"IN THE ASS, FROM LILY STONE!!!"
+"Tux, if you ever find out who started the Great Assault... GIVE THEM A KICK IN"
+" THE ASS, FROM LILY STONE!!!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:184
+#: ./Stone.dialog:184
 msgid "It's not important who I am."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:186
+#: ./Stone.dialog:186
 msgid "If you want to remain a stranger, I will respect your wishes."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:187
+#: ./Stone.dialog:187
 msgid "So be it."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:195
+#: ./Stone.dialog:195
 msgid "Ha ha ha, You fell for it! You get nothing from me! Hahahahah!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:197
+#: ./Stone.dialog:197
 msgid "You... monster..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:198
+#: ./Stone.dialog:198
 msgid "No one makes fun of Lily Stone's family store!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:199
+#: ./Stone.dialog:199
 msgid "Say your prayers, you oversized duck!!!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Stone.dialog:208
+#: ./Stone.dialog:209
 msgid "See you later."
 msgstr ""
+

@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: CHANGE THIS\n"
-"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-24 11:46+0000\n"
-"PO-Revision-Date: 2010-04-24 11:46+0000\n"
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-05-22 20:22+0000\n"
+"PO-Revision-Date: 2010-05-22 20:22+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-15\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:47
+#: ./Bender.dialog:47
 msgid ""
 "Congratulations on getting into the Red Guard! I voted for you and that was wh"
 "at got you in! I said we'd be buddies, didn't I? Want to stand guard at the ga"
@@ -18,332 +18,332 @@ msgid ""
 " the secrets of the Red Guard."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:60
+#: ./Bender.dialog:60
 msgid "Hello! I'm new here."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:62
+#: ./Bender.dialog:62
 msgid "Hello. I'm Bender, the dead man of this camp."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:67
+#: ./Bender.dialog:67
 msgid "What's wrong? You seem to be in pretty good shape for a dead man."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:69
+#: ./Bender.dialog:69
 msgid ""
 "Yeah. I'm the strongest man in all the world. That's 'cause I took ALL of the "
 "strength pills."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:70
+#: ./Bender.dialog:70
 msgid "And yet, I might be dead soon. The doc warned me, but I didn't listen. Damn."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:75
+#: ./Bender.dialog:75
 msgid "You took too many strength pills and now you're sick?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:77
+#: ./Bender.dialog:77
 msgid "Nah. The strength pills were fine. They made me strong. The doc said so."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:78
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:85
+#: ./Bender.dialog:78
+#: ./Bender.dialog:85
 msgid "It was the brain enlargement pills. They did me no good, man."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:83
+#: ./Bender.dialog:83
 msgid "What made you so sick?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:90
+#: ./Bender.dialog:90
 msgid "Brain enlargement pills? Sounds ridiculous!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:92
+#: ./Bender.dialog:92
 msgid "You know man, I got those offers everybody gets."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:93
+#: ./Bender.dialog:93
 msgid "They offer some brain enlargement pills to enhance brain performance."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:94
+#: ./Bender.dialog:94
 msgid "'Enlarg3 your brain! Bu.y pi11s! Che4p!!11!!!'"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:95
+#: ./Bender.dialog:95
 msgid "And everybody in the camp said I was dumb, which by the way IS NOT TRUE."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:96
+#: ./Bender.dialog:96
 msgid "So I thought these pills might make them think differently about me."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:101
+#: ./Bender.dialog:101
 msgid "But if you aren't dumb, why the brain enlargement pills?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:103
+#: ./Bender.dialog:103
 msgid "Because they said I was dumb. So I had to do something about it, eh?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:108
+#: ./Bender.dialog:108
 msgid "Isn't there some doctor in town who could cure you?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:110
+#: ./Bender.dialog:110
 msgid "Yeah, the doc could help. But he won't. I've threatened him, but he won't."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:111
+#: ./Bender.dialog:111
 msgid ""
 "He's so angry cause I didn't listen. He warned me about the brain enlargement "
 "pill offers."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:112
+#: ./Bender.dialog:112
 msgid ""
 "They can cause some awful forms of cancer. But I didn't listen. And now he ref"
 "uses to help me, man."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:117
+#: ./Bender.dialog:117
 msgid "Maybe I can help you somehow?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:119
+#: ./Bender.dialog:119
 msgid ""
 "Man, if you could do that, I'd give you everything. I still got some of those "
 "strength pills left."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:120
+#: ./Bender.dialog:120
 msgid "Also I could vote for you if you seek to join the guard of the town."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:121
+#: ./Bender.dialog:121
 msgid "Just get me a cure, and I'll be forever grateful!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:127
+#: ./Bender.dialog:127
 msgid "I'm sorry, but it looks like there's nothing I could do for you."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:129
+#: ./Bender.dialog:129
 msgid "Of course not. You're not a doctor. Only the doctor has the right medicine."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:130
+#: ./Bender.dialog:130
 msgid "But this rat would rather let me die!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:131
+#: ./Bender.dialog:131
 msgid "I'll rip his guts out as soon as I get my hands on him, man!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:136
+#: ./Bender.dialog:136
 msgid "I've got your medicine. With best wishes from the doctor."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:138
+#: ./Bender.dialog:138
 msgid "Wow, you really did it! I guess you beat the hell out of him."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:139
+#: ./Bender.dialog:139
 msgid "He wouldn't help me even after I pounded him a bit. A big bit."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:140
+#: ./Bender.dialog:140
 msgid "Man, you are the greatest hero!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:141
+#: ./Bender.dialog:141
 msgid ""
 "Here, take this as a reward - and you can be sure that I'll vote for you if yo"
 "u seek membership in the Red Guard!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:142
+#: ./Bender.dialog:142
 msgid "Thanks, man!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:153
+#: ./Bender.dialog:153
 msgid "Maybe taking the brain enlargement pills really was stupid."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:155
+#: ./Bender.dialog:155
 msgid "WHAT? Did you just say I'm stupid?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:156
+#: ./Bender.dialog:156
 msgid "Don't say it, man."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:157
+#: ./Bender.dialog:157
 msgid "I can kill you so much, that no one will recognize you!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:162
+#: ./Bender.dialog:162
 msgid "Where can I find this doctor?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:164
+#: ./Bender.dialog:164
 msgid "He's right inside this building. I'm waiting here for him, man."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:165
+#: ./Bender.dialog:165
 msgid ""
 "When he comes out, maybe I can pound him some more. Maybe then he'll help me a"
 "t last!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:166
+#: ./Bender.dialog:166
 msgid "Yes, he'll get a good beating. That will make him reconsider! That rat!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:171
+#: ./Bender.dialog:171
 msgid "About that medicine that you need..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:173
+#: ./Bender.dialog:173
 msgid "What have you got?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:174
+#: ./Bender.dialog:174
 msgid "What? You have nothing?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:175
+#: ./Bender.dialog:175
 msgid "Man, what are you doing here? Get the medicine! I need it now!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:180
+#: ./Bender.dialog:180
 msgid "How are you doing?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:182
+#: ./Bender.dialog:182
 msgid "Much better. I'm cured. You're a good guy, man!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:183
+#: ./Bender.dialog:183
 msgid "What was your name again?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:184
+#: ./Bender.dialog:184
 msgid "" .. get_player_name() .. "
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:185
+#: ./Bender.dialog:185
 msgid "Thanks "
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:186
+#: ./Bender.dialog:186
 msgid "And I'll sure vote for you if you want into the city guard! "
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:190
+#: ./Bender.dialog:190
 msgid "What secrets? Like a secret handshake?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:193
+#: ./Bender.dialog:193
 msgid "Nah. But that is an awesome idea."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:194
+#: ./Bender.dialog:194
 msgid "Let's work it out -- just be sure not to let the Doc in on it."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:199
+#: ./Bender.dialog:199
 msgid "Do you actually know any *real* secrets?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:202
+#: ./Bender.dialog:202
 msgid "Yeah, sure."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:203
+#: ./Bender.dialog:203
 msgid "I know the shop keeper Lily's password."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:204
+#: ./Bender.dialog:204
 msgid "I sometimes login to her account and mess with it for the LULZ."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:205
+#: ./Bender.dialog:205
 msgid "It's the end of the world as we know it, and I... am so incredibly bored."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:206
+#: ./Bender.dialog:206
 msgid "Erm... excuse me?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:207
+#: ./Bender.dialog:207
 msgid "Just a song my mother used to sing to me."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:212
+#: ./Bender.dialog:212
 msgid "Hey, could you let tell me Lily's password?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:214
+#: ./Bender.dialog:214
 msgid "Sure, but we will have to shake on it."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:215
+#: ./Bender.dialog:215
 msgid "OK..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:216
+#: ./Bender.dialog:216
 msgid "It is an asterisk repeated four times."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:218
+#: ./Bender.dialog:218
 msgid "Wow."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:219
+#: ./Bender.dialog:219
 msgid "I am the most awesome hacker ever."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:220
+#: ./Bender.dialog:220
 msgid "Sure..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:224
+#: ./Bender.dialog:224
 msgid "What are you doing now?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:226
+#: ./Bender.dialog:226
 msgid "I'm killing time. Guard work is very boring."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:231
+#: ./Bender.dialog:231
 msgid "Yeah, it was a totally idiotic idea to take those pills."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:233
+#: ./Bender.dialog:233
 msgid "What? I'm not an idiot! Understood?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:234
+#: ./Bender.dialog:234
 msgid "No one says I'm stupid! I'm NOT STUPID!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:235
+#: ./Bender.dialog:235
 msgid "I'LL BEAT YOU TO SPLINTERS!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:241
+#: ./Bender.dialog:242
 msgid "See you later."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:243
+#: ./Bender.dialog:244
 msgid "Later, man!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Bender.dialog:243
+#: ./Bender.dialog:244
 msgid "Stay cool dude."
 msgstr ""
 
