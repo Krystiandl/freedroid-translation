@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-05-22 20:22+0000\n"
+"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Engel.dialog:41
+msgid "Hi! I'm new here. "
+msgstr ""
+
+#: Engel.dialog:43
+msgid "Hello. We are the Fleischer brothers."
+msgstr ""
+
+#: Engel.dialog:44
+msgid "I am Engel. He is Geist, and he does not know the language."
+msgstr ""
+
+#: Engel.dialog:49
+msgid "What are you doing here?"
+msgstr ""
+
+#: Engel.dialog:51
+msgid "Revenge."
+msgstr ""
+
+#: Engel.dialog:52
+msgid "The bots have killed our mother. Now we kill them."
+msgstr ""
+
+#: Engel.dialog:53
+msgid "No mercy. We hunt them."
+msgstr ""
+
+#: Engel.dialog:58
+msgid "Can I help you somehow?"
+msgstr ""
+
+#: Engel.dialog:60
+msgid "Nein. Let us die as warriors. That is all we ask for."
+msgstr ""
+
+#: Engel.dialog:65
+msgid ""
+"If you keep standing here more bots will come and they will kill you. "
+"Go somewhere safe, and set up defense there."
+msgstr ""
+
+#: Engel.dialog:73
+msgid "If you keep standing here more bots will come and --"
+msgstr ""
+
+#: Engel.dialog:75
+msgid "Sehr gut. Let them come. We are ready."
+msgstr ""
+
+#: Engel.dialog:76
+msgid "What a beautiful day. Yes."
+msgstr ""
+
+#: Engel.dialog:81
+msgid "You are insane. Get out of here while you still can."
+msgstr ""
+
+#: Engel.dialog:83
+msgid "No."
+msgstr ""
+
+#: Engel.dialog:84
+msgid "Every day since the mess started I come here to fight the bots."
+msgstr ""
+
+#: Engel.dialog:85
+msgid "Today will be no different."
+msgstr ""
+
+#: Engel.dialog:86
+msgid "Do not try to stop us. We have our rifles loaded."
+msgstr ""
+
+#: Engel.dialog:91
+msgid "Where can I get some help?"
+msgstr ""
+
+#: Engel.dialog:93
+msgid "Nowhere. This is the end of the world. There is no help."
+msgstr ""
+
+#: Engel.dialog:94
+msgid ""
+"There is a city a bit south from here, but if I were you, I would not "
+"go there."
+msgstr ""
+
+#: Engel.dialog:95
+msgid ""
+"The Rot Guard is the ruler there, and cruelty is their solution to "
+"everything."
+msgstr ""
+
+#: Engel.dialog:96
+msgid "Real freedom is really dead."
+msgstr ""
+
+#: Engel.dialog:101
+msgid "You guys are totally nuts. Get a life."
+msgstr ""
+
+#: Engel.dialog:109
+msgid "You guys are tota --"
+msgstr ""
+
+#: Engel.dialog:111
+msgid "WHAT?! What is it that you want to say?"
+msgstr ""
+
+#: Engel.dialog:112
+msgid "Erm... I --"
+msgstr ""
+
+#: Engel.dialog:113
+msgid "WHAT!? SPIT IT OUT!"
+msgstr ""
+
+#: Engel.dialog:114
+msgid ""
+"Er... You guys are really great and I admire your bravery in the face "
+"of certain death."
+msgstr ""
+
+#: Engel.dialog:115
+msgid "Donnerwetter, you are a funny one."
+msgstr ""
+
+#: Engel.dialog:116
+msgid "I hope that one day we shall meet again, maybe in a better time."
+msgstr ""
+
+#: Engel.dialog:117
+msgid "Maybe then you will tell us other gut jokes that you know."
+msgstr ""
+
+#: Engel.dialog:118
+msgid "Maybe one day..."
+msgstr ""
+
+#: Engel.dialog:123
+msgid "What did you use to do before you became a hunter?"
+msgstr ""
+
+#: Engel.dialog:125
+msgid "I was a bot constructor. Built the killers of my mother."
+msgstr ""
+
+#: Engel.dialog:126
+msgid ""
+"Now I sell the parts that I remove from the bots to buy more "
+"ammunition and food."
+msgstr ""
+
+#: Engel.dialog:131
+msgid "I want to know how to extract modules from the bots."
+msgstr ""
+
+#: Engel.dialog:133
+msgid "Yes."
+msgstr ""
+
+#: Engel.dialog:134
+msgid "I will sell the information for a lot of Schaltkreise."
+msgstr ""
+
+#: Engel.dialog:135
+msgid "Interested?"
+msgstr ""
+
+#: Engel.dialog:140
+msgid "Can I join your hunt?"
+msgstr ""
+
+#: Engel.dialog:142
+msgid "Nein. Our problem. Our hunt."
+msgstr ""
+
+#: Engel.dialog:147
+msgid "I'll be going then."
+msgstr ""
+
+#: Engel.dialog:149
+msgid "Goodbye and viel Gluck."
+msgstr ""

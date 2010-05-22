@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-05-22 20:22+0000\n"
+"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Skippy.dialog:40
+msgid "What? You again? I don't want you here, get out."
+msgstr ""
+
+#: Skippy.dialog:41 Skippy.dialog:163
+msgid "See you later."
+msgstr ""
+
+#: Skippy.dialog:42
+msgid "Don't come back. I hate you."
+msgstr ""
+
+#: Skippy.dialog:48
+msgid "Hi! I'm new here."
+msgstr ""
+
+#: Skippy.dialog:50
+msgid ""
+"Great! A newcomer! Welcome! Welcome! I'm Skippy, and I'm your new "
+"best friend!"
+msgstr ""
+
+#: Skippy.dialog:51
+msgid ""
+"I already saw you coming. Due to my mapping device! It's great stuff!"
+msgstr ""
+
+#: Skippy.dialog:52
+msgid ""
+"And as a special favour, I'll sell you a mapping device for half "
+"price!"
+msgstr ""
+
+#: Skippy.dialog:53
+msgid "What a GREAT offer! You're so lucky!"
+msgstr ""
+
+#: Skippy.dialog:58
+msgid ""
+"Ok, if I want to buy me one of those mapping pills. How much are they?"
+msgstr ""
+
+#: Skippy.dialog:60
+msgid "They only cost 50. Special price only for you!"
+msgstr ""
+
+#: Skippy.dialog:65
+msgid "How do I activate a mapping device?"
+msgstr ""
+
+#: Skippy.dialog:67
+msgid "Oh, that's so simple. No need to activate anything at all."
+msgstr ""
+
+#: Skippy.dialog:68
+msgid ""
+"Just swallow the pill and the nanotechnological bots will enter your "
+"body."
+msgstr ""
+
+#: Skippy.dialog:69
+msgid ""
+"They'll merge with your eyes and transmit data to your brain using "
+"the optical nerves. Nice, eh?"
+msgstr ""
+
+#: Skippy.dialog:70
+msgid ""
+"Everything within 50 meters of you will be displayed on your retinas."
+msgstr ""
+
+#: Skippy.dialog:75
+msgid "You said you make these things yourself? How do you do that?"
+msgstr ""
+
+#: Skippy.dialog:77
+msgid ""
+"Oh, I've always been a geek. And I got blueprints from before the "
+"Great Assault."
+msgstr ""
+
+#: Skippy.dialog:78
+msgid "You can't order anything from a catalogue anymore."
+msgstr ""
+
+#: Skippy.dialog:79
+msgid "The only source of these gizmos is here. It's me!"
+msgstr ""
+
+#: Skippy.dialog:84
+msgid "Nanotechnology? Isn't that dangerous?"
+msgstr ""
+
+#: Skippy.dialog:86
+msgid ""
+"No way, man, I guarantee it. Don't believe anything you might have "
+"heard."
+msgstr ""
+
+#: Skippy.dialog:87
+msgid ""
+"This is a perfectly safe and tried technology. No risk at all! Really!"
+msgstr ""
+
+#: Skippy.dialog:88
+msgid ""
+"There is no risk of your head being eaten by a nanotechnological "
+"nightmare, or anything funny like that."
+msgstr ""
+
+#: Skippy.dialog:89
+msgid ""
+"I've used one myself for many years now: no side effects! It works "
+"just as great as on the first day!"
+msgstr ""
+
+#: Skippy.dialog:90
+msgid "Trust me! I'm your best friend and I wouldn't lie to you! Never!"
+msgstr ""
+
+#: Skippy.dialog:95
+msgid "I don't trust you."
+msgstr ""
+
+#: Skippy.dialog:97
+msgid "WHAT? But I'm your best friend! You must trust me!"
+msgstr ""
+
+#: Skippy.dialog:102
+msgid "I still do not trust you. You are selling junk to people."
+msgstr ""
+
+#: Skippy.dialog:104
+msgid ""
+"WHAT? Fine, you can forget about my great deals now! I don't want to "
+"trade with you anymore!"
+msgstr ""
+
+#: Skippy.dialog:105
+msgid "I'm no longer your best friend. Go away, you dirty hoser!"
+msgstr ""
+
+#: Skippy.dialog:112
+msgid "Do you sell anything else?"
+msgstr ""
+
+#: Skippy.dialog:114
+msgid ""
+"Sure! I also build some electronics devices, depending on what parts "
+"I can get my hands on."
+msgstr ""
+
+#: Skippy.dialog:116
+msgid "Resources are a bit scarce nowdays though."
+msgstr ""
+
+#: Skippy.dialog:121
+msgid "Ok, I'll take one."
+msgstr ""
+
+#: Skippy.dialog:124
+msgid "Here is your pill."
+msgstr ""
+
+#: Skippy.dialog:125
+msgid "Just swallow it, and it should work."
+msgstr ""
+
+#: Skippy.dialog:126
+msgid ""
+"I give a 30 day warranty and adjustments, in case it doesn't work as "
+"expected."
+msgstr ""
+
+#: Skippy.dialog:128
+msgid "Swallow pill and Press tab to see automap."
+msgstr ""
+
+#: Skippy.dialog:130
+msgid "Hey, I'm not a bank!"
+msgstr ""
+
+#: Skippy.dialog:131
+msgid "Come back when you can afford it."
+msgstr ""
+
+#: Skippy.dialog:138
+msgid "Nah, don't think so. "
+msgstr ""
+
+#: Skippy.dialog:140
+msgid "Your loss."
+msgstr ""
+
+#: Skippy.dialog:141
+msgid "Hope you won't get lost and killed out there."
+msgstr ""
+
+#: Skippy.dialog:142
+msgid "But don't count on it."
+msgstr ""
+
+#: Skippy.dialog:147
+msgid "Why are you so friendly?"
+msgstr ""
+
+#: Skippy.dialog:149
+msgid "Because you are my best friend!"
+msgstr ""
+
+#: Skippy.dialog:150
+msgid "I always take good care of my special buddies!"
+msgstr ""
+
+#: Skippy.dialog:155
+msgid "You are friendly only to sell me your stuff, aren't you?"
+msgstr ""
+
+#: Skippy.dialog:157
+msgid "No, never! I would never be so shallow!"
+msgstr ""
+
+#: Skippy.dialog:158
+msgid "I am friendly because I like you."
+msgstr ""
+
+#: Skippy.dialog:165
+msgid ""
+"Yes, we'll meet again, my friend, and I'll have other great deals for "
+"you."
+msgstr ""

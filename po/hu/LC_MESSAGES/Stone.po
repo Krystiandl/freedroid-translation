@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-05-22 20:22+0000\n"
+"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Stone.dialog:46
+msgid "Hi! I'm new here."
+msgstr ""
+
+#: Stone.dialog:48
+msgid "Welcome to this camp! I'm Ms. Stone. I run this shop."
+msgstr ""
+
+#: Stone.dialog:53
+msgid "I would like to trade with you."
+msgstr ""
+
+#: Stone.dialog:55
+msgid "Good! Here is the selection of items I have for sale."
+msgstr ""
+
+#: Stone.dialog:61
+msgid "Swords, clubs and maces? What is this? I want guns!"
+msgstr ""
+
+#: Stone.dialog:63
+msgid ""
+"Sorry, this is all we have for now. The Red Guard took away all of "
+"our poppers."
+msgstr ""
+
+#: Stone.dialog:64
+msgid "For our own good. Of course."
+msgstr ""
+
+#: Stone.dialog:70
+msgid "What can you tell me about the guards here?"
+msgstr ""
+
+#: Stone.dialog:72
+msgid "Ah, the Red Guard."
+msgstr ""
+
+#: Stone.dialog:73
+msgid "Stranger, best if you don't ask such questions."
+msgstr ""
+
+#: Stone.dialog:74
+msgid "They keep us alive and safe from the bots, but..."
+msgstr ""
+
+#: Stone.dialog:79
+msgid "But...?"
+msgstr ""
+
+#: Stone.dialog:81
+msgid "They run the city with strict laws and demand total obedience."
+msgstr ""
+
+#: Stone.dialog:82
+msgid ""
+"We all need to obey their rules. We need to work hard or they hurt us."
+msgstr ""
+
+#: Stone.dialog:83
+msgid ""
+"I guess I should not complain. The bots are far worse than the guards "
+"can be, but..."
+msgstr ""
+
+#: Stone.dialog:84
+msgid ""
+"Sucked dry by a bloodthirsty regime over many years or just sliced "
+"into bits by our former servants..."
+msgstr ""
+
+#: Stone.dialog:85
+msgid "... What's the difference?"
+msgstr ""
+
+#: Stone.dialog:90
+msgid "If things are so bad right now, why don't you leave?"
+msgstr ""
+
+#: Stone.dialog:95
+msgid "If things are so bad right now, why --"
+msgstr ""
+
+#: Stone.dialog:97
+msgid "I don't want to hear this jabberwocky."
+msgstr ""
+
+#: Stone.dialog:98
+msgid ""
+"A hint, Linarian: We don't have much, but we're alive and we'd rather "
+"stay that way."
+msgstr ""
+
+#: Stone.dialog:99
+msgid "If you want to start a revolution, you're on your own."
+msgstr ""
+
+#: Stone.dialog:103
+msgid "How is your business going?"
+msgstr ""
+
+#: Stone.dialog:106
+msgid "Thanks to you I have a chance now."
+msgstr ""
+
+#: Stone.dialog:107
+msgid ""
+"Ha! It's time to show the world that Lily Stone is not going down "
+"without putting up a damn good fight."
+msgstr ""
+
+#: Stone.dialog:109
+msgid "I'll be finished in about a week."
+msgstr ""
+
+#: Stone.dialog:110
+msgid ""
+"The Stone family always bought cheap and sold at a low profit. The "
+"times have changed, but not my prices."
+msgstr ""
+
+#: Stone.dialog:111
+msgid ""
+"The new taxes, the worldwide economic collapse and other factors are "
+"slowly murdering the family store."
+msgstr ""
+
+#: Stone.dialog:118
+msgid "Can I help you somehow Ms. Stone?"
+msgstr ""
+
+#: Stone.dialog:120
+msgid ""
+"No, there's nothing that can be done anymore. I don't have enough "
+"money to lift the shop from the downward spiral."
+msgstr ""
+
+#: Stone.dialog:121
+msgid "I'd need thousands to just survive the month."
+msgstr ""
+
+#: Stone.dialog:122
+msgid ""
+"The shop is dying, and there's nothing either of us can do about it."
+msgstr ""
+
+#: Stone.dialog:127
+msgid ""
+"Maybe there is still hope, Ms. Stone. How much exactly do you need?"
+msgstr ""
+
+#: Stone.dialog:129
+msgid ""
+"I couldn't get myself to look at my finance logs for a while now. I "
+"guess about two thousand circuits."
+msgstr ""
+
+#: Stone.dialog:137
+msgid "A pity that nothing can be done about your store."
+msgstr ""
+
+#: Stone.dialog:139
+msgid "Yes. A tradition of six generations will die with this shop..."
+msgstr ""
+
+#: Stone.dialog:140
+msgid "I guess it just had to happen one day..."
+msgstr ""
+
+#: Stone.dialog:145
+msgid "I have the money you need Ms. Stone. You can have it."
+msgstr ""
+
+#: Stone.dialog:147
+msgid "Is... Is this a joke? So much money? And you just give it to me?"
+msgstr ""
+
+#: Stone.dialog:148
+msgid "Thank you! Thank you! Thank you! Savior!"
+msgstr ""
+
+#: Stone.dialog:149
+msgid ""
+"But this isn't fair to you. The Stones are a family of fair merchants "
+"and I intend to uphold that tradition."
+msgstr ""
+
+#: Stone.dialog:150
+msgid ""
+"I need 1,547 circuits to get through the month. I will accept only "
+"that and not a transistor more."
+msgstr ""
+
+#: Stone.dialog:152
+msgid "Now it's fair. Thank you."
+msgstr ""
+
+#: Stone.dialog:153
+msgid "You've given me a bit of hope.. "
+msgstr ""
+
+#: Stone.dialog:154
+msgid "Wait a second... I think I recognize you..."
+msgstr ""
+
+#: Stone.dialog:155
+msgid "You are "
+msgstr ""
+
+#: Stone.dialog:156
+msgid "The hero..."
+msgstr ""
+
+#: Stone.dialog:160
+msgid "Hold on a minute, you are still a bit short on money."
+msgstr ""
+
+#: Stone.dialog:161
+msgid "Please return with the full amount if you want to help."
+msgstr ""
+
+#: Stone.dialog:162
+msgid ""
+"Otherwise you're throwing good money after bad, and I couldn't let "
+"you do that."
+msgstr ""
+
+#: Stone.dialog:168
+msgid "Yes, its me."
+msgstr ""
+
+#: Stone.dialog:170
+msgid ""
+"I thought so. My grandfather used to tell me stories about you. He "
+"said you would come here in a time of despair."
+msgstr ""
+
+#: Stone.dialog:171
+msgid "And here you are."
+msgstr ""
+
+#: Stone.dialog:172
+msgid "I hope your arrival changes the tide of this war..."
+msgstr ""
+
+#: Stone.dialog:173
+msgid ""
+"I have something here for you. I managed to hide this Shotgun from "
+"the Red Guard."
+msgstr ""
+
+#: Stone.dialog:174
+msgid ""
+"It used to belong to my grandfather, so it's very dear to me, but I'm "
+"sure he would have like you to have it on your journey to save us all."
+msgstr ""
+
+#: Stone.dialog:175
+msgid ""
+"Tux, if you ever find out who started the Great Assault... GIVE THEM "
+"A KICK IN THE ASS, FROM LILY STONE!!!"
+msgstr ""
+
+#: Stone.dialog:184
+msgid "It's not important who I am."
+msgstr ""
+
+#: Stone.dialog:186
+msgid "If you want to remain a stranger, I will respect your wishes."
+msgstr ""
+
+#: Stone.dialog:187
+msgid "So be it."
+msgstr ""
+
+#: Stone.dialog:195
+msgid "Ha ha ha, You fell for it! You get nothing from me! Hahahahah!"
+msgstr ""
+
+#: Stone.dialog:197
+msgid "You... monster..."
+msgstr ""
+
+#: Stone.dialog:198
+msgid "No one makes fun of Lily Stone's family store!"
+msgstr ""
+
+#: Stone.dialog:199
+msgid "Say your prayers, you oversized duck!!!"
+msgstr ""
+
+#: Stone.dialog:209
+msgid "See you later."
+msgstr ""

@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-05-22 20:22+0000\n"
+"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: c-net.dialog:34
+msgid " . "
+msgstr ""
+
+#: c-net.dialog:37
+msgid "Welcome to the Community Network."
+msgstr ""
+
+#: c-net.dialog:38
+msgid "Login : "
+msgstr ""
+
+#: c-net.dialog:45
+msgid " guest "
+msgstr ""
+
+#: c-net.dialog:53
+msgid "First time login detected."
+msgstr ""
+
+#: c-net.dialog:54
+msgid "Please enter your name"
+msgstr ""
+
+#: c-net.dialog:55 c-net.dialog:62
+msgid "Name : "
+msgstr ""
+
+#: c-net.dialog:57
+msgid "Please set password for your personalized guest login "
+msgstr ""
+
+#: c-net.dialog:58
+msgid ""
+"Use at least one lower case letter, one upper case letter, one "
+"number, and one symbol."
+msgstr ""
+
+#: c-net.dialog:59 c-net.dialog:64 c-net.dialog:77 c-net.dialog:96
+msgid "Password : "
+msgstr ""
+
+#: c-net.dialog:67 c-net.dialog:84 c-net.dialog:103 c-net.dialog:122
+msgid "Last login from dev/tty3 on unknown"
+msgstr ""
+
+#: c-net.dialog:73
+msgid "root"
+msgstr ""
+
+#: c-net.dialog:92
+msgid "lily"
+msgstr ""
+
+#: c-net.dialog:110
+msgid "cpain"
+msgstr ""
+
+#: c-net.dialog:114
+msgid "Password: "
+msgstr ""
+
+#: c-net.dialog:129
+msgid "IM A BUG. REPORT ME!"
+msgstr ""
+
+#: c-net.dialog:132
+msgid "Login incorrect"
+msgstr ""
+
+#: c-net.dialog:133
+msgid "Connection to c-net terminated."
+msgstr ""
+
+#: c-net.dialog:138
+msgid "cd info_commands/"
+msgstr ""
+
+#: c-net.dialog:148 c-net.dialog:220 c-net.dialog:278 c-net.dialog:325
+msgid "cd ../"
+msgstr ""
+
+#: c-net.dialog:158 c-net.dialog:162
+msgid "date"
+msgstr ""
+
+#: c-net.dialog:163
+msgid "Date unknown"
+msgstr ""
+
+#: c-net.dialog:168 c-net.dialog:171
+msgid "finger"
+msgstr ""
+
+#: c-net.dialog:182
+msgid "users"
+msgstr ""
+
+#: c-net.dialog:192 c-net.dialog:195
+msgid "whoami"
+msgstr ""
+
+#: c-net.dialog:196
+msgid "guest"
+msgstr ""
+
+#: c-net.dialog:201 c-net.dialog:204
+msgid "uname"
+msgstr ""
+
+#: c-net.dialog:205
+msgid "Nkernel"
+msgstr ""
+
+#: c-net.dialog:210
+msgid "cd file_commands/"
+msgstr ""
+
+#: c-net.dialog:230
+msgid "ls"
+msgstr ""
+
+#: c-net.dialog:242
+msgid "mountdisk.sh"
+msgstr ""
+
+#: c-net.dialog:245
+msgid "./mountdisk.sh"
+msgstr ""
+
+#: c-net.dialog:246
+msgid "no disk found"
+msgstr ""
+
+#: c-net.dialog:251
+msgid "statistics.pl"
+msgstr ""
+
+#: c-net.dialog:255
+msgid "Corrupted file."
+msgstr ""
+
+#: c-net.dialog:256
+msgid "Bot #Dead# Tux #Hacked/Failed#Ratio"
+msgstr ""
+
+#: c-net.dialog:258
+msgid "tux@c-net:~$"
+msgstr ""
+
+#: c-net.dialog:262
+msgid "cd documents/"
+msgstr ""
+
+#: c-net.dialog:288
+msgid "forkBOMB.sh -arm bomb"
+msgstr ""
+
+#: c-net.dialog:290
+msgid "bomb armed"
+msgstr ""
+
+#: c-net.dialog:291 c-net.dialog:299 c-net.dialog:310
+msgid "root@c-net:~$"
+msgstr ""
+
+#: c-net.dialog:296
+msgid "forkBOMB.sh -disarm bomb"
+msgstr ""
+
+#: c-net.dialog:298
+msgid "bomb defused"
+msgstr ""
+
+#: c-net.dialog:305
+msgid "forkBOMB.sh -execute"
+msgstr ""
+
+#: c-net.dialog:309
+msgid "Script run. After logout this terminal will be disabled."
+msgstr ""
+
+#: c-net.dialog:315
+msgid "cd games/"
+msgstr ""
+
+#: c-net.dialog:335
+msgid "nethack"
+msgstr ""
+
+#: c-net.dialog:344
+msgid "global_thermonuclear_war"
+msgstr ""
+
+#: c-net.dialog:347
+msgid "./global_thermonuclear_war"
+msgstr ""
+
+#: c-net.dialog:353
+msgid "logout"
+msgstr ""
+
+#: c-net.dialog:357
+msgid "Connection to c-net closed."
+msgstr ""

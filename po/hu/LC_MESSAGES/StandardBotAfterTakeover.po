@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-05-22 20:22+0000\n"
+"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: StandardBotAfterTakeover.dialog:33
+msgid ".. bot_name().."
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:34
+msgid "Login : "
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:35
+msgid "tux"
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:36
+msgid "Password : "
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:37
+msgid "*******"
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:38
+msgid "Last login from dev/ttyS0 on Sun, 23 mar 2057."
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:41
+msgid "This "
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:47
+msgid "cd repair&settings/"
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:54
+msgid "./hold_position.sh"
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:56
+msgid "Holding position."
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:57
+msgid "script V 1.0.2 (c) gnu.org, 2054"
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:58
+#: StandardBotAfterTakeover.dialog:83
+msgid "Checking requirements..."
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:59
+msgid "Movement unit: Power-down... [Done]."
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:60
+msgid "Status: All movement suppressed."
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:67
+msgid "./follow_me.sh"
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:69
+msgid "Initiating tracking sequence."
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:70
+msgid "Movement unit: Enabled."
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:71
+msgid "Trying to keep up with "
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:72
+msgid "Status: Following "
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:79
+msgid "./move_freely.sh"
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:81
+msgid "Enable movement."
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:82
+msgid "script V 1.0.5 (c) gnu.org, 2054"
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:84
+msgid "Movement unit: Power-up... [Done]."
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:85
+msgid "Resuming normal patrol operations... [Done]"
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:86
+msgid "Status: Patrolling."
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:93
+msgid "./hcf.py"
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:96
+msgid "Are you really sure you want to destroy this robot? Y/N"
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:102
+msgid "Yes"
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:104
+msgid "Destruction confirmed."
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:110
+msgid "No"
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:112
+msgid "Destrucion averted."
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:120
+msgid "Executing: Halt and Catch Fire."
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:121
+msgid "Warning! Cooling subsystems disabled."
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:122
+msgid ""
+"Warning! Spontaneous oxidization witH emis$ion of light aND heAt "
+"detecteddd in THE#main| procesIng unit."
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:123
+msgid "WArn|n*! SsTeM=#faiPure%^#n 3 S 1()$++"
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:128
+msgid "()%#@(% THE BLADE IS YOURS. )##%*&%*!"
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:139
+msgid "logout"
+msgstr ""
+
+#: StandardBotAfterTakeover.dialog:141
+msgid "Closing remote connection..."
+msgstr ""

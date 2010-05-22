@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-05-22 20:22+0000\n"
+"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Pendragon.dialog:41
+msgid "Hi! I'm new here."
+msgstr ""
+
+#: Pendragon.dialog:43
+msgid "You don't say. I'm not living here either. I'm just on vacation."
+msgstr ""
+
+#: Pendragon.dialog:44
+msgid ""
+"Normally I'm a fighter. But now I try to relax, chill, take it easy "
+"and have a lot of fun."
+msgstr ""
+
+#: Pendragon.dialog:45
+msgid "And in case you couldn't tell, that was sarcasm."
+msgstr ""
+
+#: Pendragon.dialog:50
+msgid "Could you teach me how to fight?"
+msgstr ""
+
+#: Pendragon.dialog:53
+msgid ""
+"NO! NO! Er... I mean, not right now. I am busy. Come again later."
+msgstr ""
+
+#: Pendragon.dialog:55
+msgid "Sure. I can help you."
+msgstr ""
+
+#: Pendragon.dialog:56
+msgid "For a price. Hundred circuits should be enough."
+msgstr ""
+
+#: Pendragon.dialog:62
+msgid "Teach me the basic stuff."
+msgstr ""
+
+#: Pendragon.dialog:64
+msgid "Are you sure?"
+msgstr ""
+
+#: Pendragon.dialog:65
+msgid ""
+"I only accept students that already have some experience in fighting "
+"bots."
+msgstr ""
+
+#: Pendragon.dialog:70
+msgid "Yes (cost 100 valuable circuits, 5 ability points)"
+msgstr ""
+
+#: Pendragon.dialog:75
+msgid "Let us begin then."
+msgstr ""
+
+#: Pendragon.dialog:76
+msgid "Come closer..."
+msgstr ""
+
+#: Pendragon.dialog:77
+msgid "HA!"
+msgstr ""
+
+#: Pendragon.dialog:78
+msgid "Ouch! What the hell are you doing?"
+msgstr ""
+
+#: Pendragon.dialog:79
+msgid "Lesson number one. Never trust the opponent."
+msgstr ""
+
+#: Pendragon.dialog:80
+msgid "Just let me get up an -- ouch! Stop it."
+msgstr ""
+
+#: Pendragon.dialog:81
+msgid "Lesson number two. The bots have no mercy."
+msgstr ""
+
+#: Pendragon.dialog:82
+msgid "They won't let you get up if you fall down. They will kill you."
+msgstr ""
+
+#: Pendragon.dialog:83
+msgid "Now, lesson number -- ugh! That hurt!"
+msgstr ""
+
+#: Pendragon.dialog:84
+msgid "Lesson number three. Never underestimate the enemy."
+msgstr ""
+
+#: Pendragon.dialog:85
+msgid "Ugh. Yes. You are correct."
+msgstr ""
+
+#: Pendragon.dialog:86
+msgid "I need to... Lie down for a while... My head hurts..."
+msgstr ""
+
+#: Pendragon.dialog:87
+msgid ""
+"Lesson number four. Never hit your sparring partner with full force."
+msgstr ""
+
+#: Pendragon.dialog:88
+msgid "I think you broke my ribs..."
+msgstr ""
+
+#: Pendragon.dialog:89
+msgid "This is enough training for today."
+msgstr ""
+
+#: Pendragon.dialog:93
+msgid ""
+"You don't have enough experience. I can't teach you anything more "
+"right now."
+msgstr ""
+
+#: Pendragon.dialog:94
+msgid "First collect more experience. Then we can go on."
+msgstr ""
+
+#: Pendragon.dialog:96
+msgid ""
+"You don't have enough valuable circuits on you! Come back when you "
+"have the money."
+msgstr ""
+
+#: Pendragon.dialog:100
+msgid ""
+"Hey, wake up! I taught you that stuff already. Go practice on the "
+"bots, if you really want more training."
+msgstr ""
+
+#: Pendragon.dialog:106
+msgid "Teach me how to smash concrete blocks with my bare hands."
+msgstr ""
+
+#: Pendragon.dialog:108
+msgid "Oh, Linarian, you amuse me so."
+msgstr ""
+
+#: Pendragon.dialog:109
+msgid "You are quite an ambitious fellow."
+msgstr ""
+
+#: Pendragon.dialog:110
+msgid ""
+"First learn the basics. Spend a year working on that, and then I'll "
+"be able to teach you some advanced tricks."
+msgstr ""
+
+#: Pendragon.dialog:115
+msgid "Teach me Ninjitsu."
+msgstr ""
+
+#: Pendragon.dialog:117
+msgid "Go away."
+msgstr ""
+
+#: Pendragon.dialog:122
+msgid ""
+"I want to know the Crazy Double-Fang Wolf-Sunlight I-Like-Tea Death "
+"Touch of Major Destruction Flesh-Bursting Attack!"
+msgstr ""
+
+#: Pendragon.dialog:124
+msgid "Wow."
+msgstr ""
+
+#: Pendragon.dialog:125
+msgid ""
+"You have a very rich imagination. There is no such thing. Get a life."
+msgstr ""
+
+#: Pendragon.dialog:130
+msgid ""
+"I want to know the forbidden skill of furuike ya kawazu tobikomu mizu "
+"no oto."
+msgstr ""
+
+#: Pendragon.dialog:132
+msgid "This is starting to make me angry. Shut up and go away."
+msgstr ""
+
+#: Pendragon.dialog:137
+msgid "Teach me how to flip out and kill people!"
+msgstr ""
+
+#: Pendragon.dialog:139
+msgid "*sigh*"
+msgstr ""
+
+#: Pendragon.dialog:140
+msgid "Very well. Observe very carefully."
+msgstr ""
+
+#: Pendragon.dialog:141
+msgid "You will see this only once, so make sure to pay attention."
+msgstr ""
+
+#: Pendragon.dialog:142
+msgid "DIEEEE!"
+msgstr ""
+
+#: Pendragon.dialog:149
+msgid "Enough for now."
+msgstr ""
+
+#: Pendragon.dialog:151
+msgid "Fine."
+msgstr ""
+
+#: Pendragon.dialog:156
+msgid "See you later."
+msgstr ""
+
+#: Pendragon.dialog:158
+msgid "Have courage."
+msgstr ""

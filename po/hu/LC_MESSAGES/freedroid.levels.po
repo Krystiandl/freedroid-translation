@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-05-22 20:22+0000\n"
+"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: freedroid.levels:15
+msgid "Town"
+msgstr ""
+
+#: freedroid.levels:3868
+msgid "Warehouse Level 1"
+msgstr ""
+
+#: freedroid.levels:4830
+msgid "Warehouse Level 2"
+msgstr ""
+
+#: freedroid.levels:5482
+msgid "Kevins Underground Station"
+msgstr ""
+
+#: freedroid.levels:5949
+msgid "Machine Deck Control Room"
+msgstr ""
+
+#: freedroid.levels:6684 freedroid.levels:8768
+msgid "Disruptor Shield Control"
+msgstr ""
+
+#: freedroid.levels:8196
+msgid "Maintenance Tunnels"
+msgstr ""
+
+#: freedroid.levels:9476
+msgid "Temple Wood"
+msgstr ""
+
+#: freedroid.levels:11340
+msgid "Crystal Fields"
+msgstr ""
+
+#: freedroid.levels:12390 freedroid.levels:34701 freedroid.levels:35049
+#: freedroid.levels:35445
+msgid "Desert Valley"
+msgstr ""
+
+#: freedroid.levels:12870
+msgid "Slasher Mountains"
+msgstr ""
+
+#: freedroid.levels:13892
+msgid "Cryo Stasis Lab"
+msgstr ""
+
+#: freedroid.levels:16263
+msgid "Telemetry"
+msgstr ""
+
+#: freedroid.levels:16429
+msgid "Scientists quarters and Telemetry"
+msgstr ""
+
+#: freedroid.levels:17907
+msgid "Disruptor Base Access Tunnel"
+msgstr ""
+
+#: freedroid.levels:18997
+msgid "Terminal Shore"
+msgstr ""
+
+#: freedroid.levels:19871
+msgid "Ethereal Meadows"
+msgstr ""
+
+#: freedroid.levels:20909
+msgid "Kevins Main Energy Source"
+msgstr ""
+
+#: freedroid.levels:21136 freedroid.levels:21641
+msgid "Northern Shoreline"
+msgstr ""
+
+#: freedroid.levels:22260 freedroid.levels:22378 freedroid.levels:22496
+#: freedroid.levels:35905
+msgid "World Edge Sea"
+msgstr ""
+
+#: freedroid.levels:22614 freedroid.levels:38514
+msgid "Hell Fortress"
+msgstr ""
+
+#: freedroid.levels:23714
+msgid "Broken Glass Path"
+msgstr ""
+
+#: freedroid.levels:24615
+msgid "Swamp"
+msgstr ""
+
+#: freedroid.levels:25107
+msgid "Mushroom Forest"
+msgstr ""
+
+#: freedroid.levels:25225
+msgid "Some temple"
+msgstr ""
+
+#: freedroid.levels:25420
+msgid "Novice Arena"
+msgstr ""
+
+#: freedroid.levels:25637
+msgid "Master Arena"
+msgstr ""
+
+#: freedroid.levels:25854
+msgid "Hell Fortress entrance"
+msgstr ""
+
+#: freedroid.levels:29148
+msgid "Power Facility Underground"
+msgstr ""
+
+#: freedroid.levels:29452
+msgid "Crystal Cavens"
+msgstr ""
+
+#: freedroid.levels:31876
+msgid "Forgotten bunker"
+msgstr ""
+
+#: freedroid.levels:32169
+msgid "Secret research center"
+msgstr ""
+
+#: freedroid.levels:33508
+msgid "Secret area service tunnels"
+msgstr ""
+
+#: freedroid.levels:33743
+msgid "Tutorial"
+msgstr ""
+
+#: freedroid.levels:36023 freedroid.levels:36363
+msgid "World Edge"
+msgstr ""
+
+#: freedroid.levels:36254
+msgid "Old abandoned complex"
+msgstr ""
+
+#: freedroid.levels:36508 freedroid.levels:39586 freedroid.levels:39704
+#: freedroid.levels:39822 freedroid.levels:39940 freedroid.levels:40276
+msgid "New level just created"
+msgstr ""
+
+#: freedroid.levels:36626
+msgid "Worker Mines"
+msgstr ""
+
+#: freedroid.levels:37121 freedroid.levels:37310
+msgid "Southern Shorline"
+msgstr ""
+
+#: freedroid.levels:37864
+msgid "HF North Perimeter Defense Structure"
+msgstr ""
+
+#: freedroid.levels:40058
+msgid "Mashine Deck Upper Catacombs"
+msgstr ""
+
+#: freedroid.levels:40167
+msgid "Machine Deck Lower Catacombs"
+msgstr ""

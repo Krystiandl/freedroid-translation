@@ -1,0 +1,397 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-05-22 20:22+0000\n"
+"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Kevin.dialog:35
+msgid "Hello."
+msgstr ""
+
+#: Kevin.dialog:36
+msgid "Well, hello again."
+msgstr ""
+
+#: Kevin.dialog:63
+msgid ""
+"Hello... Oh dear... You look awful... Who did this to you? Did they "
+"torture you?"
+msgstr ""
+
+#: Kevin.dialog:65
+msgid ""
+"Hi. I haven't slept for a few weeks, so I'm just a little bit tired."
+msgstr ""
+
+#: Kevin.dialog:66
+msgid "Don't worry about me. I'll be fine."
+msgstr ""
+
+#: Kevin.dialog:67
+msgid "I'm Kevin, a computer security expert."
+msgstr ""
+
+#: Kevin.dialog:68
+msgid "In other words: You are a hacker."
+msgstr ""
+
+#: Kevin.dialog:69
+msgid "Eh... I guess you could put it that way, yes."
+msgstr ""
+
+#: Kevin.dialog:74
+msgid "I'll see after the energy supply now."
+msgstr ""
+
+#: Kevin.dialog:76
+msgid ""
+"That's great. You can't miss it. It's not hard to find. Enter my "
+"garden and find the lower station entrance there."
+msgstr ""
+
+#: Kevin.dialog:77
+msgid ""
+"It would be best not to bother with the resistance on the first "
+"level. You only need to take care of the energy supply. And that's on "
+"the SECOND level."
+msgstr ""
+
+#: Kevin.dialog:78
+msgid ""
+"I hope you have a laser pistol or something like that, the bots there "
+"will rip you apart if you try to approach them."
+msgstr ""
+
+#: Kevin.dialog:79
+msgid ""
+"Best make it quick. I'm already sick of stabilizing the stupid power "
+"grid."
+msgstr ""
+
+#: Kevin.dialog:85
+msgid ""
+"I'm sorry, but I don't think there's anything I could do about that "
+"energy supply."
+msgstr ""
+
+#: Kevin.dialog:87
+msgid "Too bad. Now get out of my sight."
+msgstr ""
+
+#: Kevin.dialog:92
+msgid "About that project you said you have running..."
+msgstr ""
+
+#: Kevin.dialog:95
+msgid ""
+"I've already received the results from the evaluation of my data in "
+"the cluster. Good work."
+msgstr ""
+
+#: Kevin.dialog:97
+msgid ""
+"Yes, since the energy supply has been constant, results were much "
+"better. I've achieved my goal."
+msgstr ""
+
+#: Kevin.dialog:98
+msgid ""
+"I've obtained secret data on the town surroundings. We'll need a big "
+"computer cluster to evaluate it properly."
+msgstr ""
+
+#: Kevin.dialog:99
+msgid ""
+"Once we've evaluated the data, we might find a way to secure the town "
+"and ensure our survival. But it's too early to tell yet."
+msgstr ""
+
+#: Kevin.dialog:100
+msgid ""
+"If I only had a suitable cluster. Then we could start data evaluation "
+"right away."
+msgstr ""
+
+#: Kevin.dialog:107
+msgid "Maybe I can help somehow to find a suitable cluster."
+msgstr ""
+
+#: Kevin.dialog:110
+msgid ""
+"You've already agreed to take my data cube to the cluster. I have no "
+"influence on this matter anymore."
+msgstr ""
+
+#: Kevin.dialog:111
+msgid ""
+"The fate of the town now rests in your hands. Take the data cube I "
+"gave you to the cluster. Only there can the data be evaluated "
+"properly."
+msgstr ""
+
+#: Kevin.dialog:113
+msgid ""
+"That would be great of course. I know that the old town is "
+"maintaining a suitable information infrastructure and has had a "
+"proper cluster running for some time now."
+msgstr ""
+
+#: Kevin.dialog:114
+msgid ""
+"The only problem is, I can't go back to town. They would probably "
+"kill me because of... a misunderstanding."
+msgstr ""
+
+#: Kevin.dialog:115
+msgid ""
+"Also, the cluster is inside of the guard citadel. I hear that only "
+"members of the Red Guard are allowed to enter the complex."
+msgstr ""
+
+#: Kevin.dialog:116
+msgid ""
+"But maybe you can arrange that somehow. For me it would be "
+"impossible, because of my reputation."
+msgstr ""
+
+#: Kevin.dialog:117
+msgid ""
+"I'll give you the data cube. Take it to the computer cluster "
+"administration people. They will know what to do. And don't mention "
+"me there."
+msgstr ""
+
+#: Kevin.dialog:125
+msgid "How about some reward for securing your energy supply area?"
+msgstr ""
+
+#: Kevin.dialog:128
+msgid ""
+"I've already rewarded you for that. Don't steal my time. I'm busy."
+msgstr ""
+
+#: Kevin.dialog:130
+msgid "What do you want?"
+msgstr ""
+
+#: Kevin.dialog:137
+msgid "I want to become a hacker."
+msgstr ""
+
+#: Kevin.dialog:139
+msgid ""
+"Your desire for information amuses me. Your wish will be granted. I "
+"will teach you how to improve your skill in designing hacking "
+"programs."
+msgstr ""
+
+#: Kevin.dialog:140
+msgid ""
+"You must know that hacking is an art. It is easy to chop your enemy "
+"to bits with an axe or shred it to atoms with a grenade... But "
+"hacking requires skill."
+msgstr ""
+
+#: Kevin.dialog:141
+msgid ""
+"Look at this terminal... I am connected to a remote system. A fool "
+"would just launch a thousand attacks, but a skilled intruder stops "
+"and thinks."
+msgstr ""
+
+#: Kevin.dialog:142
+msgid ""
+"You must know when to hack and when not to hack. You must attack when "
+"the enemy is unprepared for you."
+msgstr ""
+
+#: Kevin.dialog:143
+msgid ""
+"Now watch. Observe carefully. See how I enter the system... Yes. "
+"Watch the connection glowing, burning like a bright star..."
+msgstr ""
+
+#: Kevin.dialog:144
+msgid ""
+"...only to die seconds after, as the system far away collapses under "
+"it's own weight... It's done."
+msgstr ""
+
+#: Kevin.dialog:145
+msgid ""
+"That is all I want to show you for now. Maybe later I will teach you "
+"something else."
+msgstr ""
+
+#: Kevin.dialog:153
+msgid "I don't want any reward. Just gratitude."
+msgstr ""
+
+#: Kevin.dialog:155
+msgid ""
+"Of course you can have that. There, I'm most grateful to you. That "
+"should do."
+msgstr ""
+
+#: Kevin.dialog:163
+msgid "I want money."
+msgstr ""
+
+#: Kevin.dialog:165
+msgid "Eh... Here, take these 900 circuits. That should be enough."
+msgstr ""
+
+#: Kevin.dialog:173
+msgid "Jasmine just blew up."
+msgstr ""
+
+#: Kevin.dialog:175
+msgid "Oh. Right."
+msgstr ""
+
+#: Kevin.dialog:176
+msgid "Well, thanks for telling me."
+msgstr ""
+
+#: Kevin.dialog:177
+msgid "Back to the drawing board, I guess..."
+msgstr ""
+
+#: Kevin.dialog:183
+msgid "I thought you would be more worried about her death."
+msgstr ""
+
+#: Kevin.dialog:185
+msgid "Why? I have backups from last Friday. No reason to worry at all."
+msgstr ""
+
+#: Kevin.dialog:186
+msgid ""
+"It will be a while till I get her together again, but she will be "
+"fine."
+msgstr ""
+
+#: Kevin.dialog:190
+msgid "What can you teach me about hacking?"
+msgstr ""
+
+#: Kevin.dialog:194
+msgid "Not now, I'm busy."
+msgstr ""
+
+#: Kevin.dialog:195
+msgid ""
+"I've got an important research project going on. In fact this project "
+"might be crucial to the survival of the whole town."
+msgstr ""
+
+#: Kevin.dialog:196
+msgid ""
+"There is tremendous importance in it. But the project is in danger. "
+"There are some maintenance bots down at the energy source."
+msgstr ""
+
+#: Kevin.dialog:197
+msgid ""
+"They are trying to 'maintain' machines by rebooting them all the "
+"time. This must stop, but I can't leave this place."
+msgstr ""
+
+#: Kevin.dialog:198
+msgid ""
+"I must balance the remaining power in such a way that my project can "
+"continue uninterrupted."
+msgstr ""
+
+#: Kevin.dialog:199
+msgid ""
+"Now, if you go down there and make the power flow stable, then I'll "
+"find the time to teach you something."
+msgstr ""
+
+#: Kevin.dialog:203
+msgid ""
+"As I've told you, I cannot teach you anything right now. I don't have "
+"the time."
+msgstr ""
+
+#: Kevin.dialog:204
+msgid ""
+"I must see that the flaky energy stream is distributed in such a way "
+"that my research project can continue."
+msgstr ""
+
+#: Kevin.dialog:205
+msgid ""
+"If you get rid of the maintenance bots on the second underground "
+"level of this station, I will find the time to teach you something."
+msgstr ""
+
+#: Kevin.dialog:208
+msgid "I can teach you everything. For a price of course."
+msgstr ""
+
+#: Kevin.dialog:209
+msgid "Three hundred per lesson, up front."
+msgstr ""
+
+#: Kevin.dialog:210
+msgid "Still interested?"
+msgstr ""
+
+#: Kevin.dialog:220
+msgid ""
+"Sorry, there is no human alive that could give you further training."
+msgstr ""
+
+#: Kevin.dialog:230 Kevin.dialog:244 Kevin.dialog:257 Kevin.dialog:270
+#: Kevin.dialog:283 Kevin.dialog:296 Kevin.dialog:309 Kevin.dialog:322
+msgid "Yes, please teach me."
+msgstr ""
+
+#: Kevin.dialog:232
+msgid ""
+"Good. The most important thing about hacking is to understand the "
+"nature of the machine you want to hack."
+msgstr ""
+
+#: Kevin.dialog:233
+msgid ""
+"Once you have figured out what the creators of the system were "
+"thinking when setting it up, you'll also know how to best hack it."
+msgstr ""
+
+#: Kevin.dialog:234
+msgid ""
+"Now I see the feature set of your hacking program has already "
+"improved a lot."
+msgstr ""
+
+#: Kevin.dialog:246 Kevin.dialog:259 Kevin.dialog:272 Kevin.dialog:285
+#: Kevin.dialog:298 Kevin.dialog:311 Kevin.dialog:324
+msgid "blabla"
+msgstr ""
+
+#: Kevin.dialog:350
+msgid ""
+"Sorry, my memory databank is filled to the brim right now. Can't "
+"learn more until I get some more experience."
+msgstr ""
+
+#: Kevin.dialog:364
+msgid "I'll be off then."
+msgstr ""
+
+#: Kevin.dialog:366
+msgid ""
+"Be careful. The bots are in a foul mood today. Very easy to get "
+"killed. Very easy."
+msgstr ""

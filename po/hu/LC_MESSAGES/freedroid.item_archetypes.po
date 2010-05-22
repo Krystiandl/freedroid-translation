@@ -1,0 +1,1426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-05-22 20:22+0000\n"
+"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: freedroid.item_archetypes:52
+msgid ""
+"Spawning item index 0 in editor or drop ingame causes CTD! Dont click "
+"this! OK this seemes fixed now. However the first item is still VERY "
+"buggy ingame (cant be dropped, can't be switched to from inventory "
+"etc)"
+msgstr ""
+
+#: freedroid.item_archetypes:61
+msgid "Dummy item. If you see this, report a bug."
+msgstr ""
+
+#: freedroid.item_archetypes:163
+msgid "Big kitchen knife"
+msgstr ""
+
+#: freedroid.item_archetypes:179
+msgid ""
+"Light and maneuverable in combat, but unfortunately not very "
+"effective in cutting through steel as well as quickly reaching the "
+"point of breaking if you try. Though for sure better than hitting at "
+"metal with your bare fists."
+msgstr ""
+
+#: freedroid.item_archetypes:201
+msgid "Cutlass"
+msgstr ""
+
+#: freedroid.item_archetypes:217
+msgid ""
+"Long reach while remaining maneuverable enough in combat to find the "
+"weak spots in droid armor are the advantages that partially makes up "
+"for the inability of a cutting blade to incur lots of damage on a "
+"heavily protected target. Repeatedly striking at metal quickly "
+"damages the blade though."
+msgstr ""
+
+#: freedroid.item_archetypes:239
+msgid "Antique Greatsword"
+msgstr ""
+
+#: freedroid.item_archetypes:255
+msgid ""
+"Very maneuverable for it's size, and heavy enough to punch though "
+"weaker bot armor in 1 hit, the only real disadvantage of this old "
+"weapon is the same as for other swords. It just doesn't last long "
+"when cutting into metal parts."
+msgstr ""
+
+#: freedroid.item_archetypes:277
+msgid "Chainsaw"
+msgstr ""
+
+#: freedroid.item_archetypes:293
+msgid ""
+"Quite efficient at separating limbs from even a droid body, or "
+"digging through weaker armored parts to cause massive damage on "
+"internal electronics. But, the chain wears out very quickly when used "
+"on materials harder than wood, and supply shortages of new chains and "
+"other parts makes it expensive to maintain."
+msgstr ""
+
+#: freedroid.item_archetypes:321
+msgid "Meat cleaver"
+msgstr ""
+
+#: freedroid.item_archetypes:337
+msgid ""
+"Designed to chop through meat and bones, it's not as fragile as "
+"cutting blades when used against metal enemies. However, it is a bit "
+"slower and clumsier to use than more graceful weapons."
+msgstr ""
+
+#: freedroid.item_archetypes:359
+msgid "Small Axe"
+msgstr ""
+
+#: freedroid.item_archetypes:375
+msgid ""
+"While this axe was made for splitting wood, with some luck it can "
+"damage vital parts of a droid as well."
+msgstr ""
+
+#: freedroid.item_archetypes:397
+msgid "Large Axe"
+msgstr ""
+
+#: freedroid.item_archetypes:413
+msgid ""
+"While this weapon is somewhat slow and cumbersome to use, it is as "
+"good at leaving big dents in droids as it is at felling trees. A good "
+"hit is often capable of taking out lesser droids in a single hit"
+msgstr ""
+
+#: freedroid.item_archetypes:441
+msgid "Hunting knife"
+msgstr ""
+
+#: freedroid.item_archetypes:457
+msgid ""
+"A short stabbing dagger doesn't have much effect on the metal body of "
+"a droid, but with luck you might damage some wires or hoses in less "
+"protected areas, so it's still better than trying to take the "
+"machines on with bare hands."
+msgstr ""
+
+#: freedroid.item_archetypes:479
+msgid "Metal spear"
+msgstr ""
+
+#: freedroid.item_archetypes:495
+msgid ""
+"A spear forged from metal considerably improves on a wooden spears "
+"damage and durability, but the increased weight does make it somewhat "
+"slower and more cumbersome to use. It's still a fast weapon though, "
+"compared to most others."
+msgstr ""
+
+#: freedroid.item_archetypes:523
+msgid "Iron pipe"
+msgstr ""
+
+#: freedroid.item_archetypes:539
+msgid ""
+"A medium sized water pipe of iron can turn into an effective weapon "
+"even versus a metal opponent. While not likely to penetrate the armor "
+"of a bot, the impact force alone can still damage and shake loose "
+"circuit boards and weldings beneath the protective metal layer."
+msgstr ""
+
+#: freedroid.item_archetypes:561
+msgid "Big wrench"
+msgstr ""
+
+#: freedroid.item_archetypes:577
+msgid ""
+"A big heavy wrench can be surprisingly efficient in turning a bot "
+"into second hand parts, in a hands on, brutal way if needed."
+msgstr ""
+
+#: freedroid.item_archetypes:600
+msgid "Crowbar"
+msgstr ""
+
+#: freedroid.item_archetypes:616
+msgid ""
+"Something originally intended for breaking up doors or pulling out "
+"nails can also be used to break open droid skulls or give enough "
+"leverage to pull off their extremities."
+msgstr ""
+
+#: freedroid.item_archetypes:638
+msgid "Golf club"
+msgstr ""
+
+#: freedroid.item_archetypes:654
+msgid ""
+"It might not be so sturdy, but if you manage to get in a good hit, "
+"the kinetic energy might be enough to damage internal electronics "
+"even if there is only a small dent on the outside."
+msgstr ""
+
+#: freedroid.item_archetypes:676
+msgid "Tree branch"
+msgstr ""
+
+#: freedroid.item_archetypes:692
+msgid ""
+"A club from a tree branch is certainly not your preferred choice of "
+"weapon, but it might be your only one..."
+msgstr ""
+
+#: freedroid.item_archetypes:714
+msgid "Power hammer"
+msgstr ""
+
+#: freedroid.item_archetypes:730
+msgid ""
+"The POWER NAIL DRIVER 3000 will, according to the advertisement, "
+"'build your house for you'. While it's unclear how many nails your "
+"igloo will actually need, it sure can be handy nonetheless for "
+"bashing bot skulls. As long as the battery lasts, anyway."
+msgstr ""
+
+#: freedroid.item_archetypes:752
+msgid "Table leg"
+msgstr ""
+
+#: freedroid.item_archetypes:768
+msgid ""
+"In desperate situations even ordinary objects can turn into makeshift "
+"weapons."
+msgstr ""
+
+#: freedroid.item_archetypes:790
+msgid "Mace"
+msgstr ""
+
+#: freedroid.item_archetypes:806
+msgid ""
+"The mace already proved on the medieval battlefield that it was good "
+"at crushing even heavily armored skulls. Unfortunately for the "
+"droids, this old knowledge still holds true."
+msgstr ""
+
+#: freedroid.item_archetypes:828
+msgid "Baseball bat"
+msgstr ""
+
+#: freedroid.item_archetypes:844
+msgid ""
+"With 1-2 good two handed swings, a former droids head might fly far "
+"enough for you to score a home run. Just make sure to bring a backup "
+"weapon, because wooden bats have a predilection for splitting in two "
+"after too many hard hits."
+msgstr ""
+
+#: freedroid.item_archetypes:866
+msgid "Iron bar"
+msgstr ""
+
+#: freedroid.item_archetypes:882
+msgid ""
+"A bit slow and cumbersome to use, and prohibiting the security of a "
+"shield to cower behind, this weapon isn't always a good option. But "
+"if you do hit, you are sure to do more damage than just a scratch."
+msgstr ""
+
+#: freedroid.item_archetypes:904
+msgid "Sledgehammer"
+msgstr ""
+
+#: freedroid.item_archetypes:921
+msgid ""
+"Very slow and only for the strongest wielder, but only the tougher "
+"droids can survive more than 1-2 direct hits."
+msgstr ""
+
+#: freedroid.item_archetypes:949
+msgid "Light saber"
+msgstr ""
+
+#: freedroid.item_archetypes:965
+msgid ""
+"In the hands of a true master, this excellent technological "
+"craftsmanship is as deadly as it is beautiful. It requires laser "
+"crystals to work properly."
+msgstr ""
+
+#: freedroid.item_archetypes:987
+msgid "Laser staff"
+msgstr ""
+
+#: freedroid.item_archetypes:1002
+msgid ""
+"A close combat master with this weapon in his hands is a pure "
+"whirling dervish of death. It requires laser crystals to work "
+"properly."
+msgstr ""
+
+#: freedroid.item_archetypes:1030
+msgid "Nobody's edge"
+msgstr ""
+
+#: freedroid.item_archetypes:1043
+msgid ""
+"This blade pulses with evil. That power. That energy. Nothing can "
+"stop you now."
+msgstr ""
+
+#: freedroid.item_archetypes:1065
+msgid "Laserscalpel"
+msgstr ""
+
+#: freedroid.item_archetypes:1078
+msgid ""
+"I murdered the only person within a thousand miles who can heal me, "
+"and all I got was this lousy scalpel."
+msgstr ""
+
+#: freedroid.item_archetypes:1100
+msgid "Shock knife"
+msgstr ""
+
+#: freedroid.item_archetypes:1113 freedroid.item_archetypes:1148
+msgid "FIXME and all values"
+msgstr ""
+
+#: freedroid.item_archetypes:1135
+msgid "Energy whip"
+msgstr ""
+
+#: freedroid.item_archetypes:1197
+msgid ".22 LR Ammunition"
+msgstr ""
+
+#: freedroid.item_archetypes:1212
+msgid ""
+".22 Long Rifle ammunition used to be a very common ammo for target "
+"practice, mainly because it was cheap and gave little recoil. It's "
+"just too weak to penetrate any real droid armor though."
+msgstr ""
+
+#: freedroid.item_archetypes:1216
+msgid ".22 Automatic"
+msgstr ""
+
+#: freedroid.item_archetypes:1232
+msgid ""
+"With .22 ammo, it's mostly dumb luck if you actually damage a bot "
+"with this pistol. On the bright side, you will get a LOT of target "
+"practise out of each bot before a bullet or two manages to find a "
+"weak enough spot to take the bot out."
+msgstr ""
+
+#: freedroid.item_archetypes:1254
+msgid ".22 Hunting Rifle"
+msgstr ""
+
+#: freedroid.item_archetypes:1270
+msgid ""
+"A .22 hunting rifle was mainly used for sports shooting and for cheap "
+"training. As a hunting weapon its main use was to kill small vermin "
+"such as rats and squirrels. It was also highly effective against "
+"rabbits. Unfortunately, you won't be hunting 'wabbits'..."
+msgstr ""
+
+#: freedroid.item_archetypes:1292
+msgid "Shotgun shells"
+msgstr ""
+
+#: freedroid.item_archetypes:1307
+msgid ""
+"While solid slugs, or possibly 8-10 Gauge shells, would be the most "
+"effective versus armored targets, beggars can't be choosers. One just "
+"has to use any type of shell one is lucky enough to stumble across. "
+"And even 20+ Gauge cartridges mostly used for bird hunting can, with "
+"luck, damage a bot."
+msgstr ""
+
+#: freedroid.item_archetypes:1316
+msgid "Two Barrel sawn off shotgun"
+msgstr ""
+
+#: freedroid.item_archetypes:1332
+msgid ""
+"Often wielded in the past by thugs or convenience store owners, this "
+"little baby is less powerful than the two-handed model, but makes up "
+"for it by letting you use a shield in conjunction with it."
+msgstr ""
+
+#: freedroid.item_archetypes:1354
+msgid "Two Barrel shotgun"
+msgstr ""
+
+#: freedroid.item_archetypes:1370
+msgid ""
+"An old standby of farmers and bird hunters. While capable of causing "
+"a fair amount of damage to droid armor, the limited rounds capacity "
+"and fairly slow reloading time make this weapon preferable to melee "
+"weapons, but only just. Requires two hands to wield."
+msgstr ""
+
+#: freedroid.item_archetypes:1392
+msgid "Pump action shotgun"
+msgstr ""
+
+#: freedroid.item_archetypes:1408
+msgid ""
+"The pump action shotgun isn't quite as powerful as the double barrel "
+"equivalent, but it does hold more ammo per clip. Requires two hands "
+"to wield."
+msgstr ""
+
+#: freedroid.item_archetypes:1430
+msgid "9x19mm Ammunition"
+msgstr ""
+
+#: freedroid.item_archetypes:1444
+msgid ""
+"Plasma crystal load. This is the most common way of loading a plasma "
+"weapon."
+msgstr ""
+
+#: freedroid.item_archetypes:1448
+msgid "9mm Automatic"
+msgstr ""
+
+#: freedroid.item_archetypes:1464
+msgid ""
+"Nine millimeter ammo is a common caliber. While not very powerful, it "
+"allows for more rounds per clip than bigger ammunition."
+msgstr ""
+
+#: freedroid.item_archetypes:1486
+msgid "9mm Sub Machine Gun"
+msgstr ""
+
+#: freedroid.item_archetypes:1502
+msgid "These are commonly referred to as bullet hoses."
+msgstr ""
+
+#: freedroid.item_archetypes:1524
+msgid "7.62x39mm Ammunition"
+msgstr ""
+
+#: freedroid.item_archetypes:1538
+msgid "7.62mm ammo."
+msgstr ""
+
+#: freedroid.item_archetypes:1542
+msgid "7.62mm Hunting Rifle"
+msgstr ""
+
+#: freedroid.item_archetypes:1558
+msgid ""
+"7.62 millimeter ammo is commonly used in assault rifles. This is a "
+"more civilian take on that concept."
+msgstr ""
+
+#: freedroid.item_archetypes:1580
+msgid "7.62mm AK-47"
+msgstr ""
+
+#: freedroid.item_archetypes:1596
+msgid ""
+"The favorite weapon of third-world countries everywhere, this is a "
+"mass-produced, fairly reliable automatic weapon."
+msgstr ""
+
+#: freedroid.item_archetypes:1618
+msgid ".50 BMG (12.7x99mm) Ammunition"
+msgstr ""
+
+#: freedroid.item_archetypes:1634
+msgid "Browning Machine Gun ammo."
+msgstr ""
+
+#: freedroid.item_archetypes:1638
+msgid "Barrett M82 Sniper Rifle"
+msgstr ""
+
+#: freedroid.item_archetypes:1654
+msgid ""
+"Powerful enough to stop a truck, literally, the likelihood of even a "
+"battle droid surviving more than 2 hits by this weapon is quite slim. "
+"It doesn't even matter if the pesky droid is cowering behind a wall, "
+"the bullets will break right through and make the bot ready for the "
+"scrap heap in no time."
+msgstr ""
+
+#: freedroid.item_archetypes:1676
+msgid "Laser power pack"
+msgstr ""
+
+#: freedroid.item_archetypes:1691
+msgid ""
+"Energy crystal load for laser weapons and other powertools. Each "
+"round fired consumes a load within the crystal."
+msgstr ""
+
+#: freedroid.item_archetypes:1695
+msgid "Laser pistol"
+msgstr ""
+
+#: freedroid.item_archetypes:1711
+msgid ""
+"A basic laser, but it has good uses in certain situations. No "
+"warranty of any kind, though."
+msgstr ""
+
+#: freedroid.item_archetypes:1733
+msgid "Laser Rifle"
+msgstr ""
+
+#: freedroid.item_archetypes:1749
+msgid ""
+"This rifle is a high-end laser weapon. There is only one problem with "
+"it: Shooting it is too much fun. People often end up with no "
+"ammunition in the middle of a battle."
+msgstr ""
+
+#: freedroid.item_archetypes:1771
+msgid "Laser Pulse Rifle"
+msgstr ""
+
+#: freedroid.item_archetypes:1785
+msgid ""
+"The pulse laser technology, allowing for many repeated short bursts "
+"without the weapon overheating, makes this quite a useful weapon. The "
+"damage from each shot is noticably less than from a Laser rifle, but "
+"the firing rate more than makes up for it."
+msgstr ""
+
+#: freedroid.item_archetypes:1809
+msgid "Laser Pulse Cannon"
+msgstr ""
+
+#: freedroid.item_archetypes:1823
+msgid ""
+"The pulse laser technology, allowing for many repeated short bursts "
+"without the weapon overheating, combined with a military design makes "
+"this weapon the preferred choice for most soldiers. Its quick no-"
+"recoil firing, large magazine, and awesome killing power makes it the "
+"ideal weapon for cleansing large droid infestations in mere minutes."
+msgstr ""
+
+#: freedroid.item_archetypes:1847
+msgid "Plasma energy container"
+msgstr ""
+
+#: freedroid.item_archetypes:1862
+msgid ""
+"A container filled with all materials and energy required to make "
+"plasma weapons work in one handy and relatively safe package. This is "
+"the most common way of loading a plasma weapon."
+msgstr ""
+
+#: freedroid.item_archetypes:1866
+msgid "Plasma pistol"
+msgstr ""
+
+#: freedroid.item_archetypes:1882
+msgid "The basic plasma weapon in a conveniently small package."
+msgstr ""
+
+#: freedroid.item_archetypes:1904
+msgid "Plasma gun"
+msgstr ""
+
+#: freedroid.item_archetypes:1920
+msgid ""
+"A somewhat slow weapon, but once you do hit plenty a bot will just "
+"down on the spot. A good alternative to a pulse laser for the skilled "
+"marksman."
+msgstr ""
+
+#: freedroid.item_archetypes:1942
+msgid "Plasma cannon"
+msgstr ""
+
+#: freedroid.item_archetypes:1958
+msgid ""
+"The very slow firing rate is made up for by the awesome power of this "
+"weapon. Its main use in the military is as a close support weapon "
+"complementing the soldiers' bread and butter pulse lasers, especially "
+"when attacking enemies behind cover."
+msgstr ""
+
+#: freedroid.item_archetypes:1980
+msgid "2 mm Exterminator Ammunition"
+msgstr ""
+
+#: freedroid.item_archetypes:1994
+msgid ""
+"Exterminators need this kind of ammunition. It can cause skin "
+"irritations due to leaking extermination radiation when carried close "
+"to the body for long time."
+msgstr ""
+
+#: freedroid.item_archetypes:1998
+msgid "Exterminator"
+msgstr ""
+
+#: freedroid.item_archetypes:2014
+msgid ""
+"While this weapon is capable of firing really powerful shots, beware "
+"of the exceptionally long reloading times. (Don't get swarmed by "
+"enemies with this weapon unless you have powerful armor!)"
+msgstr ""
+
+#: freedroid.item_archetypes:2036
+msgid "The Super Exterminator!!!"
+msgstr ""
+
+#: freedroid.item_archetypes:2052
+msgid ""
+"This bad boy is known to blow away most enemies with a single blast. "
+"A dangerous weapon that you don't want to be on the receiving end of."
+msgstr ""
+
+#: freedroid.item_archetypes:2082
+msgid "VMX Gas Grenade"
+msgstr ""
+
+#: freedroid.item_archetypes:2095
+msgid ""
+"The gas does not look terrifying. It even smells somewhat nice. And "
+"then you die. You die a most horrible death, never knowing what "
+"killed you."
+msgstr ""
+
+#: freedroid.item_archetypes:2099
+msgid "EMP Shockwave Generator"
+msgstr ""
+
+#: freedroid.item_archetypes:2111
+msgid ""
+"This sphere contains a few strange bits of technology invented by "
+"Nikola Tesla in the early 20th century. The magnetic pulse that it "
+"generates can destroy most electronic devices in just one blast."
+msgstr ""
+
+#: freedroid.item_archetypes:2115
+msgid "Plasma Shockwave Emitter"
+msgstr ""
+
+#: freedroid.item_archetypes:2127
+msgid ""
+"Said to be the downscaled version of the original Pandora's Sphere, "
+"this device extinguishes life with superheated plasma."
+msgstr ""
+
+#: freedroid.item_archetypes:2139
+msgid "NPC Hand to hand weapon"
+msgstr ""
+
+#: freedroid.item_archetypes:2152
+msgid "Bot use only"
+msgstr ""
+
+#: freedroid.item_archetypes:2174
+msgid "Droid weaponry - 123 : Weak robotic arm"
+msgstr ""
+
+#: freedroid.item_archetypes:2185 freedroid.item_archetypes:2218
+#: freedroid.item_archetypes:2253 freedroid.item_archetypes:2286
+#: freedroid.item_archetypes:2321 freedroid.item_archetypes:2356
+#: freedroid.item_archetypes:2391 freedroid.item_archetypes:2426
+#: freedroid.item_archetypes:2459 freedroid.item_archetypes:2494
+#: freedroid.item_archetypes:2529 freedroid.item_archetypes:2564
+#: freedroid.item_archetypes:2599 freedroid.item_archetypes:2634
+#: freedroid.item_archetypes:2667 freedroid.item_archetypes:2704
+#: freedroid.item_archetypes:2739
+msgid "Droid weaponry"
+msgstr ""
+
+#: freedroid.item_archetypes:2207
+msgid "Droid weaponry - 139 : Plasma trash vaporiser"
+msgstr ""
+
+#: freedroid.item_archetypes:2240
+msgid "Droid weaponry - 247 : Weak robotic arm"
+msgstr ""
+
+#: freedroid.item_archetypes:2275
+msgid "Droid weaponry - 249 : Pulse Laser welder"
+msgstr ""
+
+#: freedroid.item_archetypes:2308
+msgid "Droid weaponry - 296 : Plasma beam cutter"
+msgstr ""
+
+#: freedroid.item_archetypes:2343
+msgid "Droid weaponry - 302"
+msgstr ""
+
+#: freedroid.item_archetypes:2378
+msgid "Droid weaponry - 329"
+msgstr ""
+
+#: freedroid.item_archetypes:2413
+msgid "Droid weaponry - 420"
+msgstr ""
+
+#: freedroid.item_archetypes:2448
+msgid "Droid weaponry - 476 (Small Single Laser)"
+msgstr ""
+
+#: freedroid.item_archetypes:2481
+msgid "Droid weaponry - 493"
+msgstr ""
+
+#: freedroid.item_archetypes:2516
+msgid "Droid weaponry - 516"
+msgstr ""
+
+#: freedroid.item_archetypes:2551
+msgid "Droid weaponry - 543 : Laser beam cutter"
+msgstr ""
+
+#: freedroid.item_archetypes:2586
+msgid "Droid weaponry - 571"
+msgstr ""
+
+#: freedroid.item_archetypes:2621
+msgid "Droid weaponry - 598"
+msgstr ""
+
+#: freedroid.item_archetypes:2656
+msgid "Droid weaponry - 615,751,834 (Advanced Single Laser)"
+msgstr ""
+
+#: freedroid.item_archetypes:2689
+msgid "Droid weaponry - 629,711,742,821,999 (Advanced Twin Laser)"
+msgstr ""
+
+#: freedroid.item_archetypes:2726
+msgid "Droid weaponry - 883 (Bot exterminator)"
+msgstr ""
+
+#: freedroid.item_archetypes:2795
+msgid "Reinforced Boots"
+msgstr ""
+
+#: freedroid.item_archetypes:2796
+msgid ""
+"These boots were originally normal boots, but have been fitted with "
+"some extra reinforcements to give better protection to the wearer. Of "
+"course this makes them a bit less elegant and also less comfy to "
+"wear, but the extra protection might be worth it, at less than the "
+"price of hiking boots."
+msgstr ""
+
+#: freedroid.item_archetypes:2797
+msgid "Hiking Boots"
+msgstr ""
+
+#: freedroid.item_archetypes:2798
+msgid ""
+"These hiking boots are a very sophisticated product, combining "
+"optimal comfort for the wearer with a good protection from collisions "
+"with blunt objects like stones, which of course also makes for a "
+"higher price."
+msgstr ""
+
+#: freedroid.item_archetypes:2833
+msgid "Normal Jacket"
+msgstr ""
+
+#: freedroid.item_archetypes:2849
+msgid "Does a decent job of protection. I guess. Maybe. I'm not sure."
+msgstr ""
+
+#: freedroid.item_archetypes:2853
+msgid "Reinforced Jacket"
+msgstr ""
+
+#: freedroid.item_archetypes:2870
+msgid "One step up from a normal jacket."
+msgstr ""
+
+#: freedroid.item_archetypes:2874
+msgid "Protective Jacket"
+msgstr ""
+
+#: freedroid.item_archetypes:2891
+msgid ""
+"Very strong for its size, does a good job of absorbing basic blows."
+msgstr ""
+
+#: freedroid.item_archetypes:2895
+msgid "Red Guard's Light Robe"
+msgstr ""
+
+#: freedroid.item_archetypes:2910
+msgid "Tough as nails and able to withstand most blows."
+msgstr ""
+
+#: freedroid.item_archetypes:2914
+msgid "Red Guard's Heavy Robe"
+msgstr ""
+
+#: freedroid.item_archetypes:2929
+msgid ""
+"Defense is acquired at a high level with this durable piece of armor."
+msgstr ""
+
+#: freedroid.item_archetypes:2939
+msgid "Improvised Buckler"
+msgstr ""
+
+#: freedroid.item_archetypes:2955
+msgid ""
+"This shield is a compilation of various objects which happened to be "
+"around. It has tubes, bolts and parts of metal, all slapped together "
+"to provide a small bit of protection from enemies. It's very simple "
+"and rough, but some sensors and lights have been added to let the "
+"wielder know when the item is getting hit, and how long it will "
+"remain operational and other cool stuff like that."
+msgstr ""
+
+#: freedroid.item_archetypes:2959
+msgid "Bot Carapace"
+msgstr ""
+
+#: freedroid.item_archetypes:2975
+msgid ""
+"A small, lightweight and pretty straightforward shield. Provides "
+"decent protection."
+msgstr ""
+
+#: freedroid.item_archetypes:2979
+msgid "Standard Shield"
+msgstr ""
+
+#: freedroid.item_archetypes:2993
+msgid "Better than a buckler, and a lot more effective."
+msgstr ""
+
+#: freedroid.item_archetypes:2997
+msgid "Heavy Shield"
+msgstr ""
+
+#: freedroid.item_archetypes:3012
+msgid ""
+"A medium sized, lightweight and pretty straightforward shield. "
+"Provides decent protection."
+msgstr ""
+
+#: freedroid.item_archetypes:3016
+msgid "Riot Shield"
+msgstr ""
+
+#: freedroid.item_archetypes:3031
+msgid ""
+"A powerful shield, as useful to protect from bots as it is to control "
+"big crowds of angry protesters."
+msgstr ""
+
+#: freedroid.item_archetypes:3041
+msgid "Pot Helmet"
+msgstr ""
+
+#: freedroid.item_archetypes:3055
+msgid ""
+"Top of the line head gear, for bots. But rip it off their metal necks "
+"and take out the circuits it also manages to protect living beings "
+"decently against a myriad of close range and long range attacks."
+msgstr ""
+
+#: freedroid.item_archetypes:3059
+msgid "Worker Helmet"
+msgstr ""
+
+#: freedroid.item_archetypes:3075
+msgid ""
+"A simple cover to protect your head. Don't expect to be incognito, "
+"your flippers and penguin like body are hard to miss."
+msgstr ""
+
+#: freedroid.item_archetypes:3079
+msgid "Miner Helmet"
+msgstr ""
+
+#: freedroid.item_archetypes:3093
+msgid ""
+"It might look a bit silly, but it will save your life many times."
+msgstr ""
+
+#: freedroid.item_archetypes:3097
+msgid "Light Battle Helmet"
+msgstr ""
+
+#: freedroid.item_archetypes:3114
+msgid ""
+"A rather useful helmet, has a few defense issues here and there but "
+"mainly is worth the wear."
+msgstr ""
+
+#: freedroid.item_archetypes:3118
+msgid "Battle Helmet"
+msgstr ""
+
+#: freedroid.item_archetypes:3133
+msgid ""
+"Now this is head protection. Feel safe with sturdy iron protecting "
+"your head. Not as comfortable as other hats."
+msgstr ""
+
+#: freedroid.item_archetypes:3137
+msgid "Dixon's Helmet"
+msgstr ""
+
+#: freedroid.item_archetypes:3149
+msgid "A gift from Dixon. It looks like it is about to turn into dust."
+msgstr ""
+
+#: freedroid.item_archetypes:3159
+msgid "Shoes"
+msgstr ""
+
+#: freedroid.item_archetypes:3173
+msgid ""
+"These simple boots are designed for comfort of the wearer more than "
+"to give actual protection."
+msgstr ""
+
+#: freedroid.item_archetypes:3177
+msgid "Worker Shoes"
+msgstr ""
+
+#: freedroid.item_archetypes:3191
+msgid ""
+"These footwear are steel tipped, and generally quite sturdy, giving a "
+"bit extra protection."
+msgstr ""
+
+#: freedroid.item_archetypes:3195
+msgid "Battle Shoes"
+msgstr ""
+
+#: freedroid.item_archetypes:3209
+msgid ""
+"These boots are similar to the simple shoes, but the material they "
+"are made of is hardened for extra protection."
+msgstr ""
+
+#: freedroid.item_archetypes:3223
+msgid "Source Book of Emergency shutdown"
+msgstr ""
+
+#: freedroid.item_archetypes:3233
+msgid "Everyone needs to blow off some steam every now and then."
+msgstr ""
+
+#: freedroid.item_archetypes:3239
+msgid "Source Book of Check system integrity"
+msgstr ""
+
+#: freedroid.item_archetypes:3249
+msgid ""
+"An incredible healing program, probably the only one you will ever "
+"need."
+msgstr ""
+
+#: freedroid.item_archetypes:3255
+msgid "Source Book of Analyze item"
+msgstr ""
+
+#: freedroid.item_archetypes:3265
+msgid "A book explaining the basics of item analysis."
+msgstr ""
+
+#: freedroid.item_archetypes:3271
+msgid "Source Book of Sanctuary"
+msgstr ""
+
+#: freedroid.item_archetypes:3281
+msgid ""
+"The art of rapidly moving away from danger is very useful. Even when "
+"used in reverse, it has its uses."
+msgstr ""
+
+#: freedroid.item_archetypes:3287
+msgid "Source Book of Malformed packet"
+msgstr ""
+
+#: freedroid.item_archetypes:3297
+msgid ""
+"When computers are presented with the unexpected, they can damage "
+"themselves."
+msgstr ""
+
+#: freedroid.item_archetypes:3303
+msgid "Source Book of Calculate Pi"
+msgstr ""
+
+#: freedroid.item_archetypes:3313
+msgid ""
+"It is not a big problem to make a badly designed system to go hunting "
+"for the impossible, causing a performance impact."
+msgstr ""
+
+#: freedroid.item_archetypes:3319
+msgid "Source Book of Blue Screen"
+msgstr ""
+
+#: freedroid.item_archetypes:3329 freedroid.item_archetypes:3345
+msgid ""
+"With a little touch a war machine comes crashing to a halt. For a "
+"while."
+msgstr ""
+
+#: freedroid.item_archetypes:3335
+msgid "Source Book of Broadcast Blue Screen"
+msgstr ""
+
+#: freedroid.item_archetypes:3351
+msgid "Source Book of Invisibility"
+msgstr ""
+
+#: freedroid.item_archetypes:3361
+msgid "I am not the Linarian you are looking for."
+msgstr ""
+
+#: freedroid.item_archetypes:3367
+msgid "Source Book of Virus"
+msgstr ""
+
+#: freedroid.item_archetypes:3377
+msgid ""
+"This is not just a firmware upgrade, my dear bot. You are about to "
+"find out what exactly I want to give you."
+msgstr ""
+
+#: freedroid.item_archetypes:3383
+msgid "Source Book of Broadcast virus"
+msgstr ""
+
+#: freedroid.item_archetypes:3393
+msgid ""
+"The network is wide and dangerous. Many traps await the weak and "
+"unprepared."
+msgstr ""
+
+#: freedroid.item_archetypes:3399
+msgid "Source Book of Dispel smoke"
+msgstr ""
+
+#: freedroid.item_archetypes:3409
+msgid ""
+"By heating up the chips with a malformed program, you can cause them "
+"to release the magic smoke which keeps the bot running."
+msgstr ""
+
+#: freedroid.item_archetypes:3415
+msgid "Source Book of Killer poke"
+msgstr ""
+
+#: freedroid.item_archetypes:3425
+msgid ""
+"Messing around with the bot's memory can cause it to damage itself, "
+"but the damage is greatly variable."
+msgstr ""
+
+#: freedroid.item_archetypes:3431
+msgid "Source Book of Plasma discharge"
+msgstr ""
+
+#: freedroid.item_archetypes:3441
+msgid ""
+"The overload setting exists for emergencies. Plasma does not "
+"discriminate between bots and humans. Everything is the same to it."
+msgstr ""
+
+#: freedroid.item_archetypes:3447
+msgid "Source Book of Nethack"
+msgstr ""
+
+#: freedroid.item_archetypes:3457
+msgid ""
+"The open source game called Nethack is one of the world's greatest "
+"wasters of time. Machines don't care about it, but humans can get "
+"sucked in quite deeply."
+msgstr ""
+
+#: freedroid.item_archetypes:3463
+msgid "Source Book of Ricer CFLAGS"
+msgstr ""
+
+#: freedroid.item_archetypes:3473
+msgid ""
+"Optimization is the root of all evil. You can gain some temporary "
+"improvements to your system, but in the end you are only likely to "
+"cause permanent damage."
+msgstr ""
+
+#: freedroid.item_archetypes:3479
+msgid "Source Book of Reverse-engineer"
+msgstr ""
+
+#: freedroid.item_archetypes:3489
+msgid ""
+"There is some dark magic in the art of turning bots inside-out to "
+"learn all their secrets."
+msgstr ""
+
+#: freedroid.item_archetypes:3495
+msgid "Source Book of Light"
+msgstr ""
+
+#: freedroid.item_archetypes:3505
+msgid "Let there be light..."
+msgstr ""
+
+#: freedroid.item_archetypes:3511
+msgid "Source Book of Satellite image"
+msgstr ""
+
+#: freedroid.item_archetypes:3521
+msgid ""
+"Getting a map of an area is pretty easy when you can look at "
+"everything from above."
+msgstr ""
+
+#: freedroid.item_archetypes:3537
+msgid "Strength Pill"
+msgstr ""
+
+#: freedroid.item_archetypes:3547
+msgid ""
+"These pills permanently raise strength within a person. They work on "
+"a nano-technological basis. Consult your physician, the receipt or "
+"pharmacy experts for details on intended effects, possible "
+"interactions and side effects of this drug."
+msgstr ""
+
+#: freedroid.item_archetypes:3551
+msgid "Dexterity Pill"
+msgstr ""
+
+#: freedroid.item_archetypes:3561
+msgid ""
+"These pills permanently raise dexterity within a person. They work on "
+"a nano-technological basis. Consult your physician, the receipt or "
+"pharmacy experts for details on intended effects, possible "
+"interactions and side effects of this drug."
+msgstr ""
+
+#: freedroid.item_archetypes:3565
+msgid "Code Pill"
+msgstr ""
+
+#: freedroid.item_archetypes:3575
+msgid ""
+"Dude! This fab food will totally bump up your code skills, man! A "
+"real blast. Scarf these down to *see* the code."
+msgstr ""
+
+#: freedroid.item_archetypes:3579
+msgid "Brain Enlargement Pills Antidote"
+msgstr ""
+
+#: freedroid.item_archetypes:3588
+msgid ""
+"These pills can reverse the harmful effects of the 'brain enlargement "
+"pills' that are publicly sold via the Internet. The planet-wide guild "
+"of medics has recommended not to respond to these ads at all, while "
+"attempts to entirely ban the distribution of those pills were never "
+"completely successful."
+msgstr ""
+
+#: freedroid.item_archetypes:3592
+msgid "Diet supplement"
+msgstr ""
+
+#: freedroid.item_archetypes:3604
+msgid ""
+"Only proper vitamin and mineral intake can keep you healthy during "
+"the apocalypse. This can cure a cold."
+msgstr ""
+
+#: freedroid.item_archetypes:3608
+msgid "Antibiotic"
+msgstr ""
+
+#: freedroid.item_archetypes:3620
+msgid ""
+"Truly wonderful things can be extracted from molds. This can cure "
+"lethal food poisoning. Wish you had that in your last Nethack game, "
+"eh?"
+msgstr ""
+
+#: freedroid.item_archetypes:3624
+msgid "Doc-in-a-can"
+msgstr ""
+
+#: freedroid.item_archetypes:3636
+msgid ""
+"This is a drink filled with nanobots designed to heal any damage that "
+"they notice inside you. It can cure decapitation. Most of the time."
+msgstr ""
+
+#: freedroid.item_archetypes:3640
+msgid "Bottled ice"
+msgstr ""
+
+#: freedroid.item_archetypes:3652
+msgid ""
+"This bottle is filled with ice. It can keep you cool during a warm "
+"summer day."
+msgstr ""
+
+#: freedroid.item_archetypes:3656
+msgid "Industrial coolant"
+msgstr ""
+
+#: freedroid.item_archetypes:3668
+msgid ""
+"Bartenders around the world add this to drinks to get them cold very "
+"fast. Plus, the coolant is much cheaper. It can keep you cool inside "
+"a nuclear reactor."
+msgstr ""
+
+#: freedroid.item_archetypes:3672
+msgid "Liquid nitrogen"
+msgstr ""
+
+#: freedroid.item_archetypes:3684
+msgid ""
+"When you want something frozen solid, this is what you need. It can "
+"keep you cool even inside a class M star."
+msgstr ""
+
+#: freedroid.item_archetypes:3688
+msgid "Barf's Energy Drink"
+msgstr ""
+
+#: freedroid.item_archetypes:3698
+msgid ""
+"Warning! These energy drinks contain high doses of caffeine! The "
+"average person drops dead after consuming 12 grams of caffeine. One "
+"of these bottles contains over double that amount."
+msgstr ""
+
+#: freedroid.item_archetypes:3702
+msgid "Running Power Capsule"
+msgstr ""
+
+#: freedroid.item_archetypes:3712
+msgid ""
+"These small containers hold purified running strength. Each capsule "
+"can be used only once, but many of them can be grouped together like "
+"one item in your inventory."
+msgstr ""
+
+#: freedroid.item_archetypes:3716
+msgid "Strength Capsule"
+msgstr ""
+
+#: freedroid.item_archetypes:3726
+msgid ""
+"These small containers hold purified strength. This item will give a "
+"temporary boost to strength. Each capsule can be used only once, but "
+"many of them can be grouped together like one item in your inventory."
+msgstr ""
+
+#: freedroid.item_archetypes:3730
+msgid "Dexterity Capsule"
+msgstr ""
+
+#: freedroid.item_archetypes:3740
+msgid ""
+"These small containers hold purified dexterity. This item will give a "
+"temporary bonus to dexterity. Each capsule can be used only once, but "
+"many of them can be grouped together like one item in your inventory."
+msgstr ""
+
+#: freedroid.item_archetypes:3752
+msgid "Valuable Circuits"
+msgstr ""
+
+#: freedroid.item_archetypes:3761
+msgid ""
+"The new monetary standard of the world. With the collapse of the "
+"banking system, the precious metals in bot circutry has literally "
+"become hard cash. A bit hard to come by though, as the bots are not "
+"likely to just hand it over..."
+msgstr ""
+
+#: freedroid.item_archetypes:3765
+msgid "Anti-grav Pod for Droids"
+msgstr ""
+
+#: freedroid.item_archetypes:3775
+msgid "The bots use this to hover around."
+msgstr ""
+
+#: freedroid.item_archetypes:3779
+msgid "Dixon's Toolbox"
+msgstr ""
+
+#: freedroid.item_archetypes:3788
+msgid ""
+"This is a teleporter service toolbox. It's complete and orderly, "
+"though a few dents on the outside give proof of frequent use. 'C. "
+"Dixon' is carved into the outside with fine print."
+msgstr ""
+
+#: freedroid.item_archetypes:3792
+msgid "Entropy Inverter"
+msgstr ""
+
+#: freedroid.item_archetypes:3801 freedroid.item_archetypes:3814
+#: freedroid.item_archetypes:3827 freedroid.item_archetypes:3840
+#: freedroid.item_archetypes:3853
+msgid "This is an standard part within many robot types."
+msgstr ""
+
+#: freedroid.item_archetypes:3805
+msgid "Plasma Transistor"
+msgstr ""
+
+#: freedroid.item_archetypes:3818
+msgid "Superconducting Relay Unit"
+msgstr ""
+
+#: freedroid.item_archetypes:3831
+msgid "Antimatter-Matter Converter"
+msgstr ""
+
+#: freedroid.item_archetypes:3844
+msgid "Tachyon Condensator"
+msgstr ""
+
+#: freedroid.item_archetypes:3857
+msgid "Desk Lamp"
+msgstr ""
+
+#: freedroid.item_archetypes:3866
+msgid "What would modern science be without this important item?"
+msgstr ""
+
+#: freedroid.item_archetypes:3870
+msgid "Red Dilithium Crystal"
+msgstr ""
+
+#: freedroid.item_archetypes:3879
+msgid ""
+"These dilithium crystals are used as an energy source in many modern "
+"electricity or heat based devices. Energy is extracted from the "
+"crystal by making use of the ordering of the crystal molecules. This "
+"principle has allowed us to build devices that consume a lot of "
+"energy, but do not need to be connected to a power line."
+msgstr ""
+
+#: freedroid.item_archetypes:3883
+msgid "Map Maker"
+msgstr ""
+
+#: freedroid.item_archetypes:3894
+msgid ""
+"This small device automatically collects data about the area within a "
+"range of 7 times 7 meters and draws a small-scale plan of the "
+"immediate surroundings. Because of its very tiny display, it needs to "
+"be held closely to the eye, and the image will then be projected "
+"directly into the eyeball of the user. Still, the collected map data "
+"will be split up by the device into several sectors for convenient "
+"viewing."
+msgstr ""
+
+#: freedroid.item_archetypes:3898
+msgid "Light Enhancer? to be incluced in the future..."
+msgstr ""
+
+#: freedroid.item_archetypes:3909
+msgid "See better in the dark. "
+msgstr ""
+
+#: freedroid.item_archetypes:3913
+msgid "Fork"
+msgstr ""
+
+#: freedroid.item_archetypes:3922 freedroid.item_archetypes:3937
+#: freedroid.item_archetypes:3950 freedroid.item_archetypes:3963
+msgid ""
+"This item is part of the 'Self Cleaning Kitchen' (SCK) project from "
+"before the Great Assault. All of the items in the SCK project have an "
+"inner mechanism that will clean the object automatically if left "
+"alone for a given time. It comes with its own power supply, and has a "
+"supposed duration of 200 years."
+msgstr ""
+
+#: freedroid.item_archetypes:3926
+msgid "Plate"
+msgstr ""
+
+#: freedroid.item_archetypes:3941 freedroid.item_archetypes:3954
+msgid "Mug"
+msgstr ""
+
+#: freedroid.item_archetypes:3967
+msgid "Identification Script"
+msgstr ""
+
+#: freedroid.item_archetypes:3977
+msgid ""
+"Point and click. Point and know anything. Point, and I will show you "
+"the correct path. Point, and I will be there. Point, and I will "
+"protect you."
+msgstr ""
+
+#: freedroid.item_archetypes:3981
+msgid "Teleporter homing beacon"
+msgstr ""
+
+#: freedroid.item_archetypes:3993
+msgid ""
+"This device sends a signal to a nearby teleporter requesting a "
+"transport, and then helps with locking on and boosting the signal to "
+"ensure the teleportation attempt is succcessful. The battery inside "
+"is sufficient for one use *only* and the device becomes useless "
+"afterwards. At least, most people don't try to use them twice... and "
+"those few who do usually end up with parts of their body missing or "
+"attached in the wrong place. Note: Multiple of these may be grouped "
+"together in the inventory."
+msgstr ""
+
+#: freedroid.item_archetypes:3997
+msgid "Kevin's Data Cube"
+msgstr ""
+
+#: freedroid.item_archetypes:4006
+msgid ""
+"This data cube contains confidential government data on the "
+"installations around the town. Kevin hopes that when the data is "
+"evaluated properly, a way out of the current crisis might be found. "
+"However, the amount of data is so vast, it can only be evaluated "
+"properly using a large cluster of computers. The Red Guard base is "
+"said to store an infrastructure suitable to this purpose."
+msgstr ""
+
+#: freedroid.item_archetypes:4010
+msgid "Pandora's Cube"
+msgstr ""
+
+#: freedroid.item_archetypes:4021
+msgid ""
+"This is heavy. Cannot the end of the world come in a smaller package? "
+"It would be a great time for Duncan to explain a few things..."
+msgstr ""

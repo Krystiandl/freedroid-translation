@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-05-22 20:22+0000\n"
+"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: StandardBotAfterTakeover_sub.dialog:33
+msgid ".. bot_name().."
+msgstr ""
+
+#: StandardBotAfterTakeover_sub.dialog:39
+msgid "cd .."
+msgstr ""
+
+#: StandardBotAfterTakeover_sub.dialog:45
+msgid "./est_repair.plx"
+msgstr ""
+
+#: StandardBotAfterTakeover_sub.dialog:54
+msgid "Repairs on this "
+msgstr ""
+
+#: StandardBotAfterTakeover_sub.dialog:57
+msgid ""
+"You do not have enough valuable circuits to ensure repair of this "
+msgstr ""
+
+#: StandardBotAfterTakeover_sub.dialog:65
+msgid "./repair.plx"
+msgstr ""
+
+#: StandardBotAfterTakeover_sub.dialog:67
+msgid "Repair in progress."
+msgstr ""
+
+#: StandardBotAfterTakeover_sub.dialog:82
+msgid "./settings.plx"
+msgstr ""
+
+#: StandardBotAfterTakeover_sub.dialog:84
+msgid "Welcome to the settings menu."
+msgstr ""
+
+#: StandardBotAfterTakeover_sub.dialog:85
+msgid "Version: 1.82c"
+msgstr ""
+
+#: StandardBotAfterTakeover_sub.dialog:86
+msgid "No upgrades found."
+msgstr ""
+
+#: StandardBotAfterTakeover_sub.dialog:87
+msgid "Always ask for confirmation before execution of hcf.py? Y/N"
+msgstr ""
+
+#: StandardBotAfterTakeover_sub.dialog:92
+msgid "Yes, always ask."
+msgstr ""
+
+#: StandardBotAfterTakeover_sub.dialog:94
+msgid "Confirmation will now be asked before execution of hcf.py."
+msgstr ""
+
+#: StandardBotAfterTakeover_sub.dialog:95
+msgid "Settings saved"
+msgstr ""
+
+#: StandardBotAfterTakeover_sub.dialog:104
+msgid "No, don't ask"
+msgstr ""
+
+#: StandardBotAfterTakeover_sub.dialog:106
+msgid "hcf.py will be executed without asking for confirmation."
+msgstr ""
+
+#: StandardBotAfterTakeover_sub.dialog:118
+msgid "Closing remote connection..."
+msgstr ""

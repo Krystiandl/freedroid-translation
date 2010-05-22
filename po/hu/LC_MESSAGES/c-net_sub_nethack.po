@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-05-22 20:22+0000\n"
+"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: c-net_sub_nethack.dialog:35
+msgid "nethack"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:60
+msgid ""
+"Shall I pick a character's race, role, gender and alignment for you? "
+"[y/n]"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:61 c-net_sub_nethack.dialog:82
+#: c-net_sub_nethack.dialog:155 c-net_sub_nethack.dialog:225
+#: c-net_sub_nethack.dialog:307 c-net_sub_nethack.dialog:405
+#: c-net_sub_nethack.dialog:603 c-net_sub_nethack.dialog:621
+msgid "> "
+msgstr ""
+
+#: c-net_sub_nethack.dialog:69
+msgid "yes"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:77
+msgid "no"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:90
+msgid "Archeologist"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:96
+msgid "Roge"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:102
+msgid "Ranger"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:108
+msgid "Tourist"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:114
+msgid "Wizard"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:121
+msgid "JOB ASSINGMENT"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:166
+msgid "human"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:172
+msgid "elf"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:178
+msgid "gnome"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:184
+msgid "orc"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:191
+msgid "RACE ASSINGMENT"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:233
+msgid "male"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:239
+msgid "female"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:246
+msgid "GENDER SELECTION"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:265
+msgid "START GAME"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:302
+msgid "Hello, welcome to NetHack! You are a "
+msgstr ""
+
+#: c-net_sub_nethack.dialog:303
+msgid "Your goddess, "
+msgstr ""
+
+#: c-net_sub_nethack.dialog:304
+msgid "Return with the Amulet of Yendor, and you shall be rewarded!"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:305
+msgid "You are all alone on the surface. There is a stairway down."
+msgstr ""
+
+#: c-net_sub_nethack.dialog:312
+msgid "At a new level"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:412
+msgid "Attack"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:429
+msgid "Run"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:446
+msgid "Trick"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:478
+msgid "Pray"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:482 c-net_sub_nethack.dialog:487
+msgid "Your goddess "
+msgstr ""
+
+#: c-net_sub_nethack.dialog:505
+msgid "Xyzzy"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:508
+msgid "Nothing happens."
+msgstr ""
+
+#: c-net_sub_nethack.dialog:538
+msgid "Calculate Damage"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:610
+msgid "End Level"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:626
+msgid "Go Up"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:634
+msgid "Go Down"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:645
+msgid "End Game - Win/Loss"
+msgstr ""
+
+#: c-net_sub_nethack.dialog:652
+msgid "End Game"
+msgstr ""
