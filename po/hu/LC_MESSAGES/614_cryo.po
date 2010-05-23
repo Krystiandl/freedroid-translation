@@ -91,7 +91,7 @@ msgstr "Mit tudsz mondani a 614-es tipusról?"
 
 #: 614_cryo.dialog:69
 msgid "The official manual classifies the 614 as a high class security droid."
-msgstr "A hivatalos besorolása magasszintű biztonsági droid."
+msgstr "A 614-es hivatalos besorolása magasszintű biztonsági droid."
 
 #: 614_cryo.dialog:70
 msgid "It was mainly used within ships to protect certain areas from intruders."
