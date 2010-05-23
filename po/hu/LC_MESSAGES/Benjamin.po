@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-23 11:01+0100\n"
+"PO-Revision-Date: 2010-05-23 12:41+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -38,51 +38,51 @@ msgstr "Új tervekkel kísérletezem. A lézerpisztolyt szeretném átépíteni.
 
 #: Benjamin.dialog:52
 msgid "A lot of energy is wasted somewhere during firing, and I have no idea where. If I could find the source of the problem, the gun would become much more powerful."
-msgstr ""
+msgstr "Rengeteg energia veszik kárba tüzelés közben, de fogalmam sincs, hová lesz. Ha megtalálom a probléma forrását, a fegyver sokkal erősebb lesz."
 
 #: Benjamin.dialog:53
 msgid "So far all my prototypes have failed. Mostly overheating and jamming. Sometimes I wonder if I am doing something wrong."
-msgstr ""
+msgstr "Már régóta minden prototipusom befuccsol. Jellemzően túlmelegszenek, és elakadnak. Azt hiszem, valamit rosszul csinálok."
 
 #: Benjamin.dialog:58
 msgid "Did you think about somehow gathering the excess heat and using it to make the beam stronger?"
-msgstr ""
+msgstr "Gondoltál arra, hogy valahogyan összegyűjtsd a kiáramló hőt és a sugár erősítésére használd fel?"
 
 #: Benjamin.dialog:60
 msgid "Hmm... There might be something in that idea. I will think about it."
-msgstr ""
+msgstr "Hmm... Nem rossz ötlet. Hadd gondoljam át."
 
 #: Benjamin.dialog:66
 msgid "If I were you, I would focus my work on the firing rate."
-msgstr ""
+msgstr "Én a helyedben a tűzgyorsaságra helyezném a hangsúlyt."
 
 #: Benjamin.dialog:68
 msgid "Hmm... I will think about it. Hmm..."
-msgstr ""
+msgstr "Hmm... Át fogom gondolni. Hmm..."
 
 #: Benjamin.dialog:74
 msgid "You know, laser pistols are not a very promising weapon. I think you should work on something different."
-msgstr ""
+msgstr "Tudod, a lézerpisztolyok nem túl ígéretes fegyverek. Azt hiszem, valami egészen másban kellene gondolkoznod."
 
 #: Benjamin.dialog:76
 msgid "Yeah, maybe you are right. I will think about it."
-msgstr ""
+msgstr "Aha, talán igazad van. Meg fogom gondolni."
 
 #: Benjamin.dialog:83
 msgid "Can you teach me how to properly use rifles and guns?"
-msgstr ""
+msgstr "Meg tudsz tanítani a karabélyok és puskák helyes használatára?"
 
 #: Benjamin.dialog:86
 msgid "If anyone in this city knows more about guns than me, then my name's not Benjamin."
-msgstr ""
+msgstr "Ha ebben a városban valaki többet tud nálam a fegyverekről, ne legyen a nevem Benjamin."
 
 #: Benjamin.dialog:87
 msgid "Of course, I will need compensation for the ammunition spent in the training and for my time."
-msgstr ""
+msgstr "Természetesen, de valahogy ellentételezned kell a tréning alatt elhasznált lőszerért és az időmért is."
 
 #: Benjamin.dialog:88
 msgid "Say... A hundred circuits should be enough for a beginner lesson."
-msgstr ""
+msgstr "Nézzük csak... Száz cyberdollár elég lesz a kezdő leckére."
 
 #: Benjamin.dialog:89
 #: Benjamin.dialog:95
@@ -90,43 +90,43 @@ msgstr ""
 #: Benjamin.dialog:105
 #: Benjamin.dialog:110
 msgid "Interested?"
-msgstr ""
+msgstr "Érdekel?"
 
 #: Benjamin.dialog:92
 msgid "Oh, you are ready for some more training?"
-msgstr ""
+msgstr "Na, felkészültél a további tréningre?"
 
 #: Benjamin.dialog:93
 msgid "It will of course cost a bit more money as well as mental focus on your part."
-msgstr ""
+msgstr "Persze ez egy kicsit több pénzbe és koncentrációba fog kerülni a részedről"
 
 #: Benjamin.dialog:94
 msgid "It will take you two hundred circuits and double the effort on your part to become a true apprentice."
-msgstr ""
+msgstr "Kétszáz cyberdollárba és dupla erőfeszítésbe fog kerülni, hogy valódi újonccá válhass."
 
 #: Benjamin.dialog:98
 msgid "I see you have taken a liking to guns."
-msgstr ""
+msgstr "Látom, megkedvelted a fegyvereket."
 
 #: Benjamin.dialog:99
 msgid "But the next step will cost even more money and require the mental focus equaling all your previous training."
-msgstr ""
+msgstr "Ám a következő szint több pénzbe, és összpontosításba fog kerülni, mint az összes előző tréning együttvéve."
 
 #: Benjamin.dialog:103
 msgid "Oh, you want to become a real master with shooters?"
-msgstr ""
+msgstr "Ó, a fegyverek igazi mestere szeretnél lenni?"
 
 #: Benjamin.dialog:104
 msgid "It will cost you 400 valuable circuits and an awful lot of mental focusing on the task."
-msgstr ""
+msgstr "400 cyberdollárba és hihetetlenül magas fokú koncentrációba fog kerülni."
 
 #: Benjamin.dialog:108
 msgid "To become a true god of firearms, just like me, you need ridiculous amounts of training."
-msgstr ""
+msgstr "Hogy a tűzfegyverek igazi istenévé válj, mint én, rettentő mennyiségű gyakorlásra lesz szükséged."
 
 #: Benjamin.dialog:109
 msgid "It will of course cost a fair bit of cold, hard circuits as well. 500, to be precise."
-msgstr ""
+msgstr "Természetesen sok akaratba, és kemény cyberdollárba fog kerülni. Ötszázba, egészen pontosan."
 
 #: Benjamin.dialog:113
 msgid "Sorry, there is no human alive that could give you further training."
