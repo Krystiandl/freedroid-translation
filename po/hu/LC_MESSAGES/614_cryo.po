@@ -95,52 +95,52 @@ msgstr "A hivatalos besorolása magasszintű biztonsági droid."
 
 #: 614_cryo.dialog:70
 msgid "It was mainly used within ships to protect certain areas from intruders."
-msgstr ""
+msgstr "Jellemzően hajókon alkalmazták, különböző területek behatolókkal szembeni védelmére."
 
 #: 614_cryo.dialog:71
 msgid "It is considered an old but reliable device."
-msgstr ""
+msgstr "Meglehetősen idejétmúlt, de megbízható egység."
 
 #: 614_cryo.dialog:72
 msgid "So don't worry. I'm still in pretty good shape."
-msgstr ""
+msgstr "Tehát ne aggódj. Még mindíg elég jó állapotban vagyok."
 
 #: 614_cryo.dialog:77
 msgid "What are your orders?"
-msgstr ""
+msgstr "Milyen utasításokat követsz?"
 
 #: 614_cryo.dialog:79
 msgid "Primary objective: Protect the living beings inside this complex from attacks by hostile bots."
-msgstr ""
+msgstr "Elsődleges feladat: Az élőlények védelme az ellenséges droidoktól a komplexumon belül."
 
 #: 614_cryo.dialog:80
 msgid "Secondary objective: Protect facility by locking outer gates if Threat Degree Analysis: HIGH."
-msgstr ""
+msgstr "Másodlagos feladat: A létesítmény védelme a külső kapuk lezárásával, ha a Fenyegetettségi Szint: MAGAS"
 
 #: 614_cryo.dialog:85
 msgid "Why are you not hostile as are all the other bots?"
-msgstr ""
+msgstr "Miért nem vagy ellenséges, mint a többi bot?"
 
 #: 614_cryo.dialog:87
 msgid "I belong to a an older generation of bots, running a custom-made security guard operating system."
-msgstr ""
+msgstr "Egy régebbi botgenerációhoz tartozom, amely egy kölönlegesen fejlesztett biztonsági-őrző operációs rendszert futtat."
 
 #: 614_cryo.dialog:88
 msgid "None of the bots of this generation were affected by the proceedings that led to bots attacking, generally known as the Great Assault."
-msgstr ""
+msgstr "Ebből a generációból egy bot sem volt érintett abban a folyamatban, ami a droidok ellenségessé válásához vezetett, amit mindenki csak a Nagy Ostromként emleget."
 
 #: 614_cryo.dialog:89
 msgid "Even though discontinued from Nicholson, Inc. long ago, today, some people have picked up the work and are even trying to improve the operating system running on my series."
-msgstr ""
+msgstr "Ahol a Nicholson vállalat a régmúltban abbahagyta, néhány ember ott folytatta a munkát, megpróbálva növelni az operációs rendszer hatékonyságát, amelyet a szériám futtat."
 
 #: 614_cryo.dialog:90
 msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
-msgstr ""
+msgstr "Ne felejts el a Nicholson vállalat termékeiből vásárolni. Ők a legjobbak."
 
 #: 614_cryo.dialog:95
 msgid "See you later."
-msgstr ""
+msgstr "Később találkozunk. Viszlát!"
 
 #: 614_cryo.dialog:97
 msgid "Resuming guard program."
-msgstr ""
+msgstr "Örző-Védő Program folytatása."
