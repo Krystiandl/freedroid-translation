@@ -79,7 +79,7 @@ msgstr "Ellenséges Energia Szint: ALACSONY"
 
 #: 614_cryo.dialog:61
 msgid "Threat Degree Analysis: MODERATE"
-msgstr "Fenegetettségi Szint: KÖZEPES"
+msgstr "Fenyegetettségi Szint: KÖZEPES"
 
 #: 614_cryo.dialog:62
 msgid "Complex Gate Status: OPEN"
@@ -123,7 +123,7 @@ msgstr "Miért nem vagy ellenséges, mint a többi bot?"
 
 #: 614_cryo.dialog:87
 msgid "I belong to a an older generation of bots, running a custom-made security guard operating system."
-msgstr "Egy régebbi botgenerációhoz tartozom, amely egy kölönlegesen fejlesztett biztonsági-őrző operációs rendszert futtat."
+msgstr "Egy régebbi botgenerációhoz tartozom, amely egy kölönlegesen fejlesztett őrző-védő operációs rendszert futtat."
 
 #: 614_cryo.dialog:88
 msgid "None of the bots of this generation were affected by the proceedings that led to bots attacking, generally known as the Great Assault."
