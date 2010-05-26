@@ -54,7 +54,7 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:74
 msgid "It's fairly simple, but it does show all four cardinal directions, and North is marked. Going clockwise from North, you have East, South, and West."
-msgstr ""
+msgstr "C'est vraiment très simple, mais cela montre les quatre directions cardinales, avec le Nord indiqué comme référence. Dans le sens des aiguilles d'une montre viennent ensuite l'Est, le Sud, et l'Ouest."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:75
 msgid "I'll go ahead and mention the automap. Rumor has it that there was once a world-wide mapping network that you as a Linarian could tap into."
@@ -62,7 +62,7 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:76
 msgid "Much of the bot activity has made it difficult or impossible to use."
-msgstr ""
+msgstr "Beaucoup d'activité cybernétique l'a rendu difficile ou impossible à utiliser."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:77
 msgid "That said, there is supposed to be a man in town that provides a very similar ability through the use of nanotechnology."
@@ -98,9 +98,8 @@ msgid "I hope that means more to you than it does to me."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:90
-#, fuzzy
 msgid "I think I understand."
-msgstr "Je pense que je vais y aller."
+msgstr "Je pense que je comprends."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:91
 msgid "Going along with that, you do have the ability to run for a reasonable distance."
