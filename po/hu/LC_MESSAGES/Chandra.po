@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-24 18:02+0100\n"
+"PO-Revision-Date: 2010-05-28 07:41+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -149,9 +149,8 @@ msgid "We all do, Linarian, we all do."
 msgstr "Mindannyian ezt szeretnénk Lináriai. Mindannyian."
 
 #: Chandra.dialog:106
-#, fuzzy
 msgid "The act in question is made impossible by the quasi-infinite bots outside of the city walls."
-msgstr "Kérdésessé vált, hogy a kvázi számtalan botot a város falain kívül tartsuk."
+msgstr "Ez kérdéséssé teszi, hogy a kvázi számtalan botot a város falain kívül tudjuk-e tartani."
 
 #: Chandra.dialog:107
 msgid "You cannot live for long out there."
