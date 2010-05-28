@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-05-28 11:54+0100\n"
+"Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,401 +14,344 @@ msgstr ""
 
 #: DocMoore.dialog:54
 msgid "Hello!"
-msgstr ""
+msgstr "Üdv."
 
 #: DocMoore.dialog:56
-msgid ""
-"Hello. I'm Doc Moore. I'm the medic of this town. I don't believe "
-"we've met?"
-msgstr ""
+msgid "Hello. I'm Doc Moore. I'm the medic of this town. I don't believe we've met?"
+msgstr "Moor doki vagyok. Én vagyok a város orvosa. Találkoztunk már?"
 
 #: DocMoore.dialog:57
 msgid "I'm "
-msgstr ""
+msgstr "Hát"
 
 #: DocMoore.dialog:58
 msgid "Um, what are you? Some kind of overgrown penguin?"
-msgstr ""
+msgstr "Ööö, mi vagy te? Valami túlfejlett pingvin?"
 
 #: DocMoore.dialog:59
 msgid "I'm a Linarian."
-msgstr ""
+msgstr "Lináriai vagyok."
 
 #: DocMoore.dialog:60
-msgid ""
-"Oh, I vaguely remember reading something about Linarian biology back "
-"in my university days..."
-msgstr ""
+msgid "Oh, I vaguely remember reading something about Linarian biology back in my university days..."
+msgstr "Ó, mintha emlékeznék valami Lináriai biológiáról az orvosi egyetemről..."
 
 #: DocMoore.dialog:61
 msgid "I should be able to heal you if you get hurt."
-msgstr ""
+msgstr "Képes leszek meggyógyítani téged, ha megsérülsz."
 
 #: DocMoore.dialog:70
 msgid "Do you also sell medical equipment?"
-msgstr ""
+msgstr "És árulsz gyógyszereket is?"
 
 #: DocMoore.dialog:72
 msgid "Yes. Here is what I can offer today."
-msgstr ""
+msgstr "Igen. Ez a mai ajánlatom."
 
 #: DocMoore.dialog:78
 msgid "May I buy some medical equipment?"
-msgstr ""
+msgstr "Vásárolhatok némi gyógyszert?"
 
 #: DocMoore.dialog:80
 msgid "Sure. Here is what I can offer today."
-msgstr ""
+msgstr "Persze. Ez a mai ajánlatom."
 
 #: DocMoore.dialog:85
 msgid "Doc, I took some of those brain enlargement pills..."
-msgstr ""
+msgstr "Doki, bevettem párat az agynövelő tablettákból..."
 
 #: DocMoore.dialog:88
 msgid "Sorry, but I already gave you some medical help."
-msgstr ""
+msgstr "Sajnálom, de már adtam orvosi felvilágosítást."
 
 #: DocMoore.dialog:89
-msgid ""
-"To poison yourself, 1 more time, that's entirely your own business "
-"and I'm not responsible."
-msgstr ""
+msgid "To poison yourself, 1 more time, that's entirely your own business and I'm not responsible."
+msgstr "Ha még egyszer mérgezed magad, az a te bajod lesz, és nem vállalok érte felelősséget."
 
 #: DocMoore.dialog:90
-msgid ""
-"As far as I am concerned, in this town everyone gets everything "
-"equally."
-msgstr ""
+msgid "As far as I am concerned, in this town everyone gets everything equally."
+msgstr "Addig, amíg én vagyok érte felelős, addig mindenki egyenlő ellátást kap."
 
 #: DocMoore.dialog:93
-msgid ""
-"Oh no, not another one. Those pills are almost pure biological waste."
-msgstr ""
+msgid "Oh no, not another one. Those pills are almost pure biological waste."
+msgstr "Ó ne, már megint? Azok a tabletták majdnem tiszta biológiai hulladékból állnak."
 
 #: DocMoore.dialog:94
 msgid "Taking that stuff almost always equals delayed suicide."
-msgstr ""
+msgstr "Annak a cuccnak a bevétele majdnem egyenlő a késleltetett öngyilkossággal."
 
 #: DocMoore.dialog:95
-msgid ""
-"Now, take this antidote. It should remove the dangerous substances "
-"within your body."
-msgstr ""
+msgid "Now, take this antidote. It should remove the dangerous substances within your body."
+msgstr "Tessék, adok egy kis ellenszérumot. El fogja távolítani a szervezetetből a veszélyes méreganyagokat."
 
 #: DocMoore.dialog:96
-msgid ""
-"But remember, I'll only give you this help once, because you didn't "
-"know the effects."
-msgstr ""
+msgid "But remember, I'll only give you this help once, because you didn't know the effects."
+msgstr "De emlékezz rá, hogy csak azért segítettem, mert nem tudtad mit teszel."
 
 #: DocMoore.dialog:97
-msgid ""
-"Should you take that junk again, I won't feel responsible for what "
-"happens to you any more."
-msgstr ""
+msgid "Should you take that junk again, I won't feel responsible for what happens to you any more."
+msgstr "Ha megint használod azt a szemetet, nem vállalok felelősséget, hogy mi történik veled."
 
 #: DocMoore.dialog:106
 msgid "Doctor, how can I keep healthy and alive?"
-msgstr ""
+msgstr "Doktor, hogy maradhatok életben, és hogyan maradhatok egészséges?"
 
 #: DocMoore.dialog:108
 msgid "Always remember L-I-F-E"
-msgstr ""
+msgstr "Vésd az eszedbe az R-R-R-R szabályt."
 
 #: DocMoore.dialog:109
 msgid "L - Look at your health status regularly."
-msgstr ""
+msgstr "Rendszeresen ellenőrizd az egészségi állapotodat."
 
 #: DocMoore.dialog:110
 msgid "I - Ingest cold water if you are overheating."
-msgstr ""
+msgstr "Remek ötlet a hideg víz, ha túlmelegszel."
 
 #: DocMoore.dialog:111
 msgid "F - Flee if you cannot fight."
-msgstr ""
+msgstr "Rohanj el, ha nem tudsz harcolni."
 
 #: DocMoore.dialog:112
 msgid "E - Evacuate to the town if you cannot flee."
-msgstr ""
+msgstr "Regenerálódhatsz a városban, ha kétséges a túlélésed."
 
 #: DocMoore.dialog:117
 msgid "Can you fix me up?"
-msgstr ""
+msgstr "Meg tudsz gyógyítani?"
 
 #: DocMoore.dialog:119
-msgid ""
-"Sure, as the only doctor of this slowly growing community, I take "
-"responsibility for everyone's health."
-msgstr ""
+msgid "Sure, as the only doctor of this slowly growing community, I take responsibility for everyone's health."
+msgstr "Persze, mint ennek a lassan növekvő egyetlen orvosa, mindenki állapotáért felelősséget vállalok."
 
 #: DocMoore.dialog:121
-msgid ""
-"However, self-inflicted damage might be exempted from this rule in "
-"some cases..."
-msgstr ""
+msgid "However, self-inflicted damage might be exempted from this rule in some cases..."
+msgstr "Bár, az önmagadnak okozott sérülés felment e felelősség alól néhány esetben."
 
 #: DocMoore.dialog:124
 msgid "There, it's done. You're completely fixed. You can go now."
-msgstr ""
+msgstr "Már kész is vagy. Teljesen meggyógyultál. Most már mehetsz."
 
 #: DocMoore.dialog:130
 msgid "What do you mean, self-inflicted damage?"
-msgstr ""
+msgstr "Mit értesz önmagamnak okozott sérülésen?"
 
 #: DocMoore.dialog:132
 msgid "Well, you see that idiotic Bender character on my doorstep?"
-msgstr ""
+msgstr "Hát, láttad odakint azt az idióta Bendert a rendelőm mellett?"
 
 #: DocMoore.dialog:133
 msgid "What can you tell me about Bender?"
-msgstr ""
+msgstr "Mit tudsz mondani benderről?"
 
 #: DocMoore.dialog:134
-msgid ""
-"Bender asked my advice about some pills he saw advertised in an e-"
-"mail. I told him not to buy them."
-msgstr ""
+msgid "Bender asked my advice about some pills he saw advertised in an e-mail. I told him not to buy them."
+msgstr "Bender a tanácsomat kérte egy e-mailben hirdetett kapszulával kapcsolatban. Mondtam, hogy ne vegye meg."
 
 #: DocMoore.dialog:135
-msgid ""
-"But guess what? He bought and took the stupid pills anyways, and then "
-"he came back to me to fix him."
-msgstr ""
+msgid "But guess what? He bought and took the stupid pills anyways, and then he came back to me to fix him."
+msgstr "És szerinted? Megvette és beszedte a hülye pirulákat, utána meg visszajött, hogy gyógyítsam meg."
 
 #: DocMoore.dialog:136
-msgid ""
-"If he, or anyone, is going to completely disregard my medical advice, "
-"and then think they are going to get my medical supplies, then they "
-"are wrong."
-msgstr ""
+msgid "If he, or anyone, is going to completely disregard my medical advice, and then think they are going to get my medical supplies, then they are wrong."
+msgstr "Ha ő, vagy valaki más teljesen figyelmen kívül hagyja az orvosi tanácsaimat, és azt hiszi, hogy meggyógyítom, az nagyot téved."
 
 #: DocMoore.dialog:137
-msgid ""
-"He won't get anything from me anymore. It would be unfair to the "
-"community to waste all the supplies on him, and that's my final word "
-"on that."
-msgstr ""
+msgid "He won't get anything from me anymore. It would be unfair to the community to waste all the supplies on him, and that's my final word on that."
+msgstr "Nem kap semmit. Nem lenne tisztességes a közösséggel szemben, hogy a szűkös erőforrásokat rá pazaroljam, és ez az utolsó szavam."
 
 #: DocMoore.dialog:143
 msgid "Doc... I really want the antidote."
-msgstr ""
+msgstr "Doki... Tényleg kéne az ellenszer."
 
 #: DocMoore.dialog:145
 msgid "No! I am not giving it to you. Forget about it."
-msgstr ""
+msgstr "Nem! Nem adok. Felejtsd el."
 
 #: DocMoore.dialog:150
 msgid "My patience is running out. Give me the antidote. Now."
-msgstr ""
+msgstr "Elfogy a türelmem. Adj ellenszert. Most."
 
 #: DocMoore.dialog:152
 msgid "No! Over my dead body."
-msgstr ""
+msgstr "Nem! Csak az életem árán."
 
 #: DocMoore.dialog:157
 msgid "Your wish is my command!"
-msgstr ""
+msgstr "Kívánságod számomra parancs!"
 
 #: DocMoore.dialog:159
 msgid "Huh? What?"
-msgstr ""
+msgstr "Őőőő... Mi?"
 
 #: DocMoore.dialog:160
-msgid ""
-"Humans... You are so interesting. I always wanted to know exactly how "
-"much blood you have."
-msgstr ""
+msgid "Humans... You are so interesting. I always wanted to know exactly how much blood you have."
+msgstr "Emberek... Olyan érdekesek vagytok. Mindig tudni akartam, mennyi véretek van."
 
 #: DocMoore.dialog:161
 msgid "Don't do this. Don't do this."
-msgstr ""
+msgstr "Ne tedd! Ne tedd!"
 
 #: DocMoore.dialog:162
 msgid "Prepare, Doc. The experiment begins."
-msgstr ""
+msgstr "Készülj fel, Doki. Kezdődik a kísérlet."
 
 #: DocMoore.dialog:163
 msgid "Don't do this! DON'T DO THIS!"
-msgstr ""
+msgstr "Ne tedd ezt! NE TEDD EZT!"
 
 #: DocMoore.dialog:164
 msgid "AAAAAAAAAAAA!"
-msgstr ""
+msgstr "ÁÁÁÁÁÁÁÁÁÁÁÁ!"
 
 #: DocMoore.dialog:165
-msgid ""
-"Ugh. Human blood is disgusting. At least four liters. I feel sick."
-msgstr ""
+msgid "Ugh. Human blood is disgusting. At least four liters. I feel sick."
+msgstr "Boah. Az emberi vér undorító. Majdnem négy liter. Rosszul vagyok."
 
-#: DocMoore.dialog:166 DocMoore.dialog:168 DocMoore.dialog:170
+#: DocMoore.dialog:166
+#: DocMoore.dialog:168
+#: DocMoore.dialog:170
 msgid " . . ."
-msgstr ""
+msgstr " . . ."
 
 #: DocMoore.dialog:167
-msgid ""
-"I guess this means I get to inherit all your stuff. I hope you don't "
-"mind if I take everything?"
-msgstr ""
+msgid "I guess this means I get to inherit all your stuff. I hope you don't mind if I take everything?"
+msgstr "Azt hiszem, ez azt jelenti, hogy el kell vennem az összes cuccodat. Ugye nem zavar, ha mindenedet elviszem?"
 
 #: DocMoore.dialog:169
 msgid "Good. I am very glad not to hear a disapproval."
-msgstr ""
+msgstr "Nagyon jó. Örülök, hogy nincs ellenvetés."
 
 #: DocMoore.dialog:187
 msgid "Forget it. Getting the antidote is not worth the effort."
-msgstr ""
+msgstr "Felejtsd el. Nem éri meg az erőfeszítést."
 
 #: DocMoore.dialog:189
 msgid "I am not giving it to you, and that won't change."
-msgstr ""
+msgstr "Nem fogok adni, és ez biztos."
 
 #: DocMoore.dialog:194
 msgid "What can you tell me about Strength Pills?"
-msgstr ""
+msgstr "Mit tudsz mondani az Erőkapszuláról?"
 
 #: DocMoore.dialog:201
 msgid "What can you tell me about Dexterity Pills?"
-msgstr ""
+msgstr "Mit tudsz mondani az Ügyességkapszuláról?"
 
 #: DocMoore.dialog:208
 msgid "What can you tell me about Code Pills?"
-msgstr ""
+msgstr "Mit tudsz mondani a Kódkapszuláról?"
 
 #: DocMoore.dialog:215
 msgid "THIS WILL NEVER BE VISIBLE"
-msgstr ""
+msgstr "EZT NEM FOGOD MEGLÁTNI"
 
 #: DocMoore.dialog:218
-msgid ""
-"Those pills are only one variant of a fantastic scientific "
-"breakthrough that happened shortly before the Great Assault."
-msgstr ""
+msgid "Those pills are only one variant of a fantastic scientific breakthrough that happened shortly before the Great Assault."
+msgstr "Azok a tablezzák egy fantasztikus tudományos áttörés eredményei, ami nem sokkal a Nagy Ostrom előtt történt."
 
 #: DocMoore.dialog:219
-msgid ""
-"Three kinds of enhancement pills were developed. One for strength, "
-"one for dexterity and one for programming abilities."
-msgstr ""
+msgid "Three kinds of enhancement pills were developed. One for strength, one for dexterity and one for programming abilities."
+msgstr "Háromféle feljavító tablettát fejlesztettek ki. Egyet az erőhöz, egyet az ügyességhez, egyet pedig a programozói képességekhez."
 
 #: DocMoore.dialog:220
-msgid ""
-"These pills work on a nanotechnological basis with small machines "
-"connecting to your muscle and nerve tissue."
-msgstr ""
+msgid "These pills work on a nanotechnological basis with small machines connecting to your muscle and nerve tissue."
+msgstr "A tabletták nanotechnológiaia elven alapulnak, azaz kis gépeken, amik az izmokhoz és az idegrendszerhez kapcsolódnak."
 
 #: DocMoore.dialog:221
-msgid ""
-"The machines connect together and form some inorganic artificial "
-"tissue that has been optimized for certain qualities."
-msgstr ""
+msgid "The machines connect together and form some inorganic artificial tissue that has been optimized for certain qualities."
+msgstr "A gépecskék összekapcsolódnak, és egy mesterséges szövetet alkotnak, ami különböző képességekre van optimalizálva."
 
 #: DocMoore.dialog:222
-msgid ""
-"Since this invention only came about shortly before the Great "
-"Assault, these pills are now very rare."
-msgstr ""
+msgid "Since this invention only came about shortly before the Great Assault, these pills are now very rare."
+msgstr "Mivel a felfedezés nem sokkal a Nagy Ostrom előttről származik, ezek a kapszulák nagyon ritkák."
 
 #: DocMoore.dialog:223
-msgid ""
-"But if you should get them, even better, because the effects are "
-"permanent, and as far as we can tell, there aren't any side effects!"
-msgstr ""
+msgid "But if you should get them, even better, because the effects are permanent, and as far as we can tell, there aren't any side effects!"
+msgstr "De ha hozzájutsz az nagyon jó, mert a hatása örök, és amennyire tudom, nincs mellékhatásuk."
 
 #: DocMoore.dialog:228
 msgid "What can you tell me about Brain Pills?"
-msgstr ""
+msgstr "Mit tudsz mondani az agynövelő tablettáról?"
 
 #: DocMoore.dialog:231
 msgid "I already warned you about those!"
-msgstr ""
+msgstr "Már beszéltem erről!"
 
 #: DocMoore.dialog:233
-msgid ""
-"Those pills are almost pure biological waste! They are sold to stupid "
-"ignorant gullible people. Never EVER take one."
-msgstr ""
+msgid "Those pills are almost pure biological waste! They are sold to stupid ignorant gullible people. Never EVER take one."
+msgstr "Az majdnem tiszta biológiai szemét! Buta, könnyen rászedhető embereknek árusítják. Soha ne vedd be!"
 
 #: DocMoore.dialog:238
 msgid "What can you tell me about Diet supplements?"
-msgstr ""
+msgstr "Mit tudsz mondani a táplálékkiegészítőkről?"
 
 #: DocMoore.dialog:240
-msgid ""
-"Have you tasted the army snacks that the cook, Michelangelo, has been "
-"handing out?"
-msgstr ""
+msgid "Have you tasted the army snacks that the cook, Michelangelo, has been handing out?"
+msgstr "Kóstoltad már a katonai kaját, amit Michelangelo, a szakács osztogat?"
 
 #: DocMoore.dialog:242
 msgid "Yes, those were horrible. They had a nice color though."
-msgstr ""
+msgstr "Igen, borzalmas volt. De szép volt a színe."
 
 #: DocMoore.dialog:243
 msgid "The dye used to make that color is a known carcinogen."
-msgstr ""
+msgstr "A színezőanyagot, amit tartalmaz, karcinogénnek hívják."
 
 #: DocMoore.dialog:245
 msgid "No, should I?"
-msgstr ""
+msgstr "Nem, de tehetném?"
 
 #: DocMoore.dialog:246
 msgid "Not if you can avoid it."
-msgstr ""
+msgstr "Nem, ha nem muszály."
 
 #: DocMoore.dialog:248
-msgid ""
-"Well, unlike the army snacks, the Diet Supplements actually have a "
-"slight nutritional benefit."
-msgstr ""
+msgid "Well, unlike the army snacks, the Diet Supplements actually have a slight nutritional benefit."
+msgstr "Hát, a katonai kajával ellentétben a táplálékkiegészítőknek elhanyagolható táplálkozási előnyei vannak."
 
 #: DocMoore.dialog:249
 msgid "After taking one your health should improve slightly."
-msgstr ""
+msgstr "Ha beveszel egyet, az egészséged csekély mértékben növekszik."
 
 #: DocMoore.dialog:254
 msgid "What can you tell me about Antibiotics?"
-msgstr ""
+msgstr "Mit tudsz mondani az antibiotikumokról?"
 
 #: DocMoore.dialog:256
 msgid "Basically it is bottled up poison made by bacteria."
-msgstr ""
+msgstr "Apapvetően baktériumok által termelt, palackozott méreg."
 
 #: DocMoore.dialog:257
 msgid "And that is good for me?"
-msgstr ""
+msgstr "És az jó nekem?"
 
 #: DocMoore.dialog:258
-msgid ""
-"Yep. It kills the bacteria that want to kill you. It improves your "
-"health significantly."
-msgstr ""
+msgid "Yep. It kills the bacteria that want to kill you. It improves your health significantly."
+msgstr "Aha. Elpusztítja a baktériumokat, amik megölnének téged. Jelentősen növeli az egészségedet."
 
 #: DocMoore.dialog:263
 msgid "What is a Doc-in-a-can?"
-msgstr ""
+msgstr "Mi az a Doki-a-dobozban?"
 
 #: DocMoore.dialog:265
-msgid ""
-"It is a device that releases millions of short-lived nanobots that "
-"swarm all over your body inside and out repairing and fixing almost "
-"all but the most serious wounds."
-msgstr ""
+msgid "It is a device that releases millions of short-lived nanobots that swarm all over your body inside and out repairing and fixing almost all but the most serious wounds."
+msgstr "Az egy eszköz, ami rövid életű nanobotok millióit juttatja a szervezetedbe, amik megtisztítják a szervezetedet, és meggyógyítják a legtöbb komoly sérülést."
 
 #: DocMoore.dialog:266
 msgid "Wouldn't long-lived nanobots work better?"
-msgstr ""
+msgstr "Nem működhetnének hatékonyabban a rövid életű nanobotok?"
 
 #: DocMoore.dialog:267
-msgid ""
-"They found that long-lived nanobots evolve self-replication and act "
-"like a cancer. A cancer of gray goo that eats everything."
-msgstr ""
+msgid "They found that long-lived nanobots evolve self-replication and act like a cancer. A cancer of gray goo that eats everything."
+msgstr "Felfedezték, hogy a hosszabbított életű nanobotok önmásoló képességgel rendelkeznek, és úgy viselkednek, mint a rák. Egy szürke masszából álló rák, amely mindent felzabál."
 
 #: DocMoore.dialog:268
-msgid ""
-"Several planets were made uninhabitable before they figured that one "
-"out."
-msgstr ""
+msgid "Several planets were made uninhabitable before they figured that one out."
+msgstr "Több bolygó vált lakatlanná, mire erre rájöttek."
 
-#: DocMoore.dialog:273 DocMoore.dialog:275
+#: DocMoore.dialog:273
+#: DocMoore.dialog:275
 msgid "See you later."
-msgstr ""
+msgstr "Később találkozunk."
+
