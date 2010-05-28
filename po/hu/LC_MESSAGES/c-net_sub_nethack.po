@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-26 10:28+0100\n"
+"PO-Revision-Date: 2010-05-28 07:42+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -44,7 +44,6 @@ msgid "Archeologist"
 msgstr "Régész"
 
 #: c-net_sub_nethack.dialog:96
-#, fuzzy
 msgid "Roge"
 msgstr "Roge"
 
@@ -117,9 +116,8 @@ msgid "You are all alone on the surface. There is a stairway down."
 msgstr "Egyes egyedül vagy a felszínen. Egy lépcső vezet lefelé."
 
 #: c-net_sub_nethack.dialog:312
-#, fuzzy
 msgid "At a new level"
-msgstr "Egy új szintre"
+msgstr "Új szint."
 
 #: c-net_sub_nethack.dialog:412
 msgid "Attack"
@@ -139,7 +137,6 @@ msgstr "Imádkozik"
 
 #: c-net_sub_nethack.dialog:482
 #: c-net_sub_nethack.dialog:487
-#, fuzzy
 msgid "Your goddess "
 msgstr "Az istennőd"
 
