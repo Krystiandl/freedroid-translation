@@ -1,3 +1,4 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
@@ -162,7 +163,7 @@ msgstr "Tudni szeretném, hogyan lehet alkatrészeket kiszerelni a botokból."
 
 #: Engel.dialog:133
 msgid "Yes."
-msgstr ""
+msgstr "Igen."
 
 #: Engel.dialog:134
 msgid "I will sell the information for a lot of Schaltkreise."
@@ -187,4 +188,3 @@ msgstr "Majd még találkozunk."
 #: Engel.dialog:149
 msgid "Goodbye and viel Gluck."
 msgstr "Viszlát és viel glück."
-
