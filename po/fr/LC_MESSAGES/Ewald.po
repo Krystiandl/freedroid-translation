@@ -12,9 +12,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
-"X-Poedit-Language: French\n"
 "X-Poedit-Country: FRANCE\n"
 "X-Generator: Launchpad (build Unknown)\n"
+"X-Poedit-Language: French\n"
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:44
 msgid "Hi. You look really happy."
@@ -49,9 +49,8 @@ msgid "The bots ruined it for me. Now the supplies are very low and I had to mak
 msgstr "Les robots m'ont ruiné. Maintenant il y a vraiment très peu de fournitures et j'ai été obligé d'augmenter les prix."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:58
-#, fuzzy
 msgid "No one wants to pay 499 circs for bottom shelf swill that even Bender would not drink..."
-msgstr "Personne ne veut payer 499 triangles la rinçre de l'étagère du bas, que même Bender ne boirait pas."
+msgstr "Personne ne veut payer 499 circuits la mixture de l'étagère du bas, que même Bender ne voudrait pas boire…"
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:59
 msgid "The tax is quite brutal as well. And the Red Guard always demands discounts too."
@@ -62,7 +61,6 @@ msgid "Life is tough. I am still happy though."
 msgstr "La vie est ainsi. Je suis heureux malgré tout."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:65
-#, fuzzy
 msgid "Are you selling something other than drinks?"
 msgstr " Est-ce que tu vends autre chose que des boissons ?"
 
@@ -87,7 +85,6 @@ msgid "But you'll need a mug for me to put it in."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:85
-#, fuzzy
 msgid "I want double water on the rocks. Stirred, not shaken."
 msgstr " Je veux une double eau sur le comptoir. Mélangée, pas secouée."
 
@@ -104,9 +101,8 @@ msgid "Here you go."
 msgstr "Va ici."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:99
-#, fuzzy
 msgid "I want something cheap... Give me some fortified water."
-msgstr " Je veux quelque chose de pas trop cher ... Donne moi un peu d'eau fortifiée."
+msgstr " Je veux quelque chose de peu onéreux… Donne moi un peu d'eau fortifiée."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:101
 msgid "Eh... Sure, as you wish. Here you go."
@@ -189,9 +185,8 @@ msgid "Well, unless you are in the Red Guard itself, of course. They have those 
 msgstr "Bien, sauf si tu es toi-même de la Garde Rouge, naturellement. Ils ont ces gros pistolets qui peuvent détruire une douzaine de bots en un coup..."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:161
-#, fuzzy
 msgid "Now THAT'S fun, if you ask me."
-msgstr "Marrant, si tu me demandes."
+msgstr "C'est ÇA qui est drôle, si tu veux savoir."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:163
 msgid "If you are really board, you can try gambling with me. But the Red Guard taxes it."
@@ -206,18 +201,16 @@ msgid "Here, have a watery mary."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:176
-#, fuzzy
 msgid "Sure, I'll gamble with you. What do you play?"
-msgstr "Bien sûr, je vais jouer avec toi. À quoi joues-tu ?"
+msgstr "Bien sûr, je vais jouer avec toi. Qu'est-ce que tu mises ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:179
 msgid "I play a dice game and a coin-flipping game."
 msgstr "Je joue aux dés et à pile ou face."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:191
-#, fuzzy
 msgid "You should come back when you have more to gamble with."
-msgstr "Reviens quand tu aura de quoi jouer."
+msgstr "Tu devrai revenir lorsque tu auras plus à mettre en jeu."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:197
 msgid "Tell me the rules for your 'dice game'."
@@ -261,9 +254,8 @@ msgid "I flip one coin."
 msgstr "Je lance une pièce."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:215
-#, fuzzy
 msgid "Then you tell me if there will be an 'odd' or 'even' number of flips for what you chose."
-msgstr "Puis tu me dis si je vais faire un nombre pair ou impair de lancer pour ce que tu choisis."
+msgstr "Puis tu me dis si je vais faire un nombre « pair » ou « impair » de lancer pour ce que tu choisis."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:217
 msgid "I flip the other four coins. If you were completely right, I give you three times what your bet, if wrong, you get nothing."
@@ -301,31 +293,27 @@ msgstr "J'ai lancé un "
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:285
 msgid "What multiplier are you going to bet?"
-msgstr ""
+msgstr "Sur quel multiplieur vas-tu parier ?"
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:310
-#, fuzzy
 msgid "You've bet "
 msgstr "Tu as misé"
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:312
-#, fuzzy
 msgid "My first roll is a "
 msgstr "Mon premier lancé est un"
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:316
-#, fuzzy
 msgid "My second roll is a "
 msgstr "Mon second lancé est un"
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:320
-#, fuzzy
 msgid "My third roll is a "
 msgstr "Mon troisième lancé est un"
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:322
 msgid "It looks like I scored "
-msgstr ""
+msgstr "On dirait que j'ai marqué."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:325
 msgid "You won! Good job."
@@ -421,9 +409,8 @@ msgid "I think I would have picked odd this time."
 msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:435
-#, fuzzy
 msgid "The last four coin flips:"
-msgstr "Les quatre derniers lancés:"
+msgstr "Les quatre derniers jetés de pièce :"
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:438
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:444
@@ -440,31 +427,28 @@ msgid "Heads."
 msgstr "Face."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:454
-#, fuzzy
 msgid "Last flip. I hope it is the one I want!"
-msgstr "Dernier lancé. J'espère que c'est celui que je veux !"
+msgstr "Dernier lancé. J'espère que c'est celui que je veux qui va sortir !"
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:462
 msgid "Looks like that is "
-msgstr ""
+msgstr "On dirait que"
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:466
 msgid "Tails won..."
-msgstr ""
+msgstr "Les piles gagnent…"
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:469
 msgid "Heads won..."
-msgstr ""
+msgstr "Les faces gagnent…"
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:476
-#, fuzzy
 msgid "...and there was an even number of tails."
-msgstr "... il y avait un nombre pair de piles."
+msgstr "… et il y avait un nombre pair de piles."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:479
-#, fuzzy
 msgid "...and there was an odd number of heads."
-msgstr "... il y avait un nombre impair de faces."
+msgstr "… et il y avait un nombre impair de faces."
 
 #: /home/david/src/freedroid-translation/dialogs/Ewald.dialog:484
 msgid "...and there was an odd number of tails."
