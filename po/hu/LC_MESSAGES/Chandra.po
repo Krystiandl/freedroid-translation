@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-28 07:41+0100\n"
+"PO-Revision-Date: 2010-05-30 10:16+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -30,7 +30,7 @@ msgstr "Ennek a kisvárosnak valamiféle sikeres bányászvárosnak kellene lenn
 
 #: Chandra.dialog:51
 msgid "The mines have depleted recently, however. The town was under a threat of bankruptcy. Living here became harder and many left to seek new opportunities elsewhere."
-msgstr "A bányák mostanra kimerültek. A város a csőd szélére került. Az élet egyre nehezebbé vált, és sokan másutt kerestek jobb lehetőséget."
+msgstr "A bányák mostanra kimerültek. A város a csőd szélére került. Az élet egyre nehezebbé vált, és sokan másutt kerestek jobb lehetőséget. A bankredszer is elbukott, a csillagdollár szinte értéktelen, mi is már csak 'rugónak' nevezzük."
 
 #: Chandra.dialog:52
 msgid "But now after the Great Assault, the rest of the planet gets bombarded by automated bot ships every now and then, so being down here isn't so bad at all."
@@ -90,7 +90,7 @@ msgstr "De nincs!"
 
 #: Chandra.dialog:76
 msgid "They could just enter the city and massacre everyone..."
-msgstr "Be tudnának jutni a városba, és felkoncolni minde"
+msgstr "Be tudnának jutni a városba, és felkoncolni mindenkit..."
 
 #: Chandra.dialog:77
 msgid "But they do not even seem to try!"
