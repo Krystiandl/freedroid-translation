@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-05-30 11:20+0100\n"
+"Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,503 +14,470 @@ msgstr ""
 
 #: Ewald.dialog:44
 msgid "Hi. You look really happy."
-msgstr ""
+msgstr "Üdv. Igazán boldognak tűnsz."
 
 #: Ewald.dialog:46
 msgid "Hey! I'm Ewald. I'm a bartender."
-msgstr ""
+msgstr "Helló! Ewald vagyok. Én vagyok a kocsmáros."
 
 #: Ewald.dialog:47
 msgid "I used to do a lot of drugs, and I destroyed my brain."
-msgstr ""
+msgstr "Egy rakás drogot használtam, ami leépítette az agyam."
 
 #: Ewald.dialog:48
 msgid "I'm not too smart now, but I'm very happy all the time!"
-msgstr ""
+msgstr "Már nincs sok eszem, de mindig nagyon boldog vagyok."
 
 #: Ewald.dialog:49
 msgid "Want something to drink?"
-msgstr ""
+msgstr "Kérsz valamit inni?"
 
 #: Ewald.dialog:54
 msgid "How is your business doing?"
-msgstr ""
+msgstr "Hogy megy az üzlet?"
 
 #: Ewald.dialog:56
 msgid "Nah, No darn good at all."
-msgstr ""
+msgstr "Hát, nem megy sehogy."
 
 #: Ewald.dialog:57
-msgid ""
-"The bots ruined it for me. Now the supplies are very low and I had to "
-"make the prices high."
-msgstr ""
+msgid "The bots ruined it for me. Now the supplies are very low and I had to make the prices high."
+msgstr "A botok betettek nekem. Nagyon kevés az utánpótlás, és fel kellett vinnem az árakat."
 
 #: Ewald.dialog:58
-msgid ""
-"No one wants to pay 499 circs for bottom shelf swill that even Bender "
-"would not drink..."
-msgstr ""
+msgid "No one wants to pay 499 circs for bottom shelf swill that even Bender would not drink..."
+msgstr "Senki sem akar 499 csillagdollárt olyan piáért, amit még Bender sem inna meg..."
 
 #: Ewald.dialog:59
-msgid ""
-"The tax is quite brutal as well. And the Red Guard always demands "
-"discounts too."
-msgstr ""
+msgid "The tax is quite brutal as well. And the Red Guard always demands discounts too."
+msgstr "Az adó is brutáliasan magas, és a Vörös Őrök is hitelbe isznak."
 
 #: Ewald.dialog:60
 msgid "Life is tough. I am still happy though."
-msgstr ""
+msgstr "Az élet nehéz. De én attól még boldog vagyok."
 
 #: Ewald.dialog:65
 msgid "Are you selling something other than drinks?"
-msgstr ""
+msgstr "Az italon kívül mást is adsz el?"
 
 #: Ewald.dialog:67
 msgid "Yeah, I have some junk here... Want to see?"
-msgstr ""
+msgstr "Aha, van itt némi szemét... Akarod látni?"
 
 #: Ewald.dialog:72
 msgid "I could use a drink. What is there to be had?"
-msgstr ""
+msgstr "Jól esne egy ital. Mid van?"
 
 #: Ewald.dialog:74
-msgid ""
-"Well... We are a bit short on supplies right now... Erm... AH! I know!"
-msgstr ""
+msgid "Well... We are a bit short on supplies right now... Erm... AH! I know!"
+msgstr "Hát... Kissé ki vagyok fogyva... Őőőő... Izé... Aha! Tudom már!"
 
 #: Ewald.dialog:75
 msgid "I have WATER!"
-msgstr ""
+msgstr "Van VIZEM!"
 
 #: Ewald.dialog:77
 msgid "But you'll need a mug for me to put it in."
-msgstr ""
+msgstr "De adnod kell egy poharat, amive beletölthetem."
 
 #: Ewald.dialog:85
 msgid "I want double water on the rocks. Stirred, not shaken."
-msgstr ""
+msgstr "Egy dupla vizet kérek. Rázva, nem keverve."
 
 #: Ewald.dialog:87
-msgid ""
-"Here you go. That one is on the house. And if the water is not "
-"enough, just ask me for more."
-msgstr ""
+msgid "Here you go. That one is on the house. And if the water is not enough, just ask me for more."
+msgstr "Tessék. Ez a ház ajándéka. És ha nem elég, szólj bátran."
 
 #: Ewald.dialog:92
 msgid "Long Island iced water please."
-msgstr ""
+msgstr "Egy Long Island koktél vizet légyszíves."
 
 #: Ewald.dialog:94
 msgid "Here you go."
-msgstr ""
+msgstr "Parancsolj."
 
 #: Ewald.dialog:99
 msgid "I want something cheap... Give me some fortified water."
-msgstr ""
+msgstr "Most valami komolyabb kéne. Adj egy kis vizet. Jéggel."
 
 #: Ewald.dialog:101
 msgid "Eh... Sure, as you wish. Here you go."
-msgstr ""
+msgstr "Aha. Ahogy akarod. Tessék."
 
 #: Ewald.dialog:106
 msgid "Ugh... Ahh... I like it. Give me some more of that."
-msgstr ""
+msgstr "Uhh... Ahh... Jól esik. Kérek még."
 
 #: Ewald.dialog:108
 msgid "Uh... Sure..."
-msgstr ""
+msgstr "Őőő... Persze..."
 
 #: Ewald.dialog:114
 msgid "Ahh... Fresh water! Give me some more of that."
-msgstr ""
+msgstr "Uhh... Friss víz! Adj még egy kicsit."
 
 #: Ewald.dialog:116
 msgid "Yeah, I thought you would like it. Here is more."
-msgstr ""
+msgstr "Ja, gondoltam, hogy ízleni fog. Tessék."
 
 #: Ewald.dialog:122
-msgid ""
-"Hmm... Lots of ice. Give me one more double water, but now without "
-"any ice."
-msgstr ""
+msgid "Hmm... Lots of ice. Give me one more double water, but now without any ice."
+msgstr "Hmm... Jó sok jég. Adj még egy dupla vizet, de most jég nélkül."
 
 #: Ewald.dialog:124
 msgid "One double water coming up."
-msgstr ""
+msgstr "Egy dupla víz rendel."
 
 #: Ewald.dialog:130
 msgid "MORE! I want more water!"
-msgstr ""
+msgstr "MÉG! Több vizet akarok."
 
 #: Ewald.dialog:132
 msgid "Erm... Ok... Here, have some of my special, water colada."
-msgstr ""
+msgstr "Őőő... Oké... Tessék, az és speciális víz coladám."
 
 #: Ewald.dialog:138
 msgid "I am really thirsty! I want water."
-msgstr ""
+msgstr "Tényleg szomjas vagyok! Vizet akarok."
 
 #: Ewald.dialog:140
-msgid ""
-"Well, you drank all my water, so you cannot have any more. There is "
-"none left."
-msgstr ""
+msgid "Well, you drank all my water, so you cannot have any more. There is none left."
+msgstr "Izé... Megittad az összes vizet, nem tudok adni többet. Semmi sem maradt."
 
 #: Ewald.dialog:141
 msgid "I heard Linarians can drink a lot of water, but seven liters..."
-msgstr ""
+msgstr "Hallottam, hogy a Lináriaiak sok vizet isznak, de hét litert..."
 
 #: Ewald.dialog:146
 msgid "MORE! MORE! MORE! I WANT MORE WATER. NOW!"
-msgstr ""
+msgstr "MÉG! MÉG! MÉG! VIZET AKAROK! AZONNAL!!!"
 
 #: Ewald.dialog:148
-msgid ""
-"Eh... I think you've had enough... Maybe you should just go for a "
-"walk for now?"
-msgstr ""
+msgid "Eh... I think you've had enough... Maybe you should just go for a walk for now?"
+msgstr "Izé... Asszem eleget ittál. Nem akarsz inkább sétálni egyet?"
 
 #: Ewald.dialog:149
 msgid "You have had everything that I had."
-msgstr ""
+msgstr "Mindent fölittál, amim csak volt."
 
 #: Ewald.dialog:155
 msgid "Any idea where I can find some entertainment here?"
-msgstr ""
+msgstr "Van valami ötleted, hol találok valami tennivalót?"
 
 #: Ewald.dialog:157
 msgid "Well... Erm... No."
-msgstr ""
+msgstr "Hát... Izé... Nincs."
 
 #: Ewald.dialog:158
 msgid "What the bots did not smash, the Red Guard taxed."
-msgstr ""
+msgstr "Amit a botok nem törtek össze, azt a Vörös Őrség megadóztatja."
 
 #: Ewald.dialog:159
 msgid "Fun is kinda dead right now."
-msgstr ""
+msgstr "A vicces dolgok eltűntek már."
 
 #: Ewald.dialog:160
-msgid ""
-"Well, unless you are in the Red Guard itself, of course. They have "
-"those big guns that can destroy a dozen bots with one shot..."
-msgstr ""
+msgid "Well, unless you are in the Red Guard itself, of course. They have those big guns that can destroy a dozen bots with one shot..."
+msgstr "Persze, ha nem vagy Vörös Őr magad is. Nekik akkora fegyvereik vannak, amikkel akár egy lövéssel botok tucatjait pusztíthatják el..."
 
 #: Ewald.dialog:161
 msgid "Now THAT'S fun, if you ask me."
-msgstr ""
+msgstr "Na, AZ vicces dolog, ha engem kérdezel."
 
 #: Ewald.dialog:163
-msgid ""
-"If you are really board, you can try gambling with me. But the Red "
-"Guard taxes it."
-msgstr ""
+msgid "If you are really board, you can try gambling with me. But the Red Guard taxes it."
+msgstr "Ha nagyon unod magad, játszhatunk szerencsejátékot. De a Vörös Őrök ezt is adóztatják."
 
 #: Ewald.dialog:168
 msgid "Hey, I could use a refreshing drink!"
-msgstr ""
+msgstr "Hé, jól esne egy frissítő ital."
 
 #: Ewald.dialog:170
 msgid "Here, have a watery mary."
-msgstr ""
+msgstr "Tessék, itt egy vizy mary,"
 
 #: Ewald.dialog:176
 msgid "Sure, I'll gamble with you. What do you play?"
-msgstr ""
+msgstr "Persze, játszom veled. Mi a játék?"
 
 #: Ewald.dialog:179
 msgid "I play a dice game and a coin-flipping game."
-msgstr ""
+msgstr "Kockajáték, és fej-vagy-írás."
 
 #: Ewald.dialog:191
 msgid "You should come back when you have more to gamble with."
-msgstr ""
+msgstr "Akkor gyere vissza, ha lesz pénzed a tétre."
 
 #: Ewald.dialog:197
 msgid "Tell me the rules for your 'dice game'."
-msgstr ""
+msgstr "Mondd el a kockajáték szabályait."
 
 #: Ewald.dialog:199
 msgid "It is simple. We both get three six sided dice."
-msgstr ""
+msgstr "Egyszerű. Mindkettőnknek három darab hatoldalú kockája van."
 
 #: Ewald.dialog:200
 msgid "You bet. Then you throw one die."
-msgstr ""
+msgstr "Beteszed a tétet. Utána dobsz egy kockát."
 
 #: Ewald.dialog:201
 msgid "Then you decide on a betting multiplier, up to 3x."
-msgstr ""
+msgstr "Utána eldöntheted, hogy emelsz-e tétet. Maximum a háromszorosáig."
 
 #: Ewald.dialog:202
-msgid ""
-"Then you throw two dice and I throw three dice. If sum of your three "
-"dice are better than my three dice, you win twice your bet, minus a "
-"tax for the Red Guard."
-msgstr ""
+msgid "Then you throw two dice and I throw three dice. If sum of your three dice are better than my three dice, you win twice your bet, minus a tax for the Red Guard."
+msgstr "Utána dobod a másik kettő kockát, amjd én is az én három kockámat. Ha a te három kockád összege több, mint az enyém, akkor a téted kétszeresét nyered, persze a Vörös Őrség adóját levonva."
 
-#: Ewald.dialog:203 Ewald.dialog:224
-msgid ""
-"Remember: the odds are slightly against you, so don't gamble anything "
-"you can't afford to lose."
-msgstr ""
+#: Ewald.dialog:203
+#: Ewald.dialog:224
+msgid "Remember: the odds are slightly against you, so don't gamble anything you can't afford to lose."
+msgstr "Emlékezz rá, hogy az esélyek ellened szólnak, tehát ne játssz, ha nem tudsz veszteni."
 
 #: Ewald.dialog:210
 msgid "Tell me the rules for your 'coin-flip game'."
-msgstr ""
+msgstr "Mondd el a fej-vagy-írás szabályait."
 
 #: Ewald.dialog:212
 msgid "It is simple. Five coin flips."
-msgstr ""
+msgstr "Egyszerű. Feldobunk öt érmét."
 
 #: Ewald.dialog:213
-msgid ""
-"You bet. Then you tell me if I will flip more 'heads' or 'tails'."
-msgstr ""
+msgid "You bet. Then you tell me if I will flip more 'heads' or 'tails'."
+msgstr "Beteszed a tétet, és tippelsz, hogy fejet, vagy több írást dobok."
 
 #: Ewald.dialog:214
 msgid "I flip one coin."
-msgstr ""
+msgstr "Feldobok egy érmét."
 
 #: Ewald.dialog:215
-msgid ""
-"Then you tell me if there will be an 'odd' or 'even' number of flips "
-"for what you chose."
-msgstr ""
+msgid "Then you tell me if there will be an 'odd' or 'even' number of flips for what you chose."
+msgstr "Ezután tippelsz, hogy az általad választottból páros, vagy páratlan lesz e az eredmény."
 
 #: Ewald.dialog:217
-msgid ""
-"I flip the other four coins. If you were completely right, I give you "
-"three times what your bet, if wrong, you get nothing."
-msgstr ""
+msgid "I flip the other four coins. If you were completely right, I give you three times what your bet, if wrong, you get nothing."
+msgstr "Feldobom a maradék négyet is. Ha teljesen eltaláltad, a téted háromszorosát nyered, ha nem mindet találtad el, nem nyersz semmit."
 
 #: Ewald.dialog:219
-msgid ""
-"I flip the other four coins. If you were completely right, I give you "
-"twice what your bet, if completely wrong, you get 3/4 of your bet "
-"back."
-msgstr ""
+msgid "I flip the other four coins. If you were completely right, I give you twice what your bet, if completely wrong, you get 3/4 of your bet back."
+msgstr "Feldobom a maradék négyet is. Ha teljesen eltaláltad, a téted kétszeresét nyered, ha egyiket sem találtad el, visszakapod a téted 3/4-ét."
 
 #: Ewald.dialog:221
-msgid ""
-"I flip the other four coins. If you were completely right, I give you "
-"twice what your bet, if completely wrong, you get half of your bet "
-"back."
-msgstr ""
+msgid "I flip the other four coins. If you were completely right, I give you twice what your bet, if completely wrong, you get half of your bet back."
+msgstr "Feldobom a maradék négyet is. Ha teljesen eltaláltad, a téted kétszeresét nyered, ha egyiket sem találtad el visszakapod a téted felét."
 
 #: Ewald.dialog:223
-msgid ""
-"But if you are only partially wrong... well, then you get nothing."
-msgstr ""
+msgid "But if you are only partially wrong... well, then you get nothing."
+msgstr "De ha csak egy részét nem találtad el... hát akkor nem nyersz semmit."
 
 #: Ewald.dialog:235
 msgid "How about a bet of 10 circuits"
-msgstr ""
+msgstr "Mit szólsz 10 rugóhoz?"
 
 #: Ewald.dialog:261
 msgid "Name your game."
-msgstr ""
+msgstr "Melyiket játsszuk?"
 
 #: Ewald.dialog:282
 msgid "Dice it is. Roll your first die."
-msgstr ""
+msgstr "Kocka. Dobd az elsőt."
 
-#: Ewald.dialog:284 Ewald.dialog:314 Ewald.dialog:318
+#: Ewald.dialog:284
+#: Ewald.dialog:314
+#: Ewald.dialog:318
 msgid "I rolled a "
-msgstr ""
+msgstr "Dobtál egy"
 
 #: Ewald.dialog:285
 msgid "What multiplier are you going to bet?"
-msgstr ""
+msgstr "Hányszorosára emeled a tétet?"
 
 #: Ewald.dialog:310
 msgid "You've bet "
-msgstr ""
+msgstr "A téted"
 
 #: Ewald.dialog:312
 msgid "My first roll is a "
-msgstr ""
+msgstr "Az első gurításom"
 
 #: Ewald.dialog:316
 msgid "My second roll is a "
-msgstr ""
+msgstr "A második gurításom"
 
 #: Ewald.dialog:320
 msgid "My third roll is a "
-msgstr ""
+msgstr "A harmadik gurításom"
 
 #: Ewald.dialog:322
 msgid "It looks like I scored "
-msgstr ""
+msgstr "Úgy tűnik az eredményem"
 
 #: Ewald.dialog:325
 msgid "You won! Good job."
-msgstr ""
+msgstr "Nyertél! Garatula."
 
 #: Ewald.dialog:336
 msgid "You lost. Bad luck."
-msgstr ""
+msgstr "Vesztettél. Sajnálom."
 
 #: Ewald.dialog:347
 msgid "Coin flipping it is."
-msgstr ""
+msgstr "Fej-vagy-írás."
 
 #: Ewald.dialog:348
 msgid "So. What do you think? Heads or tails?"
-msgstr ""
+msgstr "Mit gondolsz fej, vagy írás?"
 
 #: Ewald.dialog:355
 msgid "Heads, eh? I always like heads."
-msgstr ""
+msgstr "Fej mi? Mindig szerettem a fejeket."
 
 #: Ewald.dialog:363
 msgid "Tails? Fits, since you've got one."
-msgstr ""
+msgstr "Írás? Jó, ha már volt olyanod."
 
 #: Ewald.dialog:371
 msgid "Here goes nothing."
-msgstr ""
+msgstr "Ez semmi."
 
 #: Ewald.dialog:374
 msgid "Looks like it is 'tails'."
-msgstr ""
+msgstr "Ez írásnak tűnik."
 
 #: Ewald.dialog:376
 msgid "Looks like it is 'heads'."
-msgstr ""
+msgstr "Ez fejnek tűnik."
 
 #: Ewald.dialog:379
-msgid ""
-"So do you think there will be an even or odd number of 'tails' flips?"
-msgstr ""
+msgid "So do you think there will be an even or odd number of 'tails' flips?"
+msgstr "Tehát mit gondolsz, páros vagy páratlan lesz az 'írások' száma?"
 
 #: Ewald.dialog:381
-msgid ""
-"So do you think there will be an even or odd number of 'heads' flips?"
-msgstr ""
+msgid "So do you think there will be an even or odd number of 'heads' flips?"
+msgstr "Tehát mit gondolsz, páros vagy páratlan lesz a 'fejek' száma?"
 
 #: Ewald.dialog:392
 msgid "Even, eh? I always like even. It is so symmetric."
-msgstr ""
+msgstr "Páros mi? Mindig szerettem a páros dolgokat. Olyan szimmetrikusak."
 
 #: Ewald.dialog:394
 msgid "Even? Sometimes I pick even... when I don't pick odd."
-msgstr ""
+msgstr "Páros? Néha én is párosat választok... mikor nem páratlant."
 
 #: Ewald.dialog:396
 msgid "When I think too much about it, I end up picking even."
-msgstr ""
+msgstr "Mikor túl sokat gondolkozom rajta, az mindig párossal végződik."
 
 #: Ewald.dialog:399
 msgid "Hoping to guess them all wrong, eh?"
-msgstr ""
+msgstr "Reméled, hogy egyiket sem találtad el, mi?"
 
 #: Ewald.dialog:401
 msgid "Bucking the statistics. I like that."
-msgstr ""
+msgstr "A statisztika ellenére. Ez tetszik."
 
 #: Ewald.dialog:404
 msgid "I think I would have picked even this time."
-msgstr ""
+msgstr "Úgy gondolom, most a párost választom."
 
 #: Ewald.dialog:415
 msgid "Odd? Fits, since you're pretty odd yourself."
-msgstr ""
+msgstr "Páratlan? Passzol, ha te is páratlan vagy."
 
 #: Ewald.dialog:417
 msgid "Odd? Well that is odd... I was thinking of odd."
-msgstr ""
+msgstr "Páratlan? Én is épp... páratlanra gondoltam."
 
 #: Ewald.dialog:419
 msgid "Odd. When I don't pick even, I always pick odd too."
-msgstr ""
+msgstr "Páratlan. Mikor nem párosat válasznok, akkor én is mindig a páratlanra teszek."
 
 #: Ewald.dialog:422
 msgid "Honing up on your math, eh?"
-msgstr ""
+msgstr "Matekozol agyban mi?"
 
 #: Ewald.dialog:424
 msgid "Betting against the game. I like that."
-msgstr ""
+msgstr "Esélyek ellen játszol. Ez tetszik."
 
 #: Ewald.dialog:427
 msgid "I think I would have picked odd this time."
-msgstr ""
+msgstr "Azt kiszem, most páratlant választok."
 
 #: Ewald.dialog:435
 msgid "The last four coin flips:"
-msgstr ""
+msgstr "Az utolsó négy érme:"
 
-#: Ewald.dialog:438 Ewald.dialog:444 Ewald.dialog:450 Ewald.dialog:457
+#: Ewald.dialog:438
+#: Ewald.dialog:444
+#: Ewald.dialog:450
+#: Ewald.dialog:457
 msgid "Tails."
-msgstr ""
+msgstr "Írás."
 
-#: Ewald.dialog:440 Ewald.dialog:446 Ewald.dialog:452 Ewald.dialog:459
+#: Ewald.dialog:440
+#: Ewald.dialog:446
+#: Ewald.dialog:452
+#: Ewald.dialog:459
 msgid "Heads."
-msgstr ""
+msgstr "Fej."
 
 #: Ewald.dialog:454
 msgid "Last flip. I hope it is the one I want!"
-msgstr ""
+msgstr "Utolsó dobás. Remélem az lesz, amit szeretnék."
 
 #: Ewald.dialog:462
 msgid "Looks like that is "
-msgstr ""
+msgstr "Úgy tűnik ez"
 
 #: Ewald.dialog:466
 msgid "Tails won..."
-msgstr ""
+msgstr "Az írás nyert..."
 
 #: Ewald.dialog:469
 msgid "Heads won..."
-msgstr ""
+msgstr "A fej nyert..."
 
 #: Ewald.dialog:476
 msgid "...and there was an even number of tails."
-msgstr ""
+msgstr "... és az írásból páros szám jött ki."
 
 #: Ewald.dialog:479
 msgid "...and there was an odd number of heads."
-msgstr ""
+msgstr "... és a fejből páratlan szám jött ki."
 
 #: Ewald.dialog:484
 msgid "...and there was an odd number of tails."
-msgstr ""
+msgstr "... és az írásból páratlan szám jött ki."
 
 #: Ewald.dialog:487
 msgid "...and there was an even number of heads."
-msgstr ""
+msgstr "... és a fejből páros szám jött ki."
 
 #: Ewald.dialog:494
 msgid "Looks like another winning combination! Good job!"
-msgstr ""
+msgstr "Ez egy újabb nyerő kombinációnak tűnik! Ügyes!"
 
 #: Ewald.dialog:502
 msgid "Looks like you got everything wrong."
-msgstr ""
+msgstr "Úgy tűnik, mindet elrontottad."
 
 #: Ewald.dialog:505
-msgid ""
-"Looks like you got everything wrong... here is some of your bet back."
-msgstr ""
+msgid "Looks like you got everything wrong... here is some of your bet back."
+msgstr "Úgy tűnik, mindet elrontottad... tessék, a téted egy része."
 
 #: Ewald.dialog:515
-msgid ""
-"You lost. You were half right, but half wrong. Pick one and stay with "
-"it."
-msgstr ""
+msgid "You lost. You were half right, but half wrong. Pick one and stay with it."
+msgstr "Vesztettél. Fele sikerült, fele nem. Válassz egyet és maradj annál."
 
 #: Ewald.dialog:519
-msgid ""
-"THIS IS AN ERROR! REPORT IT PLEASE! E-MAIL: freedroid-"
-"discussion@lists.sourceforge.net"
-msgstr ""
+msgid "THIS IS AN ERROR! REPORT IT PLEASE! E-MAIL: freedroid-discussion@lists.sourceforge.net"
+msgstr "EZ EGY HIBA KÉRLEK JELEZD ITT: E-MAIL: freedroid@lists.sourceforge.net"
 
 #: Ewald.dialog:526
 msgid "See you later."
-msgstr ""
+msgstr "Majd még találkozunk."
 
 #: Ewald.dialog:529
 msgid "Goodbye and remember: My bar is always open."
-msgstr ""
+msgstr "Viszlát, és emlékezz rá: a kocsmám mindig nyitva van."
+
