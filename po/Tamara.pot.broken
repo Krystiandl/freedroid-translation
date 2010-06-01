@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"POT-Creation-Date: 2010-06-01 11:17+0000\n"
+"PO-Revision-Date: 2010-06-01 11:17+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -28,187 +28,201 @@ msgstr ""
 msgid "You are welcome to ask me if you have any questions."
 msgstr ""
 
-#: ./Tamara.dialog:42
+#: ./Tamara.dialog:40
+msgid "Tamara -- Librarian"
+msgstr ""
+
+#: ./Tamara.dialog:43
 msgid "What can I help you with."
 msgstr ""
 
-#: ./Tamara.dialog:48
+#: ./Tamara.dialog:49
 msgid "Hmm, you look very similar to another person I met, by the name of Sorenson."
 msgstr ""
 
-#: ./Tamara.dialog:50
+#: ./Tamara.dialog:51
 msgid "Well, it's understandable. We are sisters."
 msgstr ""
 
-#: ./Tamara.dialog:51
+#: ./Tamara.dialog:52
 msgid ""
 "Or actually half sisters. She is also half crazy, so we don't communicate much"
 "."
 msgstr ""
 
-#: ./Tamara.dialog:52
+#: ./Tamara.dialog:53
 msgid "*sigh*"
 msgstr ""
 
-#: ./Tamara.dialog:53
+#: ./Tamara.dialog:54
 msgid "We used to. Even ran this library together."
 msgstr ""
 
-#: ./Tamara.dialog:54
+#: ./Tamara.dialog:55
 msgid ""
 "Then she started reading more and more books and sitting in front of the compu"
 "ter day and night, never sleeping."
 msgstr ""
 
-#: ./Tamara.dialog:55
+#: ./Tamara.dialog:56
 msgid "In the end she completely lost her marbles, sadly."
 msgstr ""
 
-#: ./Tamara.dialog:56
+#: ./Tamara.dialog:57
 msgid "Now all she does is sit locked in her house staring into the computer."
 msgstr ""
 
-#: ./Tamara.dialog:62
+#: ./Tamara.dialog:63
 msgid ""
 "I see you have a huge source code book collection. Mind if I buy some from you"
 "?"
 msgstr ""
 
-#: ./Tamara.dialog:64
+#: ./Tamara.dialog:65
 msgid "This is a library, not a book shop."
 msgstr ""
 
-#: ./Tamara.dialog:65
+#: ./Tamara.dialog:66
 msgid ""
 "However, valuable books have a tendency to simply vanish and never get returne"
 "d by some people..."
 msgstr ""
 
-#: ./Tamara.dialog:66
+#: ./Tamara.dialog:67
 msgid "Especially strangers just passing by..."
 msgstr ""
 
-#: ./Tamara.dialog:67
+#: ./Tamara.dialog:68
 msgid "Thus I'm forced to take a deposit for each book."
 msgstr ""
 
-#: ./Tamara.dialog:72
+#: ./Tamara.dialog:73
 msgid "So what interesting books do you have available right now?"
 msgstr ""
 
-#: ./Tamara.dialog:74
+#: ./Tamara.dialog:75
 msgid "Some of these might interest you."
 msgstr ""
 
-#: ./Tamara.dialog:74
+#: ./Tamara.dialog:75
 msgid "I only have a few programming volumes, feel free to look through them."
 msgstr ""
 
-#: ./Tamara.dialog:80
+#: ./Tamara.dialog:81
 msgid "Do you have any books about the bot apocolypse?"
 msgstr ""
 
-#: ./Tamara.dialog:82
+#: ./Tamara.dialog:83
 msgid ""
 "I'm writing one, but it isn't complete, and there are no publishers left. But,"
 " I can tell you all about robots and automata in literature. Interested?"
 msgstr ""
 
-#: ./Tamara.dialog:89
+#: ./Tamara.dialog:90
 msgid "Another time, perhaps."
 msgstr ""
 
-#: ./Tamara.dialog:95
+#: ./Tamara.dialog:96
 msgid "Where does the word 'bot' come from?"
 msgstr ""
 
-#: ./Tamara.dialog:98
+#: ./Tamara.dialog:99
 msgid ""
 "It is a shortening of the word 'robot', derived from the Czech word for forced"
 " labor."
 msgstr ""
 
-#: ./Tamara.dialog:99
+#: ./Tamara.dialog:100
 msgid ""
 "R.U.R. (Rossum's Universal Robots), a play, introduced \'robots\' as artificia"
 "l people."
 msgstr ""
 
-#: ./Tamara.dialog:100
+#: ./Tamara.dialog:101
 msgid ""
 "In the play the robots revolted, took over the world, and killed all the human"
 "s."
 msgstr ""
 
-#: ./Tamara.dialog:101
+#: ./Tamara.dialog:102
 msgid "Ironic."
 msgstr ""
 
-#: ./Tamara.dialog:107
+#: ./Tamara.dialog:108
 msgid "What about the creation of robots for defense?"
 msgstr ""
 
-#: ./Tamara.dialog:110
+#: ./Tamara.dialog:111
 msgid ""
 "During the Holy Roman Empire, the Jewish people of the Prague ghetto needed pr"
 "otection."
 msgstr ""
 
-#: ./Tamara.dialog:111
+#: ./Tamara.dialog:112
 msgid ""
 "So a holy rabbi shaped the Golem out of clay, and brought it to life through r"
 "ituals and writing 'emet' (truth) on its head."
 msgstr ""
 
-#: ./Tamara.dialog:112
+#: ./Tamara.dialog:113
 msgid ""
 "The Golem initially protected the Jews, but was brainless and stupid, and so s"
 "oon became dangerously violent to even the Jews."
 msgstr ""
 
-#: ./Tamara.dialog:113
+#: ./Tamara.dialog:114
 msgid ""
 "It was only by trickery that the rabbi was able to even get close to the Golem"
 "."
 msgstr ""
 
-#: ./Tamara.dialog:114
+#: ./Tamara.dialog:115
 msgid ""
 "But as the rabbi changed 'emet' to 'met' (death), the Golem fell on him, and b"
 "oth the creator and creation became lifeless."
 msgstr ""
 
-#: ./Tamara.dialog:120
+#: ./Tamara.dialog:121
 msgid "What can you tell me about robotic girlfriends?"
 msgstr ""
 
-#: ./Tamara.dialog:123
+#: ./Tamara.dialog:124
 msgid "Well, the Romans wrote down a story about Pygmalion, the sculptor of Cyprus."
 msgstr ""
 
-#: ./Tamara.dialog:124
+#: ./Tamara.dialog:125
 msgid ""
 "Pygmalion carved an ivory woman of far surpassing natural beauty and fell in l"
 "ove."
 msgstr ""
 
-#: ./Tamara.dialog:125
+#: ./Tamara.dialog:126
 msgid "Venus, the goddess of love, brought the ivory woman to life."
 msgstr ""
 
-#: ./Tamara.dialog:126
+#: ./Tamara.dialog:127
 msgid "The woman, Galatea, likewise fell in love and married her creator Pygmalion."
 msgstr ""
 
-#: ./Tamara.dialog:127
+#: ./Tamara.dialog:128
 msgid "So you could say that this is one of the few stories that end well."
 msgstr ""
 
-#: ./Tamara.dialog:133
+#: ./Tamara.dialog:134
 msgid "Thank you for the help."
 msgstr ""
 
-#: ./Tamara.dialog:136
+#: ./Tamara.dialog:137
 msgid "No problem, and remember to return your books in time."
+msgstr ""
+
+#: ./Tamara.dialog:137
+msgid ""
+"I aim to ensure that the great works of literature will survive this horrible "
+"apocalypse."
+msgstr ""
+
+#: ./Tamara.dialog:137
+msgid "That is what I'm here for. Come back at any time."
 msgstr ""
 
