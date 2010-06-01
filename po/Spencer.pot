@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"POT-Creation-Date: 2010-06-01 11:17+0000\n"
+"PO-Revision-Date: 2010-06-01 11:17+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -12,6 +12,16 @@ msgstr ""
 
 #: ./Spencer.dialog:38
 msgid "Greetings fellow Red Guard member."
+msgstr ""
+
+#: ./Spencer.dialog:42
+#: ./Spencer.dialog:46
+#: ./Spencer.dialog:235
+msgid "Opening access to MS Office"
+msgstr ""
+
+#: ./Spencer.dialog:43
+msgid "A kingdom for a cluster!"
 msgstr ""
 
 #: ./Spencer.dialog:51
@@ -110,6 +120,20 @@ msgstr ""
 msgid "I wish you the best of luck."
 msgstr ""
 
+#: ./Spencer.dialog:99
+#: ./Spencer.dialog:107
+#: ./Spencer.dialog:108
+#: ./Spencer.dialog:118
+#: ./Spencer.dialog:183
+msgid "Opening a can of bots..."
+msgstr ""
+
+#: ./Spencer.dialog:99
+msgid ""
+"I am supposed to clean out the first level of some warehouse. Sounds easy. It "
+"lies nearby, somewhat hidden in the woods north-east of town."
+msgstr ""
+
 #: ./Spencer.dialog:105
 msgid "How is it going?"
 msgstr ""
@@ -139,6 +163,10 @@ msgid ""
 "Our people are transporting the goods as we speak. It can't be too long until "
 "new bots from ships in the orbit of the planet will beam down to replace the d"
 "ead bots."
+msgstr ""
+
+#: ./Spencer.dialog:118
+msgid "Ouch. It wasn't. At least I am alive, and the warehouse is clear. *Whew*."
 msgstr ""
 
 #: ./Spencer.dialog:121
@@ -173,6 +201,10 @@ msgstr ""
 
 #: ./Spencer.dialog:133
 msgid "Have I done enough quests to become a member now?"
+msgstr ""
+
+#: ./Spencer.dialog:135
+msgid "The yellow toolkit"
 msgstr ""
 
 #: ./Spencer.dialog:136
@@ -239,6 +271,10 @@ msgid ""
 " you."
 msgstr ""
 
+#: ./Spencer.dialog:165
+msgid "Anything but the army snacks, please!"
+msgstr ""
+
 #: ./Spencer.dialog:166
 msgid ""
 "When I was eating, Michelangelo told me about his renewed oven energy supply. "
@@ -251,6 +287,10 @@ msgid ""
 "ant kitchen."
 msgstr ""
 
+#: ./Spencer.dialog:171
+msgid "Novice Arena"
+msgstr ""
+
 #: ./Spencer.dialog:172
 msgid "From Butch I hear you've become a novice arena master. Congratulations."
 msgstr ""
@@ -259,6 +299,10 @@ msgstr ""
 msgid ""
 "You might want to score some arena victories. That could also help your reputa"
 "tion a lot."
+msgstr ""
+
+#: ./Spencer.dialog:177
+msgid "Bender's problem"
 msgstr ""
 
 #: ./Spencer.dialog:178
@@ -306,6 +350,10 @@ msgstr ""
 
 #: ./Spencer.dialog:194
 msgid "I hope you will prove yourself a worthy member of the Red Guard."
+msgstr ""
+
+#: ./Spencer.dialog:195
+msgid "Joined Town Guard!!"
 msgstr ""
 
 #: ./Spencer.dialog:201
@@ -411,6 +459,18 @@ msgid ""
 "e droid might suffice in disabling the shield."
 msgstr ""
 
+#: ./Spencer.dialog:235
+msgid ""
+"Spencer has revealed the information from the data cube evaluation to me. It s"
+"eems there is an old military research facility near the town. By taking over "
+"the control droid, I should be able to control the disruptor shield at the fac"
+"ility. I could activate it permanently, thereby locking off the Hell Fortress,"
+" and the bots it's producing, forever. Alternatively, I could disable it, and "
+"fight my way through the Hell Fortress droids until I reach the main control d"
+"roid and update it, thereby disabling all bots in the entire area around town "
+"in one fell swoop."
+msgstr ""
+
 #: ./Spencer.dialog:241
 msgid "I don't feel like doing it now. I'd rather prepare some more."
 msgstr ""
@@ -465,6 +525,17 @@ msgstr ""
 
 #: ./Spencer.dialog:256
 msgid "Good luck."
+msgstr ""
+
+#: ./Spencer.dialog:257
+msgid "Propagating a faulty firmware"
+msgstr ""
+
+#: ./Spencer.dialog:257
+msgid ""
+"I can now enter the fortress and find the upgrade server bot. The fortress gat"
+"es are in the Crystal Fields. Spencer told the guards to open the doors for me"
+"."
 msgstr ""
 
 #: ./Spencer.dialog:262

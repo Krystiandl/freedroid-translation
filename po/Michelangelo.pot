@@ -2,13 +2,27 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"POT-Creation-Date: 2010-06-01 11:17+0000\n"
+"PO-Revision-Date: 2010-06-01 11:17+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#: ./Michelangelo.dialog:38
+#: ./Michelangelo.dialog:39
+#: ./Michelangelo.dialog:80
+#: ./Michelangelo.dialog:208
+#: ./Michelangelo.dialog:261
+msgid "Anything but the army snacks, please!"
+msgstr ""
+
+#: ./Michelangelo.dialog:41
+#: ./Michelangelo.dialog:42
+#: ./Michelangelo.dialog:315
+msgid "SADD's power supply"
+msgstr ""
 
 #: ./Michelangelo.dialog:61
 msgid "Hi! I'm new here."
@@ -24,287 +38,311 @@ msgid ""
 "lhole."
 msgstr ""
 
-#: ./Michelangelo.dialog:69
+#: ./Michelangelo.dialog:65
+msgid "Michelangelo -- Chef"
+msgstr ""
+
+#: ./Michelangelo.dialog:70
 msgid "How is it going?"
 msgstr ""
 
-#: ./Michelangelo.dialog:71
+#: ./Michelangelo.dialog:72
 msgid "Don't ask."
 msgstr ""
 
-#: ./Michelangelo.dialog:72
+#: ./Michelangelo.dialog:73
 msgid "'Terribly' would be a huge understatement."
 msgstr ""
 
-#: ./Michelangelo.dialog:77
+#: ./Michelangelo.dialog:78
 msgid "Can I buy some food here?"
 msgstr ""
 
-#: ./Michelangelo.dialog:80
+#: ./Michelangelo.dialog:81
 msgid ""
 "Until my next batch of food comes out of the macrowave oven, all I have are th"
 "e odoriferous military rations."
 msgstr ""
 
-#: ./Michelangelo.dialog:82
+#: ./Michelangelo.dialog:83
 msgid "There is no food here, just the odious military rations."
 msgstr ""
 
-#: ./Michelangelo.dialog:84
+#: ./Michelangelo.dialog:85
 msgid ""
 "They are made fully out of artificial nutrients and carcinogenic flavors. Even"
 " the army hated them."
 msgstr ""
 
-#: ./Michelangelo.dialog:85
+#: ./Michelangelo.dialog:86
 msgid ""
 "It's better than starving, but some people have already committed suicide beca"
 "use that repulsive material is the only thing available to eat."
 msgstr ""
 
-#: ./Michelangelo.dialog:86
+#: ./Michelangelo.dialog:87
 msgid "I can give you some, but it's not worthy of being called food."
 msgstr ""
 
-#: ./Michelangelo.dialog:92
+#: ./Michelangelo.dialog:93
 msgid "I want some yummy army snacks!"
 msgstr ""
 
-#: ./Michelangelo.dialog:95
+#: ./Michelangelo.dialog:96
 msgid "I am supposed to read this out to all newcomers. Here goes:"
 msgstr ""
 
-#: ./Michelangelo.dialog:96
+#: ./Michelangelo.dialog:97
 msgid ""
 "'Please note that the army rations model #23 you are about to eat is provided "
 "'as is' without warranty of any kind."
 msgstr ""
 
-#: ./Michelangelo.dialog:97
+#: ./Michelangelo.dialog:98
 msgid ""
 "That includes the implied warranty of edibility or fitness for a particular pu"
 "rpose. The entire risk as to the quality of the food is with you."
 msgstr ""
 
-#: ./Michelangelo.dialog:98
+#: ./Michelangelo.dialog:99
 msgid ""
 "Should the army meal model #23 prove poisonous, you agree to cover the cost of"
 " keeping you alive by the base medical staff or the costs of your cremation in"
 " our nuclear furnaces.'"
 msgstr ""
 
-#: ./Michelangelo.dialog:99
+#: ./Michelangelo.dialog:100
 msgid "Well, that is all. Here is the junk that you wanted. Enjoy."
 msgstr ""
 
-#: ./Michelangelo.dialog:109
+#: ./Michelangelo.dialog:105
+msgid ""
+"You need to have a full mess kit with a Fork, Mug, and Plate before I can give"
+" you any army snacks."
+msgstr ""
+
+#: ./Michelangelo.dialog:105
+msgid "You need a Fork, Plate, and Mug before I can issue any army snacks."
+msgstr ""
+
+#: ./Michelangelo.dialog:105
+msgid "You need a full mess kit for army snacks."
+msgstr ""
+
+#: ./Michelangelo.dialog:110
 msgid "You do not sound happy. What is wrong?"
 msgstr ""
 
-#: ./Michelangelo.dialog:111
+#: ./Michelangelo.dialog:112
 msgid "EVERYTHING!"
 msgstr ""
 
-#: ./Michelangelo.dialog:112
+#: ./Michelangelo.dialog:113
 msgid "Just look at this stupid town!"
 msgstr ""
 
-#: ./Michelangelo.dialog:113
+#: ./Michelangelo.dialog:114
 msgid ""
 "We are constantly pushed around by our 'saviors' the damn Red Guard. I hope th"
 "ey all die from rat bites as soon as possible and go to the deepest hells to b"
 "oil in lava forever."
 msgstr ""
 
-#: ./Michelangelo.dialog:114
+#: ./Michelangelo.dialog:115
 msgid ""
 "And the bots are keeping us busy by murdering, chopping, slicing, cleaving, re"
 "nding and wounding us. How wonderful."
 msgstr ""
 
-#: ./Michelangelo.dialog:115
+#: ./Michelangelo.dialog:116
 msgid ""
 "The guards gave me a filthy hovel to live in. The walls are so thin that every"
 " night I am rocked to sleep by the bots communicating with those beeps and mod"
 "em sounds."
 msgstr ""
 
-#: ./Michelangelo.dialog:116
+#: ./Michelangelo.dialog:117
 msgid ""
 "It sounds like they are singing something. Every night they start their song.."
 ". I cannot sleep thanks to that electric chorus."
 msgstr ""
 
-#: ./Michelangelo.dialog:117
+#: ./Michelangelo.dialog:118
 msgid ""
 "Have I mentioned that the only food that we have is some kind of pestilential "
 "military ration? The smell alone is making me want to vomit."
 msgstr ""
 
-#: ./Michelangelo.dialog:122
+#: ./Michelangelo.dialog:123
 msgid "Cheer up! All will be fine! Happy days are coming! Hurray!"
 msgstr ""
 
-#: ./Michelangelo.dialog:124
+#: ./Michelangelo.dialog:125
 msgid "..."
 msgstr ""
 
-#: ./Michelangelo.dialog:125
+#: ./Michelangelo.dialog:126
 msgid "Linarian, have you been gorging on psychoactive pills or something?"
 msgstr ""
 
-#: ./Michelangelo.dialog:126
+#: ./Michelangelo.dialog:127
 msgid "Get a grip, the situation is bad and there is no use in pretending otherwise."
 msgstr ""
 
-#: ./Michelangelo.dialog:131
+#: ./Michelangelo.dialog:132
 msgid "You are a cook. Stop complaining about the poor food! Make some yourself."
 msgstr ""
 
-#: ./Michelangelo.dialog:133
+#: ./Michelangelo.dialog:134
 msgid ""
 "I cannot! My beautiful macrowave oven is out of power. The wretched Red Guard "
 "took away my uranium battery."
 msgstr ""
 
-#: ./Michelangelo.dialog:134
+#: ./Michelangelo.dialog:135
 msgid "I wish I could kill them all with my bare hands. They deserve it."
 msgstr ""
 
-#: ./Michelangelo.dialog:135
+#: ./Michelangelo.dialog:136
 msgid "If only I had some dilithium to use as a backup power source..."
 msgstr ""
 
-#: ./Michelangelo.dialog:140
+#: ./Michelangelo.dialog:141
 msgid "Got any food yet?"
 msgstr ""
 
-#: ./Michelangelo.dialog:144
+#: ./Michelangelo.dialog:145
 msgid "Here, try this slice of lemon meringue pie."
 msgstr ""
 
-#: ./Michelangelo.dialog:146
+#: ./Michelangelo.dialog:147
 msgid "Wait, you don't have a Fork. You need a fork..."
 msgstr ""
 
-#: ./Michelangelo.dialog:148
+#: ./Michelangelo.dialog:149
 msgid "It is as if a cloud from heaven was made into a pie."
 msgstr ""
 
-#: ./Michelangelo.dialog:152
+#: ./Michelangelo.dialog:153
 msgid "Try this crab cake."
 msgstr ""
 
-#: ./Michelangelo.dialog:154
+#: ./Michelangelo.dialog:155
 msgid "Where is your Plate and Fork?"
 msgstr ""
 
-#: ./Michelangelo.dialog:156
+#: ./Michelangelo.dialog:157
 msgid "Such an intense, delectable, blend of savory spices... it melts in my mouth."
 msgstr ""
 
-#: ./Michelangelo.dialog:160
+#: ./Michelangelo.dialog:161
 msgid "May I interest you in some Eggs Sardou?"
 msgstr ""
 
-#: ./Michelangelo.dialog:161
+#: ./Michelangelo.dialog:162
 msgid "EGGS!?"
 msgstr ""
 
-#: ./Michelangelo.dialog:162
+#: ./Michelangelo.dialog:163
 msgid "Oh, Michelangelo had forgotten..."
 msgstr ""
 
-#: ./Michelangelo.dialog:163
+#: ./Michelangelo.dialog:164
 msgid "How about a... yummy army snack instead?"
 msgstr ""
 
-#: ./Michelangelo.dialog:166
+#: ./Michelangelo.dialog:167
 msgid "I am in the midst of a culinary masterpiece."
 msgstr ""
 
-#: ./Michelangelo.dialog:167
+#: ./Michelangelo.dialog:168
 msgid "I cannot rush art for I am an artist!"
 msgstr ""
 
-#: ./Michelangelo.dialog:170
+#: ./Michelangelo.dialog:171
 msgid "I had prepared some delicacies, but the ravenous Red Guard ate it all."
 msgstr ""
 
-#: ./Michelangelo.dialog:171
+#: ./Michelangelo.dialog:172
 msgid ""
 "Not a big loss, I have a second batch of food cubes in the oven and they will "
 "be ready shortly."
 msgstr ""
 
-#: ./Michelangelo.dialog:172
+#: ./Michelangelo.dialog:173
 msgid ""
 "I think the mood in the town will improve once the cooking master Michelangelo"
 " gets to work. Ha!"
 msgstr ""
 
-#: ./Michelangelo.dialog:173
+#: ./Michelangelo.dialog:174
 msgid ""
 "But if you are really hungry, I still have some of those disgusting army snack"
 "s."
 msgstr ""
 
-#: ./Michelangelo.dialog:180
+#: ./Michelangelo.dialog:181
 msgid "I am racked with hunger pains, give me some army snacks!"
 msgstr ""
 
-#: ./Michelangelo.dialog:182
+#: ./Michelangelo.dialog:183
 msgid "I thought you would have learned by now."
 msgstr ""
 
-#: ./Michelangelo.dialog:183
+#: ./Michelangelo.dialog:184
 msgid "As you wish."
 msgstr ""
 
-#: ./Michelangelo.dialog:189
+#: ./Michelangelo.dialog:190
 msgid "Hmm... Crunchy... That is... Oh... No. Ugh. Help."
 msgstr ""
 
-#: ./Michelangelo.dialog:191
+#: ./Michelangelo.dialog:192
 msgid "Oh yes. You were warned, so don't blame me."
 msgstr ""
 
-#: ./Michelangelo.dialog:192
+#: ./Michelangelo.dialog:193
 msgid "Bleah! That is not food!"
 msgstr ""
 
-#: ./Michelangelo.dialog:193
+#: ./Michelangelo.dialog:194
 msgid ""
 "We already know that. There is nothing else to eat here, so I hope you get use"
 "d to the taste."
 msgstr ""
 
-#: ./Michelangelo.dialog:194
+#: ./Michelangelo.dialog:195
 msgid "That thing only looks okay, and has a nice color."
 msgstr ""
 
-#: ./Michelangelo.dialog:195
+#: ./Michelangelo.dialog:196
 msgid "But as you can see, the color cannot be eaten, only the taste counts."
 msgstr ""
 
-#: ./Michelangelo.dialog:199
+#: ./Michelangelo.dialog:200
 msgid "I have the dilithium you wanted."
 msgstr ""
 
-#: ./Michelangelo.dialog:201
+#: ./Michelangelo.dialog:202
 msgid ""
 "Really? I thought you were dead, but not only did you come back alive, you als"
 "o brought some power crystals for my trusty oven."
 msgstr ""
 
-#: ./Michelangelo.dialog:202
+#: ./Michelangelo.dialog:203
 msgid "I will start cooking at once."
 msgstr ""
 
-#: ./Michelangelo.dialog:203
+#: ./Michelangelo.dialog:204
 msgid ""
 "Thank you, Linarian. As soon as the food cubes are ready I will be able to giv"
 "e them away to the hungry people."
+msgstr ""
+
+#: ./Michelangelo.dialog:208
+msgid ""
+"I gave the cook, Michelangelo, enough dilithium to last a decade. The evil spe"
+"cter of eating army snacks is lifted from the city."
 msgstr ""
 
 #: ./Michelangelo.dialog:213
@@ -442,6 +480,14 @@ msgstr ""
 msgid "Yes. Please get me three dilithium crystals."
 msgstr ""
 
+#: ./Michelangelo.dialog:261
+msgid ""
+"I am supposed to get three dilithium crystals for that cook, Michelangelo. Wit"
+"hout them he cannot cook anything in his macrowave oven. And without his cooki"
+"ng the whole city is stuck eating army snacks. Many people have committed suic"
+"ide because of the horrible food. This madness must stop."
+msgstr ""
+
 #: ./Michelangelo.dialog:266
 msgid "What is this 'dilithium'?"
 msgstr ""
@@ -526,11 +572,19 @@ msgstr ""
 msgid "I guess I can spare one of them, since it is an emergency."
 msgstr ""
 
-#: ./Michelangelo.dialog:319
+#: ./Michelangelo.dialog:315
+msgid ""
+"I remembered that I gave Michelangelo three dilithium crystals when he only ne"
+"eded two for his oven. I convinced him it was a life-or-death situation (is th"
+"e SADD a life-form?) so he returned the spare one to me. Looks like I saved my"
+"self a trip back to the old dilithium mine!"
+msgstr ""
+
+#: ./Michelangelo.dialog:320
 msgid "I'll be going then."
 msgstr ""
 
-#: ./Michelangelo.dialog:321
+#: ./Michelangelo.dialog:322
 msgid "See you later."
 msgstr ""
 

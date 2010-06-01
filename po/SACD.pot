@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"POT-Creation-Date: 2010-06-01 11:17+0000\n"
+"PO-Revision-Date: 2010-06-01 11:17+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -28,6 +28,14 @@ msgstr ""
 
 #: ./SACD.dialog:37
 msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
+msgstr ""
+
+#: ./SACD.dialog:38
+msgid "Tania's sanitary"
+msgstr ""
+
+#: ./SACD.dialog:38
+msgid "I have found that SACD and hacked it's system."
 msgstr ""
 
 #: ./SACD.dialog:43

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"POT-Creation-Date: 2010-06-01 11:17+0000\n"
+"PO-Revision-Date: 2010-06-01 11:17+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -13,6 +13,11 @@ msgstr ""
 #: ./HF-GateGuardLeader.dialog:33
 #: ./HF-GateGuardLeader.dialog:41
 msgid "Hey, Linarian! What do you want here?"
+msgstr ""
+
+#: ./HF-GateGuardLeader.dialog:37
+#: ./HF-GateGuardLeader.dialog:67
+msgid "Opening access to MS Office"
 msgstr ""
 
 #: ./HF-GateGuardLeader.dialog:44
@@ -101,6 +106,10 @@ msgstr ""
 msgid "I hope you are telling the truth. One second..."
 msgstr ""
 
+#: ./HF-GateGuardLeader.dialog:92
+msgid "Propagating a faulty firmware"
+msgstr ""
+
 #: ./HF-GateGuardLeader.dialog:97
 msgid "Nothing from Spencer, ya fat duck. Now leave."
 msgstr ""
@@ -111,11 +120,11 @@ msgid ""
 "he source be with you!"
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:110
+#: ./HF-GateGuardLeader.dialog:111
 msgid "Relax, I'm leaving."
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:112
+#: ./HF-GateGuardLeader.dialog:113
 msgid "You better be. AND DON'T COME BACK!"
 msgstr ""
 

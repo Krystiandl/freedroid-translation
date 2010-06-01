@@ -10,32 +10,51 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./Template.dialog:39
+#: ./Iris.dialog:39
 msgid "Hello."
 msgstr ""
 
-#: ./Template.dialog:39
+#: ./Iris.dialog:39
 msgid "Hi there."
 msgstr ""
 
-#: ./Template.dialog:40
+#: ./Iris.dialog:40
 msgid "Well, hello again."
 msgstr ""
 
-#: ./Template.dialog:40
+#: ./Iris.dialog:40
 msgid "Hello hello."
 msgstr ""
 
-#: ./Template.dialog:40
+#: ./Iris.dialog:40
 msgid "Welcome back."
 msgstr ""
 
-#: ./Template.dialog:46
-#: ./Template.dialog:48
-#: ./Template.dialog:53
-#: ./Template.dialog:55
-#: ./Template.dialog:59
-#: ./Template.dialog:61
-msgid "<?>"
+#: ./Iris.dialog:46
+msgid "Who are you?"
+msgstr ""
+
+#: ./Iris.dialog:48
+msgid "I'm Iris"
+msgstr ""
+
+#: ./Iris.dialog:49
+msgid "Iris"
+msgstr ""
+
+#: ./Iris.dialog:54
+msgid "What are you doing here?"
+msgstr ""
+
+#: ./Iris.dialog:56
+msgid "None of your business!"
+msgstr ""
+
+#: ./Iris.dialog:61
+msgid "See you later."
+msgstr ""
+
+#: ./Iris.dialog:63
+msgid "In your dreams, Pinguin!"
 msgstr ""
 

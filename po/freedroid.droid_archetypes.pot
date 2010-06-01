@@ -2,182 +2,326 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"POT-Creation-Date: 2010-06-01 11:17+0000\n"
+"PO-Revision-Date: 2010-06-01 11:17+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./freedroid.droid_archetypes:99
+#: ./freedroid.droid_archetypes:69
+msgid "123 Acolyte"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:94
 msgid ""
 "A simple rubbish diposal robot. Common device in most space craft to maintain "
 "a clean ship."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:132
+#: ./freedroid.droid_archetypes:98
+msgid "139 Templar"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:123
 msgid ""
 "Created by Dr. Masternak to clean up large heaps of rubbish. Its large scoop i"
 "s used to collect rubbish. It is then crushed internally."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:164
+#: ./freedroid.droid_archetypes:127
+msgid "247 Banshee"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:152
 msgid "A light duty servant robot. One of the first to use the anti-grav system."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:196
+#: ./freedroid.droid_archetypes:156
+msgid "249 Chicago"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:181
 msgid "Cheaper version of the anti-grav servant robot."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:228
-#: ./freedroid.droid_archetypes:1124
+#: ./freedroid.droid_archetypes:185
+msgid "296 Sawmill"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:210
+#: ./freedroid.droid_archetypes:998
 msgid "Run away! This bot will kill you!"
 msgstr ""
 
-#: ./freedroid.droid_archetypes:261
+#: ./freedroid.droid_archetypes:214
+msgid "302 Nemesis"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:239
 msgid "Common device for moving small packages. Clamp is mounted on the lower body."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:294
+#: ./freedroid.droid_archetypes:243
+msgid "329 Sparkie"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:268
 msgid "Early type messenger robot. Large wheels impede motion on small craft."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:326
+#: ./freedroid.droid_archetypes:272
+msgid "420 Surgeon"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:297
 msgid "A slow maintenance robot. Confined to drive maintenance during flight."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:358
+#: ./freedroid.droid_archetypes:301
+msgid "476 Coward"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:326
 msgid ""
 "Ship maintenance robot. Fitted with multiple arms to carry out repairs to the "
 "ship efficiently. All craft built after the Jupiter-incident are supplied with"
 " a team of these."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:390
+#: ./freedroid.droid_archetypes:330
+msgid "493 Spinster"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:355
 msgid "Slave maintenance droid. Standard version will carry its own toolbox."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:422
+#: ./freedroid.droid_archetypes:359
+msgid "516 Ghoul"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:384
 msgid ""
 "Early crew droid. Able to carry out simple flight checks only. No longer suppl"
 "ied."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:454
+#: ./freedroid.droid_archetypes:388
+msgid "571 Apollo"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:413
 msgid "A standard crew droid. Supplied with the ship."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:486
+#: ./freedroid.droid_archetypes:417
+msgid "598 Minister"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:442
 msgid "A highly sophisticated device. Able to control the Robo-Freighter on its own."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:518
+#: ./freedroid.droid_archetypes:446
+msgid "614 Security Bot"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:471
 msgid ""
 "A low security sentinel droid. Used to protect areas of the ship from intruder"
 "s. A slow but sure device."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:550
+#: ./freedroid.droid_archetypes:475
+msgid "615 Firedevil"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:500
 msgid ""
 "Sophisticated sentinel droid. Only 2000 built by the Nicholson Company. These "
 "are now very rare."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:582
+#: ./freedroid.droid_archetypes:504
+msgid "629 Spitfire"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:529
 msgid ""
 "A low sentinel droid. Lasers are built into the turret. These are mounted on a"
 " small tank body. May be fitted with an auto-cannon on-the Gillen version."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:614
+#: ./freedroid.droid_archetypes:533
+msgid "711 Grillmeister"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:558
 msgid ""
 "A heavy duty battle droid. Disruptor is built into the head. One of the first "
 "in service with the Military."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:645
+#: ./freedroid.droid_archetypes:562
+msgid "742 Zeus"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:587
 msgid "This version is the one mainly used by the military."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:677
+#: ./freedroid.droid_archetypes:591
+msgid "751 Soviet"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:616
 msgid ""
 "A very heavy duty battle droid. Only a few have so far entered service. These "
 "are the most powerful battle units ever built."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:709
+#: ./freedroid.droid_archetypes:620
+msgid "821 Ufo"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:645
 msgid ""
 "A very reliable anti-grav unit is fitted into this droid. It will patrol the s"
 "hip and eliminate intruders as soon as detected by powerful sensors."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:740
+#: ./freedroid.droid_archetypes:649
+msgid "834 Wisp"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:674
 msgid ""
 "Early type anti-grav security droid. Fitted with an over-driven anti-grav unit"
 ". This droid is very fast but is not reliable."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:772
+#: ./freedroid.droid_archetypes:678
+msgid "883 Dalex"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:704
 msgid ""
 "This droid was designed from archive data. For some unknown reason it instils "
 "great fear in Human adversaries."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:806
+#: ./freedroid.droid_archetypes:708
+msgid "999 Cerebrum"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:733
 msgid ""
 "Experimental command cyborg. Fitted with a new type of brain. Mounted on a sec"
 "urity droid anti-grav unit for convenience. warning: the influence device may "
 "not control a primode brain for long."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:835
+#: ./freedroid.droid_archetypes:737
+msgid "Older Man"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:757
 msgid ""
 "This is a typical professor/sage character of some older age.  They are not ar"
 "med as powerfully as e.g. the red guards."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:864
+#: ./freedroid.droid_archetypes:761
+msgid "Red Guard"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:781
 msgid ""
 "This is a typical red (male) guard/fighter character.  They are equipped with "
 "powerful PowerExterminators."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:893
+#: ./freedroid.droid_archetypes:785
+msgid "Matron"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:805
 msgid "This is the hot_mama shopkeeper character model."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:922
+#: ./freedroid.droid_archetypes:809
+msgid "Female Scientist"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:829
 msgid ""
 "This is the female scientist character model.  They are not armed as powerfull"
 "y as e.g. the red guards."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:951
+#: ./freedroid.droid_archetypes:833
+msgid "Mine Worker"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:853
 msgid ""
 "This is the brown worker model.  They are not armed as powerfully as e.g. the "
 "red guards."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:980
+#: ./freedroid.droid_archetypes:857
+msgid "Blue Brother"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:877
 msgid "This is a useless comment. Thanks for your attention."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:1009
+#: ./freedroid.droid_archetypes:881
+msgid "Cook"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:901
 msgid "This is the cook."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:1039
+#: ./freedroid.droid_archetypes:906
+msgid "Balding Man"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:926
 msgid ""
 "This is a typical professor/sage character of some older age. They are not arm"
 "ed as powerfully as e.g. the red guards."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:1068
+#: ./freedroid.droid_archetypes:930
+msgid "Pretty Woman"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:950
 msgid "This is a typical sex bomb.  This one is even armed."
 msgstr ""
 
-#: ./freedroid.droid_archetypes:1097
+#: ./freedroid.droid_archetypes:954
+msgid "Bartender"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:974
 msgid "This is the bartender."
+msgstr ""
+
+#: ./freedroid.droid_archetypes:978
+msgid "543 Forest Harvester"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:1002
+msgid "Female Hunter"
+msgstr ""
+
+#: ./freedroid.droid_archetypes:1022
+msgid "Blabla - TODO."
 msgstr ""
 

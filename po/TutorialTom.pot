@@ -2,1637 +2,1814 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"POT-Creation-Date: 2010-06-01 11:17+0000\n"
+"PO-Revision-Date: 2010-06-01 11:17+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./TutorialTom.dialog:53
+#: ./TutorialTom.dialog:51
+msgid "Tutorial Tom"
+msgstr ""
+
+#: ./TutorialTom.dialog:52
+msgid "Met [b]Tutorial Tom[/b]!"
+msgstr ""
+
+#: ./TutorialTom.dialog:56
 msgid "Hi Linarian, I've been expecting you. My name is Tutorial Tom."
 msgstr ""
 
-#: ./TutorialTom.dialog:54
+#: ./TutorialTom.dialog:57
 msgid ""
 "Long stasis sleep unfortunately has the side effect of temporary memory loss, "
 "sometimes even for simple ordinary every day things."
 msgstr ""
 
-#: ./TutorialTom.dialog:55
+#: ./TutorialTom.dialog:58
 msgid "So let's start with the basics, shall we?"
 msgstr ""
 
-#: ./TutorialTom.dialog:62
-msgid "Yes, it would be most kind of you. I don't remember anything."
+#: ./TutorialTom.dialog:61
+#: ./TutorialTom.dialog:65
+#: ./TutorialTom.dialog:68
+#: ./TutorialTom.dialog:80
+#: ./TutorialTom.dialog:81
+#: ./TutorialTom.dialog:93
+#: ./TutorialTom.dialog:107
+#: ./TutorialTom.dialog:121
+#: ./TutorialTom.dialog:135
+#: ./TutorialTom.dialog:149
+msgid "Tutorial Movement"
 msgstr ""
 
-#: ./TutorialTom.dialog:64
-msgid "What can I help you with?"
+#: ./TutorialTom.dialog:63
+msgid "Glad to see you figured out the quest log!"
+msgstr ""
+
+#: ./TutorialTom.dialog:67
+msgid ""
+"Speaking of moment, you can also [b]sprint[/b] by holding the [b]control key[/"
+"b]."
+msgstr ""
+
+#: ./TutorialTom.dialog:68
+msgid ""
+"Apparently I can sprint if I hold down the control key as I move. This might h"
+"elp if I get in a tight spot."
 msgstr ""
 
 #: ./TutorialTom.dialog:69
-msgid "What can you tell me about finding my way in the world?"
-msgstr ""
-
-#: ./TutorialTom.dialog:71
 msgid ""
-"As I understand it, you Linarians see the world in a way very similar to the H"
-"eads Up Displays used in our computer games of the past."
-msgstr ""
-
-#: ./TutorialTom.dialog:72
-msgid "I'll use the term HUD to denote that in this explanation."
-msgstr ""
-
-#: ./TutorialTom.dialog:73
-msgid ""
-"I'll start with your compass. Linarians have a remarkable internal sense of di"
-"rection, represented on your HUD by four arrows in the upper right corner."
-msgstr ""
-
-#: ./TutorialTom.dialog:74
-msgid ""
-"It's fairly simple, but it does show all four cardinal directions, and North i"
-"s marked. Going clockwise from North, you have East, South, and West."
+"This distance is determined by your yellow stamina bar; the more you have, the"
+" farther you can run without becoming winded."
 msgstr ""
 
 #: ./TutorialTom.dialog:75
-msgid ""
-"I'll go ahead and mention the automap. Rumor has it that there was once a worl"
-"d-wide mapping network that you as a Linarian could tap into."
-msgstr ""
-
-#: ./TutorialTom.dialog:76
-msgid "Much of the bot activity has made it difficult or impossible to use."
+msgid "Yes, it would be most kind of you. I don't remember anything."
 msgstr ""
 
 #: ./TutorialTom.dialog:77
 msgid ""
-"That said, there is supposed to be a man in town that provides a very similar "
-"ability through the use of nanotechnology."
+"You Linarians keep a quest [b]Log[/b] where you write down key bits of informa"
+"tion."
 msgstr ""
 
 #: ./TutorialTom.dialog:78
 msgid ""
-"Rumors abound, of course, and there may not be a bit of truth to it, but if th"
-"ere's any chance it may help you on your journey, it may be worth investigatin"
-"g."
+"When you aren't speaking with someone, you can open it up or close it by press"
+"ing the [b]Q key[/b]."
 msgstr ""
 
 #: ./TutorialTom.dialog:79
-#: ./TutorialTom.dialog:542
-msgid "I'll have to keep that in mind."
+msgid ""
+"I'll assign you a new quest, so you can try it out. Once you are done, [b]left"
+" click[/b] on me."
 msgstr ""
 
-#: ./TutorialTom.dialog:84
+#: ./TutorialTom.dialog:81
+msgid ""
+"To talk to someone, left click on them! You can talk to any friendly bot or pe"
+"rson. Friendly people and bots have a green bar above them. Press the Q key to"
+" open or close the quest log. Left click back on Tutorial Tom to learn more!"
+msgstr ""
+
+#: ./TutorialTom.dialog:83
+msgid "Press Q for Quests"
+msgstr ""
+
+#: ./TutorialTom.dialog:89
+msgid "What can you tell me about finding my way in the world?"
+msgstr ""
+
+#: ./TutorialTom.dialog:91
+msgid ""
+"You Linarians see the world similar to the Heads Up Displays, or [b]HUD[/b], u"
+"sed in computer games."
+msgstr ""
+
+#: ./TutorialTom.dialog:92
+msgid ""
+"Linarians, like all birds, have a remarkable internal sense of direction.  App"
+"arently your HUD has a [b]compass[/b], represented by four red arrows in the u"
+"pper right corner with North marked on it."
+msgstr ""
+
+#: ./TutorialTom.dialog:93
+msgid ""
+"I learned the four red arrows in the upper-right of my HUD is a compass with n"
+"orth marked on it."
+msgstr ""
+
+#: ./TutorialTom.dialog:94
+msgid ""
+"Rumor is there was a device Linarians used to remember every place they had be"
+"en, called an [b]automap[/b]."
+msgstr ""
+
+#: ./TutorialTom.dialog:95
+msgid ""
+"Although, you don't currently have such a device, you might find someone with "
+"nanotechnology skills to make one."
+msgstr ""
+
+#: ./TutorialTom.dialog:96
+msgid "I'll keep that in mind."
+msgstr ""
+
+#: ./TutorialTom.dialog:101
 msgid "My limbs don't seem to want to work properly. Can you help me with that?"
 msgstr ""
 
-#: ./TutorialTom.dialog:86
+#: ./TutorialTom.dialog:103
 msgid ""
 "Ah yes, movement. It's second nature to us humans, but our research with you i"
 "n the past showed that your brain seems to work more like a computer."
 msgstr ""
 
-#: ./TutorialTom.dialog:87
-msgid ""
-"To move somewhere, you first need to determine where you want to go, then moti"
-"vate yourself to go there."
-msgstr ""
-
-#: ./TutorialTom.dialog:88
-msgid ""
-"As I understand it, this is represented on your HUD by moving a pointer to a l"
-"ocation in your view and left clicking."
-msgstr ""
-
-#: ./TutorialTom.dialog:89
-msgid "I hope that means more to you than it does to me."
-msgstr ""
-
-#: ./TutorialTom.dialog:90
-msgid "I think I understand."
-msgstr ""
-
-#: ./TutorialTom.dialog:91
-msgid ""
-"Going along with that, you do have the ability to run for a reasonable distanc"
-"e."
-msgstr ""
-
-#: ./TutorialTom.dialog:92
-msgid ""
-"This distance is determined by your stamina; the more you have, the farther yo"
-"u can run without becoming winded. To do so, use the Control key."
-msgstr ""
-
-#: ./TutorialTom.dialog:93
-msgid ""
-"Speaking of keys, F1 will let you set your keymap. Or that's what your notes s"
-"ay. I really can't make head nor tales of it."
-msgstr ""
-
-#: ./TutorialTom.dialog:98
-msgid "What else makes me different as a Linarian?"
-msgstr ""
-
-#: ./TutorialTom.dialog:100
-msgid ""
-"As a Linarian, you have some special abilities that no human does. In specific"
-", you seem to be able to translate programming source code into something like"
-" magic."
-msgstr ""
-
-#: ./TutorialTom.dialog:101
-msgid ""
-"Using these abilities, called programs, seems to affect your body temperature,"
-" which you must regulate."
-msgstr ""
-
-#: ./TutorialTom.dialog:102
-msgid "Using most programs increases your body temperature."
-msgstr ""
-
-#: ./TutorialTom.dialog:103
-msgid ""
-"However, using a special ability called Emergency Shutdown, you can cool your "
-"body significantly, at the cost of shutting down for several seconds."
-msgstr ""
-
 #: ./TutorialTom.dialog:104
 msgid ""
-"Normally, you would have this ability as well as the ability to hack bots, but"
-" your mind is probably still recovering from the stasis."
+"To move somewhere, you first need to determine where you want to go by [b]left"
+" clicking[/b] where you want to go on your HUD."
 msgstr ""
 
 #: ./TutorialTom.dialog:105
+msgid "If you can go there, you will do so."
+msgstr ""
+
+#: ./TutorialTom.dialog:106
 msgid ""
-"We'll talk about programs in depth later on, but for now you can access the Sk"
-"ills/Programs menu by pressing S."
+"Now try to move to the red dot to the north. Then to the black grating to the "
+"east, and then talk to me again."
 msgstr ""
 
-#: ./TutorialTom.dialog:110
-msgid "I'm sensing some sort of strange presence in the vicinity."
-msgstr ""
-
-#: ./TutorialTom.dialog:112
-msgid "Ah, yes."
-msgstr ""
-
-#: ./TutorialTom.dialog:113
-msgid "Linarians seem to have some sort of affinity for the detection of items."
+#: ./TutorialTom.dialog:107
+msgid ""
+"I'm supposed to left click anywhere to move to a location. If I can figure out"
+" a way, I will move there automatically. Tom wants me to first try to move to "
+"the red dot to the North."
 msgstr ""
 
 #: ./TutorialTom.dialog:114
-msgid ""
-"Like any sighted being, you can detect items by looking at them as they enter "
-"your field of view."
-msgstr ""
-
-#: ./TutorialTom.dialog:115
-msgid ""
-"Pressing the Z key will enable augmented reality and turn on labels for all it"
-"ems on the ground. Pressing Z a second time will return to normal reality disp"
-"laying."
+msgid "What else makes me different as a Linarian?"
 msgstr ""
 
 #: ./TutorialTom.dialog:116
 msgid ""
-"If you just want to look for a moment, you can press and hold the X key to do "
-"the same thing."
+"As a Linarian, you have some special abilities that no human does: Linarians c"
+"an translate programming source code into something like magic."
 msgstr ""
 
 #: ./TutorialTom.dialog:117
 msgid ""
-"Unlike people, you can even examine items from behind a wall using this techni"
-"que."
+"However, using these [b]Programs[/b], adversely affect your body temperature, "
+"which you must regulate."
 msgstr ""
 
 #: ./TutorialTom.dialog:118
-msgid "Moving your mouse over an item will tell you more about that item."
+msgid ""
+"But you normally have a special program called [b]Emergency Shutdown[/b], whic"
+"h freezes your motions for several seconds but significantly cools your body."
 msgstr ""
 
 #: ./TutorialTom.dialog:119
-msgid "On our way to the next stopping point, we'll pass some items on the floor."
+msgid ""
+"This, and the ability to hack bots will soon return once your mind recovers fr"
+"om the stasis."
 msgstr ""
 
 #: ./TutorialTom.dialog:120
 msgid ""
-"Feel free to stop and examine them to get practice. You can also pick them up,"
-" and view the inventory by pressing i."
+"Once it does, we'll talk more about programs. You can toggle the [b]Skills/Pro"
+"gram menu[/b] by pressing the [b]S key[/b]."
 msgstr ""
 
-#: ./TutorialTom.dialog:125
-msgid ""
-"No, thanks, I still remember how to walk, run and pick up things and which way"
-" is north."
+#: ./TutorialTom.dialog:121
+msgid "View the Skills/Program menu by pressing the S key."
+msgstr ""
+
+#: ./TutorialTom.dialog:126
+msgid "I'm sensing some sort of strange presence in the vicinity."
+msgstr ""
+
+#: ./TutorialTom.dialog:128
+msgid "Ah, yes."
 msgstr ""
 
 #: ./TutorialTom.dialog:129
-msgid "Thank you, that was very informative. Can we move on now?"
+msgid ""
+"Linarians seem to [b]detect items[/b] - even through walls - in an augmented r"
+"eality."
+msgstr ""
+
+#: ./TutorialTom.dialog:130
+msgid ""
+"The [b]Z key[/b] will toggles this augmentation, while the [b]X key[/b] moment"
+"arily flashes it."
+msgstr ""
+
+#: ./TutorialTom.dialog:131
+msgid "Moving your pointer over an item will tell you more about that item."
+msgstr ""
+
+#: ./TutorialTom.dialog:132
+msgid "On our way to the next stopping point, we'll pass some items on the floor."
+msgstr ""
+
+#: ./TutorialTom.dialog:133
+msgid "Feel free to stop and examine them to get practice."
+msgstr ""
+
+#: ./TutorialTom.dialog:134
+msgid ""
+"[b]Left clicking[/b] on an item will pick it up and put it in your inventory, "
+"toggled by the [b]I key[/b], where you can examine it further."
 msgstr ""
 
 #: ./TutorialTom.dialog:135
-msgid "Ok, follow me into the next area then."
-msgstr ""
-
-#: ./TutorialTom.dialog:146
-msgid "What is in that chest?"
-msgstr ""
-
-#: ./TutorialTom.dialog:148
 msgid ""
-"Well, open it up and find out by simply clicking on it with the left mouse but"
-"ton."
+"Toggle detect items by pressing the Z key, and press X to flash the ability.  "
+"To pick up an item, left click on it. To view an item you've picked up, open t"
+"he inventory by pressing I."
 msgstr ""
 
-#: ./TutorialTom.dialog:149
-msgid "I'll tell you more after you've done it."
+#: ./TutorialTom.dialog:141
+msgid "No, thanks, I still remember how to walk, run, navigate, and pick things up."
+msgstr ""
+
+#: ./TutorialTom.dialog:147
+msgid "Thank you, that was very informative. Can we move on now?"
+msgstr ""
+
+#: ./TutorialTom.dialog:150
+msgid ""
+"I just closed your first quest. You can still see what you learned by clicking"
+" on the 'done quests' tab in the quest screen."
 msgstr ""
 
 #: ./TutorialTom.dialog:155
-msgid "Some items came out."
+msgid "I'm eager to learn more."
 msgstr ""
 
 #: ./TutorialTom.dialog:157
+msgid "Ok, follow me into the next area."
+msgstr ""
+
+#: ./TutorialTom.dialog:169
+msgid "What is in that chest?"
+msgstr ""
+
+#: ./TutorialTom.dialog:171
+msgid ""
+"Well, you can interact with several types of objects by simply [b]left clickin"
+"g[/b] on them."
+msgstr ""
+
+#: ./TutorialTom.dialog:172
+msgid "Left click on the chest to open it up and see what is inside."
+msgstr ""
+
+#: ./TutorialTom.dialog:173
+#: ./TutorialTom.dialog:262
+#: ./TutorialTom.dialog:317
+#: ./TutorialTom.dialog:332
+#: ./TutorialTom.dialog:357
+#: ./TutorialTom.dialog:426
+#: ./TutorialTom.dialog:427
+msgid "Tutorial Melee"
+msgstr ""
+
+#: ./TutorialTom.dialog:173
+msgid "I'm supposed to left click on chests to open them up."
+msgstr ""
+
+#: ./TutorialTom.dialog:179
+msgid "Some items came out."
+msgstr ""
+
+#: ./TutorialTom.dialog:181
 msgid "Well, you've discovered a great secret: chests sometimes contain items."
 msgstr ""
 
-#: ./TutorialTom.dialog:158
+#: ./TutorialTom.dialog:182
 msgid ""
 "We humans have a fascination with hiding our treasures. What comprises a treas"
 "ure means different things to different people."
 msgstr ""
 
-#: ./TutorialTom.dialog:159
+#: ./TutorialTom.dialog:183
 msgid ""
 "For some, it's valuable metals in robotic circuitry. That's the current moneta"
 "ry standard on our world."
 msgstr ""
 
-#: ./TutorialTom.dialog:160
+#: ./TutorialTom.dialog:184
 msgid ""
 "For others, it may be weapons, or even just items that may be used as weapons "
 "in a pinch."
 msgstr ""
 
-#: ./TutorialTom.dialog:161
+#: ./TutorialTom.dialog:185
 msgid "Still others, odd as it may sound, keep dishes hidden away."
 msgstr ""
 
-#: ./TutorialTom.dialog:162
+#: ./TutorialTom.dialog:186
 msgid ""
 "Perhaps the best thing you can find, though, is armor. At least, given the cur"
 "rent situation with the bots, that is."
 msgstr ""
 
-#: ./TutorialTom.dialog:167
+#: ./TutorialTom.dialog:191
 msgid "Armor? I should know more about this."
 msgstr ""
 
-#: ./TutorialTom.dialog:169
+#: ./TutorialTom.dialog:193
 msgid ""
 "In the years since you entered stasis, mankind has done much research in the f"
 "ield of robotics."
 msgstr ""
 
-#: ./TutorialTom.dialog:170
+#: ./TutorialTom.dialog:194
 msgid ""
 "One branch in particular that has served us well is the realm of nanotechnolog"
 "y."
 msgstr ""
 
-#: ./TutorialTom.dialog:171
+#: ./TutorialTom.dialog:195
 msgid ""
 "Because they run a very simple operating system, nanobots were not affected by"
 " whatever caused the Great Assault."
 msgstr ""
 
-#: ./TutorialTom.dialog:172
+#: ./TutorialTom.dialog:196
 msgid ""
 "To this day, our armor and clothing are made out of nanobots. This enables man"
 "y different sizes of people to wear the same clothing."
 msgstr ""
 
-#: ./TutorialTom.dialog:173
+#: ./TutorialTom.dialog:197
 msgid ""
 "The nanobots reshape the garment for a comfortable fit, so even you should be "
 "able to wear them without problem."
 msgstr ""
 
-#: ./TutorialTom.dialog:178
+#: ./TutorialTom.dialog:202
 msgid "How does wearing clothes and holding shields help me?"
 msgstr ""
 
-#: ./TutorialTom.dialog:180
+#: ./TutorialTom.dialog:204
 msgid "Well, it can help you avoid indecent exposure charges."
 msgstr ""
 
-#: ./TutorialTom.dialog:181
-msgid "..."
-msgstr ""
-
-#: ./TutorialTom.dialog:182
+#: ./TutorialTom.dialog:206
 msgid "But all jokes aside, the bots will not mess around."
 msgstr ""
 
-#: ./TutorialTom.dialog:183
+#: ./TutorialTom.dialog:207
 msgid ""
 "Even the best of fighters sometimes get hit by enemy blows. If I were you, I w"
 "ould seriously consider wearing some sort of armor before mixing it up with th"
 "ose bots."
 msgstr ""
 
-#: ./TutorialTom.dialog:184
+#: ./TutorialTom.dialog:208
 msgid ""
 "They will help to mitigate some of the damage you take from melee or ranged co"
 "mbat."
 msgstr ""
 
-#: ./TutorialTom.dialog:185
+#: ./TutorialTom.dialog:209
 msgid ""
 "Keep in mind, though, that there is a chance that your armor will take damage "
 "whenever you get hit. Keep an eye on it, or you'll lose it."
 msgstr ""
 
-#: ./TutorialTom.dialog:190
+#: ./TutorialTom.dialog:214
 msgid "That sounds useful. How do I use armor?"
 msgstr ""
 
-#: ./TutorialTom.dialog:192
+#: ./TutorialTom.dialog:216
 msgid ""
 "Well, let me start by saying that there are four classes of armor: headgear, s"
 "hoes, body armor, and shields."
 msgstr ""
 
-#: ./TutorialTom.dialog:193
+#: ./TutorialTom.dialog:217
 msgid ""
 "When you pick up a piece of armor of a particular class, and you don't already"
 " have one equipped, you will automatically equip it if you can."
 msgstr ""
 
-#: ./TutorialTom.dialog:194
+#: ./TutorialTom.dialog:218
 msgid ""
-"Picking up armor and other items can be accomplished by left clicking on the i"
-"tem on the ground. If you have enough room in your inventory, you will pick th"
-"e item up."
+"Picking up armor and items can be accomplished by [b]left clicking[/b] on the "
+"item. If your inventory has space, you will pick the item up."
 msgstr ""
 
-#: ./TutorialTom.dialog:195
+#: ./TutorialTom.dialog:219
 msgid ""
 "If you currently have one piece of armor equipped that you would like to swap "
 "out for another, simply drag the new armor piece to the current armor piece an"
 "d left click."
 msgstr ""
 
-#: ./TutorialTom.dialog:196
+#: ./TutorialTom.dialog:220
 msgid ""
 "They will swap places, and you can put the other piece of armor back into your"
 " inventory."
 msgstr ""
 
-#: ./TutorialTom.dialog:197
+#: ./TutorialTom.dialog:221
 msgid ""
 "Alternatively, you can drag it into your field of view and drop it on the grou"
 "nd."
 msgstr ""
 
-#: ./TutorialTom.dialog:202
+#: ./TutorialTom.dialog:226
 msgid "I wouldn't want to lose any armor. What can I do about that?"
 msgstr ""
 
-#: ./TutorialTom.dialog:204
+#: ./TutorialTom.dialog:228
 msgid "Well, there are several ways to keep that from happening."
 msgstr ""
 
-#: ./TutorialTom.dialog:205
+#: ./TutorialTom.dialog:229
 msgid ""
-"First, any equipped item in poor condition will show up yellow on your HUD. If"
-" the item reaches critical condition, it will be red. Well, at least if you in"
-"terface with reality through OGL. If your visual reality interface is done wit"
-"h only SDL, colors won't change."
-msgstr ""
-
-#: ./TutorialTom.dialog:206
-msgid "If you don't unequip the item then, you run the risk of it becoming ruined."
-msgstr ""
-
-#: ./TutorialTom.dialog:207
-msgid "There are three things you can do when an item reaches critical condition."
-msgstr ""
-
-#: ./TutorialTom.dialog:208
-msgid "The first is to sell or discard the item."
-msgstr ""
-
-#: ./TutorialTom.dialog:209
-msgid ""
-"A better choice would be to use your repair equipment program on the item. Thi"
-"s allows you to repair the item, at the cost of losing a percentage of its max"
-"imum useful life."
-msgstr ""
-
-#: ./TutorialTom.dialog:210
-msgid ""
-"Most of the time, though, your best choice will be to pay to have the item rep"
-"aired at a shop. This maintains the useful life of the item."
-msgstr ""
-
-#: ./TutorialTom.dialog:215
-msgid "You mentioned discarding an item. Why would I want to do that?"
-msgstr ""
-
-#: ./TutorialTom.dialog:217
-msgid "Well, I can think of a few reasons."
-msgstr ""
-
-#: ./TutorialTom.dialog:218
-msgid ""
-"The most obvious would be not having enough room in your inventory. If you nee"
-"d a different item more, then you shouldn't be afraid to drop a less valuable "
-"item."
-msgstr ""
-
-#: ./TutorialTom.dialog:219
-msgid "If an item is close to being destroyed, you might also consider dropping it."
-msgstr ""
-
-#: ./TutorialTom.dialog:220
-msgid ""
-"You may also encounter items that give negative status effects. Certain pieces"
-" of armor or weapons may affect you in different ways."
-msgstr ""
-
-#: ./TutorialTom.dialog:221
-msgid ""
-"Some will help you out, for example by increasing your cooling rate or increas"
-"ing your dexterity. This is the work of specialized nanobots."
-msgstr ""
-
-#: ./TutorialTom.dialog:222
-msgid ""
-"Some items, on the other hand, may affect you negatively. They may decrease yo"
-"ur strength or cause you to heat up."
-msgstr ""
-
-#: ./TutorialTom.dialog:223
-msgid ""
-"Because they are undesirable, these cannot be sold, and so must either be used"
-" or discarded. Discarding is usually the preferred choice."
-msgstr ""
-
-#: ./TutorialTom.dialog:228
-msgid "Repair equipment program? How do I use that?"
+"Equipped items in poor condition will show up yellow and should turn red if in"
+" critical condition."
 msgstr ""
 
 #: ./TutorialTom.dialog:230
 msgid ""
-"Perhaps I should start by explaining programs in general. You already know abo"
-"ut some programs, and that they can be accessed through your HUD."
+"However, if your visual acuity is only SDL, not OGL, apparently the colors won"
+"'t change."
 msgstr ""
 
 #: ./TutorialTom.dialog:231
-msgid ""
-"To use a program, select it through your HUD. Then, run the program by right c"
-"licking. You can target an enemy, an item, or just the world depending on the "
-"program."
+msgid "If you don't unequip an item in poor or critical condition it may be ruined!"
 msgstr ""
 
 #: ./TutorialTom.dialog:232
-msgid ""
-"You can also assign quick-select keys to programs. Simply hover over the progr"
-"am in the Skills/Program menu and press one of the keys F5 to F12. Then, whene"
-"ver you press this button, you will select the corresponding program."
+msgid "There are three things you can do when an item reaches critical condition:"
 msgstr ""
 
 #: ./TutorialTom.dialog:233
+msgid "First, you can sell or discard the item."
+msgstr ""
+
+#: ./TutorialTom.dialog:234
+msgid ""
+"Second, you can use your [b]repair equipment[/b] program on the item, which wi"
+"ll repair the item at the cost of some of its durability."
+msgstr ""
+
+#: ./TutorialTom.dialog:235
+msgid ""
+"Or third, you can have the item repaired at a shop, which maintains the item's"
+" durability at a price."
+msgstr ""
+
+#: ./TutorialTom.dialog:240
+msgid "You mentioned discarding an item. Why would I want to do that?"
+msgstr ""
+
+#: ./TutorialTom.dialog:242
+msgid "Well, I can think of a few reasons."
+msgstr ""
+
+#: ./TutorialTom.dialog:243
+msgid ""
+"You might not have enough room in your inventory for an item you need more, or"
+" can sell for more."
+msgstr ""
+
+#: ./TutorialTom.dialog:244
+msgid "If an item is close to being destroyed, you might also consider dropping it."
+msgstr ""
+
+#: ./TutorialTom.dialog:245
+msgid "And finally some items give negative status effects, and aren't worth selling."
+msgstr ""
+
+#: ./TutorialTom.dialog:246
+msgid "Armor or weapons may affect you in different ways."
+msgstr ""
+
+#: ./TutorialTom.dialog:247
+msgid ""
+"Some will help you out, for example by increasing your cooling rate or increas"
+"ing your dexterity. This is the work of specialized nanobots, but the reverse "
+"can happen too."
+msgstr ""
+
+#: ./TutorialTom.dialog:252
+msgid "Repair equipment program? How do I use that?"
+msgstr ""
+
+#: ./TutorialTom.dialog:254
+msgid "Perhaps I should start by explaining programs in general."
+msgstr ""
+
+#: ./TutorialTom.dialog:255
+msgid ""
+"To use a program, select it through your HUD (remember the [b]S key[/b] toggle"
+"s your [b]Skills/Program menu[/b])."
+msgstr ""
+
+#: ./TutorialTom.dialog:256
+msgid ""
+"After you've selected a program, run the program by right clicking. Depending "
+"on the program you can target an enemy, an item, or just the world."
+msgstr ""
+
+#: ./TutorialTom.dialog:257
+msgid ""
+"You can also assign quick-select keys to programs. Simply hover over the progr"
+"am in the Skills/Program menu and press one of the keys [b]F5[/b] to [b]F12[/b"
+"]. Then, whenever you press this button, you will select the corresponding pro"
+"gram."
+msgstr ""
+
+#: ./TutorialTom.dialog:258
 msgid ""
 "If you're curious what a program does, you can find out by clicking the questi"
 "on mark in the Skills/Program menu."
 msgstr ""
 
-#: ./TutorialTom.dialog:234
+#: ./TutorialTom.dialog:259
 msgid ""
 "Now, to answer your question, you use your repair equipment program by selecti"
 "ng it in the Skills/Program menu, then right clicking on the item you wish to "
 "repair."
 msgstr ""
 
-#: ./TutorialTom.dialog:241
+#: ./TutorialTom.dialog:262
+msgid ""
+"Run a program by right clicking after it has been selected from the Skills/Pro"
+"gram menu. My shoes are damaged, so I might try the repair equipment program o"
+"n them to slightly repair them."
+msgstr ""
+
+#: ./TutorialTom.dialog:267
 msgid "I think I'm ready for the next section of the tutorial."
 msgstr ""
 
-#: ./TutorialTom.dialog:243
+#: ./TutorialTom.dialog:269
 msgid ""
 "Ok, I'll open the next door then. But prepare yourself, soon you will learn ho"
-"w to fight against bots in hand to hand combat."
+"w to fight against bots in hand-to-hand combat."
 msgstr ""
 
-#: ./TutorialTom.dialog:252
+#: ./TutorialTom.dialog:278
 msgid "Can you tell me how to fight the bots?"
 msgstr ""
 
-#: ./TutorialTom.dialog:254
+#: ./TutorialTom.dialog:280
 msgid "I will certainly try my best."
 msgstr ""
 
-#: ./TutorialTom.dialog:255
+#: ./TutorialTom.dialog:281
 msgid ""
 "It's odd to think that a flightless bird would be such a scrapper, but you Lin"
 "arians have been surprising us since the beginning."
 msgstr ""
 
-#: ./TutorialTom.dialog:256
+#: ./TutorialTom.dialog:282
 msgid ""
 "We prefer to fight the damn droids at a distance. They're less likely to rend "
 "us limb from limb that way."
 msgstr ""
 
-#: ./TutorialTom.dialog:257
+#: ./TutorialTom.dialog:283
 msgid "Unfortunately, guns and other ranged weaponry are hard to come by these days."
 msgstr ""
 
-#: ./TutorialTom.dialog:258
+#: ./TutorialTom.dialog:284
 msgid ""
 "That goes double for ammunition. Because these are bots, you really can't effe"
 "ctively keep them at bay by just waving around an empty gun."
 msgstr ""
 
-#: ./TutorialTom.dialog:259
+#: ./TutorialTom.dialog:285
 msgid ""
 "With that in mind, your most reliable weapons are your fists. They never run o"
 "ut of ammo or wear down, but of course they don't do much damage against a met"
 "al body, either."
 msgstr ""
 
-#: ./TutorialTom.dialog:264
+#: ./TutorialTom.dialog:290
 msgid "So I'm supposed to fight bots with my fists?"
 msgstr ""
 
-#: ./TutorialTom.dialog:266
+#: ./TutorialTom.dialog:292
 msgid "There may be times when you have no choice."
 msgstr ""
 
-#: ./TutorialTom.dialog:267
-msgid "Melee combat, armed or unarmed, can be initiated by left clicking on an enemy."
+#: ./TutorialTom.dialog:293
+msgid ""
+"Melee combat, armed or unarmed, can be initiated by [b]left clicking[/b] on an"
+" enemy."
 msgstr ""
 
-#: ./TutorialTom.dialog:268
+#: ./TutorialTom.dialog:294
 msgid "You will then walk over to the enemy and start hitting them."
 msgstr ""
 
-#: ./TutorialTom.dialog:269
+#: ./TutorialTom.dialog:295
 msgid "Now, I understand you may have some concerns over your safety during this..."
 msgstr ""
 
-#: ./TutorialTom.dialog:270
-msgid ""
-"CONCERNS? Erm... Yes, this doesn't sound like a particularly healthy endeavour"
-"."
+#: ./TutorialTom.dialog:296
+msgid "CONCERNS? Erm... Yes, this doesn't sound like a particularly healthy endeavor."
 msgstr ""
 
-#: ./TutorialTom.dialog:271
+#: ./TutorialTom.dialog:297
 msgid ""
 "Fred, if you're afraid, you'll have to overlook it. Besides, you knew the job "
 "was dangerous when you took it."
 msgstr ""
 
-#: ./TutorialTom.dialog:272
+#: ./TutorialTom.dialog:298
 msgid "I beg your pardon? Who is Fred?"
 msgstr ""
 
-#: ./TutorialTom.dialog:273
-msgid "Nevermind, just an old song."
+#: ./TutorialTom.dialog:299
+msgid "Never mind, just an old song."
 msgstr ""
 
-#: ./TutorialTom.dialog:274
+#: ./TutorialTom.dialog:300
 msgid ""
 "Fighting the bots hand-to-hand has risks, there is no question. However, there"
 " are things you can do to even the odds."
 msgstr ""
 
-#: ./TutorialTom.dialog:275
+#: ./TutorialTom.dialog:301
 msgid "We already discussed armor. Another useful type of item is medical supplies."
 msgstr ""
 
-#: ./TutorialTom.dialog:276
+#: ./TutorialTom.dialog:302
 msgid ""
 "There are a few different types of restorative items. The most common are heal"
 "th drinks."
 msgstr ""
 
-#: ./TutorialTom.dialog:281
+#: ./TutorialTom.dialog:307
 msgid "Tell me about health drinks."
 msgstr ""
 
-#: ./TutorialTom.dialog:283
+#: ./TutorialTom.dialog:309
 msgid "Man has practiced medicine in one form or another for hundreds of years."
 msgstr ""
 
-#: ./TutorialTom.dialog:284
+#: ./TutorialTom.dialog:310
 msgid ""
 "Using some of the same nanotechnology that makes up your armor, we've perfecte"
 "d drinks that instantaneously restore your health."
 msgstr ""
 
-#: ./TutorialTom.dialog:285
+#: ./TutorialTom.dialog:311
 msgid "There are many kinds, but all accomplish the same thing, to varying degrees."
 msgstr ""
 
-#: ./TutorialTom.dialog:286
+#: ./TutorialTom.dialog:312
 msgid ""
 "Certain items, like health drinks, can be used directly without clicking on th"
 "em."
 msgstr ""
 
-#: ./TutorialTom.dialog:287
+#: ./TutorialTom.dialog:313
 msgid ""
 "At the bottom of your HUD, you'll notice your item access belt. Small items ca"
-"n go here and be used by pressing the numbers 0 through 9."
+"n go here and be used by pressing the numbers [b]0[/b] through [b]8[/b]."
 msgstr ""
 
-#: ./TutorialTom.dialog:288
+#: ./TutorialTom.dialog:314
 msgid ""
 "Unlike armor or weapons, multiple of these items will group together in your i"
 "nventory slots."
 msgstr ""
 
-#: ./TutorialTom.dialog:289
+#: ./TutorialTom.dialog:315
 msgid ""
 "If you have Diet Supplements equipped in item slot 1, you can press 1 to use o"
 "ne."
 msgstr ""
 
-#: ./TutorialTom.dialog:290
+#: ./TutorialTom.dialog:316
 msgid "This will restore your health, and will be invaluable in the heat of battle."
 msgstr ""
 
-#: ./TutorialTom.dialog:295
+#: ./TutorialTom.dialog:317
+msgid ""
+"Small one-time-use items, like diet supplements, can be placed in inventory sp"
+"ots labels 1 to 0, and can be used by pressing the corresponding key."
+msgstr ""
+
+#: ./TutorialTom.dialog:322
 msgid "I'm ready to fight my first bot."
 msgstr ""
 
-#: ./TutorialTom.dialog:297
+#: ./TutorialTom.dialog:324
 msgid "We keep two bots captive for melee practice."
 msgstr ""
 
-#: ./TutorialTom.dialog:298
+#: ./TutorialTom.dialog:325
 msgid ""
 "I've unlocked the door leading to the first bot. Take care of it, then come ba"
 "ck and talk to me."
 msgstr ""
 
-#: ./TutorialTom.dialog:299
+#: ./TutorialTom.dialog:326
 msgid ""
 "I'm also giving you some health drinks. Feel free to use them, though I can he"
 "al you if you need it."
 msgstr ""
 
-#: ./TutorialTom.dialog:300
+#: ./TutorialTom.dialog:327
 msgid ""
 "Your health will also regenerate over time. I wish it were so easy for us huma"
 "ns."
 msgstr ""
 
-#: ./TutorialTom.dialog:301
+#: ./TutorialTom.dialog:328
 msgid ""
-"The first bot is carrying an Entropy Inverter . Bring it to me to prove you've"
-" beaten it."
+"The first bot is carrying an [b]Entropy Inverter[/b]. Bring it to me to prove "
+"you've beaten it."
 msgstr ""
 
-#: ./TutorialTom.dialog:302
+#: ./TutorialTom.dialog:329
 msgid "Come back and talk to me when you have the Entropy Inverter."
 msgstr ""
 
-#: ./TutorialTom.dialog:312
+#: ./TutorialTom.dialog:332
+msgid ""
+"I'm going to fight my first bot! To start melee combat left click on the bot. "
+"Tom wants the Entropy Inverter from the bot after I've defeated it, so I shoul"
+"d pick that up."
+msgstr ""
+
+#: ./TutorialTom.dialog:338
 msgid "Can you heal me?"
 msgstr ""
 
-#: ./TutorialTom.dialog:314
+#: ./TutorialTom.dialog:340
 msgid "You should be more careful, Linarian. But yes, I can heal you."
 msgstr ""
 
-#: ./TutorialTom.dialog:315
+#: ./TutorialTom.dialog:341
 msgid "There, all better."
 msgstr ""
 
-#: ./TutorialTom.dialog:320
+#: ./TutorialTom.dialog:346
 msgid "I've beaten the first bot."
 msgstr ""
 
-#: ./TutorialTom.dialog:323
+#: ./TutorialTom.dialog:349
 msgid "So you have. Well done."
 msgstr ""
 
-#: ./TutorialTom.dialog:324
+#: ./TutorialTom.dialog:350
 msgid "I'll trade you this wrench for it. I think you'll find it handy."
 msgstr ""
 
-#: ./TutorialTom.dialog:325
+#: ./TutorialTom.dialog:351
 msgid "Now would be an appropriate time to mention bot parts, I guess."
 msgstr ""
 
-#: ./TutorialTom.dialog:326
+#: ./TutorialTom.dialog:352
 msgid ""
 "Certain parts in the bots are extra valuable. You can sell them at stores for "
 "cash."
 msgstr ""
 
-#: ./TutorialTom.dialog:327
+#: ./TutorialTom.dialog:353
 msgid ""
 "If you can learn to extract these parts, it can help improve your lot in the w"
 "orld."
 msgstr ""
 
-#: ./TutorialTom.dialog:328
+#: ./TutorialTom.dialog:354
 msgid "Hopefully, you can find someone to teach you."
 msgstr ""
 
-#: ./TutorialTom.dialog:333
+#: ./TutorialTom.dialog:357
+msgid ""
+"I brought the entropy inverter to Tom and he gave me my first weapon: a Big wr"
+"ench. I should equip it."
+msgstr ""
+
+#: ./TutorialTom.dialog:360
 msgid ""
 "Trying to cheat your way through the tutorial doesn't bode well for your chanc"
 "es in the real world."
 msgstr ""
 
-#: ./TutorialTom.dialog:334
+#: ./TutorialTom.dialog:361
 msgid "I'll need proof that you've beaten the first bot."
 msgstr ""
 
-#: ./TutorialTom.dialog:335
-msgid "Don't come back without the Entropy Inverter it was carrying."
+#: ./TutorialTom.dialog:362
+msgid "Don't come back without the [b]Entropy Inverter[/b] it was carrying."
 msgstr ""
 
-#: ./TutorialTom.dialog:341
+#: ./TutorialTom.dialog:368
 msgid "You mentioned another bot?"
 msgstr ""
 
-#: ./TutorialTom.dialog:343
+#: ./TutorialTom.dialog:370
 msgid ""
 "That's correct. The second bot is a lot more dangerous, and you're not likely "
 "to make much headway against it with your fists."
 msgstr ""
 
-#: ./TutorialTom.dialog:344
+#: ./TutorialTom.dialog:371
 msgid "Lucky for you, there's another dimension to melee combat."
 msgstr ""
 
-#: ./TutorialTom.dialog:345
+#: ./TutorialTom.dialog:372
 msgid ""
 "Fighting bots with your fists is fine, but there are a number of items you can"
 " use for melee."
 msgstr ""
 
-#: ./TutorialTom.dialog:346
+#: ./TutorialTom.dialog:373
 msgid ""
 "There are several traditional weapons in the world such as swords or light sab"
 "ers that can be used against the bots."
 msgstr ""
 
-#: ./TutorialTom.dialog:347
+#: ./TutorialTom.dialog:374
 msgid ""
 "However, more common items you encounter everyday can often be used to bash or"
 " pry at droid armor."
 msgstr ""
 
-#: ./TutorialTom.dialog:348
+#: ./TutorialTom.dialog:375
 msgid ""
 "For example, that wrench I just gave you will increase the damage you do, and "
 "should let you best the next bot."
 msgstr ""
 
-#: ./TutorialTom.dialog:353
+#: ./TutorialTom.dialog:380
 msgid "I'm ready to take the next bot on."
 msgstr ""
 
-#: ./TutorialTom.dialog:355
+#: ./TutorialTom.dialog:382
 msgid "I certainly hope so. I will heal you before you go to the next room."
 msgstr ""
 
-#: ./TutorialTom.dialog:356
+#: ./TutorialTom.dialog:383
 msgid "I'm also giving you another healing drink, just in case."
 msgstr ""
 
-#: ./TutorialTom.dialog:357
+#: ./TutorialTom.dialog:384
 msgid ""
 "A 247 is nothing to trifle with, so I'm giving you a shield in the hopes that "
 "it'll help keep you alive."
 msgstr ""
 
-#: ./TutorialTom.dialog:358
+#: ./TutorialTom.dialog:385
 msgid ""
 "Finally, I'm giving you couple of somewhat experimental pills that will tempor"
 "arily increase your strength and dexterity, respectively."
 msgstr ""
 
-#: ./TutorialTom.dialog:359
+#: ./TutorialTom.dialog:386
 msgid "Use them in the same way you would use a health drink."
 msgstr ""
 
-#: ./TutorialTom.dialog:360
+#: ./TutorialTom.dialog:387
 msgid ""
 "If I were you, I would think about using your repair equipment program on your"
 " armor and that wrench before you go into the room."
 msgstr ""
 
-#: ./TutorialTom.dialog:361
+#: ./TutorialTom.dialog:388
 msgid "You'll also need to equip them. I won't do that for you."
 msgstr ""
 
-#: ./TutorialTom.dialog:362
+#: ./TutorialTom.dialog:389
 msgid ""
-"Like the last bot, this one will be carrying an item. Bring me the Tachyon Con"
-"densator it is carrying to continue."
+"Like the last bot, this one will be carrying an item. Bring me the [b]Tachyon "
+"Condensator[/b] it is carrying to continue."
 msgstr ""
 
-#: ./TutorialTom.dialog:363
+#: ./TutorialTom.dialog:390
 msgid ""
 "I've unlocked the door. Good luck, and talk to me when you have the Tachyon Co"
 "ndensator."
 msgstr ""
 
-#: ./TutorialTom.dialog:375
+#: ./TutorialTom.dialog:402
 msgid "I've beaten the second bot."
 msgstr ""
 
-#: ./TutorialTom.dialog:378
+#: ./TutorialTom.dialog:405
 msgid "Very good! You've completed your melee training."
 msgstr ""
 
-#: ./TutorialTom.dialog:379
+#: ./TutorialTom.dialog:406
 msgid "These skills will serve you well in the future."
 msgstr ""
 
-#: ./TutorialTom.dialog:380
+#: ./TutorialTom.dialog:407
 msgid ""
 "As a reward, I'm trading you a .22 Automatic pistol for that Tachyon Condensat"
 "or."
 msgstr ""
 
-#: ./TutorialTom.dialog:381
+#: ./TutorialTom.dialog:408
 msgid "Talk to me when you're ready to move on to the next part of the tutorial."
 msgstr ""
 
-#: ./TutorialTom.dialog:388
+#: ./TutorialTom.dialog:415
 msgid ""
 "You didn't bring back the Tachyon Condensator. You'll need to bring it back be"
 "fore we can continue."
 msgstr ""
 
-#: ./TutorialTom.dialog:389
+#: ./TutorialTom.dialog:416
 msgid ""
 "I'll go ahead and heal you. If your weapon or armor are in bad shape, perhaps "
 "you should repair them before going back in there."
 msgstr ""
 
-#: ./TutorialTom.dialog:390
-msgid "Don't come back without the Tachyon Condensator."
+#: ./TutorialTom.dialog:417
+msgid "Don't come back without the [b]Tachyon Condensator[/b]."
 msgstr ""
 
-#: ./TutorialTom.dialog:397
-#: ./TutorialTom.dialog:490
+#: ./TutorialTom.dialog:424
+#: ./TutorialTom.dialog:532
 msgid "I'm ready to move on."
 msgstr ""
 
-#: ./TutorialTom.dialog:400
+#: ./TutorialTom.dialog:427
+msgid "I decided to move on and go to the shooting tutorial."
+msgstr ""
+
+#: ./TutorialTom.dialog:430
 msgid "I'll bet you're itching to try that pistol out on some bots."
 msgstr ""
 
-#: ./TutorialTom.dialog:401
+#: ./TutorialTom.dialog:431
 msgid "Our next destination is the ranged combat training area, so you're in luck."
 msgstr ""
 
-#: ./TutorialTom.dialog:403
+#: ./TutorialTom.dialog:433
 msgid ""
 "I'll unlock the door to the south. Follow the corridor east to the shooting ra"
 "nge."
 msgstr ""
 
-#: ./TutorialTom.dialog:410
+#: ./TutorialTom.dialog:440
 msgid "Ranged weaponry seems safer than getting up close and personal."
 msgstr ""
 
-#: ./TutorialTom.dialog:412
+#: ./TutorialTom.dialog:442
 msgid "Well, Linarian, most of the time, it is."
 msgstr ""
 
-#: ./TutorialTom.dialog:413
+#: ./TutorialTom.dialog:443
 msgid ""
 "There are some bots with ranged weaponry, but we don't have any of those in ca"
 "ptivity."
 msgstr ""
 
-#: ./TutorialTom.dialog:418
+#: ./TutorialTom.dialog:444
+#: ./TutorialTom.dialog:474
+#: ./TutorialTom.dialog:497
+#: ./TutorialTom.dialog:516
+#: ./TutorialTom.dialog:522
+#: ./TutorialTom.dialog:550
+#: ./TutorialTom.dialog:559
+#: ./TutorialTom.dialog:566
+msgid "Tutorial Shooting"
+msgstr ""
+
+#: ./TutorialTom.dialog:444
+msgid "I am learning about how to use ranged weapons."
+msgstr ""
+
+#: ./TutorialTom.dialog:449
 msgid "So what can you tell me about guns?"
 msgstr ""
 
-#: ./TutorialTom.dialog:420
+#: ./TutorialTom.dialog:451
 msgid ""
 "The basic idea behind ranged weaponry is to hurt or kill an enemy without havi"
 "ng to come in swinging range."
 msgstr ""
 
-#: ./TutorialTom.dialog:421
+#: ./TutorialTom.dialog:452
 msgid ""
 "There are three basic ways to do this: traditional firearms, lasers, and plasm"
 "a weapons."
 msgstr ""
 
-#: ./TutorialTom.dialog:422
+#: ./TutorialTom.dialog:453
 msgid ""
 "Traditional firearms are things that go bang. A small explosion accelerates th"
 "e ammunition towards the target at a high velocity, causing injury."
 msgstr ""
 
-#: ./TutorialTom.dialog:423
+#: ./TutorialTom.dialog:454
 msgid ""
 "Lasers use an intensified beam of light to burn through the intended victim. T"
 "hese operate on replaceable charge packs."
 msgstr ""
 
-#: ./TutorialTom.dialog:424
+#: ./TutorialTom.dialog:455
 msgid ""
 "Plasma weapons use superheated ionized gas to burn the target. The gas comes i"
 "n loadable canisters."
 msgstr ""
 
-#: ./TutorialTom.dialog:425
+#: ./TutorialTom.dialog:456
 msgid ""
 "Most other ranged weapons are variations of these three. We have a few in stor"
 "age for training purposes."
 msgstr ""
 
-#: ./TutorialTom.dialog:430
+#: ./TutorialTom.dialog:461
 msgid "So how do I use guns?"
 msgstr ""
 
-#: ./TutorialTom.dialog:432
+#: ./TutorialTom.dialog:463
 msgid ""
 "Well, firing is pretty simple. First, equip a ranged weapon that you have ammu"
 "nition for."
 msgstr ""
 
-#: ./TutorialTom.dialog:433
-msgid "Next, simply left click on your target, and you'll begin firing."
+#: ./TutorialTom.dialog:464
+msgid "Next, simply [b]left click[/b] on your target, and you'll begin firing."
 msgstr ""
 
-#: ./TutorialTom.dialog:434
+#: ./TutorialTom.dialog:465
 msgid ""
-"Alternatively, you can select the Fire Weapon program, and right click on the "
-"enemy."
+"Alternatively, you can fire a single shot using the [b]Fire Weapon[/b] program"
+", and [b]right clicking[/b] on the enemy."
 msgstr ""
 
-#: ./TutorialTom.dialog:435
+#: ./TutorialTom.dialog:466
 msgid ""
 "That is the best way if you are trying to conserve precious ammo with high rat"
 "e of fire guns."
 msgstr ""
 
-#: ./TutorialTom.dialog:436
+#: ./TutorialTom.dialog:467
 msgid ""
-"There are a couple of new tricks with ranged weapons. If you want to move whil"
-"e firing, simply hold shift and left click your desired position."
+"There are a couple of new tricks with ranged weapons. If you want to [b]move w"
+"hile firing[/b]: hold [b]shift[/b] and [b]left click[/b] your desired position"
+"."
 msgstr ""
 
-#: ./TutorialTom.dialog:437
-msgid "If you'd rather stay in place, Hold A, then left click your target."
+#: ./TutorialTom.dialog:468
+msgid ""
+"If you'd rather stay in place: Hold [b]A[/b], then [b]left click[/b] your targ"
+"et."
 msgstr ""
 
-#: ./TutorialTom.dialog:438
+#: ./TutorialTom.dialog:469
 msgid ""
 "When your weapon runs out of ammo during combat, it will try to automatically "
 "reload if you have extra ammunition for it."
 msgstr ""
 
-#: ./TutorialTom.dialog:439
+#: ./TutorialTom.dialog:470
 msgid ""
 "Sometimes, you will need or want to manually reload. You can do this by pressi"
-"ng R."
+"ng the [b]R key[/b]."
 msgstr ""
 
-#: ./TutorialTom.dialog:444
+#: ./TutorialTom.dialog:471
+msgid ""
+"If you are reloading, or you are out of ammo, the small message screen at the "
+"bottom of your HUD will tell you what type of ammo to get."
+msgstr ""
+
+#: ./TutorialTom.dialog:474
+msgid ""
+"If I have equipped a ranged weapon and I left click on an enemy, I will begin "
+"firing upon it until my gun is empty, and automatically reload. But if I want "
+"to fire a single shot, I need to also equip the Fire Weapon program, and then "
+"right click. To move while firing, I have to shift + left click to where I wan"
+"t to go. Also, if I want to manually reload I have to press the R key. The sma"
+"ll message screen at the bottom of my HUD will tell me if I'm reloading or out"
+" of ammunition."
+msgstr ""
+
+#: ./TutorialTom.dialog:480
 msgid "I think I understand how to use guns now."
 msgstr ""
 
-#: ./TutorialTom.dialog:446
+#: ./TutorialTom.dialog:482
 msgid ""
 "In that case, I'll let you in to the armory. There are some crates and chests "
 "in there with weapons and ammunition."
 msgstr ""
 
-#: ./TutorialTom.dialog:447
+#: ./TutorialTom.dialog:483
 msgid "Be careful though, smashing open crates and barrels could hurt you."
 msgstr ""
 
-#: ./TutorialTom.dialog:449
+#: ./TutorialTom.dialog:485
 msgid ""
 "You already got the .22 pistol I gave you earlier when destroying that 247. It"
 "'s not much as guns go, but it can do the trick."
 msgstr ""
 
-#: ./TutorialTom.dialog:451
+#: ./TutorialTom.dialog:487
 msgid ""
 "Here's my personal .22 Automatic pistol. It's not much as guns go, but it can "
 "do the trick."
 msgstr ""
 
-#: ./TutorialTom.dialog:454
+#: ./TutorialTom.dialog:490
 msgid "Here is some more ammunition for it"
 msgstr ""
 
-#: ./TutorialTom.dialog:457
+#: ./TutorialTom.dialog:493
 msgid ""
 "You'll no doubt get more mileage out of the plasma pistol, though. Or any othe"
 "r gun, for that matter."
 msgstr ""
 
-#: ./TutorialTom.dialog:458
+#: ./TutorialTom.dialog:494
 msgid "Practice switching weapons and reloading."
 msgstr ""
 
-#: ./TutorialTom.dialog:459
+#: ./TutorialTom.dialog:495
 msgid ""
 "On the other side of that fence are some bots. Practice killing them off with "
 "various ranged weapons."
 msgstr ""
 
-#: ./TutorialTom.dialog:460
+#: ./TutorialTom.dialog:496
 msgid "Once you've gotten rid of them all, we can move on."
 msgstr ""
 
-#: ./TutorialTom.dialog:472
+#: ./TutorialTom.dialog:497
+msgid "Tutorial Tom wants me to shoot those bots."
+msgstr ""
+
+#: ./TutorialTom.dialog:507
+msgid "I ran out of ammo. Can I have some more?"
+msgstr ""
+
+#: ./TutorialTom.dialog:509
+msgid "Check the storage room to the west for more guns and ammo."
+msgstr ""
+
+#: ./TutorialTom.dialog:514
 msgid "I killed all the bots."
 msgstr ""
 
-#: ./TutorialTom.dialog:475
+#: ./TutorialTom.dialog:517
 msgid "Excellent job."
 msgstr ""
 
-#: ./TutorialTom.dialog:476
+#: ./TutorialTom.dialog:518
 msgid ""
 "Keep shooting like that, and the bots will never stand a chance, as long as yo"
 "u still have ammo."
 msgstr ""
 
-#: ./TutorialTom.dialog:477
-msgid "Next, we'll be moving on to learning the TakeOver program."
+#: ./TutorialTom.dialog:519
+msgid "Next, we'll be moving on to learning the [b]Hacking[/b] program."
 msgstr ""
 
-#: ./TutorialTom.dialog:478
+#: ./TutorialTom.dialog:520
 msgid "But first, you'll need to give me your weapons."
 msgstr ""
 
-#: ./TutorialTom.dialog:479
+#: ./TutorialTom.dialog:521
 msgid ""
 "Put all your ranged weapons in your inventory, then talk to me and we'll move "
 "on."
 msgstr ""
 
-#: ./TutorialTom.dialog:484
+#: ./TutorialTom.dialog:522
+msgid "That was like shooting fish in a barrel. I could use a fish about now."
+msgstr ""
+
+#: ./TutorialTom.dialog:526
 msgid "I don't mind if you don't want to do this, but please don't try to trick me."
 msgstr ""
 
-#: ./TutorialTom.dialog:485
-msgid "I don't have verified kills on all those bots, so you're not moving on."
+#: ./TutorialTom.dialog:527
+msgid "I don't have verified kills on all those bots."
 msgstr ""
 
-#: ./TutorialTom.dialog:493
-msgid "Thank you, Linarian. We'll now move on to hacking."
-msgstr ""
-
-#: ./TutorialTom.dialog:501
+#: ./TutorialTom.dialog:537
+#: ./TutorialTom.dialog:553
 msgid "I'll need you to surrender your guns. Unequip them all, then talk to me again."
 msgstr ""
 
-#: ./TutorialTom.dialog:502
+#: ./TutorialTom.dialog:538
+#: ./TutorialTom.dialog:554
 msgid ""
 "You will need to have the guns in your inventory to give them to me, so if you"
 " dropped them, please go get them."
 msgstr ""
 
-#: ./TutorialTom.dialog:503
+#: ./TutorialTom.dialog:539
+#: ./TutorialTom.dialog:555
 msgid "That includes the laser and plasma pistols in the storage room to the west."
 msgstr ""
 
-#: ./TutorialTom.dialog:509
+#: ./TutorialTom.dialog:545
 msgid "I'd rather just move on to the next section of the tutorial."
 msgstr ""
 
-#: ./TutorialTom.dialog:511
+#: ./TutorialTom.dialog:547
 msgid "As you wish, Linarian."
 msgstr ""
 
-#: ./TutorialTom.dialog:520
+#: ./TutorialTom.dialog:550
+#: ./TutorialTom.dialog:559
+msgid "I decided not to finish the shooting tutorial."
+msgstr ""
+
+#: ./TutorialTom.dialog:562
+msgid "I'll need you to surrender your .22 pistol. Unequip it, then talk to me again."
+msgstr ""
+
+#: ./TutorialTom.dialog:566
+msgid "I decided not to do the shooting tutorial."
+msgstr ""
+
+#: ./TutorialTom.dialog:578
+msgid "Thank you, Linarian. We'll now move on to hacking."
+msgstr ""
+
+#: ./TutorialTom.dialog:585
 msgid "Why are we stopping?"
 msgstr ""
 
-#: ./TutorialTom.dialog:522
+#: ./TutorialTom.dialog:587
 msgid "You've done well so far, Linarian. Let's take a little break."
 msgstr ""
 
-#: ./TutorialTom.dialog:523
+#: ./TutorialTom.dialog:588
 msgid ""
 "Once you get out into the real world, you'll find that your current abilities "
 "aren't always enough to survive."
 msgstr ""
 
-#: ./TutorialTom.dialog:524
+#: ./TutorialTom.dialog:589
 msgid ""
 "As you achieve combat experience, you'll be able to apply it to better yoursel"
 "f."
 msgstr ""
 
-#: ./TutorialTom.dialog:525
+#: ./TutorialTom.dialog:590
 msgid ""
-"As with most things, you view this as a panel in your HUD. Press C to open the"
-" Character panel."
+"As with most things, you view this as a panel in your HUD. Press the [b]C key["
+"/b] to open the [b]Character panel[/b]."
 msgstr ""
 
-#: ./TutorialTom.dialog:526
+#: ./TutorialTom.dialog:591
 msgid ""
 "Once you've gained enough experience, you'll level up. This will automatically"
 " improve some of your statistics."
 msgstr ""
 
-#: ./TutorialTom.dialog:527
+#: ./TutorialTom.dialog:592
 msgid ""
 "You'll also be given 5 points to spend however you choose in three different a"
 "reas. Characteristics, Skills and Programs."
 msgstr ""
 
-#: ./TutorialTom.dialog:528
-msgid "Strength governs the amount of damage you do with each hit in melee combat."
-msgstr ""
-
-#: ./TutorialTom.dialog:529
+#: ./TutorialTom.dialog:593
 msgid ""
-"Dexterity controls your hit rate, or how likely you are to hit the enemy. It a"
-"lso determines how likely you are to dodge a hit from them."
+"[b]Strength[/b] governs the amount of damage you do with each hit in melee com"
+"bat."
 msgstr ""
 
-#: ./TutorialTom.dialog:530
+#: ./TutorialTom.dialog:594
 msgid ""
-"CPU is your processors cooling. or heat resilience, and determines how much yo"
-"u can process before your system starts overheating."
+"[b]Dexterity[/b] controls your hit rate, or how likely you are to hit the enem"
+"y. It also determines how likely you are to dodge a hit from them."
 msgstr ""
 
-#: ./TutorialTom.dialog:531
+#: ./TutorialTom.dialog:595
 msgid ""
-"Finally, among your main characteristics, Life determines how much health you "
-"have."
+"[b]Cooling[/b] is your processors cooling. or heat resilience, and determines "
+"how much you can process before your system starts overheating."
 msgstr ""
 
-#: ./TutorialTom.dialog:532
+#: ./TutorialTom.dialog:596
 msgid ""
-"You also have 3 main skills that you can improve with the use of your training"
-" points and a teacher."
+"Finally, among your main characteristics, [b]Physique[/b] determines how much "
+"health you have."
 msgstr ""
 
-#: ./TutorialTom.dialog:533
+#: ./TutorialTom.dialog:597
 msgid ""
-"They are general Melee and Ranged fighting skills, both of which increase the "
-"damage you inflict and how fast you attack as you improve them."
+"They are general [b]Melee[/b] and [b]Ranged[/b] fighting skills, both of which"
+" increase the damage you inflict and how fast you attack as you improve them."
 msgstr ""
 
-#: ./TutorialTom.dialog:534
+#: ./TutorialTom.dialog:598
 msgid ""
-"You also have the Programming skill, which essentially is about programming in"
-" an energy efficient manner so programs cause less heat."
+"You also have the [b]Programming[/b] skill, which essentially is about program"
+"ming in an energy efficient manner so programs cause less heat."
 msgstr ""
 
-#: ./TutorialTom.dialog:535
+#: ./TutorialTom.dialog:599
 msgid ""
 "Apart from this, a few programs require a teacher and training points to impro"
 "ve."
 msgstr ""
 
-#: ./TutorialTom.dialog:536
+#: ./TutorialTom.dialog:600
 msgid ""
-"Extract bot parts is a special passive skill that will allow you to salvage pa"
-"rts from bots you 'retire', which you can trade for money in the town."
+"[b]Extract Bot Parts[/b] is a special passive skill that will allow you to sal"
+"vage parts from bots you 'retire', which you can trade for money in the town."
 msgstr ""
 
-#: ./TutorialTom.dialog:537
-msgid "The Hacking program we will speak a bit more of in a little while."
+#: ./TutorialTom.dialog:601
+msgid "The [b]Hacking[/b] program we will speak a bit more of in a little while."
 msgstr ""
 
-#: ./TutorialTom.dialog:544
+#: ./TutorialTom.dialog:606
+msgid "I'll have to keep that in mind."
+msgstr ""
+
+#: ./TutorialTom.dialog:608
 msgid "Well, how about you try it out?"
 msgstr ""
 
-#: ./TutorialTom.dialog:545
+#: ./TutorialTom.dialog:609
 msgid "I'll give you some points to spend, and you can distribute them as you like."
 msgstr ""
 
-#: ./TutorialTom.dialog:546
+#: ./TutorialTom.dialog:610
 msgid ""
-"Since you'll be hacking up ahead, you should probably use a few of them on CPU"
-"."
+"Since you'll be hacking up ahead, you should probably use a few of them on [b]"
+"Cooling[/b]."
 msgstr ""
 
-#: ./TutorialTom.dialog:547
+#: ./TutorialTom.dialog:611
 msgid "But, again, that's your choice."
 msgstr ""
 
-#: ./TutorialTom.dialog:554
+#: ./TutorialTom.dialog:618
 msgid "Alright, I'm ready to go hack some bots."
 msgstr ""
 
-#: ./TutorialTom.dialog:556
-msgid "I'll unlock the door then. Talk to me in the next area."
+#: ./TutorialTom.dialog:620
+msgid "First, you'll need to unlock the door."
 msgstr ""
 
-#: ./TutorialTom.dialog:563
+#: ./TutorialTom.dialog:621
+msgid "See that [b]Terminal[/b] to the left?"
+msgstr ""
+
+#: ./TutorialTom.dialog:622
+msgid "You will need to login, by left clicking on it, and then select unlock door."
+msgstr ""
+
+#: ./TutorialTom.dialog:623
+msgid "Terminals act very similar to hacked bots."
+msgstr ""
+
+#: ./TutorialTom.dialog:624
+#: ./TutorialTom.dialog:657
+#: ./TutorialTom.dialog:721
+#: ./TutorialTom.dialog:732
+#: ./TutorialTom.dialog:739
+msgid "Tutorial Hacking"
+msgstr ""
+
+#: ./TutorialTom.dialog:624
+msgid ""
+"I need to login to the Terminal by left clicking on it. Then I'll unlock the d"
+"oor, so I can go hack some bots!"
+msgstr ""
+
+#: ./TutorialTom.dialog:630
 msgid "So how does this work?"
 msgstr ""
 
-#: ./TutorialTom.dialog:565
+#: ./TutorialTom.dialog:632
 msgid ""
 "We talked about programs before. Now, we're going to focus on hacking programs"
 " in particular."
 msgstr ""
 
-#: ./TutorialTom.dialog:566
+#: ./TutorialTom.dialog:633
 msgid ""
 "As I mentioned before, your brain works in a way remarkably similar to a centr"
 "al processing unit."
 msgstr ""
 
-#: ./TutorialTom.dialog:567
+#: ./TutorialTom.dialog:634
 msgid "In many ways, you interact with the world around you as a virtual environment."
 msgstr ""
 
-#: ./TutorialTom.dialog:568
+#: ./TutorialTom.dialog:635
 msgid ""
 "You seem to have access to an API that isn't exposed to humans. You can intera"
 "ct with the environment in ways we only dream of."
 msgstr ""
 
-#: ./TutorialTom.dialog:569
+#: ./TutorialTom.dialog:636
 msgid "Because of this, you can run various programs on the bots."
 msgstr ""
 
-#: ./TutorialTom.dialog:570
+#: ./TutorialTom.dialog:637
 msgid ""
 "You can attempt to take them over, or monkey with their programming, or even c"
 "ause them to damage themselves."
 msgstr ""
 
-#: ./TutorialTom.dialog:571
+#: ./TutorialTom.dialog:638
 msgid "Likewise, there are certain programs that affect you or items around you."
 msgstr ""
 
-#: ./TutorialTom.dialog:576
+#: ./TutorialTom.dialog:643
 msgid "Tell me about taking bots over."
 msgstr ""
 
-#: ./TutorialTom.dialog:578
+#: ./TutorialTom.dialog:645
 msgid ""
 "I'm afraid that you will have to experience it for yourself to really understa"
 "nd."
 msgstr ""
 
-#: ./TutorialTom.dialog:579
+#: ./TutorialTom.dialog:646
 msgid ""
 "However, you did leave yourself instructions before you went into stasis sleep"
 "."
 msgstr ""
 
-#: ./TutorialTom.dialog:580
+#: ./TutorialTom.dialog:647
 msgid ""
-"Takeover, or hacking, comes in the form of a game or competition placing you a"
-"gainst the bot."
+"Taking over a bot comes in the form of a game or competition placing you again"
+"st the bot."
 msgstr ""
 
-#: ./TutorialTom.dialog:581
+#: ./TutorialTom.dialog:648
 msgid ""
-"You initiate it by selecting the Hacking program, then right-clicking on a hos"
-"tile bot."
+"You initiate it by selecting the [b]Hacking[/b] program, then [b]right-clickin"
+"g[/b] on a hostile bot."
 msgstr ""
 
-#: ./TutorialTom.dialog:582
+#: ./TutorialTom.dialog:649
 msgid ""
 "The field of play is split into two sides, one green, one maroon, representing"
 " circuit boards."
 msgstr ""
 
-#: ./TutorialTom.dialog:583
+#: ./TutorialTom.dialog:650
 msgid ""
 "In the center of the field is a column of boxes known as logic cores. These co"
 "res have wires attached to them from both circuit boards."
 msgstr ""
 
-#: ./TutorialTom.dialog:584
+#: ./TutorialTom.dialog:651
 msgid ""
 "Your objective is to activate as many cores in your chosen color as possible a"
 "t the end of each round."
 msgstr ""
 
-#: ./TutorialTom.dialog:585
+#: ./TutorialTom.dialog:652
 msgid ""
 "This is accomplished by selecting a wire with the up or down buttons, then pre"
 "ssing spacebar to activate that core."
 msgstr ""
 
-#: ./TutorialTom.dialog:586
+#: ./TutorialTom.dialog:653
 msgid ""
 "You will be given about 10 seconds initially to select which color you want wi"
 "th spacebar."
 msgstr ""
 
-#: ./TutorialTom.dialog:587
+#: ./TutorialTom.dialog:654
 msgid ""
 "At that point, you have 10 more seconds in which to activate more cores than t"
 "he bot."
 msgstr ""
 
-#: ./TutorialTom.dialog:588
+#: ./TutorialTom.dialog:655
 msgid ""
 "You have a limited number of charges, 3 by default, so choose your targets car"
 "efully."
 msgstr ""
 
-#: ./TutorialTom.dialog:589
+#: ./TutorialTom.dialog:656
 msgid "I can tell you about some more advanced techniques, if you'd like."
 msgstr ""
 
-#: ./TutorialTom.dialog:594
+#: ./TutorialTom.dialog:657
+msgid ""
+"Apparently in order to hack, all I have to do is select the Hacking program, r"
+"ight click a bot, and play a little game. I've got this!"
+msgstr ""
+
+#: ./TutorialTom.dialog:662
 msgid "What was that about activating more cores than the bot?"
 msgstr ""
 
-#: ./TutorialTom.dialog:596
+#: ./TutorialTom.dialog:664
 msgid ""
 "Ah, yes. While you are busy trying to take the bot over, it will be busy tryin"
 "g to stop you."
 msgstr ""
 
-#: ./TutorialTom.dialog:597
+#: ./TutorialTom.dialog:665
 msgid ""
 "The truth is, if the bot programming was perfect, it would be almost impossibl"
 "e to defeat."
 msgstr ""
 
-#: ./TutorialTom.dialog:598
+#: ./TutorialTom.dialog:666
 msgid ""
 "Fortunately for you, software bugs do indeed exist, and therefore some cores w"
 "ill be on your side from the beginning."
 msgstr ""
 
-#: ./TutorialTom.dialog:599
+#: ./TutorialTom.dialog:667
 msgid ""
 "Likewise, the bots only have a limited number of charges. Occasionally, they w"
 "ill have more than you, but that is a risk you have to take."
 msgstr ""
 
-#: ./TutorialTom.dialog:600
+#: ./TutorialTom.dialog:668
 msgid ""
 "Because you are initiating the attack, you do get to choose your side, which c"
 "an let you handicap the bot greatly if used wisely."
 msgstr ""
 
-#: ./TutorialTom.dialog:605
+#: ./TutorialTom.dialog:673
 msgid "Tell me about more advanced techniques."
 msgstr ""
 
-#: ./TutorialTom.dialog:607
+#: ./TutorialTom.dialog:675
 msgid ""
 "Each charge will activate and remain active for a certain amount of time. This"
 " will let you take over a core that a bot just took over."
 msgstr ""
 
-#: ./TutorialTom.dialog:608
+#: ./TutorialTom.dialog:676
 msgid ""
 "Sometimes, the bots will already have charges on the wires. When you activate "
 "one of these, it will increase the time that wire is activated for."
 msgstr ""
 
-#: ./TutorialTom.dialog:609
+#: ./TutorialTom.dialog:677
 msgid ""
 "The bot can use this trick to, so it may be wise to give up a heavily guarded "
 "wire for an easier target."
 msgstr ""
 
-#: ./TutorialTom.dialog:610
+#: ./TutorialTom.dialog:678
 msgid ""
 "The wiring inside the bots sometimes contain splitters. These can be used in t"
 "wo ways."
 msgstr ""
 
-#: ./TutorialTom.dialog:611
+#: ./TutorialTom.dialog:679
 msgid ""
 "A 2-to-1 splitter is undesirable. This requires two charges to activate one co"
 "re, halving your efficiency."
 msgstr ""
 
-#: ./TutorialTom.dialog:612
+#: ./TutorialTom.dialog:680
 msgid ""
 "A 1-to-2 splitter, however, will activate two nodes for the price of one charg"
 "e."
 msgstr ""
 
-#: ./TutorialTom.dialog:613
+#: ./TutorialTom.dialog:681
 msgid ""
 "Sometimes these splitters will be stacked. Tracing the route ahead of time wil"
 "l be crucial to your tactical success."
 msgstr ""
 
-#: ./TutorialTom.dialog:614
+#: ./TutorialTom.dialog:682
 msgid ""
 "Ideally, you want to stick your opponent with 2-to-1 splitters, while you have"
 " 1-to-2 splitters at your disposal."
 msgstr ""
 
-#: ./TutorialTom.dialog:615
+#: ./TutorialTom.dialog:683
 msgid ""
 "Finally, remember that patience is often a virtue. Taking over all cores early"
 " on only to lose them later can be a crushing blow."
 msgstr ""
 
-#: ./TutorialTom.dialog:620
+#: ./TutorialTom.dialog:688
 msgid "I'm ready to try hacking bots."
 msgstr ""
 
-#: ./TutorialTom.dialog:622
+#: ./TutorialTom.dialog:690
 msgid "I certainly hope so."
 msgstr ""
 
-#: ./TutorialTom.dialog:623
+#: ./TutorialTom.dialog:691
 msgid "I should, however, take the time to tell you a few more things."
 msgstr ""
 
-#: ./TutorialTom.dialog:624
+#: ./TutorialTom.dialog:692
 msgid "Hacking, like most other programs, incurs a cost to you."
 msgstr ""
 
-#: ./TutorialTom.dialog:625
+#: ./TutorialTom.dialog:693
 msgid "Processing programs seems to heat up your brain."
 msgstr ""
 
-#: ./TutorialTom.dialog:626
+#: ./TutorialTom.dialog:694
 msgid "You seem to be able to handle quite a bit of heat, but you have your limits."
 msgstr ""
 
-#: ./TutorialTom.dialog:627
+#: ./TutorialTom.dialog:695
 msgid ""
 "If you accumulate too much heat, you will automatically shut down in order to "
 "cool off."
 msgstr ""
 
-#: ./TutorialTom.dialog:628
+#: ./TutorialTom.dialog:696
 msgid ""
 "Over time, the heat will seep away from your body naturally. However, there ar"
 "e ways to speed up the process."
 msgstr ""
 
-#: ./TutorialTom.dialog:629
+#: ./TutorialTom.dialog:697
 msgid ""
 "If you can find them, cooling drinks will quickly relieve your thermal discomf"
 "ort, in much the same way healing drinks help your health."
 msgstr ""
 
-#: ./TutorialTom.dialog:630
+#: ./TutorialTom.dialog:698
 msgid ""
-"You also have a special program called Emergency Shutdown that will lower your"
-" heat level drastically, although not without cost."
+"Remember you also have a special program called [b]Emergency Shutdown[/b] that"
+" will lower your heat level drastically. Unfortunately using Emergency Shutdow"
+"n will shut you down and render you paralyzed for several seconds. It makes yo"
+"u a sitting duck... er, penguin."
 msgstr ""
 
-#: ./TutorialTom.dialog:631
-msgid ""
-"Using it will paralyze you for several seconds, during which you are a sitting"
-" duck... er, penguin."
-msgstr ""
-
-#: ./TutorialTom.dialog:632
+#: ./TutorialTom.dialog:699
 msgid "I take it that was a joke also?"
 msgstr ""
 
-#: ./TutorialTom.dialog:633
+#: ./TutorialTom.dialog:700
 msgid "Quite."
 msgstr ""
 
-#: ./TutorialTom.dialog:634
+#: ./TutorialTom.dialog:701
 msgid ""
 "In addition to hacking, you have the ability to execute arbitrary code on bots"
 "."
 msgstr ""
 
-#: ./TutorialTom.dialog:635
+#: ./TutorialTom.dialog:702
 msgid ""
 "These scripts and programs can be learned through reading source code books. T"
 "o read a book, right-click on it in inventory."
 msgstr ""
 
-#: ./TutorialTom.dialog:636
+#: ./TutorialTom.dialog:703
 msgid ""
 "You should have recovered your hacking ability by now, and I'll give you a cou"
 "ple of source code books as well."
 msgstr ""
 
-#: ./TutorialTom.dialog:641
+#: ./TutorialTom.dialog:708
 msgid "Thanks. I'm ready now."
 msgstr ""
 
-#: ./TutorialTom.dialog:643
+#: ./TutorialTom.dialog:710
 msgid "We have several bots behind that fence for you to practice on."
 msgstr ""
 
-#: ./TutorialTom.dialog:644
+#: ./TutorialTom.dialog:711
 msgid ""
 "Take them over, then talk to me when they're all dead, and we'll be done with "
 "the tutorial."
 msgstr ""
 
-#: ./TutorialTom.dialog:645
+#: ./TutorialTom.dialog:712
 msgid "If you need more help, don't hesitate to ask."
 msgstr ""
 
-#: ./TutorialTom.dialog:646
+#: ./TutorialTom.dialog:713
 msgid ""
 "Oh, and Linarian... If you fail when hacking, you'll receive an electrical sho"
 "ck."
 msgstr ""
 
-#: ./TutorialTom.dialog:647
+#: ./TutorialTom.dialog:714
 msgid "It shouldn't kill you, but you need to be aware of it nonetheless."
 msgstr ""
 
-#: ./TutorialTom.dialog:662
+#: ./TutorialTom.dialog:721
+msgid ""
+"Tutorial Tom wants me to hack those bots. The only thing I need to worry about"
+" is overheating. But if I get too hot I can always try the Emergency shutdown "
+"program."
+msgstr ""
+
+#: ./TutorialTom.dialog:729
 msgid "I'm finished. I'm ready to move on."
 msgstr ""
 
-#: ./TutorialTom.dialog:666
+#: ./TutorialTom.dialog:733
 msgid "The bots aren't dead, Linarian."
 msgstr ""
 
-#: ./TutorialTom.dialog:667
+#: ./TutorialTom.dialog:734
 msgid "Come back and talk to me after they are."
 msgstr ""
 
-#: ./TutorialTom.dialog:668
-msgid "If you're having trouble, you might try the Malformed packet program."
+#: ./TutorialTom.dialog:735
+msgid "If you're having trouble, you might try the [b]Malformed Packet[/b] program."
 msgstr ""
 
-#: ./TutorialTom.dialog:670
+#: ./TutorialTom.dialog:737
 msgid "Well done! That concludes our tutorial."
 msgstr ""
 
-#: ./TutorialTom.dialog:676
+#: ./TutorialTom.dialog:739
+msgid "Well, it took a lot of work, but I showed those bots who's boss."
+msgstr ""
+
+#: ./TutorialTom.dialog:742
 msgid "Now, there's one last thing you should know."
 msgstr ""
 
-#: ./TutorialTom.dialog:677
+#: ./TutorialTom.dialog:743
 msgid "You Linarians can apparently withdraw from our world temporarily."
 msgstr ""
 
-#: ./TutorialTom.dialog:678
+#: ./TutorialTom.dialog:744
 msgid "Time stops, and everything freezes in place."
 msgstr ""
 
-#: ./TutorialTom.dialog:679
-msgid "This can be accomplished by using the Esc key."
+#: ./TutorialTom.dialog:745
+msgid "This can be accomplished by using the [b]Esc key[/b]."
 msgstr ""
 
-#: ./TutorialTom.dialog:680
-msgid "hacking_bots"
-msgstr ""
-
-#: ./TutorialTom.dialog:681
+#: ./TutorialTom.dialog:747
 msgid "Your final task is to leave us using this menu."
 msgstr ""
 
-#: ./TutorialTom.dialog:682
+#: ./TutorialTom.dialog:748
 msgid ""
 "I'm afraid there's nothing more I can teach you. I wish you good luck, Linaria"
 "n."
 msgstr ""
 
-#: ./TutorialTom.dialog:683
+#: ./TutorialTom.dialog:749
 msgid "You'll need it if our world is to survive."
 msgstr ""
 
-#: ./TutorialTom.dialog:690
+#: ./TutorialTom.dialog:756
 msgid "Tell me again about take over, I'm not sure I got it all."
 msgstr ""
 
-#: ./TutorialTom.dialog:692
+#: ./TutorialTom.dialog:758
 msgid "Tell me exactly what part you want me to explain again."
 msgstr ""
 
-#: ./TutorialTom.dialog:693
+#: ./TutorialTom.dialog:759
 msgid ""
 "But things will be much clearer once you try for yourself than when I try to e"
 "xplain."
 msgstr ""
 
-#: ./TutorialTom.dialog:694
+#: ./TutorialTom.dialog:760
 msgid "Use your experience as notes, and all should be clear."
 msgstr ""
 
-#: ./TutorialTom.dialog:699
+#: ./TutorialTom.dialog:765
 msgid "Let me take a short break and practice on my own for a while."
 msgstr ""
 
-#: ./TutorialTom.dialog:701
+#: ./TutorialTom.dialog:767
 msgid ""
 "Ok, I'll be around if you need any more questions answered. Don't hesitate to "
 "ask."

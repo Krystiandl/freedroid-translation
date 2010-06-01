@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"POT-Creation-Date: 2010-06-01 11:17+0000\n"
+"PO-Revision-Date: 2010-06-01 11:17+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -16,9 +16,9 @@ msgstr ""
 
 #: ./freedroid.program_archetypes:9
 msgid ""
-"Tux is gifted with the ability to hack any machine in no time. With this progr"
-"am selected and activated by pressing down the right mouse button over a hosti"
-"le machine, the takeover process will be initiated."
+"Tux is gifted with the ability to hack any hostile bot in no time. With this p"
+"rogram selected, initiate the takeover process by right clicking a hostile mac"
+"hine of your choice."
 msgstr ""
 
 #: ./freedroid.program_archetypes:19
@@ -27,11 +27,10 @@ msgstr ""
 
 #: ./freedroid.program_archetypes:20
 msgid ""
-"This skill allows to repair an item from the inventory. To use this skill, sel"
-"ect it, then open the inventory screen and then right click the mouse on the i"
-"tem you wish to repair. While repair doesn't 'cost' anything, the item will st"
-"ill lose some of its maximum duration in the process, but the current duration"
-" will be restored to this new maximum value."
+"Fully repair any item of your choice. To use this skill, select it, open the i"
+"nventory screen and then right click on the item you wish to repair. While Tux"
+" can repair items without incurring any cost, the item will get reduced maximu"
+"m durability."
 msgstr ""
 
 #: ./freedroid.program_archetypes:28
@@ -40,8 +39,8 @@ msgstr ""
 
 #: ./freedroid.program_archetypes:29
 msgid ""
-"Using this skill allows you to force an attack on something not normally a tar"
-"get or for firing single shots with automatic weapons."
+"This skill allows you to force an attack on something not normally a target or"
+" firing single shots with automatic weapons."
 msgstr ""
 
 #: ./freedroid.program_archetypes:37

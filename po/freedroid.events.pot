@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"POT-Creation-Date: 2010-06-01 11:17+0000\n"
+"PO-Revision-Date: 2010-06-01 11:17+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -103,31 +103,52 @@ msgstr ""
 msgid "Back to the Desert"
 msgstr ""
 
-#: ./freedroid.events:371
+#: ./freedroid.events:367
+msgid "Red Square"
+msgstr ""
+
+#: ./freedroid.events:373
+msgid "Good, now move to the black grating to the East."
+msgstr ""
+
+#: ./freedroid.events:374
+#: ./freedroid.events:386
+msgid "Quest log updated"
+msgstr ""
+
+#: ./freedroid.events:380
+msgid "Black Dot"
+msgstr ""
+
+#: ./freedroid.events:385
+msgid "Good, now talk to Tutorial Tom again."
+msgstr ""
+
+#: ./freedroid.events:395
 msgid "To a Forgotten Bunker"
 msgstr ""
 
-#: ./freedroid.events:387
+#: ./freedroid.events:411
 msgid "Unknown place"
 msgstr ""
 
-#: ./freedroid.events:407
+#: ./freedroid.events:431
 msgid "Hidden way out"
 msgstr ""
 
-#: ./freedroid.events:463
+#: ./freedroid.events:487
 msgid "Back to Disruptor Shield Control"
 msgstr ""
 
-#: ./freedroid.events:472
+#: ./freedroid.events:496
 msgid "To Mashine Deck Lower Catacombs"
 msgstr ""
 
-#: ./freedroid.events:484
+#: ./freedroid.events:508
 msgid "Back to Machine Deck Upper Catacombs"
 msgstr ""
 
-#: ./freedroid.events:493
+#: ./freedroid.events:517
 msgid "To Disruptor Mashine Deck"
 msgstr ""
 

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"POT-Creation-Date: 2010-06-01 11:17+0000\n"
+"PO-Revision-Date: 2010-06-01 11:17+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -58,7 +58,7 @@ msgstr ""
 
 #: ./DSB-PowerControlGate1.dialog:64
 msgid ""
-"Contact personell in Machine Deck Control Room if you believe this to be in er"
+"Contact personnel in Machine Deck Control Room if you believe this to be in er"
 "ror."
 msgstr ""
 
@@ -101,5 +101,13 @@ msgstr ""
 
 #: ./DSB-PowerControlGate1.dialog:102
 msgid "Have a nice day."
+msgstr ""
+
+#: ./DSB-PowerControlGate1.dialog:102
+msgid "Have a wonderful day."
+msgstr ""
+
+#: ./DSB-PowerControlGate1.dialog:102
+msgid "Hope your day will be most productive."
 msgstr ""
 

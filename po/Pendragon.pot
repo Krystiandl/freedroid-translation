@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"POT-Creation-Date: 2010-06-01 11:17+0000\n"
+"PO-Revision-Date: 2010-06-01 11:17+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -28,199 +28,227 @@ msgstr ""
 msgid "And in case you couldn't tell, that was sarcasm."
 msgstr ""
 
-#: ./Pendragon.dialog:50
+#: ./Pendragon.dialog:46
+msgid "Fighter"
+msgstr ""
+
+#: ./Pendragon.dialog:51
 msgid "Could you teach me how to fight?"
 msgstr ""
 
-#: ./Pendragon.dialog:53
+#: ./Pendragon.dialog:54
 msgid "NO! NO! Er... I mean, not right now. I am busy. Come again later."
 msgstr ""
 
-#: ./Pendragon.dialog:55
+#: ./Pendragon.dialog:56
 msgid "Sure. I can help you."
 msgstr ""
 
-#: ./Pendragon.dialog:56
+#: ./Pendragon.dialog:57
 msgid "For a price. Hundred circuits should be enough."
 msgstr ""
 
 #: ./Pendragon.dialog:62
-msgid "Teach me the basic stuff."
+msgid "Do you have a name?"
 msgstr ""
 
 #: ./Pendragon.dialog:64
-msgid "Are you sure?"
+msgid "I go by Pendragon, because I can pull a knife from thin air."
 msgstr ""
 
 #: ./Pendragon.dialog:65
-msgid "I only accept students that already have some experience in fighting bots."
+msgid "And you?"
 msgstr ""
 
-#: ./Pendragon.dialog:70
-msgid "Yes (cost 100 valuable circuits, 5 ability points)"
+#: ./Pendragon.dialog:66
+msgid ", because it is my name?"
+msgstr ""
+
+#: ./Pendragon.dialog:67
+msgid "Pendragon -- Fighter"
+msgstr ""
+
+#: ./Pendragon.dialog:72
+msgid "Teach me the basic stuff."
+msgstr ""
+
+#: ./Pendragon.dialog:74
+msgid "Are you sure?"
 msgstr ""
 
 #: ./Pendragon.dialog:75
-msgid "Let us begin then."
-msgstr ""
-
-#: ./Pendragon.dialog:76
-msgid "Come closer..."
-msgstr ""
-
-#: ./Pendragon.dialog:77
-msgid "HA!"
-msgstr ""
-
-#: ./Pendragon.dialog:78
-msgid "Ouch! What the hell are you doing?"
-msgstr ""
-
-#: ./Pendragon.dialog:79
-msgid "Lesson number one. Never trust the opponent."
+msgid "I only accept students that already have some experience in fighting bots."
 msgstr ""
 
 #: ./Pendragon.dialog:80
-msgid "Just let me get up an -- ouch! Stop it."
-msgstr ""
-
-#: ./Pendragon.dialog:81
-msgid "Lesson number two. The bots have no mercy."
-msgstr ""
-
-#: ./Pendragon.dialog:82
-msgid "They won't let you get up if you fall down. They will kill you."
-msgstr ""
-
-#: ./Pendragon.dialog:83
-msgid "Now, lesson number -- ugh! That hurt!"
-msgstr ""
-
-#: ./Pendragon.dialog:84
-msgid "Lesson number three. Never underestimate the enemy."
+msgid "Yes (cost 100 valuable circuits, 5 ability points)"
 msgstr ""
 
 #: ./Pendragon.dialog:85
-msgid "Ugh. Yes. You are correct."
+msgid "Let us begin then."
 msgstr ""
 
 #: ./Pendragon.dialog:86
-msgid "I need to... Lie down for a while... My head hurts..."
+msgid "Come closer..."
 msgstr ""
 
 #: ./Pendragon.dialog:87
-msgid "Lesson number four. Never hit your sparring partner with full force."
+msgid "HA!"
 msgstr ""
 
 #: ./Pendragon.dialog:88
-msgid "I think you broke my ribs..."
+msgid "Ouch! What the hell are you doing?"
 msgstr ""
 
 #: ./Pendragon.dialog:89
-msgid "This is enough training for today."
+msgid "Lesson number one. Never trust the opponent."
+msgstr ""
+
+#: ./Pendragon.dialog:90
+msgid "Just let me get up an -- ouch! Stop it."
+msgstr ""
+
+#: ./Pendragon.dialog:91
+msgid "Lesson number two. The bots have no mercy."
+msgstr ""
+
+#: ./Pendragon.dialog:92
+msgid "They won't let you get up if you fall down. They will kill you."
 msgstr ""
 
 #: ./Pendragon.dialog:93
-msgid "You don't have enough experience. I can't teach you anything more right now."
+msgid "Now, lesson number -- ugh! That hurt!"
 msgstr ""
 
 #: ./Pendragon.dialog:94
-msgid "First collect more experience. Then we can go on."
+msgid "Lesson number three. Never underestimate the enemy."
+msgstr ""
+
+#: ./Pendragon.dialog:95
+msgid "Ugh. Yes. You are correct."
 msgstr ""
 
 #: ./Pendragon.dialog:96
+msgid "I need to... Lie down for a while... My head hurts..."
+msgstr ""
+
+#: ./Pendragon.dialog:97
+msgid "Lesson number four. Never hit your sparring partner with full force."
+msgstr ""
+
+#: ./Pendragon.dialog:98
+msgid "I think you broke my ribs..."
+msgstr ""
+
+#: ./Pendragon.dialog:99
+msgid "This is enough training for today."
+msgstr ""
+
+#: ./Pendragon.dialog:103
+msgid "You don't have enough experience. I can't teach you anything more right now."
+msgstr ""
+
+#: ./Pendragon.dialog:104
+msgid "First collect more experience. Then we can go on."
+msgstr ""
+
+#: ./Pendragon.dialog:106
 msgid ""
 "You don't have enough valuable circuits on you! Come back when you have the mo"
 "ney."
 msgstr ""
 
-#: ./Pendragon.dialog:100
+#: ./Pendragon.dialog:110
 msgid ""
 "Hey, wake up! I taught you that stuff already. Go practice on the bots, if you"
 " really want more training."
 msgstr ""
 
-#: ./Pendragon.dialog:106
+#: ./Pendragon.dialog:116
 msgid "Teach me how to smash concrete blocks with my bare hands."
 msgstr ""
 
-#: ./Pendragon.dialog:108
+#: ./Pendragon.dialog:118
 msgid "Oh, Linarian, you amuse me so."
 msgstr ""
 
-#: ./Pendragon.dialog:109
+#: ./Pendragon.dialog:119
 msgid "You are quite an ambitious fellow."
 msgstr ""
 
-#: ./Pendragon.dialog:110
+#: ./Pendragon.dialog:120
 msgid ""
 "First learn the basics. Spend a year working on that, and then I'll be able to"
 " teach you some advanced tricks."
 msgstr ""
 
-#: ./Pendragon.dialog:115
+#: ./Pendragon.dialog:125
 msgid "Teach me Ninjitsu."
 msgstr ""
 
-#: ./Pendragon.dialog:117
+#: ./Pendragon.dialog:127
 msgid "Go away."
 msgstr ""
 
-#: ./Pendragon.dialog:122
+#: ./Pendragon.dialog:132
 msgid ""
 "I want to know the Crazy Double-Fang Wolf-Sunlight I-Like-Tea Death Touch of M"
 "ajor Destruction Flesh-Bursting Attack!"
 msgstr ""
 
-#: ./Pendragon.dialog:124
+#: ./Pendragon.dialog:134
 msgid "Wow."
 msgstr ""
 
-#: ./Pendragon.dialog:125
+#: ./Pendragon.dialog:135
 msgid "You have a very rich imagination. There is no such thing. Get a life."
 msgstr ""
 
-#: ./Pendragon.dialog:130
+#: ./Pendragon.dialog:140
 msgid "I want to know the forbidden skill of furuike ya kawazu tobikomu mizu no oto."
 msgstr ""
 
-#: ./Pendragon.dialog:132
+#: ./Pendragon.dialog:142
 msgid "This is starting to make me angry. Shut up and go away."
 msgstr ""
 
-#: ./Pendragon.dialog:137
+#: ./Pendragon.dialog:147
 msgid "Teach me how to flip out and kill people!"
 msgstr ""
 
-#: ./Pendragon.dialog:139
+#: ./Pendragon.dialog:149
 msgid "*sigh*"
 msgstr ""
 
-#: ./Pendragon.dialog:140
+#: ./Pendragon.dialog:150
 msgid "Very well. Observe very carefully."
 msgstr ""
 
-#: ./Pendragon.dialog:141
+#: ./Pendragon.dialog:151
 msgid "You will see this only once, so make sure to pay attention."
 msgstr ""
 
-#: ./Pendragon.dialog:142
+#: ./Pendragon.dialog:152
 msgid "DIEEEE!"
 msgstr ""
 
-#: ./Pendragon.dialog:149
+#: ./Pendragon.dialog:159
 msgid "Enough for now."
 msgstr ""
 
-#: ./Pendragon.dialog:151
+#: ./Pendragon.dialog:161
 msgid "Fine."
 msgstr ""
 
-#: ./Pendragon.dialog:156
+#: ./Pendragon.dialog:166
 msgid "See you later."
 msgstr ""
 
-#: ./Pendragon.dialog:158
+#: ./Pendragon.dialog:168
 msgid "Have courage."
+msgstr ""
+
+#: ./Pendragon.dialog:168
+msgid "Be strong."
 msgstr ""
 

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"POT-Creation-Date: 2010-06-01 11:17+0000\n"
+"PO-Revision-Date: 2010-06-01 11:17+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -11,14 +11,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ./script_helpers.lua:128
-msgid "   New Quest assigned."
+msgid "New Quest assigned."
 msgstr ""
 
 #: ./script_helpers.lua:134
-msgid "   Quest log updated."
+msgid "Quest log updated."
 msgstr ""
 
 #: ./script_helpers.lua:140
-msgid "   Quest completed."
+msgid "Quest completed."
 msgstr ""
 

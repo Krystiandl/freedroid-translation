@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"POT-Creation-Date: 2010-06-01 11:17+0000\n"
+"PO-Revision-Date: 2010-06-01 11:17+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -20,47 +20,55 @@ msgid ""
 "el are permitted."
 msgstr ""
 
-#: ./Tybalt.dialog:48
+#: ./Tybalt.dialog:44
+msgid "Tybalt -- Citadel Gate Guard"
+msgstr ""
+
+#: ./Tybalt.dialog:49
 msgid "Why is this gate locked most of the time?"
 msgstr ""
 
-#: ./Tybalt.dialog:50
+#: ./Tybalt.dialog:51
 msgid "It's locked so no one can sneak inside while I'm not looking. That's why."
 msgstr ""
 
-#: ./Tybalt.dialog:55
+#: ./Tybalt.dialog:56
 msgid "I want to get into the citadel."
 msgstr ""
 
-#: ./Tybalt.dialog:58
+#: ./Tybalt.dialog:59
 msgid ""
 "Of course. Guard members are always authorized to enter the town citadel. The "
 "gate is open. Enjoy your stay."
 msgstr ""
 
-#: ./Tybalt.dialog:61
+#: ./Tybalt.dialog:62
 msgid ""
 "Sorry pal, but I don't think so. Only authorized personnel are permitted and t"
 "hat means members of the Red Guard."
 msgstr ""
 
-#: ./Tybalt.dialog:62
+#: ./Tybalt.dialog:63
 msgid "Talk to Spencer if you have any business inside. I cannot let you pass."
 msgstr ""
 
-#: ./Tybalt.dialog:72
-msgid "We need to protect our equipment and documents, because lives depend on it."
+#: ./Tybalt.dialog:71
+msgid "So why is it you keep the citadel locked? Is there anything secret in there?"
 msgstr ""
 
 #: ./Tybalt.dialog:73
+msgid "We need to protect our equipment and documents, because lives depend on it."
+msgstr ""
+
+#: ./Tybalt.dialog:74
 msgid "Also, we don't have to answer questions."
 msgstr ""
 
-#: ./Tybalt.dialog:80
+#: ./Tybalt.dialog:81
 msgid "I have a lot of money for you."
 msgstr ""
 
-#: ./Tybalt.dialog:82
+#: ./Tybalt.dialog:83
 msgid "Fascinating. Can I have a hundred please?"
 msgstr ""
 
@@ -76,12 +84,20 @@ msgstr ""
 msgid "Here you go."
 msgstr ""
 
-#: ./Tybalt.dialog:99
+#: ./Tybalt.dialog:98
 msgid "Thank you."
 msgstr ""
 
-#: ./Tybalt.dialog:103
+#: ./Tybalt.dialog:102
 msgid "That is not a hundred."
+msgstr ""
+
+#: ./Tybalt.dialog:102
+msgid "Um, count that again."
+msgstr ""
+
+#: ./Tybalt.dialog:102
+msgid "Talk to me when you have a bit more."
 msgstr ""
 
 #: ./Tybalt.dialog:108

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"POT-Creation-Date: 2010-06-01 11:17+0000\n"
+"PO-Revision-Date: 2010-06-01 11:17+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -30,100 +30,108 @@ msgstr ""
 msgid "That is not my real name, but it will do for now."
 msgstr ""
 
-#: ./Jasmine.dialog:59
+#: ./Jasmine.dialog:55
+msgid "Jasmine"
+msgstr ""
+
+#: ./Jasmine.dialog:60
 msgid "What are you doing in Kevin's place?"
 msgstr ""
 
-#: ./Jasmine.dialog:61
+#: ./Jasmine.dialog:62
 msgid "I live with him, stupid."
 msgstr ""
 
-#: ./Jasmine.dialog:62
+#: ./Jasmine.dialog:63
 msgid "I like him. He... He is very much like me."
 msgstr ""
 
-#: ./Jasmine.dialog:67
-msgid "How are you?"
+#: ./Jasmine.dialog:64
+msgid "Jasmine --- Girlfriend of a true Hacker"
 msgstr ""
 
 #: ./Jasmine.dialog:69
+msgid "How are you?"
+msgstr ""
+
+#: ./Jasmine.dialog:71
 msgid "Shitty. Now leave me alone."
 msgstr ""
 
-#: ./Jasmine.dialog:74
+#: ./Jasmine.dialog:76
 msgid "Why does such a nice lady act so harshly? Can't we all just get along?"
 msgstr ""
 
-#: ./Jasmine.dialog:76
+#: ./Jasmine.dialog:78
 msgid "No."
 msgstr ""
 
-#: ./Jasmine.dialog:81
+#: ./Jasmine.dialog:83
 msgid "What are you up to?"
 msgstr ""
 
-#: ./Jasmine.dialog:83
+#: ./Jasmine.dialog:85
 msgid "Nothing. Quit asking questions."
 msgstr ""
 
-#: ./Jasmine.dialog:84
+#: ./Jasmine.dialog:86
 msgid "Don't bore me."
 msgstr ""
 
-#: ./Jasmine.dialog:89
+#: ./Jasmine.dialog:91
 msgid "You are the most beautiful human I have ever seen."
 msgstr ""
 
-#: ./Jasmine.dialog:91
+#: ./Jasmine.dialog:93
 msgid "And you are at least a quarter wrong."
 msgstr ""
 
-#: ./Jasmine.dialog:92
+#: ./Jasmine.dialog:94
 msgid "Now, please get out of my sight."
 msgstr ""
 
-#: ./Jasmine.dialog:97
+#: ./Jasmine.dialog:99
 msgid "Will you marry me?"
 msgstr ""
 
-#: ./Jasmine.dialog:99
+#: ./Jasmine.dialog:101
 msgid "Forget it."
 msgstr ""
 
-#: ./Jasmine.dialog:104
-#: ./Jasmine.dialog:118
+#: ./Jasmine.dialog:106
+#: ./Jasmine.dialog:120
 msgid "See you later."
 msgstr ""
 
-#: ./Jasmine.dialog:106
+#: ./Jasmine.dialog:108
 msgid "Yeah. Whatever."
 msgstr ""
 
-#: ./Jasmine.dialog:120
+#: ./Jasmine.dialog:122
 msgid "Yeah. Wha -- SIGSEGV."
 msgstr ""
 
-#: ./Jasmine.dialog:121
+#: ./Jasmine.dialog:123
 msgid "Segmentation fault."
 msgstr ""
 
-#: ./Jasmine.dialog:122
+#: ./Jasmine.dialog:124
 msgid "Huh?"
 msgstr ""
 
-#: ./Jasmine.dialog:123
+#: ./Jasmine.dialog:125
 msgid "Traceback printed to stdout."
 msgstr ""
 
-#: ./Jasmine.dialog:124
+#: ./Jasmine.dialog:126
 msgid "Kernel panic in module: Jasmine"
 msgstr ""
 
-#: ./Jasmine.dialog:125
+#: ./Jasmine.dialog:127
 msgid "Buffer overrun in anger.c:1532"
 msgstr ""
 
-#: ./Jasmine.dialog:126
+#: ./Jasmine.dialog:128
 msgid "Core dumped. System halted."
 msgstr ""
 

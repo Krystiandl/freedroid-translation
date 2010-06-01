@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"POT-Creation-Date: 2010-06-01 11:17+0000\n"
+"PO-Revision-Date: 2010-06-01 11:17+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -66,11 +66,21 @@ msgstr ""
 msgid "Disruptor shield is active."
 msgstr ""
 
-#: ./DSB-MachineDeckControl.dialog:73
+#: ./DSB-MachineDeckControl.dialog:66
+msgid "Opening access to MS Office"
+msgstr ""
+
+#: ./DSB-MachineDeckControl.dialog:66
+msgid ""
+"I've taken over the control droid and disabled the disruptor shield. Now, I sh"
+"ould go to the Hell Fortress and hack the MS firmware update system."
+msgstr ""
+
+#: ./DSB-MachineDeckControl.dialog:72
 msgid "logout"
 msgstr ""
 
-#: ./DSB-MachineDeckControl.dialog:75
+#: ./DSB-MachineDeckControl.dialog:74
 msgid "Exiting"
 msgstr ""
 

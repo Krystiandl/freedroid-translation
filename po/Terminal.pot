@@ -10,32 +10,43 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./Template.dialog:39
+#: ./Terminal.dialog:38
+msgid "Welcome to this terminal."
+msgstr ""
+
+#: ./Terminal.dialog:40
 msgid "Hello."
 msgstr ""
 
-#: ./Template.dialog:39
+#: ./Terminal.dialog:40
 msgid "Hi there."
 msgstr ""
 
-#: ./Template.dialog:40
+#: ./Terminal.dialog:41
 msgid "Well, hello again."
 msgstr ""
 
-#: ./Template.dialog:40
+#: ./Terminal.dialog:41
 msgid "Hello hello."
 msgstr ""
 
-#: ./Template.dialog:40
+#: ./Terminal.dialog:41
 msgid "Welcome back."
 msgstr ""
 
-#: ./Template.dialog:46
-#: ./Template.dialog:48
-#: ./Template.dialog:53
-#: ./Template.dialog:55
-#: ./Template.dialog:59
-#: ./Template.dialog:61
-msgid "<?>"
+#: ./Terminal.dialog:47
+msgid "help"
+msgstr ""
+
+#: ./Terminal.dialog:49
+msgid "Available commands: logout"
+msgstr ""
+
+#: ./Terminal.dialog:53
+msgid "logout"
+msgstr ""
+
+#: ./Terminal.dialog:55
+msgid "Goodbye"
 msgstr ""
 

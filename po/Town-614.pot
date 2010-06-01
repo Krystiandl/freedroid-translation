@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"POT-Creation-Date: 2010-06-01 11:17+0000\n"
+"PO-Revision-Date: 2010-06-01 11:17+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -16,8 +16,8 @@ msgstr ""
 
 #: ./Town-614.dialog:37
 msgid ""
-"I am a 614 security bot, once one of the best-selling products of \3Nicholson,"
-" Inc.\2."
+"I am a 614 security bot, once one of the best-selling products of Nicholson, I"
+"nc.."
 msgstr ""
 
 #: ./Town-614.dialog:41
@@ -25,7 +25,7 @@ msgid "What can you tell me about the Nicholson company?"
 msgstr ""
 
 #: ./Town-614.dialog:43
-msgid "\3Nicholson, Inc.\2 produces security bots."
+msgid "Nicholson, Inc. produces security bots."
 msgstr ""
 
 #: ./Town-614.dialog:44
@@ -124,13 +124,13 @@ msgstr ""
 
 #: ./Town-614.dialog:84
 msgid ""
-"Even though discontinued by the \3Nicholson, Inc.\2 long ago, today, some peop"
-"le have picked up the work and are even trying to improve the operating system"
-" running on my series."
+"Even though discontinued by the Nicholson, Inc. long ago, today, some people h"
+"ave picked up the work and are even trying to improve the operating system run"
+"ning on my series."
 msgstr ""
 
 #: ./Town-614.dialog:85
-msgid "Don't forget to buy products from \3Nicholson, Inc.\2. They are the best."
+msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
 msgstr ""
 
 #: ./Town-614.dialog:90

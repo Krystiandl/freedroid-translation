@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
+"POT-Creation-Date: 2010-06-01 11:17+0000\n"
+"PO-Revision-Date: 2010-06-01 11:17+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -20,10 +20,6 @@ msgstr ""
 
 #: ./c-net.dialog:38
 msgid "Login : "
-msgstr ""
-
-#: ./c-net.dialog:45
-msgid " guest "
 msgstr ""
 
 #: ./c-net.dialog:53
@@ -63,24 +59,8 @@ msgstr ""
 msgid "Last login from dev/tty3 on unknown"
 msgstr ""
 
-#: ./c-net.dialog:73
-msgid "root"
-msgstr ""
-
-#: ./c-net.dialog:92
-msgid "lily"
-msgstr ""
-
-#: ./c-net.dialog:110
-msgid "cpain"
-msgstr ""
-
 #: ./c-net.dialog:114
 msgid "Password: "
-msgstr ""
-
-#: ./c-net.dialog:129
-msgid "IM A BUG. REPORT ME!"
 msgstr ""
 
 #: ./c-net.dialog:132
@@ -91,59 +71,8 @@ msgstr ""
 msgid "Connection to c-net terminated."
 msgstr ""
 
-#: ./c-net.dialog:138
-msgid "cd info_commands/"
-msgstr ""
-
-#: ./c-net.dialog:148
-#: ./c-net.dialog:220
-#: ./c-net.dialog:278
-#: ./c-net.dialog:325
-msgid "cd ../"
-msgstr ""
-
-#: ./c-net.dialog:158
-#: ./c-net.dialog:162
-msgid "date"
-msgstr ""
-
 #: ./c-net.dialog:163
 msgid "Date unknown"
-msgstr ""
-
-#: ./c-net.dialog:168
-#: ./c-net.dialog:171
-msgid "finger"
-msgstr ""
-
-#: ./c-net.dialog:182
-msgid "users"
-msgstr ""
-
-#: ./c-net.dialog:192
-#: ./c-net.dialog:195
-msgid "whoami"
-msgstr ""
-
-#: ./c-net.dialog:196
-msgid "guest"
-msgstr ""
-
-#: ./c-net.dialog:201
-#: ./c-net.dialog:204
-msgid "uname"
-msgstr ""
-
-#: ./c-net.dialog:205
-msgid "Nkernel"
-msgstr ""
-
-#: ./c-net.dialog:210
-msgid "cd file_commands/"
-msgstr ""
-
-#: ./c-net.dialog:230
-msgid "ls"
 msgstr ""
 
 #: ./c-net.dialog:242
@@ -170,12 +99,8 @@ msgstr ""
 msgid "Bot #Dead# Tux #Hacked/Failed#Ratio"
 msgstr ""
 
-#: ./c-net.dialog:258
-msgid "tux@c-net:~$"
-msgstr ""
-
-#: ./c-net.dialog:262
-msgid "cd documents/"
+#: ./c-net.dialog:267
+msgid "guest"
 msgstr ""
 
 #: ./c-net.dialog:288
@@ -186,12 +111,6 @@ msgstr ""
 msgid "bomb armed"
 msgstr ""
 
-#: ./c-net.dialog:291
-#: ./c-net.dialog:299
-#: ./c-net.dialog:310
-msgid "root@c-net:~$"
-msgstr ""
-
 #: ./c-net.dialog:296
 msgid "forkBOMB.sh -disarm bomb"
 msgstr ""
@@ -200,35 +119,43 @@ msgstr ""
 msgid "bomb defused"
 msgstr ""
 
-#: ./c-net.dialog:305
+#: ./c-net.dialog:304
 msgid "forkBOMB.sh -execute"
 msgstr ""
 
-#: ./c-net.dialog:309
+#: ./c-net.dialog:308
 msgid "Script run. After logout this terminal will be disabled."
 msgstr ""
 
-#: ./c-net.dialog:315
-msgid "cd games/"
+#: ./c-net.dialog:309
+msgid "root@c-net:~$"
 msgstr ""
 
-#: ./c-net.dialog:335
-msgid "nethack"
-msgstr ""
-
-#: ./c-net.dialog:344
+#: ./c-net.dialog:343
 msgid "global_thermonuclear_war"
 msgstr ""
 
-#: ./c-net.dialog:347
+#: ./c-net.dialog:346
 msgid "./global_thermonuclear_war"
 msgstr ""
 
-#: ./c-net.dialog:353
-msgid "logout"
+#: ./c-net.dialog:347
+msgid "Sorry, only winning move is not to play. New game?"
 msgstr ""
 
-#: ./c-net.dialog:357
+#: ./c-net.dialog:347
+msgid "Mankind exterminated. You lost!"
+msgstr ""
+
+#: ./c-net.dialog:347
+msgid "No victory possible. LOSER! Play again?"
+msgstr ""
+
+#: ./c-net.dialog:347
+msgid "Everyone dies, new game?"
+msgstr ""
+
+#: ./c-net.dialog:356
 msgid "Connection to c-net closed."
 msgstr ""
 
