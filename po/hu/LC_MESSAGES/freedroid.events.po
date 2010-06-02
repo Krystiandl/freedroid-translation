@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-05-30 20:30+0100\n"
+"Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,120 +14,122 @@ msgstr ""
 
 #: freedroid.events:19
 msgid "To Maintenance Tunnels"
-msgstr ""
+msgstr "Szervízalagutak"
 
 #: freedroid.events:28
 msgid "To Novice Arena"
-msgstr ""
+msgstr "Újonc Aréna"
 
 #: freedroid.events:37
 msgid "To Master Arena"
-msgstr ""
+msgstr "Mester Aréna"
 
 #: freedroid.events:49
 msgid "Exit Warehouse"
-msgstr ""
+msgstr "Raktár kijárat"
 
 #: freedroid.events:58
 msgid "To Warehouse Level 2"
-msgstr ""
+msgstr "Raktár 2. szint"
 
 #: freedroid.events:70
 msgid "To Warehouse Level 1"
-msgstr ""
+msgstr "Raktár 1. szint"
 
 #: freedroid.events:82
 msgid "Back to Kevin's Garden"
-msgstr ""
+msgstr "Vissza Kevin Kertjébe"
 
 #: freedroid.events:91
 msgid "To Energy Station"
-msgstr ""
+msgstr "Erőmű"
 
 #: freedroid.events:103
 msgid "Back to Lower Catacombs"
-msgstr ""
+msgstr "Vissza az Alsóbb Katakombákhoz"
 
 #: freedroid.events:115
 msgid "Way to Disruptor Machine Deck"
-msgstr ""
+msgstr "Út a Disruptor Gépházba"
 
 #: freedroid.events:127
 msgid "Back to Town"
-msgstr ""
+msgstr "Vissza a Városba"
 
 #: freedroid.events:143
 msgid "Enter Warehouse"
-msgstr ""
+msgstr "Raktár Bejárat"
 
 #: freedroid.events:155
 msgid "Down into Crystal Caves"
-msgstr ""
+msgstr "Lejárat a Kristály Barlangba"
 
 #: freedroid.events:195
 msgid "To Kevin's Underground Station"
-msgstr ""
+msgstr "Kevin Földalatti Állomása"
 
 #: freedroid.events:207
 msgid "To Underground Station"
-msgstr ""
+msgstr "Földalatti Állomás"
 
 #: freedroid.events:243
 msgid "Hatch with broken ladder"
-msgstr ""
+msgstr "Nyílás egy törött létrával"
 
 #: freedroid.events:267
 msgid "Exit Novice Arena"
-msgstr ""
+msgstr "Újonc Aréna Kijárat"
 
 #: freedroid.events:279
 msgid "Exit Master Arena"
-msgstr ""
+msgstr "Mester Aréna Kijárat"
 
 #: freedroid.events:291
 msgid "lock player inside firmware room"
-msgstr ""
+msgstr "játékos bezárása a firmware szobába"
 
 #: freedroid.events:301
 msgid "Open firmware upgrade room"
-msgstr ""
+msgstr "Firmware upgrade szoba nyitása"
 
 #: freedroid.events:314
 msgid "FIXME2"
-msgstr ""
+msgstr "FIXME2"
 
 #: freedroid.events:327
 msgid "Exit Crystal Caves"
-msgstr ""
+msgstr "Kristály Barlang Kijárat"
 
-#: freedroid.events:339 freedroid.events:351
+#: freedroid.events:339
+#: freedroid.events:351
 msgid "Back to the Desert"
-msgstr ""
+msgstr "Vissza a Sivatagba"
 
 #: freedroid.events:371
 msgid "To a Forgotten Bunker"
-msgstr ""
+msgstr "Elfelejtett Bunker"
 
 #: freedroid.events:387
 msgid "Unknown place"
-msgstr ""
+msgstr "Ismeretlen hely"
 
 #: freedroid.events:407
 msgid "Hidden way out"
-msgstr ""
+msgstr "Rerjett út kifelé"
 
 #: freedroid.events:463
 msgid "Back to Disruptor Shield Control"
-msgstr ""
+msgstr "Vissza a Disruptor Pajzs Kontrollterembe"
 
 #: freedroid.events:472
 msgid "To Mashine Deck Lower Catacombs"
-msgstr ""
+msgstr "Az Alsóbb Katakombák Gépháza"
 
 #: freedroid.events:484
 msgid "Back to Machine Deck Upper Catacombs"
-msgstr ""
+msgstr "Vissza a Felsőbb Katakombák Gépházába"
 
 #: freedroid.events:493
 msgid "To Disruptor Mashine Deck"
-msgstr ""
+msgstr "Disruptor Gépház"
+
