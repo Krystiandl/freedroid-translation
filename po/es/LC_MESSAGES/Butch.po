@@ -1,0 +1,371 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-06-02 07:42+0000\n"
+"PO-Revision-Date: 2010-06-02 07:42+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Butch.dialog:38 Butch.dialog:39 Butch.dialog:120 Butch.dialog:131
+#: Butch.dialog:148 Butch.dialog:213
+msgid "Novice Arena"
+msgstr ""
+
+#: Butch.dialog:40
+msgid ""
+"I've already opened the door for you. All you need to do is walk in "
+"there and crush all four bots."
+msgstr ""
+
+#: Butch.dialog:50 Butch.dialog:51 Butch.dialog:157 Butch.dialog:171
+msgid "Time to say goodnight"
+msgstr ""
+
+#: Butch.dialog:52
+msgid ""
+"I've already opened the door. What are you waiting for? All you need "
+"to do is go down to the master arena and fight the bots."
+msgstr ""
+
+#: Butch.dialog:53
+msgid ""
+"But I can understand if you hesitate. The master arena is by no means "
+"an easy task. Maybe you should practice some more before you go down."
+msgstr ""
+
+#: Butch.dialog:66
+msgid "Hi! I'm new here."
+msgstr ""
+
+#: Butch.dialog:68
+msgid "Yeah, what do you want newbie?"
+msgstr ""
+
+#: Butch.dialog:73
+msgid "Say 'newbie' again and I will rip your spine out."
+msgstr ""
+
+#: Butch.dialog:75
+msgid "Fine, newbie. You are greener than green and a total newbie."
+msgstr ""
+
+#: Butch.dialog:76
+msgid "You can start ripping out my spine now."
+msgstr ""
+
+#: Butch.dialog:77
+msgid "Ha!"
+msgstr ""
+
+#: Butch.dialog:82
+msgid "I really mean it. I will kill you for that insult."
+msgstr ""
+
+#: Butch.dialog:84
+msgid "Go for it."
+msgstr ""
+
+#: Butch.dialog:89
+msgid "BANZAI! DIE DIE DIE!"
+msgstr ""
+
+#: Butch.dialog:91
+msgid "Wha --"
+msgstr ""
+
+#: Butch.dialog:98
+msgid "And who are you?"
+msgstr ""
+
+#: Butch.dialog:100
+msgid "Butch... The arena master."
+msgstr ""
+
+#: Butch.dialog:101
+msgid "Butch -- Arena Master"
+msgstr ""
+
+#: Butch.dialog:106
+msgid "Arena? What arena?"
+msgstr ""
+
+#: Butch.dialog:108
+msgid ""
+"The underground arena. With holographic bots to train combat "
+"techniques against."
+msgstr ""
+
+#: Butch.dialog:109
+msgid "Wanna fight?"
+msgstr ""
+
+#: Butch.dialog:114
+msgid "Yeah. I want to fight."
+msgstr ""
+
+#: Butch.dialog:116
+msgid ""
+"Good. I opened up the novice arena gate. Just climb down the ladder "
+"south of here."
+msgstr ""
+
+#: Butch.dialog:117
+msgid ""
+"But remember, the door out won't be opened until you kill all the "
+"bots."
+msgstr ""
+
+#: Butch.dialog:118
+msgid ""
+"And be careful, your brain get so fooled by what happens in the "
+"holographic world that you take physical damage for real."
+msgstr ""
+
+#: Butch.dialog:119
+msgid ""
+"So even if the enemies are only holograms, they can still hurt you "
+"and even kill you."
+msgstr ""
+
+#: Butch.dialog:120 Butch.dialog:213
+msgid ""
+"Fighting in the arena is not something I would usually do, but I feel "
+"like doing it for a change. Why not?"
+msgstr ""
+
+#: Butch.dialog:126
+msgid "The bots are dead."
+msgstr ""
+
+#: Butch.dialog:128
+msgid "Good for you."
+msgstr ""
+
+#: Butch.dialog:129
+msgid "You are a total newbie. But, a good newbie."
+msgstr ""
+
+#: Butch.dialog:130
+msgid "I will say a good word to Spencer about this."
+msgstr ""
+
+#: Butch.dialog:131
+msgid ""
+"Now that was easy. *Yawn*. I nearly fell asleep. No problem at all, "
+"the bots are dead."
+msgstr ""
+
+#: Butch.dialog:136
+msgid "I thought I was going to fight you, coward."
+msgstr ""
+
+#: Butch.dialog:138
+msgid "I NEVER said that, newbie."
+msgstr ""
+
+#: Butch.dialog:139
+msgid "You wanted a fight, and you got one."
+msgstr ""
+
+#: Butch.dialog:140
+msgid "I offered a fight, and you wanted that."
+msgstr ""
+
+#: Butch.dialog:141
+msgid "There is nothing more to say, newbie."
+msgstr ""
+
+#: Butch.dialog:146
+msgid "I want a bigger challenge."
+msgstr ""
+
+#: Butch.dialog:149
+msgid ""
+"I'm sorry, but town regulations forbid access to the master arena "
+"unless you've completed the novice arena first."
+msgstr ""
+
+#: Butch.dialog:150
+msgid ""
+"This regulation is in place for your own safety, so that no newbie "
+"accidentally signs up for the master arena."
+msgstr ""
+
+#: Butch.dialog:151
+msgid ""
+"You might try taking the novice arena first. Then I can grant you "
+"access to the master field."
+msgstr ""
+
+#: Butch.dialog:153
+msgid "Newbie, I have a second arena."
+msgstr ""
+
+#: Butch.dialog:154
+msgid "You will die if you go there."
+msgstr ""
+
+#: Butch.dialog:155
+msgid "I pity you, silly bird. Don't go there."
+msgstr ""
+
+#: Butch.dialog:156
+msgid "But if you really want it, the door is now open."
+msgstr ""
+
+#: Butch.dialog:157
+msgid ""
+"I told the arena master to let me into his master arena. He agreed. "
+"Now all that remains to do is to climb down the ladder to the north "
+"arena and wait for death herself to come on her black wings and claim "
+"my soul. You know, now that I think about it... Maybe I should stay "
+"out of there?"
+msgstr ""
+
+#: Butch.dialog:164
+msgid "The master arena is clear."
+msgstr ""
+
+#: Butch.dialog:166
+msgid "What!? Impossible! No one ever survives the second arena!"
+msgstr ""
+
+#: Butch.dialog:167
+msgid "One has to be out of his mind to try the second arena."
+msgstr ""
+
+#: Butch.dialog:168
+msgid "You are not a newbie, but you are COMPLETELY INSANE!"
+msgstr ""
+
+#: Butch.dialog:169
+msgid "I pity you, poor fool. You will die young."
+msgstr ""
+
+#: Butch.dialog:171
+msgid "I survived the master arena. A miracle. Whew."
+msgstr ""
+
+#: Butch.dialog:176
+msgid "What is wrong with you? Why do you keep calling me a newbie?"
+msgstr ""
+
+#: Butch.dialog:178
+msgid "Because you ARE a newbie, newbie!"
+msgstr ""
+
+#: Butch.dialog:183
+msgid ""
+"Why the hell are you organizing fights? Enough people have died "
+"already!"
+msgstr ""
+
+#: Butch.dialog:185
+msgid "I have a very good reason not to tell you."
+msgstr ""
+
+#: Butch.dialog:186
+msgid ""
+"Not like someone as inexperienced as you could understand it anyway."
+msgstr ""
+
+#: Butch.dialog:191
+msgid "No way! Violence is wrong! Make love not war!"
+msgstr ""
+
+#: Butch.dialog:193 Butch.dialog:200
+msgid " . . ."
+msgstr ""
+
+#: Butch.dialog:198
+msgid "Roses, not destruction!"
+msgstr ""
+
+#: Butch.dialog:205
+msgid "End the violence! All blood is red!"
+msgstr ""
+
+#: Butch.dialog:207
+msgid "Hey, the bots bleed black. With oil."
+msgstr ""
+
+#: Butch.dialog:208
+msgid "But... But..."
+msgstr ""
+
+#: Butch.dialog:209
+msgid "No 'but' about it, newbie."
+msgstr ""
+
+#: Butch.dialog:210
+msgid "The bots bleed black."
+msgstr ""
+
+#: Butch.dialog:211
+msgid ""
+"You... Have ruined my pacifistic slogan... I am angry... So angry "
+"that I want to smash things!"
+msgstr ""
+
+#: Butch.dialog:212
+msgid "Great. Get in the door, newbie."
+msgstr ""
+
+#: Butch.dialog:219
+msgid "I want to fight in the novice arena!"
+msgstr ""
+
+#: Butch.dialog:221
+msgid ""
+"You've already completed the novice arena. But since you really want "
+"to have another go, I'll cause the bots to respawn now. There, it's "
+"done."
+msgstr ""
+
+#: Butch.dialog:222
+msgid ""
+"But you also might want to try the master arena now, maybe? If so, "
+"just say so."
+msgstr ""
+
+#: Butch.dialog:228
+msgid "I want to fight in the master arena!"
+msgstr ""
+
+#: Butch.dialog:230
+msgid ""
+"But you've already completed the master arena. Ok, but I can have the "
+"bots respawn for you now, so you can have another go!"
+msgstr ""
+
+#: Butch.dialog:231
+msgid ""
+"But certainly you've earned yourself a reputation as arena master "
+"around here now and we respect that."
+msgstr ""
+
+#: Butch.dialog:237
+msgid "I'll be going then."
+msgstr ""
+
+#: Butch.dialog:239
+msgid "Sure."
+msgstr ""
+
+#: Butch.dialog:239
+msgid "See you around."
+msgstr ""
+
+#: Butch.dialog:239
+msgid "Remember: pain is temporary but glory is forever."
+msgstr ""
+
+#: Butch.dialog:239
+msgid "Go kill some bots."
+msgstr ""

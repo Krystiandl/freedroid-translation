@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-06-02 07:42+0000\n"
+"PO-Revision-Date: 2010-06-02 07:42+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Geist.dialog:41
+msgid "Hello. Any idea where I can get some help here?"
+msgstr ""
+
+#: Geist.dialog:43 Geist.dialog:69
+msgid "Verschwinde!"
+msgstr ""
+
+#: Geist.dialog:48
+msgid "Erm... What do you mean?"
+msgstr ""
+
+#: Geist.dialog:50
+msgid "Ich bin der Geist, der stets verneint."
+msgstr ""
+
+#: Geist.dialog:51
+msgid "Und das mit Recht; denn alles, was entsteht,"
+msgstr ""
+
+#: Geist.dialog:52
+msgid "ist wert, dass es zugrunde geht."
+msgstr ""
+
+#: Geist.dialog:53
+msgid "Geist -- Hunter"
+msgstr ""
+
+#: Geist.dialog:58
+msgid "I really do not understand you."
+msgstr ""
+
+#: Geist.dialog:60
+msgid "Wer sie nicht kennte, die Elemente,"
+msgstr ""
+
+#: Geist.dialog:61
+msgid "ihre Kraft und Eigenschaft,"
+msgstr ""
+
+#: Geist.dialog:62
+msgid "waere kein Meister ueber die Geister."
+msgstr ""
+
+#: Geist.dialog:67
+msgid "I wish I knew what you are talking about."
+msgstr ""
+
+#: Geist.dialog:75
+msgid "I need to go now."
+msgstr ""
+
+#: Geist.dialog:77
+msgid " . . ."
+msgstr ""

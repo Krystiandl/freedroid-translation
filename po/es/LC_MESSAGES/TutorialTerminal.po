@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-06-02 07:42+0000\n"
+"PO-Revision-Date: 2010-06-02 07:42+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: TutorialTerminal.dialog:39
+msgid "Entering as Guest"
+msgstr ""
+
+#: TutorialTerminal.dialog:41
+msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
+msgstr ""
+
+#: TutorialTerminal.dialog:45 TutorialTerminal.dialog:74
+msgid "Gate status: CLOSED"
+msgstr ""
+
+#: TutorialTerminal.dialog:48 TutorialTerminal.dialog:62
+msgid "Gate status: OPEN"
+msgstr ""
+
+#: TutorialTerminal.dialog:51
+msgid "GAME BUG. PLEASE REPORT."
+msgstr ""
+
+#: TutorialTerminal.dialog:57 TutorialTerminal.dialog:60
+msgid "open gate"
+msgstr ""
+
+#: TutorialTerminal.dialog:61
+msgid "Access granted. Opening gate ..."
+msgstr ""
+
+#: TutorialTerminal.dialog:69 TutorialTerminal.dialog:72
+msgid "close gate"
+msgstr ""
+
+#: TutorialTerminal.dialog:73
+msgid "Access granted. Closing gate ..."
+msgstr ""
+
+#: TutorialTerminal.dialog:81 TutorialTerminal.dialog:84
+msgid "logout"
+msgstr ""
+
+#: TutorialTerminal.dialog:85
+msgid "Exiting"
+msgstr ""

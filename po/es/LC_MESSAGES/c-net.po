@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-06-02 07:42+0000\n"
+"PO-Revision-Date: 2010-06-02 07:42+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: c-net.dialog:34
+msgid " . "
+msgstr ""
+
+#: c-net.dialog:37
+msgid "Welcome to the Community Network."
+msgstr ""
+
+#: c-net.dialog:38
+msgid "Login : "
+msgstr ""
+
+#: c-net.dialog:53
+msgid "First time login detected."
+msgstr ""
+
+#: c-net.dialog:54
+msgid "Please enter your name"
+msgstr ""
+
+#: c-net.dialog:55 c-net.dialog:62
+msgid "Name : "
+msgstr ""
+
+#: c-net.dialog:57
+msgid "Please set password for your personalized guest login "
+msgstr ""
+
+#: c-net.dialog:58
+msgid ""
+"Use at least one lower case letter, one upper case letter, one "
+"number, and one symbol."
+msgstr ""
+
+#: c-net.dialog:59 c-net.dialog:64 c-net.dialog:77 c-net.dialog:96
+msgid "Password : "
+msgstr ""
+
+#: c-net.dialog:67 c-net.dialog:84 c-net.dialog:103 c-net.dialog:122
+msgid "Last login from dev/tty3 on unknown"
+msgstr ""
+
+#: c-net.dialog:114
+msgid "Password: "
+msgstr ""
+
+#: c-net.dialog:132
+msgid "Login incorrect"
+msgstr ""
+
+#: c-net.dialog:133
+msgid "Connection to c-net terminated."
+msgstr ""
+
+#: c-net.dialog:163
+msgid "Date unknown"
+msgstr ""
+
+#: c-net.dialog:242
+msgid "mountdisk.sh"
+msgstr ""
+
+#: c-net.dialog:245
+msgid "./mountdisk.sh"
+msgstr ""
+
+#: c-net.dialog:246
+msgid "no disk found"
+msgstr ""
+
+#: c-net.dialog:251
+msgid "statistics.pl"
+msgstr ""
+
+#: c-net.dialog:255
+msgid "Corrupted file."
+msgstr ""
+
+#: c-net.dialog:256
+msgid "Bot #Dead# Tux #Hacked/Failed#Ratio"
+msgstr ""
+
+#: c-net.dialog:267
+msgid "guest"
+msgstr ""
+
+#: c-net.dialog:288
+msgid "forkBOMB.sh -arm bomb"
+msgstr ""
+
+#: c-net.dialog:290
+msgid "bomb armed"
+msgstr ""
+
+#: c-net.dialog:296
+msgid "forkBOMB.sh -disarm bomb"
+msgstr ""
+
+#: c-net.dialog:298
+msgid "bomb defused"
+msgstr ""
+
+#: c-net.dialog:304
+msgid "forkBOMB.sh -execute"
+msgstr ""
+
+#: c-net.dialog:308
+msgid "Script run. After logout this terminal will be disabled."
+msgstr ""
+
+#: c-net.dialog:309
+msgid "root@c-net:~$"
+msgstr ""
+
+#: c-net.dialog:343
+msgid "global_thermonuclear_war"
+msgstr ""
+
+#: c-net.dialog:346
+msgid "./global_thermonuclear_war"
+msgstr ""
+
+#: c-net.dialog:347
+msgid "Sorry, only winning move is not to play. New game?"
+msgstr ""
+
+#: c-net.dialog:347
+msgid "Mankind exterminated. You lost!"
+msgstr ""
+
+#: c-net.dialog:347
+msgid "No victory possible. LOSER! Play again?"
+msgstr ""
+
+#: c-net.dialog:347
+msgid "Everyone dies, new game?"
+msgstr ""
+
+#: c-net.dialog:356
+msgid "Connection to c-net closed."
+msgstr ""

@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-06-02 07:42+0000\n"
+"PO-Revision-Date: 2010-06-02 07:42+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: AfterTakeover_sub.dialog:33
+msgid ".. bot_type().."
+msgstr ""
+
+#: AfterTakeover_sub.dialog:47 AfterTakeover_sub.dialog:50
+msgid "./est_repair.plx"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:59
+msgid "Repairs on "
+msgstr ""
+
+#: AfterTakeover_sub.dialog:59
+msgid " will take less than "
+msgstr ""
+
+#: AfterTakeover_sub.dialog:59
+msgid " seconds, "
+msgstr ""
+
+#: AfterTakeover_sub.dialog:59
+msgid " valuable circuits, and "
+msgstr ""
+
+#: AfterTakeover_sub.dialog:59
+msgid " heat."
+msgstr ""
+
+#: AfterTakeover_sub.dialog:62
+msgid ""
+"You do not have enough valuable circuits to ensure repair of this "
+msgstr ""
+
+#: AfterTakeover_sub.dialog:62
+msgid " unit."
+msgstr ""
+
+#: AfterTakeover_sub.dialog:67
+msgid " is currently undamaged."
+msgstr ""
+
+#: AfterTakeover_sub.dialog:74 AfterTakeover_sub.dialog:77
+msgid "./repair.plx"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:78
+msgid "Repair in progress."
+msgstr ""
+
+#: AfterTakeover_sub.dialog:79
+msgid "Logout to complete repair process."
+msgstr ""
+
+#: AfterTakeover_sub.dialog:94 AfterTakeover_sub.dialog:97
+msgid "./settings.plx"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:98
+msgid "Welcome to the settings menu."
+msgstr ""
+
+#: AfterTakeover_sub.dialog:99
+msgid "Version: 1.82c"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:100
+msgid "No upgrades found."
+msgstr ""
+
+#: AfterTakeover_sub.dialog:101
+msgid "Always ask for confirmation before execution of hcf.py? [Y/N]"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:106
+msgid "Yes, always ask."
+msgstr ""
+
+#: AfterTakeover_sub.dialog:109
+msgid "Confirmation will now be asked before execution of hcf.py."
+msgstr ""
+
+#: AfterTakeover_sub.dialog:110 AfterTakeover_sub.dialog:123
+msgid "Settings saved"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:119
+msgid "No, don't ask"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:122
+msgid "hcf.py will be executed without asking for confirmation."
+msgstr ""
+
+#: AfterTakeover_sub.dialog:132 AfterTakeover_sub.dialog:135
+msgid "./hostname"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:136
+msgid "Welcome to the hostname menu."
+msgstr ""
+
+#: AfterTakeover_sub.dialog:137
+msgid "Version: 0.15.01"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:138
+msgid "Current botname: [b]"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:139
+msgid "Select new name? [Y/N]"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:146 AfterTakeover_sub.dialog:149
+#: AfterTakeover_sub.dialog:468 AfterTakeover_sub.dialog:471
+msgid "Yes"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:150
+msgid "Pick an Adjective:"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:156 AfterTakeover_sub.dialog:159
+#: AfterTakeover_sub.dialog:480 AfterTakeover_sub.dialog:483
+msgid "No"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:165 AfterTakeover_sub.dialog:168
+msgid "Achy"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:173 AfterTakeover_sub.dialog:176
+msgid "Bald"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:181 AfterTakeover_sub.dialog:184
+msgid "Chic"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:189 AfterTakeover_sub.dialog:192
+msgid "Drab"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:197 AfterTakeover_sub.dialog:200
+msgid "Edgy"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:205 AfterTakeover_sub.dialog:252
+#: AfterTakeover_sub.dialog:299
+msgid "More Adjective Choices"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:212 AfterTakeover_sub.dialog:215
+msgid "Foul"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:220 AfterTakeover_sub.dialog:223
+msgid "Glib"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:228 AfterTakeover_sub.dialog:231
+msgid "Homy"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:236 AfterTakeover_sub.dialog:239
+msgid "Icky"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:244 AfterTakeover_sub.dialog:247
+msgid "Jive"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:259 AfterTakeover_sub.dialog:262
+msgid "Fluffy"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:267 AfterTakeover_sub.dialog:270
+msgid "Cuddly"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:275 AfterTakeover_sub.dialog:278
+msgid "Soft"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:283 AfterTakeover_sub.dialog:286
+msgid "Fuzzy"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:291 AfterTakeover_sub.dialog:294
+msgid "Happy"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:310
+msgid "Pick an Animal:"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:316 AfterTakeover_sub.dialog:319
+msgid "Asp"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:324 AfterTakeover_sub.dialog:327
+msgid "Bat"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:332 AfterTakeover_sub.dialog:335
+msgid "Cat"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:340 AfterTakeover_sub.dialog:343
+msgid "Doe"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:348 AfterTakeover_sub.dialog:351
+msgid "Emu"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:356 AfterTakeover_sub.dialog:403
+#: AfterTakeover_sub.dialog:450
+msgid "More Animal Choices"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:363 AfterTakeover_sub.dialog:366
+msgid "Fox"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:371 AfterTakeover_sub.dialog:374
+msgid "Gnu"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:379 AfterTakeover_sub.dialog:382
+msgid "Hen"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:387 AfterTakeover_sub.dialog:390
+msgid "Imp"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:395 AfterTakeover_sub.dialog:398
+msgid "Jay"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:410 AfterTakeover_sub.dialog:413
+msgid "Duck"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:418 AfterTakeover_sub.dialog:421
+msgid "Bunny"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:426 AfterTakeover_sub.dialog:429
+msgid "Armadillo"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:434 AfterTakeover_sub.dialog:437
+msgid "Koala"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:442 AfterTakeover_sub.dialog:445
+msgid "Panda"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:462
+msgid "Confirm renaming from [b]"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:462 AfterTakeover_sub.dialog:472
+msgid "[/b] to [b]"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:462
+msgid "[/b]? [Y/N]"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:472
+msgid "Renamed [b]"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:474
+msgid "This "
+msgstr ""
+
+#: AfterTakeover_sub.dialog:474
+msgid " unit is now designated: [b]"
+msgstr ""
+
+#: AfterTakeover_sub.dialog:492
+msgid "cd .."
+msgstr ""

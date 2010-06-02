@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-06-02 07:42+0000\n"
+"PO-Revision-Date: 2010-06-02 07:42+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: freedroid.prefix_archetypes:10 freedroid.prefix_archetypes:37
+msgid "I am a big bad bug in the game. Report me. Please. "
+msgstr ""
+
+#: freedroid.prefix_archetypes:64
+msgid "Living "
+msgstr ""
+
+#: freedroid.prefix_archetypes:91
+msgid " coated in teflon"
+msgstr ""
+
+#: freedroid.prefix_archetypes:118
+msgid " of Almost Zodiac"
+msgstr ""
+
+#: freedroid.prefix_archetypes:145
+msgid "Resonant "
+msgstr ""
+
+#: freedroid.prefix_archetypes:172
+msgid "Cow "
+msgstr ""
+
+#: freedroid.prefix_archetypes:200
+msgid "Bull "
+msgstr ""
+
+#: freedroid.prefix_archetypes:227
+msgid "Mouse "
+msgstr ""
+
+#: freedroid.prefix_archetypes:254
+msgid "Jackdaw "
+msgstr ""
+
+#: freedroid.prefix_archetypes:281
+msgid "Hardcoded "
+msgstr ""
+
+#: freedroid.prefix_archetypes:308
+msgid "Melting "
+msgstr ""
+
+#: freedroid.prefix_archetypes:335
+msgid "Cursed "
+msgstr ""
+
+#: freedroid.prefix_archetypes:362
+msgid "Perfect "
+msgstr ""
+
+#: freedroid.prefix_archetypes:388
+msgid "Quartz "
+msgstr ""
+
+#: freedroid.prefix_archetypes:415
+msgid "First aid "
+msgstr ""
+
+#: freedroid.prefix_archetypes:442
+msgid "Razor sharp "
+msgstr ""
+
+#: freedroid.prefix_archetypes:469
+msgid "Light "
+msgstr ""
+
+#: freedroid.prefix_archetypes:496
+msgid "Beautiful "
+msgstr ""
+
+#: freedroid.prefix_archetypes:523
+msgid "Howling "
+msgstr ""
+
+#: freedroid.prefix_archetypes:550
+msgid "Accelerating "
+msgstr ""
+
+#: freedroid.prefix_archetypes:577
+msgid "Colorful "
+msgstr ""
+
+#: freedroid.prefix_archetypes:604
+msgid "Rainbow "
+msgstr ""
+
+#: freedroid.prefix_archetypes:631
+msgid "Suicide "
+msgstr ""
+
+#: freedroid.prefix_archetypes:658
+msgid "Broken "
+msgstr ""
+
+#: freedroid.prefix_archetypes:685
+msgid "Fluorescent "
+msgstr ""
+
+#: freedroid.prefix_archetypes:712
+msgid "Luminescent "
+msgstr ""
+
+#: freedroid.prefix_archetypes:739
+msgid "Blazing "
+msgstr ""
+
+#: freedroid.prefix_archetypes:766
+msgid "Hungry "
+msgstr ""
+
+#: freedroid.prefix_archetypes:793
+msgid "Devouring "
+msgstr ""
+
+#: freedroid.prefix_archetypes:820
+msgid "Ravenous "
+msgstr ""
+
+#: freedroid.prefix_archetypes:847
+msgid "OMGWTF "
+msgstr ""
+
+#: freedroid.prefix_archetypes:874
+msgid " of good design"
+msgstr ""
+
+#: freedroid.prefix_archetypes:897
+msgid " (C)MegaSys"
+msgstr ""
+
+#: freedroid.prefix_archetypes:921
+msgid " with no suffix"
+msgstr ""
+
+#: freedroid.prefix_archetypes:944
+msgid " with sharp edges"
+msgstr ""
+
+#: freedroid.prefix_archetypes:969
+msgid " covered in blood"
+msgstr ""
+
+#: freedroid.prefix_archetypes:992
+msgid " covered in oil"
+msgstr ""
+
+#: freedroid.prefix_archetypes:1015
+msgid ", 'the Murderer'"
+msgstr ""
+
+#: freedroid.prefix_archetypes:1038
+msgid ", 'the Healer'"
+msgstr ""
+
+#: freedroid.prefix_archetypes:1061
+msgid ", 'the Rabbit'"
+msgstr ""
+
+#: freedroid.prefix_archetypes:1084
+msgid ", 'the Seeker'"
+msgstr ""
+
+#: freedroid.prefix_archetypes:1107
+msgid ", 'the World'"
+msgstr ""
+
+#: freedroid.prefix_archetypes:1130
+msgid " from hell"
+msgstr ""
+
+#: freedroid.prefix_archetypes:1153
+msgid " with strange runes"
+msgstr ""
+
+#: freedroid.prefix_archetypes:1176
+msgid " with a curse"
+msgstr ""
+
+#: freedroid.prefix_archetypes:1199
+msgid "Cool "
+msgstr ""
+
+#: freedroid.prefix_archetypes:1222
+msgid "Frozen "
+msgstr ""
+
+#: freedroid.prefix_archetypes:1245
+msgid " of ice"
+msgstr ""
+
+#: freedroid.prefix_archetypes:1268
+msgid " of chills"
+msgstr ""
