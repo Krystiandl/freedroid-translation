@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-06-02 15:16+0100\n"
+"PO-Revision-Date: 2010-06-04 12:42+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -255,95 +255,95 @@ msgstr "Sörétes lőszer"
 
 #: freedroid.item_archetypes:1307
 msgid "While solid slugs, or possibly 8-10 Gauge shells, would be the most effective versus armored targets, beggars can't be choosers. One just has to use any type of shell one is lucky enough to stumble across. And even 20+ Gauge cartridges mostly used for bird hunting can, with luck, damage a bot."
-msgstr ""
+msgstr "Bár a golyós lőszerek, vagy a 8-10 sörétből álló lőszerek a leghatékonyabbak a páncélozott célok ellen, a koldus sajnos nem válogathat. Azt vagy kénytelen használni, amit találsz. A 20+ os sörét - bár csak madárvadászatra alkalmas - kis szerencsével megsebez egy botot is."
 
 #: freedroid.item_archetypes:1316
 msgid "Two Barrel sawn off shotgun"
-msgstr ""
+msgstr "Kétcsövű, lefűrészelt sörétes puska"
 
 #: freedroid.item_archetypes:1332
 msgid "Often wielded in the past by thugs or convenience store owners, this little baby is less powerful than the two-handed model, but makes up for it by letting you use a shield in conjunction with it."
-msgstr ""
+msgstr "A múltban gyakran bűnözők és bolttulajdonosok kedvence volt, és ez a kis bébi kevésbé hatékony, mint a hosszúcsövű változat, de előnye, hogy a másik kezedben pajzsot tudsz használni."
 
 #: freedroid.item_archetypes:1354
 msgid "Two Barrel shotgun"
-msgstr ""
+msgstr "Kétcsövű sörétes puska"
 
 #: freedroid.item_archetypes:1370
 msgid "An old standby of farmers and bird hunters. While capable of causing a fair amount of damage to droid armor, the limited rounds capacity and fairly slow reloading time make this weapon preferable to melee weapons, but only just. Requires two hands to wield."
-msgstr ""
+msgstr "Az idős farmerek és madárvadászok régi kelléke. Bár alkalmas arra, hogy viszonylag nagy sérülést okozzon egy botnak, de a limitált lőszerkapacitás és a viszonylag lassú töltési folyamat vonzóbbá teszi inkább az ütőfegyverek használatát. Használatához mindkét kézre szükség van."
 
 #: freedroid.item_archetypes:1392
 msgid "Pump action shotgun"
-msgstr ""
+msgstr "Félautomata shotgun"
 
 #: freedroid.item_archetypes:1408
 msgid "The pump action shotgun isn't quite as powerful as the double barrel equivalent, but it does hold more ammo per clip. Requires two hands to wield."
-msgstr ""
+msgstr "A félautomata shotgun nem olyan hatékony, mint a kétcsövű sörétes, de nagyobb a tárkapacitása. Használatához mindkét kézre szükség van."
 
 #: freedroid.item_archetypes:1430
 msgid "9x19mm Ammunition"
-msgstr ""
+msgstr "9x19mm Lőszer"
 
 #: freedroid.item_archetypes:1444
 msgid "Plasma crystal load. This is the most common way of loading a plasma weapon."
-msgstr ""
+msgstr "Plazma kristály töltet. Ez a plazmafegyver általános töltete."
 
 #: freedroid.item_archetypes:1448
 msgid "9mm Automatic"
-msgstr ""
+msgstr "9mm Automata"
 
 #: freedroid.item_archetypes:1464
 msgid "Nine millimeter ammo is a common caliber. While not very powerful, it allows for more rounds per clip than bigger ammunition."
-msgstr ""
+msgstr "A kilencmilliméteres lőszer egy általános kaliber. Bár nem túl hatékony, többet tudsz magaddal vinni, így nagyobb a lőszerkészleted."
 
 #: freedroid.item_archetypes:1486
 msgid "9mm Sub Machine Gun"
-msgstr ""
+msgstr "9mm-es Géppisztoly"
 
 #: freedroid.item_archetypes:1502
 msgid "These are commonly referred to as bullet hoses."
-msgstr ""
+msgstr "Ezeket általában golyószórónak is nevezik."
 
 #: freedroid.item_archetypes:1524
 msgid "7.62x39mm Ammunition"
-msgstr ""
+msgstr "7.62x39mm Lőszer"
 
 #: freedroid.item_archetypes:1538
 msgid "7.62mm ammo."
-msgstr ""
+msgstr "7.62mm-es lőszer."
 
 #: freedroid.item_archetypes:1542
 msgid "7.62mm Hunting Rifle"
-msgstr ""
+msgstr "7.62mm Vadász Karabély"
 
 #: freedroid.item_archetypes:1558
 msgid "7.62 millimeter ammo is commonly used in assault rifles. This is a more civilian take on that concept."
-msgstr ""
+msgstr "A 7.62 milliméteres lőszert általában hadi karabélyhoz használják. Ez egy civilebb változata."
 
 #: freedroid.item_archetypes:1580
 msgid "7.62mm AK-47"
-msgstr ""
+msgstr "7.62mm AK-47"
 
 #: freedroid.item_archetypes:1596
 msgid "The favorite weapon of third-world countries everywhere, this is a mass-produced, fairly reliable automatic weapon."
-msgstr ""
+msgstr "A harmadik világbeli országok legkedveltebb fegyvere, tömeggyártású, jól használható automata fegyver."
 
 #: freedroid.item_archetypes:1618
 msgid ".50 BMG (12.7x99mm) Ammunition"
-msgstr ""
+msgstr ".50 BMG (12.7x99mm) Lőszer"
 
 #: freedroid.item_archetypes:1634
 msgid "Browning Machine Gun ammo."
-msgstr ""
+msgstr "Browning Géppuska lőszer."
 
 #: freedroid.item_archetypes:1638
 msgid "Barrett M82 Sniper Rifle"
-msgstr ""
+msgstr "Barrett M82 Mesterlövész puska"
 
 #: freedroid.item_archetypes:1654
 msgid "Powerful enough to stop a truck, literally, the likelihood of even a battle droid surviving more than 2 hits by this weapon is quite slim. It doesn't even matter if the pesky droid is cowering behind a wall, the bullets will break right through and make the bot ready for the scrap heap in no time."
-msgstr ""
+msgstr "Elég erős, hogy egy teherautót is megállítson, és annak a valószínűsége, hogy egy droid kettőnél több találatot túléljen, nagyon alacsony. Az sem baj, ha a béna droid fal mögé bújik, a lövedékek áthatolnak a falon, és egy pillanat alatt fémhulladékot csinálnak belőle."
 
 #: freedroid.item_archetypes:1676
 msgid "Laser power pack"
@@ -395,87 +395,87 @@ msgstr ""
 
 #: freedroid.item_archetypes:1866
 msgid "Plasma pistol"
-msgstr ""
+msgstr "Plazma piszoly"
 
 #: freedroid.item_archetypes:1882
 msgid "The basic plasma weapon in a conveniently small package."
-msgstr ""
+msgstr "Az alapvető plazmafegyver, és csk kis helyet foglal."
 
 #: freedroid.item_archetypes:1904
 msgid "Plasma gun"
-msgstr ""
+msgstr "Plazma puska"
 
 #: freedroid.item_archetypes:1920
 msgid "A somewhat slow weapon, but once you do hit plenty a bot will just down on the spot. A good alternative to a pulse laser for the skilled marksman."
-msgstr ""
+msgstr "Elég lassú fegyver, de pár tucat bot lelővése után megszokható. Az imulzuslézer jó alternatívája egy képzett céllövő kezében."
 
 #: freedroid.item_archetypes:1942
 msgid "Plasma cannon"
-msgstr ""
+msgstr "Plazma ágyú"
 
 #: freedroid.item_archetypes:1958
 msgid "The very slow firing rate is made up for by the awesome power of this weapon. Its main use in the military is as a close support weapon complementing the soldiers' bread and butter pulse lasers, especially when attacking enemies behind cover."
-msgstr ""
+msgstr "A nagyon lassú tűzsebesség áll szemben a hihetetlen erővel ennél a fegyvernél. A hadseregben közeltámogató fegyverként használják, így jól kiegészíti a katonák ipmpulzuslézereit, főleg a fedezékben megbúvó célok ellen."
 
 #: freedroid.item_archetypes:1980
 msgid "2 mm Exterminator Ammunition"
-msgstr ""
+msgstr "2mm-es Exterminátor lőszer"
 
 #: freedroid.item_archetypes:1994
 msgid "Exterminators need this kind of ammunition. It can cause skin irritations due to leaking extermination radiation when carried close to the body for long time."
-msgstr ""
+msgstr "Az exterminátorok ezt a lőszert tüzelik. A hosszú távon - a testhez közel - történő szállítása bőrirritációt okozhat, a lőszerből folyamatosan szivárgó extermináló sugárzás miatt."
 
 #: freedroid.item_archetypes:1998
 msgid "Exterminator"
-msgstr ""
+msgstr "Exterminátor."
 
 #: freedroid.item_archetypes:2014
 msgid "While this weapon is capable of firing really powerful shots, beware of the exceptionally long reloading times. (Don't get swarmed by enemies with this weapon unless you have powerful armor!)"
-msgstr ""
+msgstr "Bár ez a fegyver igazán erős lövések leadására képes, viszonylag hosszú a töltési ideje. (Ne engedd, hogy az ellenségeid körülfogjanak, ha ez van a kezedben, hacsak nincs erős páncélzatod!)"
 
 #: freedroid.item_archetypes:2036
 msgid "The Super Exterminator!!!"
-msgstr ""
+msgstr "A Szuper Exterminátor!!!"
 
 #: freedroid.item_archetypes:2052
 msgid "This bad boy is known to blow away most enemies with a single blast. A dangerous weapon that you don't want to be on the receiving end of."
-msgstr ""
+msgstr "Ez a rosszfiú elfújja az ellenséget az első lövésre. Veszélyes fegyver, aminek nem akarnál a rosszabbik végén állni."
 
 #: freedroid.item_archetypes:2082
 msgid "VMX Gas Grenade"
-msgstr ""
+msgstr "VMX Gázgránát."
 
 #: freedroid.item_archetypes:2095
 msgid "The gas does not look terrifying. It even smells somewhat nice. And then you die. You die a most horrible death, never knowing what killed you."
-msgstr ""
+msgstr "A gáz nem tűnik borzalmasnak. Söt, jó illata van. Aztán meghalsz. Borzalmas halállal úgy, hogy sohasem tudod meg mitől."
 
 #: freedroid.item_archetypes:2099
 msgid "EMP Shockwave Generator"
-msgstr ""
+msgstr "EMP Sokkhullám Generátor"
 
 #: freedroid.item_archetypes:2111
 msgid "This sphere contains a few strange bits of technology invented by Nikola Tesla in the early 20th century. The magnetic pulse that it generates can destroy most electronic devices in just one blast."
-msgstr ""
+msgstr "Ez az eszköz a Nikola Tesla által, a XX. században felfedezett technológián alapul. Az általa generált mágneses impulzus a legtöbb elektronikus szerkezetet egy lövéssel elpusztítja."
 
 #: freedroid.item_archetypes:2115
 msgid "Plasma Shockwave Emitter"
-msgstr ""
+msgstr "Plazma Sokkhollám Emitter"
 
 #: freedroid.item_archetypes:2127
 msgid "Said to be the downscaled version of the original Pandora's Sphere, this device extinguishes life with superheated plasma."
-msgstr ""
+msgstr "A Pandora Szelencéjének kissé butított változataként ismert, és ez a szerkezet szuperforró plazmával pusztít."
 
 #: freedroid.item_archetypes:2139
 msgid "NPC Hand to hand weapon"
-msgstr ""
+msgstr "NPC Kézifegyver"
 
 #: freedroid.item_archetypes:2152
 msgid "Bot use only"
-msgstr ""
+msgstr "Csak botok használhatják"
 
 #: freedroid.item_archetypes:2174
 msgid "Droid weaponry - 123 : Weak robotic arm"
-msgstr ""
+msgstr "Droid fegyverzet - 123 : Gyenge robotkar"
 
 #: freedroid.item_archetypes:2185
 #: freedroid.item_archetypes:2218
@@ -495,95 +495,95 @@ msgstr ""
 #: freedroid.item_archetypes:2704
 #: freedroid.item_archetypes:2739
 msgid "Droid weaponry"
-msgstr ""
+msgstr "Droid fegyverzet"
 
 #: freedroid.item_archetypes:2207
 msgid "Droid weaponry - 139 : Plasma trash vaporiser"
-msgstr ""
+msgstr "Droid fegyverzet - 139 :  Plazma szemétmegsemmisítő"
 
 #: freedroid.item_archetypes:2240
 msgid "Droid weaponry - 247 : Weak robotic arm"
-msgstr ""
+msgstr "Droid fegyverzet - 247 : Gyenge robotkar"
 
 #: freedroid.item_archetypes:2275
 msgid "Droid weaponry - 249 : Pulse Laser welder"
-msgstr ""
+msgstr "Droid fegyverzet - 249 : Impulzuslézer-hegesztő"
 
 #: freedroid.item_archetypes:2308
 msgid "Droid weaponry - 296 : Plasma beam cutter"
-msgstr ""
+msgstr "Droid fegyverzet - 296 : Plazmasugár-vágó"
 
 #: freedroid.item_archetypes:2343
 msgid "Droid weaponry - 302"
-msgstr ""
+msgstr "Droid fegyverzet - 302"
 
 #: freedroid.item_archetypes:2378
 msgid "Droid weaponry - 329"
-msgstr ""
+msgstr "Droid fegyverzet - 329"
 
 #: freedroid.item_archetypes:2413
 msgid "Droid weaponry - 420"
-msgstr ""
+msgstr "Droid fegyverzet - 420"
 
 #: freedroid.item_archetypes:2448
 msgid "Droid weaponry - 476 (Small Single Laser)"
-msgstr ""
+msgstr "Droid fegyverzet - 476 (Kis Szimpla Lézer)"
 
 #: freedroid.item_archetypes:2481
 msgid "Droid weaponry - 493"
-msgstr ""
+msgstr "Droid fegyverzet - 493"
 
 #: freedroid.item_archetypes:2516
 msgid "Droid weaponry - 516"
-msgstr ""
+msgstr "Droid fegyverzet - 516"
 
 #: freedroid.item_archetypes:2551
 msgid "Droid weaponry - 543 : Laser beam cutter"
-msgstr ""
+msgstr "Droid fegyverzet - 543 : Lézersugár-vágó"
 
 #: freedroid.item_archetypes:2586
 msgid "Droid weaponry - 571"
-msgstr ""
+msgstr "Droid fegyverzet - 571"
 
 #: freedroid.item_archetypes:2621
 msgid "Droid weaponry - 598"
-msgstr ""
+msgstr "Droid fegyverzet - 598"
 
 #: freedroid.item_archetypes:2656
 msgid "Droid weaponry - 615,751,834 (Advanced Single Laser)"
-msgstr ""
+msgstr "Droid fegyverzet - 615,751,834 (Közepes Szimpla Lézer)"
 
 #: freedroid.item_archetypes:2689
 msgid "Droid weaponry - 629,711,742,821,999 (Advanced Twin Laser)"
-msgstr ""
+msgstr "Droid fegyverzet - 629,711,742,821,999 (Közepes Dupla Lézer)"
 
 #: freedroid.item_archetypes:2726
 msgid "Droid weaponry - 883 (Bot exterminator)"
-msgstr ""
+msgstr "Droid fegyverzet - 883 (Bot exterminátor)"
 
 #: freedroid.item_archetypes:2795
 msgid "Reinforced Boots"
-msgstr ""
+msgstr "Erősített Bakancs"
 
 #: freedroid.item_archetypes:2796
 msgid "These boots were originally normal boots, but have been fitted with some extra reinforcements to give better protection to the wearer. Of course this makes them a bit less elegant and also less comfy to wear, but the extra protection might be worth it, at less than the price of hiking boots."
-msgstr ""
+msgstr "Ezek az eredendően normál bakancsok kaptak némi erősítést a kritikus helyeken, hogy jobban védjék viselőjüket. Természetesen így kevésbé elegánsak, és kevésbé kényelmesek, de az extra védelem megéri, főleg, mert olcsóbb, mint egy túrabakancs."
 
 #: freedroid.item_archetypes:2797
 msgid "Hiking Boots"
-msgstr ""
+msgstr "Túrabakancs"
 
 #: freedroid.item_archetypes:2798
 msgid "These hiking boots are a very sophisticated product, combining optimal comfort for the wearer with a good protection from collisions with blunt objects like stones, which of course also makes for a higher price."
-msgstr ""
+msgstr "A túrabakancs egy kiváló termék, ami ötvözi a kényelmességet a jó védelemmel. Jól véd a kövek és az egyéb leeső tárgyak ellen, de az ára is magasabb."
 
 #: freedroid.item_archetypes:2833
 msgid "Normal Jacket"
-msgstr ""
+msgstr "Normál Kabát"
 
 #: freedroid.item_archetypes:2849
 msgid "Does a decent job of protection. I guess. Maybe. I'm not sure."
-msgstr ""
+msgstr "Talán véd valamicskét. Azt hiszem. Talán. Nem vagyok benne túl biztos."
 
 #: freedroid.item_archetypes:2853
 msgid "Reinforced Jacket"
