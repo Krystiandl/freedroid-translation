@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-06-02 07:42+0000\n"
-"PO-Revision-Date: 2010-06-03 12:08+0200\n"
+"PO-Revision-Date: 2010-06-04 10:50+0200\n"
 "Last-Translator: jordi <jordiferren@gmail.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -24,7 +24,7 @@ msgstr "Guay. Ahora vuelve de donde has venido. Este no es sitio para ti."
 
 #: HF-GateGuard.dialog:48
 msgid "What's the matter with this gate?"
-msgstr "Que problema hay con esta puerta?"
+msgstr "¿Que problema hay con esta puerta?"
 
 #: HF-GateGuard.dialog:50
 msgid "This is a gate to an automated bot factory we call the Hell Fortress."
@@ -44,7 +44,7 @@ msgstr "Fuera de aquí. Podrían atacar en cualquier momento!"
 
 #: HF-GateGuard.dialog:57
 msgid "What if I just walk in there? Will you try to stop me?"
-msgstr "Que pasa si camino hacia ahí? Trataras de detenerme?"
+msgstr "¿Que pasa si camino hacia ahí? ¿Trataras de detenerme?"
 
 #: HF-GateGuard.dialog:59
 msgid "Of course not. Murdering you would be a complete waste of time."
@@ -63,7 +63,7 @@ msgstr "Solo recuerda darme tus objetos valiosos antes de cometer el suicidio."
 msgid "You won't need any money once you're damn dead, and I could use it, eh?"
 msgstr ""
 "No necesitaras más dinero cuando estés rematadamente muerto, y yo podría "
-"usarlo, eh?"
+"usarlo ¿no?"
 
 #: HF-GateGuard.dialog:67
 msgid "Thanks for the advice."
