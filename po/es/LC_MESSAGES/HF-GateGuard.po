@@ -7,10 +7,10 @@ msgstr ""
 "PO-Revision-Date: 2010-06-04 10:50+0200\n"
 "Last-Translator: jordi <jordiferren@gmail.com>\n"
 "Language-Team: none\n"
-"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Virtaal 0.5.2\n"
 
@@ -28,15 +28,11 @@ msgstr "¿Que problema hay con esta puerta?"
 
 #: HF-GateGuard.dialog:50
 msgid "This is a gate to an automated bot factory we call the Hell Fortress."
-msgstr ""
-"Esta puerta lleva a una fabrica automatizada de robots, la llamamos la "
-"Fortaleza Infernal."
+msgstr "Esta puerta lleva a una fabrica automatizada de robots, la llamamos la Fortaleza Infernal."
 
 #: HF-GateGuard.dialog:51
-msgid ""
-"You must be crazy if you want to get in there. That place is full of bots."
-msgstr ""
-"Debes estar loco si quieres entrar ahí. Este sitio esta lleno de robots."
+msgid "You must be crazy if you want to get in there. That place is full of bots."
+msgstr "Debes estar loco si quieres entrar ahí. Este sitio esta lleno de robots."
 
 #: HF-GateGuard.dialog:52
 msgid "Get out of here. They might attack at any moment!"
@@ -51,9 +47,8 @@ msgid "Of course not. Murdering you would be a complete waste of time."
 msgstr "Por supuesto que no. Matarte sería una completa perdida de tiempo."
 
 #: HF-GateGuard.dialog:60
-#, fuzzy
 msgid "The bots and disruptor shield will take care of that for me."
-msgstr "Los robots y el escudo se harán cargo de eso por mí."
+msgstr "Los robots y el campo de energía se harán cargo de eso por mí."
 
 #: HF-GateGuard.dialog:61
 msgid "Just remember to give me your valuables before you commit suicide."
@@ -61,9 +56,7 @@ msgstr "Solo recuerda darme tus objetos valiosos antes de cometer el suicidio."
 
 #: HF-GateGuard.dialog:62
 msgid "You won't need any money once you're damn dead, and I could use it, eh?"
-msgstr ""
-"No necesitaras más dinero cuando estés rematadamente muerto, y yo podría "
-"usarlo ¿no?"
+msgstr "No necesitaras más dinero cuando estés rematadamente muerto, y yo podría usarlo ¿no?"
 
 #: HF-GateGuard.dialog:67
 msgid "Thanks for the advice."
