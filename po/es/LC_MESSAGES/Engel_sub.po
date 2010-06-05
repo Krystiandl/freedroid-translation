@@ -1,149 +1,170 @@
+# jordi <jordiferren@gmail.com>, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-06-02 07:42+0000\n"
-"PO-Revision-Date: 2010-06-02 07:42+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-06-05 08:54+0200\n"
+"Last-Translator: jordi <jordiferren@gmail.com>\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.5.2\n"
 
 #: Engel_sub.dialog:36
 msgid ""
-"I'm ready. Please show me how to extract bot parts. (cost 50 "
-"circuits, 1 ability point)"
+"I'm ready. Please show me how to extract bot parts. (cost 50 circuits, 1 "
+"ability point)"
 msgstr ""
+"Estoy listo. Por favor, muéstrame como extraer partes de los robots. (cuesta "
+"50 créditos, 1 punto de habilidad)"
 
 #: Engel_sub.dialog:55 Engel_sub.dialog:60
 msgid "Hmmm..."
-msgstr ""
+msgstr "Mmmm..."
 
 #: Engel_sub.dialog:56
 msgid "You look green. Toughen up. Get some experience, kill some bots."
 msgstr ""
+"Estás verde. Hazte fuerte. Consigue algo de experiencia matando algunos "
+"robots."
 
 #: Engel_sub.dialog:57
 msgid "Then we can talk."
-msgstr ""
+msgstr "Entonces podremos hablar."
 
 #: Engel_sub.dialog:61
 msgid "Kein geld, keine hilfe."
-msgstr ""
+msgstr "Kein geld, keine hilfe (sin dinero, no hay ayuda)."
 
 #: Engel_sub.dialog:62
 msgid "Come back with some money."
-msgstr ""
+msgstr "Vuelve con algo de dinero."
 
 #: Engel_sub.dialog:79
 msgid "Let us start with entropy inverters. This is quite simple."
-msgstr ""
+msgstr "Empecemos con los transformadores de entropía. Esto es sencillo."
 
 #: Engel_sub.dialog:80
 msgid "Just take a hammer and hit the bot sehr hard on the head."
-msgstr ""
+msgstr "Coge un martillo y golpea sehr fuerte a la cabeza del robot."
 
 #: Engel_sub.dialog:81
 msgid ""
-"When you have the head open wide, look around for a part which looks "
-"like two circles around a cube. That is what you are looking for."
+"When you have the head open wide, look around for a part which looks like "
+"two circles around a cube. That is what you are looking for."
 msgstr ""
+"Cuando le hayas abierto la cabeza, mira por el alrededor si hay una parte "
+"que parezcan dos círculos alrededor de un cubo. Esto es lo que buscas."
 
 #: Engel_sub.dialog:89
 msgid "How about... Plasma transistors? Trivial."
-msgstr ""
+msgstr "¿Que hay de? ... los transistores de Plasma. Trivial."
 
 #: Engel_sub.dialog:90
-msgid ""
-"Remove the bot's engine and look around somewhere close to the "
-"battery."
-msgstr ""
+msgid "Remove the bot's engine and look around somewhere close to the battery."
+msgstr "Retira el motor del robot y mira si alrededor de la batería."
 
 #: Engel_sub.dialog:91
 msgid ""
-"Plasma transistors are shaped like the letter Y. Just rip them out, "
-"it's safe."
+"Plasma transistors are shaped like the letter Y. Just rip them out, it's "
+"safe."
 msgstr ""
+"Los transistores de Plasma tienen la forma de letra Y. Retirala, es seguro"
 
 #: Engel_sub.dialog:99
 msgid "Hmmm... Ah, gut. Superconductors."
-msgstr ""
+msgstr "Mmmm... Ah, gut. Superconductores."
 
 #: Engel_sub.dialog:100
 msgid "They are relatively easy to get out."
-msgstr ""
+msgstr "Son relativamente fáciles de sacar."
 
 #: Engel_sub.dialog:101
 msgid ""
-"Look around the electric system. Power coils, capacitors, generators "
-"and the like. Usually there are plenty of sehr gut parts there."
+"Look around the electric system. Power coils, capacitors, generators and the "
+"like. Usually there are plenty of sehr gut parts there."
 msgstr ""
+"Mira alrededor del sistema eléctrico. Las bobinas, condensadores, "
+"generadores y lo que se le parezca. Normalmente hay sehr gut (muy buenas) "
+"piezas."
 
 #: Engel_sub.dialog:102
 msgid "Wear rubber gloves. Just in case, you know."
-msgstr ""
+msgstr "Lleva guantes de goma. Por si acaso, ya sabes."
 
 #: Engel_sub.dialog:110
 msgid "I will tell you everything about matter-antimatter converters."
-msgstr ""
+msgstr "Te contaré todo sobre los transformadores de materia-antimateria."
 
 #: Engel_sub.dialog:111
 msgid "Yes... Converters are a problem."
-msgstr ""
+msgstr "Sí... Los transformadores son un problema."
 
 #: Engel_sub.dialog:112
 msgid ""
-"They are easy to find, all you have to do is to get to the engine. "
-"But you must remember something very important:"
+"They are easy to find, all you have to do is to get to the engine. But you "
+"must remember something very important:"
 msgstr ""
+"Son fáciles de encontrar, todo lo que tienes que hacer es coger el motor. "
+"Per tienes que recordar algo muy importante:"
 
 #: Engel_sub.dialog:113
 msgid "Make sure you turn the converter off before you remove it."
-msgstr ""
+msgstr "Asegúrate de desconectar el transformador antes de quitarlo."
 
 #: Engel_sub.dialog:114
 msgid ""
-"If you do not do that, you will only succeed in converting yourself "
-"to anti-matter. And as you know, there is no coming back from there."
+"If you do not do that, you will only succeed in converting yourself to anti-"
+"matter. And as you know, there is no coming back from there."
 msgstr ""
+"Si no lo haces, tan solo ocurrirá que te convertirás a ti mismo en "
+"antimateria. Y como sabes, no hay retorno desde ahí."
 
 #: Engel_sub.dialog:122
 msgid "I will teach you about tachyon converters."
-msgstr ""
+msgstr "Te enseñaré sobre los transformadores de taquión."
 
 #: Engel_sub.dialog:123
 msgid ""
-"Tachyons are very interesting particles. Many stories have been told "
-"about them."
+"Tachyons are very interesting particles. Many stories have been told about "
+"them."
 msgstr ""
+"Los taquiónes son partículas muy interesantes. Se han contado muchas "
+"historias sobre ellos."
 
 #: Engel_sub.dialog:124
 msgid ""
-"I have no idea why bots have them inside. They are usually not "
-"connected to anything and serve no function."
+"I have no idea why bots have them inside. They are usually not connected to "
+"anything and serve no function."
 msgstr ""
+"No tengo ni idea de porque los robots los tienen dentro. No los tienen "
+"conectados a nada y no les proporcionan ninguna función"
 
 #: Engel_sub.dialog:125
 msgid ""
 "They are usually quite hot when you get them out, but they cool down "
 "quickly, so handling them is not a big deal."
 msgstr ""
+"Están bastante calientes cuando los quieres sacar, pero se enfrían "
+"rápidamente, así que cogerlos no es un gran problema."
 
 #: Engel_sub.dialog:126
 msgid ""
-"They can be installed just about anywhere, so you have to spend some "
-"time digging through the circuits to find one."
+"They can be installed just about anywhere, so you have to spend some time "
+"digging through the circuits to find one."
 msgstr ""
+"Pueden ser instalados en cualquier parte, así que gasta algo de tiempo "
+"escarbando a través de los circuitos para encontrar alguno."
 
 #: Engel_sub.dialog:134
 msgid ""
-"Nein, I told you everything I know about that. No use asking me "
-"twice, ja?"
-msgstr ""
+"Nein, I told you everything I know about that. No use asking me twice, ja?"
+msgstr "Nein, Te he contado todo lo que se. No me preguntes dos veces, ¿ja?"
 
 #: Engel_sub.dialog:139
 msgid "Maybe another time."
-msgstr ""
+msgstr "Puede que en otra ocasión."
