@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-06-04 12:42+0100\n"
+"PO-Revision-Date: 2010-06-05 15:06+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -347,51 +347,51 @@ msgstr "Elég erős, hogy egy teherautót is megállítson, és annak a valósz�
 
 #: freedroid.item_archetypes:1676
 msgid "Laser power pack"
-msgstr ""
+msgstr "Lézer energia pack"
 
 #: freedroid.item_archetypes:1691
 msgid "Energy crystal load for laser weapons and other powertools. Each round fired consumes a load within the crystal."
-msgstr ""
+msgstr "Energiakristály töltet a lézerfegyverekhez, és egyéb eszközökhöz. Minden lövés adott mennyiségű töltést használ fela kristályból."
 
 #: freedroid.item_archetypes:1695
 msgid "Laser pistol"
-msgstr ""
+msgstr "Lézer pisztoly"
 
 #: freedroid.item_archetypes:1711
 msgid "A basic laser, but it has good uses in certain situations. No warranty of any kind, though."
-msgstr ""
+msgstr "Alapszintű lézer, de általában jó haszna van. Bár erre nincs garancia."
 
 #: freedroid.item_archetypes:1733
 msgid "Laser Rifle"
-msgstr ""
+msgstr "Lézer karabély"
 
 #: freedroid.item_archetypes:1749
 msgid "This rifle is a high-end laser weapon. There is only one problem with it: Shooting it is too much fun. People often end up with no ammunition in the middle of a battle."
-msgstr ""
+msgstr "Ez egy csúcs lézerfegyver. Egy probléma van csak vele: nagyon jó lövöldözni vele. Éppezért sokan sokszor fogynak ki a lőszerből a csata közepette."
 
 #: freedroid.item_archetypes:1771
 msgid "Laser Pulse Rifle"
-msgstr ""
+msgstr "Lézer Impulzus Karabély"
 
 #: freedroid.item_archetypes:1785
 msgid "The pulse laser technology, allowing for many repeated short bursts without the weapon overheating, makes this quite a useful weapon. The damage from each shot is noticably less than from a Laser rifle, but the firing rate more than makes up for it."
-msgstr ""
+msgstr "Az impulzuslézer technológia lehetővé teszi a gyors sorozatok lövését túlmelegedés nélkül, ezért ez egy elég hasznos fegyver. A lövésenként okozott sérülés észrevehetően kisebb a Lézer Karabélynál, de a tűzgyorsaság ezt kompenzálja valamelyest."
 
 #: freedroid.item_archetypes:1809
 msgid "Laser Pulse Cannon"
-msgstr ""
+msgstr "Lézer Impulzus Ágyú"
 
 #: freedroid.item_archetypes:1823
 msgid "The pulse laser technology, allowing for many repeated short bursts without the weapon overheating, combined with a military design makes this weapon the preferred choice for most soldiers. Its quick no-recoil firing, large magazine, and awesome killing power makes it the ideal weapon for cleansing large droid infestations in mere minutes."
-msgstr ""
+msgstr "Az impulzuslézer technológia lehetővé teszi a gyors sorozatok lövését túlmelegedés nélkül, és ez még kombinálva van a katonai fejlesztésekkel. Ez teszi a katonák legjobb választásává ezt a fegyvert. Gyors töltése, nagy tárkapacitása és durva ölőhatása ideálissá teszi a nagy droidszámok pár perc alatti csökkentésére."
 
 #: freedroid.item_archetypes:1847
 msgid "Plasma energy container"
-msgstr ""
+msgstr "Plazma energia tároló"
 
 #: freedroid.item_archetypes:1862
 msgid "A container filled with all materials and energy required to make plasma weapons work in one handy and relatively safe package. This is the most common way of loading a plasma weapon."
-msgstr ""
+msgstr "Egy tároló, amely a plazmafegyverek működtetéséhez szükséges anyagokkal és energiával van tele. Kézhezálló és biszonylag biztonságos. Ez a plazmafegyverek megtöltésének általános módja."
 
 #: freedroid.item_archetypes:1866
 msgid "Plasma pistol"
@@ -579,7 +579,7 @@ msgstr "A túrabakancs egy kiváló termék, ami ötvözi a kényelmességet a j
 
 #: freedroid.item_archetypes:2833
 msgid "Normal Jacket"
-msgstr "Normál Kabát"
+msgstr "Normál Mellény"
 
 #: freedroid.item_archetypes:2849
 msgid "Does a decent job of protection. I guess. Maybe. I'm not sure."
@@ -587,131 +587,131 @@ msgstr "Talán véd valamicskét. Azt hiszem. Talán. Nem vagyok benne túl bizt
 
 #: freedroid.item_archetypes:2853
 msgid "Reinforced Jacket"
-msgstr ""
+msgstr "Megerősített Mellény"
 
 #: freedroid.item_archetypes:2870
 msgid "One step up from a normal jacket."
-msgstr ""
+msgstr "Egy fokkal jobb a Normál Mellénynél."
 
 #: freedroid.item_archetypes:2874
 msgid "Protective Jacket"
-msgstr ""
+msgstr "Védőmellény"
 
 #: freedroid.item_archetypes:2891
 msgid "Very strong for its size, does a good job of absorbing basic blows."
-msgstr ""
+msgstr "Méretéhez képest nagyon erős, az általános találatoktól remekül véd."
 
 #: freedroid.item_archetypes:2895
 msgid "Red Guard's Light Robe"
-msgstr ""
+msgstr "A Vörös Őrség Könnyű Testpáncélja"
 
 #: freedroid.item_archetypes:2910
 msgid "Tough as nails and able to withstand most blows."
-msgstr ""
+msgstr "Könnyen használható, és a legtöbb találatnak ellenáll."
 
 #: freedroid.item_archetypes:2914
 msgid "Red Guard's Heavy Robe"
-msgstr ""
+msgstr "A Vörös Őrség Nehéz Testpáncélja"
 
 #: freedroid.item_archetypes:2929
 msgid "Defense is acquired at a high level with this durable piece of armor."
-msgstr ""
+msgstr "Magas szintű védettséget ad ez a jó kis páncél."
 
 #: freedroid.item_archetypes:2939
 msgid "Improvised Buckler"
-msgstr ""
+msgstr "Eszkábált Kukafedő"
 
 #: freedroid.item_archetypes:2955
 msgid "This shield is a compilation of various objects which happened to be around. It has tubes, bolts and parts of metal, all slapped together to provide a small bit of protection from enemies. It's very simple and rough, but some sensors and lights have been added to let the wielder know when the item is getting hit, and how long it will remain operational and other cool stuff like that."
-msgstr ""
+msgstr "Ez a pajzs a kukafedőre szerelt szükséganyagokból áll. Van benne vascső, fémalkatrészek, és mindenféle szemét, amely úgy lett összeeszkábálva, hogy legalább némi védelmet nyújtson az ellenséggel szemben. Nagyon egyszerű és durva, de a beépített néhány szenzornak és lámpának köszönhetően jelzi a viselőjének a kapott találatot, és azt is, hogy még meddig marad használható. Kicsit csicsás."
 
 #: freedroid.item_archetypes:2959
 msgid "Bot Carapace"
-msgstr ""
+msgstr "Bot páncél"
 
 #: freedroid.item_archetypes:2975
 msgid "A small, lightweight and pretty straightforward shield. Provides decent protection."
-msgstr ""
+msgstr "Egy kicsi, általános de elég ellenálló pajzs. Tűrhető védelmet nyújt."
 
 #: freedroid.item_archetypes:2979
 msgid "Standard Shield"
-msgstr ""
+msgstr "Standard Pajzs"
 
 #: freedroid.item_archetypes:2993
 msgid "Better than a buckler, and a lot more effective."
-msgstr ""
+msgstr "Jobb, mint a csicsás kukafedő, és sokkal hatékonyabb is."
 
 #: freedroid.item_archetypes:2997
 msgid "Heavy Shield"
-msgstr ""
+msgstr "Nehéz Pajzs"
 
 #: freedroid.item_archetypes:3012
 msgid "A medium sized, lightweight and pretty straightforward shield. Provides decent protection."
-msgstr ""
+msgstr "Közepes méretű, könnyű súlyú, jól használható pajzs. Tűrhető védelmet nyújt."
 
 #: freedroid.item_archetypes:3016
 msgid "Riot Shield"
-msgstr ""
+msgstr "Rendőr Pajzs"
 
 #: freedroid.item_archetypes:3031
 msgid "A powerful shield, as useful to protect from bots as it is to control big crowds of angry protesters."
-msgstr ""
+msgstr "Erőteljes pajzs, ami a botok támadásától éppúgy véd, mint a feldühödött csőcselék okozta sérüléstől."
 
 #: freedroid.item_archetypes:3041
 msgid "Pot Helmet"
-msgstr ""
+msgstr "Kupak Sisak"
 
 #: freedroid.item_archetypes:3055
 msgid "Top of the line head gear, for bots. But rip it off their metal necks and take out the circuits it also manages to protect living beings decently against a myriad of close range and long range attacks."
-msgstr ""
+msgstr "A fejvédők királya, botoknak. De ha letéped a nyakukról, kirángatod az áramköröket, akkor az élőlények fejét is elég jól megvédi a közeli és a távolabbi támadások esetén."
 
 #: freedroid.item_archetypes:3059
 msgid "Worker Helmet"
-msgstr ""
+msgstr "Melós Sisak"
 
 #: freedroid.item_archetypes:3075
 msgid "A simple cover to protect your head. Don't expect to be incognito, your flippers and penguin like body are hard to miss."
-msgstr ""
+msgstr "Egy egyszerű fejvédő. Ne reménykedj, hogy álcázni is fog, a pingvinszerű tested és az úszóhártyás lábad úgyis elárul."
 
 #: freedroid.item_archetypes:3079
 msgid "Miner Helmet"
-msgstr ""
+msgstr "Bányász Sisak"
 
 #: freedroid.item_archetypes:3093
 msgid "It might look a bit silly, but it will save your life many times."
-msgstr ""
+msgstr "Lehet, hogy viccesen néz ki, de az életedet mentheti meg."
 
 #: freedroid.item_archetypes:3097
 msgid "Light Battle Helmet"
-msgstr ""
+msgstr "Könnyű Csatasisak"
 
 #: freedroid.item_archetypes:3114
 msgid "A rather useful helmet, has a few defense issues here and there but mainly is worth the wear."
-msgstr ""
+msgstr "Elég hasznos sisak, elég jó védelmi képessége van, megéri ezt viselni."
 
 #: freedroid.item_archetypes:3118
 msgid "Battle Helmet"
-msgstr ""
+msgstr "Csatasisak"
 
 #: freedroid.item_archetypes:3133
 msgid "Now this is head protection. Feel safe with sturdy iron protecting your head. Not as comfortable as other hats."
-msgstr ""
+msgstr "Na, ez már fejvédő. A fejed ebben biztonságban van, bár nem olyan kényelmes, mint más kalapok."
 
 #: freedroid.item_archetypes:3137
 msgid "Dixon's Helmet"
-msgstr ""
+msgstr "Dixon Sisakja"
 
 #: freedroid.item_archetypes:3149
 msgid "A gift from Dixon. It looks like it is about to turn into dust."
-msgstr ""
+msgstr "Egy ajándék Dixontól. Úgy néz ki, mint ami mindjárt porrá omlik."
 
 #: freedroid.item_archetypes:3159
 msgid "Shoes"
-msgstr ""
+msgstr "Cipő"
 
 #: freedroid.item_archetypes:3173
 msgid "These simple boots are designed for comfort of the wearer more than to give actual protection."
-msgstr ""
+msgstr "Ez az egyszerű cipő inkább a kényelmet, mint a védelmet szolgálja."
 
 #: freedroid.item_archetypes:3177
 msgid "Worker Shoes"
