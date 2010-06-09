@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-06-05 15:06+0100\n"
+"PO-Revision-Date: 2010-06-09 13:46+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -715,144 +715,144 @@ msgstr "Ez az egyszerű cipő inkább a kényelmet, mint a védelmet szolgálja.
 
 #: freedroid.item_archetypes:3177
 msgid "Worker Shoes"
-msgstr ""
+msgstr "Munkavédelmi Cipő"
 
 #: freedroid.item_archetypes:3191
 msgid "These footwear are steel tipped, and generally quite sturdy, giving a bit extra protection."
-msgstr ""
+msgstr "Ez a lábbeli vasalt orrú, és eléggé erős, hogy némi extra védelmet nyújtson."
 
 #: freedroid.item_archetypes:3195
 msgid "Battle Shoes"
-msgstr ""
+msgstr "Katonai Surranó"
 
 #: freedroid.item_archetypes:3209
 msgid "These boots are similar to the simple shoes, but the material they are made of is hardened for extra protection."
-msgstr ""
+msgstr "Ez a lábbeli megerősített anyagokból készül, az extra védelem biztosítása érdekében."
 
 #: freedroid.item_archetypes:3223
 msgid "Source Book of Emergency shutdown"
-msgstr ""
+msgstr "A Vészleállítás Forráskódja"
 
 #: freedroid.item_archetypes:3233
 msgid "Everyone needs to blow off some steam every now and then."
-msgstr ""
+msgstr "Néha mindenkinek ki kell engednie a gőzt."
 
 #: freedroid.item_archetypes:3239
 msgid "Source Book of Check system integrity"
-msgstr ""
+msgstr "A Rendszerintegritás ellenőrzésének Forráskódja"
 
 #: freedroid.item_archetypes:3249
 msgid "An incredible healing program, probably the only one you will ever need."
-msgstr ""
+msgstr "Egy hihetetlen öngyógyító program, valószínűleg az egyetlen, amire mindenképp szükséged van."
 
 #: freedroid.item_archetypes:3255
 msgid "Source Book of Analyze item"
-msgstr ""
+msgstr "Az Eszközanalizálás Forráskódja"
 
 #: freedroid.item_archetypes:3265
 msgid "A book explaining the basics of item analysis."
-msgstr ""
+msgstr "Az eszkötök és tárgyak vizsgálatának alapjai."
 
 #: freedroid.item_archetypes:3271
 msgid "Source Book of Sanctuary"
-msgstr ""
+msgstr "A Menedék Forráskódja"
 
 #: freedroid.item_archetypes:3281
 msgid "The art of rapidly moving away from danger is very useful. Even when used in reverse, it has its uses."
-msgstr ""
+msgstr "A veszélyzóna azonnali elhagyásának művészete nagyon hasznos. Visszafelé használva méginkább."
 
 #: freedroid.item_archetypes:3287
 msgid "Source Book of Malformed packet"
-msgstr ""
+msgstr "A Törött Csomagok Forráskódja"
 
 #: freedroid.item_archetypes:3297
 msgid "When computers are presented with the unexpected, they can damage themselves."
-msgstr ""
+msgstr "Ha a számítógépek nem várt dolgokkal találkoznak, könnyen megsérülhetnek."
 
 #: freedroid.item_archetypes:3303
 msgid "Source Book of Calculate Pi"
-msgstr ""
+msgstr "A Pí Számításának Forráskódja"
 
 #: freedroid.item_archetypes:3313
 msgid "It is not a big problem to make a badly designed system to go hunting for the impossible, causing a performance impact."
-msgstr ""
+msgstr "Nem nagy dolog egy rossz tervezésű rendszert lehetetlen feladatra rávenni, ezáltal okozva teljesítményromlást."
 
 #: freedroid.item_archetypes:3319
 msgid "Source Book of Blue Screen"
-msgstr ""
+msgstr "A Kék Halál Forráskódja"
 
 #: freedroid.item_archetypes:3329
 #: freedroid.item_archetypes:3345
 msgid "With a little touch a war machine comes crashing to a halt. For a while."
-msgstr ""
+msgstr "Egy kis érintéstől lefagyhat a hadigépezet. Egy ideig."
 
 #: freedroid.item_archetypes:3335
 msgid "Source Book of Broadcast Blue Screen"
-msgstr ""
+msgstr "A Kék Halál Megosztásának Forráskódja"
 
 #: freedroid.item_archetypes:3351
 msgid "Source Book of Invisibility"
-msgstr ""
+msgstr "A Láthatatlanság Forráskódja"
 
 #: freedroid.item_archetypes:3361
 msgid "I am not the Linarian you are looking for."
-msgstr ""
+msgstr "Nem én vagyok az a Lináriai, akit te keresel."
 
 #: freedroid.item_archetypes:3367
 msgid "Source Book of Virus"
-msgstr ""
+msgstr "A Vírus Forráskódja"
 
 #: freedroid.item_archetypes:3377
 msgid "This is not just a firmware upgrade, my dear bot. You are about to find out what exactly I want to give you."
-msgstr ""
+msgstr "Ez nem csak egy firmware frissítés, kicsi robot. Nézd csak, mit hoztam neked."
 
 #: freedroid.item_archetypes:3383
 msgid "Source Book of Broadcast virus"
-msgstr ""
+msgstr "A Vírus Megosztás Forráskódja"
 
 #: freedroid.item_archetypes:3393
 msgid "The network is wide and dangerous. Many traps await the weak and unprepared."
-msgstr ""
+msgstr "A hálózat nagy és veszélyes. Sok veszély fenyegeti a gyengéket és készületleneket."
 
 #: freedroid.item_archetypes:3399
 msgid "Source Book of Dispel smoke"
-msgstr ""
+msgstr "A Füst Kivétel Forráskódja"
 
 #: freedroid.item_archetypes:3409
 msgid "By heating up the chips with a malformed program, you can cause them to release the magic smoke which keeps the bot running."
-msgstr ""
+msgstr "A bot processzorok is füsttel működnek. Ha kijön belőlük a füst, nem működnek tovább."
 
 #: freedroid.item_archetypes:3415
 msgid "Source Book of Killer poke"
-msgstr ""
+msgstr "A Gyilkos poke Forráskódja"
 
 #: freedroid.item_archetypes:3425
 msgid "Messing around with the bot's memory can cause it to damage itself, but the damage is greatly variable."
-msgstr ""
+msgstr "A bot memória adatainak összekeverése sérülést okozhat, de a sérülés mértéke erősen változó."
 
 #: freedroid.item_archetypes:3431
 msgid "Source Book of Plasma discharge"
-msgstr ""
+msgstr "A Plazma kisütés Forráskódja"
 
 #: freedroid.item_archetypes:3441
 msgid "The overload setting exists for emergencies. Plasma does not discriminate between bots and humans. Everything is the same to it."
-msgstr ""
+msgstr "A túltöltött plazma nem diszkriminálja az embert és a botot sem. Mindkettővel ugyanazt teszi."
 
 #: freedroid.item_archetypes:3447
 msgid "Source Book of Nethack"
-msgstr ""
+msgstr "A Nethack Forráskódja"
 
 #: freedroid.item_archetypes:3457
 msgid "The open source game called Nethack is one of the world's greatest wasters of time. Machines don't care about it, but humans can get sucked in quite deeply."
-msgstr ""
+msgstr "A nyílt forráskódú Nethack játék az időpocsékolás legjobb módja. A gépek nem foglalkoznak vele, ám az emberek gyorsan képesek túl mélyen belebonyolódni."
 
 #: freedroid.item_archetypes:3463
 msgid "Source Book of Ricer CFLAGS"
-msgstr ""
+msgstr "A CFLAGS rendezés Forráskódja"
 
 #: freedroid.item_archetypes:3473
 msgid "Optimization is the root of all evil. You can gain some temporary improvements to your system, but in the end you are only likely to cause permanent damage."
-msgstr ""
+msgstr "Az optimalizálás minden gonosz forrása. Nyerhetsz némi ideiglenes rendszerteljesítményt, de a végén csak az örök rendszerhiba marad."
 
 #: freedroid.item_archetypes:3479
 msgid "Source Book of Reverse-engineer"
