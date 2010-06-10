@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-06-09 13:46+0100\n"
+"PO-Revision-Date: 2010-06-10 18:19+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -856,167 +856,167 @@ msgstr "Az optimalizálás minden gonosz forrása. Nyerhetsz némi ideiglenes re
 
 #: freedroid.item_archetypes:3479
 msgid "Source Book of Reverse-engineer"
-msgstr ""
+msgstr "A Visszatervezés Forráskódja"
 
 #: freedroid.item_archetypes:3489
 msgid "There is some dark magic in the art of turning bots inside-out to learn all their secrets."
-msgstr ""
+msgstr "Van némi feketemágia a botok kifordításának tudományában. Fordítsd ki és fürkészd ki minden titkukat."
 
 #: freedroid.item_archetypes:3495
 msgid "Source Book of Light"
-msgstr ""
+msgstr "A Fény Forráskódja"
 
 #: freedroid.item_archetypes:3505
 msgid "Let there be light..."
-msgstr ""
+msgstr "S lőn világosság..."
 
 #: freedroid.item_archetypes:3511
 msgid "Source Book of Satellite image"
-msgstr ""
+msgstr "A Műholdkép forráskódja"
 
 #: freedroid.item_archetypes:3521
 msgid "Getting a map of an area is pretty easy when you can look at everything from above."
-msgstr ""
+msgstr "Könnyű egy fentről készült térképen megnézni, mi hol található."
 
 #: freedroid.item_archetypes:3537
 msgid "Strength Pill"
-msgstr ""
+msgstr "Erősítő Tabletta"
 
 #: freedroid.item_archetypes:3547
 msgid "These pills permanently raise strength within a person. They work on a nano-technological basis. Consult your physician, the receipt or pharmacy experts for details on intended effects, possible interactions and side effects of this drug."
-msgstr ""
+msgstr "Ez a tabletta növeli az erőt, és hatása sohasem ér véget. Nanotechnológiai elven működik. A mellékhatások tekintetében kérdezze meg kezelőorvosát, vagy gyógyszerészét."
 
 #: freedroid.item_archetypes:3551
 msgid "Dexterity Pill"
-msgstr ""
+msgstr "Ügyességnövelő kapszula"
 
 #: freedroid.item_archetypes:3561
 msgid "These pills permanently raise dexterity within a person. They work on a nano-technological basis. Consult your physician, the receipt or pharmacy experts for details on intended effects, possible interactions and side effects of this drug."
-msgstr ""
+msgstr "Ez a tabletta növeli az ügyességet, és hatása sohasem ér véget.  Nanotechnológiai elven működik. A mellékhatások tekintetében kérdezze meg kezelőorvosát, vagy gyógyszerészét."
 
 #: freedroid.item_archetypes:3565
 msgid "Code Pill"
-msgstr ""
+msgstr "Kódoló tabletta"
 
 #: freedroid.item_archetypes:3575
 msgid "Dude! This fab food will totally bump up your code skills, man! A real blast. Scarf these down to *see* the code."
-msgstr ""
+msgstr "Öcsém! Ez a cucc totálisan megemeli a programozói képességedet, vazzeg! Told le, hogy *lásd* a kódot."
 
 #: freedroid.item_archetypes:3579
 msgid "Brain Enlargement Pills Antidote"
-msgstr ""
+msgstr "Agynövelő tabletta Antiszérum."
 
 #: freedroid.item_archetypes:3588
 msgid "These pills can reverse the harmful effects of the 'brain enlargement pills' that are publicly sold via the Internet. The planet-wide guild of medics has recommended not to respond to these ads at all, while attempts to entirely ban the distribution of those pills were never completely successful."
-msgstr ""
+msgstr "Ez a szérum képes az Interneten széles körben árusított agynövelő tabletta káros hatásait visszafordítani. Bár a kezelőorvosok és gyógyszerészek bolygószerte ellenzik az agynövelők használatát, eddig sikertelenek voltak az ilyen gyógyszerek eltüntetésére tett erőfeszítések."
 
 #: freedroid.item_archetypes:3592
 msgid "Diet supplement"
-msgstr ""
+msgstr "Étrendkiegészítő"
 
 #: freedroid.item_archetypes:3604
 msgid "Only proper vitamin and mineral intake can keep you healthy during the apocalypse. This can cure a cold."
-msgstr ""
+msgstr "Csak létfontosságú vitamin és ásványi anyag tartalmú szer, amely segít megőrizni az egészséget az apokalipszis közepette. Náthára is jó."
 
 #: freedroid.item_archetypes:3608
 msgid "Antibiotic"
-msgstr ""
+msgstr "Antibiotikum"
 
 #: freedroid.item_archetypes:3620
 msgid "Truly wonderful things can be extracted from molds. This can cure lethal food poisoning. Wish you had that in your last Nethack game, eh?"
-msgstr ""
+msgstr "Hihetetlen dolgok nyerhetők ki az egyszerű penészből. Képes gyógyítani a halálos ételmérgezést. Jó lett volna egy a legutóbbi Nethack játék alatt, mi?"
 
 #: freedroid.item_archetypes:3624
 msgid "Doc-in-a-can"
-msgstr ""
+msgstr "Doki-a-dobozban"
 
 #: freedroid.item_archetypes:3636
 msgid "This is a drink filled with nanobots designed to heal any damage that they notice inside you. It can cure decapitation. Most of the time."
-msgstr ""
+msgstr "Ez egy ital, ami a benned lévő bármilyen sérülés gyógyítására tervezett nanobotokat tartalmaz. Még a lefejezést is meggyógyítja. A legtöbb esetben."
 
 #: freedroid.item_archetypes:3640
 msgid "Bottled ice"
-msgstr ""
+msgstr "Palackozott jég"
 
 #: freedroid.item_archetypes:3652
 msgid "This bottle is filled with ice. It can keep you cool during a warm summer day."
-msgstr ""
+msgstr "Ez a palack jéggel van megtöltve. Hűvösen tart a forró nyári napokon."
 
 #: freedroid.item_archetypes:3656
 msgid "Industrial coolant"
-msgstr ""
+msgstr "Ipari hűtőfolyadék"
 
 #: freedroid.item_archetypes:3668
 msgid "Bartenders around the world add this to drinks to get them cold very fast. Plus, the coolant is much cheaper. It can keep you cool inside a nuclear reactor."
-msgstr ""
+msgstr "A kocsmárosok világszerte adagolják a piához, hogy gyorsan lehűtsék. Továbbá elég olcsó. Még egy nukleáris reaktor belsejében is képes lehűteni."
 
 #: freedroid.item_archetypes:3672
 msgid "Liquid nitrogen"
-msgstr ""
+msgstr "Folyékony nitrogén"
 
 #: freedroid.item_archetypes:3684
 msgid "When you want something frozen solid, this is what you need. It can keep you cool even inside a class M star."
-msgstr ""
+msgstr "Ha valamit keményre akarsz fagyasztani, erre van szükséged. Még egy M tipusú bolygó magjában is képes lehűteni."
 
 #: freedroid.item_archetypes:3688
 msgid "Barf's Energy Drink"
-msgstr ""
+msgstr "Barf Energia Itala"
 
 #: freedroid.item_archetypes:3698
 msgid "Warning! These energy drinks contain high doses of caffeine! The average person drops dead after consuming 12 grams of caffeine. One of these bottles contains over double that amount."
-msgstr ""
+msgstr "Vigyázat! Ez az energiaital nagy dózisban tartalmaz koffeint! Egy átlagember 12 gramm koffeintől beadja a kulcsot. Egy palack ebből, kétszer annyit tartalmaz."
 
 #: freedroid.item_archetypes:3702
 msgid "Running Power Capsule"
-msgstr ""
+msgstr "Kondi Kapszula"
 
 #: freedroid.item_archetypes:3712
 msgid "These small containers hold purified running strength. Each capsule can be used only once, but many of them can be grouped together like one item in your inventory."
-msgstr ""
+msgstr "Ezek a kis kapszulák kondíció kivonatot tartalmaznak. Egy kapszula csak egyszer használható, de a felszereléseid között csoportba rendezhető, így csak egy darab helyét foglalja."
 
 #: freedroid.item_archetypes:3716
 msgid "Strength Capsule"
-msgstr ""
+msgstr "Erő kapszula"
 
 #: freedroid.item_archetypes:3726
 msgid "These small containers hold purified strength. This item will give a temporary boost to strength. Each capsule can be used only once, but many of them can be grouped together like one item in your inventory."
-msgstr ""
+msgstr "Ezek a kis kapszulák erő-kivonatot tartalmaznak. Ideiglenek erőnövekedést képes biztosítani. Egy kapszula csak egyszer használható, de a felszereléseid között csoportba rendezhető, így csak egy darab helyét foglalja."
 
 #: freedroid.item_archetypes:3730
 msgid "Dexterity Capsule"
-msgstr ""
+msgstr "Ügyesség kapszula"
 
 #: freedroid.item_archetypes:3740
 msgid "These small containers hold purified dexterity. This item will give a temporary bonus to dexterity. Each capsule can be used only once, but many of them can be grouped together like one item in your inventory."
-msgstr ""
+msgstr "Ez a kis kapszula ügyesség kivonatot tartalmaz. Ideiglenesen emeli az ügyességedet. Egy kapszula csak egyszer használható, de a felszereléseid között csoportba rendezhető, így csak egy darab helyét foglalja."
 
 #: freedroid.item_archetypes:3752
 msgid "Valuable Circuits"
-msgstr ""
+msgstr "Rugó"
 
 #: freedroid.item_archetypes:3761
 msgid "The new monetary standard of the world. With the collapse of the banking system, the precious metals in bot circutry has literally become hard cash. A bit hard to come by though, as the bots are not likely to just hand it over..."
-msgstr ""
+msgstr "A világ új fizetőeszköze. A bankrendszer összeomlása után a botok nemesebb alkatrészei használatosak készpénzként. Hivatalosan áramkörnek nevezték, de a Rugó megnevezés terjedt el. Nehéz hozzájutni, mert a botok nem szívesen válnak meg tőlük..."
 
 #: freedroid.item_archetypes:3765
 msgid "Anti-grav Pod for Droids"
-msgstr ""
+msgstr "Anti-gravitációs eszköz droidoknak"
 
 #: freedroid.item_archetypes:3775
 msgid "The bots use this to hover around."
-msgstr ""
+msgstr "A botok használják közlekedési eszközként."
 
 #: freedroid.item_archetypes:3779
 msgid "Dixon's Toolbox"
-msgstr ""
+msgstr "Dixon Szerszámosládája"
 
 #: freedroid.item_archetypes:3788
 msgid "This is a teleporter service toolbox. It's complete and orderly, though a few dents on the outside give proof of frequent use. 'C. Dixon' is carved into the outside with fine print."
-msgstr ""
+msgstr "Ez egy teleport berendezés szerszámkészlete. Hiánytalan, ám öregecske készlet, és a számos horpadás bizonyítja a gyakori használatát. A felületére a 'C. Dixon' felrat van gravírozva."
 
 #: freedroid.item_archetypes:3792
 msgid "Entropy Inverter"
-msgstr ""
+msgstr "Entrópia Inverter"
 
 #: freedroid.item_archetypes:3801
 #: freedroid.item_archetypes:3814
@@ -1024,105 +1024,105 @@ msgstr ""
 #: freedroid.item_archetypes:3840
 #: freedroid.item_archetypes:3853
 msgid "This is an standard part within many robot types."
-msgstr ""
+msgstr "Ez számos robot standard alkatrésze."
 
 #: freedroid.item_archetypes:3805
 msgid "Plasma Transistor"
-msgstr ""
+msgstr "Plazma Tranzisztor"
 
 #: freedroid.item_archetypes:3818
 msgid "Superconducting Relay Unit"
-msgstr ""
+msgstr "Szupravezető Relé Egység"
 
 #: freedroid.item_archetypes:3831
 msgid "Antimatter-Matter Converter"
-msgstr ""
+msgstr "Anyag-Antianyag Átalakító"
 
 #: freedroid.item_archetypes:3844
 msgid "Tachyon Condensator"
-msgstr ""
+msgstr "Tachyon Kondenzátor"
 
 #: freedroid.item_archetypes:3857
 msgid "Desk Lamp"
-msgstr ""
+msgstr "Asztali Lámpa"
 
 #: freedroid.item_archetypes:3866
 msgid "What would modern science be without this important item?"
-msgstr ""
+msgstr "Hol lenne a modern tudomány e fontos eszköz nélkül?"
 
 #: freedroid.item_archetypes:3870
 msgid "Red Dilithium Crystal"
-msgstr ""
+msgstr "Vörös Dilítium Kristály"
 
 #: freedroid.item_archetypes:3879
 msgid "These dilithium crystals are used as an energy source in many modern electricity or heat based devices. Energy is extracted from the crystal by making use of the ordering of the crystal molecules. This principle has allowed us to build devices that consume a lot of energy, but do not need to be connected to a power line."
-msgstr ""
+msgstr "Ez a dilítium kristály a mai modern hő és energia működtetésű eszközök általános energiaforrása. Az energiakinyerés a kristály molekuláinak gerjesztésével biztosítható. Használatával olyan nagy energiaigényű eszközök építését teszi lehetővé, amelyeknek nincs szükségük hálózati tápellátásra."
 
 #: freedroid.item_archetypes:3883
 msgid "Map Maker"
-msgstr ""
+msgstr "Térkép Készítő"
 
 #: freedroid.item_archetypes:3894
 msgid "This small device automatically collects data about the area within a range of 7 times 7 meters and draws a small-scale plan of the immediate surroundings. Because of its very tiny display, it needs to be held closely to the eye, and the image will then be projected directly into the eyeball of the user. Still, the collected map data will be split up by the device into several sectors for convenient viewing."
-msgstr ""
+msgstr "Ez a kis egység 7-szer 7 méteres területről gyűjt automatikusan adatokat, és ezekből egy kis térképet rajzol. A picike méret miatt a szemhez nagyon közel kell viselni, és a képet közvetlenül a szemgolyóra vetíti. A könnyebb átláthatóság miatt az elkészített térképet az egység több, kisebb szektorra bontja."
 
 #: freedroid.item_archetypes:3898
 msgid "Light Enhancer? to be incluced in the future..."
-msgstr ""
+msgstr "Fény Növelő"
 
 #: freedroid.item_archetypes:3909
 msgid "See better in the dark. "
-msgstr ""
+msgstr "Láss jobban a sötétben."
 
 #: freedroid.item_archetypes:3913
 msgid "Fork"
-msgstr ""
+msgstr "Villa"
 
 #: freedroid.item_archetypes:3922
 #: freedroid.item_archetypes:3937
 #: freedroid.item_archetypes:3950
 #: freedroid.item_archetypes:3963
 msgid "This item is part of the 'Self Cleaning Kitchen' (SCK) project from before the Great Assault. All of the items in the SCK project have an inner mechanism that will clean the object automatically if left alone for a given time. It comes with its own power supply, and has a supposed duration of 200 years."
-msgstr ""
+msgstr "Ez az eszköz az 'Öntisztító Konyha' (ÖTK) projekt egy darabja, ami a Nagy Ostrom előtti időkből származik. Az ÖTK projekt mindegyik darabja egy beépített mechanizmusnak köszönhetően megtisztítja önmagát, ha egy ideig nem nyúlunk hozzá. Saját energiaforrással rendelkezik, melynek tervezett élettartama 200 év."
 
 #: freedroid.item_archetypes:3926
 msgid "Plate"
-msgstr ""
+msgstr "Tányér"
 
 #: freedroid.item_archetypes:3941
 #: freedroid.item_archetypes:3954
 msgid "Mug"
-msgstr ""
+msgstr "Bögre"
 
 #: freedroid.item_archetypes:3967
 msgid "Identification Script"
-msgstr ""
+msgstr "Azonosító Szkript"
 
 #: freedroid.item_archetypes:3977
 msgid "Point and click. Point and know anything. Point, and I will show you the correct path. Point, and I will be there. Point, and I will protect you."
-msgstr ""
+msgstr "Mutasd és kattints. Mutass rá, és tudj meg mindent. Mutass rá, és megmutatom a biztonságos utat. Mutass rá, és én ott leszek. Kattints, és megvédelek."
 
 #: freedroid.item_archetypes:3981
 msgid "Teleporter homing beacon"
-msgstr ""
+msgstr "Teleportációs jeladó"
 
 #: freedroid.item_archetypes:3993
 msgid "This device sends a signal to a nearby teleporter requesting a transport, and then helps with locking on and boosting the signal to ensure the teleportation attempt is succcessful. The battery inside is sufficient for one use *only* and the device becomes useless afterwards. At least, most people don't try to use them twice... and those few who do usually end up with parts of their body missing or attached in the wrong place. Note: Multiple of these may be grouped together in the inventory."
-msgstr ""
+msgstr "Ez az eszköz egy transzport kérő jelet küld a közeli teleporter állomásra, és segit az érkező jel felerősítésében és rögzítésében a sikeres teleportációhoz. A belső elem csak egyetlen használatra elegendő energiát tartalmaz, utána használhatatlanná válik. A legtöbb ember amúgy sem akarná kétszer használni... mert az a pár, aki már megtette, általában két helyen jelent meg egyszerre. Több darabban. Ezeket is csoportosíthatod az eszköztáradban, és akkor csak egy helyet foglalnak el."
 
 #: freedroid.item_archetypes:3997
 msgid "Kevin's Data Cube"
-msgstr ""
+msgstr "Kevin Adatkockája"
 
 #: freedroid.item_archetypes:4006
 msgid "This data cube contains confidential government data on the installations around the town. Kevin hopes that when the data is evaluated properly, a way out of the current crisis might be found. However, the amount of data is so vast, it can only be evaluated properly using a large cluster of computers. The Red Guard base is said to store an infrastructure suitable to this purpose."
-msgstr ""
+msgstr "Ez az adatkocka minősített kormányadatokat tartalmaz a várost körülvevő installációkról. Kevin reméli, hogy az adatok szakszerű felhasználásával kiút nyílik a jelenlegi krízishelyzetből. Ám az adatmennyiség olyan hatalmas, hogy csak egy nagyobb számítógéphálózattal dolgozható fel. Azt beszélik, hogy a Vörös Ősrég által birtokolt infrastruktúra alkalmas lenne erre."
 
 #: freedroid.item_archetypes:4010
 msgid "Pandora's Cube"
-msgstr ""
+msgstr "Pandora Kockája"
 
 #: freedroid.item_archetypes:4021
 msgid "This is heavy. Cannot the end of the world come in a smaller package? It would be a great time for Duncan to explain a few things..."
-msgstr ""
+msgstr "Nehéz ügy. Nem jöhetne a világvége ennél kisebb csomagolásban? Jó lenne, ha Duncan kitalálna erre valamit..."
 
