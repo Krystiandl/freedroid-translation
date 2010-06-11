@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-06-11 10:17+0100\n"
+"Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,182 +13,135 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: freedroid.droid_archetypes:99
-msgid ""
-"A simple rubbish diposal robot. Common device in most space craft to "
-"maintain a clean ship."
-msgstr ""
+msgid "A simple rubbish diposal robot. Common device in most space craft to maintain a clean ship."
+msgstr "Egyszerű szemétmegsemmisítő robot. A legtöbb űrjárművön a tisztántartás általános ezköze."
 
 #: freedroid.droid_archetypes:132
-msgid ""
-"Created by Dr. Masternak to clean up large heaps of rubbish. Its "
-"large scoop is used to collect rubbish. It is then crushed internally."
-msgstr ""
+msgid "Created by Dr. Masternak to clean up large heaps of rubbish. Its large scoop is used to collect rubbish. It is then crushed internally."
+msgstr "Dr. Masternak részére készült, a nagy szemétkupacok eltakarítására. Hosszú szedőkarja gyűjti be a szemetet, amelynek megsemmisítése belül történik."
 
 #: freedroid.droid_archetypes:164
-msgid ""
-"A light duty servant robot. One of the first to use the anti-grav "
-"system."
-msgstr ""
+msgid "A light duty servant robot. One of the first to use the anti-grav system."
+msgstr "Könnyű szolgarobot. Az antigravitációs rendszert használók első példánya."
 
 #: freedroid.droid_archetypes:196
 msgid "Cheaper version of the anti-grav servant robot."
-msgstr ""
+msgstr "Az antigravitációs szolgarobot olcsóbb változata."
 
-#: freedroid.droid_archetypes:228 freedroid.droid_archetypes:1124
+#: freedroid.droid_archetypes:228
+#: freedroid.droid_archetypes:1124
 msgid "Run away! This bot will kill you!"
-msgstr ""
+msgstr "Fuss el! Ez a bot meg fog ölni!"
 
 #: freedroid.droid_archetypes:261
-msgid ""
-"Common device for moving small packages. Clamp is mounted on the "
-"lower body."
-msgstr ""
+msgid "Common device for moving small packages. Clamp is mounted on the lower body."
+msgstr "A kisméretű csomagok szállításának eszköze. A tárolója a géptest alsó részén van."
 
 #: freedroid.droid_archetypes:294
-msgid ""
-"Early type messenger robot. Large wheels impede motion on small craft."
-msgstr ""
+msgid "Early type messenger robot. Large wheels impede motion on small craft."
+msgstr "Korai üzenettovábbító robot. A kis járműre szerelt nagy kerekek akadályozzák a mozgást."
 
 #: freedroid.droid_archetypes:326
-msgid ""
-"A slow maintenance robot. Confined to drive maintenance during flight."
-msgstr ""
+msgid "A slow maintenance robot. Confined to drive maintenance during flight."
+msgstr "Kis ellátó robot. A repülés közbeni alkatrészellátás biztosítására való."
 
 #: freedroid.droid_archetypes:358
-msgid ""
-"Ship maintenance robot. Fitted with multiple arms to carry out "
-"repairs to the ship efficiently. All craft built after the Jupiter-"
-"incident are supplied with a team of these."
-msgstr ""
+msgid "Ship maintenance robot. Fitted with multiple arms to carry out repairs to the ship efficiently. All craft built after the Jupiter-incident are supplied with a team of these."
+msgstr "Hajó ellátaó robot. Több karral van felszerelve, hogy hatékonyan javíthassa a hajót. A Jupiter incidens óta minden űrjármű felszereléséhez hozzátartozik."
 
 #: freedroid.droid_archetypes:390
-msgid ""
-"Slave maintenance droid. Standard version will carry its own toolbox."
-msgstr ""
+msgid "Slave maintenance droid. Standard version will carry its own toolbox."
+msgstr "Szolga ellátó droid. Az aátalános változat a saját szerszámosdobozát is viszi magával."
 
 #: freedroid.droid_archetypes:422
-msgid ""
-"Early crew droid. Able to carry out simple flight checks only. No "
-"longer supplied."
-msgstr ""
+msgid "Early crew droid. Able to carry out simple flight checks only. No longer supplied."
+msgstr "Korai legénységi droid. Egyszerű repülésellenőrző műveletekre képes. Már nem támogatott."
 
 #: freedroid.droid_archetypes:454
 msgid "A standard crew droid. Supplied with the ship."
-msgstr ""
+msgstr "Általános legénységi Droid. A hajó legénységéhez tartozik."
 
 #: freedroid.droid_archetypes:486
-msgid ""
-"A highly sophisticated device. Able to control the Robo-Freighter on "
-"its own."
-msgstr ""
+msgid "A highly sophisticated device. Able to control the Robo-Freighter on its own."
+msgstr "Magasszintű önálló egység. Képes a Robot-Teherhajókat önállóan irányítani."
 
 #: freedroid.droid_archetypes:518
-msgid ""
-"A low security sentinel droid. Used to protect areas of the ship from "
-"intruders. A slow but sure device."
-msgstr ""
+msgid "A low security sentinel droid. Used to protect areas of the ship from intruders. A slow but sure device."
+msgstr "Alacsonyszintű őrdroid. A hajókon a behatolók elleni védelemre használták. Lassú, de hatékony egység."
 
 #: freedroid.droid_archetypes:550
-msgid ""
-"Sophisticated sentinel droid. Only 2000 built by the Nicholson "
-"Company. These are now very rare."
-msgstr ""
+msgid "Sophisticated sentinel droid. Only 2000 built by the Nicholson Company. These are now very rare."
+msgstr "Továbbfejlesztett őrdroid. Csak 2000 darabot gyártott belőle a Nicholson Vállalat. Manapság nagyon ritkák."
 
 #: freedroid.droid_archetypes:582
-msgid ""
-"A low sentinel droid. Lasers are built into the turret. These are "
-"mounted on a small tank body. May be fitted with an auto-cannon on-"
-"the Gillen version."
-msgstr ""
+msgid "A low sentinel droid. Lasers are built into the turret. These are mounted on a small tank body. May be fitted with an auto-cannon on-the Gillen version."
+msgstr "Alacsony őrdroid. A kis, tankszerű testen levő toronyba lézereket építettek. Gillen verziójú automata ágyúval is fel lehet szerelve."
 
 #: freedroid.droid_archetypes:614
-msgid ""
-"A heavy duty battle droid. Disruptor is built into the head. One of "
-"the first in service with the Military."
-msgstr ""
+msgid "A heavy duty battle droid. Disruptor is built into the head. One of the first in service with the Military."
+msgstr "Nehéz csatadroid. A fejébe disruptor van építve. Az elsők egyike, amely a hadsereg számára épült."
 
 #: freedroid.droid_archetypes:645
 msgid "This version is the one mainly used by the military."
-msgstr ""
+msgstr "Ez a hadseregben legtöbbet használt típus."
 
 #: freedroid.droid_archetypes:677
-msgid ""
-"A very heavy duty battle droid. Only a few have so far entered "
-"service. These are the most powerful battle units ever built."
-msgstr ""
+msgid "A very heavy duty battle droid. Only a few have so far entered service. These are the most powerful battle units ever built."
+msgstr "Nagyon Nehéz csatadroid. Csak pár darab teljesít belőle szolgálatot. Ezek a valaha épített legerőteljesebb harci egységek."
 
 #: freedroid.droid_archetypes:709
-msgid ""
-"A very reliable anti-grav unit is fitted into this droid. It will "
-"patrol the ship and eliminate intruders as soon as detected by "
-"powerful sensors."
-msgstr ""
+msgid "A very reliable anti-grav unit is fitted into this droid. It will patrol the ship and eliminate intruders as soon as detected by powerful sensors."
+msgstr "Egy kiváló antigravitációs egységet építettek ebbe a droidba. A hajókon járőrözik, és amint a kifinomult érzékelőivel behatolót észlel, azonnal megsemmisíti."
 
 #: freedroid.droid_archetypes:740
-msgid ""
-"Early type anti-grav security droid. Fitted with an over-driven anti-"
-"grav unit. This droid is very fast but is not reliable."
-msgstr ""
+msgid "Early type anti-grav security droid. Fitted with an over-driven anti-grav unit. This droid is very fast but is not reliable."
+msgstr "Korai antigravitációs biztonsági droid. Egy túlhajtott antigravitációs egységgel van felszerelve. Nagyon gyors, ám nem túl megbízható."
 
 #: freedroid.droid_archetypes:772
-msgid ""
-"This droid was designed from archive data. For some unknown reason it "
-"instils great fear in Human adversaries."
-msgstr ""
+msgid "This droid was designed from archive data. For some unknown reason it instils great fear in Human adversaries."
+msgstr "Ezt a droidot archív adatok alapján építették. Valamilyen ismeretlen okból az emberekből hatalmas félelmet vált ki."
 
 #: freedroid.droid_archetypes:806
-msgid ""
-"Experimental command cyborg. Fitted with a new type of brain. Mounted "
-"on a security droid anti-grav unit for convenience. warning: the "
-"influence device may not control a primode brain for long."
-msgstr ""
+msgid "Experimental command cyborg. Fitted with a new type of brain. Mounted on a security droid anti-grav unit for convenience. warning: the influence device may not control a primode brain for long."
+msgstr "Felfedező parancsnok cyborg. Új típusú aggyal van felszerelve. A cél érdekébenm egy biztonsági droid anti-grav egységére építették. Figyelem: a befolyásoló eszköz nem képes sokáig kontrollálni egy fejlettebb agyat."
 
 #: freedroid.droid_archetypes:835
-msgid ""
-"This is a typical professor/sage character of some older age.  They "
-"are not armed as powerfully as e.g. the red guards."
-msgstr ""
+msgid "This is a typical professor/sage character of some older age.  They are not armed as powerfully as e.g. the red guards."
+msgstr "Ez egy tipikus professzor/bölcs karakter valami régebbi játékból. Nem olyan jól fegyverzett, pl. a Vörös Őrség."
 
 #: freedroid.droid_archetypes:864
-msgid ""
-"This is a typical red (male) guard/fighter character.  They are "
-"equipped with powerful PowerExterminators."
-msgstr ""
+msgid "This is a typical red (male) guard/fighter character.  They are equipped with powerful PowerExterminators."
+msgstr "Ez egy tipikus vörös (férfi) őr/harcos karakter. PowerExterminátorral vannak felszerelve."
 
 #: freedroid.droid_archetypes:893
 msgid "This is the hot_mama shopkeeper character model."
-msgstr ""
+msgstr "Ez a csinibaba boltvezető karakter modell."
 
 #: freedroid.droid_archetypes:922
-msgid ""
-"This is the female scientist character model.  They are not armed as "
-"powerfully as e.g. the red guards."
-msgstr ""
+msgid "This is the female scientist character model.  They are not armed as powerfully as e.g. the red guards."
+msgstr "Ez a női tudós karakter modell. Nem olyan jól fegyverzett, pl. a Vörös Őrség."
 
 #: freedroid.droid_archetypes:951
-msgid ""
-"This is the brown worker model.  They are not armed as powerfully as "
-"e.g. the red guards."
-msgstr ""
+msgid "This is the brown worker model.  They are not armed as powerfully as e.g. the red guards."
+msgstr "Ez egy néger munkás modell. Nem olyan jól fegyverzett, pl. a Vörös Őrség."
 
 #: freedroid.droid_archetypes:980
 msgid "This is a useless comment. Thanks for your attention."
-msgstr ""
+msgstr "Ez egy szükségtelen mondat. Köszönöm a figyelmet."
 
 #: freedroid.droid_archetypes:1009
 msgid "This is the cook."
-msgstr ""
+msgstr "Ő a szakács."
 
 #: freedroid.droid_archetypes:1039
-msgid ""
-"This is a typical professor/sage character of some older age. They "
-"are not armed as powerfully as e.g. the red guards."
-msgstr ""
+msgid "This is a typical professor/sage character of some older age. They are not armed as powerfully as e.g. the red guards."
+msgstr "Ez egy tipikus professzor/bölcs karakter valami régebbi korból. Nem olyan jól fegyverzett, pl. a Vörös Őrség."
 
 #: freedroid.droid_archetypes:1068
 msgid "This is a typical sex bomb.  This one is even armed."
-msgstr ""
+msgstr "Ő egy tipikus szexbomba. Ő is fel van fegyverkezve."
 
 #: freedroid.droid_archetypes:1097
 msgid "This is the bartender."
-msgstr ""
+msgstr "Ő a kocsmáros."
+
