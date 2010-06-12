@@ -1042,83 +1042,84 @@ msgstr ""
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:579
 msgid "However, you did leave yourself instructions before you went into stasis sleep."
-msgstr ""
+msgstr "Malgré cela, tu as toi même délaissé les instructions avant d'aller en hibernation."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:580
 msgid "Takeover, or hacking, comes in the form of a game or competition placing you against the bot."
-msgstr ""
+msgstr "La prise de contrôle, ou piratage, se présente sous la forme d'un défi que tu dois relever face au robot"
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:581
 msgid "You initiate it by selecting the Hacking program, then right-clicking on a hostile bot."
-msgstr ""
+msgstr "Tu l'initialises en sélectionnant le programme de piratage, puis en faisant un clic droit sur un droïde hostile."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:582
 msgid "The field of play is split into two sides, one green, one maroon, representing circuit boards."
-msgstr ""
+msgstr "La zone de jeu est divisée en deux côtés, l'un vert et l'autre brun, qui représentent des cartes électroniques."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:583
 msgid "In the center of the field is a column of boxes known as logic cores. These cores have wires attached to them from both circuit boards."
-msgstr ""
+msgstr "Dans le centre du champ, il y a une colonne de boîtes, qui sont en fait des nœuds logiques. Ces noyaux ont des câbles qui leur sont attachés depuis les deux cartes électroniques."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:584
 msgid "Your objective is to activate as many cores in your chosen color as possible at the end of each round."
-msgstr ""
+msgstr "Ton objectif est d'activer autant de cœurs que possible, dans la couleur de ton choix, avant la fin de chaque round."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:585
 msgid "This is accomplished by selecting a wire with the up or down buttons, then pressing spacebar to activate that core."
-msgstr ""
+msgstr "C'est accompli en sélectionnant un câble avec les boutons du haut ou du bas, puis en pressant la bar d'espace pour activer le cœur."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:586
 msgid "You will be given about 10 seconds initially to select which color you want with spacebar."
-msgstr ""
+msgstr "Il te sera donné à peu près 10 secondes pour choisir ta couleur. Après avoir décidé, tu dois frapper la barre d'espace."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:587
 msgid "At that point, you have 10 more seconds in which to activate more cores than the bot."
-msgstr ""
+msgstr "À ce moment, tu as à nouveau dix secondes pendant lesquelles tu dois activer plus de cœurs que le robot."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:588
 msgid "You have a limited number of charges, 3 by default, so choose your targets carefully."
-msgstr ""
+msgstr "Tu as un nombre de charges limité, 3 par défaut, donc choisis tes cibles attentivement."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:589
 msgid "I can tell you about some more advanced techniques, if you'd like."
-msgstr ""
+msgstr "Je peux te dire quelque chose à propos de techniques plus avancées, si tu le souhaite."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:594
 msgid "What was that about activating more cores than the bot?"
-msgstr ""
+msgstr "Qu'est ce qu'il faut fair pour activer plus de noyaux que le robot ?"
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:596
 msgid "Ah, yes. While you are busy trying to take the bot over, it will be busy trying to stop you."
-msgstr ""
+msgstr "Ah, oui. Tant que tu es occupé à pirater le robot, il sera également occupé à essayer de t'arrêter."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:597
 msgid "The truth is, if the bot programming was perfect, it would be almost impossible to defeat."
-msgstr ""
+msgstr "La vérité est que, si la programmation du robot était parfaite, il serait impossible de le battre."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:598
 msgid "Fortunately for you, software bugs do indeed exist, and therefore some cores will be on your side from the beginning."
-msgstr ""
+msgstr "Heureusement pour toi, les bogues du logiciel existent effectivement dans les robots, si bien que quelques noyaux t'appartiendront dès le début."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:599
 msgid "Likewise, the bots only have a limited number of charges. Occasionally, they will have more than you, but that is a risk you have to take."
-msgstr ""
+msgstr "D'autre part, les robots ont un nombre limité de charges. Habituellemeent, ils en auront plus que toi, mais c'est un risque que tu dois prendre."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:600
 msgid "Because you are initiating the attack, you do get to choose your side, which can let you handicap the bot greatly if used wisely."
-msgstr ""
+msgstr "Comme c'est toi qui initialise l'attaque, tu vas choisir ton camp, ce qui te laisse l'avantage si tu es assez malin."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:605
 msgid "Tell me about more advanced techniques."
-msgstr ""
+msgstr "Donne moi quelques techniques avancées."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:607
+#, fuzzy
 msgid "Each charge will activate and remain active for a certain amount of time. This will let you take over a core that a bot just took over."
-msgstr ""
+msgstr "Chaque charge activera et restera active pour une certaine quantité de temps. Cela te laissera prendre le noyau qu'un robot a just gagné."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:608
 msgid "Sometimes, the bots will already have charges on the wires. When you activate one of these, it will increase the time that wire is activated for."
-msgstr ""
+msgstr "Parfois, les robots ont déjà leurs charges sur les câbles. Le temps d'activation de ces câbles sera augmenté."
 
 #: /home/david/src/freedroid-translation/dialogs/TutorialTom.dialog:609
 msgid "The bot can use this trick to, so it may be wise to give up a heavily guarded wire for an easier target."
