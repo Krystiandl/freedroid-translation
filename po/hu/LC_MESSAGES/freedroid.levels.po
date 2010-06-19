@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-06-11 10:42+0100\n"
+"Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,171 +14,185 @@ msgstr ""
 
 #: freedroid.levels:15
 msgid "Town"
-msgstr ""
+msgstr "Város"
 
 #: freedroid.levels:3868
 msgid "Warehouse Level 1"
-msgstr ""
+msgstr "Raktár 1. Szint"
 
 #: freedroid.levels:4830
 msgid "Warehouse Level 2"
-msgstr ""
+msgstr "Raktár 2. Szint"
 
 #: freedroid.levels:5482
 msgid "Kevins Underground Station"
-msgstr ""
+msgstr "Kevin Földalatti Állomása"
 
 #: freedroid.levels:5949
 msgid "Machine Deck Control Room"
-msgstr ""
+msgstr "Gépház Irányítóterem"
 
-#: freedroid.levels:6684 freedroid.levels:8768
+#: freedroid.levels:6684
+#: freedroid.levels:8768
 msgid "Disruptor Shield Control"
-msgstr ""
+msgstr "Disruptor Pajzs Kontroll"
 
 #: freedroid.levels:8196
 msgid "Maintenance Tunnels"
-msgstr ""
+msgstr "Szervízalagutak"
 
 #: freedroid.levels:9476
 msgid "Temple Wood"
-msgstr ""
+msgstr "Templom Erdő"
 
 #: freedroid.levels:11340
 msgid "Crystal Fields"
-msgstr ""
+msgstr "Kristálymező"
 
-#: freedroid.levels:12390 freedroid.levels:34701 freedroid.levels:35049
+#: freedroid.levels:12390
+#: freedroid.levels:34701
+#: freedroid.levels:35049
 #: freedroid.levels:35445
 msgid "Desert Valley"
-msgstr ""
+msgstr "Sivatagvölgy"
 
 #: freedroid.levels:12870
 msgid "Slasher Mountains"
-msgstr ""
+msgstr "Csipkés Hegység"
 
 #: freedroid.levels:13892
 msgid "Cryo Stasis Lab"
-msgstr ""
+msgstr "Krio Sztázis Labor"
 
 #: freedroid.levels:16263
 msgid "Telemetry"
-msgstr ""
+msgstr "Telemetria"
 
 #: freedroid.levels:16429
 msgid "Scientists quarters and Telemetry"
-msgstr ""
+msgstr "Tudósrészleg és Telemetria"
 
 #: freedroid.levels:17907
 msgid "Disruptor Base Access Tunnel"
-msgstr ""
+msgstr "Disruptor Bázis Bevezető Csatorna"
 
 #: freedroid.levels:18997
 msgid "Terminal Shore"
-msgstr ""
+msgstr "Terminál Part"
 
 #: freedroid.levels:19871
 msgid "Ethereal Meadows"
-msgstr ""
+msgstr "Éteri Mezők"
 
 #: freedroid.levels:20909
 msgid "Kevins Main Energy Source"
-msgstr ""
+msgstr "Kevi Fő Energiaforrása"
 
-#: freedroid.levels:21136 freedroid.levels:21641
+#: freedroid.levels:21136
+#: freedroid.levels:21641
 msgid "Northern Shoreline"
-msgstr ""
+msgstr "Északi Partvonal"
 
-#: freedroid.levels:22260 freedroid.levels:22378 freedroid.levels:22496
+#: freedroid.levels:22260
+#: freedroid.levels:22378
+#: freedroid.levels:22496
 #: freedroid.levels:35905
 msgid "World Edge Sea"
-msgstr ""
+msgstr "Világszéle Tenger"
 
-#: freedroid.levels:22614 freedroid.levels:38514
+#: freedroid.levels:22614
+#: freedroid.levels:38514
 msgid "Hell Fortress"
-msgstr ""
+msgstr "Pokoli Erőd"
 
 #: freedroid.levels:23714
 msgid "Broken Glass Path"
-msgstr ""
+msgstr "Törött Üveg Ösvény"
 
 #: freedroid.levels:24615
 msgid "Swamp"
-msgstr ""
+msgstr "Mocsár"
 
 #: freedroid.levels:25107
 msgid "Mushroom Forest"
-msgstr ""
+msgstr "Gomba Erdő"
 
 #: freedroid.levels:25225
 msgid "Some temple"
-msgstr ""
+msgstr "Néhány templom"
 
 #: freedroid.levels:25420
 msgid "Novice Arena"
-msgstr ""
+msgstr "Újonc Aréna"
 
 #: freedroid.levels:25637
 msgid "Master Arena"
-msgstr ""
+msgstr "Mester Aréna"
 
 #: freedroid.levels:25854
 msgid "Hell Fortress entrance"
-msgstr ""
+msgstr "Pokoli Erőd bejárat"
 
 #: freedroid.levels:29148
 msgid "Power Facility Underground"
-msgstr ""
+msgstr "Földalatti Erőmű"
 
 #: freedroid.levels:29452
 msgid "Crystal Cavens"
-msgstr ""
+msgstr "Kristálybarlang"
 
 #: freedroid.levels:31876
 msgid "Forgotten bunker"
-msgstr ""
+msgstr "Elfelejtett bunker"
 
 #: freedroid.levels:32169
 msgid "Secret research center"
-msgstr ""
+msgstr "Titkos kutatóközpont"
 
 #: freedroid.levels:33508
 msgid "Secret area service tunnels"
-msgstr ""
+msgstr "Titkos terület szervízalagutak"
 
 #: freedroid.levels:33743
 msgid "Tutorial"
-msgstr ""
+msgstr "Gyakorlótér"
 
-#: freedroid.levels:36023 freedroid.levels:36363
+#: freedroid.levels:36023
+#: freedroid.levels:36363
 msgid "World Edge"
-msgstr ""
+msgstr "Világ Széle"
 
 #: freedroid.levels:36254
 msgid "Old abandoned complex"
-msgstr ""
+msgstr "Régi elhagyatott épület"
 
-#: freedroid.levels:36508 freedroid.levels:39586 freedroid.levels:39704
-#: freedroid.levels:39822 freedroid.levels:39940 freedroid.levels:40276
+#: freedroid.levels:36508
+#: freedroid.levels:39586
+#: freedroid.levels:39704
+#: freedroid.levels:39822
+#: freedroid.levels:39940
+#: freedroid.levels:40276
 msgid "New level just created"
-msgstr ""
+msgstr "Új pálya készült"
 
 #: freedroid.levels:36626
 msgid "Worker Mines"
-msgstr ""
+msgstr "Melós Bánya"
 
-#: freedroid.levels:37121 freedroid.levels:37310
+#: freedroid.levels:37121
+#: freedroid.levels:37310
 msgid "Southern Shorline"
-msgstr ""
+msgstr "Déli Partvidék"
 
 #: freedroid.levels:37864
 msgid "HF North Perimeter Defense Structure"
-msgstr ""
+msgstr "HF Északi Rész Védelmi Struktúra"
 
 #: freedroid.levels:40058
 msgid "Mashine Deck Upper Catacombs"
-msgstr ""
+msgstr "Gépterem Felső Katakomba"
 
 #: freedroid.levels:40167
 msgid "Machine Deck Lower Catacombs"
-msgstr ""
+msgstr "Gépterem Alsó Katakomba"
+

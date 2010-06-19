@@ -1,155 +1,162 @@
+# jordi <jordiferren@gmail.com>, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-06-02 07:42+0000\n"
-"PO-Revision-Date: 2010-06-02 07:42+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-06-10 08:41+0200\n"
+"Last-Translator: jordi <jordiferren@gmail.com>\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.5.2\n"
 
 #: Tybalt.dialog:41
 msgid "Hi! I'm new here."
-msgstr ""
+msgstr "Hola! Soy nuevo aquí."
 
 #: Tybalt.dialog:43
 msgid ""
-"Hello. I'm Tybalt. I'm guarding the town citadel gate. Only "
-"authorized personnel are permitted."
+"Hello. I'm Tybalt. I'm guarding the town citadel gate. Only authorized "
+"personnel are permitted."
 msgstr ""
+"Hola. Soy Tybalt. El guardián de la entrada a la ciudadela. Solo el personal "
+"autorizado puede entrar. "
 
 #: Tybalt.dialog:44
 msgid "Tybalt -- Citadel Gate Guard"
-msgstr ""
+msgstr "Tybalt -- Guardián de la entrada a la ciudadela"
 
 #: Tybalt.dialog:49
 msgid "Why is this gate locked most of the time?"
-msgstr ""
+msgstr "¿Porque la puerta está cerrada la mayor parte del tiempo?"
 
 #: Tybalt.dialog:51
 msgid ""
-"It's locked so no one can sneak inside while I'm not looking. That's "
-"why."
-msgstr ""
+"It's locked so no one can sneak inside while I'm not looking. That's why."
+msgstr "Está cerrada para que nadie se cuele mientras no mire. Es por eso."
 
 #: Tybalt.dialog:56
 msgid "I want to get into the citadel."
-msgstr ""
+msgstr "Quiero entrar en la ciudadela."
 
 #: Tybalt.dialog:59
 msgid ""
-"Of course. Guard members are always authorized to enter the town "
-"citadel. The gate is open. Enjoy your stay."
+"Of course. Guard members are always authorized to enter the town citadel. "
+"The gate is open. Enjoy your stay."
 msgstr ""
+"Por supuesto. Los miembros de la guardia siempre tienen autorización para "
+"entrar en la ciudadela. La puerta esta abierta. Disfruta de tu estancia."
 
 #: Tybalt.dialog:62
 msgid ""
-"Sorry pal, but I don't think so. Only authorized personnel are "
-"permitted and that means members of the Red Guard."
+"Sorry pal, but I don't think so. Only authorized personnel are permitted and "
+"that means members of the Red Guard."
 msgstr ""
+"Perdona amigo, pero creo que no. Solo el personal autorizado tiene permiso "
+"para entrar con los medios de la Guardia Roja."
 
 #: Tybalt.dialog:63
-msgid ""
-"Talk to Spencer if you have any business inside. I cannot let you "
-"pass."
-msgstr ""
+msgid "Talk to Spencer if you have any business inside. I cannot let you pass."
+msgstr "Habla con Spencer si tienes asuntos dentro. No puedo dejarte pasar"
 
 #: Tybalt.dialog:71
 msgid ""
-"So why is it you keep the citadel locked? Is there anything secret in "
-"there?"
+"So why is it you keep the citadel locked? Is there anything secret in there?"
 msgstr ""
+"¿Así que porque mantienes la ciudadela cerrada? ¿Hay algún secreto ahí "
+"dentro?"
 
 #: Tybalt.dialog:73
 msgid ""
-"We need to protect our equipment and documents, because lives depend "
-"on it."
+"We need to protect our equipment and documents, because lives depend on it."
 msgstr ""
+"Necesitamos proteger nuestros equipos y documentos, porque nuestra vida "
+"depende de ello."
 
 #: Tybalt.dialog:74
 msgid "Also, we don't have to answer questions."
-msgstr ""
+msgstr "Tampoco debemos contestar a las preguntas."
 
 #: Tybalt.dialog:81
 msgid "I have a lot of money for you."
-msgstr ""
+msgstr "Tengo mucho dinero para ti."
 
 #: Tybalt.dialog:83
 msgid "Fascinating. Can I have a hundred please?"
-msgstr ""
+msgstr "Fascinante. ¿Me puedes dar unos cien?"
 
 #: Tybalt.dialog:88
 msgid "Erm... I don't have that much."
-msgstr ""
+msgstr "Emm... No tengo tantos."
 
 #: Tybalt.dialog:90
 msgid "Well, too bad."
-msgstr ""
+msgstr "Vaya, que mal."
 
 #: Tybalt.dialog:95
 msgid "Here you go."
-msgstr ""
+msgstr "Aquí tienes."
 
 #: Tybalt.dialog:98
 msgid "Thank you."
-msgstr ""
+msgstr "Gracias."
 
 #: Tybalt.dialog:102
 msgid "That is not a hundred."
-msgstr ""
+msgstr "Aquí no hay cien."
 
 #: Tybalt.dialog:102
 msgid "Um, count that again."
-msgstr ""
+msgstr "Um, vuelve a contarlo."
 
 #: Tybalt.dialog:102
 msgid "Talk to me when you have a bit more."
-msgstr ""
+msgstr "Ven a verme cuando tengas un poco más."
 
 #: Tybalt.dialog:108
 msgid "Ok, now please open the door for me."
-msgstr ""
+msgstr "De acuerdo, ahora abre la puerta por favor."
 
 #: Tybalt.dialog:110
 msgid "What door?"
-msgstr ""
+msgstr "¿Que puerta?"
 
 #: Tybalt.dialog:111
 msgid "The door to the citadel!"
-msgstr ""
+msgstr "¡La puerta de la ciudadela!"
 
 #: Tybalt.dialog:112
 msgid "But you are not a member of the Red Guard."
-msgstr ""
+msgstr "Pero si tu no eres miembro de la Guardia Roja."
 
 #: Tybalt.dialog:113
 msgid "You cannot come in."
-msgstr ""
+msgstr "No puedes entrar."
 
 #: Tybalt.dialog:114
 msgid "I paid you!"
-msgstr ""
+msgstr "¡Si te he pagado!"
 
 #: Tybalt.dialog:115
 msgid "Really? I don't remember that."
-msgstr ""
+msgstr "¿De verdad? No me acuerdo."
 
 #: Tybalt.dialog:116
 msgid "I want my money back."
-msgstr ""
+msgstr "Devuélveme el dinero."
 
 #: Tybalt.dialog:117
 msgid "What money?"
-msgstr ""
+msgstr "¿Que dinero?"
 
 #: Tybalt.dialog:122
 msgid "See you later."
-msgstr ""
+msgstr "Nos vemos."
 
 #: Tybalt.dialog:124
 msgid "Good riddance."
-msgstr ""
+msgstr "Buen viaje."

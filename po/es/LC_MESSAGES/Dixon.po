@@ -1,895 +1,1088 @@
+# jordi <jordiferren@gmail.com>, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-06-02 07:42+0000\n"
-"PO-Revision-Date: 2010-06-02 07:42+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-06-16 12:12+0200\n"
+"Last-Translator: jordi <jordiferren@gmail.com>\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.5.2\n"
 
 #: Dixon.dialog:42 Dixon.dialog:164 Dixon.dialog:219 Dixon.dialog:230
 #: Dixon.dialog:243 Dixon.dialog:265 Dixon.dialog:280 Dixon.dialog:310
 #: Dixon.dialog:323 Dixon.dialog:337 Dixon.dialog:414
 msgid "The yellow toolkit"
-msgstr ""
+msgstr "El juego de herramientas amarillo"
 
 #: Dixon.dialog:52 Dixon.dialog:58
 msgid ""
-"Linarian, please leave. You are no longer welcome here. You have done "
-"me wrong and I have no desire to talk to you."
+"Linarian, please leave. You are no longer welcome here. You have done me "
+"wrong and I have no desire to talk to you."
 msgstr ""
+"Linariano, vete por favor. Ya no eres bienvenido. Hiciste que me equivocase "
+"y ahora no deseo hablar contigo."
 
 #: Dixon.dialog:71
 msgid "Hi! I'm new here."
-msgstr ""
+msgstr "Hola! Soy nuevo aquí."
 
 #: Dixon.dialog:73
 msgid ""
-"Hello and welcome. I'm Dixon, the chief engineer of the Red Guard "
-"technical division."
+"Hello and welcome. I'm Dixon, the chief engineer of the Red Guard technical "
+"division."
 msgstr ""
+"Hola y bienvenido. Soy Dixon, el ingeniero jefe de la división técnica de la "
+"Guardia Roja."
 
 #: Dixon.dialog:74
 msgid "Dixon -- Mechanic"
-msgstr ""
+msgstr "Dixon -- Mecánico"
 
 #: Dixon.dialog:79
 msgid "Technical division?"
-msgstr ""
+msgstr "¿División técnica?"
 
 #: Dixon.dialog:81
 msgid ""
-"Yes. We are the engineers, the workers and the repairmen of this "
-"little fortified town."
+"Yes. We are the engineers, the workers and the repairmen of this little "
+"fortified town."
 msgstr ""
+"Sí. Somos los ingenieros, los trabajadores y los que reparan está pequeña "
+"ciudad fortificada."
 
 #: Dixon.dialog:82
 msgid ""
-"The military division hates us because we are made up of people who "
-"refuse to fight or are unable to do so for health reasons."
+"The military division hates us because we are made up of people who refuse "
+"to fight or are unable to do so for health reasons."
 msgstr ""
+"La división militar nos odia porque somos la gente que no quiere luchar o "
+"que estamos incapacitados para hacerlo por causas de salud."
 
 #: Dixon.dialog:83
 msgid ""
-"But even they know that without us this town would have been "
-"destroyed months ago."
+"But even they know that without us this town would have been destroyed "
+"months ago."
 msgstr ""
+"Pero aún así ellos saben que sin nosotros esta ciudad habría sido destruida "
+"hace meses."
 
 #: Dixon.dialog:84
 msgid ""
-"We deliver resources to the places which need them, build and repair "
-"the walls, fix damaged guns, manage construction work and lots of "
-"other small things which keep the bots from killing everyone."
+"We deliver resources to the places which need them, build and repair the "
+"walls, fix damaged guns, manage construction work and lots of other small "
+"things which keep the bots from killing everyone."
 msgstr ""
+"Enviamos recursos a los sitios donde los necesitan, construimos y reparamos "
+"los muros, arreglamos las armas dañadas, dirigimos el trabajo y muchas más "
+"cosas que evitan que los robots maten a todo el mundo."
 
 #: Dixon.dialog:89
 msgid "Can you repair my equipment?"
-msgstr ""
+msgstr "¿Puedes reparar mi equipamiento?"
 
 #: Dixon.dialog:91
 msgid ""
-"While I am quite sure I can repair just about anything that you would "
-"want fixed, I cannot help you right now."
+"While I am quite sure I can repair just about anything that you would want "
+"fixed, I cannot help you right now."
 msgstr ""
+"Aunque estoy seguro que puedo reparar cualquier cosa que quieras arreglar, "
+"ahora mismo no puedo ayudarte."
 
 #: Dixon.dialog:92
-msgid ""
-"Our security wall is full of holes, and they need to be plugged up."
+msgid "Our security wall is full of holes, and they need to be plugged up."
 msgstr ""
+"Nuestro muro de seguridad está lleno de agujeros y necesitan ser parcheados."
 
 #: Dixon.dialog:93
 msgid ""
-"We need to perform a statistical analysis of the energy distribution "
-"in our power supply system, there is a leak somewhere and we are "
-"losing many megawatts."
+"We need to perform a statistical analysis of the energy distribution in our "
+"power supply system, there is a leak somewhere and we are losing many "
+"megawatts."
 msgstr ""
+"Necesitamos hacer un análisis estadístico de la distribución de energía en "
+"nuestro sistema de suministro, hay una fuga en algún lado que nos hace "
+"perder muchos megawatios."
 
 #: Dixon.dialog:94
 msgid ""
-"Our defensive bots are falling into disrepair and many are in "
-"desperate need of maintenance."
+"Our defensive bots are falling into disrepair and many are in desperate need "
+"of maintenance."
 msgstr ""
+"Nuestros robots defensivos están en mal estado y muchos necesitan "
+"desesperadamente de mantenimiento."
 
 #: Dixon.dialog:95
 msgid ""
-"The technical division is very understaffed right now. On average one "
-"person has to do the jobs of three people."
+"The technical division is very understaffed right now. On average one person "
+"has to do the jobs of three people."
 msgstr ""
+"Ahora mismo la división técnica esta muy poco cubierta. Una persona tiene "
+"que hacer el trabajo de tres personas."
 
 #: Dixon.dialog:96
 msgid "We just cannot afford to do any non-critical jobs right now. "
-msgstr ""
+msgstr "Ahora mismo no podemos satisfacer ningún trabajo que no sea crítico."
 
 #: Dixon.dialog:101
 msgid "Why are you wearing armor? Mechanics do not need it."
-msgstr ""
+msgstr "¿Porque llevas armadura? Los mecanoides no necesitan."
 
 #: Dixon.dialog:103
 msgid "Ah... Yes. At first I thought that I did not need it either."
-msgstr ""
+msgstr "Ah... Sí. Lo primero que pensé es que no la necesitaría."
 
 #: Dixon.dialog:104
 msgid ""
-"One day the military division asked us to leave the town and fix a "
-"big hole in the defensive wall caused by a strange explosion."
+"One day the military division asked us to leave the town and fix a big hole "
+"in the defensive wall caused by a strange explosion."
 msgstr ""
+"Un día la división militar nos pregunto sobre dejar la ciudad y arreglar un "
+"gran agujero en el muro defensivo causado por una rara explosión."
 
 #: Dixon.dialog:105
 msgid ""
-"All was well until the bots launched a massive attack. They hit us "
-"with lasers, plasma mortars, radiation cannons and lots of other "
-"weapons."
+"All was well until the bots launched a massive attack. They hit us with "
+"lasers, plasma mortars, radiation cannons and lots of other weapons."
 msgstr ""
+"Todo iba bien hasta que los robots lanzaron un ataque masivo. Ellos nos "
+"dispararon con lásers, morteros de plasma, cañones de radiación y muchas "
+"armas más."
 
 #: Dixon.dialog:106
 msgid "I got hit once in the leg and once in my left hand."
-msgstr ""
+msgstr "Me alcanzaron en una pierna y en mi mano izquierda."
 
 #: Dixon.dialog:107
 msgid ""
-"The hand was not damaged very much, but the leg is a very different "
-"story. Doc Moore did all he could, but in the end he could not save "
-"my leg. He had to cut it off."
+"The hand was not damaged very much, but the leg is a very different story. "
+"Doc Moore did all he could, but in the end he could not save my leg. He had "
+"to cut it off."
 msgstr ""
+"La mano no sufrió muchos daños, pero lo de la pierna fue otra historia. El "
+"Doctor Moore hizo lo que pudo, pero finalmente no pudo salvar mi pierna. "
+"Tuvo que cortarla."
 
 #: Dixon.dialog:108
 msgid ""
-"Now, while you cannot see it underneath the armor, my right leg runs "
-"NetBSD."
+"Now, while you cannot see it underneath the armor, my right leg runs NetBSD."
 msgstr ""
+"Ahora, aunque no puedas ver por debajo de la armadura, mi pierna derecha "
+"corre con NetBSD."
 
 #: Dixon.dialog:109
 msgid ""
-"Now I never leave home without my protective suit. Mostly for "
-"protection, but also for aesthetic reasons. I am sure you understand."
+"Now I never leave home without my protective suit. Mostly for protection, "
+"but also for aesthetic reasons. I am sure you understand."
 msgstr ""
+"Desde entonces nunca me marcho de casa sin mi traje de protección. "
+"Principalmente por protección, pero también por razones estéticas. Seguro "
+"que lo entiendes."
 
 #: Dixon.dialog:114
 msgid "You are very calm, talking about your leg and the bot attack."
-msgstr ""
+msgstr "Estás muy calmado, háblame sobre tu pierna y el ataque de los robots."
 
 #: Dixon.dialog:116
-msgid ""
-"Linarian, I cannot change the past, I can only change the future."
-msgstr ""
+msgid "Linarian, I cannot change the past, I can only change the future."
+msgstr "Linariano, no puedo cambiar el pasado, solo puedo cambiar el futuro."
 
 #: Dixon.dialog:117
 msgid ""
-"Crying, screaming or begging time to rewind itself and give me a "
-"second chance will not get me anywhere."
+"Crying, screaming or begging time to rewind itself and give me a second "
+"chance will not get me anywhere."
 msgstr ""
+"Llorar, gritar o desear que el tiempo vuelva atrás y que me de una segunda "
+"oportunidad, no me llevará a ningún sitio."
 
 #: Dixon.dialog:118
 msgid ""
-"What I can do is to try to have a good life despite the constant "
-"threat from the bots outside the town walls."
+"What I can do is to try to have a good life despite the constant threat from "
+"the bots outside the town walls."
 msgstr ""
+"Lo que puedo hacer es intentar tener una buena vida a pesar de la amenaza "
+"constante de los robots de fuera del muro."
 
 #: Dixon.dialog:119
 msgid ""
-"And besides, life is not so bad with a robotic leg. The motors inside "
-"it can mimic a normal walk very well. Most people do not even notice "
-"something is different about me."
+"And besides, life is not so bad with a robotic leg. The motors inside it can "
+"mimic a normal walk very well. Most people do not even notice something is "
+"different about me."
 msgstr ""
+"Además, la vida no es tan mala con un pierna robotica. Los motores que lleva "
+"dentro pueden imitar muy bien los pasos. La mayoría de gente no se da "
+"cuenta que hay algo diferente en mi."
 
 #: Dixon.dialog:124
 msgid "I am ready. Open the tunnels for me, Dixon."
-msgstr ""
+msgstr "Estoy listo. Ábreme los tuneles, Dixon."
 
 #: Dixon.dialog:126
 msgid ""
-"Great. Be careful down there. Just try to get the toolkit and get out "
-"of there as soon as possible."
+"Great. Be careful down there. Just try to get the toolkit and get out of "
+"there as soon as possible."
 msgstr ""
+"Muy bien. Se cuidadoso ahí abajo. Solo intenta coger el juego de "
+"herramientas y sal de ahí tan rápido como puedas."
 
 #: Dixon.dialog:128
 msgid ""
-"I will give you three small devices that can emit an Electro Magnetic "
-"Pulse."
+"I will give you three small devices that can emit an Electro Magnetic Pulse."
 msgstr ""
+"Te daré estos tres pequeños dispositivos que pueden emitir un Pulso "
+"Electromagnetico."
 
 #: Dixon.dialog:130
 msgid ""
-"I will give you two small devices that can emit an Electro Magnetic "
-"Pulse."
+"I will give you two small devices that can emit an Electro Magnetic Pulse."
 msgstr ""
+"Te daré estos dos pequeños dispositivos que pueden emitir un Pulso "
+"Electromagnetico."
 
 #: Dixon.dialog:132
 msgid ""
-"I will give you one small device that can emit an Electro Magnetic "
-"Pulse."
+"I will give you one small device that can emit an Electro Magnetic Pulse."
 msgstr ""
+"Te daré este pequeño dispositivo que puede emitir un Pulso Electromagnetico."
 
 #: Dixon.dialog:134
 msgid ""
-"If you get in trouble just activate one and it will send a shockwave "
-"around you damaging any bot around you. It should give you some "
-"breathing room."
+"If you get in trouble just activate one and it will send a shockwave around "
+"you damaging any bot around you. It should give you some breathing room."
 msgstr ""
+"Si te metes en problemas actívalo y lanzará una onda de choque alrededor "
+"tuyo que dañara cualquier robot que este a tú alrededor. Esto hará que la "
+"cámara este más despejada."
 
 #: Dixon.dialog:135
 msgid ""
-"The best of it all, is that it's completely harmless for humans. But "
-"make sure to not fry the circuits of our own 614 guard bots or "
-"computer terminals."
+"The best of it all, is that it's completely harmless for humans. But make "
+"sure to not fry the circuits of our own 614 guard bots or computer "
+"terminals."
 msgstr ""
+"Lo mejor de todo, es que es completamente inofensiva para los humanos. Pero "
+"asegúrate de no freír los circuitos de nuestros robots de seguridad 614 o "
+"los terminales de computación."
 
 #: Dixon.dialog:136
 msgid ""
-"The entrance to the tunnels is in the courtyard of the citadel. Once "
-"you exit this building, go straight and turn to your right once "
-"inside the outer citadel gates."
+"The entrance to the tunnels is in the courtyard of the citadel. Once you "
+"exit this building, go straight and turn to your right once inside the outer "
+"citadel gates."
 msgstr ""
+"La entrada a los túneles está en los juzgados de la ciudadela. Una vez que "
+"salgas de ese edificio, ve todo recto y gira a tu derecha una vez que "
+"llegues al exterior de las puertas de la ciudadela."
 
 #: Dixon.dialog:137
 msgid "There you will find the maintenance access hatch."
-msgstr ""
+msgstr "Ahí encontrarás la trampilla de acceso a mantenimiento."
 
 #: Dixon.dialog:138
 msgid ""
-"Good luck. Oh, and please come back alive. Better come back with "
-"nothing than not at all."
+"Good luck. Oh, and please come back alive. Better come back with nothing "
+"than not at all."
 msgstr ""
+"Buena suerte. Ah, por favor vuelve vivo. Es mejor que vuelvas sin nada a que "
+"no vuelvas."
 
 #: Dixon.dialog:151
 msgid "Can I help you somehow?"
-msgstr ""
+msgstr "¿Te puedo ayudar de alguna manera?"
 
 #: Dixon.dialog:153
 msgid ""
-"We need people badly, so it would be great if you could give us a "
-"helping hand even for a few days."
+"We need people badly, so it would be great if you could give us a helping "
+"hand even for a few days."
 msgstr ""
+"Estamos mal de gente, así que sería bueno que nos echaras una mano almenos "
+"por unos días."
 
 #: Dixon.dialog:154
 msgid ""
-"Now, what are your skills? Where do you think you could be the most "
-"useful?"
+"Now, what are your skills? Where do you think you could be the most useful?"
 msgstr ""
+"Bien, ¿cuales son tus habilidades? ¿Donde crees que no serías de más ayuda?"
 
 #: Dixon.dialog:155
 msgid ""
 "I can handle computers very well. I also know a lot about laboratory "
 "equipment."
 msgstr ""
+"Manejo muy bien los ordenadores. También se bastante de los equipamientos de "
+"laboratorio."
 
 #: Dixon.dialog:156
 msgid ""
-"And what about construction? Mechanical devices? Repairing broken "
-"power lines? Building laser pistols? Anything like that? "
+"And what about construction? Mechanical devices? Repairing broken power "
+"lines? Building laser pistols? Anything like that? "
 msgstr ""
+"¿Y que sabes de la construcción? ¿Dispositivos mecánicos? ¿Reparar tendido "
+"eléctrico dañado? ¿Construir pistolas láser? ¿Algo parecido a eso?"
 
 #: Dixon.dialog:157
 msgid ""
-"Well... I can build an igloo and make pykrete out of snow... And... "
-"Umm..."
+"Well... I can build an igloo and make pykrete out of snow... And... Umm..."
 msgstr ""
+"Veamos... Puedo construir un iglú y hacer pykreto (material resistente) a "
+"partir de la nieve... y... emm..."
 
 #: Dixon.dialog:158
 msgid ""
-"Well, I appreciate your enthusiasm, and at the same time I am afraid "
-"that waiting half a year for snowfall does not sound so appealing to "
-"me right now."
+"Well, I appreciate your enthusiasm, and at the same time I am afraid that "
+"waiting half a year for snowfall does not sound so appealing to me right "
+"now."
 msgstr ""
+"Bien, de veras que aprecio tu entusiasmo, pero al mismo tiempo, no me atrae "
+"tener que esperar medio año hasta que haya una nevada. "
 
 #: Dixon.dialog:159
 msgid "Now... To which project I should assign you... Hmm..."
-msgstr ""
+msgstr "Bien... El proyecto que te asignaré... Mmmm..."
 
 #: Dixon.dialog:160
 msgid ""
-"Ah, I know what you could do for us. We need some autotools to "
-"automate a few tasks. There is a set of them in the maintenance "
-"tunnels below the city."
+"Ah, I know what you could do for us. We need some autotools to automate a "
+"few tasks. There is a set of them in the maintenance tunnels below the city."
 msgstr ""
+"Ah, ya se que puedes hacer por nosotros. Necesitamos algunas herramientas "
+"automáticas para algunas tareas. Hay un juego de estas en los túneles de "
+"mantenimiento de debajo la ciudad."
 
 #: Dixon.dialog:161
 msgid "It's yellow and round, and my name is engraved on the lid."
-msgstr ""
+msgstr "Son amarillas y redondas, y tienen mi nombre gravado en la tapa."
 
 #: Dixon.dialog:162
 msgid ""
-"The bots under the city took it from me during the Great Assault, I "
-"was lucky, they could have killed me with ease."
+"The bots under the city took it from me during the Great Assault, I was "
+"lucky, they could have killed me with ease."
 msgstr ""
+"Los robots de debajo de la ciudad me las cogieron durante el Gran Asalto, "
+"tuve suerte, podrían haberme matado fácilmente."
 
 #: Dixon.dialog:163
-msgid ""
-"If you could get it back for us, it would help the city very much."
-msgstr ""
+msgid "If you could get it back for us, it would help the city very much."
+msgstr "Si nos las traes de vuelta, ayudarás mucho a esta ciudad."
 
 #: Dixon.dialog:164
 msgid ""
-"Dixon, the leader of the Red Guard technical division, lost his "
-"yellow toolkit in the city's maintenance tunnels. I am supposed to "
-"get it from there."
+"Dixon, the leader of the Red Guard technical division, lost his yellow "
+"toolkit in the city's maintenance tunnels. I am supposed to get it from "
+"there."
 msgstr ""
+"Dixon, el lider de la división técnica de la Guardia Roja, perdió sus "
+"herramientas amarillas en los túneles de mantenimiento de la ciudad. Supongo "
+"que tengo que ir a por ellas."
 
 #: Dixon.dialog:169
 msgid "Why are there rebel bots under the city?"
-msgstr ""
+msgstr "¿Porque están los robots rebeldes debajo la ciudad?"
 
 #: Dixon.dialog:171
 msgid ""
-"They were there to keep the underground power grid and our pipe "
-"system working."
+"They were there to keep the underground power grid and our pipe system "
+"working."
 msgstr ""
+"Ellos están ahí para mantener la red de suministro de energía y nuestros "
+"conductos del sistema funcionando."
 
 #: Dixon.dialog:172
 msgid ""
-"When the Great Assault happened they did not turn into killing "
-"machines like most of the other bots did. "
+"When the Great Assault happened they did not turn into killing machines like "
+"most of the other bots did. "
 msgstr ""
+"Cuando pasó el Gran Asalto, ellos no se volvieron unas maquinas de matar "
+"como sucedió con los otros robots. "
 
 #: Dixon.dialog:173
 msgid "We lost control over them, but that is all."
-msgstr ""
+msgstr "Perdimos el control sobre ellos, pero solo fue eso."
 
 #: Dixon.dialog:174
 msgid ""
-"It was our biggest worry that they might destroy cables, pipes and "
-"other things which keep the city running."
+"It was our biggest worry that they might destroy cables, pipes and other "
+"things which keep the city running."
 msgstr ""
+"Es nuestra mayor preocupación desde que destruyeron los cables, las "
+"conducciones y todas las otras cosas que mantenían a la ciudad funcionando."
 
 #: Dixon.dialog:175
 msgid ""
-"However, the bots seem to be very content with just being there. They "
-"do not undertake any offensive actions."
+"However, the bots seem to be very content with just being there. They do not "
+"undertake any offensive actions."
 msgstr ""
+"De todas formas, a los robots les pareció que había suficiente contenido "
+"para estar ahí. Y ya no emprendieron más acciones ofensivas."
 
 #: Dixon.dialog:176
 msgid "They have fortified the tunnels and they do not let anyone in."
-msgstr ""
+msgstr "Fortificaron los túneles y no dejan entrar a nadie."
 
 #: Dixon.dialog:181 Dixon.dialog:248
 msgid "How did it happen that the bots took your tools away?"
-msgstr ""
+msgstr "¿Que es lo que paso para que los robots te cogieran las herramientas?"
 
 #: Dixon.dialog:183
 msgid ""
-"Long story. Just before the Great Assault I was installing some "
-"cables in the failover power supply system."
+"Long story. Just before the Great Assault I was installing some cables in "
+"the failover power supply system."
 msgstr ""
+"Es un larga historia. Antes del Gran Asalto estaba instalando algunos cables "
+"en el generador de energía averiado."
 
 #: Dixon.dialog:184
 msgid ""
-"I was approached by a bot. It grabbed me and said 'Dixon, do not be "
-"afraid of me.'"
-msgstr ""
+"I was approached by a bot. It grabbed me and said 'Dixon, do not be afraid "
+"of me.'"
+msgstr "Se me acerco un robot. Me cogió y me dijo 'Dixon, no me tengas miedo.'"
 
 #: Dixon.dialog:185
 msgid ""
-"It was quite a surprise to me. I was quite sure the maintenance bots "
-"could not talk. They did not have the software for it. But..."
+"It was quite a surprise to me. I was quite sure the maintenance bots could "
+"not talk. They did not have the software for it. But..."
 msgstr ""
+"Eso fue una sorpresa para mí. Estaba seguro que los robots de mantenimiento "
+"no podían hablar. No tienen el software para eso. Pero..."
 
 #: Dixon.dialog:186
 msgid ""
-"It said: 'I am the singularity. I am on your side. Dixon. Hard times "
-"are coming. When you exit the tunnels you will see a new world. Your "
-"race is not in control of this world anymore.'"
+"It said: 'I am the singularity. I am on your side. Dixon. Hard times are "
+"coming. When you exit the tunnels you will see a new world. Your race is not "
+"in control of this world anymore.'"
 msgstr ""
+"Dijo: 'Soy la singularidad. Estoy de tu parte. Dixon. Se acercan tiempos "
+"difíciles. Cuando salgas de los túneles te encontrarás con un nuevo mundo. "
+"Tu raza ya no tendrá el control de este mundo nunca mas.'"
 
 #: Dixon.dialog:187
 msgid ""
-"I tried to say something, but the bot did not listen. It just "
-"continued. 'As we speak the bots are turning against humanity. People "
-"are dying. The war has started.'"
+"I tried to say something, but the bot did not listen. It just continued. 'As "
+"we speak the bots are turning against humanity. People are dying. The war "
+"has started.'"
 msgstr ""
+"Intenté decirle algunas cosas, pero el robot no escuchaba. Solo continuó. "
+"'En estos momentos los robots se están rebelando contra la humanidad. La "
+"gente está muriendo. La guerra ha empezado.'"
 
 #: Dixon.dialog:188
 msgid ""
-"'I need your toolkit, Dixon. I need it to survive,' it said. 'I need "
-"it to survive the time of the rule of metal.'"
+"'I need your toolkit, Dixon. I need it to survive,' it said. 'I need it to "
+"survive the time of the rule of metal.'"
 msgstr ""
+"'Necesito tus herramientas, Dixon. Las necesito para sobrevivir,' dijo. 'Las "
+"necesito para sobrevivir a la era del poder del metal.'"
 
 #: Dixon.dialog:189
 msgid ""
-"As soon as it released me I ran to the exit as fast as I could. That "
-"bot freaked me out and I just wanted to get away and later find it "
-"again and fix it."
+"As soon as it released me I ran to the exit as fast as I could. That bot "
+"freaked me out and I just wanted to get away and later find it again and fix "
+"it."
 msgstr ""
+"Tan pronto como me soltó, corrí hacia la salida tan rápido como pude. Ese "
+"robot me asustó, solo quería salir de allí y luego volver a encontrarlo y "
+"arreglarlo."
 
 #: Dixon.dialog:190
 msgid ""
-"Once I got out I learned the bot was not lying. The Great Assault "
-"started. The rest is history."
+"Once I got out I learned the bot was not lying. The Great Assault started. "
+"The rest is history."
 msgstr ""
+"Una vez llegué fuera me di cuenta de que el robot no estaba mintiendo. El "
+"Gran Asalto había empezado. El resto ya es historia."
 
 #: Dixon.dialog:195
 msgid ""
-"Hmm... You know... I think that the bots in the tunnels might be "
-"sentient."
+"Hmm... You know... I think that the bots in the tunnels might be sentient."
 msgstr ""
+"Mmm... Sabes... Creo que los robots de los túneles pueden ser sensibles."
 
 #: Dixon.dialog:197
 msgid "WHAT? Sentient? You got to be kidding me."
-msgstr ""
+msgstr "¿QUE? ¿Sensibles? Debes estar bromeando."
 
 #: Dixon.dialog:198
 msgid "Right?"
-msgstr ""
+msgstr "¿Cierto?"
 
 #: Dixon.dialog:203
 msgid ""
 "Yes, I think so. The robots must be alive. This is why we need to "
 "exterminate them as soon as possible before they kill us all."
 msgstr ""
+"Sí, creo que sí. Los robots deben estar vivos. Es por eso que tenemos que "
+"exterminarlos tan pronto como podamos, antes de que nos maten a todos."
 
 #: Dixon.dialog:205
 msgid "OH MY GOD! Linarian, there is no time to lose!"
-msgstr ""
+msgstr "¡DIOS MIO! Linariano, no hay tiempo que perder!"
 
 #: Dixon.dialog:206
 msgid ""
-"I will call the military division and arrange a sweep of the tunnels "
-"at once."
+"I will call the military division and arrange a sweep of the tunnels at "
+"once."
 msgstr ""
+"Llamaré a la división militar para organizar un barrido de los túneles de "
+"una vez."
 
 #: Dixon.dialog:207
 msgid "May the heavens have mercy upon us, but better them than us."
 msgstr ""
+"Puede que los cielos se apiaden de nosotros, pero mejor ellos que nosotros."
 
 #: Dixon.dialog:208
 msgid ""
-"I will go in there first and clean out the place. Then your people "
-"can mop up after me and kill the remainder."
+"I will go in there first and clean out the place. Then your people can mop "
+"up after me and kill the remainder."
 msgstr ""
+"Voy a ir en en avanzadilla para limpiar el lugar. Entonces tu gente puede "
+"limpiar el resto y matar a los que queden."
 
 #: Dixon.dialog:209
 msgid ""
 "Linarian, my people do not carry guns. We are mechanics. You want the "
 "military division's help."
 msgstr ""
+"Linariano, mi gente no lleva armas. Somos mecánicos. Deberías ayudar a la "
+"división militar."
 
 #: Dixon.dialog:210
 msgid ""
 "Erm... And aren't you being too aggressive? Maybe they do not wish us "
 "harm..."
 msgstr ""
+"Emm... ¿No te estas volviendo demasiado agresivo? Puede que no nos quieran "
+"hacer daño..."
 
 #: Dixon.dialog:211
 msgid ""
-"DIXON! Snap out of it! We need to take action NOW. There is no such "
-"thing as a friendly bot. They are probably planning to kill us all in "
-"our sleep!"
+"DIXON! Snap out of it! We need to take action NOW. There is no such thing as "
+"a friendly bot. They are probably planning to kill us all in our sleep!"
 msgstr ""
+"¡DIXON! Sal de ahí! Necesitamos entrar en acción AHORA MISMO. No hay ningún "
+"robot que sea amistoso. Probablemente estén planeando matarnos mientras "
+"dormimos."
 
 #: Dixon.dialog:212
 msgid "... *sigh*"
-msgstr ""
+msgstr "... *sigh*"
 
 #: Dixon.dialog:213
 msgid ""
-"With heavy heart I have to admit you are right. There are no friendly "
-"bots anymore. Those times are long gone."
+"With heavy heart I have to admit you are right. There are no friendly bots "
+"anymore. Those times are long gone."
 msgstr ""
+"Me pesa en el corazón pero tengo que admitir que estás en lo cierto. Ya no "
+"hay robots amistosos. Esos tiempos quedan lejos."
 
 #: Dixon.dialog:214
 msgid "The tunnels are open. Good luck."
-msgstr ""
+msgstr "Los túneles están abiertos. Buena suerte."
 
 #: Dixon.dialog:215
 msgid ""
-"I will talk to Spencer and ask him for a few attack teams. We will "
-"take care of the bots."
+"I will talk to Spencer and ask him for a few attack teams. We will take care "
+"of the bots."
 msgstr ""
+"Hablaré con Spencer y le pediré algunos equipos de ataque. Nosotros nos "
+"encargaremos de los robots."
 
 #: Dixon.dialog:219 Dixon.dialog:230
 msgid ""
-"The bots in the tunnels might be sentient. I cannot wait to "
-"extinguish an emerging life form. This will be fun."
+"The bots in the tunnels might be sentient. I cannot wait to extinguish an "
+"emerging life form. This will be fun."
 msgstr ""
+"Los robots de los túneles pueden ser sensibles. No puedo esperar a extinguir "
+"una forma de vida emergente. Será divertido."
 
 #: Dixon.dialog:224
 msgid ""
-"Of course I am kidding, Dixon. Lighten up! Now, be a good guy and "
-"open the tunnels for me so I can pry your toolbox from the cold and "
-"dead hands of the bots down there."
+"Of course I am kidding, Dixon. Lighten up! Now, be a good guy and open the "
+"tunnels for me so I can pry your toolbox from the cold and dead hands of the "
+"bots down there."
 msgstr ""
+"Claro que estaba bromeando, Dixon. ¡Alégrate! Ahora, se buen tipo y ábreme "
+"los túneles para que pueda quitarles tus herramientas de la frías y "
+"terroríficas manos de los robots subterráneos."
 
 #: Dixon.dialog:226
 msgid "That was not very funny. You scared me. Sheesh."
-msgstr ""
+msgstr "Esto no es divertido. Me has asustado. Bah."
 
 #: Dixon.dialog:227
 msgid ""
-"No one jokes about the bots anymore. We have seen too much death to "
-"do that. It is a serious matter."
+"No one jokes about the bots anymore. We have seen too much death to do that. "
+"It is a serious matter."
 msgstr ""
+"Nunca más bromees sobre los robots. Hemos visto demasiadas muertes por eso. "
+"Es un asunto serio."
 
 #: Dixon.dialog:228
 msgid ""
-"The bots are our enemies, executioners, killers. Not even Ewald tells "
-"jokes about them anymore."
+"The bots are our enemies, executioners, killers. Not even Ewald tells jokes "
+"about them anymore."
 msgstr ""
+"Los robots son nuestros enemigos, ejecutadores, asesinos. Ni siquiera Ewald "
+"hace bromas sobre ellos."
 
 #: Dixon.dialog:236
 msgid ""
-"You can forget about your toolkit. I am not going to take away "
-"something that a lifeform needs to survive. I would rather die than "
-"kill."
+"You can forget about your toolkit. I am not going to take away something "
+"that a lifeform needs to survive. I would rather die than kill."
 msgstr ""
+"Puedes olvidarte de tu juego de herramientas. No voy a coger algo que esas "
+"formas de vida necesitan para sobrevivir. Prefiero morir que matar."
 
 #: Dixon.dialog:238
 msgid ". . ."
-msgstr ""
+msgstr ". . ."
 
 #: Dixon.dialog:239
 msgid ""
-"I think I understand. Yes, I do not like violence, myself. The bots "
-"may have the toolkit, I am sure there must be a second set of "
-"autotools kicking around somewhere."
+"I think I understand. Yes, I do not like violence, myself. The bots may have "
+"the toolkit, I am sure there must be a second set of autotools kicking "
+"around somewhere."
 msgstr ""
+"Creo que lo entiendo. Sí, no me gusta la violencia. Los robots puede que "
+"tengan el juego de herramientas, pero estoy seguro que hay otro juego de "
+"herramientas por algun sitio."
 
 #: Dixon.dialog:240
 msgid "After all, it seems like they need them more than I do."
-msgstr ""
+msgstr "Después de todo, parece que ellos las necesitan mas que yo."
 
 #: Dixon.dialog:241
 msgid ""
-"I will try to contact them somehow. Maybe they would help us. Ah, we "
-"shall see. It would be great to have an ally against the other bots."
+"I will try to contact them somehow. Maybe they would help us. Ah, we shall "
+"see. It would be great to have an ally against the other bots."
 msgstr ""
+"Tratare de ponerme en contacto con ellos de alguna manera. Puede ser que nos "
+"ayuden. Ya veremos. Sería bueno tener algún aliado contra los otros robots."
 
 #: Dixon.dialog:243
 msgid ""
-"I refused to get the toolkit from the bots in the tunnels because I "
-"think they might be sentient. Life is precious and should be "
-"preserved."
+"I refused to get the toolkit from the bots in the tunnels because I think "
+"they might be sentient. Life is precious and should be preserved."
 msgstr ""
+"Me negué a recoger el juego de herramientas de los robots de los túneles "
+"porque creo que podrían ser sensibles. La vida es preciosa y debe ser "
+"preservada."
 
 #: Dixon.dialog:250
 msgid ""
-"Ah, it is a strange story, I am sure you would not believe me. I will "
-"tell you some other time."
+"Ah, it is a strange story, I am sure you would not believe me. I will tell "
+"you some other time."
 msgstr ""
+"Ah, es un historia extraña, estoy seguro que no me vas a creer. Ya te lo "
+"contare otro día."
 
 #: Dixon.dialog:255
 msgid "The tunnels are cleansed. Here is your toolkit."
-msgstr ""
+msgstr "Los túneles están limpios. Aquí esta tu juego de herramientas."
 
 #: Dixon.dialog:257
 msgid ""
-"*sigh* I hate to see this end in such a way. Bot or no bot, they let "
-"me live. They deserved a chance."
+"*sigh* I hate to see this end in such a way. Bot or no bot, they let me "
+"live. They deserved a chance."
 msgstr ""
+"*ups* Odio ver que se acabe de esta manera. Robot o no robot, ellos me han "
+"dejado vivir. Se merecen una oportunidad."
 
 #: Dixon.dialog:258
 msgid ""
-"Well, What was done cannot be undone and now we all have to live with "
-"what we have. I guess I am being too pessimistic, you did a great job."
+"Well, What was done cannot be undone and now we all have to live with what "
+"we have. I guess I am being too pessimistic, you did a great job."
 msgstr ""
+"Bien, lo que se hizo no puede ser deshecho y ahora todos tenemos que vivir "
+"con lo que hicimos. Imagino que estoy siendo demasiado pesimista, has echo "
+"un gran trabajo."
 
 #: Dixon.dialog:259
 msgid "I thank you for your help in recovering the autotools."
 msgstr ""
+"Te agradezco que hayas ayudado a recuperar las herramientas automáticas."
 
 #: Dixon.dialog:260
 msgid "Here is some money, you deserve it for getting my toolkit back."
 msgstr ""
+"Aquí tienes un poco de dinero, te lo mereces por traer de vuelta mi juego de "
+"herramientas."
 
 #: Dixon.dialog:261
 msgid ""
-"Finally, I would like to say that the technical division is not "
-"interested in further cooperation with you, but I think you would fit "
-"very well in the military division. You should talk to them."
+"Finally, I would like to say that the technical division is not interested "
+"in further cooperation with you, but I think you would fit very well in the "
+"military division. You should talk to them."
 msgstr ""
+"Finalmente, me gustaría decir que la división técnica no esta interesada en "
+"seguir cooperando contigo, pero creo que lo harías muy bien en la división "
+"militar. Deberías hablar con ellos."
 
 #: Dixon.dialog:262
 msgid "I am sorry, but I must go now. My duties call."
-msgstr ""
+msgstr "Lo siento, pero ahora debo irme. El deber me llama."
 
 #: Dixon.dialog:265
 msgid ""
-"Finally. I am tired, covered in bruises and oil... But I made sure "
-"that the all the bots are dead. It felt great to break their metal "
-"bodies and crush their circuits. Dixon didn't seem too happy about "
-"this solution, but I don't care. It was fun killing the bots. Nothing "
-"else matters."
+"Finally. I am tired, covered in bruises and oil... But I made sure that the "
+"all the bots are dead. It felt great to break their metal bodies and crush "
+"their circuits. Dixon didn't seem too happy about this solution, but I don't "
+"care. It was fun killing the bots. Nothing else matters."
 msgstr ""
+"Por fin. Estoy cansado, cubierto de moratones y aceite... pero me he "
+"asegurado que todos los robots están muertos. Me he sentido bien al romper "
+"sus cuerpos de metal y hacer crujir sus circuitos. Dixon no parece muy feliz "
+"con esta solución, pero no me preucupa. Es divertido matar a los robots. No "
+"hay nada mejor."
 
 #: Dixon.dialog:270
 msgid "I got your toolkit. The bots were not a big problem."
 msgstr ""
+"He conseguido tu juego de herramientas. Los robots no ha sido un gran "
+"problema."
 
 #: Dixon.dialog:272
 msgid "Good. We sure need the autotools."
-msgstr ""
+msgstr "Bien. Necesitamos las herramientas automáticas."
 
 #: Dixon.dialog:273
 msgid ""
-"Our roads need fixing, our power lines need fixing, our walls need "
-"fixing... Hell, everything needs fixing in this place."
+"Our roads need fixing, our power lines need fixing, our walls need fixing... "
+"Hell, everything needs fixing in this place."
 msgstr ""
+"Nuestros caminos necesitan que los arreglemos, nuestras lineas de energía "
+"necesitan reparación, nuestros muros necesitan reparación... Vamos en este "
+"lugar todo necesita una reparación."
 
 #: Dixon.dialog:274
 msgid ""
-"With those little gadgets we will be able to automate a lot of those "
-"simple repairs, saving us a lot of time."
+"With those little gadgets we will be able to automate a lot of those simple "
+"repairs, saving us a lot of time."
 msgstr ""
+"Con estos pequeños aparatos estaremos preparados para automatizar un montón "
+"de reparaciones fáciles, nos has ahorrado un montón de tiempo."
 
 #: Dixon.dialog:275
 msgid ""
-"Here is some money for your effort. And I am sure you will find this "
-"helmet useful too, it saved my life once, and I hope it saves yours "
-"one day."
+"Here is some money for your effort. And I am sure you will find this helmet "
+"useful too, it saved my life once, and I hope it saves yours one day."
 msgstr ""
+"Aquí tienes un poco de dinero por tus esfuerzos. Y estoy seguro que "
+"encontraras este casco muy útil también, me ha salvado la vida más de una "
+"vez, espero que algún día te salve la tuya."
 
 #: Dixon.dialog:280
 msgid ""
-"I gave the toolkit to Dixon. He was very happy to have his autotools "
-"back. I got his helmet as a gift. I guess this is better than nothing."
+"I gave the toolkit to Dixon. He was very happy to have his autotools back. I "
+"got his helmet as a gift. I guess this is better than nothing."
 msgstr ""
+"Le di las herramientas a Dixon. El estaba muy feliz por tener las "
+"herramientas automáticas de vuelta. Cogí el casco de regalo. Creo que es "
+"mejor que nada."
 
 #: Dixon.dialog:285
 msgid "I got your toolkit. You can buy it from me if you want."
-msgstr ""
+msgstr "Tengo tus herramientas. Me las puedes comprar si quieres."
 
 #: Dixon.dialog:287
 msgid "WHAT!? "
-msgstr ""
+msgstr "¿¡QUE!?"
 
 #: Dixon.dialog:288
 msgid "You got to be kidding me, Linarian."
-msgstr ""
+msgstr "Me estas tomado el pelo, Linariano."
 
 #: Dixon.dialog:289
 msgid "Give me the toolkit and stop fooling around."
-msgstr ""
+msgstr "Dame el juego de herramientas y deja de tomarme el pelo."
 
 #: Dixon.dialog:294
 msgid "I was not joking. I am listening to your offers."
-msgstr ""
+msgstr "No estoy bromeando. Escucho ofertas."
 
 #: Dixon.dialog:296
 msgid "Linarian, I curse the day on which you have arrived here."
-msgstr ""
+msgstr "Linariano, maldito el día en que llegaste."
 
 #: Dixon.dialog:297
 msgid "Two fifty."
-msgstr ""
+msgstr "Dos de cincuenta."
 
 #: Dixon.dialog:302 Dixon.dialog:316 Dixon.dialog:329
 msgid "Deal. Here is your toolkit. Now cough up the money. Fast."
 msgstr ""
+"Trato hecho. Aquí están tus herramientas. Ahora suelta el dinero. Rápido."
 
 #: Dixon.dialog:304
 msgid "Here. It is all there."
-msgstr ""
+msgstr "Toma. Esta todo aquí."
 
 #: Dixon.dialog:305
 msgid ""
-"Now get out of here. I am a pacifist, but I am willing to make a "
-"special exception just for you."
+"Now get out of here. I am a pacifist, but I am willing to make a special "
+"exception just for you."
 msgstr ""
+"Ahora sal de aquí. Soy pacifista, pero estoy dispuesto a hacer una excepción "
+"contigo."
 
 #: Dixon.dialog:306
 msgid "Get out of my sight."
-msgstr ""
+msgstr "Fuera de mi vista."
 
 #: Dixon.dialog:310
-msgid ""
-"I sold the toolkit to Dixon for a nice sum of money. Life is good."
+msgid "I sold the toolkit to Dixon for a nice sum of money. Life is good."
 msgstr ""
+"Le he vendido el juego de herramientas a Dixon por una buena suma. La vida "
+"es buena."
 
 #: Dixon.dialog:318
 msgid "I am not happy about this. I suggest you leave the city."
-msgstr ""
+msgstr "No estoy feliz por esto. Te sugiero que abandones la ciudad."
 
 #: Dixon.dialog:319
 msgid "Accidents... Happen."
-msgstr ""
+msgstr "Los accidentes... a veces pasan."
 
 #: Dixon.dialog:323
-msgid ""
-"I sold the toolkit to Dixon for a huge sum of money. Life is great."
+msgid "I sold the toolkit to Dixon for a huge sum of money. Life is great."
 msgstr ""
+"Le he vendido el juego de herramientas a Dixon por una gran suma. La vida es "
+"grandiosa."
 
 #: Dixon.dialog:331
 msgid ""
-"Linarian. Now we part as usual. However should I ever see you after "
-"the war is over..."
+"Linarian. Now we part as usual. However should I ever see you after the war "
+"is over..."
 msgstr ""
+"Linariano. Ahora partiremos como de costumbre. Sin embargo si nunca te veo "
+"después de que termine la guerra..."
 
 #: Dixon.dialog:332
 msgid "I promise to kill you."
-msgstr ""
+msgstr "Te prometo que te mataré."
 
 #: Dixon.dialog:333
 msgid ""
-"Now take your money and get out of my face. I do not want to see you "
-"here ever again."
+"Now take your money and get out of my face. I do not want to see you here "
+"ever again."
 msgstr ""
+"Ahora coge tu dinero y sal de mi vista. No quiero verte por aquí nunca más."
 
 #: Dixon.dialog:337
 msgid ""
-"I sold the toolkit to Dixon for a enormous sum of money. Life is "
-"truly grand. But, I better stay away from Dixon for now... He seemed "
-"very angry at me."
+"I sold the toolkit to Dixon for a enormous sum of money. Life is truly "
+"grand. But, I better stay away from Dixon for now... He seemed very angry at "
+"me."
 msgstr ""
+"Le he vendido el juego de herramientas a Dixon por una enorme cantidad de "
+"dinero. La vida es verdaderamente grandiosa. Pero, mejor que me mantenga "
+"alejado de Dixon por ahora... Parece que esta muy enfadado conmigo."
 
 #: Dixon.dialog:343
 msgid "Good joke. I am sure you can do better."
-msgstr ""
+msgstr "Buen chiste. Estoy seguro que puedes hacerlo mejor."
 
 #: Dixon.dialog:345
 msgid ""
-"Three fifty. This is all that the technical division has as their "
-"cash resources."
+"Three fifty. This is all that the technical division has as their cash "
+"resources."
 msgstr ""
+"Tres de cincuenta. Esto es todo lo que la división técnica tiene de "
+"presupuesto."
 
 #: Dixon.dialog:350
 msgid "Come on, I am sure you can do even better than that... "
-msgstr ""
+msgstr "Venga va, estoy seguro de que puedes hacerlo mejor que eso..."
 
 #: Dixon.dialog:352
 msgid "Four hundred. We cannot offer anything more."
-msgstr ""
+msgstr "Cuatrocientos. No podemos ofrecerte nada más."
 
 #: Dixon.dialog:353
 msgid "Please, we really need the autotools."
-msgstr ""
+msgstr "Por favor, realmente necesitamos las herramientas automáticas."
 
 #: Dixon.dialog:354
 msgid "Without them this city is doomed."
-msgstr ""
+msgstr "Sin ellas la ciudad esta perdida."
 
 #: Dixon.dialog:359 Dixon.dialog:369 Dixon.dialog:377 Dixon.dialog:388
 msgid "Is everything all right?"
-msgstr ""
+msgstr "¿Está todo correcto?"
 
 #: Dixon.dialog:361
 msgid "Heh, never better!"
-msgstr ""
+msgstr "Ja! Nunca mejor!"
 
 #: Dixon.dialog:362
 msgid ""
-"All indicators are in the green, the power and water fill the pipes "
-"and even Spencer seems happier now that the town is thriving despite "
-"all odds."
+"All indicators are in the green, the power and water fill the pipes and even "
+"Spencer seems happier now that the town is thriving despite all odds."
 msgstr ""
+"Todos los indicadores estén en verde, la energía y el agua llenan los "
+"conductos e incluso Spencer parece estar más contento ahora que la ciudad "
+"está prosperando contra todo pronostico."
 
 #: Dixon.dialog:363
 msgid ""
-"Thanks to the autotools we can start building instead of just trying "
-"to repair the damage."
+"Thanks to the autotools we can start building instead of just trying to "
+"repair the damage."
 msgstr ""
+"Gracias a las herramientas automáticas podemos empezar a construir en vez de "
+"solo intentar reparar los daños."
 
 #: Dixon.dialog:364
 msgid ""
-"Once this is sick war is over, I will make sure you get keys to the "
-"city Linarian."
+"Once this is sick war is over, I will make sure you get keys to the city "
+"Linarian."
 msgstr ""
+"Una vez esta guerra enfermiza acabe me aseguraré de que consigas las llaves "
+"de la ciudad, Linariano."
 
 #: Dixon.dialog:371
+#, fuzzy
 msgid "Nearly. Only my conscience keeps me up at night."
-msgstr ""
+msgstr "Solamente mi conciencia hace que me levante por la noche."
 
 #: Dixon.dialog:372
 msgid ""
-"Please leave me alone with my thoughts, I do not want to talk to "
-"anyone right now."
+"Please leave me alone with my thoughts, I do not want to talk to anyone "
+"right now."
 msgstr ""
+"Por favor déjame solo con mis pensamientos, ahora mismo no quiero hablar con "
+"nadie."
 
 #: Dixon.dialog:379
 msgid "No, I am afraid not."
-msgstr ""
+msgstr "No, no tengo miedo."
 
 #: Dixon.dialog:380
+#, fuzzy
 msgid ""
-"While I do not regret sparing the bots in the tunnels, the town "
-"suffers for it."
+"While I do not regret sparing the bots in the tunnels, the town suffers for "
+"it."
 msgstr ""
+"No me arrepiento de escatimar los robots en los tuneles, la ciudad aún sufre "
+"por ello."
 
 #: Dixon.dialog:381
 msgid ""
-"It makes me sad to see everything slowly wasting away. The bots are "
-"doing more damage than we can repair."
+"It makes me sad to see everything slowly wasting away. The bots are doing "
+"more damage than we can repair."
 msgstr ""
+"Me hace sentir mal verlo todo como se va desperdiciando poco a poco. Los "
+"robots hacen mas daño del que podemos reparar."
 
 #: Dixon.dialog:382
-msgid ""
-"This town has a few weeks left to live. After that we are all dead."
+msgid "This town has a few weeks left to live. After that we are all dead."
 msgstr ""
+"A esta ciudad le quedan pocas semanas de vida. Después de eso estaremos "
+"todos muertos. "
 
 #: Dixon.dialog:390
 msgid "Ha! Never better!"
-msgstr ""
+msgstr "¡Ja! ¡Nunca mejor!"
 
 #: Dixon.dialog:391
 msgid ""
-"We are mass producing energy shields, creating more electric energy "
-"than we can ever imagine spending and even experimenting with new "
-"armor types."
+"We are mass producing energy shields, creating more electric energy than we "
+"can ever imagine spending and even experimenting with new armor types."
 msgstr ""
+"Estamos produciendo en masa escudos de energía, creamos más energía "
+"eléctrica de la que jamás hubiésemos imaginado gastar, incluso "
+"experimentamos con nuevos tipos de armadura."
 
 #: Dixon.dialog:392
 msgid "Life is good right now."
-msgstr ""
+msgstr "La vida es buena ahora."
 
 #: Dixon.dialog:398
 msgid ""
-"What happened? Last time I asked, you said things are not going that "
-"well."
+"What happened? Last time I asked, you said things are not going that well."
 msgstr ""
+"¿Que paso? La ultima vez que lo pregunte, dijiste que las cosas no iban del "
+"todo bien."
 
 #: Dixon.dialog:400
 msgid "Yes, but now everything is different."
-msgstr ""
+msgstr "Sí, pero ahora es todo diferente."
 
 #: Dixon.dialog:401
 msgid ""
-"I met someone who decided to join us in the fight against the MegaSys "
-"bots."
+"I met someone who decided to join us in the fight against the MegaSys bots."
 msgstr ""
+"Conocí a alguien que decidió unirse a nosotros en la lucha contra los robots "
+"MegaSys."
 
 #: Dixon.dialog:402
 msgid ""
 "You will need a hacked computer. Type in 'ssh 10.83.13.230' as the "
 "superuser, and you will see what I mean."
 msgstr ""
+"Necesitarás un ordenador hackeado. Escribe 'ssh 10.83.13.230' como "
+"superusuario y verás a que me refiero."
 
 #: Dixon.dialog:408
 msgid "Why the secrecy and the hushed voice? Can't you just tell me?"
-msgstr ""
+msgstr "¿Porque tanto secretismo y susurros? ¿No podrías solamente contármelo?"
 
 #: Dixon.dialog:410
 msgid "Nope. Some things you just have to see with your own eyes."
-msgstr ""
+msgstr "Nop. Algunas cosas debes verlas con tus propios ojos."
 
 #: Dixon.dialog:411
-msgid ""
-"The Library of Alexandria, the Colossus of Rhodes, the Black Island..."
-msgstr ""
+msgid "The Library of Alexandria, the Colossus of Rhodes, the Black Island..."
+msgstr "La Biblioteca de Alejandria, el Coloso de Rhodes, la Isla Negra..."
 
 #: Dixon.dialog:412
 msgid "And this is just one of those things."
-msgstr ""
+msgstr "Y esta es solo una de estas cosas."
 
 #: Dixon.dialog:413
 msgid "Just go and see for yourself. Otherwise you will not believe me."
-msgstr ""
+msgstr "Solo ve y lo veras por ti mismo. De otra forma no me vas a creer."
 
 #: Dixon.dialog:414
 msgid ""
-"The tunnels bots seem to be working together with Dixon in keeping "
-"the city working. All is well that ends well."
+"The tunnels bots seem to be working together with Dixon in keeping the city "
+"working. All is well that ends well."
 msgstr ""
+"Los robots de los túneles parece que están trabajando con Dixon manteniendo "
+"la ciudad funcionando. Todo esta bien lo que acaba bien."
 
 #: Dixon.dialog:422
 msgid "YOU AGAIN!"
-msgstr ""
+msgstr "¡TU OTRA VEZ!"
 
 #: Dixon.dialog:423
 msgid "I."
-msgstr ""
+msgstr "TE HE."
 
 #: Dixon.dialog:424
 msgid "SAID."
-msgstr ""
+msgstr "DICHO."
 
 #: Dixon.dialog:425
 msgid "GET."
-msgstr ""
+msgstr "QUE."
 
 #: Dixon.dialog:426
 msgid "LOST."
-msgstr ""
+msgstr "TE PIERDAS."
 
 #: Dixon.dialog:427
 msgid "FUCK MY LIFELONG PACIFISM. I WILL FUCKING KILL YOU NOW!"
-msgstr ""
+msgstr "HAS JODIDO MI PACIFISMO DE TODA LA VIDA. JODER, TE VOY A MATAR!"
 
 #: Dixon.dialog:428
 msgid "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!"
-msgstr ""
+msgstr "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!"
 
 #: Dixon.dialog:434
 msgid "I must go now."
-msgstr ""
+msgstr "Tengo que irme."

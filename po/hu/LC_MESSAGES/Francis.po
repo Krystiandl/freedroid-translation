@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-06-11 09:40+0100\n"
+"Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,486 +13,366 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Francis.dialog:39
-msgid ""
-"Oh, thank heavens! You are still alive. Maybe all hope is not lost."
-msgstr ""
+msgid "Oh, thank heavens! You are still alive. Maybe all hope is not lost."
+msgstr "Hála az égnek! Még mindig élsz! Talán nem veszett el minden remény."
 
 #: Francis.dialog:45
 msgid "Who am I?"
-msgstr ""
+msgstr "Ki vagyok?"
 
 #: Francis.dialog:47
 msgid "Oh dear. This is not good. Not good."
-msgstr ""
+msgstr "Affene. Ez nem túl jó. Nem bizony."
 
 #: Francis.dialog:48
-msgid ""
-"*sigh* Long stasis sleep can cause neurological damage and impact the "
-"memory. Looks like that is what happened here."
-msgstr ""
+msgid "*sigh* Long stasis sleep can cause neurological damage and impact the memory. Looks like that is what happened here."
+msgstr "*sóhaj* A hosszú sztázisalvás idegi sérülést is okozhat, és károsíthatja a memóriát. Úgy tűnik, ez történt."
 
 #: Francis.dialog:49
-msgid ""
-"It will all come back to you in a few hours, but I guess I will make "
-"it easier for you if I say what I know."
-msgstr ""
+msgid "It will all come back to you in a few hours, but I guess I will make it easier for you if I say what I know."
+msgstr "Néhány óra múlva minden be fog ugrani, de azt hiszem könnyebbé tehetem, ha elmondom, amit tudok."
 
 #: Francis.dialog:50
-msgid ""
-"You are a Linarian, a species not native to this planet. Twenty of "
-"you arrived here close to a century ago."
-msgstr ""
+msgid "You are a Linarian, a species not native to this planet. Twenty of you arrived here close to a century ago."
+msgstr "Te egy Lináriai vagy, egy olyan lény, ami nem honos ezen a bolygón. Húszan érkeztetek ide, majdnem egy évszázaddal ezelőtt."
 
 #: Francis.dialog:51
-msgid ""
-"There was a... misunderstanding of some sort and humans welcomed your "
-"expedition with blaster fire. A terrible mistake on our part."
-msgstr ""
+msgid "There was a... misunderstanding of some sort and humans welcomed your expedition with blaster fire. A terrible mistake on our part."
+msgstr "Valami félreértés történhetett, mert az emberek géppuskatűzzel fogadták az exbedíciótokat. Rettentő hiba volt részünkről."
 
 #: Francis.dialog:52
-msgid ""
-"A few of you survived the slaughter and went into hiding and "
-"obscurity."
-msgstr ""
+msgid "A few of you survived the slaughter and went into hiding and obscurity."
+msgstr "Néhányan túléltétek a mészárlást, és bújdokolni kezdtetek."
 
 #: Francis.dialog:53
-msgid ""
-"During that time Linarians became known as helpers and heroes. Of "
-"course now most people think it all was just a fairy tale."
-msgstr ""
+msgid "During that time Linarians became known as helpers and heroes. Of course now most people think it all was just a fairy tale."
+msgstr "Ez idő alatt a Lináriaiakat segítőkként és hősökként ismerte meg a világ. Persze pár ember azt hiszi, az egész csak tündérmese volt."
 
 #: Francis.dialog:54
 msgid "If the computer is not lying, then your name is "
-msgstr ""
+msgstr "Ha a számítógép nem hazudik, a neved "
 
 #: Francis.dialog:59
 msgid "How did the war start?"
-msgstr ""
+msgstr "Hogy tört ki a háború?"
 
 #: Francis.dialog:61
 msgid "It is a long story. It all happened five months ago."
-msgstr ""
+msgstr "Ez egy hosszú történet. Minden öt hónappal ezelőtt történt."
 
 #: Francis.dialog:62
-msgid ""
-"I was at a protest against MegaSys, a computer company. They killed "
-"free software by finding a loophole in the GPL3.14 licence. It all "
-"became their property. Bastards."
-msgstr ""
+msgid "I was at a protest against MegaSys, a computer company. They killed free software by finding a loophole in the GPL3.14 licence. It all became their property. Bastards."
+msgstr "A MegaSys comuter vállalat ellen demonstráció volt. Megölték a szabad szoftvert, mert találtak egy rést a GPL.3.14 licencében. Az egész az ő tulajdonukká vált. Szemetek."
 
 #: Francis.dialog:63
-msgid ""
-"Lots of people were angry about this. Protests and riots spread in "
-"waves all around the world."
-msgstr ""
+msgid "Lots of people were angry about this. Protests and riots spread in waves all around the world."
+msgstr "Sok ember volt mérges emiatt. Demonstrációk és lázongás volt mindenhol a világon."
 
 #: Francis.dialog:64
-msgid ""
-"When the police bots approached at dawn, we thought that they were "
-"going to simply disperse the crowds. Instead, they started killing us."
-msgstr ""
+msgid "When the police bots approached at dawn, we thought that they were going to simply disperse the crowds. Instead, they started killing us."
+msgstr "Mikor a rendőrségi botok megérkezteh, azt hittük, csak a tömeget fogják feloszlatni. Ehelyett elkezdtek ölni minket."
 
 #: Francis.dialog:65
-msgid ""
-"I broke into a parked hover car and used it to escape. The sight from "
-"the air was horrible."
-msgstr ""
+msgid "I broke into a parked hover car and used it to escape. The sight from the air was horrible."
+msgstr "Én egy parkoló lebegőautót törtem fel, és azzal menekültem. Borzalmas volt a fentről elém táruló látvány."
 
 #: Francis.dialog:66
-msgid ""
-"The city was full of flames, flashes of gunfire and screaming people. "
-"That image still does not let me sleep at night."
-msgstr ""
+msgid "The city was full of flames, flashes of gunfire and screaming people. That image still does not let me sleep at night."
+msgstr "A város lángokban állt, torkolattüzek villogtak, emberek sikoltoztak. Azóta sem tudok aludni attól az emléktől."
 
 #: Francis.dialog:67
 msgid "First we made them, and then they unmade us. How ironic."
-msgstr ""
+msgstr "Mi elkészítettük őket, ők pedig kikészítettek minket. Ironikus."
 
 #: Francis.dialog:72
 msgid "What happened then?"
-msgstr ""
+msgstr "Mi történt azután?"
 
 #: Francis.dialog:74
 msgid "I got shot down and I crashed a few kilometers away from here."
-msgstr ""
+msgstr "Találatot kaptam, és pár mérföldre innen lezuhantam."
 
 #: Francis.dialog:75
-msgid ""
-"Later I learned that the bots started attacking all around the globe. "
-"The journalists called it 'The Great Assault'. The name stuck."
-msgstr ""
+msgid "Later I learned that the bots started attacking all around the globe. The journalists called it 'The Great Assault'. The name stuck."
+msgstr "Csak később tudtam meg, hogy a botok az egész bolygón támadni kezdtek. Az újságírók 'Nagy Ostrom'-nak nevezték el. Hülye név."
 
 #: Francis.dialog:76
-msgid ""
-"Then the bots started jamming our broadcasts and long distance "
-"communication became impossible. I have no idea what happened in the "
-"world after that. We are cut off."
-msgstr ""
+msgid "Then the bots started jamming our broadcasts and long distance communication became impossible. I have no idea what happened in the world after that. We are cut off."
+msgstr "Aztán a botok zavarni kezdték az adásainkat, és a távolsági kommunikáció lehetetlenné vált. Nincs ötletem, mi történhetett ezután. El lettünk vágva a külvilágtól."
 
 #: Francis.dialog:77
 msgid "For all I know the war might be already over."
-msgstr ""
+msgstr "Annyit sejtek csak, hogy a háború talán már véget ért."
 
 #: Francis.dialog:82
 msgid "Where am I?"
-msgstr ""
+msgstr "Hol vagyok?"
 
 #: Francis.dialog:84
-msgid ""
-"The locals call this place the popsicle storage, because of all the "
-"people lying here frozen in cryogenic sleep. All were frozen down "
-"before the Great Assault."
-msgstr ""
+msgid "The locals call this place the popsicle storage, because of all the people lying here frozen in cryogenic sleep. All were frozen down before the Great Assault."
+msgstr "A helyiek csak embertárnak hívják, mert itt mindenki kriogenikus alvásban fekszik. Mindannyiukat a Nagy Ostrom előtt fagyasztották le."
 
 #: Francis.dialog:85
-msgid ""
-"This facility is located not too far away from a mining town where we "
-"have made a stand against the damn contraptions. However, I'm alone "
-"here with only 1 droid for security."
-msgstr ""
+msgid "This facility is located not too far away from a mining town where we have made a stand against the damn contraptions. However, I'm alone here with only 1 droid for security."
+msgstr "Ez a létesítmény nem messze fekszik egy bányászvárostól, ahol még mindig helyt állunk az átkozott támadókkal szemben. Mindazonáltal itt egyedül vagyok, csak egy biztonsági droidom van, hogy védjen."
 
 #: Francis.dialog:86
-msgid ""
-"There are just too few humans alive and awake to allow us to properly "
-"protect this place, and nobody else is foolish enough to stay out "
-"here alone."
-msgstr ""
+msgid "There are just too few humans alive and awake to allow us to properly protect this place, and nobody else is foolish enough to stay out here alone."
+msgstr "Túl kevés ébren levő ember van életben ahhoz, hogy védjék ezt a helyet, és senki sem olyan ostoba, hogy egyedül maradjon itt."
 
 #: Francis.dialog:87
-msgid ""
-"I try to do my best to make sure nothing goes bad here and all these "
-"people die. Luckily, the outer gates of this place are quite sturdy."
-msgstr ""
+msgid "I try to do my best to make sure nothing goes bad here and all these people die. Luckily, the outer gates of this place are quite sturdy."
+msgstr "Megpróbálok megtenni mindent, hogy ezek az emberek ne haljanak meg. Szerencsére a létesítmény falai és kapui elég szilárdak."
 
 #: Francis.dialog:92
 msgid "Why did the Linarians come to this world?"
-msgstr ""
+msgstr "Miért jöttek a Lináriaiak erre a világra?"
 
 #: Francis.dialog:94
-msgid ""
-"The planet you mean? No one knows that. None of you ever said "
-"anything about it."
-msgstr ""
+msgid "The planet you mean? No one knows that. None of you ever said anything about it."
+msgstr "A bolygóra gondolsz? Senki sem tudja. Egyikőtök sem beszélt erről soha."
 
 #: Francis.dialog:95
 msgid "Sorry, I cannot help you with that."
-msgstr ""
+msgstr "Sajnálom, ebben nem tudok segíteni."
 
 #: Francis.dialog:100
 msgid "Where in the void is this world?"
-msgstr ""
+msgstr "Ez a világ hol van az ürességben?"
 
 #: Francis.dialog:102
 msgid "I guess you mean in the universe?"
-msgstr ""
+msgstr "Azt hiszem, az univerzumra gondolsz."
 
 #: Francis.dialog:103
 msgid "Yes, I think that is your name for it."
-msgstr ""
+msgstr "Igen, azt hiszem ti így nevezitek."
 
 #: Francis.dialog:104
-msgid ""
-"Well, we are in a barred spiral galaxy, twenty-six thousand light "
-"years away from the galactic core."
-msgstr ""
+msgid "Well, we are in a barred spiral galaxy, twenty-six thousand light years away from the galactic core."
+msgstr "Szóval, mi egy spirális galaxisban vagyunk, huszonhat fényévnyire a galaktikus magtól."
 
 #: Francis.dialog:105
-msgid ""
-"The galactic radius is 43,000 light years and the circumference is "
-"estimated at 270,000 light years."
-msgstr ""
+msgid "The galactic radius is 43,000 light years and the circumference is estimated at 270,000 light years."
+msgstr "A galaktikus átmérő 43 000 fényév, a kerülete pedig körülbelül 270 000 fényév."
 
 #: Francis.dialog:106
-msgid ""
-"This is a planetary system of ten planets, and we are presently "
-"located on the third one from our star, Sun."
-msgstr ""
+msgid "This is a planetary system of ten planets, and we are presently located on the third one from our star, Sun."
+msgstr "A naprendszerünk tíz bolygóból áll, és mi a Napnak nevezett központi csillagtól számított harmadik bolygón élünk."
 
 #: Francis.dialog:107
-msgid ""
-"I am not an astronomer, so I could be wrong. I am too tired to keep "
-"track of what is a planet and what is just an oversized rock."
-msgstr ""
+msgid "I am not an astronomer, so I could be wrong. I am too tired to keep track of what is a planet and what is just an oversized rock."
+msgstr "Nem vagyok csillagász, tehát akár tévedhetek is. Túl fáradt vagyok, hogy észben tartsam, melyik a bolygó és melyik csak egy túlméretes szikla."
 
 #: Francis.dialog:108
-msgid ""
-"This could be just about anywhere. Your description is too ambiguous."
-msgstr ""
+msgid "This could be just about anywhere. Your description is too ambiguous."
+msgstr "Ez bárhol lehet. A leírásod túl pontatlan."
 
 #: Francis.dialog:109
-msgid ""
-"Sorry, star sciences are my weak point. Maybe someone in the town "
-"might know something more."
-msgstr ""
+msgid "Sorry, star sciences are my weak point. Maybe someone in the town might know something more."
+msgstr "Sajnálom, a csillagászat a gyengébb képességeim egyike. Talán valaki a városban többet tud nálam."
 
 #: Francis.dialog:114
 msgid "Who are you? What is going on?"
-msgstr ""
+msgstr "Ki vagy te? Mi folyik itt?"
 
 #: Francis.dialog:116
 msgid "I guess I will start with myself."
-msgstr ""
+msgstr "Talán kezdem magammal."
 
 #: Francis.dialog:117
-msgid ""
-"Francis. Francis Spark. I used to be a teacher at a small university "
-"before all hell broke loose."
-msgstr ""
+msgid "Francis. Francis Spark. I used to be a teacher at a small university before all hell broke loose."
+msgstr "Francis. Francis Park a nevem. Egy kis egyetem tanára voltam, mielőtt elszabadult a pokol."
 
 #: Francis.dialog:118
-msgid ""
-"Currently, there is a war raging all around the globe. Humans are "
-"fighting against bots."
-msgstr ""
+msgid "Currently, there is a war raging all around the globe. Humans are fighting against bots."
+msgstr "Mostanság háború dúl a bolygón mindenhol. Emberek harcolnak botok ellen."
 
 #: Francis.dialog:119
 msgid "And it looks like we are losing the war."
-msgstr ""
+msgstr "És úgy tűnik, elvesztjük a háborút."
 
 #: Francis.dialog:124
-msgid ""
-"I feel terrible... Was I asleep? I remember nightmares. A meteor "
-"shower striking a planet full of life and killing everything on it..."
-msgstr ""
+msgid "I feel terrible... Was I asleep? I remember nightmares. A meteor shower striking a planet full of life and killing everything on it..."
+msgstr "Rosszul érzem magam... Aludtam? Rémálmokra emlékszem. Meteorzápor zúdult egy élettel teli bolygóra, és mindent elpusztított..."
 
 #: Francis.dialog:126
-msgid ""
-"This is normal. You were in stasis sleep for over 70 years. Stasis is "
-"not too kind on the mind. Your strange dreams will keep recurring for "
-"several years."
-msgstr ""
+msgid "This is normal. You were in stasis sleep for over 70 years. Stasis is not too kind on the mind. Your strange dreams will keep recurring for several years."
+msgstr "Ez normális. Több, mint 70 évig aludtál sztázisban. A sztázis nem hat túl jól az elmére. A furcsa álmok még évekig visszatérhetnek."
 
 #: Francis.dialog:127
-msgid ""
-"Whatever the reason was for putting yourself through this, it must "
-"have been a damn good one."
-msgstr ""
+msgid "Whatever the reason was for putting yourself through this, it must have been a damn good one."
+msgstr "Bármi okod volt, hogy ezt tedd, annak tényleg komolynak kellett lennie."
 
 #: Francis.dialog:128
-msgid ""
-"You are lucky that I found you and woke you up. A few more decades in "
-"there and you would end up insane."
-msgstr ""
+msgid "You are lucky that I found you and woke you up. A few more decades in there and you would end up insane."
+msgstr "Szerencsés vagy, hogy megtaláltalak és felébresztettelek. Még pár évtized, és megőrülsz odabent."
 
 #: Francis.dialog:133
 msgid "Tell me more about the town you mentioned."
-msgstr ""
+msgstr "Beszélj többet a városról, amit említettél."
 
 #: Francis.dialog:135
-msgid ""
-"It is a small mining community of no more than 500 inhabitants..."
-msgstr ""
+msgid "It is a small mining community of no more than 500 inhabitants..."
+msgstr "Ez egy kis bányászközösség, alig 500 lakossal..."
 
 #: Francis.dialog:136
-msgid ""
-"It was a stroke of luck that it did not get destroyed by the bots. "
-"Because of poor funding, the city could not afford new models."
-msgstr ""
+msgid "It was a stroke of luck that it did not get destroyed by the bots. Because of poor funding, the city could not afford new models."
+msgstr "Nagy szerencse volt, hogy a botok nem pusztították el. A kevéske bevétel miatt az itt lakók nem engedhették meg maguknak az újabb modelleket."
 
 #: Francis.dialog:137
-msgid ""
-"All they had at the time of the bot attack were the 614 battle bot "
-"platforms. They were running an old operating system and were not "
-"affected by whatever caused the other bots to go crazy."
-msgstr ""
+msgid "All they had at the time of the bot attack were the 614 battle bot platforms. They were running an old operating system and were not affected by whatever caused the other bots to go crazy."
+msgstr "A támadás időpontjában csak 614-es harcirobotjaik voltak. Ezek egy régi operációs rendszert futtattak, és nem hatott rájuk az, ami a többi botot megőrjítette. Bármi legyen is."
 
 #: Francis.dialog:138
-msgid ""
-"Right now the place is protected by the Red Guard, a bunch of "
-"volunteers. I cannot say I agree with their methods."
-msgstr ""
+msgid "Right now the place is protected by the Red Guard, a bunch of volunteers. I cannot say I agree with their methods."
+msgstr "Most a Vörös Őrség védi a várost, egy csapat önkéntes. Nem mondhatom, hogy egyetértek a módszereikkel."
 
 #: Francis.dialog:139
-msgid ""
-"However, I must admit that being a prisoner of a walled town looks "
-"pretty good compared to the alternative of being eviscerated alive."
-msgstr ""
+msgid "However, I must admit that being a prisoner of a walled town looks pretty good compared to the alternative of being eviscerated alive."
+msgstr "Mindazonáltal, egy fallal körülvett városban raboskodni jobb alternatíva, mint az elevenen felkoncolás."
 
 #: Francis.dialog:144
 msgid "Why did the bots attack?"
-msgstr ""
+msgstr "Miért támadtak a robotok?"
 
 #: Francis.dialog:146
 msgid "We don't really know the reason for this insanity. However..."
-msgstr ""
+msgstr "Nem igazán tudjuk, mi lehet az őrületük oka. Bár..."
 
 #: Francis.dialog:147
-msgid ""
-"All of the attacking bots are using a MegaSys operating system, so we "
-"think they are responsible."
-msgstr ""
+msgid "All of the attacking bots are using a MegaSys operating system, so we think they are responsible."
+msgstr "Minden támadó bot MegaSys operációs rendszert futtat, ezért úgy gondoljuk, ők lehetnek a felelősek."
 
 #: Francis.dialog:148
 msgid "Not surprisingly, the bastards deny everything."
-msgstr ""
+msgstr "Nem meglepő, hogy a mocskok mindent tagadnak."
 
 #: Francis.dialog:149
-msgid ""
-"Of course, because nearly every single bot in the world runs on that "
-"junk, the situation does not look pretty."
-msgstr ""
+msgid "Of course, because nearly every single bot in the world runs on that junk, the situation does not look pretty."
+msgstr "Természetesen, mivel a világon majdnem minden bot azt a szemetet futtatja, a helyzet nem túl rózsás."
 
 #: Francis.dialog:154
 msgid "I also heard a voice... Someone calling himself Dvorak... "
-msgstr ""
+msgstr "És hallottam hangokat is... Valaki Dvoraknak nevezte magát..."
 
 #: Francis.dialog:156
 msgid "Relax. Everything will be fine in a few hours."
-msgstr ""
+msgstr "Nyugodj meg. Pár óra múlva minden rendben lesz."
 
 #: Francis.dialog:157
 msgid "This is perfectly normal."
-msgstr ""
+msgstr "Ez teljesen normális."
 
 #: Francis.dialog:162
 msgid "Why not wake up all these people and attack the bots?"
-msgstr ""
+msgstr "Miért nem ébreszted fel az összes embert, és támadjátok meg a botokat?"
 
 #: Francis.dialog:164
-msgid ""
-"Well, some have a disease that can't be cured yet. Some are just old "
-"and want to be woken up when technology can give them an extended "
-"life. Some have other reasons."
-msgstr ""
+msgid "Well, some have a disease that can't be cured yet. Some are just old and want to be woken up when technology can give them an extended life. Some have other reasons."
+msgstr "Hát, pruknak olyan betegsége van, ami még nem gyógyítható. Néhányuk csak azért alszik, mert öreg, és arra a technológiai korra vár, ami képes megnyújtani az életét. Mások egyéb okokból alszanak."
 
 #: Francis.dialog:165
-msgid ""
-"But suffice it to say, most of these people are not really good at "
-"fighting. Besides, we don't have enough weapons to mount a full scale "
-"counter attack at present."
-msgstr ""
+msgid "But suffice it to say, most of these people are not really good at fighting. Besides, we don't have enough weapons to mount a full scale counter attack at present."
+msgstr "Sajnos azt kell mondjam, legtöbb részük nem tudna harcolni. És jelenleg nincs elég fegyverünk sem, hogy egy teljes ellentámadást megindíthassunk."
 
 #: Francis.dialog:166
-msgid ""
-"And an even bigger problem would be to feed everyone. Our food "
-"resources are quite scarce. So for now they are better off sleeping."
-msgstr ""
+msgid "And an even bigger problem would be to feed everyone. Our food resources are quite scarce. So for now they are better off sleeping."
+msgstr "És még nagyobb probléma lenne mindenki élelmezése. A lehetőségeink erősen korlátozottak. Jobb mindenkinek, ha alszanak."
 
 #: Francis.dialog:171
 msgid "Can you tell me how to get to town?"
-msgstr ""
+msgstr "Tudod, hogy juthatok el a városba?"
 
 #: Francis.dialog:173
-msgid ""
-"Sure. You just need to follow the road outside to the east. After the "
-"bridge, turn right and continue to follow the road and you will soon "
-"be outside of the town main gate."
-msgstr ""
+msgid "Sure. You just need to follow the road outside to the east. After the bridge, turn right and continue to follow the road and you will soon be outside of the town main gate."
+msgstr "Persze. Csak kövesd a kelet felé vezeő utat. A híd után fordulj jobbra, menj tovább és nem sokára már a város kapujánál leszel."
 
 #: Francis.dialog:174
-msgid ""
-"If you run across too many bots, you can try to circle around them. "
-"But avoid getting too far off the road, so you don't get lost. It's "
-"very dangerous out there."
-msgstr ""
+msgid "If you run across too many bots, you can try to circle around them. But avoid getting too far off the road, so you don't get lost. It's very dangerous out there."
+msgstr "Ha túl sok botba ütköznél, próbálj átcikázni közöttük. Ám óvakodj túl messze menni az úttól, nehogy eltévedj. Nagyon veszélyes odakint."
 
 #: Francis.dialog:175
-msgid ""
-"Once in town you will be able to purchase or trade a few more items "
-"for protection at Ms. Stone's shop just inside the town gate."
-msgstr ""
+msgid "Once in town you will be able to purchase or trade a few more items for protection at Ms. Stone's shop just inside the town gate."
+msgstr "Ha már a városban vagy, tudsz némi védőfelszerelést vásárolni Stone anyó boltjában, mindjárt a városkapu mellett balra. Kereskedhetsz is vele."
 
 #: Francis.dialog:180
 msgid "How do I get out from here?"
-msgstr ""
+msgstr "Hogy jutok ki innen?"
 
 #: Francis.dialog:182
-msgid ""
-"Oh, just take the small door and corridor out to the waiting room. "
-"And from there you can get out through the customer entrance."
-msgstr ""
+msgid "Oh, just take the small door and corridor out to the waiting room. And from there you can get out through the customer entrance."
+msgstr "Csak menj át a kis ajtón, és a várószobába vezető folyosón. Onnan már megtalálod a kijáratot."
 
 #: Francis.dialog:183
-msgid ""
-"I keep the back entrance, close to my sleeping quarters, locked at "
-"all times for safety reasons. Better safe than sorry."
-msgstr ""
+msgid "I keep the back entrance, close to my sleeping quarters, locked at all times for safety reasons. Better safe than sorry."
+msgstr "A hálószobámhoz közeli ajtót mindig zárva tartom, biztonsági okokból. Jobb félni, mint megijedni."
 
 #: Francis.dialog:188
-msgid ""
-"It cannot be true. One company cannot control all of the bot software "
-"on a whole world."
-msgstr ""
+msgid "It cannot be true. One company cannot control all of the bot software on a whole world."
+msgstr "Ez nem lehet igaz. Egy vállalat nem kontrollálhatja a világ összes bot szoftverét."
 
 #: Francis.dialog:190
-msgid ""
-"It can. They got close to a monopoly 30 years ago, but their last "
-"competitor, the open source community, was defeated by them about a "
-"year ago."
-msgstr ""
+msgid "It can. They got close to a monopoly 30 years ago, but their last competitor, the open source community, was defeated by them about a year ago."
+msgstr "Dehogynem. 30 éve nagyon közel jutottak a teljes monopóliumhoz, de az utolsó ellenfelüket, a nyít forráskódot használó közösséget csak egy évvell ezelőtt tudták legyőzni."
 
 #: Francis.dialog:191
-msgid ""
-"Since then all of the newly made bots have been made with MegaSys "
-"firmware burnt into their circuits."
-msgstr ""
+msgid "Since then all of the newly made bots have been made with MegaSys firmware burnt into their circuits."
+msgstr "Azóta az összes újonnan épített bot áramköreibe MegaSys firmwaret égettek."
 
 #: Francis.dialog:196
 msgid "Why did you wake me up?"
-msgstr ""
+msgstr "Miért ébresztettél fel?"
 
 #: Francis.dialog:198
-msgid ""
-"The situation at the town is not good. The walls are crumbling and we "
-"have lost a lot of good people."
-msgstr ""
+msgid "The situation at the town is not good. The walls are crumbling and we have lost a lot of good people."
+msgstr "A városban nem túl jó a helyzet. A falak omladoznak és sok jó ember veszett oda."
 
 #: Francis.dialog:199
-msgid ""
-"I heard the Linarians have a special gift for computers and can hack "
-"them just by thinking about it."
-msgstr ""
+msgid "I heard the Linarians have a special gift for computers and can hack them just by thinking about it."
+msgstr "Úgy hallottam, hogy a Lináriaiak különleges számítógépes tudás birtokosai, és gondolati úton képesek feltörni a rendszereiket."
 
 #: Francis.dialog:200
-msgid ""
-"Even if this is only partly true, we need it. The situation is quite "
-"ugly."
-msgstr ""
+msgid "Even if this is only partly true, we need it. The situation is quite ugly."
+msgstr "Ha ez csak részben igaz, akkor is szükségünk van rá. A helyzet elég ronda."
 
 #: Francis.dialog:201
 msgid "We need you."
-msgstr ""
+msgstr "Szükségünk van rád."
 
 #: Francis.dialog:206
 msgid "Where are all my things?"
-msgstr ""
+msgstr "Hol vannak a cuccaim?"
 
 #: Francis.dialog:208
-msgid ""
-"I already took out your chest with personal belongings from storage."
-msgstr ""
+msgid "I already took out your chest with personal belongings from storage."
+msgstr "Már elő is vettem a mellényedet, és minden tárgyadat a szekrényből."
 
 #: Francis.dialog:209
 msgid "It is standing there next to the door."
-msgstr ""
+msgstr "Az ajtó mellett vannak."
 
 #: Francis.dialog:210
 msgid "Is that it?"
-msgstr ""
+msgstr "Ez az?"
 
 #: Francis.dialog:211
-msgid ""
-"That is all the records show you had with you when your were frozen."
-msgstr ""
+msgid "That is all the records show you had with you when your were frozen."
+msgstr "Ez minden, ami nálad volt mielőtt le lettél fagyasztva."
 
 #: Francis.dialog:212
-msgid ""
-"There are also some references to a bank account of yours, but as you "
-"probably understand, there is no working banking system presently."
-msgstr ""
+msgid "There are also some references to a bank account of yours, but as you probably understand, there is no working banking system presently."
+msgstr "Van még némi adat a bankszámláidról, talán megérted, hogy jelenleg a bankrendszen nem működik."
 
 #: Francis.dialog:217
 msgid "Thanks for the help. I'll be going now."
-msgstr ""
+msgstr "Köszönöm a segítséget. Most megyek is."
 
 #: Francis.dialog:219
-msgid ""
-"I am glad I could help you. You should be careful around here. Best "
-"head straight for our town."
-msgstr ""
+msgid "I am glad I could help you. You should be careful around here. Best head straight for our town."
+msgstr "Örülök, hogy segíthettem. Vigyázz magadra odakint. Legjobb, ha egyből a város felé indulsz."
 
 #: Francis.dialog:220
-msgid ""
-"Remember to not veer too far off the path, or your quest could be "
-"over before it begins."
-msgstr ""
+msgid "Remember to not veer too far off the path, or your quest could be over before it begins."
+msgstr "Ne menj túl messze az úttól, mert a küldetésed még azelőtt véget ér, hogy elkezdődne."
+

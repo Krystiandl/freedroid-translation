@@ -586,7 +586,7 @@ msgid ""
 "Linarian, I thought we had an agreement. Fifty per infobit. My silence can "
 "be only broken with currency, so if you want to know, you have to pay."
 msgstr ""
-"Linarian, pensé que podríamos llegar a un acuerdo. Cincuenta por un poco de "
+"Linariano, pensé que podríamos llegar a un acuerdo. Cincuenta por un poco de "
 "información. Mi silencio solo se puede romper con monedas, así que si "
 "quieres saber, tienes que pagar."
 
@@ -669,7 +669,7 @@ msgstr "La respuesta esta en casa. Je."
 
 #: ./Benjamin.dialog:339
 msgid "We do not know, Linarian. We have absolutely no clue."
-msgstr "No lo sabemos, Linarian. No tenemos ninguna pista."
+msgstr "No lo sabemos, Linariano. No tenemos ninguna pista."
 
 #: ./Benjamin.dialog:344
 msgid "What was the failed mission?"
@@ -692,7 +692,7 @@ msgid ""
 "Keep your money Linarian. No amount of circuits can make me talk about that "
 "accursed day."
 msgstr ""
-"Guarda tu dinero Linarian. No hay bastantes créditos que puedan hacerme "
+"Guarda tu dinero Linariano. No hay bastantes créditos que puedan hacerme "
 "hablar de lo que ocurrió ese día."
 
 #: ./Benjamin.dialog:354
