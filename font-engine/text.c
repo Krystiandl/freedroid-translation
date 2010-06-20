@@ -1,7 +1,7 @@
 
-/* 
+/*
  *
- *   Copyright (c) 2004-2007 Arthur Huillet 
+ *   Copyright (c) 2004-2007 Arthur Huillet
  *   Copyright (c) 1994, 2002, 2003 Johannes Prix
  *   Copyright (c) 1994, 2002 Reinhard Prix
  *
@@ -19,8 +19,8 @@
  *  GNU General Public License for more details.
  *
  *  You should have received a copy of the GNU General Public License
- *  along with Freedroid; see the file COPYING. If not, write to the 
- *  Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, 
+ *  along with Freedroid; see the file COPYING. If not, write to the
+ *  Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston,
  *  MA  02111-1307  USA
  *
  */
@@ -246,7 +246,7 @@ alert_window ( const char *text )
 };                              // void alert_window( char* text )
 
 /**
- * 
+ *
  */
 int
 CutDownStringToMaximalSize ( char *StringToCut, int LengthInPixels )
@@ -330,7 +330,7 @@ SetTextCursor ( int x, int y )
 
 /* -----------------------------------------------------------------
  *
- * This function scrolls a given text down inside the User-window, 
+ * This function scrolls a given text down inside the User-window,
  * defined by the global SDL_Rect User_Rect
  *
  * ----------------------------------------------------------------- */
@@ -467,7 +467,7 @@ ScrollText ( char *Text, int background_code )
 
         SDL_Delay ( 30 );
 
-    }                           // while !Space_Pressed 
+    }                           // while !Space_Pressed
 
     while ( MouseLeftPressed (  ) );    // so that we don't touch again immediately.
 
@@ -476,7 +476,7 @@ ScrollText ( char *Text, int background_code )
 };                              // int ScrollText ( ... )
 
 /**
- * This function sets a new text, that will be displayed in huge font 
+ * This function sets a new text, that will be displayed in huge font
  * directly over the combat window for a fixed duration of time, where
  * only the time in midst of combat and with no other windows opened
  * is counted.
@@ -541,10 +541,10 @@ DisplayBigScreenMessage ( void )
 
 /*-----------------------------------------------------------------
  * This function prints *Text beginning at positions startx/starty,
- * respecting the text-borders set by clip_rect.  This includes 
- * clipping but also automatic line-breaks when end-of-line is 
+ * respecting the text-borders set by clip_rect.  This includes
+ * clipping but also automatic line-breaks when end-of-line is
  * reached.  If clip_rect==NULL, no clipping is performed.
- *      
+ *
  *      NOTE: the previous clip-rectange is restored before
  *            the function returns!
  *
@@ -563,7 +563,28 @@ DisplayText ( const char *Text, int startx, int starty,
 
     SDL_Rect store_clip;
 
+    /*The operation of SDL_Pango is done via context.*/
+    SDLPango_Context *context = SDLPango_CreateContext();
+    /* Specify default colors and minimum surface size. */
+    SDLPango_SetDefaultColor(context, MATRIX_TRANSPARENT_BACK_WHITE_LETTER );
+    SDLPango_SetMinimumSize( context, 640, 0 );
+    SDLPango_SetMarkup(context, "This is <i>markup</i> text.", -1);
+    int w = SDLPango_GetLayoutWidth(context);
+    int h = SDLPango_GetLayoutHeight(context);
     short int nblines = 1;
+    /* Create surface to draw. */
+    int margin_x = 10;
+    int margin_y = 10;
+    SDL_Surface * surface = SDL_CreateRGBSurface(SDL_SWSURFACE,
+        w + margin_x * 2, h + margin_y * 2,
+        32, (Uint32)(255 << (8 * 3)), (Uint32)(255 << (8 * 2)),
+        (Uint32)(255 << (8 * 1)), 255);
+    if ( surface != NULL ) {
+        SDLPango_Draw( context , surface , margin_x , margin_y );
+        SDL_BlitSurface( surface, NULL, screen, NULL) ;
+        SDL_Flip( screen );
+        SDL_Delay( 2000 );
+    }
 
     int letter_spacing = get_letter_spacing ( GetCurrentFont (  ) );
 
@@ -608,7 +629,7 @@ DisplayText ( const char *Text, int startx, int starty,
     tmp = ( char * ) Text;      // this is no longer a 'const' char*, but only a char*
     while ( *tmp && ( MyCursorY < clip->y + clip->h ) )
     {
-        if ( ( ( *tmp == ' ' ) || ( *tmp == '\t' ) ) && ( ImprovedCheckLineBreak ( tmp, clip, text_stretch ) == 1 ) )   // dont write over right border 
+        if ( ( ( *tmp == ' ' ) || ( *tmp == '\t' ) ) && ( ImprovedCheckLineBreak ( tmp, clip, text_stretch ) == 1 ) )   // dont write over right border
         {                       /*THE CALL ABOVE HAS DONE THE CARRIAGE RETURN FOR US !!! */
             nblines++;
             ++tmp;
@@ -645,7 +666,7 @@ DisplayText ( const char *Text, int startx, int starty,
 
     }
 
-    SDL_SetClipRect ( Screen, &store_clip );    // restore previous clip-rect 
+    SDL_SetClipRect ( Screen, &store_clip );    // restore previous clip-rect
 
     return nblines;
 
@@ -656,7 +677,7 @@ DisplayText ( const char *Text, int startx, int starty,
  * of text and initiates a carriage return/line feed if not.
  * Very handy and convenient, for that means it is no longer nescessary
  * to enter \n in the text every time its time for a newline. cool.
- *  
+ *
  * rp: added argument clip, which contains the text-window we're writing in
  *     (formerly known as "TextBorder")
  *
@@ -724,7 +745,7 @@ GetString ( int MaxLen, int background_code,
 {
     char *input;                // pointer to the string entered by the user
 
-    int key;                    // last 'character' entered 
+    int key;                    // last 'character' entered
 
     int curpos;                 // counts the characters entered so far
 
@@ -834,7 +855,7 @@ GetString ( int MaxLen, int background_code,
             return ( NULL );
         }
 
-    }                           // while(!finished) 
+    }                           // while(!finished)
 
     DebugPrintf ( 2,
                   "\n\nchar *GetString(..):  The final string is:\n" );
@@ -849,7 +870,7 @@ GetString ( int MaxLen, int background_code,
  * This function reads a string of "MaxLen" from User-input.
  *
  * NOTE: MaxLen is the maximal _strlen_ of the string (excl. \0 !)
- * 
+ *
  * ----------------------------------------------------------------- */
 char *
 GetEditableStringInPopupWindow ( int MaxLen,
@@ -858,7 +879,7 @@ GetEditableStringInPopupWindow ( int MaxLen,
 {
     char *input;                // pointer to the string entered by the user
 
-    int key;                    // last 'character' entered 
+    int key;                    // last 'character' entered
 
     int curpos;                 // counts the characters entered so far
 
@@ -1032,7 +1053,7 @@ GetEditableStringInPopupWindow ( int MaxLen,
             curpos++;
         }
 
-    }                           // while ( ! finished ) 
+    }                           // while ( ! finished )
 
     SDL_EnableKeyRepeat ( 0, SDL_DEFAULT_REPEAT_INTERVAL );
 
@@ -1043,14 +1064,14 @@ GetEditableStringInPopupWindow ( int MaxLen,
 /* -----------------------------------------------------------------
  * behaves similarly as gl_printf() of svgalib, using the BFont
  * print function PrintString().
- *  
- *  sets current position of MyCursor[XY],  
+ *
+ *  sets current position of MyCursor[XY],
  *     if last char is '\n': to same x, next line y
  *     to end of string otherwise
  *
- * Added functionality to PrintString() is: 
+ * Added functionality to PrintString() is:
  *  o) passing -1 as coord uses previous x and next-line y for printing
- *  o) Screen is updated immediatly after print, using SDL_flip()                       
+ *  o) Screen is updated immediatly after print, using SDL_flip()
  *
  * ----------------------------------------------------------------- */
 void
