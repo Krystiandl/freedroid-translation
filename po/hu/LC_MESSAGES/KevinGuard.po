@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-06-21 13:34+0100\n"
+"Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,165 +14,164 @@ msgstr ""
 
 #: KevinGuard.dialog:34
 msgid "It's me."
-msgstr ""
+msgstr "Én vagyok."
 
 #: KevinGuard.dialog:35
 msgid "IDENTITY CONFIRMED. YOU MAY PASS."
-msgstr ""
+msgstr "SZEMÉLY AZONOSÍTVA. BEMEHETSZ."
 
 #: KevinGuard.dialog:39
-msgid ""
-"INTRUDER, LOWER YOUR WEAPONS AND IDENTIFY YOURSELF OR FACE IMMEDIATE "
-"TERMINATION."
-msgstr ""
+msgid "INTRUDER, LOWER YOUR WEAPONS AND IDENTIFY YOURSELF OR FACE IMMEDIATE TERMINATION."
+msgstr "BEHATOLÓ, ENGEDD LE A FEGYVERT ÉS AZONOSÍTSD MAGAD, VAGY AZONNAL MEGSEMMISÍTELEK."
 
 #: KevinGuard.dialog:40
 msgid "I WILL NOT LET YOU INJURE MY MASTER."
-msgstr ""
+msgstr "NEM ENGEDEM, HOGY BÁNTSD A GAZDÁM."
 
 #: KevinGuard.dialog:46
 msgid "I must talk to your master."
-msgstr ""
+msgstr "Beszélnem kell a gazdáddal."
 
 #: KevinGuard.dialog:48
 msgid "STATE YOUR REASON."
-msgstr ""
+msgstr "NEVEZD MEG AZ IDOKAIDAT."
 
 #: KevinGuard.dialog:53
 msgid "Don't shoot! I come in peace."
-msgstr ""
+msgstr "Ne lőj! Békével jöttem."
 
 #: KevinGuard.dialog:55
 msgid "STATE THE PURPOSE OF YOUR PRESENCE HERE."
-msgstr ""
+msgstr "NEVEZD MEG AZ ITTLÉTED OKÁT."
 
 #: KevinGuard.dialog:60
-msgid ""
-"I saw this building as I was walking by, and I decided to take a look "
-"inside."
-msgstr ""
+msgid "I saw this building as I was walking by, and I decided to take a look inside."
+msgstr "Láttam ezt az épületet errefelé jövet, és úgy gondoltam, benézek."
 
 #: KevinGuard.dialog:62
 msgid "YOUR REASON IS CURIOSITY. MASTER KEVIN LIKES CURIOUS PEOPLE."
-msgstr ""
+msgstr "BÁTOR INDOK. KEVIN MESTER KEDVELI A BÁTOR EMBEREKET."
 
 #: KevinGuard.dialog:63
 msgid "YOU MAY PASS."
-msgstr ""
+msgstr "BEMEHETSZ."
 
 #: KevinGuard.dialog:68
 msgid "Thank you."
-msgstr ""
+msgstr "Köszönöm."
 
 #: KevinGuard.dialog:76
 msgid "Umm... His life is in grave danger. "
-msgstr ""
+msgstr "Izé.. Elég veszélyes az élet."
 
-#: KevinGuard.dialog:78 KevinGuard.dialog:85 KevinGuard.dialog:133
-#: KevinGuard.dialog:140 KevinGuard.dialog:147 KevinGuard.dialog:163
+#: KevinGuard.dialog:78
+#: KevinGuard.dialog:85
+#: KevinGuard.dialog:133
+#: KevinGuard.dialog:140
+#: KevinGuard.dialog:147
+#: KevinGuard.dialog:163
 #: KevinGuard.dialog:170
 msgid "ERROR: REASON INVALID."
-msgstr ""
+msgstr "HIBA: NEM MEGFELELŐ INDOK."
 
 #: KevinGuard.dialog:83
-msgid ""
-"The people from the uhh... city want me to have a word with him. "
-"Yeah, that's it."
-msgstr ""
+msgid "The people from the uhh... city want me to have a word with him. Yeah, that's it."
+msgstr "Az emberek a városból, izé... váltani akarnak vele pár szót. Hát, ez van."
 
 #: KevinGuard.dialog:90
-msgid ""
-"I have some very valuable information. Your master might be "
-"interested in it."
-msgstr ""
+msgid "I have some very valuable information. Your master might be interested in it."
+msgstr "Van némi nagyon fontos információm. A gazdádat biztosan érdekelni fogja."
 
 #: KevinGuard.dialog:92
 msgid "MASTER KEVIN WILL BE PLEASED. YOU MAY PASS."
-msgstr ""
+msgstr "KEVIN MESTER HÁLÁS LESZ. BEMEHETSZ."
 
 #: KevinGuard.dialog:93
 msgid "DOOR OPENING SEQUENCE INITIATED."
-msgstr ""
+msgstr "KAPUNYITÓ SZEKVENCIA AKTIVÁLVA."
 
 #: KevinGuard.dialog:98
 msgid "Step aside, you stupid tin can!"
-msgstr ""
+msgstr "Menj már odébb, te hülye konzervdoboz!"
 
 #: KevinGuard.dialog:100
-msgid ""
-"YOU SHALL NOT PASS. ACTIVATING DISINTEGRATOR BEAM IN TEN SECONDS."
-msgstr ""
+msgid "YOU SHALL NOT PASS. ACTIVATING DISINTEGRATOR BEAM IN TEN SECONDS."
+msgstr "NEM LÉPHETSZ BE. DEZINTEGRÁCIÓS SUGÁR AKTIVÁLÁSA TÍZ MÁSODPERC MÚLVA."
 
-#: KevinGuard.dialog:101 KevinGuard.dialog:155
+#: KevinGuard.dialog:101
+#: KevinGuard.dialog:155
 msgid "NINE."
-msgstr ""
+msgstr "KILENC."
 
-#: KevinGuard.dialog:102 KevinGuard.dialog:156
+#: KevinGuard.dialog:102
+#: KevinGuard.dialog:156
 msgid "EIGHT."
-msgstr ""
+msgstr "NYOLC."
 
-#: KevinGuard.dialog:107 KevinGuard.dialog:123
+#: KevinGuard.dialog:107
+#: KevinGuard.dialog:123
 msgid "Wait, that's not what I meant!"
-msgstr ""
+msgstr "Várj, nem úgy értettem!"
 
-#: KevinGuard.dialog:109 KevinGuard.dialog:117
+#: KevinGuard.dialog:109
+#: KevinGuard.dialog:117
 msgid "SEVEN."
-msgstr ""
+msgstr "HÉT."
 
-#: KevinGuard.dialog:110 KevinGuard.dialog:118
+#: KevinGuard.dialog:110
+#: KevinGuard.dialog:118
 msgid "SIX."
-msgstr ""
+msgstr "HAT."
 
 #: KevinGuard.dialog:115
 msgid "I am not afraid of you."
-msgstr ""
+msgstr "Nem félek tőled."
 
 #: KevinGuard.dialog:125
 msgid "FIVE."
-msgstr ""
+msgstr "ÖT."
 
 #: KevinGuard.dialog:126
 msgid "FOUR."
-msgstr ""
+msgstr "NÉGY."
 
 #: KevinGuard.dialog:131
 msgid "The enemies are approaching from every side!"
-msgstr ""
+msgstr "Az ellenség mindenhonnan özönlik!"
 
 #: KevinGuard.dialog:138
 msgid "We are surrounded! They will attack any second now!"
-msgstr ""
+msgstr "Körül vagyunk véve! Bármikor támadhatnak!"
 
 #: KevinGuard.dialog:145
 msgid "Are you listening to me?"
-msgstr ""
+msgstr "Hallasz engem?"
 
 #: KevinGuard.dialog:152
 msgid "I do not have to tell you anything, bot."
-msgstr ""
+msgstr "Nem kell mindent az orrodra kötnöm, bot."
 
 #: KevinGuard.dialog:154
-msgid ""
-"ENGAGING AGGRESSION CIRCUITS. YOU SHALL BE DISINTEGRATED IN TEN "
-"SECONDS."
-msgstr ""
+msgid "ENGAGING AGGRESSION CIRCUITS. YOU SHALL BE DISINTEGRATED IN TEN SECONDS."
+msgstr "AGRESSZIÓS ÁRAMKÖRÖK ÜZEMBE HELYEZÉSE. TÍZ MÁSODPERC MÚLVA MEGSEMMISÍTELEK."
 
 #: KevinGuard.dialog:161
 msgid "I think I just found an error in your programming."
-msgstr ""
+msgstr "Azt hiszem van egy hiba a programodban."
 
 #: KevinGuard.dialog:168
 msgid "Thought so."
-msgstr ""
+msgstr "Gondoltam."
 
 #: KevinGuard.dialog:175
 msgid "See you later, tin can."
-msgstr ""
+msgstr "Később találkozunk, konzervdoboz."
 
 #: KevinGuard.dialog:178
 msgid "EOT ACKNOWLEDGED. CONNECTION CLOSED."
-msgstr ""
+msgstr "EOT TUDOMÁSUL VÉVE. KAPCSOLAT BEZÁRVA."
 
 #: KevinGuard.dialog:179
 msgid "GOODBYE."
-msgstr ""
+msgstr "VISZLÁT."
+
