@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-06-22 10:50+0100\n"
+"Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,384 +14,306 @@ msgstr ""
 
 #: Kevin.dialog:35
 msgid "Hello."
-msgstr ""
+msgstr "Helló."
 
 #: Kevin.dialog:36
 msgid "Well, hello again."
-msgstr ""
+msgstr "Üdv megint."
 
 #: Kevin.dialog:63
-msgid ""
-"Hello... Oh dear... You look awful... Who did this to you? Did they "
-"torture you?"
-msgstr ""
+msgid "Hello... Oh dear... You look awful... Who did this to you? Did they torture you?"
+msgstr "Helló... Húha... Borzalmasan nézel ki... Ki tette ezt veled? Megkínoztak?"
 
 #: Kevin.dialog:65
-msgid ""
-"Hi. I haven't slept for a few weeks, so I'm just a little bit tired."
-msgstr ""
+msgid "Hi. I haven't slept for a few weeks, so I'm just a little bit tired."
+msgstr "Üdv. Nem aludtam pár hete, szóval kissé fáradt vagyok."
 
 #: Kevin.dialog:66
 msgid "Don't worry about me. I'll be fine."
-msgstr ""
+msgstr "Ne aggódj miattam. Rendben leszek."
 
 #: Kevin.dialog:67
 msgid "I'm Kevin, a computer security expert."
-msgstr ""
+msgstr "Kevin vagyok, számítógép biztonsági szakértő."
 
 #: Kevin.dialog:68
 msgid "In other words: You are a hacker."
-msgstr ""
+msgstr "Másszóval: hacker vagy."
 
 #: Kevin.dialog:69
 msgid "Eh... I guess you could put it that way, yes."
-msgstr ""
+msgstr "Izé... Lényegében igen."
 
 #: Kevin.dialog:74
 msgid "I'll see after the energy supply now."
-msgstr ""
+msgstr "Most megnézem azt a tápellátást."
 
 #: Kevin.dialog:76
-msgid ""
-"That's great. You can't miss it. It's not hard to find. Enter my "
-"garden and find the lower station entrance there."
-msgstr ""
+msgid "That's great. You can't miss it. It's not hard to find. Enter my garden and find the lower station entrance there."
+msgstr "Nagyszerű. El sem tévesztheted. Nem nehéz megtalálni. Menj a kertembe, és megtalálod a lejáratot az alsó szintre."
 
 #: Kevin.dialog:77
-msgid ""
-"It would be best not to bother with the resistance on the first "
-"level. You only need to take care of the energy supply. And that's on "
-"the SECOND level."
-msgstr ""
+msgid "It would be best not to bother with the resistance on the first level. You only need to take care of the energy supply. And that's on the SECOND level."
+msgstr "Legjobb, ha nem foglalkozol az első szinten levő botokkal, csak az energiaellátással törődj. Az pedig a MÁSODIK szinten van."
 
 #: Kevin.dialog:78
-msgid ""
-"I hope you have a laser pistol or something like that, the bots there "
-"will rip you apart if you try to approach them."
-msgstr ""
+msgid "I hope you have a laser pistol or something like that, the bots there will rip you apart if you try to approach them."
+msgstr "Remélem van lézerpisztolyod, vagy ilyesmi, mert a botok szétszednek, ha a közelükbe mész."
 
 #: Kevin.dialog:79
-msgid ""
-"Best make it quick. I'm already sick of stabilizing the stupid power "
-"grid."
-msgstr ""
+msgid "Best make it quick. I'm already sick of stabilizing the stupid power grid."
+msgstr "Lehetőleg igyekezz. Már beteg vagyok a feszültségszint folyamatos stabilizálásától."
 
 #: Kevin.dialog:85
-msgid ""
-"I'm sorry, but I don't think there's anything I could do about that "
-"energy supply."
-msgstr ""
+msgid "I'm sorry, but I don't think there's anything I could do about that energy supply."
+msgstr "Sajnálom, de nem tudok segíteni az energiaellátással kapcsolatban."
 
 #: Kevin.dialog:87
 msgid "Too bad. Now get out of my sight."
-msgstr ""
+msgstr "Az baj. Akkor tűnj a szemem elől."
 
 #: Kevin.dialog:92
 msgid "About that project you said you have running..."
-msgstr ""
+msgstr "És az a projekt, amit épp futtatsz..."
 
 #: Kevin.dialog:95
-msgid ""
-"I've already received the results from the evaluation of my data in "
-"the cluster. Good work."
-msgstr ""
+msgid "I've already received the results from the evaluation of my data in the cluster. Good work."
+msgstr "Már letöltöttem az adatokat az adathordozóról. Jó munka volt."
 
 #: Kevin.dialog:97
-msgid ""
-"Yes, since the energy supply has been constant, results were much "
-"better. I've achieved my goal."
-msgstr ""
+msgid "Yes, since the energy supply has been constant, results were much better. I've achieved my goal."
+msgstr "Igen, mióta az energiaellátás állandóvá vált, az eredmények is jobbak. Elértem a céljaimat."
 
 #: Kevin.dialog:98
-msgid ""
-"I've obtained secret data on the town surroundings. We'll need a big "
-"computer cluster to evaluate it properly."
-msgstr ""
+msgid "I've obtained secret data on the town surroundings. We'll need a big computer cluster to evaluate it properly."
+msgstr "Titkos adatokhoz jutottam hozzá a várost körbevevő dolgokról. Szükségem lenne egy nagy számítógépre, hogy pontosan elemezhessem őket."
 
 #: Kevin.dialog:99
-msgid ""
-"Once we've evaluated the data, we might find a way to secure the town "
-"and ensure our survival. But it's too early to tell yet."
-msgstr ""
+msgid "Once we've evaluated the data, we might find a way to secure the town and ensure our survival. But it's too early to tell yet."
+msgstr "Miután elemeztük az adatokat, megtalálhatjuk a bódját a város biztonságossá tételének, és biztosíthatjuk a túlélést. Bár még elég korai ezt kijelenteni."
 
 #: Kevin.dialog:100
-msgid ""
-"If I only had a suitable cluster. Then we could start data evaluation "
-"right away."
-msgstr ""
+msgid "If I only had a suitable cluster. Then we could start data evaluation right away."
+msgstr "Bárcsak lenne egy megfelelő számítógépem. Azonnal elkezdhetném az adatelemzést."
 
 #: Kevin.dialog:107
 msgid "Maybe I can help somehow to find a suitable cluster."
-msgstr ""
+msgstr "Talán tudok segíteni, keresni egy nagyobb számítógépet."
 
 #: Kevin.dialog:110
-msgid ""
-"You've already agreed to take my data cube to the cluster. I have no "
-"influence on this matter anymore."
-msgstr ""
+msgid "You've already agreed to take my data cube to the cluster. I have no influence on this matter anymore."
+msgstr "Már adaadtam az adatkockát a nagy számítógéphez. Már nem érdekel, hogyan oldod meg."
 
 #: Kevin.dialog:111
-msgid ""
-"The fate of the town now rests in your hands. Take the data cube I "
-"gave you to the cluster. Only there can the data be evaluated "
-"properly."
-msgstr ""
+msgid "The fate of the town now rests in your hands. Take the data cube I gave you to the cluster. Only there can the data be evaluated properly."
+msgstr "A város jövője a te kezedben van. Fogd ezt az adatkockát, és csatold egy nagyteljesítményű számítógéphez. A rajta levő adatokat csak így lehet feldogozni."
 
 #: Kevin.dialog:113
-msgid ""
-"That would be great of course. I know that the old town is "
-"maintaining a suitable information infrastructure and has had a "
-"proper cluster running for some time now."
-msgstr ""
+msgid "That would be great of course. I know that the old town is maintaining a suitable information infrastructure and has had a proper cluster running for some time now."
+msgstr "Az nagyszerű lenne. A városnak elég jó infrasrtuktúrája van, és akad ott egy megfelelő teljesítményű számítógép is."
 
 #: Kevin.dialog:114
-msgid ""
-"The only problem is, I can't go back to town. They would probably "
-"kill me because of... a misunderstanding."
-msgstr ""
+msgid "The only problem is, I can't go back to town. They would probably kill me because of... a misunderstanding."
+msgstr "A legnagyobb probléma, hogy nem mehetek vissza a városba. Megölnének bizonyos... félreértések miatt."
 
 #: Kevin.dialog:115
-msgid ""
-"Also, the cluster is inside of the guard citadel. I hear that only "
-"members of the Red Guard are allowed to enter the complex."
-msgstr ""
+msgid "Also, the cluster is inside of the guard citadel. I hear that only members of the Red Guard are allowed to enter the complex."
+msgstr "Továbbá a nagy számítógép az őrség fellegvárának belsejében van. Azt hallottam, hogy csak a Vörös Őrség tagjai léphetnek be a komplexumba."
 
 #: Kevin.dialog:116
-msgid ""
-"But maybe you can arrange that somehow. For me it would be "
-"impossible, because of my reputation."
-msgstr ""
+msgid "But maybe you can arrange that somehow. For me it would be impossible, because of my reputation."
+msgstr "De talán te bejutsz valahogy. Ez nekem lehetetlen lenne a megítélésem miatt."
 
 #: Kevin.dialog:117
-msgid ""
-"I'll give you the data cube. Take it to the computer cluster "
-"administration people. They will know what to do. And don't mention "
-"me there."
-msgstr ""
+msgid "I'll give you the data cube. Take it to the computer cluster administration people. They will know what to do. And don't mention me there."
+msgstr "Odaadom az adatkockát. Vidd a nagy számítógép adminisztrátoraihoz. Ők már tudják, mit kezdjenek vele. Én engem ne említs."
 
 #: Kevin.dialog:125
 msgid "How about some reward for securing your energy supply area?"
-msgstr ""
+msgstr "Nem adnál valami jutalmat az energiaellátás biztosításáért?"
 
 #: Kevin.dialog:128
-msgid ""
-"I've already rewarded you for that. Don't steal my time. I'm busy."
-msgstr ""
+msgid "I've already rewarded you for that. Don't steal my time. I'm busy."
+msgstr "Már megjutalmaztalak. Ne rabold az időmet. Nem érek rá."
 
 #: Kevin.dialog:130
 msgid "What do you want?"
-msgstr ""
+msgstr "Mit szeretnél?"
 
 #: Kevin.dialog:137
 msgid "I want to become a hacker."
-msgstr ""
+msgstr "Hacker szeretnék lenni."
 
 #: Kevin.dialog:139
-msgid ""
-"Your desire for information amuses me. Your wish will be granted. I "
-"will teach you how to improve your skill in designing hacking "
-"programs."
-msgstr ""
+msgid "Your desire for information amuses me. Your wish will be granted. I will teach you how to improve your skill in designing hacking programs."
+msgstr "Nagyra becsülöm az információéhséged. Teljesítem a kívánságod. Megtanítalak, hogyan fejleszd a hacker képességeidet."
 
 #: Kevin.dialog:140
-msgid ""
-"You must know that hacking is an art. It is easy to chop your enemy "
-"to bits with an axe or shred it to atoms with a grenade... But "
-"hacking requires skill."
-msgstr ""
+msgid "You must know that hacking is an art. It is easy to chop your enemy to bits with an axe or shred it to atoms with a grenade... But hacking requires skill."
+msgstr "Tudnod kell, hogy a hackelés művészet. Könnyű egy baltával szétgyakni az ellenséget, vagy cafatokra robbantani gránáttal... Ám a hackelés hozzáértést igényel."
 
 #: Kevin.dialog:141
-msgid ""
-"Look at this terminal... I am connected to a remote system. A fool "
-"would just launch a thousand attacks, but a skilled intruder stops "
-"and thinks."
-msgstr ""
+msgid "Look at this terminal... I am connected to a remote system. A fool would just launch a thousand attacks, but a skilled intruder stops and thinks."
+msgstr "Nézd ezt a terminált... Kapcsolatban van egy távoli rendszerrel. Egy láma ezer támadást indítana, de egy hozzáértő behatoló megáll és gondolkozik."
 
 #: Kevin.dialog:142
-msgid ""
-"You must know when to hack and when not to hack. You must attack when "
-"the enemy is unprepared for you."
-msgstr ""
+msgid "You must know when to hack and when not to hack. You must attack when the enemy is unprepared for you."
+msgstr "Tudnod kell, mikor hackelj és mikor ne. Akkor kell támadnod, mikor az ellenség nem számít rá."
 
 #: Kevin.dialog:143
-msgid ""
-"Now watch. Observe carefully. See how I enter the system... Yes. "
-"Watch the connection glowing, burning like a bright star..."
-msgstr ""
+msgid "Now watch. Observe carefully. See how I enter the system... Yes. Watch the connection glowing, burning like a bright star..."
+msgstr "Most figyelj. Óvatosan keztd neki. Nézd csak, hogy lépek be a rendszerbe... Igen. Nézd, hogy villan fel a kapcsolatjelző, épp, mint egy fényes csillag..."
 
 #: Kevin.dialog:144
-msgid ""
-"...only to die seconds after, as the system far away collapses under "
-"it's own weight... It's done."
-msgstr ""
+msgid "...only to die seconds after, as the system far away collapses under it's own weight... It's done."
+msgstr "... pár másodperccel később a távoli rendszer önmagába roskad... Bevégeztetett."
 
 #: Kevin.dialog:145
-msgid ""
-"That is all I want to show you for now. Maybe later I will teach you "
-"something else."
-msgstr ""
+msgid "That is all I want to show you for now. Maybe later I will teach you something else."
+msgstr "Most ennyit akartam mutatni. Talán később másra is megtanítalak."
 
 #: Kevin.dialog:153
 msgid "I don't want any reward. Just gratitude."
-msgstr ""
+msgstr "Nem várok semmi különöset. Csak egy köszönömöt."
 
 #: Kevin.dialog:155
-msgid ""
-"Of course you can have that. There, I'm most grateful to you. That "
-"should do."
-msgstr ""
+msgid "Of course you can have that. There, I'm most grateful to you. That should do."
+msgstr "Ez természetesen kijár neked. Nagyon köszönöm, amit értem tettél."
 
 #: Kevin.dialog:163
 msgid "I want money."
-msgstr ""
+msgstr "Pénzt akarok."
 
 #: Kevin.dialog:165
 msgid "Eh... Here, take these 900 circuits. That should be enough."
-msgstr ""
+msgstr "Izé... Nesze 900 rugó. Ennyi csak elég."
 
 #: Kevin.dialog:173
 msgid "Jasmine just blew up."
-msgstr ""
+msgstr "Jasmine kidőlt kissé."
 
 #: Kevin.dialog:175
 msgid "Oh. Right."
-msgstr ""
+msgstr "Ja, igen."
 
 #: Kevin.dialog:176
 msgid "Well, thanks for telling me."
-msgstr ""
+msgstr "Kösz, hogy szóltál."
 
 #: Kevin.dialog:177
 msgid "Back to the drawing board, I guess..."
-msgstr ""
+msgstr "Vissza a tervezőasztalhoz, azt hiszem..."
 
 #: Kevin.dialog:183
 msgid "I thought you would be more worried about her death."
-msgstr ""
+msgstr "Azt hittem, jobban összetör a halálhíre."
 
 #: Kevin.dialog:185
 msgid "Why? I have backups from last Friday. No reason to worry at all."
-msgstr ""
+msgstr "Miért is? Van múlt péntekről egy teljes mentésem. Nincs okom aggódni."
 
 #: Kevin.dialog:186
-msgid ""
-"It will be a while till I get her together again, but she will be "
-"fine."
-msgstr ""
+msgid "It will be a while till I get her together again, but she will be fine."
+msgstr "Egy ki időbe tellik, míg újból összerakom, de utána jól fogja érezni magát."
 
 #: Kevin.dialog:190
 msgid "What can you teach me about hacking?"
-msgstr ""
+msgstr "Mit tudsz a hackelésről tanítani?"
 
 #: Kevin.dialog:194
 msgid "Not now, I'm busy."
-msgstr ""
+msgstr "Most semmit, nem érek rá."
 
 #: Kevin.dialog:195
-msgid ""
-"I've got an important research project going on. In fact this project "
-"might be crucial to the survival of the whole town."
-msgstr ""
+msgid "I've got an important research project going on. In fact this project might be crucial to the survival of the whole town."
+msgstr "Van egy fontos kutatási projektem. Az egész város túlélése szempontjából fontos lehet."
 
 #: Kevin.dialog:196
-msgid ""
-"There is tremendous importance in it. But the project is in danger. "
-"There are some maintenance bots down at the energy source."
-msgstr ""
+msgid "There is tremendous importance in it. But the project is in danger. There are some maintenance bots down at the energy source."
+msgstr "Elképesztő fontossággal bír. De ez a projekt veszélybe került. Van néhány karbantartó bot odalent az energiaforrásoknál."
 
 #: Kevin.dialog:197
-msgid ""
-"They are trying to 'maintain' machines by rebooting them all the "
-"time. This must stop, but I can't leave this place."
-msgstr ""
+msgid "They are trying to 'maintain' machines by rebooting them all the time. This must stop, but I can't leave this place."
+msgstr "Megpróbálják 'megjavítani' az áramforrásokat úgy, hogy folyamatosan újraindítják őket. Ezt meg kell állítani, de én nem hagyhatom el ezt a helyet."
 
 #: Kevin.dialog:198
-msgid ""
-"I must balance the remaining power in such a way that my project can "
-"continue uninterrupted."
-msgstr ""
+msgid "I must balance the remaining power in such a way that my project can continue uninterrupted."
+msgstr "Ki kell egyensúlyoznom a maradék energiát, hogy a futó számításokba ne csúszhasson hiba."
 
 #: Kevin.dialog:199
-msgid ""
-"Now, if you go down there and make the power flow stable, then I'll "
-"find the time to teach you something."
-msgstr ""
+msgid "Now, if you go down there and make the power flow stable, then I'll find the time to teach you something."
+msgstr "Ha lemész oda, és elintézed, hogy az energiaellátás stabil legyen, akkor megtanítok neked pár újdonságot."
 
 #: Kevin.dialog:203
-msgid ""
-"As I've told you, I cannot teach you anything right now. I don't have "
-"the time."
-msgstr ""
+msgid "As I've told you, I cannot teach you anything right now. I don't have the time."
+msgstr "Ahogy már mondtam, most nem tudlak tanítani. Nincs rá elég időm."
 
 #: Kevin.dialog:204
-msgid ""
-"I must see that the flaky energy stream is distributed in such a way "
-"that my research project can continue."
-msgstr ""
+msgid "I must see that the flaky energy stream is distributed in such a way that my research project can continue."
+msgstr "Látni akarom végre, hogy stabilizálódik az energiarendszer, hogy biztonságosan folytatóthasson a kutatási projektem."
 
 #: Kevin.dialog:205
-msgid ""
-"If you get rid of the maintenance bots on the second underground "
-"level of this station, I will find the time to teach you something."
-msgstr ""
+msgid "If you get rid of the maintenance bots on the second underground level of this station, I will find the time to teach you something."
+msgstr "Ha megszabadulsz a második szinten garázdálkodó szevízbotoktól, találni fogok valami hasznos tanulnivalót a számodra."
 
 #: Kevin.dialog:208
 msgid "I can teach you everything. For a price of course."
-msgstr ""
+msgstr "Mindenre meg tudlak tanítani. Egy adott áron természetesen."
 
 #: Kevin.dialog:209
 msgid "Three hundred per lesson, up front."
-msgstr ""
+msgstr "Háromszáz per lecke."
 
 #: Kevin.dialog:210
 msgid "Still interested?"
-msgstr ""
+msgstr "Érdekel?"
 
 #: Kevin.dialog:220
-msgid ""
-"Sorry, there is no human alive that could give you further training."
-msgstr ""
+msgid "Sorry, there is no human alive that could give you further training."
+msgstr "Sajnálom, de nincs élő ember, aki ennél többre tudna tanítani téged."
 
-#: Kevin.dialog:230 Kevin.dialog:244 Kevin.dialog:257 Kevin.dialog:270
-#: Kevin.dialog:283 Kevin.dialog:296 Kevin.dialog:309 Kevin.dialog:322
+#: Kevin.dialog:230
+#: Kevin.dialog:244
+#: Kevin.dialog:257
+#: Kevin.dialog:270
+#: Kevin.dialog:283
+#: Kevin.dialog:296
+#: Kevin.dialog:309
+#: Kevin.dialog:322
 msgid "Yes, please teach me."
-msgstr ""
+msgstr "Igen, kérlek taníts."
 
 #: Kevin.dialog:232
-msgid ""
-"Good. The most important thing about hacking is to understand the "
-"nature of the machine you want to hack."
-msgstr ""
+msgid "Good. The most important thing about hacking is to understand the nature of the machine you want to hack."
+msgstr "Rendben. A legfontosabb, hogy megértsd a hackelni szándékozott gép lelkivilágát."
 
 #: Kevin.dialog:233
-msgid ""
-"Once you have figured out what the creators of the system were "
-"thinking when setting it up, you'll also know how to best hack it."
-msgstr ""
+msgid "Once you have figured out what the creators of the system were thinking when setting it up, you'll also know how to best hack it."
+msgstr "Ha kitaláltad, hogy a rendszer tervezői hogyan gondolkodtak a beállítás során, tudni fogod a feltörés legjobb módszerét is."
 
 #: Kevin.dialog:234
-msgid ""
-"Now I see the feature set of your hacking program has already "
-"improved a lot."
-msgstr ""
+msgid "Now I see the feature set of your hacking program has already improved a lot."
+msgstr "Látom, a hacker képességed már sokat fejlődött."
 
-#: Kevin.dialog:246 Kevin.dialog:259 Kevin.dialog:272 Kevin.dialog:285
-#: Kevin.dialog:298 Kevin.dialog:311 Kevin.dialog:324
+#: Kevin.dialog:246
+#: Kevin.dialog:259
+#: Kevin.dialog:272
+#: Kevin.dialog:285
+#: Kevin.dialog:298
+#: Kevin.dialog:311
+#: Kevin.dialog:324
 msgid "blabla"
-msgstr ""
+msgstr "blabla"
 
 #: Kevin.dialog:350
-msgid ""
-"Sorry, my memory databank is filled to the brim right now. Can't "
-"learn more until I get some more experience."
-msgstr ""
+msgid "Sorry, my memory databank is filled to the brim right now. Can't learn more until I get some more experience."
+msgstr "Sajnálom, a memória adatbankom csordultig telt. Nem tudok többet tanulni, amíg nem szerzek több tapasztalatot."
 
 #: Kevin.dialog:364
 msgid "I'll be off then."
-msgstr ""
+msgstr "Akkor most megyek."
 
 #: Kevin.dialog:366
-msgid ""
-"Be careful. The bots are in a foul mood today. Very easy to get "
-"killed. Very easy."
-msgstr ""
+msgid "Be careful. The bots are in a foul mood today. Very easy to get killed. Very easy."
+msgstr "Légy elővigyázatos. A botok ma roszz kedvükben vannak. Könnyen meghalhatsz. Nagyon könnyen."
+
