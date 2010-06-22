@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-06-22 15:52+0100\n"
+"Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,255 +13,230 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: SADD.dialog:38
-msgid ""
-"Your bio checksum does not trigger a match in staff database. Please "
-"show proper credentials or leave the premises at once."
-msgstr ""
+msgid "Your bio checksum does not trigger a match in staff database. Please show proper credentials or leave the premises at once."
+msgstr "A bioszekvenciád nem feleltethető meg az adatbázisban tároltakkal. Kérlek mutasd fel a személyi igazolványodat, vagy hagyd el a helyet."
 
 #: SADD.dialog:55
 msgid "Who are you and what are you doing?"
-msgstr ""
+msgstr "Ki vagy te, és mit csinálsz itt?"
 
 #: SADD.dialog:57
 msgid "I am a SADD - Secret Area Defence Droid"
-msgstr ""
+msgstr "Én egy TTŐD vagyok - Titkos Terület Őr Droid"
 
-#: SADD.dialog:58 SADD.dialog:126
+#: SADD.dialog:58
+#: SADD.dialog:126
 msgid "PRIMARY TARGET 1: do not let unauthorized people in."
-msgstr ""
+msgstr "ELSŐDLEGES FELADAT: nem beengedni jogosulatlan személyeket"
 
-#: SADD.dialog:59 SADD.dialog:127 SADD.dialog:131
-msgid ""
-"PRIMARY TARGET 2: authorized personnel must have access to the zone."
-msgstr ""
+#: SADD.dialog:59
+#: SADD.dialog:127
+#: SADD.dialog:131
+msgid "PRIMARY TARGET 2: authorized personnel must have access to the zone."
+msgstr "MÁSODLAGOS FELADAT: a jogosult személyeknek belépést kell biztosítani a zónába."
 
-#: SADD.dialog:60 SADD.dialog:68 SADD.dialog:128
+#: SADD.dialog:60
+#: SADD.dialog:68
+#: SADD.dialog:128
 msgid "SECONDARY TARGET: prevent secret information leakage"
-msgstr ""
+msgstr "MÁSODLAGOS CÉL: megakadályozni a titkos információk kiszivárgását"
 
 #: SADD.dialog:66
 msgid "What is this place?"
-msgstr ""
+msgstr "Mi ez a hely?"
 
 #: SADD.dialog:69
 msgid "*INFO* secret information theft attempt detected"
-msgstr ""
+msgstr "*INFO* titkos információszerzési szándék detektálva"
 
 #: SADD.dialog:70
 msgid "Go away. You are not allowed to be here!"
-msgstr ""
+msgstr "Menj innen. Nincs jogosultságod itt tartózkodni!"
 
 #: SADD.dialog:76
 msgid "Why are you not hostile?"
-msgstr ""
+msgstr "Miért nem vagy erőszakos?"
 
 #: SADD.dialog:78
 msgid "Hostile? What do you mean?"
-msgstr ""
+msgstr "Erőszakos? Hogy érted?"
 
 #: SADD.dialog:79
-msgid ""
-"I mean, you are not attacking me... Don't you kill like other bots?"
-msgstr ""
+msgid "I mean, you are not attacking me... Don't you kill like other bots?"
+msgstr "Úgy értem, hogy nem támadsz meg... Te nem gyilkolászol, mint a többi bot?"
 
 #: SADD.dialog:80
-msgid ""
-"I do! I do! I kill humans, bots, linarians and even dogs, cats and "
-"other animals! I would kill anybody!"
-msgstr ""
+msgid "I do! I do! I kill humans, bots, linarians and even dogs, cats and other animals! I would kill anybody!"
+msgstr "Dehogynem! Dehogynem! Ölök embert, botot, lináriait, és még kutyát, macskát és egyéb kis szőrös állatkákat. Megölök mindenkit!"
 
 #: SADD.dialog:81
 msgid "Em.. Anybody who would try to get in, of course."
-msgstr ""
+msgstr "Izé... Mindenkit, aki megpróbál bejutni, úgy értem."
 
 #: SADD.dialog:87
 msgid "What about the Great Assault?"
-msgstr ""
+msgstr "És mi van a Nagy Ostrommal?"
 
 #: SADD.dialog:89
-msgid ""
-"For security reasons, SADDs are not equipped with wireless modules."
-msgstr ""
+msgid "For security reasons, SADDs are not equipped with wireless modules."
+msgstr "Biztonsági okokból a TTŐD-ok nincsenek wlan modullal felszerelve."
 
 #: SADD.dialog:90
-msgid ""
-"I know only that I have to be recharged, checked and have my firmware "
-"updated every 3 months."
-msgstr ""
+msgid "I know only that I have to be recharged, checked and have my firmware updated every 3 months."
+msgstr "Csak annyit tudok, hogy fel kell tölteni, ellenőrizni és a firmware verziómat frissíteni három havonta."
 
 #: SADD.dialog:91
 msgid "When does your last maintenance date back to?"
-msgstr ""
+msgstr "Mikor volt az utolsó karbantartásod?"
 
 #: SADD.dialog:92
-msgid ""
-"One year and a half ago. My accumulator is nearly empty, so I'm going "
-"to halt soon. Gates will become unguarded..."
-msgstr ""
+msgid "One year and a half ago. My accumulator is nearly empty, so I'm going to halt soon. Gates will become unguarded..."
+msgstr "Másfél éve. Az akkumulátorom majdnem lemerült, szóval lassacskán leállok. A kapuk őrizetlenné válnak..."
 
 #: SADD.dialog:93
 msgid "*INFO* secret information theft detected!"
-msgstr ""
+msgstr "*INFO* titkos információszerzés detektálva!"
 
 #: SADD.dialog:94
 msgid "*INFO* information classified as critical!"
-msgstr ""
+msgstr "*INFO* információ kritikus besorolású!"
 
 #: SADD.dialog:95
 msgid "*INFO* locking zone!"
-msgstr ""
+msgstr "*INFO* zóna zárása!"
 
 #: SADD.dialog:104
 msgid "What have you done?! How am I supposed to get out of here?"
-msgstr ""
+msgstr "Mit tettél?! Most hogyan jutok ki?"
 
 #: SADD.dialog:106
-msgid ""
-"You are not. You have secret information, so I won't let you out."
-msgstr ""
+msgid "You are not. You have secret information, so I won't let you out."
+msgstr "Sehogy. Titkos információt tudtál meg, nem engedlek ki."
 
 #: SADD.dialog:107
 msgid "Why not kill me immediately?"
-msgstr ""
+msgstr "Miért nem ölsz meg azonnal?"
 
 #: SADD.dialog:108
-msgid ""
-"And stand here alone until I die? While you are here I can speak with "
-"you. Oh, I haven't spoken to anybody for a looong time!"
-msgstr ""
+msgid "And stand here alone until I die? While you are here I can speak with you. Oh, I haven't spoken to anybody for a looong time!"
+msgstr "Aztán meg maradjak egyedül? Mióta itt vagy, tudunk beszélgetni. Nagyon régen nem beszéltem senkivel!"
 
 #: SADD.dialog:114
-msgid ""
-"I'm thirsty and hungry. I will die within days, and you will not have "
-"an interlocutor any more!"
-msgstr ""
+msgid "I'm thirsty and hungry. I will die within days, and you will not have an interlocutor any more!"
+msgstr "Éhes és szomja vagyok. Napokon belül meghalok, és akkor nem lesz beszélgetőtársad!"
 
 #: SADD.dialog:116
 msgid "My power supply will deplete earlier."
-msgstr ""
+msgstr "Az energiaforrásom annál hamarabb lemerül."
 
 #: SADD.dialog:121
 msgid "You speak almost like a human..."
-msgstr ""
+msgstr "Majdnem úgy beszélsz, mint egy ember..."
 
 #: SADD.dialog:123
 msgid "Maybe I'm almost like a human?"
-msgstr ""
+msgstr "Talán mert majdnem olyan vagyok, mint egy ember?"
 
 #: SADD.dialog:124
-msgid ""
-"Anyway, that's none of your business. Soon I'll be dead. You will be "
-"too, and nobody will enter this place ever again!"
-msgstr ""
+msgid "Anyway, that's none of your business. Soon I'll be dead. You will be too, and nobody will enter this place ever again!"
+msgstr "Mindazonáltal nem a te dolgod. Hamarosan halott leszek. Te is az leszel, és senki sem lép be ide többé!"
 
 #: SADD.dialog:125
 msgid "What are your orders again?"
-msgstr ""
+msgstr "Még egyszer, mik is a parancsaid?"
 
 #: SADD.dialog:129
 msgid "Why do you ask?"
-msgstr ""
+msgstr "Miért kérdezed?"
 
 #: SADD.dialog:130
 msgid "Tell me your second order once more..."
-msgstr ""
+msgstr "Mondd még egyszer a második parancsodat..."
 
 #: SADD.dialog:132
 msgid "Yes, it will be violated. But first order has higher priority."
-msgstr ""
+msgstr "Igen, azt megsértettem. De az első utasítás magasabb rendű."
 
 #: SADD.dialog:133
 msgid "So you can disobey your orders?"
-msgstr ""
+msgstr "Felülbírálhatod a parancsaidat?"
 
 #: SADD.dialog:134
-msgid ""
-"I've already disobeyed them, when I told you what I shouldn't have. "
-"That's because of my human nature."
-msgstr ""
+msgid "I've already disobeyed them, when I told you what I shouldn't have. That's because of my human nature."
+msgstr "Már felül is bíráltam, amikor olyanokat mondtam el neked, amit nem lett volna szabad. Ez az emberi természetem miatt van."
 
 #: SADD.dialog:140
 msgid "Then please, break the rules, disable the guns and let me go."
-msgstr ""
+msgstr "Akkor légyszíves szegd meg a szabályokat, kapcsold ki a fegyvereket, és engedj el."
 
 #: SADD.dialog:142
 msgid "No way. I'm a computer, I can't break rules."
-msgstr ""
+msgstr "Lehetetlen. Számítógép vagyok, nem szeghetem meg a szabályokat."
 
 #: SADD.dialog:143
 msgid "And what about your human nature?"
-msgstr ""
+msgstr "És mi van az emberi természeteddel?"
 
 #: SADD.dialog:144
 msgid "Human? I said human? I'm a computer!"
-msgstr ""
+msgstr "Emberi? Emberit mondtam volna? Számítógép vagyok!"
 
 #: SADD.dialog:145
 msgid "OK, I'm almost a computer."
-msgstr ""
+msgstr "Oké, majdnem számítógép vagyok."
 
-#: SADD.dialog:146 SADD.dialog:162
+#: SADD.dialog:146
+#: SADD.dialog:162
 msgid "Almost a computer? What does that mean?"
-msgstr ""
+msgstr "Majdnem számítógép? Ez meg mit jelent?"
 
 #: SADD.dialog:147
-msgid ""
-"It means what it means! Nothing more, nothing less! Shut up, little "
-"piece of biomass!"
-msgstr ""
+msgid "It means what it means! Nothing more, nothing less! Shut up, little piece of biomass!"
+msgstr "Jelent amit jelent! Se többet, se kevesebbet! Pofa be, kis biomassza!"
 
 #: SADD.dialog:154
-msgid ""
-"I suggest a deal. You let me out, I bring you dilithium crystals. It "
-"will save both of us."
-msgstr ""
+msgid "I suggest a deal. You let me out, I bring you dilithium crystals. It will save both of us."
+msgstr "Üzletet ajánlok. Ha kiengedsz, hozok neked dilítium kristályt. Így mindketten jól járunk."
 
 #: SADD.dialog:156
 msgid "Why would I trust you?"
-msgstr ""
+msgstr "Miért bíznék benned?"
 
 #: SADD.dialog:164
-msgid ""
-"When I say SHUT UP, you MUST shut up! Try this, worthless grain of "
-"the universe!"
-msgstr ""
+msgid "When I say SHUT UP, you MUST shut up! Try this, worthless grain of the universe!"
+msgstr "Mikor azt mondtam, POFA BE, akkor tényleg POFA BE! Próbáld azt csinálni amit mondok!"
 
 #: SADD.dialog:170
 msgid "You must promise me a significant reward."
-msgstr ""
+msgstr "Ajánlj fel valami értékes jutalmat."
 
 #: SADD.dialog:172
-msgid ""
-"Damn. Ok, I'll give you a super exterminator if you give me dilithium "
-"cristals."
-msgstr ""
+msgid "Damn. Ok, I'll give you a super exterminator if you give me dilithium cristals."
+msgstr "Francba. Oké, adok egy szuper exterminátort, ha hozol dilítium kristályt."
 
 #: SADD.dialog:179
-msgid ""
-"It seems that you are sentinent, that you are a form of life. I must "
-"help any form of life."
-msgstr ""
+msgid "It seems that you are sentinent, that you are a form of life. I must help any form of life."
+msgstr "Úgy tűnik, te valamilyen életforma vagy. Egy élőlény. Segítenem kell minden élőlényen."
 
 #: SADD.dialog:181
 msgid "Thanks a lot for your warm words. I think I can trust you."
-msgstr ""
+msgstr "Köszönom a kedves szavakat. Azt hiszem, bízhatok benned."
 
 #: SADD.dialog:187
 msgid "So disable the guns, please."
-msgstr ""
+msgstr "Akkor kapcsold ki a fegyvereket, légy szíves."
 
 #: SADD.dialog:189
 msgid "Go, and bring dilithium. I badly need it."
-msgstr ""
+msgstr "Menj, és hozz dilítiumot. Nagy szükségem van rá."
 
-#: SADD.dialog:198 SADD.dialog:220
+#: SADD.dialog:198
+#: SADD.dialog:220
 msgid "I have the crystals! They were difficult to find."
-msgstr ""
+msgstr "Megvan a kristály. Elég nehéz volt hozzájutni."
 
 #: SADD.dialog:200
-msgid ""
-"Good. I've opened the depot door for you. Take your super "
-"exterminator and GET OUT of here!"
+msgid "Good. I've opened the depot door for you. Take your super exterminator and GET OUT of here!"
 msgstr ""
 
 #: SADD.dialog:212
@@ -273,9 +248,7 @@ msgid "Bad. Get the crystals. Remember, you promised!"
 msgstr ""
 
 #: SADD.dialog:222
-msgid ""
-"Great! Thanks. I've opened some doors for you. I hope you will find "
-"something interesting there. That's all I can do for you."
+msgid "Great! Thanks. I've opened some doors for you. I hope you will find something interesting there. That's all I can do for you."
 msgstr ""
 
 #: SADD.dialog:235
@@ -295,15 +268,11 @@ msgid "The door is still open. You can put it back and go. Quick."
 msgstr ""
 
 #: SADD.dialog:240
-msgid ""
-"Give me a real gun, dude! Immediately! I have brought you what you "
-"wanted, now give me my reward!"
+msgid "Give me a real gun, dude! Immediately! I have brought you what you wanted, now give me my reward!"
 msgstr ""
 
 #: SADD.dialog:241
-msgid ""
-"You can go standing on your feet, that's your reward. And DON'T TRY "
-"MY PATIENCE!"
+msgid "You can go standing on your feet, that's your reward. And DON'T TRY MY PATIENCE!"
 msgstr ""
 
 #: SADD.dialog:242
@@ -311,9 +280,7 @@ msgid "I'll kill you if you don't give me my gun!"
 msgstr ""
 
 #: SADD.dialog:243
-msgid ""
-"You are welcome. But you would never get out of here, my death won't "
-"help you."
+msgid "You are welcome. But you would never get out of here, my death won't help you."
 msgstr ""
 
 #: SADD.dialog:253
@@ -332,7 +299,8 @@ msgstr ""
 msgid "Too late. I'm watching this great show now."
 msgstr ""
 
-#: SADD.dialog:263 SADD.dialog:264
+#: SADD.dialog:263
+#: SADD.dialog:264
 msgid "It is called..."
 msgstr ""
 
@@ -373,9 +341,7 @@ msgid "I'm sorry"
 msgstr ""
 
 #: SADD.dialog:284
-msgid ""
-"Nice try, though. I may owe you, but I can't let you in. You must "
-"leave."
+msgid "Nice try, though. I may owe you, but I can't let you in. You must leave."
 msgstr ""
 
 #: SADD.dialog:291
@@ -385,3 +351,4 @@ msgstr ""
 #: SADD.dialog:293
 msgid "Exactly."
 msgstr ""
+
