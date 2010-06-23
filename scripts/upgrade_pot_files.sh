@@ -27,7 +27,7 @@ for i in $(grep -l '_"' *) ; do # update the pot files for items and title files
     ../scripts/extract-strings-from-data.py . "${i}" "../po/${i}.pot" ;
     if ! $(msgfmt -c "../po/${i}.pot") ; then
         echo "../po/${i}.pot is broken"
-        mv -v "../po/${i}.pot" "../po/${i}.pot..broken"
+        mv -v "../po/${i}.pot" "../po/${i}.pot.broken"
     fi
 done ;
 
