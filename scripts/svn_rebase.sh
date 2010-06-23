@@ -9,6 +9,7 @@ git svn rebase
 cd ${HOME}/src/freedroid-translation/po
 
 cd ${HOME}/src/freedroid-translation
-git svn commit src map dialogs -m "synchronization with the main repository"
+git commit src map dialogs -m "synchronization with the main repository"
 
 git pull
+git push
