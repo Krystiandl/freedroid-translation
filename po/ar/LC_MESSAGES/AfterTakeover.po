@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CHANGE THIS\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-06-02 07:42+0000\n"
+"PO-Revision-Date: 2010-04-24 11:46+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: AfterTakeover.dialog:33
+msgid ".. bot_type().."
+msgstr ""
+
+#: AfterTakeover.dialog:34
+msgid "Login : "
+msgstr ""
+
+#: AfterTakeover.dialog:35
+msgid "tux"
+msgstr ""
+
+#: AfterTakeover.dialog:36
+msgid "Password : "
+msgstr ""
+
+#: AfterTakeover.dialog:38
+msgid "Last login from dev/ttyS0 on Sun, 23 mar 2057."
+msgstr ""
+
+#: AfterTakeover.dialog:39
+msgid "Welcome to [b]"
+msgstr ""
+
+#: AfterTakeover.dialog:41
+msgid "Hardware Check : BOT DAMAGED"
+msgstr ""
+
+#: AfterTakeover.dialog:42
+msgid "This "
+msgstr ""
+
+#: AfterTakeover.dialog:42
+msgid " unit could need some repair."
+msgstr ""
+
+#: AfterTakeover.dialog:49 AfterTakeover.dialog:52
+msgid "cd repair&settings/"
+msgstr ""
+
+#: AfterTakeover.dialog:58 AfterTakeover.dialog:61
+msgid "./hold_position.sh"
+msgstr ""
+
+#: AfterTakeover.dialog:62
+msgid "Holding position."
+msgstr ""
+
+#: AfterTakeover.dialog:63
+msgid "script V 1.0.2 (c) gnu.org, 2054"
+msgstr ""
+
+#: AfterTakeover.dialog:64 AfterTakeover.dialog:93
+msgid "Checking requirements..."
+msgstr ""
+
+#: AfterTakeover.dialog:65
+msgid "Movement unit: Power-down... [Done]."
+msgstr ""
+
+#: AfterTakeover.dialog:66
+msgid "Status: All movement suppressed."
+msgstr ""
+
+#: AfterTakeover.dialog:73 AfterTakeover.dialog:76
+msgid "./follow_me.sh"
+msgstr ""
+
+#: AfterTakeover.dialog:77
+msgid "Initiating tracking sequence."
+msgstr ""
+
+#: AfterTakeover.dialog:78
+msgid "Movement unit: Enabled."
+msgstr ""
+
+#: AfterTakeover.dialog:79
+msgid "Trying to keep up with "
+msgstr ""
+
+#: AfterTakeover.dialog:79
+msgid " position."
+msgstr ""
+
+#: AfterTakeover.dialog:80
+msgid "Status: Following "
+msgstr ""
+
+#: AfterTakeover.dialog:87 AfterTakeover.dialog:90 AfterTakeover.dialog:106
+msgid "./move_freely.sh"
+msgstr ""
+
+#: AfterTakeover.dialog:91
+msgid "Enable movement."
+msgstr ""
+
+#: AfterTakeover.dialog:92
+msgid "script V 1.0.5 (c) gnu.org, 2054"
+msgstr ""
+
+#: AfterTakeover.dialog:94
+msgid "Movement unit: Power-up... [Done]."
+msgstr ""
+
+#: AfterTakeover.dialog:95
+msgid "Resuming normal patrol operations... [Done]"
+msgstr ""
+
+#: AfterTakeover.dialog:96
+msgid "Status: Patrolling."
+msgstr ""
+
+#: AfterTakeover.dialog:103
+msgid "./hcf.py"
+msgstr ""
+
+#: AfterTakeover.dialog:108
+msgid "Are you really sure you want to destroy "
+msgstr ""
+
+#: AfterTakeover.dialog:108
+msgid "? Y/N"
+msgstr ""
+
+#: AfterTakeover.dialog:114
+msgid "Yes"
+msgstr ""
+
+#: AfterTakeover.dialog:117
+msgid "Destruction confirmed."
+msgstr ""
+
+#: AfterTakeover.dialog:122
+msgid "No"
+msgstr ""
+
+#: AfterTakeover.dialog:125
+msgid "Destrucion averted."
+msgstr ""
+
+#: AfterTakeover.dialog:133
+msgid "Executing: Halt and Catch Fire."
+msgstr ""
+
+#: AfterTakeover.dialog:134
+msgid "Warning! Cooling subsystems disabled."
+msgstr ""
+
+#: AfterTakeover.dialog:135
+msgid ""
+"Warning! Spontaneous oxidization witH emis$ion of light aND heAt detecteddd "
+"in THE#main| procesIng unit."
+msgstr ""
+
+#: AfterTakeover.dialog:136
+msgid "WArn|n*! SsTeM=#faiPure%^#n 3 S 1()$++"
+msgstr ""
+
+#: AfterTakeover.dialog:139
+msgid "Opening access to MS Office"
+msgstr ""
+
+#: AfterTakeover.dialog:141
+msgid "()%#@(% THE BLADE IS YOURS. )##%*&%*!"
+msgstr ""
+
+#: AfterTakeover.dialog:156
+msgid "Closing remote connection..."
+msgstr ""
