@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-02 07:42+0000\n"
-"PO-Revision-Date: 2010-06-02 07:42+0000\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"PO-Revision-Date: 2010-06-23 07:57+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -104,20 +104,20 @@ msgstr ""
 
 #: ./c-net_sub_nethack.dialog:270
 #: ./c-net_sub_nethack.dialog:565
-msgid "good"
+msgid "a good"
 msgstr ""
 
 #: ./c-net_sub_nethack.dialog:271
-msgid "chaotic"
+msgid "a chaotic"
 msgstr ""
 
 #: ./c-net_sub_nethack.dialog:272
 #: ./c-net_sub_nethack.dialog:569
-msgid "evil"
+msgid "an evil"
 msgstr ""
 
 #: ./c-net_sub_nethack.dialog:302
-msgid "Hello, welcome to NetHack! You are a "
+msgid "Hello, welcome to NetHack! You are "
 msgstr ""
 
 #: ./c-net_sub_nethack.dialog:303
@@ -839,7 +839,7 @@ msgstr ""
 
 #: ./c-net_sub_nethack.dialog:466
 #: ./c-net_sub_nethack.dialog:578
-msgid "You are now a "
+msgid "You are now "
 msgstr ""
 
 #: ./c-net_sub_nethack.dialog:470
@@ -1189,7 +1189,7 @@ msgid ""
 msgstr ""
 
 #: ./c-net_sub_nethack.dialog:572
-msgid "neutral"
+msgid "a neutral"
 msgstr ""
 
 #: ./c-net_sub_nethack.dialog:573

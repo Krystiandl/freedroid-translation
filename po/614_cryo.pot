@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-02 07:42+0000\n"
-"PO-Revision-Date: 2010-06-02 07:42+0000\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"PO-Revision-Date: 2010-06-23 07:57+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -73,7 +73,7 @@ msgid "Have you detected any hostile bot activity?"
 msgstr ""
 
 #: ./614_cryo.dialog:58
-msgid "Order Received. Inititiating proximity energy level scan..."
+msgid "Order Received. Initiating proximity energy level scan..."
 msgstr ""
 
 #: ./614_cryo.dialog:59
@@ -92,78 +92,82 @@ msgstr ""
 msgid "Threat Degree Analysis: MODERATE"
 msgstr ""
 
-#: ./614_cryo.dialog:63
-msgid "Complex Gate Status: OPEN"
+#: ./614_cryo.dialog:64
+msgid "Cryo Complex Gates Status: CLOSED"
 msgstr ""
 
-#: ./614_cryo.dialog:68
-msgid "What can you tell me about the 614 type?"
-msgstr ""
-
-#: ./614_cryo.dialog:70
-msgid "The official manual classifies the 614 as a high class security droid."
-msgstr ""
-
-#: ./614_cryo.dialog:71
-msgid "It was mainly used within ships to protect certain areas from intruders."
+#: ./614_cryo.dialog:66
+msgid "Cryo Complex Gates Status: OPEN"
 msgstr ""
 
 #: ./614_cryo.dialog:72
+msgid "What can you tell me about the 614 type?"
+msgstr ""
+
+#: ./614_cryo.dialog:74
+msgid "The official manual classifies the 614 as a high class security droid."
+msgstr ""
+
+#: ./614_cryo.dialog:75
+msgid "It was mainly used within ships to protect certain areas from intruders."
+msgstr ""
+
+#: ./614_cryo.dialog:76
 msgid "It is considered an old but reliable device."
 msgstr ""
 
-#: ./614_cryo.dialog:73
+#: ./614_cryo.dialog:77
 msgid "So don't worry. I'm still in pretty good shape."
 msgstr ""
 
-#: ./614_cryo.dialog:78
+#: ./614_cryo.dialog:82
 msgid "What are your orders?"
 msgstr ""
 
-#: ./614_cryo.dialog:80
+#: ./614_cryo.dialog:84
 msgid ""
 "Primary objective: Protect the living beings inside this complex from attacks "
 "by hostile bots."
 msgstr ""
 
-#: ./614_cryo.dialog:81
+#: ./614_cryo.dialog:85
 msgid ""
 "Secondary objective: Protect facility by locking outer gates if Threat Degree "
 "Analysis: HIGH."
 msgstr ""
 
-#: ./614_cryo.dialog:86
+#: ./614_cryo.dialog:91
 msgid "Why are you not hostile as are all the other bots?"
 msgstr ""
 
-#: ./614_cryo.dialog:88
+#: ./614_cryo.dialog:93
 msgid ""
 "I belong to a an older generation of bots, running a custom-made security guar"
 "d operating system."
 msgstr ""
 
-#: ./614_cryo.dialog:89
+#: ./614_cryo.dialog:94
 msgid ""
 "None of the bots of this generation were affected by the proceedings that led "
 "to bots attacking, generally known as the Great Assault."
 msgstr ""
 
-#: ./614_cryo.dialog:90
+#: ./614_cryo.dialog:95
 msgid ""
 "Even though discontinued from Nicholson, Inc. long ago, today, some people hav"
 "e picked up the work and are even trying to improve the operating system runni"
 "ng on my series."
 msgstr ""
 
-#: ./614_cryo.dialog:91
+#: ./614_cryo.dialog:96
 msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
 msgstr ""
 
-#: ./614_cryo.dialog:96
+#: ./614_cryo.dialog:101
 msgid "See you later."
 msgstr ""
 
-#: ./614_cryo.dialog:98
+#: ./614_cryo.dialog:103
 msgid "Resuming guard program."
 msgstr ""
 

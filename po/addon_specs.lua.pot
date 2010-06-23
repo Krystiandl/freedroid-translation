@@ -10,15 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./script_helpers.lua:132
-msgid "New Quest assigned."
-msgstr ""
-
-#: ./script_helpers.lua:138
-msgid "Quest log updated."
-msgstr ""
-
-#: ./script_helpers.lua:144
-msgid "Quest completed."
+#: ./addon_specs.lua:2
+msgid "Linarian power crank"
 msgstr ""
 

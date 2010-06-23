@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-02 07:42+0000\n"
-"PO-Revision-Date: 2010-06-02 07:42+0000\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"PO-Revision-Date: 2010-06-23 07:57+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -347,31 +347,43 @@ msgstr ""
 msgid "I'm killing time. Guard work is very boring."
 msgstr ""
 
-#: ./Bender.dialog:232
-msgid "Yeah, it was a totally idiotic idea to take those pills."
+#: ./Bender.dialog:231
+msgid "Did you take all the Brain Enlargement Pills?"
+msgstr ""
+
+#: ./Bender.dialog:233
+msgid "No. I have one left."
 msgstr ""
 
 #: ./Bender.dialog:234
+msgid "Here, take it. I don't want it."
+msgstr ""
+
+#: ./Bender.dialog:240
+msgid "Yeah, it was a totally idiotic idea to take those pills."
+msgstr ""
+
+#: ./Bender.dialog:242
 msgid "What? I'm not an idiot! Understood?"
 msgstr ""
 
-#: ./Bender.dialog:235
+#: ./Bender.dialog:243
 msgid "No one says I'm stupid! I'm NOT STUPID!"
 msgstr ""
 
-#: ./Bender.dialog:236
+#: ./Bender.dialog:244
 msgid "I'LL BEAT YOU TO SPLINTERS!"
 msgstr ""
 
-#: ./Bender.dialog:243
+#: ./Bender.dialog:251
 msgid "See you later."
 msgstr ""
 
-#: ./Bender.dialog:245
+#: ./Bender.dialog:253
 msgid "Later, man!"
 msgstr ""
 
-#: ./Bender.dialog:245
+#: ./Bender.dialog:253
 msgid "Stay cool dude."
 msgstr ""
 

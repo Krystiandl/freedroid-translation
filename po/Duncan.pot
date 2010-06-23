@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-02 07:42+0000\n"
-"PO-Revision-Date: 2010-06-02 07:42+0000\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"PO-Revision-Date: 2010-06-23 07:57+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -19,6 +19,7 @@ msgid "Duncan McNamara, The Red Guard's resident bomb maker, at your service."
 msgstr ""
 
 #: ./Duncan.dialog:56
+#: ./Duncan.dialog:261
 msgid "Duncan -- Bombmaker"
 msgstr ""
 
@@ -387,58 +388,58 @@ msgstr ""
 msgid "And I am Duncan McNamara, the maker of grenades and nothing else."
 msgstr ""
 
-#: ./Duncan.dialog:261
+#: ./Duncan.dialog:262
 msgid "I believe the topic is thoroughly exhausted now."
 msgstr ""
 
-#: ./Duncan.dialog:266
+#: ./Duncan.dialog:267
 msgid "Tell me who you are. I need to know."
 msgstr ""
 
-#: ./Duncan.dialog:268
+#: ./Duncan.dialog:269
 msgid "Twenty years ago, the people were kinder to each other."
 msgstr ""
 
-#: ./Duncan.dialog:269
+#: ./Duncan.dialog:270
 msgid "I suggest you be kind to me as well, and I will be kind to you."
 msgstr ""
 
-#: ./Duncan.dialog:270
+#: ./Duncan.dialog:271
 msgid "That way I get to keep my secret, and you get to keep yours."
 msgstr ""
 
-#: ./Duncan.dialog:275
+#: ./Duncan.dialog:276
 msgid "I don't have any secrets."
 msgstr ""
 
-#: ./Duncan.dialog:277
+#: ./Duncan.dialog:278
 msgid "And neither do I."
 msgstr ""
 
-#: ./Duncan.dialog:282
-#: ./Duncan.dialog:300
-#: ./Duncan.dialog:302
+#: ./Duncan.dialog:283
+#: ./Duncan.dialog:301
+#: ./Duncan.dialog:303
 msgid "See you later."
 msgstr ""
 
-#: ./Duncan.dialog:284
-#: ./Duncan.dialog:292
+#: ./Duncan.dialog:285
+#: ./Duncan.dialog:293
 msgid "I wish you cold winds."
 msgstr ""
 
-#: ./Duncan.dialog:285
+#: ./Duncan.dialog:286
 msgid "Huh? How do you know the Linarian farewell? No one around here knows it."
 msgstr ""
 
-#: ./Duncan.dialog:286
+#: ./Duncan.dialog:287
 msgid "I read many books on Linarians. That is all."
 msgstr ""
 
-#: ./Duncan.dialog:287
+#: ./Duncan.dialog:288
 msgid "Nothing more and nothing less."
 msgstr ""
 
-#: ./Duncan.dialog:294
+#: ./Duncan.dialog:295
 msgid "May the ice bring you wisdom."
 msgstr ""
 
