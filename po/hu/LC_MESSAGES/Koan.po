@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-06-22 11:03+0100\n"
+"Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,120 +13,106 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Koan.dialog:36
-msgid ""
-"So you have come. I knew Duncan would not let me live for too long."
-msgstr ""
+msgid "So you have come. I knew Duncan would not let me live for too long."
+msgstr "Hát eljöttél. Tudtam, hogy Duncan nem hagy sokáig életben."
 
 #: Koan.dialog:37
-msgid ""
-"Once I am gone this oasis of peace in the world will dry up and die. "
-"A shame."
-msgstr ""
+msgid "Once I am gone this oasis of peace in the world will dry up and die. A shame."
+msgstr "Ha elmentem, a béke ezen oázisa kiszárad és meghal. Pillanatok alatt."
 
 #: Koan.dialog:38
-msgid ""
-"I hoped to turn the whole desert into a sanctuary. And now my dream "
-"will never come true."
-msgstr ""
+msgid "I hoped to turn the whole desert into a sanctuary. And now my dream will never come true."
+msgstr "Reméltem, hogy az egész sivatagot zöldbe boríthatom. És most az álmom soha nem válik valóra."
 
 #: Koan.dialog:39
 msgid "Do what you must."
-msgstr ""
+msgstr "Tedd, amit tenned kell."
 
 #: Koan.dialog:41
 msgid "It's a pleasure to meet you again."
-msgstr ""
+msgstr "Megtiszteltetés újra találkozni."
 
 #: Koan.dialog:46
 msgid "With pleasure."
-msgstr ""
+msgstr "Élvezni fogom."
 
 #: Koan.dialog:54
 msgid "No. I have not come here to kill you."
-msgstr ""
+msgstr "Nem. Nem azért jöttem, hogy megöljelek."
 
 #: Koan.dialog:56
 msgid "Thank you."
-msgstr ""
+msgstr "Köszönöm."
 
 #: Koan.dialog:57
 msgid "Feel free to stay here. There is no danger."
-msgstr ""
+msgstr "Maradj nyugodtan. Itt nem vagy veszélyben."
 
 #: Koan.dialog:58
-msgid ""
-"The water is safe to drink and the fruit from the tree is quite "
-"delicious."
-msgstr ""
+msgid "The water is safe to drink and the fruit from the tree is quite delicious."
+msgstr "A víz friss és iható, a fákon termő gyümölcsök ízletesek."
 
 #: Koan.dialog:65
-msgid ""
-"What is this place? Why is there grass and water under the desert?"
-msgstr ""
+msgid "What is this place? Why is there grass and water under the desert?"
+msgstr "Mi ez a hely? Hogy lehet fű és víz a sivatag alatt?"
 
 #: Koan.dialog:67
 msgid "Ah, yes. That is my fault, I am afraid."
-msgstr ""
+msgstr "Ó, igen. Ez miattam van, azt hiszem."
 
 #: Koan.dialog:68
 msgid "Wherever I go, life follows me."
-msgstr ""
+msgstr "Bárhová megyek az élet követ engem."
 
 #: Koan.dialog:69
 msgid "I thought I could hide from Duncan in this old bunker."
-msgstr ""
+msgstr "Azt hittem, elbújhatok ebben az elhagyatott bunkerben Duncan elől."
 
 #: Koan.dialog:70
 msgid "When I woke up the next day, things were as you see them now."
-msgstr ""
+msgstr "Mikor másnap felébredtem, minden olyan lett, mint ahogy most látod."
 
 #: Koan.dialog:75
 msgid "This was a bunker?"
-msgstr ""
+msgstr "Ez bunker volt valaha?"
 
 #: Koan.dialog:77
 msgid "Yes. The place has changed a bit, as you can see."
-msgstr ""
+msgstr "Igen. Bár a hely kissé megváltozott, min láthatod."
 
 #: Koan.dialog:78
-msgid ""
-"I like the way it is right now. The water cools everything down and "
-"the plants give the air a very fresh smell."
-msgstr ""
+msgid "I like the way it is right now. The water cools everything down and the plants give the air a very fresh smell."
+msgstr "Tetszik ahogy most kinéz. A víz mindent lehűt, és a növények frissé teszik a levegőt."
 
 #: Koan.dialog:79
-msgid ""
-"As soon as I leave, everything will die. I have seen that happen "
-"before."
-msgstr ""
+msgid "As soon as I leave, everything will die. I have seen that happen before."
+msgstr "Ahogy elhagyom ezt a helyet, minden elpusztul. Az előzőekben is így szokott történni."
 
 #: Koan.dialog:80
-msgid ""
-"Because this place is just like a small bit of paradise, I decided to "
-"stay here."
-msgstr ""
+msgid "Because this place is just like a small bit of paradise, I decided to stay here."
+msgstr "Mivel ez a hely maga a paradicsom, elhatároztam, hogy itt maradok."
 
 #: Koan.dialog:81
-msgid ""
-"I do not want this wonderful bunker to become devoid of life again."
-msgstr ""
+msgid "I do not want this wonderful bunker to become devoid of life again."
+msgstr "Nem akarom, hogy ez a csodás bunker megint élettelenné váljon."
 
 #: Koan.dialog:86
 msgid "Why does Duncan want you dead?"
-msgstr ""
+msgstr "Miért akar Duncan holtan látni?"
 
 #: Koan.dialog:88
 msgid "Very simple. He likes destruction, and I am creation."
-msgstr ""
+msgstr "Nagyon egyszerű. Ő a pusztítást szereti, én pedig a teremtést."
 
 #: Koan.dialog:89
 msgid "There is nothing more to it."
-msgstr ""
+msgstr "Nincs más oka."
 
 #: Koan.dialog:94
 msgid "I will go now."
-msgstr ""
+msgstr "Most megyek."
 
 #: Koan.dialog:96
 msgid "This place will always wait for you."
-msgstr ""
+msgstr "Ez a hely mindig szívesen lát téged."
+

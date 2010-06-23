@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-06-21 12:19+0100\n"
+"Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,52 +14,54 @@ msgstr ""
 
 #: Geist.dialog:41
 msgid "Hello. Any idea where I can get some help here?"
-msgstr ""
+msgstr "Helló. Van ötleted, hol kaphatnék segítséget?"
 
-#: Geist.dialog:43 Geist.dialog:68
+#: Geist.dialog:43
+#: Geist.dialog:68
 msgid "Verschwinde!"
-msgstr ""
+msgstr "Verschwinde!"
 
 #: Geist.dialog:48
 msgid "Erm... What do you mean?"
-msgstr ""
+msgstr "Őőőő... Mit mondasz?"
 
 #: Geist.dialog:50
 msgid "Ich bin der Geist, der stets verneint."
-msgstr ""
+msgstr "Ich bin der Geist, der stets verneint."
 
 #: Geist.dialog:51
 msgid "Und das mit Recht; denn alles, was entsteht,"
-msgstr ""
+msgstr "Und das mit Recht; denn alles, was entsteht,"
 
 #: Geist.dialog:52
 msgid "ist wert, dass es zugrunde geht."
-msgstr ""
+msgstr "ist wert, dass es zugrunde geht."
 
 #: Geist.dialog:57
 msgid "I really do not understand you."
-msgstr ""
+msgstr "Nem igazán értelek."
 
 #: Geist.dialog:59
 msgid "Wer sie nicht kennte, die Elemente,"
-msgstr ""
+msgstr "Wer sie nicht kennte, die Elemente,"
 
 #: Geist.dialog:60
 msgid "ihre Kraft und Eigenschaft,"
-msgstr ""
+msgstr "ihre Kraft und Eigenschaft,"
 
 #: Geist.dialog:61
 msgid "waere kein Meister ueber die Geister."
-msgstr ""
+msgstr "waere kein Meister ueber die Geister."
 
 #: Geist.dialog:66
 msgid "I wish I knew what you are talking about."
-msgstr ""
+msgstr "Bárcsak tudnám, miről beszélsz."
 
 #: Geist.dialog:74
 msgid "I need to go now."
-msgstr ""
+msgstr "Most mennem kell."
 
 #: Geist.dialog:76
 msgid " . . ."
-msgstr ""
+msgstr " . . ."
+

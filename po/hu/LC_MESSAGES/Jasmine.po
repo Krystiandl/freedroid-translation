@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-06-21 12:50+0100\n"
+"Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,117 +14,118 @@ msgstr ""
 
 #: Jasmine.dialog:44
 msgid "Hi! I'm new here."
-msgstr ""
+msgstr "Helló! Új vagyok itt."
 
 #: Jasmine.dialog:46
 msgid "Yes. Hello. What do you want?"
-msgstr ""
+msgstr "Igen. Helló. Mit akarsz?"
 
 #: Jasmine.dialog:51
 msgid "Who are you?"
-msgstr ""
+msgstr "Ki vagy te?"
 
 #: Jasmine.dialog:53
 msgid "People call me Jasmine..."
-msgstr ""
+msgstr "Az emberek Jasmine-nak hívnak..."
 
 #: Jasmine.dialog:54
 msgid "That is not my real name, but it will do for now."
-msgstr ""
+msgstr "Ez nem az igazi nevem, de megteszi."
 
 #: Jasmine.dialog:59
 msgid "What are you doing in Kevin's place?"
-msgstr ""
+msgstr "Mit csinálsz Kevin lakhelyén?"
 
 #: Jasmine.dialog:61
 msgid "I live with him, stupid."
-msgstr ""
+msgstr "Hülye. Vele élek."
 
 #: Jasmine.dialog:62
 msgid "I like him. He... He is very much like me."
-msgstr ""
+msgstr "Kedvelem. És ő... ő is nagyon kedvel engem."
 
 #: Jasmine.dialog:67
 msgid "How are you?"
-msgstr ""
+msgstr "Hogy vagy?"
 
 #: Jasmine.dialog:69
 msgid "Shitty. Now leave me alone."
-msgstr ""
+msgstr "Szarul. Most hagyj magamra."
 
 #: Jasmine.dialog:74
-msgid ""
-"Why does such a nice lady act so harshly? Can't we all just get along?"
-msgstr ""
+msgid "Why does such a nice lady act so harshly? Can't we all just get along?"
+msgstr "Miért beszél egy ilyen szép nő ilyen csúnyán? Nem beszélgethetünk nyugodtan tovább?"
 
 #: Jasmine.dialog:76
 msgid "No."
-msgstr ""
+msgstr "Nem."
 
 #: Jasmine.dialog:81
 msgid "What are you up to?"
-msgstr ""
+msgstr "Mit csinálsz itt?"
 
 #: Jasmine.dialog:83
 msgid "Nothing. Quit asking questions."
-msgstr ""
+msgstr "Semmit. Ne kérdezősködj."
 
 #: Jasmine.dialog:84
 msgid "Don't bore me."
-msgstr ""
+msgstr "Ne fárassz már."
 
 #: Jasmine.dialog:89
 msgid "You are the most beautiful human I have ever seen."
-msgstr ""
+msgstr "Te vagy a legszebb humanoid, akit valaha láttam."
 
 #: Jasmine.dialog:91
 msgid "And you are at least a quarter wrong."
-msgstr ""
+msgstr "Te meg egy kicsit tévedsz."
 
 #: Jasmine.dialog:92
 msgid "Now, please get out of my sight."
-msgstr ""
+msgstr "És most, légyszíves tűnj a szemem elől."
 
 #: Jasmine.dialog:97
 msgid "Will you marry me?"
-msgstr ""
+msgstr "Hozzám jössz feleségül?"
 
 #: Jasmine.dialog:99
 msgid "Forget it."
-msgstr ""
+msgstr "Felejtsd el."
 
-#: Jasmine.dialog:104 Jasmine.dialog:118
+#: Jasmine.dialog:104
+#: Jasmine.dialog:118
 msgid "See you later."
-msgstr ""
+msgstr "Majd még találkozunk."
 
 #: Jasmine.dialog:106
 msgid "Yeah. Whatever."
-msgstr ""
+msgstr "Ja, persze."
 
 #: Jasmine.dialog:120
 msgid "Yeah. Wha -- SIGSEGV."
-msgstr ""
+msgstr "Ja. Köcsö -- SIGSEGV."
 
 #: Jasmine.dialog:121
 msgid "Segmentation fault."
-msgstr ""
+msgstr "Szegmentációs hiba."
 
 #: Jasmine.dialog:122
 msgid "Huh?"
-msgstr ""
+msgstr "Mia...?"
 
 #: Jasmine.dialog:123
 msgid "Traceback printed to stdout."
-msgstr ""
+msgstr "Visszajelzés stdout-ra nyomtatva."
 
 #: Jasmine.dialog:124
 msgid "Kernel panic in module: Jasmine"
-msgstr ""
+msgstr "Kernel pacic a Jasmine modulban"
 
 #: Jasmine.dialog:125
 msgid "Buffer overrun in anger.c:1532"
-msgstr ""
+msgstr "Puffer túlcsordulás a .c:1532 -ban."
 
 #: Jasmine.dialog:126
 msgid "Core dumped. System halted."
-msgstr ""
+msgstr "Mag lefagyott. Rendszer leállt."
+

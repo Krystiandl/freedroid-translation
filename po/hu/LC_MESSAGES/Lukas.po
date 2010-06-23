@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-06-22 11:16+0100\n"
+"Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,79 +14,69 @@ msgstr ""
 
 #: Lukas.dialog:42
 msgid "Hi! I'm new here."
-msgstr ""
+msgstr "Üdv! Új vagyok itt."
 
 #: Lukas.dialog:44
-msgid ""
-"A newcomer! Great! We can always use more people. Welcome to the Red "
-"Guard! I'm Lukas. I'm in charge of our little armory here."
-msgstr ""
+msgid "A newcomer! Great! We can always use more people. Welcome to the Red Guard! I'm Lukas. I'm in charge of our little armory here."
+msgstr "Egy újonc! Nagyszerű! Mindíg szükség van új emberekre. Üdvözöllek a Vörös Őrségben. Lukas vagyok. Én vagyok szerény fegyverzetünk felelőse."
 
 #: Lukas.dialog:49
-msgid ""
-"Spencer said you'd be able to provide me with better armor and "
-"equipment."
-msgstr ""
+msgid "Spencer said you'd be able to provide me with better armor and equipment."
+msgstr "Spencer mondta, hogy tudsz adni jobb pánzélzatot és felszerelést."
 
 #: Lukas.dialog:51
-msgid ""
-"Of course. As a member of our Guard, you're entitled to wear one of "
-"our suits of armor. I can adjust it to fit any measurements, even "
-"yours."
-msgstr ""
+msgid "Of course. As a member of our Guard, you're entitled to wear one of our suits of armor. I can adjust it to fit any measurements, even yours."
+msgstr "Természetesen. Az Őrség tagjaként jogosan viselheted a páncélruhánkat. Be tudom állítani mindenfajta méretre, még a tiédre is."
 
 #: Lukas.dialog:52
-msgid ""
-"There are two kinds or armor, a heavy Red Guard robe and a light "
-"version of the same thing."
-msgstr ""
+msgid "There are two kinds or armor, a heavy Red Guard robe and a light version of the same thing."
+msgstr "Kétfajta páncélunk van, a nehéz Vörös Őr testpáncél, és ennek a könnyebb változata."
 
 #: Lukas.dialog:53
 msgid "But we also trade guns and some ammo."
-msgstr ""
+msgstr "De kereskedünk fegyverekkel és némi lőszerrel is."
 
 #: Lukas.dialog:54
 msgid "Now, what will it be?"
-msgstr ""
+msgstr "Na, melyik legyen?"
 
 #: Lukas.dialog:60
 msgid "What do you do all day here at the armory?"
-msgstr ""
+msgstr "Mit csinálsz egész nap itt, a fegyverzet között?"
 
 #: Lukas.dialog:62
-msgid ""
-"Oh, there's always something to do. Don't worry. I'm pretty occupied "
-"keeping the place in order."
-msgstr ""
+msgid "Oh, there's always something to do. Don't worry. I'm pretty occupied keeping the place in order."
+msgstr "Ó, mindig van mit csinálni. Ne aggódj, eléggé értek ahhoz, hogyan lehet ezt a helyet irányítani."
 
 #: Lukas.dialog:66
 msgid "I'd like to buy an exterminator"
-msgstr ""
+msgstr "Szeretnék egy exterminátort vásárolni."
 
 #: Lukas.dialog:68
 msgid "Haha, good one."
-msgstr ""
+msgstr "Haha, jó vicc."
 
 #: Lukas.dialog:69
 msgid "Sorry, they are not for sale."
-msgstr ""
+msgstr "Sajnálom, de nem eladók."
 
 #: Lukas.dialog:70
 msgid "I'll get one for free?"
-msgstr ""
+msgstr "Nem adsz egyet ingyen?"
 
 #: Lukas.dialog:71
 msgid "You are the funniest Linarian I've ever seen."
-msgstr ""
+msgstr "Te vagy a legviccesebb Lináriai, akit valaha láttam."
 
 #: Lukas.dialog:72
 msgid "If the only one."
-msgstr ""
+msgstr "Ha nem az egyetlen."
 
 #: Lukas.dialog:73
 msgid "Now go, kill some bots."
-msgstr ""
+msgstr "Most menj, őlj meg pár botot."
 
 #: Lukas.dialog:78
 msgid "See you later!"
-msgstr ""
+msgstr "Majd még találkozunk!"
+
