@@ -3,8 +3,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
-"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-24 11:46+0000\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -16,225 +16,206 @@ msgstr ""
 "X-Poedit-Country: FRANCE\n"
 "X-Generator: Launchpad (build Unknown)\n"
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:34
+#: c-net.dialog:34
 msgid " . "
 msgstr " . "
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:37
+#: c-net.dialog:37
 msgid "Welcome to the Community Network."
 msgstr "Bienvenue sur le réseau de la communauté."
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:38
+#: c-net.dialog:38
 msgid "Login : "
 msgstr "identifiant :"
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:45
-msgid " guest "
-msgstr "invité"
-
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:53
+#: c-net.dialog:53
 msgid "First time login detected."
 msgstr "Nous détectons que c'est votre première connexion."
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:54
+#: c-net.dialog:54
 msgid "Please enter your name"
 msgstr "Veuillez entrer votre nom, s'il vous plaît."
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:55
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:62
+#: c-net.dialog:55 c-net.dialog:62
 msgid "Name : "
 msgstr "Nom :"
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:57
+#: c-net.dialog:57
 msgid "Please set password for your personalized guest login "
 msgstr "Veuillez choisir un mot de passe pour votre identifiant d'invité personnalisé."
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:58
+#: c-net.dialog:58
 msgid "Use at least one lower case letter, one upper case letter, one number, and one symbol."
 msgstr "Utilisez au moins une lettre minuscule, une lettre majuscule, un numéro, et un signe non alphanumérique."
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:59
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:64
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:77
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:96
+#: c-net.dialog:59 c-net.dialog:64 c-net.dialog:77 c-net.dialog:96
 msgid "Password : "
 msgstr "Mot de passe :"
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:67
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:84
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:103
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:122
+#: c-net.dialog:67 c-net.dialog:84 c-net.dialog:103 c-net.dialog:122
 msgid "Last login from dev/tty3 on unknown"
 msgstr "Dernière connexion depuis dev/tty3 sur inconnu"
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:73
-msgid "root"
-msgstr "super-utilisateur"
-
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:92
-msgid "lily"
-msgstr "lily"
-
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:110
-msgid "cpain"
-msgstr "cpain"
-
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:114
+#: c-net.dialog:114
 msgid "Password: "
 msgstr " mot de passe :"
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:129
-msgid "IM A BUG. REPORT ME!"
-msgstr "Je suis un bogue. Rapportez moi !"
-
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:132
+#: c-net.dialog:132
 msgid "Login incorrect"
 msgstr "Identifiant non correct."
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:133
+#: c-net.dialog:133
 msgid "Connection to c-net terminated."
 msgstr "Connexion à c-net terminée."
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:138
-msgid "cd info_commands/"
-msgstr "cd info_commands/"
-
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:148
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:220
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:278
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:325
-msgid "cd ../"
-msgstr "cd ../"
-
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:158
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:162
-msgid "date"
-msgstr "date"
-
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:163
+#: c-net.dialog:163
 msgid "Date unknown"
 msgstr "Date inconnue"
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:168
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:171
-msgid "finger"
-msgstr "doigt"
-
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:182
-msgid "users"
-msgstr "utilisateurs"
-
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:192
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:195
-msgid "whoami"
-msgstr "qui suis-je "
-
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:196
-msgid "guest"
-msgstr "invité"
-
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:201
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:204
-msgid "uname"
-msgstr "uname"
-
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:205
-msgid "Nkernel"
-msgstr "Nkernel"
-
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:210
-msgid "cd file_commands/"
-msgstr "cd file_commands/"
-
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:230
-msgid "ls"
-msgstr "ls"
-
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:242
+#: c-net.dialog:242
 msgid "mountdisk.sh"
 msgstr "monte_disque.sh"
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:245
+#: c-net.dialog:245
 msgid "./mountdisk.sh"
 msgstr "./monte_disque.sh"
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:246
+#: c-net.dialog:246
 msgid "no disk found"
 msgstr "aucun disque trouvé"
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:251
+#: c-net.dialog:251
 msgid "statistics.pl"
 msgstr "statistiques.pl"
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:255
+#: c-net.dialog:255
 msgid "Corrupted file."
 msgstr "Fichier corrompu."
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:256
+#: c-net.dialog:256
 msgid "Bot #Dead# Tux #Hacked/Failed#Ratio"
 msgstr "Robot #Mort# Tux #Piraté/Échoué# rapport"
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:258
-msgid "tux@c-net:~$"
-msgstr "tux@c-net:~$"
+#: c-net.dialog:267
+msgid "guest"
+msgstr "invité"
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:262
-msgid "cd documents/"
-msgstr "cd documents/"
-
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:288
+#: c-net.dialog:288
 msgid "forkBOMB.sh -arm bomb"
 msgstr "forkBOMB.sh -arm bomb"
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:290
+#: c-net.dialog:290
 msgid "bomb armed"
 msgstr "bombe armée"
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:291
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:299
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:310
-msgid "root@c-net:~$"
-msgstr "root@c-net:~$"
-
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:296
+#: c-net.dialog:296
 msgid "forkBOMB.sh -disarm bomb"
 msgstr "forkBOMB.sh -disarm bomb"
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:298
+#: c-net.dialog:298
 msgid "bomb defused"
 msgstr "Bombe désarmée."
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:305
+#: c-net.dialog:304
 msgid "forkBOMB.sh -execute"
 msgstr "forkBOMB.sh -execute"
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:309
-msgid "Script run. Once after logout terminal will be disabled."
+#: c-net.dialog:308
+#, fuzzy
+msgid "Script run. After logout this terminal will be disabled."
 msgstr "Script lancé. Le terminal sera désactivé après la déconnexion."
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:315
-msgid "cd games/"
-msgstr "cd games/"
+#: c-net.dialog:309
+msgid "root@c-net:~$"
+msgstr "root@c-net:~$"
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:335
-msgid "nethack"
-msgstr "nethack"
-
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:344
+#: c-net.dialog:343
 msgid "global_thermonuclear_war"
 msgstr "guerre_thermonucléaire_totale"
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:347
+#: c-net.dialog:346
 msgid "./global_thermonuclear_war"
 msgstr "./guerre_thermonucléaire_totale"
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:353
-msgid "logout"
-msgstr " Déconnection"
+#: c-net.dialog:347
+msgid "Sorry, only winning move is not to play. New game?"
+msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/c-net.dialog:357
+#: c-net.dialog:347
+msgid "Mankind exterminated. You lost!"
+msgstr "Genre humain exterminé. Tu as perdu."
+
+#: c-net.dialog:347
+msgid "No victory possible. LOSER! Play again?"
+msgstr "Tu ne peux plus gagner. Tu as perdu. Veux tu jouer encore ?"
+
+#: c-net.dialog:347
+msgid "Everyone dies, new game?"
+msgstr "Tout le monde meurt, une nouvelle partie ?"
+
+#: c-net.dialog:356
 msgid "Connection to c-net closed."
 msgstr "Connection à c-net fermée."
+
+#~ msgid " guest "
+#~ msgstr "invité"
+
+#~ msgid "root"
+#~ msgstr "super-utilisateur"
+
+#~ msgid "lily"
+#~ msgstr "lily"
+
+#~ msgid "cpain"
+#~ msgstr "cpain"
+
+#~ msgid "IM A BUG. REPORT ME!"
+#~ msgstr "Je suis un bogue. Rapportez moi !"
+
+#~ msgid "cd info_commands/"
+#~ msgstr "cd info_commands/"
+
+#~ msgid "cd ../"
+#~ msgstr "cd ../"
+
+#~ msgid "date"
+#~ msgstr "date"
+
+#~ msgid "finger"
+#~ msgstr "doigt"
+
+#~ msgid "users"
+#~ msgstr "utilisateurs"
+
+#~ msgid "whoami"
+#~ msgstr "qui suis-je "
+
+#~ msgid "uname"
+#~ msgstr "uname"
+
+#~ msgid "Nkernel"
+#~ msgstr "Nkernel"
+
+#~ msgid "cd file_commands/"
+#~ msgstr "cd file_commands/"
+
+#~ msgid "ls"
+#~ msgstr "ls"
+
+#~ msgid "tux@c-net:~$"
+#~ msgstr "tux@c-net:~$"
+
+#~ msgid "cd documents/"
+#~ msgstr "cd documents/"
+
+#~ msgid "cd games/"
+#~ msgstr "cd games/"
+
+#~ msgid "nethack"
+#~ msgstr "nethack"
+
+#~ msgid "logout"
+#~ msgstr " Déconnection"
 
 #~ msgid "Sure. I'll sign it."
 #~ msgstr " Certainement. Je le signerai."
