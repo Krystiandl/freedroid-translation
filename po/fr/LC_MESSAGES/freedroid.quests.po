@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_data\n"
-"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-24 11:46+0000\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
 "PO-Revision-Date: 2008-09-26 18:23+0200\n"
 "Last-Translator: \n"
 "Language-Team: <en@li.org>\n"
@@ -13,71 +13,108 @@ msgstr ""
 "X-Launchpad-Export-Date: 2008-09-14 12:32+0000\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: /home/david/src/freedroid-translation/map/freedroid.quests:36
+#: freedroid.quests:36
 msgid "Bender's problem"
 msgstr "Un problème pour Bender"
 
-#: /home/david/src/freedroid-translation/map/freedroid.quests:52
+#: freedroid.quests:52
 msgid "The yellow toolkit"
 msgstr "La boîte à outil jaune"
 
-#: /home/david/src/freedroid-translation/map/freedroid.quests:68
+#: freedroid.quests:68
 msgid "Anything but the army snacks, please!"
 msgstr "Tout mais pas les rations militaires, s'il vous plaît !"
 
-#: /home/david/src/freedroid-translation/map/freedroid.quests:84
+#: freedroid.quests:84
 msgid "Novice Arena"
 msgstr "Arène des débutants"
 
-#: /home/david/src/freedroid-translation/map/freedroid.quests:103
+#: freedroid.quests:95
+#, fuzzy
+msgid "Novice arena cleared!"
+msgstr "Arène des débutants"
+
+#: freedroid.quests:96 freedroid.quests:116 freedroid.quests:152
+msgid "Level cleared!"
+msgstr "Niveau terminé !"
+
+#: freedroid.quests:104
 msgid "Time to say goodnight"
 msgstr "Il est temps de dire bonsoir"
 
-#: /home/david/src/freedroid-translation/map/freedroid.quests:122
+#: freedroid.quests:115
+msgid "Master arena cleared. Good job, man."
+msgstr "Arène de niveau maître nettoyée. Bon travail."
+
+#: freedroid.quests:124
 msgid "Opening a can of bots..."
 msgstr "Ouverture d'une boîte de robots…"
 
-#: /home/david/src/freedroid-translation/map/freedroid.quests:137
+#: freedroid.quests:139
 msgid "And there was light..."
 msgstr "Et la lumière fut…"
 
-#: /home/david/src/freedroid-translation/map/freedroid.quests:156
+#: freedroid.quests:151
+msgid "All hostiles on level disabled."
+msgstr "Tous les ennemis du niveau sont désactivés."
+
+#: freedroid.quests:161
 msgid "A kingdom for a cluster!"
 msgstr "Un royaume pour un agrégat !"
 
-#: /home/david/src/freedroid-translation/map/freedroid.quests:172
+#: freedroid.quests:177
 msgid "Opening access to MS Office"
 msgstr "Ouverture de l'accès à MS Office"
 
-#: /home/david/src/freedroid-translation/map/freedroid.quests:188
+#: freedroid.quests:193
 msgid "Propagating a faulty firmware"
 msgstr "Propagation d'un firmware malveillant"
 
-#: /home/david/src/freedroid-translation/map/freedroid.quests:203
+#: freedroid.quests:208
 msgid "SADD's power supply"
 msgstr "Alimentation en énergie de SADD"
 
-#: /home/david/src/freedroid-translation/map/freedroid.quests:219
+#: freedroid.quests:224
 msgid "Tania's sanitary"
 msgstr "Les toilettes de Tania"
 
-#: /home/david/src/freedroid-translation/map/freedroid.quests:234
+#: freedroid.quests:239
 msgid "Saving the shop"
 msgstr "Sauver le magasin"
 
-#: /home/david/src/freedroid-translation/map/freedroid.quests:249
+#: freedroid.quests:254
 msgid "Doing Duncan a favour"
 msgstr "Faire une faveur à Duncan"
 
-#: /home/david/src/freedroid-translation/map/freedroid.quests:264
+#: freedroid.quests:269
+msgid "Tutorial Movement"
+msgstr "Un cours sure les déplacements."
+
+#: freedroid.quests:286
+msgid "Tutorial Melee"
+msgstr "Un cours sur le combat de mêlée."
+
+#: freedroid.quests:296
+msgid "Melee droids destroyed!"
+msgstr "Droïde en combat de mêlée détruits."
+
+#: freedroid.quests:304
 msgid "Tutorial Shooting"
 msgstr "Un cours pratique de tir"
 
-#: /home/david/src/freedroid-translation/map/freedroid.quests:282
+#: freedroid.quests:314
+msgid "Shooting range cleared!"
+msgstr "Fenêtre de tir nettoyée !"
+
+#: freedroid.quests:322
 msgid "Tutorial Hacking"
 msgstr "Un cours pratique de piratage"
 
-#: /home/david/src/freedroid-translation/map/freedroid.quests:300
+#: freedroid.quests:332
+msgid "Hacking area cleared!"
+msgstr "Aire de piratage nettoyée !"
+
+#: freedroid.quests:340
 msgid "A strange guy stealing from town"
 msgstr "Un étrange voleur dans la ville"
 

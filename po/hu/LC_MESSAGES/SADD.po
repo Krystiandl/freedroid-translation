@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-06-22 15:52+0100\n"
+"PO-Revision-Date: 2010-06-28 11:39+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -237,118 +237,118 @@ msgstr "Megvan a kristály. Elég nehéz volt hozzájutni."
 
 #: SADD.dialog:200
 msgid "Good. I've opened the depot door for you. Take your super exterminator and GET OUT of here!"
-msgstr ""
+msgstr "Rendben. Kinyitottam neked a raktárat. Fogd a super exterminátorodat, és TAKARODJ innen!"
 
 #: SADD.dialog:212
 msgid "How is your power supply?"
-msgstr ""
+msgstr "Mi a helyzet az energiaellátásoddal?"
 
 #: SADD.dialog:214
 msgid "Bad. Get the crystals. Remember, you promised!"
-msgstr ""
+msgstr "Problémás. Szerezz kristályt. Megígérted!"
 
 #: SADD.dialog:222
 msgid "Great! Thanks. I've opened some doors for you. I hope you will find something interesting there. That's all I can do for you."
-msgstr ""
+msgstr "Nagyszerű! Köszi. Kinyitottam neked pár ajtót. Remélem, találsz odabent valami hasznosat. Ennyit tudok tenni érted."
 
 #: SADD.dialog:235
 msgid "You call this a super exterminator?"
-msgstr ""
+msgstr "Ezt nevezed szuper exterminátornak?"
 
 #: SADD.dialog:237
 msgid "I do. Now please leave this place before I terminate you."
-msgstr ""
+msgstr "Igen. És most kérlek hagyd el ezt a helyet, mielőtt megsemmisítelek."
 
 #: SADD.dialog:238
 msgid "This is rubbish! Nobody can use this damned gun!"
-msgstr ""
+msgstr "Ez egy szemét! Senki sem tudná használni ezt a nyomorult puskát!"
 
 #: SADD.dialog:239
 msgid "The door is still open. You can put it back and go. Quick."
-msgstr ""
+msgstr "Az ajtó még mindig nyitva áll. Visszateheted, ahonnan elvetted. De gyorsan."
 
 #: SADD.dialog:240
 msgid "Give me a real gun, dude! Immediately! I have brought you what you wanted, now give me my reward!"
-msgstr ""
+msgstr "Adj egy normális fegyvert öcsém! De azonnal! Elhoztam amit akartál, és most add meg a jutalmam!"
 
 #: SADD.dialog:241
 msgid "You can go standing on your feet, that's your reward. And DON'T TRY MY PATIENCE!"
-msgstr ""
+msgstr "A saját lábadon sétálhatsz ki, ez a jutalmad. ÉS NE TEDD PRÓBÁRA A TÜRELMEM!"
 
 #: SADD.dialog:242
 msgid "I'll kill you if you don't give me my gun!"
-msgstr ""
+msgstr "Megöllek, ha nem adod ide a nekem járó fegyvert!"
 
 #: SADD.dialog:243
 msgid "You are welcome. But you would never get out of here, my death won't help you."
-msgstr ""
+msgstr "Ahogy kívánod. Ám a halálom nem segít rajtad, soha nem jutsz ki innen."
 
 #: SADD.dialog:253
 msgid "And what about your directives, especially the second?"
-msgstr ""
+msgstr "És mi van a parancsaiddal, főleg a másodikkal?"
 
 #: SADD.dialog:255
 msgid "Now I have time. When you die, I'll disable guns."
-msgstr ""
+msgstr "Most már van időm. Ha meghalsz, majd kikapcsolom az ágyúkat."
 
 #: SADD.dialog:260
 msgid "Please forgive me!"
-msgstr ""
+msgstr "Kérlek, bocsáss meg!"
 
 #: SADD.dialog:262
 msgid "Too late. I'm watching this great show now."
-msgstr ""
+msgstr "Késő. Most már kíváncsi vagyok a műsorra."
 
 #: SADD.dialog:263
 #: SADD.dialog:264
 msgid "It is called..."
-msgstr ""
+msgstr "Ezt úgy hívják, hogy ..."
 
 #: SADD.dialog:265
 msgid "CONDEMNED TO DEATH!"
-msgstr ""
+msgstr "HALÁLRA ÍTÉLÉS!"
 
 #: SADD.dialog:270
 msgid "Please, disable the guns!"
-msgstr ""
+msgstr "Kérlek, kapcsold ki az ágyúkat!"
 
 #: SADD.dialog:272
 msgid "Ok, I'll disable them."
-msgstr ""
+msgstr "Oké, kikapcsolom őket."
 
 #: SADD.dialog:273
 msgid "I just need to make some preparations. You will have to wait..."
-msgstr ""
+msgstr "Csak előbb fel kell rá készülnöm. Várnod kell ..."
 
 #: SADD.dialog:274
 msgid "...for your death!"
-msgstr ""
+msgstr "...míg meg nem halsz!"
 
 #: SADD.dialog:279
 msgid "Erm... hi!"
-msgstr ""
+msgstr "Öööö... üdv!"
 
 #: SADD.dialog:281
 msgid "Hi. Thanks for the help."
-msgstr ""
+msgstr "Üdv. Köszönöm a segítséget."
 
 #: SADD.dialog:282
 msgid "Will you let me inside the base?"
-msgstr ""
+msgstr "Beengednél a bázisra?"
 
 #: SADD.dialog:283
 msgid "I'm sorry"
-msgstr ""
+msgstr "Sajnálom."
 
 #: SADD.dialog:284
 msgid "Nice try, though. I may owe you, but I can't let you in. You must leave."
-msgstr ""
+msgstr "Azért jó próbálkozás volt. Bár tartozom neked, nem engedhetlek be. Menned kell."
 
 #: SADD.dialog:291
 msgid "I'd better get out of here..."
-msgstr ""
+msgstr "Jobb, ha megyek innen..."
 
 #: SADD.dialog:293
 msgid "Exactly."
-msgstr ""
+msgstr "Pontosan."
 
