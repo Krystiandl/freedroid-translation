@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-30 10:16+0100\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"PO-Revision-Date: 2010-06-28 22:06+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -287,6 +287,10 @@ msgstr "Géppuska? De... de ez egy szolgabot!"
 #: Chandra.dialog:165
 msgid "I know, "
 msgstr "Hát igen."
+
+#: Chandra.dialog:165
+msgid ". I know."
+msgstr ". hát igen."
 
 #: Chandra.dialog:166
 msgid "Let's see... Oh, there is also the 296, which was used for serving drinks. Ewald once had one of those in his bar."
