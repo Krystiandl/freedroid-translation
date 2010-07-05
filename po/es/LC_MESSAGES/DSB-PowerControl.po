@@ -1,8 +1,9 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-02 07:42+0000\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
 "PO-Revision-Date: 2010-06-02 07:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -14,32 +15,35 @@ msgstr ""
 
 #: DSB-PowerControl.dialog:37
 msgid "Login : "
-msgstr ""
+msgstr "Login:"
 
 #: DSB-PowerControl.dialog:38
 msgid "admin"
-msgstr ""
+msgstr "admin"
 
 #: DSB-PowerControl.dialog:39
 msgid " Password : "
-msgstr ""
+msgstr "Password:"
 
 #: DSB-PowerControl.dialog:40
 msgid "*******"
 msgstr ""
+" \t\r\n"
+"\r\n"
+"*******"
 
 #: DSB-PowerControl.dialog:41
 msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
-msgstr ""
+msgstr "Ultima entrada des de /dev/ttyS0 el Dom, 23 mar 2057."
 
 #: DSB-PowerControl.dialog:49 DSB-PowerControl.dialog:51
 msgid "<?>"
-msgstr ""
+msgstr "<?>"
 
 #: DSB-PowerControl.dialog:57
 msgid "logout"
-msgstr ""
+msgstr "logout"
 
 #: DSB-PowerControl.dialog:59
 msgid "Exiting"
-msgstr ""
+msgstr "Saliendo"
