@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-06-21 12:41+0100\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"PO-Revision-Date: 2010-07-06 14:21+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,6 +16,11 @@ msgstr ""
 #: HF-GateGuardLeader.dialog:41
 msgid "Hey, Linarian! What do you want here?"
 msgstr "Hé, Lináriai! Mit keresel itt?"
+
+#: HF-GateGuardLeader.dialog:37
+#: HF-GateGuardLeader.dialog:67
+msgid "Opening access to MS Office"
+msgstr "MS Office hozzáférés indítása"
 
 #: HF-GateGuardLeader.dialog:44
 msgid "GET OUT OF HERE YOU IDIOT!"
@@ -97,6 +102,10 @@ msgstr "MICSODA?! Nem támadnak?!"
 msgid "I hope you are telling the truth. One second..."
 msgstr "Remélem, igazat mondasz. Egy másodperc és..."
 
+#: HF-GateGuardLeader.dialog:92
+msgid "Propagating a faulty firmware"
+msgstr "Hibás firmware közzététele"
+
 #: HF-GateGuardLeader.dialog:97
 msgid "Nothing from Spencer, ya fat duck. Now leave."
 msgstr "Spencer nem mondott semmit, te dagadt madár. Most húzz el."
@@ -105,11 +114,11 @@ msgstr "Spencer nem mondott semmit, te dagadt madár. Most húzz el."
 msgid "Right, there is a message from Spencer, you can enter Hell Fortress. And may the source be with you!"
 msgstr "De, van egy üzenet Spencertől, beléphetsz a Pokoli Erődbe. A forráskód legyen veled!"
 
-#: HF-GateGuardLeader.dialog:110
+#: HF-GateGuardLeader.dialog:111
 msgid "Relax, I'm leaving."
 msgstr "Nyugi, elmegyek."
 
-#: HF-GateGuardLeader.dialog:112
+#: HF-GateGuardLeader.dialog:113
 msgid "You better be. AND DON'T COME BACK!"
 msgstr "Jól teszed. ÉS NE GYERE VISSZA!"
 
