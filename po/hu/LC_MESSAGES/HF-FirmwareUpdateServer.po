@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-06-21 12:24+0100\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"PO-Revision-Date: 2010-07-06 14:20+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -12,52 +12,90 @@ msgstr ""
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: HF-FirmwareUpdateServer.dialog:33
+#: HF-FirmwareUpdateServer.dialog:38
+msgid "one"
+msgstr "egy"
+
+#: HF-FirmwareUpdateServer.dialog:40
+msgid "two"
+msgstr "kettő"
+
+#: HF-FirmwareUpdateServer.dialog:42
+msgid "three"
+msgstr "három"
+
+#: HF-FirmwareUpdateServer.dialog:44
+msgid "four"
+msgstr "négy"
+
+#: HF-FirmwareUpdateServer.dialog:46
+msgid "five"
+msgstr "öt"
+
+#: HF-FirmwareUpdateServer.dialog:48
+msgid "six"
+msgstr "hat"
+
+#: HF-FirmwareUpdateServer.dialog:50
+msgid "CAPTCHA: Please write the lowercase word that answers the following: "
+msgstr "CAPTCHA: kérem írja be kisbetűkker a választ erre: "
+
+#: HF-FirmwareUpdateServer.dialog:52
+msgid "Non-human detected. Administering paralyzing shock."
+msgstr "Nem-ember detektálva. Bénító sokk eszközlése."
+
+#: HF-FirmwareUpdateServer.dialog:58
 msgid "Welcome to MS firmware upgrade server for region #54658."
 msgstr "Üdvölöllek a MS firmware upgrade szerver #54658 régióban."
 
-#: HF-FirmwareUpdateServer.dialog:34
+#: HF-FirmwareUpdateServer.dialog:59
 msgid "Please select action"
 msgstr "Kérlek, válassz műveletet"
 
-#: HF-FirmwareUpdateServer.dialog:39
+#: HF-FirmwareUpdateServer.dialog:65
 msgid "Get current OS version"
 msgstr "Jelenlegi OS verzió"
 
-#: HF-FirmwareUpdateServer.dialog:42
+#: HF-FirmwareUpdateServer.dialog:68
 msgid "Currently deployed firmware is v. 5.0.8+worldto-nogpl."
 msgstr "A jelenleg telepített firmware v. 5.0.8+worldto-nogpl."
 
-#: HF-FirmwareUpdateServer.dialog:44
+#: HF-FirmwareUpdateServer.dialog:70
 msgid "Currently deployed firmware is v. 5.0.8+tuxwashere+gpl"
 msgstr "A jelenleg telepített firmware v. 5.0.8+tuxwashere+gpl"
 
-#: HF-FirmwareUpdateServer.dialog:50
+#: HF-FirmwareUpdateServer.dialog:76
 msgid "Propagate firmware update"
 msgstr "Firmware update közzététele"
 
-#: HF-FirmwareUpdateServer.dialog:52
+#: HF-FirmwareUpdateServer.dialog:78
 msgid "Compressing image...."
 msgstr "Képfájl tömörítése..."
 
-#: HF-FirmwareUpdateServer.dialog:53
+#: HF-FirmwareUpdateServer.dialog:79
 msgid "Advertising update to clients..."
 msgstr "Frissítés kihirdetése a klienesek felé..."
 
-#: HF-FirmwareUpdateServer.dialog:54
+#: HF-FirmwareUpdateServer.dialog:80
 msgid "Waiting for all connections...."
 msgstr "Várakozás a bejövő kapcsolatokra..."
 
-#: HF-FirmwareUpdateServer.dialog:55
-#: HF-FirmwareUpdateServer.dialog:56
-msgid "..."
-msgstr "..."
-
-#: HF-FirmwareUpdateServer.dialog:57
+#: HF-FirmwareUpdateServer.dialog:83
 msgid "Firmware update propagated!"
 msgstr "Sikeres firmware upgrade közzététel!"
 
-#: HF-FirmwareUpdateServer.dialog:63
+#: HF-FirmwareUpdateServer.dialog:85
+msgid "Propagating a faulty firmware"
+msgstr "Firmware update közzététele"
+
+#: HF-FirmwareUpdateServer.dialog:85
+msgid "I managed to upload the faulty firmware to all bots within transmission range. Victory is mine!"
+msgstr "Feltöltöttem a hibás firmwarét az összes hatókörön belüli botra. Én győztem!"
+
+#: HF-FirmwareUpdateServer.dialog:89
 msgid "Logout"
 msgstr "Kijelentkezés"
+
+#~ msgid "..."
+#~ msgstr "..."
 
