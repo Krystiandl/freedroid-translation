@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-30 09:23+0100\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"PO-Revision-Date: 2010-07-05 15:50+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -11,6 +11,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Engel_sub.dialog:36
+msgid "I'm ready. Please show me how to extract bot parts. (cost 50 circuits, 1 ability point)"
+msgstr "Készen állok.Kérlek mutasd meg, hogyan bontam ki a botalkatrészeket. (50 rugóba és 1 képességponba kerül)"
 
 #: Engel_sub.dialog:55
 #: Engel_sub.dialog:60
