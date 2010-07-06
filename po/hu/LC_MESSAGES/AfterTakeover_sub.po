@@ -3,301 +3,313 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-06-23 07:57+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-07-06 11:03+0100\n"
+"Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
-"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: AfterTakeover_sub.dialog:33
 msgid ".. bot_type().."
-msgstr ""
+msgstr ".. bot_tipus().."
 
-#: AfterTakeover_sub.dialog:47 AfterTakeover_sub.dialog:50
+#: AfterTakeover_sub.dialog:47
+#: AfterTakeover_sub.dialog:50
 msgid "./est_repair.plx"
-msgstr ""
+msgstr "./szuks_javitas.plx"
 
 #: AfterTakeover_sub.dialog:59
 msgid "Repairs on "
-msgstr ""
+msgstr "Javítás be"
 
 #: AfterTakeover_sub.dialog:59
 msgid " will take less than "
-msgstr ""
+msgstr "kevesebb, mint"
 
 #: AfterTakeover_sub.dialog:59
 msgid " seconds, "
-msgstr ""
+msgstr "másodperc, "
 
 #: AfterTakeover_sub.dialog:59
 msgid " valuable circuits, and "
-msgstr ""
+msgstr "rugó, és "
 
 #: AfterTakeover_sub.dialog:59
 msgid " heat."
-msgstr ""
+msgstr " hő"
 
 #: AfterTakeover_sub.dialog:62
 msgid "You do not have enough valuable circuits to ensure repair of this "
-msgstr ""
+msgstr "Nincs elég pénzed, hogy megjavíttasd ezt a "
 
-#: AfterTakeover_sub.dialog:62 AfterTakeover_sub.dialog:154
+#: AfterTakeover_sub.dialog:62
+#: AfterTakeover_sub.dialog:154
 msgid " unit."
-msgstr ""
+msgstr " egységet."
 
 #: AfterTakeover_sub.dialog:67
 msgid " is currently undamaged."
-msgstr ""
+msgstr " pillanatnyilag sérült."
 
-#: AfterTakeover_sub.dialog:74 AfterTakeover_sub.dialog:77
+#: AfterTakeover_sub.dialog:74
+#: AfterTakeover_sub.dialog:77
 msgid "./repair.plx"
-msgstr ""
+msgstr "./javitas.plx"
 
 #: AfterTakeover_sub.dialog:78
 msgid "Repair in progress."
-msgstr ""
+msgstr "Javítás folyamatban."
 
 #: AfterTakeover_sub.dialog:79
 msgid "Logout to complete repair process."
-msgstr ""
+msgstr "Jelentkezzen ki a javítási folyamat befejezéséhez."
 
-#: AfterTakeover_sub.dialog:94 AfterTakeover_sub.dialog:97
+#: AfterTakeover_sub.dialog:94
+#: AfterTakeover_sub.dialog:97
 msgid "./settings.plx"
-msgstr ""
+msgstr "./beallitas.plx"
 
 #: AfterTakeover_sub.dialog:98
 msgid "Welcome to the settings menu."
-msgstr ""
+msgstr "Üdvözlöm a beállítás menüben."
 
 #: AfterTakeover_sub.dialog:99
 msgid "Version: 1.82c"
-msgstr ""
+msgstr "Verzió: 1.82c"
 
 #: AfterTakeover_sub.dialog:100
 msgid "No upgrades found."
-msgstr ""
+msgstr "Nem találtam frissítést."
 
 #: AfterTakeover_sub.dialog:101
 msgid "Always ask for confirmation before execution of hcf.py? [Y/N]"
-msgstr ""
+msgstr "Mindig kérjen megerősítést mielőtt a flgym.py -t futtatja? [Y/N]"
 
 #: AfterTakeover_sub.dialog:106
 msgid "Yes, always ask."
-msgstr ""
+msgstr "Igen, mindig kérjen."
 
 #: AfterTakeover_sub.dialog:109
 msgid "Confirmation will now be asked before execution of hcf.py."
-msgstr ""
+msgstr "Mostantól megerősítést kérek a flgym.py futtatása előtt."
 
-#: AfterTakeover_sub.dialog:110 AfterTakeover_sub.dialog:123
+#: AfterTakeover_sub.dialog:110
+#: AfterTakeover_sub.dialog:123
 msgid "Settings saved"
-msgstr ""
+msgstr "Beállítások elmentve"
 
 #: AfterTakeover_sub.dialog:119
 msgid "No, don't ask"
-msgstr ""
+msgstr "Nem, ne kérj."
 
 #: AfterTakeover_sub.dialog:122
 msgid "hcf.py will be executed without asking for confirmation."
-msgstr ""
+msgstr "Mostantól megerősítés nélkül futtatom a flgym.py -t."
 
-#: AfterTakeover_sub.dialog:132 AfterTakeover_sub.dialog:135
+#: AfterTakeover_sub.dialog:132
+#: AfterTakeover_sub.dialog:135
 msgid "./hostname"
-msgstr ""
+msgstr "./hostname"
 
 #: AfterTakeover_sub.dialog:136
 msgid "Welcome to the hostname menu."
-msgstr ""
+msgstr "Üdvözlöm a hostname menüben."
 
 #: AfterTakeover_sub.dialog:137
 msgid "Version: 0.15.01"
-msgstr ""
+msgstr "Verzió: 0.15.01"
 
 #: AfterTakeover_sub.dialog:138
 msgid "Current botname: [b]"
-msgstr ""
+msgstr "Jelenlegi botnév: [b]"
 
 #: AfterTakeover_sub.dialog:139
 msgid "Select new name? [Y/N]"
-msgstr ""
+msgstr "Válasz új nevet? [Y/N]"
 
-#: AfterTakeover_sub.dialog:145 AfterTakeover_sub.dialog:148
-#: AfterTakeover_sub.dialog:178 AfterTakeover_sub.dialog:181
+#: AfterTakeover_sub.dialog:145
+#: AfterTakeover_sub.dialog:148
+#: AfterTakeover_sub.dialog:178
+#: AfterTakeover_sub.dialog:181
 msgid "Yes"
-msgstr ""
+msgstr "Igen"
 
 #: AfterTakeover_sub.dialog:149
 msgid "New Name: "
-msgstr ""
+msgstr "Új Név: "
 
 #: AfterTakeover_sub.dialog:151
 msgid "Bald"
-msgstr ""
+msgstr "Konzerv"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Chic"
-msgstr ""
+msgstr "Doboz"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Fuzzy"
-msgstr ""
+msgstr "Vasdarab"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Fluffy"
-msgstr ""
+msgstr "Artu"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Cuddly"
-msgstr ""
+msgstr "Mikrobi"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Laughing"
-msgstr ""
+msgstr "Alu"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Fickle"
-msgstr ""
+msgstr "Béna"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Hyper"
-msgstr ""
+msgstr "Gyökér"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Machavellian"
-msgstr ""
+msgstr "KITT"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Happy"
-msgstr ""
+msgstr "MZ/X"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Ornery"
-msgstr ""
+msgstr "Béla"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Bunny"
-msgstr ""
+msgstr "Suttyó"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Koala"
-msgstr ""
+msgstr "Turmix"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Lemur"
-msgstr ""
+msgstr "Kenyérpirító"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Aardvark"
-msgstr ""
+msgstr "GPU"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Fox"
-msgstr ""
+msgstr "Géza"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Gnu"
-msgstr ""
+msgstr "Vallí"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Puffin"
-msgstr ""
+msgstr "Anulu"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Herring"
-msgstr ""
+msgstr "Robotzsaru"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Halibut"
-msgstr ""
+msgstr "Bádog"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Mackerel"
-msgstr ""
+msgstr "Ödön"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Trout"
-msgstr ""
+msgstr "Matyi"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Tuna"
-msgstr ""
+msgstr "Lemez"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Barracuda"
-msgstr ""
+msgstr "Izzó"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Shrew"
-msgstr ""
+msgstr "Dióda"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Bat"
-msgstr ""
+msgstr "Tranzisztor"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Kitten"
-msgstr ""
+msgstr "Kondenzátor"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Duck"
-msgstr ""
+msgstr "Tirisztor"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Platypus"
-msgstr ""
+msgstr "Termisztor"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Armadillo"
-msgstr ""
+msgstr "Kondenzátor"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Panda"
-msgstr ""
+msgstr "Nyunyó"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Hedgehog"
-msgstr ""
+msgstr "Izéke"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Otter"
-msgstr ""
+msgstr "Gyereide"
 
 #: AfterTakeover_sub.dialog:154
 msgid "Type a new name for this "
-msgstr ""
+msgstr "Gépeld be az új nevet ennek a "
 
-#: AfterTakeover_sub.dialog:159 AfterTakeover_sub.dialog:162
-#: AfterTakeover_sub.dialog:190 AfterTakeover_sub.dialog:193
+#: AfterTakeover_sub.dialog:159
+#: AfterTakeover_sub.dialog:162
+#: AfterTakeover_sub.dialog:190
+#: AfterTakeover_sub.dialog:193
 msgid "No"
-msgstr ""
+msgstr "Nem"
 
 #: AfterTakeover_sub.dialog:172
 msgid "Confirm renaming from [b]"
-msgstr ""
+msgstr "Átnevezés megerősítése erről [b]"
 
-#: AfterTakeover_sub.dialog:172 AfterTakeover_sub.dialog:182
+#: AfterTakeover_sub.dialog:172
+#: AfterTakeover_sub.dialog:182
 msgid "[/b] to [b]"
-msgstr ""
+msgstr "[b] erre [b]"
 
 #: AfterTakeover_sub.dialog:172
 msgid "[/b]? [Y/N]"
-msgstr ""
+msgstr "[b]? [Y/N]"
 
 #: AfterTakeover_sub.dialog:182
 msgid "Renamed [b]"
-msgstr ""
+msgstr "Átnevezve [b]"
 
 #: AfterTakeover_sub.dialog:184
 msgid "This "
-msgstr ""
+msgstr "Ez az "
 
 #: AfterTakeover_sub.dialog:184
 msgid " unit is now designated: [b]"
-msgstr ""
+msgstr " egység jelenlegi azonosítója: [b]"
 
 #: AfterTakeover_sub.dialog:202
 msgid "cd .."
-msgstr ""
+msgstr "cd .."
+
