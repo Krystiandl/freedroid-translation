@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-06-22 11:03+0100\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"PO-Revision-Date: 2010-07-07 11:27+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -36,6 +36,15 @@ msgstr "Megtiszteltetés újra találkozni."
 msgid "With pleasure."
 msgstr "Élvezni fogom."
 
+#: Koan.dialog:49
+#: Koan.dialog:60
+msgid "Doing Duncan a favour"
+msgstr "Szívességet tenni Duncannek"
+
+#: Koan.dialog:49
+msgid "I took revenge for Duncan by killing Koan."
+msgstr "Beteljesítettem Dundan bosszúját, megöltem Koant."
+
 #: Koan.dialog:54
 msgid "No. I have not come here to kill you."
 msgstr "Nem. Nem azért jöttem, hogy megöljelek."
@@ -51,6 +60,10 @@ msgstr "Maradj nyugodtan. Itt nem vagy veszélyben."
 #: Koan.dialog:58
 msgid "The water is safe to drink and the fruit from the tree is quite delicious."
 msgstr "A víz friss és iható, a fákon termő gyümölcsök ízletesek."
+
+#: Koan.dialog:60
+msgid "I met and talked to Koan, but didn't kill him."
+msgstr "Találkoztam és beszéltem Koannal, de nem öltem meg."
 
 #: Koan.dialog:65
 msgid "What is this place? Why is there grass and water under the desert?"
