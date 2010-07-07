@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-06-22 11:16+0100\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"PO-Revision-Date: 2010-07-07 11:28+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -39,6 +39,10 @@ msgstr "De kereskedünk fegyverekkel és némi lőszerrel is."
 #: Lukas.dialog:54
 msgid "Now, what will it be?"
 msgstr "Na, melyik legyen?"
+
+#: Lukas.dialog:54
+msgid "So, what do you want to buy?"
+msgstr "Nos, mit akarsz vásárolni?"
 
 #: Lukas.dialog:60
 msgid "What do you do all day here at the armory?"
