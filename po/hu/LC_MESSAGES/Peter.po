@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-06-22 14:12+0100\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"PO-Revision-Date: 2010-07-07 11:40+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -16,9 +16,21 @@ msgstr ""
 msgid "Hello."
 msgstr "Helló."
 
+#: Peter.dialog:39
+msgid "Hi there."
+msgstr "Szevasz!"
+
 #: Peter.dialog:40
 msgid "Well, hello again."
 msgstr "Hát, üdv újra."
+
+#: Peter.dialog:40
+msgid "Hello hello."
+msgstr "Helló, helló."
+
+#: Peter.dialog:40
+msgid "Welcome back."
+msgstr "Üdv újra."
 
 #: Peter.dialog:46
 msgid "Why are you here?"
