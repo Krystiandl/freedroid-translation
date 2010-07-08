@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-06-23 07:57+0000\n"
-"PO-Revision-Date: 2010-07-08 15:45+0100\n"
+"PO-Revision-Date: 2010-07-08 15:56+0100\n"
 "Last-Translator: Angelika Maria Piątkowska <piatkosia.apt@interia.pl>\n"
 "Language-Team: freedroid team\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgstr "A, nowy. Wnioskuję że zostałeś raczej ostro potraktowany przez mojeg
 
 #: Town-TeleporterGuard.dialog:44
 msgid "So, stranger, welcome here. You might want to talk to Chandra or to Spencer, they can tell you a lot about our current situation."
-msgstr "Więc, opcy, witamy u nas. Możesz pogadać z Chandrą lub to Spencerem, powiedzą ci sporo o naszej aktualnej sytuacji."
+msgstr "Więc, obcy, witamy u nas. Możesz pogadać z Chandrą lub to Spencerem, powiedzą ci sporo o naszej aktualnej sytuacji."
 
 #: Town-TeleporterGuard.dialog:45
 msgid "The city is presently ruled by the Red Guard. We are the police and the soldiers here."
