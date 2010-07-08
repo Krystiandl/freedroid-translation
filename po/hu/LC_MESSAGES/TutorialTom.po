@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-07-07 15:24+0100\n"
+"PO-Revision-Date: 2010-07-08 14:45+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -495,798 +495,798 @@ msgstr "A páncélodat alkotó nanotechnológia alkalmazásával olyan italokat 
 
 #: TutorialTom.dialog:285
 msgid "There are many kinds, but all accomplish the same thing, to varying degrees."
-msgstr ""
+msgstr "Sokféle van, és ugyanolyan módon hatnak, csak a hatás mértéke változik."
 
 #: TutorialTom.dialog:286
 msgid "Certain items, like health drinks, can be used directly without clicking on them."
-msgstr ""
+msgstr "Néhány dolog, mint például a gyógyitalok is, direkt módon is felhasználhatók, azaz nem kell kattintani rájuk."
 
 #: TutorialTom.dialog:287
 msgid "At the bottom of your HUD, you'll notice your item access belt. Small items can go here and be used by pressing the numbers 0 through 9."
-msgstr ""
+msgstr "A képernyőd alján egy eszköztartó övet láthatsz. Kisebb tárgyakat tehetsz ide, és használhatod őket az 1 től 9 ig terjedő gombok megnyomásával."
 
 #: TutorialTom.dialog:288
 msgid "Unlike armor or weapons, multiple of these items will group together in your inventory slots."
-msgstr ""
+msgstr "A páncéllal és a fegyverekkel ellentétben ezek az eszközök kötegelve tárolódnak a felszerelésedben."
 
 #: TutorialTom.dialog:289
 msgid "If you have Diet Supplements equipped in item slot 1, you can press 1 to use one."
-msgstr ""
+msgstr "Ha az 1-es tárolódban TáplálékKiegészítőd van, akkor az 1-es gomb megnyomásával felhasználsz belőlük egyet."
 
 #: TutorialTom.dialog:290
 msgid "This will restore your health, and will be invaluable in the heat of battle."
-msgstr ""
+msgstr "Ez visszaállítja az egészségedet, de csata közben nem tudod használni."
 
 #: TutorialTom.dialog:295
 msgid "I'm ready to fight my first bot."
-msgstr ""
+msgstr "Kész vagyok, hogy megküzdjek az első botommal."
 
 #: TutorialTom.dialog:297
 msgid "We keep two bots captive for melee practice."
-msgstr ""
+msgstr "Tartunk két botot a közelharc gyakorlására."
 
 #: TutorialTom.dialog:298
 msgid "I've unlocked the door leading to the first bot. Take care of it, then come back and talk to me."
-msgstr ""
+msgstr "Kinyitottam az ajtót, ami az elsőhöz vezet. Legyen rá gondod, azután gyere vissza és beszéljük meg."
 
 #: TutorialTom.dialog:299
 msgid "I'm also giving you some health drinks. Feel free to use them, though I can heal you if you need it."
-msgstr ""
+msgstr "És adok neked némi gyógyitalt is. Nyugodtan használd, ha szükséged van rá."
 
 #: TutorialTom.dialog:300
 msgid "Your health will also regenerate over time. I wish it were so easy for us humans."
-msgstr ""
+msgstr "Az egészséged idővel magától is visszaáll. Jó lenne, ha nálunk, embereknél is így működne."
 
 #: TutorialTom.dialog:301
 msgid "The first bot is carrying an Entropy Inverter . Bring it to me to prove you've beaten it."
-msgstr ""
+msgstr "Az első botnál van egy Entrópia Inverter. Hozd el nekem és bizonyítsd, hogy agyonütötted."
 
 #: TutorialTom.dialog:302
 msgid "Come back and talk to me when you have the Entropy Inverter."
-msgstr ""
+msgstr "Gyere vissza akkor, ha nálad lesz az Entrópia Inverter."
 
 #: TutorialTom.dialog:312
 msgid "Can you heal me?"
-msgstr ""
+msgstr "Meg tudsz gyógyítani?"
 
 #: TutorialTom.dialog:314
 msgid "You should be more careful, Linarian. But yes, I can heal you."
-msgstr ""
+msgstr "Jóval elővigyázatosabbnak kell lenned, Lináriai. Ám igen, meg tudlak gyógyítani."
 
 #: TutorialTom.dialog:315
 msgid "There, all better."
-msgstr ""
+msgstr "Tessék. Így már jobb lesz."
 
 #: TutorialTom.dialog:320
 msgid "I've beaten the first bot."
-msgstr ""
+msgstr "Agyonütöttem az első botot."
 
 #: TutorialTom.dialog:323
 msgid "So you have. Well done."
-msgstr ""
+msgstr "Szóval sikerült. Jól van."
 
 #: TutorialTom.dialog:324
 msgid "I'll trade you this wrench for it. I think you'll find it handy."
-msgstr ""
+msgstr "Adok érte egy nagy franciakulcsot. Szerintem hasznos lesz."
 
 #: TutorialTom.dialog:325
 msgid "Now would be an appropriate time to mention bot parts, I guess."
-msgstr ""
+msgstr "Most pedig szánjunk egy kis időt a bot alkatrészekre."
 
 #: TutorialTom.dialog:326
 msgid "Certain parts in the bots are extra valuable. You can sell them at stores for cash."
-msgstr ""
+msgstr "A botok bizonyos részei kiválóan hasznosíthatók. Eladhatod őket a boltokban jó pénzért."
 
 #: TutorialTom.dialog:327
 msgid "If you can learn to extract these parts, it can help improve your lot in the world."
-msgstr ""
+msgstr "Ha megtanulod, hogyan kell kiszerelni őket, akkor az nagyban segítheti az anyagi helyzetedet."
 
 #: TutorialTom.dialog:328
 msgid "Hopefully, you can find someone to teach you."
-msgstr ""
+msgstr "Remélem, találsz majd valakit, aki meg tud erre tanítani."
 
 #: TutorialTom.dialog:333
 msgid "Trying to cheat your way through the tutorial doesn't bode well for your chances in the real world."
-msgstr ""
+msgstr "Ha csalással próbálkozol a kiképzés alatt, az nem fog segíteni neked odakint az igazi világban."
 
 #: TutorialTom.dialog:334
 msgid "I'll need proof that you've beaten the first bot."
-msgstr ""
+msgstr "Bizonyítsd, hogy agyonvágtad az első botot."
 
 #: TutorialTom.dialog:335
 msgid "Don't come back without the Entropy Inverter it was carrying."
-msgstr ""
+msgstr "Ne gyere vissza az Entrópia Inverter nélkül, ami nála van."
 
 #: TutorialTom.dialog:341
 msgid "You mentioned another bot?"
-msgstr ""
+msgstr "Említettél egy másik botot is?"
 
 #: TutorialTom.dialog:343
 msgid "That's correct. The second bot is a lot more dangerous, and you're not likely to make much headway against it with your fists."
-msgstr ""
+msgstr "Igen. A második bot jóval veszélyesebb, nem célszerű puszta kézzel közelharcba bocsátkoznod vele."
 
 #: TutorialTom.dialog:344
 msgid "Lucky for you, there's another dimension to melee combat."
-msgstr ""
+msgstr "Szerencsédre a közelharcnak sokféle módja van."
 
 #: TutorialTom.dialog:345
 msgid "Fighting bots with your fists is fine, but there are a number of items you can use for melee."
-msgstr ""
+msgstr "Az ökölharc jó, de sokféle ezközt használhatsz ütőfegyverként."
 
 #: TutorialTom.dialog:346
 msgid "There are several traditional weapons in the world such as swords or light sabers that can be used against the bots."
-msgstr ""
+msgstr "Van néhány tradícionális fegyver, mint például kardok, és fényszablyák, amiket bevethetsz a botok ellen."
 
 #: TutorialTom.dialog:347
 msgid "However, more common items you encounter everyday can often be used to bash or pry at droid armor."
-msgstr ""
+msgstr "Mindazonáltal ezeknél sokkal egyszerűbb tárgyak is használhatók, hogy bezúzz egy droid páncélzatot."
 
 #: TutorialTom.dialog:348
 msgid "For example, that wrench I just gave you will increase the damage you do, and should let you best the next bot."
-msgstr ""
+msgstr "Például, az a csavarkulcs, amit adtam, megnöveli az okozott sebzést, és nagyobb eséllyel jutsz el a következő botig."
 
 #: TutorialTom.dialog:353
 msgid "I'm ready to take the next bot on."
-msgstr ""
+msgstr "Készen állok a következő botra."
 
 #: TutorialTom.dialog:355
 msgid "I certainly hope so. I will heal you before you go to the next room."
-msgstr ""
+msgstr "Remélem is. Meggyógyítelek, mielőtt a következő szobába lépnél."
 
 #: TutorialTom.dialog:356
 msgid "I'm also giving you another healing drink, just in case."
-msgstr ""
+msgstr "Adok neked még egy gyógyitalt, szükség esetére."
 
 #: TutorialTom.dialog:357
 msgid "A 247 is nothing to trifle with, so I'm giving you a shield in the hopes that it'll help keep you alive."
-msgstr ""
+msgstr "A 247-es nem olyan, amivel játszadozni lehet, ezért adok egy pajzsot, ami segít életben maradni."
 
 #: TutorialTom.dialog:358
 msgid "Finally, I'm giving you couple of somewhat experimental pills that will temporarily increase your strength and dexterity, respectively."
-msgstr ""
+msgstr "És végül adok pár kapszulát, ami időlegesen megnöveli az erődet és az ügyességedet."
 
 #: TutorialTom.dialog:359
 msgid "Use them in the same way you would use a health drink."
-msgstr ""
+msgstr "Használd ugyanúgy, mint ahogy a gyógyitalt kell."
 
 #: TutorialTom.dialog:360
 msgid "If I were you, I would think about using your repair equipment program on your armor and that wrench before you go into the room."
-msgstr ""
+msgstr "Ha a helyedben lennék, akkor használnám az Eszközjavító Programot, hogy feljavítsd a páncélodat és a franciakulcsot, mielőtt bemennék a szobába."
 
 #: TutorialTom.dialog:361
 msgid "You'll also need to equip them. I won't do that for you."
-msgstr ""
+msgstr "És magadra is kell öltened őket. Ezt nem tehetem meg helyetted."
 
 #: TutorialTom.dialog:362
 msgid "Like the last bot, this one will be carrying an item. Bring me the Tachyon Condensator it is carrying to continue."
-msgstr ""
+msgstr "Mint az előző bot, ez is egy eszközt hordoz. Hozd el nekem a Tachyon Kondenzátort, és utána folytatjuk."
 
 #: TutorialTom.dialog:363
 msgid "I've unlocked the door. Good luck, and talk to me when you have the Tachyon Condensator."
-msgstr ""
+msgstr "Kinyitottam az ajtót. Sok szerencsét, és ne felejtsd el elhozni a Tachyon Kondenzátort."
 
 #: TutorialTom.dialog:375
 msgid "I've beaten the second bot."
-msgstr ""
+msgstr "Leütöttem a második botot."
 
 #: TutorialTom.dialog:378
 msgid "Very good! You've completed your melee training."
-msgstr ""
+msgstr "Nagyszerű! Elvégezted a közelharc tanfolyamot."
 
 #: TutorialTom.dialog:379
 msgid "These skills will serve you well in the future."
-msgstr ""
+msgstr "Ez a képesség nagyon jól fog szolgálni a jövőben."
 
 #: TutorialTom.dialog:380
 msgid "As a reward, I'm trading you a .22 Automatic pistol for that Tachyon Condensator."
-msgstr ""
+msgstr "A Tachyon Kondenzátorért cserébe adok neked egy .22-es automata pisztolyt."
 
 #: TutorialTom.dialog:381
 msgid "Talk to me when you're ready to move on to the next part of the tutorial."
-msgstr ""
+msgstr "Akkor beszéljünk, ha készen állsz a kiképzés következő állomására."
 
 #: TutorialTom.dialog:388
 msgid "You didn't bring back the Tachyon Condensator. You'll need to bring it back before we can continue."
-msgstr ""
+msgstr "Nem hoztad el a Tachyon Kondenzátort.  El kell hoznod, ha tovább szeretnél menni."
 
 #: TutorialTom.dialog:389
 msgid "I'll go ahead and heal you. If your weapon or armor are in bad shape, perhaps you should repair them before going back in there."
-msgstr ""
+msgstr "Előremegyek, és meggyógyítalak. Ha a fegyvered vagy a páncélod megsérül, talán meg kéne javítani mielőtt visszajössz ide."
 
 #: TutorialTom.dialog:390
 msgid "Don't come back without the Tachyon Condensator."
-msgstr ""
+msgstr "Ne gyere vissza a Tachyon Kondenzátor nélkül."
 
 #: TutorialTom.dialog:397
 #: TutorialTom.dialog:490
 msgid "I'm ready to move on."
-msgstr ""
+msgstr "Készen állok az indulásra."
 
 #: TutorialTom.dialog:400
 msgid "I'll bet you're itching to try that pistol out on some bots."
-msgstr ""
+msgstr "Javaslom, próbáld ki azt a pisztolyt valami boton."
 
 #: TutorialTom.dialog:401
 msgid "Our next destination is the ranged combat training area, so you're in luck."
-msgstr ""
+msgstr "A következő állomásunk a lőkiképzési terület, szóval szerencsés vagy."
 
 #: TutorialTom.dialog:403
 msgid "I'll unlock the door to the south. Follow the corridor east to the shooting range."
-msgstr ""
+msgstr "Kinyitom a déli kaput. Kövesd a folyosót kelet felé, a lőtérre."
 
 #: TutorialTom.dialog:410
 msgid "Ranged weaponry seems safer than getting up close and personal."
-msgstr ""
+msgstr "A lőfegyverek biztonságosabbnak tűnnek, mint a közelharc."
 
 #: TutorialTom.dialog:412
 msgid "Well, Linarian, most of the time, it is."
-msgstr ""
+msgstr "Hát, Lináriai, ez a legtöbb esetben így is van."
 
 #: TutorialTom.dialog:413
 msgid "There are some bots with ranged weaponry, but we don't have any of those in captivity."
-msgstr ""
+msgstr "Van néhány lőfegyverrel felszerelt bot, de azokból nem tartunk fogyva egyet sem."
 
 #: TutorialTom.dialog:418
 msgid "So what can you tell me about guns?"
-msgstr ""
+msgstr "És mit tudsz mondani a lőfegyverekről?"
 
 #: TutorialTom.dialog:420
 msgid "The basic idea behind ranged weaponry is to hurt or kill an enemy without having to come in swinging range."
-msgstr ""
+msgstr "A lőfegyverek alaprendeltetése, hogy úgy sebezd, vagy öld meg az ellenséget, hogy ütőtávolságon kívül maradj."
 
 #: TutorialTom.dialog:421
 msgid "There are three basic ways to do this: traditional firearms, lasers, and plasma weapons."
-msgstr ""
+msgstr "Ennek háromféle módja van: hagyományos lőfegyverek, lézerek és plazma fegyverek."
 
 #: TutorialTom.dialog:422
 msgid "Traditional firearms are things that go bang. A small explosion accelerates the ammunition towards the target at a high velocity, causing injury."
-msgstr ""
+msgstr "A hagyományos fegyverek azok, amelyek nagyot durrannak. Egy kisebb robbanás lövi ki a lövedéket nagy sebességgel a cél irányába, sérülést okozva ezzel."
 
 #: TutorialTom.dialog:423
 msgid "Lasers use an intensified beam of light to burn through the intended victim. These operate on replaceable charge packs."
-msgstr ""
+msgstr "A lézer egy intenzív fénysugár, amely átégeti az áldozatot. Ezek cserélhető töltettel működnek."
 
 #: TutorialTom.dialog:424
 msgid "Plasma weapons use superheated ionized gas to burn the target. The gas comes in loadable canisters."
-msgstr ""
+msgstr "A plazma fegyverek szuperforró ionizált gázt használnak a célpont megégetésére. A gáz tölthető tartályokból származik."
 
 #: TutorialTom.dialog:425
 msgid "Most other ranged weapons are variations of these three. We have a few in storage for training purposes."
-msgstr ""
+msgstr "A legtöbb tűzfegyver ezek valamelyik variációja. Van néhány raktáron gyakorlás céljából."
 
 #: TutorialTom.dialog:430
 msgid "So how do I use guns?"
-msgstr ""
+msgstr "Szóval, hogyan használjam a fegyvereket?"
 
 #: TutorialTom.dialog:432
 msgid "Well, firing is pretty simple. First, equip a ranged weapon that you have ammunition for."
-msgstr ""
+msgstr "Nos, a tüzelés elég egyszerű. Először is kézbe veszed a lőfegyvert, amihez van lőszered is."
 
 #: TutorialTom.dialog:433
 msgid "Next, simply left click on your target, and you'll begin firing."
-msgstr ""
+msgstr "Most egyszerűen kattints bal gombbal a célra és elkezdesz tüzelni."
 
 #: TutorialTom.dialog:434
 msgid "Alternatively, you can select the Fire Weapon program, and right click on the enemy."
-msgstr ""
+msgstr "Ezen kívül kiválaszthatod a Lőfegyver Programot, és akkor jobbklikkelj az ellenségre."
 
 #: TutorialTom.dialog:435
 msgid "That is the best way if you are trying to conserve precious ammo with high rate of fire guns."
-msgstr ""
+msgstr "Ez a legjobb módja, hogy spórolj a lőszerrel, főleg, ha nagy tűzgyorsaságú fegyvert használsz."
 
 #: TutorialTom.dialog:436
 msgid "There are a couple of new tricks with ranged weapons. If you want to move while firing, simply hold shift and left click your desired position."
-msgstr ""
+msgstr "Van egy pár lövés közbeni trükk is. Ha tüzelés közben menni akarsz, akkor egyszerűen tartsd lenyomva a shift gombot és balklikkelj oda, ahová menni akarsz."
 
 #: TutorialTom.dialog:437
 msgid "If you'd rather stay in place, Hold A, then left click your target."
-msgstr ""
+msgstr "Ha inkább helyben maradnál, akkor tartsd elnyomva az A gombot, és klikkelj a célpontra."
 
 #: TutorialTom.dialog:438
 msgid "When your weapon runs out of ammo during combat, it will try to automatically reload if you have extra ammunition for it."
-msgstr ""
+msgstr "Ha a fegyver kiürül csata közben, megpróbálja újratölteni magát, ha van hozzávaló lőszered."
 
 #: TutorialTom.dialog:439
 msgid "Sometimes, you will need or want to manually reload. You can do this by pressing R."
-msgstr ""
+msgstr "Néha manuálisan kell újratöltened. Ezt az R gombbal tudod megtenni."
 
 #: TutorialTom.dialog:444
 msgid "I think I understand how to use guns now."
-msgstr ""
+msgstr "Azt hiszem, már értem, hogyan használjak fegyvert."
 
 #: TutorialTom.dialog:446
 msgid "In that case, I'll let you in to the armory. There are some crates and chests in there with weapons and ammunition."
-msgstr ""
+msgstr "Azért én beengedlek a raktárba. Van ott pár láda és doboz, lőszerrel és fegyverekkel."
 
 #: TutorialTom.dialog:447
 msgid "Be careful though, smashing open crates and barrels could hurt you."
-msgstr ""
+msgstr "Ám légy óvatos, mert a dobozok és hordók feltörésénél te is megsérülhetsz."
 
 #: TutorialTom.dialog:449
 msgid "You already got the .22 pistol I gave you earlier when destroying that 247. It's not much as guns go, but it can do the trick."
-msgstr ""
+msgstr "Már nálad van a .22-es pisztoly, amit a 247-es lezúzásáért kaptál. Nem nagy fegyver, de azért megteszi."
 
 #: TutorialTom.dialog:451
 msgid "Here's my personal .22 Automatic pistol. It's not much as guns go, but it can do the trick."
-msgstr ""
+msgstr "Tessék, itt van a saját .22-es automata pisztolyom. Nem nagy fegyver, de azért megteszi."
 
 #: TutorialTom.dialog:454
 msgid "Here is some more ammunition for it"
-msgstr ""
+msgstr "Tessék, itt van hozzá még egy kis lőszer."
 
 #: TutorialTom.dialog:457
 msgid "You'll no doubt get more mileage out of the plasma pistol, though. Or any other gun, for that matter."
-msgstr ""
+msgstr "Ne várj nagyobb hatótávolságot a plazmapisztolytól. És a többi pisztolytól se nagyon."
 
 #: TutorialTom.dialog:458
 msgid "Practice switching weapons and reloading."
-msgstr ""
+msgstr "Gyakorold a fegyverváltást és az újratöltést."
 
 #: TutorialTom.dialog:459
 msgid "On the other side of that fence are some bots. Practice killing them off with various ranged weapons."
-msgstr ""
+msgstr "Ott, a kerítés túloldalán van néhány bot. Gyakorold a szétlövésüket különböző lőfegyverekkel."
 
 #: TutorialTom.dialog:460
 msgid "Once you've gotten rid of them all, we can move on."
-msgstr ""
+msgstr "Ha mindet kivégezted, mehetünk tovább."
 
 #: TutorialTom.dialog:472
 msgid "I killed all the bots."
-msgstr ""
+msgstr "Megöltem az összes botot."
 
 #: TutorialTom.dialog:475
 msgid "Excellent job."
-msgstr ""
+msgstr "Kiváló munka."
 
 #: TutorialTom.dialog:476
 msgid "Keep shooting like that, and the bots will never stand a chance, as long as you still have ammo."
-msgstr ""
+msgstr "Tüzelj folyamatosan,. és a botoknak nem lesz esélyük. Már amíg tart a lőszered."
 
 #: TutorialTom.dialog:477
 msgid "Next, we'll be moving on to learning the TakeOver program."
-msgstr ""
+msgstr "A következő a Feltörő Program megtanulása lesz."
 
 #: TutorialTom.dialog:478
 msgid "But first, you'll need to give me your weapons."
-msgstr ""
+msgstr "De először oda kell adnod a fegyvereidet."
 
 #: TutorialTom.dialog:479
 msgid "Put all your ranged weapons in your inventory, then talk to me and we'll move on."
-msgstr ""
+msgstr "Tedd az összes fegyveredet a felszerelésed közé, utána beszéljünk és indulunk tovább."
 
 #: TutorialTom.dialog:484
 msgid "I don't mind if you don't want to do this, but please don't try to trick me."
-msgstr ""
+msgstr "Nem érdekel, ha nem tetszik, és kérlek ne akarj átverni."
 
 #: TutorialTom.dialog:485
 msgid "I don't have verified kills on all those bots, so you're not moving on."
-msgstr ""
+msgstr "Nem ölted meg az összes botot, ezért még nem megyünk tovább."
 
 #: TutorialTom.dialog:493
 msgid "Thank you, Linarian. We'll now move on to hacking."
-msgstr ""
+msgstr "Köszönöm, Lináriai. Most megyünk hackelni."
 
 #: TutorialTom.dialog:501
 msgid "I'll need you to surrender your guns. Unequip them all, then talk to me again."
-msgstr ""
+msgstr "Át kell adnod a fegyvereidet. Tedd vissza őket a felszerelésedbe, és beszéljünk megint."
 
 #: TutorialTom.dialog:502
 msgid "You will need to have the guns in your inventory to give them to me, so if you dropped them, please go get them."
-msgstr ""
+msgstr "A fegyfereknek a felszerelésedben kell lenniük, hogy vissza tudd adni, szóval, ha eldobtad őket, akkor szedd össze megint."
 
 #: TutorialTom.dialog:503
 msgid "That includes the laser and plasma pistols in the storage room to the west."
-msgstr ""
+msgstr "Vannak lézer és plazma fegyverek is a raktárban, nyugat felé."
 
 #: TutorialTom.dialog:509
 msgid "I'd rather just move on to the next section of the tutorial."
-msgstr ""
+msgstr "Csak tovább szeretnék menni a kiképzés következő állomására."
 
 #: TutorialTom.dialog:511
 msgid "As you wish, Linarian."
-msgstr ""
+msgstr "Ahogy kívánod, Lináriai."
 
 #: TutorialTom.dialog:520
 msgid "Why are we stopping?"
-msgstr ""
+msgstr "Miért álltunk meg?"
 
 #: TutorialTom.dialog:522
 msgid "You've done well so far, Linarian. Let's take a little break."
-msgstr ""
+msgstr "Eddig jól teljesítettél, Lináriai. Tartsunk egy kis szünetet."
 
 #: TutorialTom.dialog:523
 msgid "Once you get out into the real world, you'll find that your current abilities aren't always enough to survive."
-msgstr ""
+msgstr "Ha kimész a való világba, rájössz, hogy a megszerzett képességek nem mindig elégségesek a túléléshez."
 
 #: TutorialTom.dialog:524
 msgid "As you achieve combat experience, you'll be able to apply it to better yourself."
-msgstr ""
+msgstr "Ahogy szerzel némi harci tapasztalati pontot, azt felhasználhatod, hogy fejleszd magad."
 
 #: TutorialTom.dialog:525
 msgid "As with most things, you view this as a panel in your HUD. Press C to open the Character panel."
-msgstr ""
+msgstr "Mint sok egyebet, ezt is láthatod a képernyődön. Nyomd meg a C gombot a Karakter panelhez."
 
 #: TutorialTom.dialog:526
 msgid "Once you've gained enough experience, you'll level up. This will automatically improve some of your statistics."
-msgstr ""
+msgstr "Ha elég tapasztalatot szerzel, szintet ugrasz. Ez automatikusan növeli néhány statisztikádat."
 
 #: TutorialTom.dialog:527
 msgid "You'll also be given 5 points to spend however you choose in three different areas. Characteristics, Skills and Programs."
-msgstr ""
+msgstr "Kapsz még 5 pontot is, amelyet három különböző területre használhatsz fel: Karakter, Képesség és Programok."
 
 #: TutorialTom.dialog:528
 msgid "Strength governs the amount of damage you do with each hit in melee combat."
-msgstr ""
+msgstr "Az erő növeli a közelharcban bevitt találatok sebzését."
 
 #: TutorialTom.dialog:529
 msgid "Dexterity controls your hit rate, or how likely you are to hit the enemy. It also determines how likely you are to dodge a hit from them."
-msgstr ""
+msgstr "Az ügyesség befolyásolja a találati pontosságot, és azt, hogy hol találod el az ellenséget. Ugyancsak meghatározza, hogy mennyire vagy képes kitérni a támadás elől."
 
 #: TutorialTom.dialog:530
 msgid "CPU is your processors cooling. or heat resilience, and determines how much you can process before your system starts overheating."
-msgstr ""
+msgstr "A CPU a processzorod hűtése, azaz hőmérséklettűrése, amely meghatározza a számítási teljesítményedet, amit túlmelegedés nélkül bírsz."
 
 #: TutorialTom.dialog:531
 msgid "Finally, among your main characteristics, Life determines how much health you have."
-msgstr ""
+msgstr "És végül az életfunkció karakterisztikád, az életerő mutatja meg az egészségedet."
 
 #: TutorialTom.dialog:532
 msgid "You also have 3 main skills that you can improve with the use of your training points and a teacher."
-msgstr ""
+msgstr "Van három fő képességed, amit képességpontokkal vagy tanárok segítségével növelhetsz."
 
 #: TutorialTom.dialog:533
 msgid "They are general Melee and Ranged fighting skills, both of which increase the damage you inflict and how fast you attack as you improve them."
-msgstr ""
+msgstr "Van az általános Közelharc és Tűzharc képesség, amelyek növekedésével növekszik a találataid sebzése és a sebessége."
 
 #: TutorialTom.dialog:534
 msgid "You also have the Programming skill, which essentially is about programming in an energy efficient manner so programs cause less heat."
-msgstr ""
+msgstr "Van Programozói képesség, amely a programozás, mint nagyon nagy hőkibocsátó tevékenységet teszi hatékonyabbá, hogy kevesebb hő szabaduljon fel."
 
 #: TutorialTom.dialog:535
 msgid "Apart from this, a few programs require a teacher and training points to improve."
-msgstr ""
+msgstr "Ezeken kívül van pár program, aminek fejlesztéséhez tanítómesterre és képességpontokra lesz szükséged."
 
 #: TutorialTom.dialog:536
 msgid "Extract bot parts is a special passive skill that will allow you to salvage parts from bots you 'retire', which you can trade for money in the town."
-msgstr ""
+msgstr "A Botalkatrészek Kiszerelése egy passzív képesség, amely automatikusan működik, biztosítva, hogy a 'hűvösre tett' botokból kinyert alkatrészeket eladhasd a piacon."
 
 #: TutorialTom.dialog:537
 msgid "The Hacking program we will speak a bit more of in a little while."
-msgstr ""
+msgstr "A Feltörő programról pedig mindjárt szólok bővebben is."
 
 #: TutorialTom.dialog:544
 msgid "Well, how about you try it out?"
-msgstr ""
+msgstr "Szóval, ki szeretnéd próbálni?"
 
 #: TutorialTom.dialog:545
 msgid "I'll give you some points to spend, and you can distribute them as you like."
-msgstr ""
+msgstr "Adok neked pár képességpontot és úgy osztod el, ahogyan akarod."
 
 #: TutorialTom.dialog:546
 msgid "Since you'll be hacking up ahead, you should probably use a few of them on CPU."
-msgstr ""
+msgstr "Mivel a hackelés még előtted áll, talán felhasznál párat a CPU-ra."
 
 #: TutorialTom.dialog:547
 msgid "But, again, that's your choice."
-msgstr ""
+msgstr "De még egyszer, ez a te döntésed."
 
 #: TutorialTom.dialog:554
 msgid "Alright, I'm ready to go hack some bots."
-msgstr ""
+msgstr "Rendben, készen állok pár bot hackelésére."
 
 #: TutorialTom.dialog:556
 msgid "I'll unlock the door then. Talk to me in the next area."
-msgstr ""
+msgstr "Akkor kinyitom az ajtót. A következő helyszínen beszélünk."
 
 #: TutorialTom.dialog:563
 msgid "So how does this work?"
-msgstr ""
+msgstr "Szóval, hogy működik?"
 
 #: TutorialTom.dialog:565
 msgid "We talked about programs before. Now, we're going to focus on hacking programs in particular."
-msgstr ""
+msgstr "Beszéltünk nemrég a programokról. Most a feltörő programokra fogunk koncentrálni."
 
 #: TutorialTom.dialog:566
 msgid "As I mentioned before, your brain works in a way remarkably similar to a central processing unit."
-msgstr ""
+msgstr "Ahogy nemrég említettem, az agyad egy számítógép processzorához hasonlatosan működik."
 
 #: TutorialTom.dialog:567
 msgid "In many ways, you interact with the world around you as a virtual environment."
-msgstr ""
+msgstr "Különböző módokon lépsz kapcsolatba a téged körülvevő világgal, amit virtuális környezetként kezelsz."
 
 #: TutorialTom.dialog:568
 msgid "You seem to have access to an API that isn't exposed to humans. You can interact with the environment in ways we only dream of."
-msgstr ""
+msgstr "Oly módon csatlakozol a kezelőfelülethez, ami az embereknek nem adatott meg. Úgy tudsz tevékenykedni a környezetedben, amiről az emberek csak álmodnak."
 
 #: TutorialTom.dialog:569
 msgid "Because of this, you can run various programs on the bots."
-msgstr ""
+msgstr "Emiatt képes vagy többféle programot futtatni a botokon."
 
 #: TutorialTom.dialog:570
 msgid "You can attempt to take them over, or monkey with their programming, or even cause them to damage themselves."
-msgstr ""
+msgstr "Át tudod venni felettük az uralmat, megkutyulhatod a programjukat, vagy elérheted, hogy kárt tegyenek magukban."
 
 #: TutorialTom.dialog:571
 msgid "Likewise, there are certain programs that affect you or items around you."
-msgstr ""
+msgstr "Szóval, van pár program, ami vagy rád hat, vagy a körülötted levő dolgokra."
 
 #: TutorialTom.dialog:576
 msgid "Tell me about taking bots over."
-msgstr ""
+msgstr "Mesélj nekem a botok feltöréséről."
 
 #: TutorialTom.dialog:578
 msgid "I'm afraid that you will have to experience it for yourself to really understand."
-msgstr ""
+msgstr "Attól tartok, hogy önállóan kell megtapasztalnod, hogy igazán megértsd."
 
 #: TutorialTom.dialog:579
 msgid "However, you did leave yourself instructions before you went into stasis sleep."
-msgstr ""
+msgstr "Mindazonáltal hagytál magadnak útmutatókat mielőtt sztázisalvásba mentél."
 
 #: TutorialTom.dialog:580
 msgid "Takeover, or hacking, comes in the form of a game or competition placing you against the bot."
-msgstr ""
+msgstr "A feltörés, vagy hackelés egy játék, vagy inkább vetélkedő helyzetbe tesz téged a bottal szemben."
 
 #: TutorialTom.dialog:581
 msgid "You initiate it by selecting the Hacking program, then right-clicking on a hostile bot."
-msgstr ""
+msgstr "A Hacker program futtatásával indíthatod a folyamatot, majd kattints az ellenséges botra."
 
 #: TutorialTom.dialog:582
 msgid "The field of play is split into two sides, one green, one maroon, representing circuit boards."
-msgstr ""
+msgstr "A játékmező két oldalra oszlik, egy zöld és egy sárgás, és ezek áramköröket szimbolizálnak."
 
 #: TutorialTom.dialog:583
 msgid "In the center of the field is a column of boxes known as logic cores. These cores have wires attached to them from both circuit boards."
-msgstr ""
+msgstr "A mező közepén egy kockákból álló oszlop van, mint a logikai magok. Ezek a magok vezetékekkel csatlakoznak a két oldalhoz."
 
 #: TutorialTom.dialog:584
 msgid "Your objective is to activate as many cores in your chosen color as possible at the end of each round."
-msgstr ""
+msgstr "A feladatod az, hogy az általad választott színűre aktiválj annyi ilyen magot amennyit csak tudsz."
 
 #: TutorialTom.dialog:585
 msgid "This is accomplished by selecting a wire with the up or down buttons, then pressing spacebar to activate that core."
-msgstr ""
+msgstr "Ezt úgy tudod kivitelezni, hogy a fel - le gombok segítségével kiválasztod a vezetéket, majd megnyomod a szóköz gombot az aktiválásához."
 
 #: TutorialTom.dialog:586
 msgid "You will be given about 10 seconds initially to select which color you want with spacebar."
-msgstr ""
+msgstr "Kapsz körülbelül 10 másodpercet, hogy kiválaszd a színedet a jobb - bal gombbal, majd a szőközzel rögzítsd."
 
 #: TutorialTom.dialog:587
 msgid "At that point, you have 10 more seconds in which to activate more cores than the bot."
-msgstr ""
+msgstr "Ettől a pillanattól van további 10 másodperced, hogy több magot aktiválj, mint a bot."
 
 #: TutorialTom.dialog:588
 msgid "You have a limited number of charges, 3 by default, so choose your targets carefully."
-msgstr ""
+msgstr "Korlátozott számú, kezdetben 3 lehetőséged van, ezért dönts okosan."
 
 #: TutorialTom.dialog:589
 msgid "I can tell you about some more advanced techniques, if you'd like."
-msgstr ""
+msgstr "Mondhatok pár magasabb szintű technikát, ha szeretnéd."
 
 #: TutorialTom.dialog:594
 msgid "What was that about activating more cores than the bot?"
-msgstr ""
+msgstr "Mi van, ha több magot aktiválok, mint a bot?"
 
 #: TutorialTom.dialog:596
 msgid "Ah, yes. While you are busy trying to take the bot over, it will be busy trying to stop you."
-msgstr ""
+msgstr "Ó, igen. Mialatt te azzal küzdesz, hogy feltörd a botot, ő azzal fog küzdeni, hogy megakadályozzon."
 
 #: TutorialTom.dialog:597
 msgid "The truth is, if the bot programming was perfect, it would be almost impossible to defeat."
-msgstr ""
+msgstr "Az az igazság, hogy ha a bot programja jó, akkor szinte lehetetlen feltörni."
 
 #: TutorialTom.dialog:598
 msgid "Fortunately for you, software bugs do indeed exist, and therefore some cores will be on your side from the beginning."
-msgstr ""
+msgstr "Szerencsédre a szoftver bugok ott is léteznek, és emiatt némelyik már a kezdetektől a te dolgodat könnyíti."
 
 #: TutorialTom.dialog:599
 msgid "Likewise, the bots only have a limited number of charges. Occasionally, they will have more than you, but that is a risk you have to take."
-msgstr ""
+msgstr "A botoknak ugyancsak limitált számú próbálkozása van. Néha több, mint neked, de az a kockázatot be kell vállalnod."
 
 #: TutorialTom.dialog:600
 msgid "Because you are initiating the attack, you do get to choose your side, which can let you handicap the bot greatly if used wisely."
-msgstr ""
+msgstr "Mivel te indítod a támadást, te választhatod ki az oldalt, és ez nagyban növelheti az esélyeidet, ha okosan választasz."
 
 #: TutorialTom.dialog:605
 msgid "Tell me about more advanced techniques."
-msgstr ""
+msgstr "Mondj pár komolyabb technikát."
 
 #: TutorialTom.dialog:607
 msgid "Each charge will activate and remain active for a certain amount of time. This will let you take over a core that a bot just took over."
-msgstr ""
+msgstr "Minden választás egy töltetet indít útjára, amely bizonyos ideig aktív. Ez esélyt ad, hogy átvedd azt a magot is, amelyet a bot már aktivált."
 
 #: TutorialTom.dialog:608
 msgid "Sometimes, the bots will already have charges on the wires. When you activate one of these, it will increase the time that wire is activated for."
-msgstr ""
+msgstr "Néha, a bot már tartalmaz ilyen töltetet a vezetéken. Ha egy ilyet aktiválsz, az megnöveli a vezeték aktivitásának időtartamát."
 
 #: TutorialTom.dialog:609
 msgid "The bot can use this trick to, so it may be wise to give up a heavily guarded wire for an easier target."
-msgstr ""
+msgstr "A bot is kihasználja ugyanezt, tehát néha jobb feladni a jól védezz vezetéket egy könnyebb célpontért."
 
 #: TutorialTom.dialog:610
 msgid "The wiring inside the bots sometimes contain splitters. These can be used in two ways."
-msgstr ""
+msgstr "A botban levő vezetékek néha elágazást is tartalmaznak. Ezeket kétféleképpen használhatod."
 
 #: TutorialTom.dialog:611
 msgid "A 2-to-1 splitter is undesirable. This requires two charges to activate one core, halving your efficiency."
-msgstr ""
+msgstr "A 2-ről 1-re osztó nem jó választás. Két töltet kell, hogy a végén egy magot aktiválhass, megfelezve ezzel a hatékonyságodat."
 
 #: TutorialTom.dialog:612
 msgid "A 1-to-2 splitter, however, will activate two nodes for the price of one charge."
-msgstr ""
+msgstr "Az 1-ről a 2-re osztó pedig egy töltettel kettő magot is képes aktiválni."
 
 #: TutorialTom.dialog:613
 msgid "Sometimes these splitters will be stacked. Tracing the route ahead of time will be crucial to your tactical success."
-msgstr ""
+msgstr "Néha ezek az elosztók kombinálódnak. A töltet útjának gyors felmérése kritikus lehet a siker szempontjából."
 
 #: TutorialTom.dialog:614
 msgid "Ideally, you want to stick your opponent with 2-to-1 splitters, while you have 1-to-2 splitters at your disposal."
-msgstr ""
+msgstr "A legideálisabb, ha az ellenfelednek 2-ről 1-re osztói vannak, míg a te oldaladon 1-ről a 2-re osztók találhatók."
 
 #: TutorialTom.dialog:615
 msgid "Finally, remember that patience is often a virtue. Taking over all cores early on only to lose them later can be a crushing blow."
-msgstr ""
+msgstr "És végül, a türelem hasznodra válhat. Gyorsan megjelölni a magokat, hogy azután gyorsan el is veszd őket, bizony roszzul végződhet."
 
 #: TutorialTom.dialog:620
 msgid "I'm ready to try hacking bots."
-msgstr ""
+msgstr "Készen állok, hogy kipróbáljam a bothackelést."
 
 #: TutorialTom.dialog:622
 msgid "I certainly hope so."
-msgstr ""
+msgstr "Remélem is."
 
 #: TutorialTom.dialog:623
 msgid "I should, however, take the time to tell you a few more things."
-msgstr ""
+msgstr "Mindazonáltal el kell mondanom neked még pár dolgot."
 
 #: TutorialTom.dialog:624
 msgid "Hacking, like most other programs, incurs a cost to you."
-msgstr ""
+msgstr "A hackelésnek, mint a legtöbb programnak, ára van."
 
 #: TutorialTom.dialog:625
 msgid "Processing programs seems to heat up your brain."
-msgstr ""
+msgstr "A programok futtatása hőt termel az agyadban."
 
 #: TutorialTom.dialog:626
 msgid "You seem to be able to handle quite a bit of heat, but you have your limits."
-msgstr ""
+msgstr "Úgy tűnik bizonyos mennyiségű hőt tudsz kezelni, de vannak határaid."
 
 #: TutorialTom.dialog:627
 msgid "If you accumulate too much heat, you will automatically shut down in order to cool off."
-msgstr ""
+msgstr "Ha túl sok hőt generálsz, automatikusan lekapcsolsz, hogy lehűtsd magad."
 
 #: TutorialTom.dialog:628
 msgid "Over time, the heat will seep away from your body naturally. However, there are ways to speed up the process."
-msgstr ""
+msgstr "Idővel természetes módon is leadod a hőt, ám a hűtésnek van pár gyorsabb módja is."
 
 #: TutorialTom.dialog:629
 msgid "If you can find them, cooling drinks will quickly relieve your thermal discomfort, in much the same way healing drinks help your health."
-msgstr ""
+msgstr "Ha találsz hűtőitalt, akkor az gyorsan helyreállítja a hőérzetedet, hasonló módon, mint a gyógyital az egészségedet."
 
 #: TutorialTom.dialog:630
 msgid "You also have a special program called Emergency Shutdown that will lower your heat level drastically, although not without cost."
-msgstr ""
+msgstr "Van egy különleges programod is, a Vészleállítás, amely drasztikusan csökkenti a hőmérsékletedet, ám nem kerül semmibe."
 
 #: TutorialTom.dialog:631
 msgid "Using it will paralyze you for several seconds, during which you are a sitting duck... er, penguin."
-msgstr ""
+msgstr "Ha ezt használod akkor megbénulsz néhány másodpercre, mialatt csirke... ööö, pingvinkrémet csinálhatnak belőled."
 
 #: TutorialTom.dialog:632
 msgid "I take it that was a joke also?"
-msgstr ""
+msgstr "Ez most vicc volt?"
 
 #: TutorialTom.dialog:633
 msgid "Quite."
-msgstr ""
+msgstr "Nem igazán."
 
 #: TutorialTom.dialog:634
 msgid "In addition to hacking, you have the ability to execute arbitrary code on bots."
-msgstr ""
+msgstr "A hackelés képességén kívül, tudsz futtatni különböző előre megírt kódokat is a botokon."
 
 #: TutorialTom.dialog:635
 msgid "These scripts and programs can be learned through reading source code books. To read a book, right-click on it in inventory."
-msgstr ""
+msgstr "Ezeket a szkripteket és programokat forráskód-könyvekből tanulhatod meg. A könyvek elolvasásához klikkelj rajtuk jobbal a felszerelésedben."
 
 #: TutorialTom.dialog:636
 msgid "You should have recovered your hacking ability by now, and I'll give you a couple of source code books as well."
-msgstr ""
+msgstr "Most már újra birtokában vagy a hackelés képességének, ezért adok neked pár forráskód-könyvet."
 
 #: TutorialTom.dialog:641
 msgid "Thanks. I'm ready now."
-msgstr ""
+msgstr "Köszönöm. Készen állok."
 
 #: TutorialTom.dialog:643
 msgid "We have several bots behind that fence for you to practice on."
-msgstr ""
+msgstr "Van néhány bot a kerítés túloldalán, amiken gyakorolhatsz."
 
 #: TutorialTom.dialog:644
 msgid "Take them over, then talk to me when they're all dead, and we'll be done with the tutorial."
-msgstr ""
+msgstr "Törd fel őket, és beszéljünk, miután mind meghalt. Utána befejezzük a kiképzést."
 
 #: TutorialTom.dialog:645
 msgid "If you need more help, don't hesitate to ask."
-msgstr ""
+msgstr "Ha további segítség kell, ne habozz kérdezni."
 
 #: TutorialTom.dialog:646
 msgid "Oh, and Linarian... If you fail when hacking, you'll receive an electrical shock."
-msgstr ""
+msgstr "Ó, Lináriai... Ha nem sikerül a feltörés, akkor egy elekrtosokkot kapsz."
 
 #: TutorialTom.dialog:647
 msgid "It shouldn't kill you, but you need to be aware of it nonetheless."
-msgstr ""
+msgstr "Nem öl meg, de kellemetlenül fog érinteni."
 
 #: TutorialTom.dialog:662
 msgid "I'm finished. I'm ready to move on."
-msgstr ""
+msgstr "Befejeztem. Mehetünk tovább."
 
 #: TutorialTom.dialog:666
 msgid "The bots aren't dead, Linarian."
-msgstr ""
+msgstr "Nem minden bot halt meg, Lináriai."
 
 #: TutorialTom.dialog:667
 msgid "Come back and talk to me after they are."
-msgstr ""
+msgstr "Gyere vissza, ha már mind működésképtelen."
 
 #: TutorialTom.dialog:668
 msgid "If you're having trouble, you might try the Malformed packet program."
-msgstr ""
+msgstr "Ha bajba kerülsz, használd a Törött Adatcsomag programot."
 
 #: TutorialTom.dialog:670
 msgid "Well done! That concludes our tutorial."
-msgstr ""
+msgstr "Jó munka! Ez felteszi az ire a pontot."
 
 #: TutorialTom.dialog:676
 msgid "Now, there's one last thing you should know."
-msgstr ""
+msgstr "És most egy utolsó dolog, amit tudnod kell."
 
 #: TutorialTom.dialog:677
 msgid "You Linarians can apparently withdraw from our world temporarily."
-msgstr ""
+msgstr "Ti Lináriaiak időlegesen ki tudjátok vonni magatokat a létezésből."
 
 #: TutorialTom.dialog:678
 msgid "Time stops, and everything freezes in place."
-msgstr ""
+msgstr "Az idő megáll, minden mozdulatlanná dermed."
 
 #: TutorialTom.dialog:679
 msgid "This can be accomplished by using the Esc key."
-msgstr ""
+msgstr "Ez az Esc gomb megnyomásával érhető el."
 
 #: TutorialTom.dialog:680
 msgid "hacking_bots"
-msgstr ""
+msgstr "bot_hackelés"
 
 #: TutorialTom.dialog:681
 msgid "Your final task is to leave us using this menu."
-msgstr ""
+msgstr "Az utolsó feladatod, hogy e menü segítségével elhagyd a kiképzést."
 
 #: TutorialTom.dialog:682
 msgid "I'm afraid there's nothing more I can teach you. I wish you good luck, Linarian."
-msgstr ""
+msgstr "Attól tartok, semmi mást nem tudok tanítani neked. Sok szerencsét kívánok Lináriai."
 
 #: TutorialTom.dialog:683
 msgid "You'll need it if our world is to survive."
-msgstr ""
+msgstr "Szükséged lesz rá, mint ahogy a világunknak is."
 
 #: TutorialTom.dialog:690
 msgid "Tell me again about take over, I'm not sure I got it all."
-msgstr ""
+msgstr "Beszélj megint a feltörésről, nem vagyok még biztos magamban."
 
 #: TutorialTom.dialog:692
 msgid "Tell me exactly what part you want me to explain again."
-msgstr ""
+msgstr "Mondd el pontosan, hogy melyik részét magyarázzam el megint."
 
 #: TutorialTom.dialog:693
 msgid "But things will be much clearer once you try for yourself than when I try to explain."
-msgstr ""
+msgstr "Sokkal tisztább lesz minden, ha magad is kipróbálod, és nem csak én magyarázom el."
 
 #: TutorialTom.dialog:694
 msgid "Use your experience as notes, and all should be clear."
-msgstr ""
+msgstr "Használd fel a tapasztalataidat, és minden tisztább lesz."
 
 #: TutorialTom.dialog:699
 msgid "Let me take a short break and practice on my own for a while."
-msgstr ""
+msgstr "Hadd tartsak egy kis szünetet és gyakoroljak önállóan."
 
 #: TutorialTom.dialog:701
 msgid "Ok, I'll be around if you need any more questions answered. Don't hesitate to ask."
-msgstr ""
+msgstr "Rendben. A közelben leszek, ha kérdésed lenne. Ne habozz kérdezni."
 
