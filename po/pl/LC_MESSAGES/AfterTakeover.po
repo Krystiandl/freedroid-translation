@@ -3,183 +3,186 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-06-23 07:57+0000\n"
-"PO-Revision-Date: 2010-06-23 07:57+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-07-09 12:58+0100\n"
+"Last-Translator: Angelika Maria Piątkowska <piatkosia.apt@interia.pl>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
-"%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: AfterTakeover.dialog:33
 msgid ".. bot_type().."
-msgstr ""
+msgstr ".. typ_bota()..."
 
 #: AfterTakeover.dialog:34
 msgid "Login : "
-msgstr ""
+msgstr "Login:"
 
 #: AfterTakeover.dialog:35
 msgid "tux"
-msgstr ""
+msgstr "tux"
 
 #: AfterTakeover.dialog:36
 msgid "Password : "
-msgstr ""
+msgstr "Hasło:"
 
 #: AfterTakeover.dialog:38
 msgid "Last login from dev/ttyS0 on Sun, 23 mar 2057."
-msgstr ""
+msgstr "Ostatnie logowanie z  dev/ttyS0 w  niedzielę, 23 mar 2057."
 
 #: AfterTakeover.dialog:39
 msgid "Welcome to [b]"
-msgstr ""
+msgstr "Witaj w [b]"
 
 #: AfterTakeover.dialog:41
 msgid "Hardware Check : BOT DAMAGED"
-msgstr ""
+msgstr "Sprawdzenie sprzętu: BOT USZKODZONY"
 
 #: AfterTakeover.dialog:42
 msgid "This "
-msgstr ""
+msgstr "Ta"
 
 #: AfterTakeover.dialog:42
 msgid " unit could need some repair."
-msgstr ""
+msgstr "część wymaga naprawy"
 
-#: AfterTakeover.dialog:49 AfterTakeover.dialog:52
+#: AfterTakeover.dialog:49
+#: AfterTakeover.dialog:52
 msgid "cd repair&settings/"
-msgstr ""
+msgstr "cd naprawy&ustawienia"
 
-#: AfterTakeover.dialog:58 AfterTakeover.dialog:61
+#: AfterTakeover.dialog:58
+#: AfterTakeover.dialog:61
 msgid "./hold_position.sh"
-msgstr ""
+msgstr "./zajmij_pozycję.sh"
 
 #: AfterTakeover.dialog:62
 msgid "Holding position."
-msgstr ""
+msgstr "Zajmowanie pozycji."
 
 #: AfterTakeover.dialog:63
 msgid "script V 1.0.2 (c) gnu.org, 2054"
-msgstr ""
+msgstr "skrypt V 1.0.2 (c) gnu.org, 2054"
 
-#: AfterTakeover.dialog:64 AfterTakeover.dialog:93
+#: AfterTakeover.dialog:64
+#: AfterTakeover.dialog:93
 msgid "Checking requirements..."
-msgstr ""
+msgstr "Sprawdzanie wymagań..."
 
 #: AfterTakeover.dialog:65
 msgid "Movement unit: Power-down... [Done]."
-msgstr ""
+msgstr "Jednostka ruchu: Wyłącz... [Wykonano]"
 
 #: AfterTakeover.dialog:66
 msgid "Status: All movement suppressed."
-msgstr ""
+msgstr "Status: Wszystkie ruchy stłumione."
 
-#: AfterTakeover.dialog:73 AfterTakeover.dialog:76
+#: AfterTakeover.dialog:73
+#: AfterTakeover.dialog:76
 msgid "./follow_me.sh"
-msgstr ""
+msgstr "./podążaj_za_mną.sh"
 
 #: AfterTakeover.dialog:77
 msgid "Initiating tracking sequence."
-msgstr ""
+msgstr "Inicjowanie sekwencja ruchów."
 
 #: AfterTakeover.dialog:78
 msgid "Movement unit: Enabled."
-msgstr ""
+msgstr "Jednostka ruchowa: Włączona"
 
 #: AfterTakeover.dialog:79
 msgid "Trying to keep up with "
-msgstr ""
+msgstr "Próby nadążania za"
 
 #: AfterTakeover.dialog:79
 msgid " position."
-msgstr ""
+msgstr "pozycją."
 
 #: AfterTakeover.dialog:80
 msgid "Status: Following "
-msgstr ""
+msgstr "Status: Podąża"
 
-#: AfterTakeover.dialog:87 AfterTakeover.dialog:90
+#: AfterTakeover.dialog:87
+#: AfterTakeover.dialog:90
 #: AfterTakeover.dialog:106
 msgid "./move_freely.sh"
-msgstr ""
+msgstr "./swobodnie_przemieszczaj_się.sh"
 
 #: AfterTakeover.dialog:91
 msgid "Enable movement."
-msgstr ""
+msgstr "Przemieszczanie się włączone."
 
 #: AfterTakeover.dialog:92
 msgid "script V 1.0.5 (c) gnu.org, 2054"
-msgstr ""
+msgstr "skrypt V 1.0.5 (c) gnu.org, 2054"
 
 #: AfterTakeover.dialog:94
 msgid "Movement unit: Power-up... [Done]."
-msgstr ""
+msgstr "Jednostka ruchu: Włączanie... [Wykonano]"
 
 #: AfterTakeover.dialog:95
 msgid "Resuming normal patrol operations... [Done]"
-msgstr ""
+msgstr "Wznowienie normalnej działalności patrolującej...[wykonano]"
 
 #: AfterTakeover.dialog:96
 msgid "Status: Patrolling."
-msgstr ""
+msgstr "Status: Patrolowanie"
 
 #: AfterTakeover.dialog:103
 msgid "./hcf.py"
-msgstr ""
+msgstr "./hcf.py"
 
 #: AfterTakeover.dialog:108
 msgid "Are you really sure you want to destroy "
-msgstr ""
+msgstr "Jesteś pewny że chcesz zniszczyć"
 
 #: AfterTakeover.dialog:108
 msgid "? Y/N"
-msgstr ""
+msgstr "? T/N"
 
 #: AfterTakeover.dialog:114
 msgid "Yes"
-msgstr ""
+msgstr "Tak"
 
 #: AfterTakeover.dialog:117
 msgid "Destruction confirmed."
-msgstr ""
+msgstr "Zniszczenie potwierdzone."
 
 #: AfterTakeover.dialog:122
 msgid "No"
-msgstr ""
+msgstr "Nie"
 
 #: AfterTakeover.dialog:125
 msgid "Destrucion averted."
-msgstr ""
+msgstr "Zniszczenie odrzucone."
 
 #: AfterTakeover.dialog:133
 msgid "Executing: Halt and Catch Fire."
-msgstr ""
+msgstr "Wykonywanie: Zatrzymanie i Łapanie Ognia"
 
 #: AfterTakeover.dialog:134
 msgid "Warning! Cooling subsystems disabled."
-msgstr ""
+msgstr "Ostrzeżenie! Podsystem chłodzący wyłączony."
 
 #: AfterTakeover.dialog:135
-msgid ""
-"Warning! Spontaneous oxidization witH emis$ion of light aND heAt "
-"detecteddd in THE#main| procesIng unit."
-msgstr ""
+msgid "Warning! Spontaneous oxidization witH emis$ion of light aND heAt detecteddd in THE#main| procesIng unit."
+msgstr "Ostrzeżenie! Spontaniczne utlenianie z emi$ią światła i ciEpŁa WyKryteee w #GłÓwnej | jeDnostce prOcesowej."
 
 #: AfterTakeover.dialog:136
 msgid "WArn|n*! SsTeM=#faiPure%^#n 3 S 1()$++"
-msgstr ""
+msgstr "O$tRz3żen1e*! SsTeM=uSzkOc0ny%^#n 3 S 1()$++"
 
 #: AfterTakeover.dialog:139
 msgid "Opening access to MS Office"
-msgstr ""
+msgstr "Otwieranie dostępu do MS Office"
 
 #: AfterTakeover.dialog:141
 msgid "()%#@(% THE BLADE IS YOURS. )##%*&%*!"
-msgstr ""
+msgstr "()%#@(% THE BLADE IS YOURS. )##%*&%*!"
 
 #: AfterTakeover.dialog:156
 msgid "Closing remote connection..."
-msgstr ""
+msgstr "Zamykanie zdalnego połączenia..."
+
