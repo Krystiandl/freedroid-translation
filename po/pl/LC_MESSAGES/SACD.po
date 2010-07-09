@@ -3,118 +3,124 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-06-23 07:57+0000\n"
-"PO-Revision-Date: 2010-06-23 07:57+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2010-07-09 18:45+0100\n"
+"Last-Translator: Angelika Maria Piątkowska <piatkosia.apt@interia.pl>\n"
+"Language-Team: freedroid team\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
-"%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
 
 #: SACD.dialog:33
 msgid "Login : "
-msgstr ""
+msgstr "Login:"
 
 #: SACD.dialog:34
 msgid "admin"
-msgstr ""
+msgstr "admin"
 
 #: SACD.dialog:35
 msgid " Password : "
-msgstr ""
+msgstr "Hasło:"
 
 #: SACD.dialog:36
 msgid "*******"
-msgstr ""
+msgstr "*******"
 
 #: SACD.dialog:37
 msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
-msgstr ""
+msgstr "Ostatnie logowanie z  /dev/ttyS0 w niedzielę, 23 mar 2057."
 
 #: SACD.dialog:38
 msgid "Tania's sanitary"
-msgstr ""
+msgstr "Sanitariuszka Tani"
 
 #: SACD.dialog:38
 msgid "I have found that SACD and hacked it's system."
-msgstr ""
+msgstr "Znalazłem ten SACD i shakowałem ten stystem."
 
-#: SACD.dialog:43 SACD.dialog:56 SACD.dialog:69 SACD.dialog:81
+#: SACD.dialog:43
+#: SACD.dialog:56
+#: SACD.dialog:69
+#: SACD.dialog:81
 msgid "admin@sadefence: ~ #"
-msgstr ""
+msgstr "admin@sadefence: ~ #"
 
 #: SACD.dialog:48
 msgid "/usr/bin/guns --disable"
-msgstr ""
+msgstr "/usr/bin/guns --disable"
 
 #: SACD.dialog:50
 msgid "Disabling guns..."
-msgstr ""
+msgstr "Wyłączanie broni..."
 
-#: SACD.dialog:51 SACD.dialog:64 SACD.dialog:77
+#: SACD.dialog:51
+#: SACD.dialog:64
+#: SACD.dialog:77
 msgid "Connecting to peripheral controller..."
-msgstr ""
+msgstr "Łączenie z kontrolerem peryferiów..."
 
 #: SACD.dialog:52
 msgid "Guns disabled."
-msgstr ""
+msgstr "Broń wyłączona."
 
 #: SACD.dialog:61
 msgid "/usr/bin/guns --enable"
-msgstr ""
+msgstr "/usr/bin/guns --enable"
 
 #: SACD.dialog:63
 msgid "Enabling guns..."
-msgstr ""
+msgstr "Włączanie broni."
 
 #: SACD.dialog:65
 msgid "Guns enabled."
-msgstr ""
+msgstr "Broń włączona."
 
 #: SACD.dialog:74
 msgid "/usr/bin/hermodoors --open"
-msgstr ""
+msgstr "/usr/bin/hermodoors --open"
 
 #: SACD.dialog:76
 msgid "Opening doors..."
-msgstr ""
+msgstr "Otwarcie drzwi..."
 
 #: SACD.dialog:78
 msgid "Please enter unlock security password:"
-msgstr ""
+msgstr "Podaj odblokowujące hasło bezpieczeństwa:"
 
 #: SACD.dialog:79
 msgid "CTRL+C"
-msgstr ""
+msgstr "CTRL+C"
 
 #: SACD.dialog:80
 msgid "An error occured while opening doors."
-msgstr ""
+msgstr "Napotkano błędy w trakcie otwierania drzwi."
 
 #: SACD.dialog:85
 msgid "./hcf.py"
-msgstr ""
+msgstr "./hcf.py"
 
 #: SACD.dialog:87
 msgid "Executing: Halt and Catch Fire."
-msgstr ""
+msgstr "Wykonywanie: Zatrzymanie i Łapanie Ognia"
 
 #: SACD.dialog:88
 msgid "Cooling subsystems disabled."
-msgstr ""
+msgstr "Podsystem chłodzący wyłączony."
 
 #: SACD.dialog:89
-msgid ""
-"Warning! Spontaneous oxidization witH emis$ion of light aND heAt "
-"detecteddd in THE#main| procesIng unit,"
-msgstr ""
+msgid "Warning! Spontaneous oxidization witH emis$ion of light aND heAt detecteddd in THE#main| procesIng unit,"
+msgstr "Ostrzeżenie! Spontaniczne utlenianie z emi$ią światła i ciEpŁa WyKryteee w #GłÓwnej | jeDnostce prOcesowej."
 
 #: SACD.dialog:90
 msgid "SsTeM=#faiPure%^#n 3 S 1()$++"
-msgstr ""
+msgstr "O$tRz3żen1e*! SsTeM=uSzkOc0ny%^#n 3 S 1()$++"
 
 #: SACD.dialog:96
 msgid "logout"
-msgstr ""
+msgstr "wyloguj"
+
