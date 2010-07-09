@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-06-23 07:57+0000\n"
-"PO-Revision-Date: 2010-07-09 12:58+0100\n"
+"PO-Revision-Date: 2010-07-09 19:30+0100\n"
 "Last-Translator: Angelika Maria Piątkowska <piatkosia.apt@interia.pl>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -11,178 +11,308 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: pl\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
 
-#: AfterTakeover.dialog:33
+#: AfterTakeover_sub.dialog:33
 msgid ".. bot_type().."
-msgstr ".. typ_bota()..."
+msgstr ".. typ_bota().."
 
-#: AfterTakeover.dialog:34
-msgid "Login : "
-msgstr "Login:"
+#: AfterTakeover_sub.dialog:47
+#: AfterTakeover_sub.dialog:50
+msgid "./est_repair.plx"
+msgstr "./est_repair.plx"
 
-#: AfterTakeover.dialog:35
-msgid "tux"
-msgstr "tux"
+#: AfterTakeover_sub.dialog:59
+msgid "Repairs on "
+msgstr "Naprawa włączona"
 
-#: AfterTakeover.dialog:36
-msgid "Password : "
-msgstr "Hasło:"
+#: AfterTakeover_sub.dialog:59
+msgid " will take less than "
+msgstr "potrwa krócej niż"
 
-#: AfterTakeover.dialog:38
-msgid "Last login from dev/ttyS0 on Sun, 23 mar 2057."
-msgstr "Ostatnie logowanie z  dev/ttyS0 w  niedzielę, 23 mar 2057."
+#: AfterTakeover_sub.dialog:59
+msgid " seconds, "
+msgstr "sekundę,"
 
-#: AfterTakeover.dialog:39
-msgid "Welcome to [b]"
-msgstr "Witaj w [b]"
+#: AfterTakeover_sub.dialog:59
+msgid " valuable circuits, and "
+msgstr "cena obwodów, i"
 
-#: AfterTakeover.dialog:41
-msgid "Hardware Check : BOT DAMAGED"
-msgstr "Sprawdzenie sprzętu: BOT USZKODZONY"
+#: AfterTakeover_sub.dialog:59
+msgid " heat."
+msgstr "ciepło."
 
-#: AfterTakeover.dialog:42
-msgid "This "
-msgstr "Ta"
+#: AfterTakeover_sub.dialog:62
+msgid "You do not have enough valuable circuits to ensure repair of this "
+msgstr "Nie masz wystarczającej ilości cennych układów w celu zapewnienia naprawy tej"
 
-#: AfterTakeover.dialog:42
-msgid " unit could need some repair."
-msgstr "część wymaga naprawy"
+#: AfterTakeover_sub.dialog:62
+#: AfterTakeover_sub.dialog:154
+msgid " unit."
+msgstr "jednostki."
 
-#: AfterTakeover.dialog:49
-#: AfterTakeover.dialog:52
-msgid "cd repair&settings/"
-msgstr "cd naprawy&ustawienia"
+#: AfterTakeover_sub.dialog:67
+msgid " is currently undamaged."
+msgstr "jest aktualnie nieuszkodzona"
 
-#: AfterTakeover.dialog:58
-#: AfterTakeover.dialog:61
-msgid "./hold_position.sh"
-msgstr "./zajmij_pozycję.sh"
+#: AfterTakeover_sub.dialog:74
+#: AfterTakeover_sub.dialog:77
+msgid "./repair.plx"
+msgstr "./naprawa.plx"
 
-#: AfterTakeover.dialog:62
-msgid "Holding position."
-msgstr "Zajmowanie pozycji."
+#: AfterTakeover_sub.dialog:78
+msgid "Repair in progress."
+msgstr "Naprawa w toku."
 
-#: AfterTakeover.dialog:63
-msgid "script V 1.0.2 (c) gnu.org, 2054"
-msgstr "skrypt V 1.0.2 (c) gnu.org, 2054"
+#: AfterTakeover_sub.dialog:79
+msgid "Logout to complete repair process."
+msgstr "Wyloguj po zakończeniu procesu naprawy."
 
-#: AfterTakeover.dialog:64
-#: AfterTakeover.dialog:93
-msgid "Checking requirements..."
-msgstr "Sprawdzanie wymagań..."
+#: AfterTakeover_sub.dialog:94
+#: AfterTakeover_sub.dialog:97
+msgid "./settings.plx"
+msgstr "./ustawienia.plx"
 
-#: AfterTakeover.dialog:65
-msgid "Movement unit: Power-down... [Done]."
-msgstr "Jednostka ruchu: Wyłącz... [Wykonano]"
+#: AfterTakeover_sub.dialog:98
+msgid "Welcome to the settings menu."
+msgstr "Witaj w menu ustawień."
 
-#: AfterTakeover.dialog:66
-msgid "Status: All movement suppressed."
-msgstr "Status: Wszystkie ruchy stłumione."
+#: AfterTakeover_sub.dialog:99
+msgid "Version: 1.82c"
+msgstr "Wersja: 1.82c"
 
-#: AfterTakeover.dialog:73
-#: AfterTakeover.dialog:76
-msgid "./follow_me.sh"
-msgstr "./podążaj_za_mną.sh"
+#: AfterTakeover_sub.dialog:100
+msgid "No upgrades found."
+msgstr "Unowocześnień nie znaleziono."
 
-#: AfterTakeover.dialog:77
-msgid "Initiating tracking sequence."
-msgstr "Inicjowanie sekwencja ruchów."
+#: AfterTakeover_sub.dialog:101
+msgid "Always ask for confirmation before execution of hcf.py? [Y/N]"
+msgstr "Za każdym razem pytać przed wykonaniem hcf.py? [T/N]"
 
-#: AfterTakeover.dialog:78
-msgid "Movement unit: Enabled."
-msgstr "Jednostka ruchowa: Włączona"
+#: AfterTakeover_sub.dialog:106
+msgid "Yes, always ask."
+msgstr "Tak, zawsze pytaj."
 
-#: AfterTakeover.dialog:79
-msgid "Trying to keep up with "
-msgstr "Próby nadążania za"
+#: AfterTakeover_sub.dialog:109
+msgid "Confirmation will now be asked before execution of hcf.py."
+msgstr "Teraz będziesz pytany o potwierdzenie przed wykonaniem hcf.py."
 
-#: AfterTakeover.dialog:79
-msgid " position."
-msgstr "pozycją."
+#: AfterTakeover_sub.dialog:110
+#: AfterTakeover_sub.dialog:123
+msgid "Settings saved"
+msgstr "Ustawienia zapisane."
 
-#: AfterTakeover.dialog:80
-msgid "Status: Following "
-msgstr "Status: Podąża"
+#: AfterTakeover_sub.dialog:119
+msgid "No, don't ask"
+msgstr "Nie, nie pytaj."
 
-#: AfterTakeover.dialog:87
-#: AfterTakeover.dialog:90
-#: AfterTakeover.dialog:106
-msgid "./move_freely.sh"
-msgstr "./swobodnie_przemieszczaj_się.sh"
+#: AfterTakeover_sub.dialog:122
+msgid "hcf.py will be executed without asking for confirmation."
+msgstr " hcf.py będzie wykonywane bez pytania o potwierdzenie."
 
-#: AfterTakeover.dialog:91
-msgid "Enable movement."
-msgstr "Przemieszczanie się włączone."
+#: AfterTakeover_sub.dialog:132
+#: AfterTakeover_sub.dialog:135
+msgid "./hostname"
+msgstr "./hostname"
 
-#: AfterTakeover.dialog:92
-msgid "script V 1.0.5 (c) gnu.org, 2054"
-msgstr "skrypt V 1.0.5 (c) gnu.org, 2054"
+#: AfterTakeover_sub.dialog:136
+msgid "Welcome to the hostname menu."
+msgstr "Witamy w menu nazwy hosta."
 
-#: AfterTakeover.dialog:94
-msgid "Movement unit: Power-up... [Done]."
-msgstr "Jednostka ruchu: Włączanie... [Wykonano]"
+#: AfterTakeover_sub.dialog:137
+msgid "Version: 0.15.01"
+msgstr "Wersja: 0.15.01"
 
-#: AfterTakeover.dialog:95
-msgid "Resuming normal patrol operations... [Done]"
-msgstr "Wznowienie normalnej działalności patrolującej...[wykonano]"
+#: AfterTakeover_sub.dialog:138
+msgid "Current botname: [b]"
+msgstr "Aktualne imię bota: [b]"
 
-#: AfterTakeover.dialog:96
-msgid "Status: Patrolling."
-msgstr "Status: Patrolowanie"
+#: AfterTakeover_sub.dialog:139
+msgid "Select new name? [Y/N]"
+msgstr "Wybrać nowe imię? [T/N]"
 
-#: AfterTakeover.dialog:103
-msgid "./hcf.py"
-msgstr "./hcf.py"
-
-#: AfterTakeover.dialog:108
-msgid "Are you really sure you want to destroy "
-msgstr "Jesteś pewny że chcesz zniszczyć"
-
-#: AfterTakeover.dialog:108
-msgid "? Y/N"
-msgstr "? T/N"
-
-#: AfterTakeover.dialog:114
+#: AfterTakeover_sub.dialog:145
+#: AfterTakeover_sub.dialog:148
+#: AfterTakeover_sub.dialog:178
+#: AfterTakeover_sub.dialog:181
 msgid "Yes"
 msgstr "Tak"
 
-#: AfterTakeover.dialog:117
-msgid "Destruction confirmed."
-msgstr "Zniszczenie potwierdzone."
+#: AfterTakeover_sub.dialog:149
+msgid "New Name: "
+msgstr "Nowe imię:"
 
-#: AfterTakeover.dialog:122
+#: AfterTakeover_sub.dialog:151
+msgid "Bald"
+msgstr "Bald"
+
+#: AfterTakeover_sub.dialog:151
+msgid "Chic"
+msgstr "Chic"
+
+#: AfterTakeover_sub.dialog:151
+msgid "Fuzzy"
+msgstr "Fuzzy"
+
+#: AfterTakeover_sub.dialog:151
+msgid "Fluffy"
+msgstr "Fluffy"
+
+#: AfterTakeover_sub.dialog:151
+msgid "Cuddly"
+msgstr "Cuddly"
+
+#: AfterTakeover_sub.dialog:151
+msgid "Laughing"
+msgstr "Laughing"
+
+#: AfterTakeover_sub.dialog:151
+msgid "Fickle"
+msgstr "Fickle"
+
+#: AfterTakeover_sub.dialog:151
+msgid "Hyper"
+msgstr "Hyper"
+
+#: AfterTakeover_sub.dialog:151
+msgid "Machavellian"
+msgstr "Machavellian"
+
+#: AfterTakeover_sub.dialog:151
+msgid "Happy"
+msgstr "Happy"
+
+#: AfterTakeover_sub.dialog:151
+msgid "Ornery"
+msgstr "Ornery"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Bunny"
+msgstr "Bunny"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Koala"
+msgstr "Koala"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Lemur"
+msgstr "Lemur"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Aardvark"
+msgstr "Aardvark"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Fox"
+msgstr "Fox"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Gnu"
+msgstr "Gnu"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Puffin"
+msgstr "Puffin"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Herring"
+msgstr "Herring"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Halibut"
+msgstr "Halibut"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Mackerel"
+msgstr "Mackerel"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Trout"
+msgstr "Trout"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Tuna"
+msgstr "Tuna"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Barracuda"
+msgstr "Barracuda"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Shrew"
+msgstr "Shrew"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Bat"
+msgstr "Bat"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Kitten"
+msgstr "Kitten"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Duck"
+msgstr "Duck"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Platypus"
+msgstr "Platypus"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Armadillo"
+msgstr "Armadillo"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Panda"
+msgstr "Panda"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Hedgehog"
+msgstr "Hedgehog"
+
+#: AfterTakeover_sub.dialog:152
+msgid "Otter"
+msgstr "Otter"
+
+#: AfterTakeover_sub.dialog:154
+msgid "Type a new name for this "
+msgstr "Napisz nowe imię dla niego"
+
+#: AfterTakeover_sub.dialog:159
+#: AfterTakeover_sub.dialog:162
+#: AfterTakeover_sub.dialog:190
+#: AfterTakeover_sub.dialog:193
 msgid "No"
 msgstr "Nie"
 
-#: AfterTakeover.dialog:125
-msgid "Destrucion averted."
-msgstr "Zniszczenie odrzucone."
+#: AfterTakeover_sub.dialog:172
+msgid "Confirm renaming from [b]"
+msgstr "Potwierdź zmianę nazwy z [b]"
 
-#: AfterTakeover.dialog:133
-msgid "Executing: Halt and Catch Fire."
-msgstr "Wykonywanie: Zatrzymanie i Łapanie Ognia"
+#: AfterTakeover_sub.dialog:172
+#: AfterTakeover_sub.dialog:182
+msgid "[/b] to [b]"
+msgstr "[/b] na [b]"
 
-#: AfterTakeover.dialog:134
-msgid "Warning! Cooling subsystems disabled."
-msgstr "Ostrzeżenie! Podsystem chłodzący wyłączony."
+#: AfterTakeover_sub.dialog:172
+msgid "[/b]? [Y/N]"
+msgstr "[/b]? [Y/N]"
 
-#: AfterTakeover.dialog:135
-msgid "Warning! Spontaneous oxidization witH emis$ion of light aND heAt detecteddd in THE#main| procesIng unit."
-msgstr "Ostrzeżenie! Spontaniczne utlenianie z emi$ią światła i ciEpŁa WyKryteee w #GłÓwnej | jeDnostce prOcesowej."
+#: AfterTakeover_sub.dialog:182
+msgid "Renamed [b]"
+msgstr "Zmieniono nazwę."
 
-#: AfterTakeover.dialog:136
-msgid "WArn|n*! SsTeM=#faiPure%^#n 3 S 1()$++"
-msgstr "O$tRz3żen1e*! SsTeM=uSzkOc0ny%^#n 3 S 1()$++"
+#: AfterTakeover_sub.dialog:184
+msgid "This "
+msgstr "Ta"
 
-#: AfterTakeover.dialog:139
-msgid "Opening access to MS Office"
-msgstr "Otwieranie dostępu do MS Office"
+#: AfterTakeover_sub.dialog:184
+msgid " unit is now designated: [b]"
+msgstr "jednostka ma teraz miano: [b]"
 
-#: AfterTakeover.dialog:141
-msgid "()%#@(% THE BLADE IS YOURS. )##%*&%*!"
-msgstr "()%#@(% THE BLADE IS YOURS. )##%*&%*!"
-
-#: AfterTakeover.dialog:156
-msgid "Closing remote connection..."
-msgstr "Zamykanie zdalnego połączenia..."
+#: AfterTakeover_sub.dialog:202
+msgid "cd .."
+msgstr "cd .."
 
