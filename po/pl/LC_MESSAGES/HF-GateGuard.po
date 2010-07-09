@@ -3,91 +3,85 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-06-23 07:57+0000\n"
-"PO-Revision-Date: 2010-06-23 07:57+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-07-09 18:09+0100\n"
+"Last-Translator: Angelika Maria Piątkowska <piatkosia.apt@interia.pl>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
-"%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: HF-GateGuard.dialog:41
 msgid "Hi! I'm new here."
-msgstr ""
+msgstr "Cześć. Jestem tu nowy."
 
 #: HF-GateGuard.dialog:43
-msgid ""
-"Great. Now back to where you came from. This is no place for you."
-msgstr ""
+msgid "Great. Now back to where you came from. This is no place for you."
+msgstr "Świetnie. Teraz wracaj skąd przyszedłeś. To nie miejsce dla ciebie."
 
 #: HF-GateGuard.dialog:48
 msgid "What's the matter with this gate?"
-msgstr ""
+msgstr "Co się dzieje za tą bramą?"
 
 #: HF-GateGuard.dialog:50
-msgid ""
-"This is a gate to an automated bot factory we call the Hell Fortress."
-msgstr ""
+msgid "This is a gate to an automated bot factory we call the Hell Fortress."
+msgstr "To jest brama do zautomatyzowanej fabryki botów. Nazywamy ją  Hell Fortress."
 
 #: HF-GateGuard.dialog:51
-msgid ""
-"You must be crazy if you want to get in there. That place is full of "
-"bots."
-msgstr ""
+msgid "You must be crazy if you want to get in there. That place is full of bots."
+msgstr "Musisz być szalony jeśli chcesz tam wejść. Tam jest pełno botów."
 
 #: HF-GateGuard.dialog:52
 msgid "Get out of here. They might attack at any moment!"
-msgstr ""
+msgstr "Wynoś się stąd. Mogą zaatakować w każdej chwili!"
 
 #: HF-GateGuard.dialog:57
 msgid "What if I just walk in there? Will you try to stop me?"
-msgstr ""
+msgstr "Co jeśli tam wejdę? Zatrzymacie mnie?"
 
 #: HF-GateGuard.dialog:59
 msgid "Of course not. Murdering you would be a complete waste of time."
-msgstr ""
+msgstr "Oczywiście nie. Zabijanie cie to kompletna strata czasu."
 
 #: HF-GateGuard.dialog:60
 msgid "The bots and disruptor shield will take care of that for me."
-msgstr ""
+msgstr "Boty i tarcza zrobią to za mnie."
 
 #: HF-GateGuard.dialog:61
-msgid ""
-"Just remember to give me your valuables before you commit suicide."
-msgstr ""
+msgid "Just remember to give me your valuables before you commit suicide."
+msgstr "Tylko pamiętaj o oddaniu mi swoich kosztowności zanim popełnisz samobójstwo."
 
 #: HF-GateGuard.dialog:62
-msgid ""
-"You won't need any money once you're damn dead, and I could use it, "
-"eh?"
-msgstr ""
+msgid "You won't need any money once you're damn dead, and I could use it, eh?"
+msgstr "Nie potrzebujesz żadnych pieniędzy gdy do cholery umrzesz, to mogę ich użyć, nie?"
 
 #: HF-GateGuard.dialog:67
 msgid "Thanks for the advice."
-msgstr ""
+msgstr "Dzięki za radę. "
 
 #: HF-GateGuard.dialog:69
 msgid "You're dead if you don't take it."
-msgstr ""
+msgstr "Umrzesz jeśli tego nie weźmiesz."
 
 #: HF-GateGuard.dialog:74
 msgid "I'll be going then."
-msgstr ""
+msgstr "Ja lecę."
 
 #: HF-GateGuard.dialog:76
 msgid "Finally."
-msgstr ""
+msgstr "Ostatecznie."
 
 #: HF-GateGuard.dialog:76
 msgid "Don't come back."
-msgstr ""
+msgstr "Nie wracaj tu."
 
 #: HF-GateGuard.dialog:76
 msgid "It is dangerous here."
-msgstr ""
+msgstr "Tu jest niebezpiecznie."
 
 #: HF-GateGuard.dialog:76
+#, fuzzy
 msgid "Leave and stay away."
-msgstr ""
+msgstr "Znikaj i pozostań z dala."
+
