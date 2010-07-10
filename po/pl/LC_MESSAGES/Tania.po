@@ -1,3 +1,4 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
@@ -12,10 +13,7 @@ msgstr ""
 "Language: pl\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-#: Tania.dialog:38
-#: Tania.dialog:41
-#: Tania.dialog:175
-#: Tania.dialog:202
+#: Tania.dialog:38 Tania.dialog:41 Tania.dialog:175 Tania.dialog:202
 msgid "Tania's sanitary"
 msgstr "Sanitariuszka Tani"
 
@@ -95,8 +93,7 @@ msgstr "Możesz dać mi trochę pigułek?"
 msgid "No, Peter ate them all. That killed him."
 msgstr "Nie, Peter je jadł. Zabiły go."
 
-#: Tania.dialog:104
-#: Tania.dialog:108
+#: Tania.dialog:104 Tania.dialog:108
 msgid "*cries*"
 msgstr "*płacze*"
 
@@ -134,11 +131,11 @@ msgstr ""
 
 #: Tania.dialog:122
 msgid "You loved him?"
-msgstr ""
+msgstr "Kochasz go?"
 
 #: Tania.dialog:124
 msgid "I still do."
-msgstr ""
+msgstr "Jeszcze tak."
 
 #: Tania.dialog:129
 msgid "But why not go out through the door?"
@@ -267,4 +264,3 @@ msgstr ""
 #: Tania.dialog:222
 msgid "Please come back again and get me out of here."
 msgstr ""
-
