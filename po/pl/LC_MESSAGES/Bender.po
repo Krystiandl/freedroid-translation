@@ -295,7 +295,7 @@ msgstr "Hej, możesz mi podać hasło Lily?"
 
 #: Bender.dialog:215
 msgid "Sure, but we will have to shake on it."
-msgstr ""
+msgstr "Jasne, ale musimy się nad tym zastanowić."
 
 #: Bender.dialog:216
 msgid "OK..."
