@@ -1,3 +1,4 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
@@ -10,104 +11,101 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
-"%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: DSB-PowerControlGate1.dialog:37
 msgid "Login : "
-msgstr ""
+msgstr "Login:"
 
 #: DSB-PowerControlGate1.dialog:38
 msgid "admin"
-msgstr ""
+msgstr "admin"
 
 #: DSB-PowerControlGate1.dialog:39
 msgid "Password : "
-msgstr ""
+msgstr "Hasło:"
 
 #: DSB-PowerControlGate1.dialog:40
 msgid "*******"
-msgstr ""
+msgstr "*******"
 
 #: DSB-PowerControlGate1.dialog:41
 msgid "Login failed. Entering as Guest"
-msgstr ""
+msgstr "Logowanie nie powiodło się. Wchodzę jako Gość"
 
 #: DSB-PowerControlGate1.dialog:42
 msgid " "
-msgstr ""
+msgstr " "
 
 #: DSB-PowerControlGate1.dialog:43
 msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
-msgstr ""
+msgstr "Ostatnie logowanie z /dev/ttyS0 dnia Sun, 23 mar 2057."
 
 #: DSB-PowerControlGate1.dialog:53
 msgid "GAME BUG. PLEASE REPORT."
-msgstr ""
+msgstr "BŁĄD GRY. PROSZĘ O RAPORTOWANIE"
 
 #: DSB-PowerControlGate1.dialog:59
 msgid "open gate"
-msgstr ""
+msgstr "otwórz bramę"
 
 #: DSB-PowerControlGate1.dialog:62 DSB-PowerControlGate1.dialog:66
 #: DSB-PowerControlGate1.dialog:80
 msgid "Gate status: CLOSED"
-msgstr ""
+msgstr "Status bramy: ZAMKNIĘTA"
 
 #: DSB-PowerControlGate1.dialog:63
 msgid "Security Access to this area not granted."
 msgstr ""
 
 #: DSB-PowerControlGate1.dialog:64
-msgid ""
-"Contact personnel in Machine Deck Control Room if you believe this to "
-"be in error."
-msgstr ""
+msgid "Contact personnel in Machine Deck Control Room if you believe this to be in error."
+msgstr "Jeśli uważasz to za błąd, skontaktuj się z obsługą z Pokoju Kontrolnego"
 
 #: DSB-PowerControlGate1.dialog:67
 msgid "Access granted. Opening gate ..."
-msgstr ""
+msgstr "Udzielono dostępu. Otwieranie bramy ..."
 
 #: DSB-PowerControlGate1.dialog:68 DSB-PowerControlGate1.dialog:78
 msgid "Gate status: OPEN"
-msgstr ""
+msgstr "Status bramy: OTWARTA"
 
 #: DSB-PowerControlGate1.dialog:76
 msgid "close gate"
-msgstr ""
+msgstr "zamnij bramę"
 
 #: DSB-PowerControlGate1.dialog:79
 msgid "Access granted. Closing gate ..."
-msgstr ""
+msgstr "Udzielono dostępu. Zamykanie bramy ..."
 
 #: DSB-PowerControlGate1.dialog:87
 msgid "Debug: give cookie"
-msgstr ""
+msgstr "Debug: daj ciastko"
 
 #: DSB-PowerControlGate1.dialog:91
 msgid "Cookie cheated"
-msgstr ""
+msgstr "Ciastko sfałszowane"
 
 #: DSB-PowerControlGate1.dialog:93
 msgid "Cookie already cheated"
-msgstr ""
+msgstr "Ciastko już  zostało sfałszowane"
 
 #: DSB-PowerControlGate1.dialog:99
 msgid "logout"
-msgstr ""
+msgstr "wyloguj"
 
 #: DSB-PowerControlGate1.dialog:101
 msgid "Exiting"
-msgstr ""
+msgstr "Wychodzę"
 
 #: DSB-PowerControlGate1.dialog:102
 msgid "Have a nice day."
-msgstr ""
+msgstr "Miłego dnia."
 
 #: DSB-PowerControlGate1.dialog:102
 msgid "Have a wonderful day."
-msgstr ""
+msgstr "Wspaniałego dnia"
 
 #: DSB-PowerControlGate1.dialog:102
 msgid "Hope your day will be most productive."
-msgstr ""
+msgstr "Oby twój dzień był jak najbardziej produktywny."
