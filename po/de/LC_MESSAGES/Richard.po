@@ -1,8 +1,9 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
-"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-24 11:46+0000\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
 "PO-Revision-Date: 2010-04-08 14:10+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -10,91 +11,83 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/david/src/freedroid-translation/dialogs/Richard.dialog:43
+#: Richard.dialog:43
 msgid "Hi! I'm new here. "
-msgstr ""
+msgstr "Hallo. Ich bin neu hier."
 
-#: /home/david/src/freedroid-translation/dialogs/Richard.dialog:45
+#: Richard.dialog:45
+#, fuzzy
 msgid "Welcome, welcome! I'm Richard. I'm the computer guy around here."
+msgstr "Herzlich wilkommen! Ich bin Richard. Ich bin der Computertyp hier"
+
+#: Richard.dialog:46
+msgid "I mostly work with this huge computer cluster here, although I also program the 614 bots in my spare time."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Richard.dialog:46
-msgid ""
-"I mostly work with this huge computer cluster here, although I also "
-"program the 614 bots in my spare time."
-msgstr ""
+#: Richard.dialog:47
+msgid "Richard -- Programmer"
+msgstr "Richard -- Programmierer"
 
-#: /home/david/src/freedroid-translation/dialogs/Richard.dialog:51
+#: Richard.dialog:52
 msgid "A computer cluster? What's that?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Richard.dialog:53
-msgid ""
-"A cluster is a group of computers, connected in a way that helps them "
-"collaborate in solving problems."
+#: Richard.dialog:54
+msgid "A cluster is a group of computers, connected in a way that helps them collaborate in solving problems."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Richard.dialog:54
-msgid ""
-"As they say, 'two heads are better than one'. And we have a lot of "
-"heads here."
+#: Richard.dialog:55
+msgid "As they say, 'two heads are better than one'. And we have a lot of heads here."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Richard.dialog:55
+#: Richard.dialog:56
 msgid "That is why I call this cluster 'Hydra'. A lot of heads indeed."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Richard.dialog:60
-msgid ""
-"I have a data cube with some information. Can you tell me something "
-"more about it?"
+#: Richard.dialog:61
+msgid "I have a data cube with some information. Can you tell me something more about it?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Richard.dialog:62
-msgid ""
-"Interesting. Let me see this thing. Hmm... Yes, there is quite a lot "
-"of data in there. Maybe we could use Hydra to evaluate the data."
+#: Richard.dialog:63
+msgid "Interesting. Let me see this thing. Hmm... Yes, there is quite a lot of data in there. Maybe we could use Hydra to evaluate the data."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Richard.dialog:63
-msgid ""
-"Hey, what do we have here? The data is already prepared for "
-"processing by a cluster just like ours. Wow! That's excellent!"
+#: Richard.dialog:64
+msgid "Hey, what do we have here? The data is already prepared for processing by a cluster just like ours. Wow! That's excellent!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Richard.dialog:64
-msgid ""
-"I'll feed it into Hydra right away. Expect the results in a short "
-"while. Hydra has never let me down."
+#: Richard.dialog:65
+msgid "I'll feed it into Hydra right away. Expect the results in a short while. Hydra has never let me down."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Richard.dialog:72
+#: Richard.dialog:67
+msgid "A kingdom for a cluster!"
+msgstr ""
+
+#: Richard.dialog:67
+msgid "Yes, that was simple. I wish everything else went as smoothly as this one did..."
+msgstr ""
+
+#: Richard.dialog:72
 msgid "Hey, did you get something out of that data cube?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Richard.dialog:74
-msgid ""
-"Of course! I told you, Hydra has never failed me! I designed it "
-"myself, and I know computers very well. I never make mistakes."
+#: Richard.dialog:74
+msgid "Of course! I told you, Hydra has never failed me! I designed it myself, and I know computers very well. I never make mistakes."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Richard.dialog:75
-msgid ""
-"Seems like the disruptor shield which thwarts all our attacks on Hell "
-"Fortress can be controlled from somewhere outside, or something like "
-"that."
+#: Richard.dialog:75
+msgid "Seems like the disruptor shield which thwarts all our attacks on Hell Fortress can be controlled from somewhere outside, or something like that."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Richard.dialog:76
-msgid ""
-"I was busy servicing one of Hydra's nodes, but I sent the full report "
-"to Spencer. He will tell you more."
+#: Richard.dialog:76
+msgid "I was busy servicing one of Hydra's nodes, but I sent the full report to Spencer. He will tell you more."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Richard.dialog:81
+#: Richard.dialog:81
 msgid "See you later."
-msgstr ""
+msgstr "Auf Wiedersehen."
 
-#: /home/david/src/freedroid-translation/dialogs/Richard.dialog:83
+#: Richard.dialog:83
 msgid "Take care, Linarian."
-msgstr ""
+msgstr "Sei vorsichtig, Linarianer."
