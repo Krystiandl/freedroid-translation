@@ -48,7 +48,7 @@ msgstr "Antikes Schwert"
 
 #: freedroid.item_archetypes:257
 msgid "Very maneuverable for it's size, and heavy enough to punch though weaker bot armor in 1 hit, the only real disadvantage of this old weapon is the same as for other swords. It just doesn't last long when cutting into metal parts."
-msgstr ""
+msgstr "Sehr maneuvrierfähig für seine Größe, und schwer genug um mit einem Treffer schwache Roboterpanzerung zu durchdringen. Die einzig wahre Nachteil dieser alten Waffe ist, wie auch bei anderen Schwertern, dass es nicht lange hält, wenn es Metallteile zerschneiden soll."
 
 #: freedroid.item_archetypes:279
 msgid "Chainsaw"
@@ -225,8 +225,9 @@ msgid "Shock knife"
 msgstr "Elektromesser"
 
 #: freedroid.item_archetypes:1115 freedroid.item_archetypes:1150
+#, fuzzy
 msgid "FIXME and all values"
-msgstr ""
+msgstr "REPARIERMICH und andere Werte"
 
 #: freedroid.item_archetypes:1137
 msgid "Energy whip"
@@ -455,7 +456,7 @@ msgstr "Dieser böse Eumel ist dafür bekannt, die meisten Gegner mit einem einz
 #: freedroid.item_archetypes:2081
 #, fuzzy
 msgid "Electro Laser Rifle"
-msgstr "Lasergewehr MK I"
+msgstr "Elektrollasergewehr"
 
 #: freedroid.item_archetypes:2097
 msgid ""
@@ -533,12 +534,14 @@ msgid "Droid 296 Plasmabeam Cutter"
 msgstr "Robotbewaffnung - 296: schwache Metallgreifer (Hiebe, Quetschungen)"
 
 #: freedroid.item_archetypes:2388
+#, fuzzy
 msgid "Droid 302 Overcharged Barcode Reader"
-msgstr ""
+msgstr "Überladenes Barcodelesegerät"
 
 #: freedroid.item_archetypes:2423
+#, fuzzy
 msgid "Droid 329 Dual Overcharged Barcode Reader"
-msgstr ""
+msgstr "Doppeltes überladenes Barcodlesegerät"
 
 #: freedroid.item_archetypes:2458
 #, fuzzy
@@ -556,24 +559,29 @@ msgid "Droid 493 Power Hammer"
 msgstr "Servo-Bolznagler"
 
 #: freedroid.item_archetypes:2561
+#, fuzzy
 msgid "Droid 516 Robotic Fist"
-msgstr ""
+msgstr "Roboterfaust"
 
 #: freedroid.item_archetypes:2596
+#, fuzzy
 msgid "Droid 543 Tree Harvester"
-msgstr ""
+msgstr "Baumerntemaschiene"
 
 #: freedroid.item_archetypes:2631
+#, fuzzy
 msgid "Droid 571 Robotic Fist"
-msgstr ""
+msgstr "Roboterfaust"
 
 #: freedroid.item_archetypes:2666
+#, fuzzy
 msgid "Droid 598 Robotic Fist"
-msgstr ""
+msgstr "Roboterfaust"
 
 #: freedroid.item_archetypes:2702
+#, fuzzy
 msgid "Droid 7xx Tux Seeking Missiles"
-msgstr ""
+msgstr "Tux-verfolgende Raketen"
 
 #: freedroid.item_archetypes:2735
 #, fuzzy
@@ -755,8 +763,9 @@ msgid "Worker Shoes"
 msgstr "Arbeiterschuhe"
 
 #: freedroid.item_archetypes:3237
+#, fuzzy
 msgid "These footwear are steel tipped, and generally quite sturdy, giving a bit extra protection."
-msgstr ""
+msgstr "Diese Schuhe haben Stahlkappen vorne dran und sind auch sonst sehr stabil. Sie geben ein wenig zusätzlichen Schutz."
 
 #: freedroid.item_archetypes:3241
 msgid "Battle Shoes"
@@ -1114,8 +1123,9 @@ msgid "This small device automatically collects data about the area within a ran
 msgstr "Dieses kleine Gerät sammelt automatisch Daten über das umliegende Gelände, in einem Umkreis von 7x7 Metern und zeigt auf Wunsch einen Miniaturplan der unmittelbaren Umgebung an. Per Funk werden die Informationen an Nanobots übermittelt, welche am Sehnerv angedockt sind und die Bilder über diesen direkt ins Gehirn einspeisen. Für bessere Lesbarkeit wird die Karte automatisch in mehrere Sektoren aufgeteilt."
 
 #: freedroid.item_archetypes:3957
+#, fuzzy
 msgid "Light Enhancer? to be incluced in the future..."
-msgstr ""
+msgstr "Lichverbesserer? wird in der Zukunft hinzugefügt..."
 
 #: freedroid.item_archetypes:3968
 msgid "See better in the dark. "
