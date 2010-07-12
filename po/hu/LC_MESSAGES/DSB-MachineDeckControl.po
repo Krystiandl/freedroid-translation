@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-28 13:08+0100\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"PO-Revision-Date: 2010-07-05 15:44+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -68,11 +68,19 @@ msgstr "FIGYELEM: Egy másik felhasználó is be van jelentkezve."
 msgid "Disruptor shield is active."
 msgstr "Disruptor pajzs aktív."
 
-#: DSB-MachineDeckControl.dialog:73
+#: DSB-MachineDeckControl.dialog:66
+msgid "Opening access to MS Office"
+msgstr "Hozzáférés indítása az MS Office-ba."
+
+#: DSB-MachineDeckControl.dialog:66
+msgid "I've taken over the control droid and disabled the disruptor shield. Now, I should go to the Hell Fortress and hack the MS firmware update system."
+msgstr "Feltörtem a kontrolldroidot és kikapcsoltam a disruptor pajzsot. Mostmár mehetek a Pokoli Erődbe, és feltörhetem az MS firmware frissítő rendszert."
+
+#: DSB-MachineDeckControl.dialog:72
 msgid "logout"
 msgstr "logout"
 
-#: DSB-MachineDeckControl.dialog:75
+#: DSB-MachineDeckControl.dialog:74
 msgid "Exiting"
 msgstr "Kijelentkezés"
 

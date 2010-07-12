@@ -2,182 +2,187 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-02 07:42+0000\n"
-"PO-Revision-Date: 2010-05-22 20:22+0000\n"
-"Last-Translator: Automatically generated\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"PO-Revision-Date: 2010-07-05 13:56+0100\n"
+"Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
-"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: AfterTakeover.dialog:33
 msgid ".. bot_type().."
-msgstr ""
+msgstr ".. bot_tipus().."
 
 #: AfterTakeover.dialog:34
 msgid "Login : "
-msgstr ""
+msgstr "Login : "
 
 #: AfterTakeover.dialog:35
 msgid "tux"
-msgstr ""
+msgstr "tux"
 
 #: AfterTakeover.dialog:36
 msgid "Password : "
-msgstr ""
+msgstr "Jelszó : "
 
 #: AfterTakeover.dialog:38
 msgid "Last login from dev/ttyS0 on Sun, 23 mar 2057."
-msgstr ""
+msgstr "dev/ttyS0 utolsó bejelentkezése 2057. március 23, Vasárnap."
 
 #: AfterTakeover.dialog:39
 msgid "Welcome to [b]"
-msgstr ""
+msgstr "Üdvözöllek itt [b]"
 
 #: AfterTakeover.dialog:41
 msgid "Hardware Check : BOT DAMAGED"
-msgstr ""
+msgstr "Hardver Ellenőrzés : SÉRÜLT BOT"
 
 #: AfterTakeover.dialog:42
 msgid "This "
-msgstr ""
+msgstr "Ez az "
 
 #: AfterTakeover.dialog:42
 msgid " unit could need some repair."
-msgstr ""
+msgstr "egység javítást igényel."
 
-#: AfterTakeover.dialog:49 AfterTakeover.dialog:52
+#: AfterTakeover.dialog:49
+#: AfterTakeover.dialog:52
 msgid "cd repair&settings/"
-msgstr ""
+msgstr "cd javitas&beallitas/"
 
-#: AfterTakeover.dialog:58 AfterTakeover.dialog:61
+#: AfterTakeover.dialog:58
+#: AfterTakeover.dialog:61
 msgid "./hold_position.sh"
-msgstr ""
+msgstr "./poziciot_tartsd.sh"
 
 #: AfterTakeover.dialog:62
 msgid "Holding position."
-msgstr ""
+msgstr "Pozíció tartása."
 
 #: AfterTakeover.dialog:63
 msgid "script V 1.0.2 (c) gnu.org, 2054"
-msgstr ""
+msgstr "script V 1.0.2 (c) gnu.org, 2054"
 
-#: AfterTakeover.dialog:64 AfterTakeover.dialog:93
+#: AfterTakeover.dialog:64
+#: AfterTakeover.dialog:93
 msgid "Checking requirements..."
-msgstr ""
+msgstr "Szükséges eszközök ellenőrzése..."
 
 #: AfterTakeover.dialog:65
 msgid "Movement unit: Power-down... [Done]."
-msgstr ""
+msgstr "Meghajtóegység: Kikapcsolás... [kész]."
 
 #: AfterTakeover.dialog:66
 msgid "Status: All movement suppressed."
-msgstr ""
+msgstr "Állapot: Minden mozgás felfüggesztve."
 
-#: AfterTakeover.dialog:73 AfterTakeover.dialog:76
+#: AfterTakeover.dialog:73
+#: AfterTakeover.dialog:76
 msgid "./follow_me.sh"
-msgstr ""
+msgstr "./kovess_engem.sh"
 
 #: AfterTakeover.dialog:77
 msgid "Initiating tracking sequence."
-msgstr ""
+msgstr "Követési szekvencia futtatása."
 
 #: AfterTakeover.dialog:78
 msgid "Movement unit: Enabled."
-msgstr ""
+msgstr "Meghajtóegység: Bekapcsolva"
 
 #: AfterTakeover.dialog:79
 msgid "Trying to keep up with "
-msgstr ""
+msgstr "Próbálom követni"
 
 #: AfterTakeover.dialog:79
 msgid " position."
-msgstr ""
+msgstr "pozíció."
 
 #: AfterTakeover.dialog:80
 msgid "Status: Following "
-msgstr ""
+msgstr "Állapot: Követés"
 
-#: AfterTakeover.dialog:87 AfterTakeover.dialog:90 AfterTakeover.dialog:106
+#: AfterTakeover.dialog:87
+#: AfterTakeover.dialog:90
+#: AfterTakeover.dialog:106
 msgid "./move_freely.sh"
-msgstr ""
+msgstr "./mozogj_onalloan.sh"
 
 #: AfterTakeover.dialog:91
 msgid "Enable movement."
-msgstr ""
+msgstr "Meghajtás bekapcsolása."
 
 #: AfterTakeover.dialog:92
 msgid "script V 1.0.5 (c) gnu.org, 2054"
-msgstr ""
+msgstr "script V 1.0.5 (c) gnu.org, 2054"
 
 #: AfterTakeover.dialog:94
 msgid "Movement unit: Power-up... [Done]."
-msgstr ""
+msgstr "Meghajtóegység: Bekapcsolás... [kész]"
 
 #: AfterTakeover.dialog:95
 msgid "Resuming normal patrol operations... [Done]"
-msgstr ""
+msgstr "Normál járőrtevékenység folytatása... [kész]"
 
 #: AfterTakeover.dialog:96
 msgid "Status: Patrolling."
-msgstr ""
+msgstr "Állapot: Járőrözés."
 
 #: AfterTakeover.dialog:103
 msgid "./hcf.py"
-msgstr ""
+msgstr "./lfmgypy"
 
 #: AfterTakeover.dialog:108
 msgid "Are you really sure you want to destroy "
-msgstr ""
+msgstr "Biztosan el akarod pusztítani : "
 
 #: AfterTakeover.dialog:108
 msgid "? Y/N"
-msgstr ""
+msgstr "? I/N"
 
 #: AfterTakeover.dialog:114
 msgid "Yes"
-msgstr ""
+msgstr "Igen"
 
 #: AfterTakeover.dialog:117
 msgid "Destruction confirmed."
-msgstr ""
+msgstr "Parancs megerősítve."
 
 #: AfterTakeover.dialog:122
 msgid "No"
-msgstr ""
+msgstr "Nem"
 
 #: AfterTakeover.dialog:125
 msgid "Destrucion averted."
-msgstr ""
+msgstr "Parancs visszavonva."
 
 #: AfterTakeover.dialog:133
 msgid "Executing: Halt and Catch Fire."
-msgstr ""
+msgstr "Futtatás: Leáll és Meggyullad"
 
 #: AfterTakeover.dialog:134
 msgid "Warning! Cooling subsystems disabled."
-msgstr ""
+msgstr "Vigyázat! Hűtő alrendszerek kikapcsolva."
 
 #: AfterTakeover.dialog:135
-msgid ""
-"Warning! Spontaneous oxidization witH emis$ion of light aND heAt detecteddd "
-"in THE#main| procesIng unit."
-msgstr ""
+msgid "Warning! Spontaneous oxidization witH emis$ion of light aND heAt detecteddd in THE#main| procesIng unit."
+msgstr "Vigyázat! Spontán oxidáció Hő éS Feenyy emIszsI0v@l A CpU---nab."
 
 #: AfterTakeover.dialog:136
 msgid "WArn|n*! SsTeM=#faiPure%^#n 3 S 1()$++"
-msgstr ""
+msgstr "WiGyaazát*! RnSzr=%T@ljEs<>=%3 S()&#s++"
 
 #: AfterTakeover.dialog:139
 msgid "Opening access to MS Office"
-msgstr ""
+msgstr "MS Office hozzáférés indítása"
 
 #: AfterTakeover.dialog:141
 msgid "()%#@(% THE BLADE IS YOURS. )##%*&%*!"
-msgstr ""
+msgstr "()%#@(% A PENGE A TIÉTEK. )##%*&%*!"
 
 #: AfterTakeover.dialog:156
 msgid "Closing remote connection..."
-msgstr ""
+msgstr "Távkapcsolat zárása..."
+

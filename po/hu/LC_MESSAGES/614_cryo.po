@@ -1,10 +1,10 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-23 11:05+0100\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"PO-Revision-Date: 2010-07-05 13:34+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -18,130 +18,138 @@ msgid "Who are you? "
 msgstr "Ki vagy te?"
 
 #: 614_cryo.dialog:36
-msgid "I am a 614 security bot, once one of the best-selling products of Nicholson, Inc.."
+msgid "I am a 614 security bot, once one of the best-selling products of Nicholson, Inc.."
 msgstr "Én egy 614-es biztonsági bot vagyok, a Nicholson vállalat egyik legjobb terméke..."
 
-#: 614_cryo.dialog:41
+#: 614_cryo.dialog:37
+msgid "614 -- Cryo Lab Guard Bot"
+msgstr "614 -- Krio Labor Őr Bot"
+
+#: 614_cryo.dialog:42
 msgid "What can you tell me about the Nicholson company?"
 msgstr "Mit tudsz mondani a Nicholson vállalatról?"
 
-#: 614_cryo.dialog:43
-msgid "Nicholson, Inc. produces security bots."
+#: 614_cryo.dialog:44
+msgid "Nicholson, Inc. produces security bots."
 msgstr "A Nicholson vállalat biztonsági botokat gyárt."
 
-#: 614_cryo.dialog:44
+#: 614_cryo.dialog:45
 msgid "It was founded by Karl Nicholson, a former Kernel hacker who was not satisfied with the development of the GPL license."
 msgstr "Karl Nicholson alapította, aki előtte kernel hackerként tevékenykedett, mert nem volt megelégedve a GPL licensz fejlesztésével."
 
-#: 614_cryo.dialog:45
+#: 614_cryo.dialog:46
 msgid "Nicholson decided to stick to one GPL version because he saw things getting worse."
 msgstr "Nicholson elhatározta, hogy megmarad egyfajta GPL verziónál, mert úgy látta, hogy a dolgok egyre rosszabbá válnak."
 
-#: 614_cryo.dialog:46
+#: 614_cryo.dialog:47
 msgid "Others were warned, but nobody listened to Nicholsons announcements."
 msgstr "A többieket figyelmeztette, de senki sem hallgatott Nicholson szavaira."
 
-#: 614_cryo.dialog:47
+#: 614_cryo.dialog:48
 msgid "He built up a team and developed his own Kernel called 'Nkernel'."
 msgstr "Alapított egy csapatot, és kifejlesztette a saját kernelét, az Nkernelt."
 
-#: 614_cryo.dialog:48
+#: 614_cryo.dialog:49
 msgid "The Nkernel development team grew fast and technicians started to produce their own droids optimized for the Nkernel."
 msgstr "Az Nkernel fejlesztői csapat gyorsan növekedett, és a technikusaik elkezdték gyártani a saját, Nkernelre optimalizált droidjaikat."
 
-#: 614_cryo.dialog:49
+#: 614_cryo.dialog:50
 msgid "The Team became a company which released their first security droid, the 610 Lovely."
 msgstr "A Csapat vállalattá alakult, és piacra dobta első biztonsági droidját, a 610 Lovely-t."
 
-#: 614_cryo.dialog:50
+#: 614_cryo.dialog:51
 msgid "I am the 4th generation version of their security droid line."
 msgstr "Én a biztonsági droid széria negyedik generációs verziója vagyok."
 
-#: 614_cryo.dialog:55
+#: 614_cryo.dialog:56
 msgid "Have you detected any hostile bot activity?"
 msgstr "Érzékeltél ellenséges bot aktivitást?"
 
-#: 614_cryo.dialog:57
-msgid "Order Received. Inititiating proximity energy level scan..."
+#: 614_cryo.dialog:58
+msgid "Order Received. Initiating proximity energy level scan..."
 msgstr "Parancs Végrehajtása. Ellenséges Energiaszint Scannelés Indítása..."
 
-#: 614_cryo.dialog:58
+#: 614_cryo.dialog:59
 msgid "***** Proximity Scan Results *****"
 msgstr "*****Ellenség Scan Eredménye*****"
 
-#: 614_cryo.dialog:59
+#: 614_cryo.dialog:60
 msgid "Hostile Numeric Presence: HIGH"
 msgstr "Ellenséges Jelenlét Száma: MAGAS"
 
-#: 614_cryo.dialog:60
+#: 614_cryo.dialog:61
 msgid "Enemy Energy Levels: LOW"
 msgstr "Ellenséges Energia Szint: ALACSONY"
 
-#: 614_cryo.dialog:61
+#: 614_cryo.dialog:62
 msgid "Threat Degree Analysis: MODERATE"
 msgstr "Fenyegetettségi Szint: KÖZEPES"
 
-#: 614_cryo.dialog:62
-msgid "Complex Gate Status: OPEN"
-msgstr "Kapuk Állapota: NYITVA"
+#: 614_cryo.dialog:64
+msgid "Cryo Complex Gates Status: CLOSED"
+msgstr "Krio Komplexum Kapuk Állapota: NYITVA"
 
-#: 614_cryo.dialog:67
+#: 614_cryo.dialog:66
+msgid "Cryo Complex Gates Status: OPEN"
+msgstr "Krio Komplexum Kapuk Állapota: NYITVA"
+
+#: 614_cryo.dialog:72
 msgid "What can you tell me about the 614 type?"
 msgstr "Mit tudsz mondani a 614-es tipusról?"
 
-#: 614_cryo.dialog:69
+#: 614_cryo.dialog:74
 msgid "The official manual classifies the 614 as a high class security droid."
 msgstr "A 614-es hivatalos besorolása magasszintű biztonsági droid."
 
-#: 614_cryo.dialog:70
+#: 614_cryo.dialog:75
 msgid "It was mainly used within ships to protect certain areas from intruders."
 msgstr "Jellemzően hajókon alkalmazták, különböző területek behatolókkal szembeni védelmére."
 
-#: 614_cryo.dialog:71
+#: 614_cryo.dialog:76
 msgid "It is considered an old but reliable device."
 msgstr "Meglehetősen idejétmúlt, de megbízható egység."
 
-#: 614_cryo.dialog:72
+#: 614_cryo.dialog:77
 msgid "So don't worry. I'm still in pretty good shape."
 msgstr "Tehát ne aggódj. Még mindíg elég jó állapotban vagyok."
 
-#: 614_cryo.dialog:77
+#: 614_cryo.dialog:82
 msgid "What are your orders?"
 msgstr "Milyen utasításokat követsz?"
 
-#: 614_cryo.dialog:79
+#: 614_cryo.dialog:84
 msgid "Primary objective: Protect the living beings inside this complex from attacks by hostile bots."
 msgstr "Elsődleges feladat: Az élőlények védelme az ellenséges droidoktól a komplexumon belül."
 
-#: 614_cryo.dialog:80
+#: 614_cryo.dialog:85
 msgid "Secondary objective: Protect facility by locking outer gates if Threat Degree Analysis: HIGH."
 msgstr "Másodlagos feladat: A létesítmény védelme a külső kapuk lezárásával, ha a Fenyegetettségi Szint: MAGAS"
 
-#: 614_cryo.dialog:85
+#: 614_cryo.dialog:91
 msgid "Why are you not hostile as are all the other bots?"
 msgstr "Miért nem vagy ellenséges, mint a többi bot?"
 
-#: 614_cryo.dialog:87
+#: 614_cryo.dialog:93
 msgid "I belong to a an older generation of bots, running a custom-made security guard operating system."
 msgstr "Egy régebbi botgenerációhoz tartozom, amely egy kölönlegesen fejlesztett őrző-védő operációs rendszert futtat."
 
-#: 614_cryo.dialog:88
+#: 614_cryo.dialog:94
 msgid "None of the bots of this generation were affected by the proceedings that led to bots attacking, generally known as the Great Assault."
 msgstr "Ebből a generációból egy bot sem volt érintett abban a folyamatban, ami a droidok ellenségessé válásához vezetett, amit mindenki csak a Nagy Ostromként emleget."
 
-#: 614_cryo.dialog:89
-msgid "Even though discontinued from Nicholson, Inc. long ago, today, some people have picked up the work and are even trying to improve the operating system running on my series."
+#: 614_cryo.dialog:95
+msgid "Even though discontinued from Nicholson, Inc. long ago, today, some people have picked up the work and are even trying to improve the operating system running on my series."
 msgstr "Ahol a Nicholson vállalat a régmúltban abbahagyta, néhány ember ott folytatta a munkát, megpróbálva növelni az operációs rendszer hatékonyságát, amelyet a szériám futtat."
 
-#: 614_cryo.dialog:90
-msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
+#: 614_cryo.dialog:96
+msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
 msgstr "Ne felejts el a Nicholson vállalat termékeiből vásárolni. Ők a legjobbak."
 
-#: 614_cryo.dialog:95
+#: 614_cryo.dialog:101
 msgid "See you later."
 msgstr "Később találkozunk. Viszlát!"
 
-#: 614_cryo.dialog:97
+#: 614_cryo.dialog:103
 msgid "Resuming guard program."
 msgstr "Örző-Védő Program folytatása."
 

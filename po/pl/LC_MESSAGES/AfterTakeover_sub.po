@@ -3,303 +3,316 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-06-23 07:57+0000\n"
-"PO-Revision-Date: 2010-06-23 07:57+0000\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2010-07-09 19:30+0100\n"
+"Last-Translator: Angelika Maria Piątkowska <piatkosia.apt@interia.pl>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
-"%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
 
 #: AfterTakeover_sub.dialog:33
 msgid ".. bot_type().."
-msgstr ""
+msgstr ".. typ_bota().."
 
-#: AfterTakeover_sub.dialog:47 AfterTakeover_sub.dialog:50
+#: AfterTakeover_sub.dialog:47
+#: AfterTakeover_sub.dialog:50
 msgid "./est_repair.plx"
-msgstr ""
+msgstr "./est_repair.plx"
 
 #: AfterTakeover_sub.dialog:59
 msgid "Repairs on "
-msgstr ""
+msgstr "Naprawa włączona"
 
 #: AfterTakeover_sub.dialog:59
 msgid " will take less than "
-msgstr ""
+msgstr "potrwa krócej niż"
 
 #: AfterTakeover_sub.dialog:59
 msgid " seconds, "
-msgstr ""
+msgstr "sekundę,"
 
 #: AfterTakeover_sub.dialog:59
 msgid " valuable circuits, and "
-msgstr ""
+msgstr "cena obwodów, i"
 
 #: AfterTakeover_sub.dialog:59
 msgid " heat."
-msgstr ""
+msgstr "ciepło."
 
 #: AfterTakeover_sub.dialog:62
-msgid ""
-"You do not have enough valuable circuits to ensure repair of this "
-msgstr ""
+msgid "You do not have enough valuable circuits to ensure repair of this "
+msgstr "Nie masz wystarczającej ilości cennych układów w celu zapewnienia naprawy tej"
 
-#: AfterTakeover_sub.dialog:62 AfterTakeover_sub.dialog:154
+#: AfterTakeover_sub.dialog:62
+#: AfterTakeover_sub.dialog:154
 msgid " unit."
-msgstr ""
+msgstr "jednostki."
 
 #: AfterTakeover_sub.dialog:67
 msgid " is currently undamaged."
-msgstr ""
+msgstr "jest aktualnie nieuszkodzona"
 
-#: AfterTakeover_sub.dialog:74 AfterTakeover_sub.dialog:77
+#: AfterTakeover_sub.dialog:74
+#: AfterTakeover_sub.dialog:77
 msgid "./repair.plx"
-msgstr ""
+msgstr "./naprawa.plx"
 
 #: AfterTakeover_sub.dialog:78
 msgid "Repair in progress."
-msgstr ""
+msgstr "Naprawa w toku."
 
 #: AfterTakeover_sub.dialog:79
 msgid "Logout to complete repair process."
-msgstr ""
+msgstr "Wyloguj po zakończeniu procesu naprawy."
 
-#: AfterTakeover_sub.dialog:94 AfterTakeover_sub.dialog:97
+#: AfterTakeover_sub.dialog:94
+#: AfterTakeover_sub.dialog:97
 msgid "./settings.plx"
-msgstr ""
+msgstr "./ustawienia.plx"
 
 #: AfterTakeover_sub.dialog:98
 msgid "Welcome to the settings menu."
-msgstr ""
+msgstr "Witaj w menu ustawień."
 
 #: AfterTakeover_sub.dialog:99
 msgid "Version: 1.82c"
-msgstr ""
+msgstr "Wersja: 1.82c"
 
 #: AfterTakeover_sub.dialog:100
 msgid "No upgrades found."
-msgstr ""
+msgstr "Unowocześnień nie znaleziono."
 
 #: AfterTakeover_sub.dialog:101
 msgid "Always ask for confirmation before execution of hcf.py? [Y/N]"
-msgstr ""
+msgstr "Za każdym razem pytać przed wykonaniem hcf.py? [T/N]"
 
 #: AfterTakeover_sub.dialog:106
 msgid "Yes, always ask."
-msgstr ""
+msgstr "Tak, zawsze pytaj."
 
 #: AfterTakeover_sub.dialog:109
 msgid "Confirmation will now be asked before execution of hcf.py."
-msgstr ""
+msgstr "Teraz będziesz pytany o potwierdzenie przed wykonaniem hcf.py."
 
-#: AfterTakeover_sub.dialog:110 AfterTakeover_sub.dialog:123
+#: AfterTakeover_sub.dialog:110
+#: AfterTakeover_sub.dialog:123
 msgid "Settings saved"
-msgstr ""
+msgstr "Ustawienia zapisane."
 
 #: AfterTakeover_sub.dialog:119
 msgid "No, don't ask"
-msgstr ""
+msgstr "Nie, nie pytaj."
 
 #: AfterTakeover_sub.dialog:122
 msgid "hcf.py will be executed without asking for confirmation."
-msgstr ""
+msgstr " hcf.py będzie wykonywane bez pytania o potwierdzenie."
 
-#: AfterTakeover_sub.dialog:132 AfterTakeover_sub.dialog:135
+#: AfterTakeover_sub.dialog:132
+#: AfterTakeover_sub.dialog:135
 msgid "./hostname"
-msgstr ""
+msgstr "./hostname"
 
 #: AfterTakeover_sub.dialog:136
 msgid "Welcome to the hostname menu."
-msgstr ""
+msgstr "Witamy w menu nazwy hosta."
 
 #: AfterTakeover_sub.dialog:137
 msgid "Version: 0.15.01"
-msgstr ""
+msgstr "Wersja: 0.15.01"
 
 #: AfterTakeover_sub.dialog:138
 msgid "Current botname: [b]"
-msgstr ""
+msgstr "Aktualne imię bota: [b]"
 
 #: AfterTakeover_sub.dialog:139
 msgid "Select new name? [Y/N]"
-msgstr ""
+msgstr "Wybrać nowe imię? [T/N]"
 
-#: AfterTakeover_sub.dialog:145 AfterTakeover_sub.dialog:148
-#: AfterTakeover_sub.dialog:178 AfterTakeover_sub.dialog:181
+#: AfterTakeover_sub.dialog:145
+#: AfterTakeover_sub.dialog:148
+#: AfterTakeover_sub.dialog:178
+#: AfterTakeover_sub.dialog:181
 msgid "Yes"
-msgstr ""
+msgstr "Tak"
 
 #: AfterTakeover_sub.dialog:149
 msgid "New Name: "
-msgstr ""
+msgstr "Nowe imię:"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Bald"
-msgstr ""
+msgstr "Bald"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Chic"
-msgstr ""
+msgstr "Chic"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Fuzzy"
-msgstr ""
+msgstr "Fuzzy"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Fluffy"
-msgstr ""
+msgstr "Fluffy"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Cuddly"
-msgstr ""
+msgstr "Cuddly"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Laughing"
-msgstr ""
+msgstr "Laughing"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Fickle"
-msgstr ""
+msgstr "Fickle"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Hyper"
-msgstr ""
+msgstr "Hyper"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Machavellian"
-msgstr ""
+msgstr "Machavellian"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Happy"
-msgstr ""
+msgstr "Happy"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Ornery"
-msgstr ""
+msgstr "Ornery"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Bunny"
-msgstr ""
+msgstr "Bunny"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Koala"
-msgstr ""
+msgstr "Koala"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Lemur"
-msgstr ""
+msgstr "Lemur"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Aardvark"
-msgstr ""
+msgstr "Aardvark"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Fox"
-msgstr ""
+msgstr "Fox"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Gnu"
-msgstr ""
+msgstr "Gnu"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Puffin"
-msgstr ""
+msgstr "Puffin"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Herring"
-msgstr ""
+msgstr "Herring"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Halibut"
-msgstr ""
+msgstr "Halibut"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Mackerel"
-msgstr ""
+msgstr "Mackerel"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Trout"
-msgstr ""
+msgstr "Trout"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Tuna"
-msgstr ""
+msgstr "Tuna"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Barracuda"
-msgstr ""
+msgstr "Barracuda"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Shrew"
-msgstr ""
+msgstr "Shrew"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Bat"
-msgstr ""
+msgstr "Bat"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Kitten"
-msgstr ""
+msgstr "Kitten"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Duck"
-msgstr ""
+msgstr "Duck"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Platypus"
-msgstr ""
+msgstr "Platypus"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Armadillo"
-msgstr ""
+msgstr "Armadillo"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Panda"
-msgstr ""
+msgstr "Panda"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Hedgehog"
-msgstr ""
+msgstr "Hedgehog"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Otter"
-msgstr ""
+msgstr "Otter"
 
 #: AfterTakeover_sub.dialog:154
 msgid "Type a new name for this "
-msgstr ""
+msgstr "Napisz nowe imię dla niego"
 
-#: AfterTakeover_sub.dialog:159 AfterTakeover_sub.dialog:162
-#: AfterTakeover_sub.dialog:190 AfterTakeover_sub.dialog:193
+#: AfterTakeover_sub.dialog:159
+#: AfterTakeover_sub.dialog:162
+#: AfterTakeover_sub.dialog:190
+#: AfterTakeover_sub.dialog:193
 msgid "No"
-msgstr ""
+msgstr "Nie"
 
 #: AfterTakeover_sub.dialog:172
 msgid "Confirm renaming from [b]"
-msgstr ""
+msgstr "Potwierdź zmianę nazwy z [b]"
 
-#: AfterTakeover_sub.dialog:172 AfterTakeover_sub.dialog:182
+#: AfterTakeover_sub.dialog:172
+#: AfterTakeover_sub.dialog:182
 msgid "[/b] to [b]"
-msgstr ""
+msgstr "[/b] na [b]"
 
 #: AfterTakeover_sub.dialog:172
 msgid "[/b]? [Y/N]"
-msgstr ""
+msgstr "[/b]? [Y/N]"
 
 #: AfterTakeover_sub.dialog:182
 msgid "Renamed [b]"
-msgstr ""
+msgstr "Zmieniono nazwę."
 
 #: AfterTakeover_sub.dialog:184
 msgid "This "
-msgstr ""
+msgstr "Ta"
 
 #: AfterTakeover_sub.dialog:184
 msgid " unit is now designated: [b]"
-msgstr ""
+msgstr "jednostka ma teraz miano: [b]"
 
 #: AfterTakeover_sub.dialog:202
 msgid "cd .."
-msgstr ""
+msgstr "cd .."
+

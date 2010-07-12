@@ -3,68 +3,73 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-06-23 07:57+0000\n"
-"PO-Revision-Date: 2010-06-23 07:57+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2010-07-08 02:48+0100\n"
+"Last-Translator: Angelika Maria Piątkowska <piatkosia.apt@interia.pl>\n"
+"Language-Team: freedroid team\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
-"%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
 
 #: Geist.dialog:41
 msgid "Hello. Any idea where I can get some help here?"
-msgstr ""
+msgstr "Cześć. Jakiś pomysł gdzie mogę szukać jakiejś pomocy?"
 
-#: Geist.dialog:43 Geist.dialog:69
+# Zostawiłam wersję niemiecką jako niezrozumiałą przez tuxa, niech będzie jak w oryginale
+#: Geist.dialog:43
+#: Geist.dialog:69
 msgid "Verschwinde!"
-msgstr ""
+msgstr "Verschwinde!"
 
 #: Geist.dialog:48
 msgid "Erm... What do you mean?"
-msgstr ""
+msgstr "Yyyyy co masz na myśli?"
 
 #: Geist.dialog:50
 msgid "Ich bin der Geist, der stets verneint."
-msgstr ""
+msgstr "Ich bin der Geist, der stets verneint."
 
 #: Geist.dialog:51
 msgid "Und das mit Recht; denn alles, was entsteht,"
-msgstr ""
+msgstr "Und das mit Recht; denn alles, was entsteht,"
 
 #: Geist.dialog:52
 msgid "ist wert, dass es zugrunde geht."
-msgstr ""
+msgstr "ist wert, dass es zugrunde geht."
 
 #: Geist.dialog:53
 msgid "Geist -- Hunter"
-msgstr ""
+msgstr "Geist -- Myśliwy"
 
 #: Geist.dialog:58
 msgid "I really do not understand you."
-msgstr ""
+msgstr "Serio cię nie rozumiem."
 
 #: Geist.dialog:60
 msgid "Wer sie nicht kennte, die Elemente,"
-msgstr ""
+msgstr "Wer sie nicht kennte, die Elemente,"
 
 #: Geist.dialog:61
 msgid "ihre Kraft und Eigenschaft,"
-msgstr ""
+msgstr "ihre Kraft und Eigenschaft,"
 
 #: Geist.dialog:62
 msgid "waere kein Meister ueber die Geister."
-msgstr ""
+msgstr "waere kein Meister ueber die Geister."
 
 #: Geist.dialog:67
 msgid "I wish I knew what you are talking about."
-msgstr ""
+msgstr "Pragnę dowiedzieć się o czym do mnie mówisz."
 
 #: Geist.dialog:75
 msgid "I need to go now."
-msgstr ""
+msgstr "Muszę już iść"
 
 #: Geist.dialog:77
 msgid " . . ."
-msgstr ""
+msgstr "..."
+

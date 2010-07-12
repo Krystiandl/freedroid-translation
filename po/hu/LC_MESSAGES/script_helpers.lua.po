@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-06-21 13:42+0100\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"PO-Revision-Date: 2010-07-07 12:23+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -12,15 +12,15 @@ msgstr ""
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: script_helpers.lua:128
-msgid "   New Quest assigned."
-msgstr "   Új Feladat érkezett"
+#: script_helpers.lua:132
+msgid "New Quest assigned."
+msgstr "Új Feladat érkezett."
 
-#: script_helpers.lua:134
-msgid "   Quest log updated."
-msgstr "   Feladatlista frissítve."
+#: script_helpers.lua:138
+msgid "Quest log updated."
+msgstr "Feladatlista frissítve."
 
-#: script_helpers.lua:140
-msgid "   Quest completed."
-msgstr "   Feladat teljesítve."
+#: script_helpers.lua:144
+msgid "Quest completed."
+msgstr "Feladat teljesítve."
 

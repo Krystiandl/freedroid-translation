@@ -3,148 +3,127 @@ msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-06-23 07:57+0000\n"
-"PO-Revision-Date: 2010-06-23 07:57+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2010-07-09 14:49+0100\n"
+"Last-Translator: Angelika Maria Piątkowska <piatkosia.apt@interia.pl>\n"
+"Language-Team: freedroid team\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
-"%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
 
 #: Town-614.dialog:35
 msgid "Who are you?"
-msgstr ""
+msgstr "Kim jesteś?"
 
 #: Town-614.dialog:37
-msgid ""
-"I am a 614 security bot, once one of the best-selling products of "
-"Nicholson, Inc.."
-msgstr ""
+msgid "I am a 614 security bot, once one of the best-selling products of Nicholson, Inc.."
+msgstr "Jestem botem bezpieczeństwa 614, jeden z najlepiej sprzedających się produktów firmy Nicholson, Inc.."
 
 #: Town-614.dialog:41
 msgid "What can you tell me about the Nicholson company?"
-msgstr ""
+msgstr "Co możesz mi powiedzieć o firmie Nicholson?"
 
 #: Town-614.dialog:43
 msgid "Nicholson, Inc. produces security bots."
-msgstr ""
+msgstr "Nicholson, Inc. produkuje boty bezpieczeństwa."
 
 #: Town-614.dialog:44
-msgid ""
-"It was founded by Karl Nicholson, a former Kernel hacker who was not "
-"satisfied with the development of the GPL license."
-msgstr ""
+msgid "It was founded by Karl Nicholson, a former Kernel hacker who was not satisfied with the development of the GPL license."
+msgstr "Została założona przez  Karla Nicholsona, byłego Kernel hakera który nie był zadowolony z rozwoju licencji GPL."
 
 #: Town-614.dialog:45
-msgid ""
-"Nicholson decided to stick to one GPL version because he saw things "
-"getting worse."
-msgstr ""
+msgid "Nicholson decided to stick to one GPL version because he saw things getting worse."
+msgstr "Nicholson zdecydował się trzymać jednej wersji GPL ponieważ zobaczył że niektóre rzeczy idą w złym kierunku."
 
 #: Town-614.dialog:46
-msgid ""
-"Others were warned, but nobody listened to Nicholsons announcements."
-msgstr ""
+msgid "Others were warned, but nobody listened to Nicholsons announcements."
+msgstr "Ostrzegł innych, ale nikt nie słuchał jego oświadczeń."
 
 #: Town-614.dialog:47
 msgid "He built up a team and developed an own Kernel called 'Nkernel'."
-msgstr ""
+msgstr "Powołał więc team i rozwijał swój własny kernel nazywany \" Nkernel\"."
 
 #: Town-614.dialog:48
-msgid ""
-"The Nkernel development team grew fast and technicians started to "
-"produce their own droids optimized for the Nkernel."
-msgstr ""
+msgid "The Nkernel development team grew fast and technicians started to produce their own droids optimized for the Nkernel."
+msgstr "Team zajmujący się  Nkernel rozwijał się szybko i technicy rozpoczęli produkować własne roboty optymizowane pod Nkernel."
 
 #: Town-614.dialog:49
-msgid ""
-"The Team became a company which released their first security droid, "
-"the 610 Lovely."
-msgstr ""
+msgid "The Team became a company which released their first security droid, the 610 Lovely."
+msgstr "Team stał się firmą która wydała pierwszego bota bezpieczeństwa, uroczego 610."
 
 #: Town-614.dialog:50
 msgid "I am the 4th generation version of their security droid line."
-msgstr ""
+msgstr "Jestem 4 generacją wersji tej linii botów bezpieczeństwa."
 
 #: Town-614.dialog:55
 msgid "Have you detected any hostile bot activity?"
-msgstr ""
+msgstr "Wykryłeś jakąś wrogą aktywność bota?"
 
 #: Town-614.dialog:57
 msgid "No. The hostiles have not shown up within the last 24 hours."
-msgstr ""
+msgstr "Nie. Wrogowie nie pokazywali się w środku w ostatnich 24 godzin."
 
 #: Town-614.dialog:62
 msgid "What can you tell me about the 614 type? "
-msgstr ""
+msgstr "Co możesz mi powiedzieć o typie 614?"
 
 #: Town-614.dialog:64
-msgid ""
-"The official manual classifies the 614 as a high class security droid."
-msgstr ""
+msgid "The official manual classifies the 614 as a high class security droid."
+msgstr "Oficjalny manual klasyfikuje 614 jako wysokiej klasy bota bezpieczeństwa."
 
 #: Town-614.dialog:65
-msgid ""
-"It was mainly used within ships to protect certain areas from "
-"intruders."
-msgstr ""
+msgid "It was mainly used within ships to protect certain areas from intruders."
+msgstr "Jest głównie używany wewnątrz statków do ochrony pewnych miejsc przed intruzami."
 
 #: Town-614.dialog:66
 msgid "It is considered an old but reliable device."
-msgstr ""
+msgstr "Jest uważany za stare, ale niezawodne urządzenie."
 
 #: Town-614.dialog:67
 msgid "So don't worry. I'm still in pretty good shape."
-msgstr ""
+msgstr "Więc nie przejmuj się. Mam jeszcze całkiem niezły kształt."
 
 #: Town-614.dialog:72
 msgid "What are your orders?"
-msgstr ""
+msgstr "Co leży w twoim obowiązku??"
 
 #: Town-614.dialog:74
-msgid ""
-"My orders are to protect the living beings in this camp from attacks "
-"by hostile bots."
-msgstr ""
+msgid "My orders are to protect the living beings in this camp from attacks by hostile bots."
+msgstr "Moim obowiązkiem jest ochrona ludzi w obozie przed atakiem wrogich botów."
 
 #: Town-614.dialog:75
 msgid "This has top priority. There are no other priorities."
-msgstr ""
+msgstr "To jest najwyższy priorytet. Nie mamy innych priorytetów."
 
 #: Town-614.dialog:80
 msgid "Why are you not hostile, as are all the other bots?"
-msgstr ""
+msgstr "Czemu nie jesteś tak wrogi jak wszystkie pozostałe boty?"
 
 #: Town-614.dialog:82
-msgid ""
-"I belong to a an older generation of bots, running a custom-made "
-"security guard operating system."
-msgstr ""
+msgid "I belong to a an older generation of bots, running a custom-made security guard operating system."
+msgstr "Należę do starszej generacji botów, działam pod kontrolą zamówionego przez gwardię bezpieczeństwa systemie operacyjnym."
 
 #: Town-614.dialog:83
-msgid ""
-"None of the bots of this generation were affected by the proceedings "
-"that led to bots attacking, generally known as the Great Assault."
-msgstr ""
+msgid "None of the bots of this generation were affected by the proceedings that led to bots attacking, generally known as the Great Assault."
+msgstr "Żaden bot tej generacji nie był wyczulony na procedury co prowadziło do ataku botów, ogólnie znanym jako Wielki Atak"
 
 #: Town-614.dialog:84
-msgid ""
-"Even though discontinued by the Nicholson, Inc. long ago, today, some "
-"people have picked up the work and are even trying to improve the "
-"operating system running on my series."
-msgstr ""
+msgid "Even though discontinued by the Nicholson, Inc. long ago, today, some people have picked up the work and are even trying to improve the operating system running on my series."
+msgstr "Chociaż już dawno nie jest już produkowany przez Nicholson, Inc. , niektórzy ludzie zabrali się do pracy i jeszcze próbowali poprawić system operacyjny chodzący na mojej serii."
 
 #: Town-614.dialog:85
-msgid ""
-"Don't forget to buy products from Nicholson, Inc.. They are the best."
-msgstr ""
+msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
+msgstr "Nie zapomnij kupić produktów firmy Nicholson, Inc.. Są najlepsi."
 
 #: Town-614.dialog:90
 msgid "See you later."
-msgstr ""
+msgstr "Do zobaczenia później"
 
 #: Town-614.dialog:92
 msgid "Resuming guard program."
-msgstr ""
+msgstr "Wznowienie programu straży"
+

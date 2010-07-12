@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-30 20:30+0100\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"PO-Revision-Date: 2010-07-06 13:29+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -105,31 +105,52 @@ msgstr "Kristály Barlang Kijárat"
 msgid "Back to the Desert"
 msgstr "Vissza a Sivatagba"
 
-#: freedroid.events:371
+#: freedroid.events:367
+msgid "Red Square"
+msgstr "Vörös Tér"
+
+#: freedroid.events:373
+msgid "Good, now move to the black grating to the East."
+msgstr "Rendben, most menj vissza a fekete kínhoz Kelet felé."
+
+#: freedroid.events:374
+#: freedroid.events:386
+msgid "Quest log updated"
+msgstr "Küldetés lista frissítve"
+
+#: freedroid.events:380
+msgid "Black Dot"
+msgstr "Fekete Pont"
+
+#: freedroid.events:385
+msgid "Good, now talk to Tutorial Tom again."
+msgstr "Rendben, beszélj újra Tutorial Tommal."
+
+#: freedroid.events:395
 msgid "To a Forgotten Bunker"
 msgstr "Elfelejtett Bunker"
 
-#: freedroid.events:387
+#: freedroid.events:411
 msgid "Unknown place"
 msgstr "Ismeretlen hely"
 
-#: freedroid.events:407
+#: freedroid.events:431
 msgid "Hidden way out"
 msgstr "Rerjett út kifelé"
 
-#: freedroid.events:463
+#: freedroid.events:487
 msgid "Back to Disruptor Shield Control"
 msgstr "Vissza a Disruptor Pajzs Kontrollterembe"
 
-#: freedroid.events:472
+#: freedroid.events:496
 msgid "To Mashine Deck Lower Catacombs"
 msgstr "Az Alsóbb Katakombák Gépháza"
 
-#: freedroid.events:484
+#: freedroid.events:508
 msgid "Back to Machine Deck Upper Catacombs"
 msgstr "Vissza a Felsőbb Katakombák Gépházába"
 
-#: freedroid.events:493
+#: freedroid.events:517
 msgid "To Disruptor Mashine Deck"
 msgstr "Disruptor Gépház"
 

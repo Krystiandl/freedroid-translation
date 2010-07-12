@@ -1,10 +1,10 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-29 12:38+0100\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"PO-Revision-Date: 2010-07-05 15:49+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -25,166 +25,171 @@ msgstr "Helló. Mi a Fleischer testvérek vagyunk."
 msgid "I am Engel. He is Geist, and he does not know the language."
 msgstr "Én Engel vagyok. Ő Geist, és nem beszéli a nyelvet."
 
-#: Engel.dialog:49
+#: Engel.dialog:45
+msgid "Engel -- Hunter"
+msgstr "Engel -- Vadász"
+
+#: Engel.dialog:50
 msgid "What are you doing here?"
 msgstr "Mit csináltok erre felé?"
 
-#: Engel.dialog:51
+#: Engel.dialog:52
 msgid "Revenge."
 msgstr "Bosszút állunk."
 
-#: Engel.dialog:52
+#: Engel.dialog:53
 msgid "The bots have killed our mother. Now we kill them."
 msgstr "A botok megölték az anyánkat. Most mi öljük meg őket."
 
-#: Engel.dialog:53
+#: Engel.dialog:54
 msgid "No mercy. We hunt them."
 msgstr "Nincs kegyelem. Vadászunk rájuk."
 
-#: Engel.dialog:58
+#: Engel.dialog:59
 msgid "Can I help you somehow?"
 msgstr "Tudok valahogy segíteni?"
 
-#: Engel.dialog:60
+#: Engel.dialog:61
 msgid "Nein. Let us die as warriors. That is all we ask for."
 msgstr "Nein. Hagyj minket harcosként meghalni. Csak ennyit kérünk."
 
-#: Engel.dialog:65
+#: Engel.dialog:66
 msgid "If you keep standing here more bots will come and they will kill you. Go somewhere safe, and set up defense there."
 msgstr "Ha itt maradtuk, még több bot fog jönni, és megölnek titeket. Menjetek valami biztonságos helyre, és ássátok be magatokat."
 
-#: Engel.dialog:73
+#: Engel.dialog:74
 msgid "If you keep standing here more bots will come and --"
 msgstr "Ha itt maradtuk, még több bot fog jönni, és --"
 
-#: Engel.dialog:75
+#: Engel.dialog:76
 msgid "Sehr gut. Let them come. We are ready."
 msgstr "Sehr gut. Hadd jöjjenek. Készen állunk."
 
-#: Engel.dialog:76
+#: Engel.dialog:77
 msgid "What a beautiful day. Yes."
 msgstr "Milyen gyönyörű nap. Igen."
 
-#: Engel.dialog:81
+#: Engel.dialog:82
 msgid "You are insane. Get out of here while you still can."
 msgstr "Őrültek vagytok. Tűnjetek el, amíg még tudtok."
 
-#: Engel.dialog:83
+#: Engel.dialog:84
 msgid "No."
 msgstr "Nem."
 
-#: Engel.dialog:84
+#: Engel.dialog:85
 msgid "Every day since the mess started I come here to fight the bots."
 msgstr "Minden nap, a háború kezdete óta ide jövünk, hogy harcoljunk a botokkal."
 
-#: Engel.dialog:85
+#: Engel.dialog:86
 msgid "Today will be no different."
 msgstr "A mai nap más lesz."
 
-#: Engel.dialog:86
+#: Engel.dialog:87
 msgid "Do not try to stop us. We have our rifles loaded."
 msgstr "Ne akarj megállítani. A fegyvereink töltve vannak."
 
-#: Engel.dialog:91
+#: Engel.dialog:92
 msgid "Where can I get some help?"
 msgstr "Hol kaphatok némi segítséget?"
 
-#: Engel.dialog:93
+#: Engel.dialog:94
 msgid "Nowhere. This is the end of the world. There is no help."
 msgstr "Sehol. Ez a világvége. Nincs segítség."
 
-#: Engel.dialog:94
+#: Engel.dialog:95
 msgid "There is a city a bit south from here, but if I were you, I would not go there."
 msgstr "Van nem messze egy város, de a helyedben nem mennék oda."
 
-#: Engel.dialog:95
+#: Engel.dialog:96
 msgid "The Rot Guard is the ruler there, and cruelty is their solution to everything."
 msgstr "A Vörös Őrség uralkodik, és mindenre a kegyetlenség a megoldásuk."
 
-#: Engel.dialog:96
+#: Engel.dialog:97
 msgid "Real freedom is really dead."
 msgstr "Az igaz szabadság teljesen elveszett."
 
-#: Engel.dialog:101
+#: Engel.dialog:102
 msgid "You guys are totally nuts. Get a life."
 msgstr "Ti, fiúk totál gyökerek vagytok. Éljetek inkább."
 
-#: Engel.dialog:109
+#: Engel.dialog:110
 msgid "You guys are tota --"
 msgstr "Ti, fiúk, totál --"
 
-#: Engel.dialog:111
+#: Engel.dialog:112
 msgid "WHAT?! What is it that you want to say?"
 msgstr "MICSODA?! Mit akartál mondani?"
 
-#: Engel.dialog:112
+#: Engel.dialog:113
 msgid "Erm... I --"
 msgstr "Ööö... Én --"
 
-#: Engel.dialog:113
+#: Engel.dialog:114
 msgid "WHAT!? SPIT IT OUT!"
 msgstr "MI VAN!? BESZÉLJ!"
 
-#: Engel.dialog:114
+#: Engel.dialog:115
 msgid "Er... You guys are really great and I admire your bravery in the face of certain death."
 msgstr "Ööö... Ti, fiúk igazán nagyszerűek vagytok, értékelem a bátorságotokat, hogy szembenéztek a biztos halállal."
 
-#: Engel.dialog:115
+#: Engel.dialog:116
 msgid "Donnerwetter, you are a funny one."
 msgstr "Donnervetter, te igazán vicces tag vagy."
 
-#: Engel.dialog:116
+#: Engel.dialog:117
 msgid "I hope that one day we shall meet again, maybe in a better time."
 msgstr "Remélem, egyszer, egy jobb időben találkozunk még."
 
-#: Engel.dialog:117
+#: Engel.dialog:118
 msgid "Maybe then you will tell us other gut jokes that you know."
 msgstr "Talán majd mesélsz nekünk gut vicceket, rendben?"
 
-#: Engel.dialog:118
+#: Engel.dialog:119
 msgid "Maybe one day..."
 msgstr "Talán egyszer..."
 
-#: Engel.dialog:123
+#: Engel.dialog:124
 msgid "What did you use to do before you became a hunter?"
 msgstr "Mit csináltatok, mielőtt botvadászokká lettetek?"
 
-#: Engel.dialog:125
+#: Engel.dialog:126
 msgid "I was a bot constructor. Built the killers of my mother."
 msgstr "Bot konstruktőrök voltunk. Anyánk gyilkosait építettük."
 
-#: Engel.dialog:126
+#: Engel.dialog:127
 msgid "Now I sell the parts that I remove from the bots to buy more ammunition and food."
 msgstr "Manapság a botokból kiszerelt alkatrészeket adom el, hogy több lőszert és kaját vehessek."
 
-#: Engel.dialog:131
+#: Engel.dialog:132
 msgid "I want to know how to extract modules from the bots."
 msgstr "Tudni szeretném, hogyan lehet alkatrészeket kiszerelni a botokból."
 
-#: Engel.dialog:133
+#: Engel.dialog:134
 msgid "Yes."
 msgstr "Igen."
 
-#: Engel.dialog:134
+#: Engel.dialog:135
 msgid "I will sell the information for a lot of Schaltkreise."
 msgstr "Eladom neked az információt sok geldért."
 
-#: Engel.dialog:135
+#: Engel.dialog:136
 msgid "Interested?"
 msgstr "Érdekel?"
 
-#: Engel.dialog:140
+#: Engel.dialog:141
 msgid "Can I join your hunt?"
 msgstr "Csatlakozhatok a vadászathoz?"
 
-#: Engel.dialog:142
+#: Engel.dialog:143
 msgid "Nein. Our problem. Our hunt."
 msgstr "Nein. Mi problémánk. Mi vadászatunk."
 
-#: Engel.dialog:147
+#: Engel.dialog:148
 msgid "I'll be going then."
 msgstr "Majd még találkozunk."
 
-#: Engel.dialog:149
+#: Engel.dialog:150
 msgid "Goodbye and viel Gluck."
 msgstr "Viszlát és viel glück."
+

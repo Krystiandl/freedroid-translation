@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-06-22 14:08+0100\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"PO-Revision-Date: 2010-07-07 11:40+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -28,191 +28,219 @@ msgstr "Igazából harcos vagyok. Ám most pihenek, relaxálok, kicsit kifújom 
 msgid "And in case you couldn't tell, that was sarcasm."
 msgstr "És mielőtt megkérdeznéd, igen, szarkazmus volt."
 
-#: Pendragon.dialog:50
+#: Pendragon.dialog:46
+msgid "Fighter"
+msgstr "Harcos"
+
+#: Pendragon.dialog:51
 msgid "Could you teach me how to fight?"
 msgstr "Meg tudsz tanítani, hogyan harcoljak?"
 
-#: Pendragon.dialog:53
+#: Pendragon.dialog:54
 msgid "NO! NO! Er... I mean, not right now. I am busy. Come again later."
 msgstr "NEM! NEM! Izé... Úgy értem, nem most. Nem érek rá. Gyere később."
 
-#: Pendragon.dialog:55
+#: Pendragon.dialog:56
 msgid "Sure. I can help you."
 msgstr "Persze. Tudok segíteni."
 
-#: Pendragon.dialog:56
+#: Pendragon.dialog:57
 msgid "For a price. Hundred circuits should be enough."
 msgstr "Pénzért. Száz rugó megteszi."
 
 #: Pendragon.dialog:62
+msgid "Do you have a name?"
+msgstr "Van neved?"
+
+#: Pendragon.dialog:64
+msgid "I go by Pendragon, because I can pull a knife from thin air."
+msgstr "Pendragonnak neveznek, mert minden helyzetben kést tudok rántani."
+
+#: Pendragon.dialog:65
+msgid "And you?"
+msgstr "És téged?"
+
+#: Pendragon.dialog:66
+msgid ", because it is my name?"
+msgstr ", talán mert ez a nevem?"
+
+#: Pendragon.dialog:67
+msgid "Pendragon -- Fighter"
+msgstr "Pendragon -- Harcos"
+
+#: Pendragon.dialog:72
 msgid "Teach me the basic stuff."
 msgstr "Tanits meg az alapokra."
 
-#: Pendragon.dialog:64
+#: Pendragon.dialog:74
 msgid "Are you sure?"
 msgstr "Biztos vagy benne?"
 
-#: Pendragon.dialog:65
+#: Pendragon.dialog:75
 msgid "I only accept students that already have some experience in fighting bots."
 msgstr "Csak olyanokat tanítok, akiknek már van némi tapasztalatuk a botok elleni harcban."
 
-#: Pendragon.dialog:70
+#: Pendragon.dialog:80
 msgid "Yes (cost 100 valuable circuits, 5 ability points)"
 msgstr "Igen (100 rugóba és 5 képességpontba kerül)"
 
-#: Pendragon.dialog:75
+#: Pendragon.dialog:85
 msgid "Let us begin then."
 msgstr "Hát akkor kezdjük."
 
-#: Pendragon.dialog:76
+#: Pendragon.dialog:86
 msgid "Come closer..."
 msgstr "Gyere közelebb..."
 
-#: Pendragon.dialog:77
+#: Pendragon.dialog:87
 msgid "HA!"
 msgstr "HUA!"
 
-#: Pendragon.dialog:78
+#: Pendragon.dialog:88
 msgid "Ouch! What the hell are you doing?"
 msgstr "Jajj! Mi a rossebet csinálsz?"
 
-#: Pendragon.dialog:79
+#: Pendragon.dialog:89
 msgid "Lesson number one. Never trust the opponent."
 msgstr "Az első lecke. Soha ne bízz az ellenfélben."
 
-#: Pendragon.dialog:80
+#: Pendragon.dialog:90
 msgid "Just let me get up an -- ouch! Stop it."
 msgstr "Csak hadd keljek fel, és -- jujj! Fejezd be."
 
-#: Pendragon.dialog:81
+#: Pendragon.dialog:91
 msgid "Lesson number two. The bots have no mercy."
 msgstr "Második lecke. A botok nem könyörülnek."
 
-#: Pendragon.dialog:82
+#: Pendragon.dialog:92
 msgid "They won't let you get up if you fall down. They will kill you."
 msgstr "Ők nem engednek felkelni, ha a földre esel. Ők megölnek."
 
-#: Pendragon.dialog:83
+#: Pendragon.dialog:93
 msgid "Now, lesson number -- ugh! That hurt!"
 msgstr "És most, a hármas szá -- huhh! Ez fájt!"
 
-#: Pendragon.dialog:84
+#: Pendragon.dialog:94
 msgid "Lesson number three. Never underestimate the enemy."
 msgstr "Harmadik lecke. Soha ne becsüld le az ellenséget."
 
-#: Pendragon.dialog:85
+#: Pendragon.dialog:95
 msgid "Ugh. Yes. You are correct."
 msgstr "Izé. Igen. Jól mondod."
 
-#: Pendragon.dialog:86
+#: Pendragon.dialog:96
 msgid "I need to... Lie down for a while... My head hurts..."
 msgstr "Most egy kicsit... le kell feküdnöm... Fáj a fejem..."
 
-#: Pendragon.dialog:87
+#: Pendragon.dialog:97
 msgid "Lesson number four. Never hit your sparring partner with full force."
 msgstr "Negyedik lecke. Soha ne üsd meg az edzőtársadat teljes erővel."
 
-#: Pendragon.dialog:88
+#: Pendragon.dialog:98
 msgid "I think you broke my ribs..."
 msgstr "Asszem eltörted az orrom..."
 
-#: Pendragon.dialog:89
+#: Pendragon.dialog:99
 msgid "This is enough training for today."
 msgstr "Ennyi tréning elég is mára."
 
-#: Pendragon.dialog:93
+#: Pendragon.dialog:103
 msgid "You don't have enough experience. I can't teach you anything more right now."
 msgstr "Nincs elég tapasztalatod. Most nem tudok többet tanítani."
 
-#: Pendragon.dialog:94
+#: Pendragon.dialog:104
 msgid "First collect more experience. Then we can go on."
 msgstr "Először szerezz több tapasztalatot. Utána visszatérünk rá."
 
-#: Pendragon.dialog:96
+#: Pendragon.dialog:106
 msgid "You don't have enough valuable circuits on you! Come back when you have the money."
 msgstr "Nincs elég pénzed! Gyere vissza, ha lesz rávalód."
 
-#: Pendragon.dialog:100
+#: Pendragon.dialog:110
 msgid "Hey, wake up! I taught you that stuff already. Go practice on the bots, if you really want more training."
 msgstr "Hé, ébresztő! Azt már megtanítottam. Menj, és gyakorolj pár boton, ha több gyakorlásra vágysz."
 
-#: Pendragon.dialog:106
+#: Pendragon.dialog:116
 msgid "Teach me how to smash concrete blocks with my bare hands."
 msgstr "Taníts meg, hogyan üssek át puszta kézzel a betonfalon."
 
-#: Pendragon.dialog:108
+#: Pendragon.dialog:118
 msgid "Oh, Linarian, you amuse me so."
 msgstr "Ó, Lináriai, igazán mulattatsz."
 
-#: Pendragon.dialog:109
+#: Pendragon.dialog:119
 msgid "You are quite an ambitious fellow."
 msgstr "Igazán ambíciózus figura vagy."
 
-#: Pendragon.dialog:110
+#: Pendragon.dialog:120
 msgid "First learn the basics. Spend a year working on that, and then I'll be able to teach you some advanced tricks."
 msgstr "Először tanuld meg az alapokat. Tölts el egy évet gyakorlással, utána megtanítalak pár komolyabb trükkre."
 
-#: Pendragon.dialog:115
+#: Pendragon.dialog:125
 msgid "Teach me Ninjitsu."
 msgstr "Taníts Ninjitsut."
 
-#: Pendragon.dialog:117
+#: Pendragon.dialog:127
 msgid "Go away."
 msgstr "Menj innen."
 
-#: Pendragon.dialog:122
+#: Pendragon.dialog:132
 msgid "I want to know the Crazy Double-Fang Wolf-Sunlight I-Like-Tea Death Touch of Major Destruction Flesh-Bursting Attack!"
 msgstr "Ismerni szeretném az Őrült Dupla-Sáska Farkas-Holdfény Édes-Savanyú Mártásos Hússzakító Halálérintés technikát!"
 
-#: Pendragon.dialog:124
+#: Pendragon.dialog:134
 msgid "Wow."
 msgstr "Húha."
 
-#: Pendragon.dialog:125
+#: Pendragon.dialog:135
 msgid "You have a very rich imagination. There is no such thing. Get a life."
 msgstr "Igen jó a képzelőerőd. Olyan nincs is. Élj a való világban."
 
-#: Pendragon.dialog:130
+#: Pendragon.dialog:140
 msgid "I want to know the forbidden skill of furuike ya kawazu tobikomu mizu no oto."
 msgstr "Ismerni szeretném az elfeledett furuike ya kawazu tobikomu mizu no oto technikát."
 
-#: Pendragon.dialog:132
+#: Pendragon.dialog:142
 msgid "This is starting to make me angry. Shut up and go away."
 msgstr "Ez azért már kezd dühíteni. Pofa be, és húzz el!"
 
-#: Pendragon.dialog:137
+#: Pendragon.dialog:147
 msgid "Teach me how to flip out and kill people!"
 msgstr "Taníts meg, hogyan belezzek ki és öljek meg embereket!"
 
-#: Pendragon.dialog:139
+#: Pendragon.dialog:149
 msgid "*sigh*"
 msgstr "*sóhaj*"
 
-#: Pendragon.dialog:140
+#: Pendragon.dialog:150
 msgid "Very well. Observe very carefully."
 msgstr "Jól van. Légy figyelmes."
 
-#: Pendragon.dialog:141
+#: Pendragon.dialog:151
 msgid "You will see this only once, so make sure to pay attention."
 msgstr "Csak egyszer mutatom meg, szóval nagyon figyelj."
 
-#: Pendragon.dialog:142
+#: Pendragon.dialog:152
 msgid "DIEEEE!"
 msgstr "MEGHALSZ!"
 
-#: Pendragon.dialog:149
+#: Pendragon.dialog:159
 msgid "Enough for now."
 msgstr "Mára elég."
 
-#: Pendragon.dialog:151
+#: Pendragon.dialog:161
 msgid "Fine."
 msgstr "Rendben."
 
-#: Pendragon.dialog:156
+#: Pendragon.dialog:166
 msgid "See you later."
 msgstr "Viszlát."
 
-#: Pendragon.dialog:158
+#: Pendragon.dialog:168
 msgid "Have courage."
 msgstr "Bátorság veled."
+
+#: Pendragon.dialog:168
+msgid "Be strong."
+msgstr "Légy erős."
 

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
-"PO-Revision-Date: 2010-05-28 13:21+0100\n"
+"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"PO-Revision-Date: 2010-07-05 15:45+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -59,7 +59,7 @@ msgid "Security Access to this area not granted."
 msgstr "A Biztonsági Hozzáférés nem engedélyezett erre a területre."
 
 #: DSB-PowerControlGate1.dialog:64
-msgid "Contact personell in Machine Deck Control Room if you believe this to be in error."
+msgid "Contact personnel in Machine Deck Control Room if you believe this to be in error."
 msgstr "Ha ezt hibaként azonosítja, vegye fel a kapcsolatot a Gépház Kontroll Irodával."
 
 #: DSB-PowerControlGate1.dialog:67
@@ -102,4 +102,12 @@ msgstr "Kilépés folyamatban ..."
 #: DSB-PowerControlGate1.dialog:102
 msgid "Have a nice day."
 msgstr "Legyen jó napja."
+
+#: DSB-PowerControlGate1.dialog:102
+msgid "Have a wonderful day."
+msgstr "Legyen gyönyörű napja."
+
+#: DSB-PowerControlGate1.dialog:102
+msgid "Hope your day will be most productive."
+msgstr "Remélem, hasznos napod lesz."
 
