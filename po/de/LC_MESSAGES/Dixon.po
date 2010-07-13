@@ -165,11 +165,11 @@ msgstr "Ich gebe dir drei kleine Geräter, die eine elektromagnetischen Impuls a
 
 #: Dixon.dialog:136
 msgid "I will give you two small devices that can emit an Electro Magnetic Pulse."
-msgstr ""
+msgstr "Ich werde dir zwei kleine Apparate geben, die einen elektromagnetischen Impuls aussenden können."
 
 #: Dixon.dialog:138
 msgid "I will give you one small device that can emit an Electro Magnetic Pulse."
-msgstr ""
+msgstr "Ich werde dir drei kleine Apparate geben, die einen elektromagnetischen Impuls aussenden können."
 
 #: Dixon.dialog:140
 #, fuzzy
@@ -178,7 +178,7 @@ msgstr "Ich werde Ihnen zwei kleine, mit Plasma geladene Einheiten geben. Falls 
 
 #: Dixon.dialog:141
 msgid "The best of it all, is that it's completely harmless for humans. But make sure to not fry the circuits of our own 614 guard bots or computer terminals."
-msgstr ""
+msgstr "Das beste von allem ist, das es für Menschen total ungefährlich ist. Stelle sicher, dass die Schaltkreise unserer 614 Wächterroboter oder die der Computerterminals nicht verbrennen."
 
 #: Dixon.dialog:142
 #, fuzzy
@@ -246,7 +246,7 @@ msgstr "Wenn Sie es uns wiederbeschaffen könnten, würden Sie der Stadt ein gro
 
 #: Dixon.dialog:170
 msgid "Dixon, the leader of the Red Guard technical division, lost his yellow toolkit in the city's maintenance tunnels. I am supposed to get it from there."
-msgstr ""
+msgstr "Dixon, der Anführer der technischen Einheit der Roten Wache hat seinen gelben Werkzeugkasten in den Wartungstunneln der Stadt verloren. Ich soll ihn von dort wieder zurück holen."
 
 #: Dixon.dialog:175
 #, fuzzy
@@ -380,7 +380,7 @@ msgstr "Ich werde mit Spencer sprechen und bei Ihm einige Angriffsteams anforder
 
 #: Dixon.dialog:225 Dixon.dialog:236
 msgid "The bots in the tunnels might be sentient. I cannot wait to extinguish an emerging life form. This will be fun."
-msgstr ""
+msgstr "Die Roboter im Tunnel könnten empfindungsfähig sein. Ich kann es kaum erwarten, eine neu entstehende Lebensform auszulöschen. Das wird lustig."
 
 #: Dixon.dialog:230
 #, fuzzy
@@ -423,6 +423,8 @@ msgstr "Ich werde versuchen, irgendwie mit ihnen Kontakt aufzunehmen. Vielleicht
 #: Dixon.dialog:249
 msgid "I refused to get the toolkit from the bots in the tunnels because I think they might be sentient. Life is precious and should be preserved."
 msgstr ""
+"Ich habe mich geweigert den Werkzeugkasten von den Robotern im Tunnel zu holen weil ich denke, dass sie eine eigene Lebensform entwickelt haben könnten.\r\n"
+"Das Leben ist wertvoll und sollte verschont werden."
 
 #: Dixon.dialog:256
 msgid "Ah, it is a strange story, I am sure you would not believe me. I will tell you some other time."
