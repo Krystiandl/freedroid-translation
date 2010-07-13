@@ -459,10 +459,11 @@ msgid "Electro Laser Rifle"
 msgstr "Elektrollasergewehr"
 
 #: freedroid.item_archetypes:2097
+#, fuzzy
 msgid ""
 "A specialized beam of laser momentarily ionizes the air between the target and the gun, turning it into highly conductive plasma. Milliseconds later, a powerful electric shock is delivered through the air and hits the target. This weapon is effective against people as it is against bots, and indeed few are the droid classes that can withstand\n"
 "more than a few hits from it before going down. The one downside is the enormous power consumption that makes this weapon expensive to maintain."
-msgstr ""
+msgstr "Ein spezieller Laserstrahl ionisiert die Luft zwischen Ziel und Pistole unmittelbar, dabei wird die Luft zu hoch leitfähigem Plasma. Millisekunden später wird ein starker Stromschlag durch die Luft befördert, der das Ziel trifft. Diese Waffe ist sehr effektiv in Kampf gegen Menschen, aber auch gegen Roboter. Nur wenige Roboterklassen können mehr als nur ein paar Treffer aushalten, bevor sie zu Boden gehen. Der einzige Nachteil ist die enorme Energiemenge, die diese Waffe schwierig und teuer macht, wenn sie oft benutzt wird."
 
 #: freedroid.item_archetypes:2127
 msgid "VMX Gas Grenade"
@@ -1053,8 +1054,9 @@ msgid "Valuable Circuits"
 msgstr "Wertvolle Schaltkreise"
 
 #: freedroid.item_archetypes:3820
+#, fuzzy
 msgid "The new monetary standard of the world. With the collapse of the banking system, the precious metals in bot circutry has literally become hard cash. A bit hard to come by though, as the bots are not likely to just hand it over..."
-msgstr ""
+msgstr "Der neue Währungsstandart der Welt. Mit dem Zusammenbruch des Bankensystems ist das wertvolle Metall in Schaltkreisen von Robotern wortwörtlich zur barer Münze geworden. Man kommt nur schwer draran, die Roboter geben ihre Innenleben nicht freiwillig ab."
 
 #: freedroid.item_archetypes:3824
 msgid "Anti-grav Pod for Droids"
