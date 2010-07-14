@@ -17,7 +17,6 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 
 #: freedroid.item_archetypes:52
-#, fuzzy
 msgid "Spawning item index 0 in editor or drop ingame causes CTD! Dont click this! OK this seemes fixed now. However the first item is still VERY buggy ingame (cant be dropped, can't be switched to from inventory etc)"
 msgstr "Generieren von Gegenstand mit Index 0 im Editor oder diesen im Spiel abzulegen verursacht CTD! Nicht klicken! OK - Scheint nun behoben zu sein. Allerdings ist der erste Gegenstand im Spiel nach wie vor SEHR fehleranfällig: kann nicht abgelegt oder vom Inventar darauf umgeschalten werden, etc."
 
@@ -42,7 +41,6 @@ msgid "Long reach while remaining maneuverable enough in combat to find the weak
 msgstr "Ein großer Angriffsradius bei ausreichend guter Handhabung im Kampf, um die Schwachpunkte in der Panzerung von Androiden zu erreichen - das sind die Vorteile dieser Waffe, die teilweise das Unvermögen einer Klinge, einem schwer gepanzerten Ziel großen Schaden zuzufügen, wieder wett machen. Wiederholtes Auftreffen auf Metall beschädigt die Klinge allerdings sehr schnell."
 
 #: freedroid.item_archetypes:241
-#, fuzzy
 msgid "Antique Greatsword"
 msgstr "Antikes Schwert"
 
@@ -211,7 +209,6 @@ msgid "This blade pulses with evil. That power. That energy. Nothing can stop yo
 msgstr "Diese Waffe pulsiert vor Bosheit. Diese Macht! Diese Energie! Nichts kann dich jetzt noch aufhalten... wenn keine Eisdiele dazwischen kommt."
 
 #: freedroid.item_archetypes:1067
-#, fuzzy
 msgid "Laser Scalpel"
 msgstr "Laserskalpell"
 
@@ -278,7 +275,6 @@ msgid "Two Barrel shotgun"
 msgstr "Doppelläufige Schrotflinte"
 
 #: freedroid.item_archetypes:1372
-#, fuzzy
 msgid "An old standby of farmers and bird hunters. While capable of causing a fair amount of damage to droid armor, the limited rounds capacity and fairly slow reloading time make this weapon preferable to melee weapons, but only just. Requires two hands to wield."
 msgstr "Ein alter Begleiter von Farmern und Vogeljägern. Da es in der Lage ist, einem Robot-Panzer ordentlichen Schaden zuzufügen, ist es trotz der beschränkten Schuss-Kapazität und der ziemlich langsamen Nachladezeit Nahkampfwaffen vorzuziehen - jedoch auch nur solchen. Erfordert zwei Hände zur Handhabung."
 
@@ -303,9 +299,8 @@ msgid "9mm Automatic"
 msgstr "9mm Automatik"
 
 #: freedroid.item_archetypes:1466
-#, fuzzy
 msgid "Nine millimeter ammo is a common caliber. While not very powerful, it allows for more rounds per clip than bigger ammunition."
-msgstr "9mm-Munition ist ein gebräuchliches Kaliber. Zwar ist sie nicht sehr kraftvoll, bringt dafür aber mehr Kugeln per Magazin unter, als größere Munition."
+msgstr "9mm-Munition ist ein gebräuchliches Kaliber. Zwar ist sie nicht sehr kraftvoll, bringt dafür aber mehr Kugeln pro Magazin unter, als größere Munition."
 
 #: freedroid.item_archetypes:1488
 msgid "9mm Sub Machine Gun"
@@ -324,12 +319,10 @@ msgid "7.62mm ammo."
 msgstr "Kaliber 7.62x39mm Munition."
 
 #: freedroid.item_archetypes:1544
-#, fuzzy
 msgid "7.62mm Hunting Rifle"
 msgstr "Kaliber 7.62mm Jagdgewehr"
 
 #: freedroid.item_archetypes:1560
-#, fuzzy
 msgid "7.62 millimeter ammo is commonly used in assault rifles. This is a more civilian take on that concept."
 msgstr "7.62mm Munition wird für gewöhlich in Sturmwaffen eingesetzt. So etwas wie eine zivile Interpretation dieses Konzepts."
 
@@ -454,7 +447,6 @@ msgid "This bad boy is known to blow away most enemies with a single blast. A da
 msgstr "Dieser böse Eumel ist dafür bekannt, die meisten Gegner mit einem einzigen Schuss wegzupusten. Eine gefährliche Waffe, von deren Sendungen man nicht der Empfänger sein möchte..."
 
 #: freedroid.item_archetypes:2081
-#, fuzzy
 msgid "Electro Laser Rifle"
 msgstr "Elektrollasergewehr"
 
@@ -498,7 +490,6 @@ msgid "Bot use only"
 msgstr "Zur alleinigen Verwendung bei Robotern"
 
 #: freedroid.item_archetypes:2219
-#, fuzzy
 msgid "Droid 123 Weak Robotic Arm"
 msgstr "Robotbewaffnung - 123: schwacher Metallgreifer (Schläge)"
 
@@ -515,44 +506,36 @@ msgid "Droid weaponry"
 msgstr "Robotbewaffnung"
 
 #: freedroid.item_archetypes:2252
-#, fuzzy
 msgid "Droid 139 Plasma Trash Vaporiser"
 msgstr "Robotbewaffnung - 139: Plasmaüberdruck-Müllverdampfer (Verbrennungen)"
 
 #: freedroid.item_archetypes:2285
-#, fuzzy
 msgid "Droid 247 Robotic Arm"
 msgstr "Robotbewaffnung - 247: Metallgreifer (Hiebe, Quetschungen, Schnittwunden)"
 
 #: freedroid.item_archetypes:2320
-#, fuzzy
 msgid "Droid 249 Pulse Laser Welder"
-msgstr "Robotbewaffnung - 249: Automatikwaffen-Modul, schwache Metallgreifer  (Schusswunden, Hiebe, Quetschungen)"
+msgstr "Robotbewaffnung - 249: Pulsarlaserschweißgerät  (Schnittwunden, Verbrennungen)"
 
 #: freedroid.item_archetypes:2353
-#, fuzzy
 msgid "Droid 296 Plasmabeam Cutter"
-msgstr "Robotbewaffnung - 296: schwache Metallgreifer (Hiebe, Quetschungen)"
+msgstr "Robotbewaffnung - 296: Plasmastrahlschneider (Schnittwunden, Verbrennungen)"
 
 #: freedroid.item_archetypes:2388
-#, fuzzy
 msgid "Droid 302 Overcharged Barcode Reader"
-msgstr "Überladenes Barcodelesegerät"
+msgstr "Roboterbewaffnung - 302: Überladenes Barcodelesegerät (Verbrennungen)"
 
 #: freedroid.item_archetypes:2423
-#, fuzzy
 msgid "Droid 329 Dual Overcharged Barcode Reader"
-msgstr "Doppeltes überladenes Barcodlesegerät"
+msgstr "Roboterbewaffnung - 329: Doppeltes überladenes Barcodlesegerät (Verbrennungen)"
 
 #: freedroid.item_archetypes:2458
-#, fuzzy
 msgid "Droid 420 Laser Scalpel"
-msgstr "Laserskalpell"
+msgstr "Roboterbewaffnung - 420: Laserskalpell (Verbrennungen, Schnittwunden)"
 
 #: freedroid.item_archetypes:2493
-#, fuzzy
 msgid "Droid 476 Small Laser"
-msgstr "Robotbewaffnung - 476: Laserschweißmodul, Metallgreifer (schwere Verbrennungen, tiefe Schnittwunden, Hiebe, Quetschungen)"
+msgstr "Robotbewaffnung - 476: schwacher Laser (Verbrennungen, Schnittwunden)"
 
 #: freedroid.item_archetypes:2526
 #, fuzzy
