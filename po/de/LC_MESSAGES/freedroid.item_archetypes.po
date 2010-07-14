@@ -316,7 +316,7 @@ msgstr "Kaliber 7.62x39mm Munition"
 
 #: freedroid.item_archetypes:1540
 msgid "7.62mm ammo."
-msgstr "Kaliber 7.62x39mm Munition."
+msgstr "Kaliber 7.62 Munition."
 
 #: freedroid.item_archetypes:1544
 msgid "7.62mm Hunting Rifle"
@@ -540,51 +540,44 @@ msgstr "Robotbewaffnung - 476: schwacher Laser (Verbrennungen, Schnittwunden)"
 #: freedroid.item_archetypes:2526
 #, fuzzy
 msgid "Droid 493 Power Hammer"
-msgstr "Servo-Bolznagler"
+msgstr "Roboterbewaffnung - 493 Energiehammer (Stiche)"
 
 #: freedroid.item_archetypes:2561
-#, fuzzy
 msgid "Droid 516 Robotic Fist"
-msgstr "Roboterfaust"
+msgstr "Roboterbewaffnung - 516: Roboterfaust (Quetschungen)"
 
 #: freedroid.item_archetypes:2596
-#, fuzzy
 msgid "Droid 543 Tree Harvester"
-msgstr "Baumerntemaschiene"
+msgstr "Roboterbewaffnung - 543: Baumerntemaschiene (Schnitte, Quetschungen)"
 
 #: freedroid.item_archetypes:2631
-#, fuzzy
 msgid "Droid 571 Robotic Fist"
-msgstr "Roboterfaust"
+msgstr "Roboterbewaffnung - 571: Roboterfaust (Quetschungen)"
 
 #: freedroid.item_archetypes:2666
-#, fuzzy
 msgid "Droid 598 Robotic Fist"
-msgstr "Roboterfaust"
+msgstr "Roboterbewaffnung - 598: Roboterfaust (Quetschungen)"
 
 #: freedroid.item_archetypes:2702
-#, fuzzy
 msgid "Droid 7xx Tux Seeking Missiles"
-msgstr "Tux-verfolgende Raketen"
+msgstr "Roboterbewaffnung - 7xx:  Tux-verfolgende Raketen"
 
 #: freedroid.item_archetypes:2735
-#, fuzzy
 msgid "Droid Advanced Twin Laser"
 msgstr "Robotbewaffnung - 629,821,999: Duo-Lasermodul MKII (schwere äußere und innere Verbrennungen, Erblindung, Verstümmelungen)"
 
 #: freedroid.item_archetypes:2772
 #, fuzzy
 msgid "Droid 883 Exterminator"
-msgstr "Exterminator"
+msgstr "Roboterbewaffnung - 883: Exterminator (Ausrotter)"
 
 #: freedroid.item_archetypes:2841
 msgid "Reinforced Boots"
 msgstr "Syntholeder(TM)-Stiefel, schwere Ausführung"
 
 #: freedroid.item_archetypes:2842
-#, fuzzy
 msgid "These boots were originally normal boots, but have been fitted with some extra reinforcements to give better protection to the wearer. Of course this makes them a bit less elegant and also less comfy to wear, but the extra protection might be worth it, at less than the price of hiking boots."
-msgstr "Die Stiefel wurden ursprünglich aus dem Standardmodell entwickelt, jedoch an verschiedenen Stellen zusätzlich verstärkt um dem Träger besseren Schutz zu bieten. Natürlich sind sie dadurch weniger schön anzusehen und etwas unbequemer zu tragen - aber die höhere Schutzwirkung könnte es durchaus wert sein, zumal für einen geringeren Preis als richtige Hochgebirgs-Stiefel."
+msgstr "Die Stiefel wurden ursprünglich aus dem Standardmodell entwickelt, sind jedoch an verschiedenen Stellen zusätzlich verstärkt um dem Träger besseren Schutz zu bieten. Natürlich sind sie dadurch weniger schön anzusehen und etwas unbequemer zu tragen - aber die höhere Schutzwirkung könnte es durchaus wert sein, zumal für einen geringeren Preis als richtige Hochgebirgs-Stiefel."
 
 #: freedroid.item_archetypes:2843
 msgid "Hiking Boots"
@@ -595,7 +588,6 @@ msgid "These hiking boots are a very sophisticated product, combining optimal co
 msgstr "Diese professionellen Bergsteiger-Stiefel stellen ein sehr hochentwickeltes Produkt dar, das optimalen Tragekomfort mit guter Schutzfunktion vor Stößen durch stumpfe Gegenstände wie Steine verbindet - was sich natürlich entsprechend auf den Preis auswirkt."
 
 #: freedroid.item_archetypes:2879
-#, fuzzy
 msgid "Normal Jacket"
 msgstr "Einfache Synthex(TM)-Jacke, Kolonie-Standardmodell"
 
@@ -636,7 +628,6 @@ msgid "Defense is acquired at a high level with this durable piece of armor."
 msgstr "Mit dieser beständigen Rüstung erhält man Schutz für jede Situation - auf hohem Niveau."
 
 #: freedroid.item_archetypes:2985
-#, fuzzy
 msgid "Improvised Buckler"
 msgstr "Improvisiertes Schild"
 
@@ -698,9 +689,8 @@ msgid "A simple cover to protect your head. Don't expect to be incognito, your f
 msgstr "Eine einfache Kopfbedeckung. Man sollte nicht erwarten, damit inkognito zu sein."
 
 #: freedroid.item_archetypes:3125
-#, fuzzy
 msgid "Miner Helmet"
-msgstr "Dixons Wunderhelm"
+msgstr "Bergarbeiterhelm"
 
 #: freedroid.item_archetypes:3139
 #, fuzzy
@@ -713,12 +703,11 @@ msgstr "Leichter Kampfhelm"
 
 #: freedroid.item_archetypes:3160
 msgid "A rather useful helmet, has a few defense issues here and there but mainly is worth the wear."
-msgstr "Ein recht nützlicher Helm; hat ein paar Schwachstellen hie und da, ist es aber im Großen und Ganzen wert, getragen zu werden."
+msgstr "Ein recht nützlicher Helm; hat ein paar Schwachstellen hier und da, ist es aber im Großen und Ganzen wert, getragen zu werden."
 
 #: freedroid.item_archetypes:3164
-#, fuzzy
 msgid "Battle Helmet"
-msgstr "Kleiner Security-Standardhelm"
+msgstr "Kampfhelm"
 
 #: freedroid.item_archetypes:3179
 #, fuzzy
@@ -747,7 +736,6 @@ msgid "Worker Shoes"
 msgstr "Arbeiterschuhe"
 
 #: freedroid.item_archetypes:3237
-#, fuzzy
 msgid "These footwear are steel tipped, and generally quite sturdy, giving a bit extra protection."
 msgstr "Diese Schuhe haben Stahlkappen vorne dran und sind auch sonst sehr stabil. Sie geben ein wenig zusätzlichen Schutz."
 
@@ -764,7 +752,6 @@ msgid "Source Book of Emergency shutdown"
 msgstr "Quellbuch der Notabschaltung"
 
 #: freedroid.item_archetypes:3279
-#, fuzzy
 msgid "Everyone needs to blow off some steam every now and then."
 msgstr "Jeder muss ab und zu mal Dampf ablassen."
 
