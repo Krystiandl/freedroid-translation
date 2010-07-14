@@ -652,9 +652,8 @@ msgid "Better than a buckler, and a lot more effective."
 msgstr "Weitaus besser als ein selbstgebastelter Frisbee oder ein Security-Schild und auch viel effektiver. Hauptsächlich von Polizeitruppen verwendet - als diese noch existierten."
 
 #: freedroid.item_archetypes:3043
-#, fuzzy
 msgid "Heavy Shield"
-msgstr "Kleiner Security-Standardschild"
+msgstr "Schwerer Schild"
 
 #: freedroid.item_archetypes:3058
 msgid "A medium sized, lightweight and pretty straightforward shield. Provides decent protection."
@@ -684,16 +683,14 @@ msgid "Worker Helmet"
 msgstr "Arbeiterhelm"
 
 #: freedroid.item_archetypes:3121
-#, fuzzy
 msgid "A simple cover to protect your head. Don't expect to be incognito, your flippers and penguin like body are hard to miss."
-msgstr "Eine einfache Kopfbedeckung. Man sollte nicht erwarten, damit inkognito zu sein."
+msgstr "Eine einfache Kopfbedeckung. Man sollte nicht erwarten, damit inkognito zu sein. Deine Schwimmflossen und die Pinguin-ähnliche Körperform sind kaum zu übersehen."
 
 #: freedroid.item_archetypes:3125
 msgid "Miner Helmet"
 msgstr "Bergarbeiterhelm"
 
 #: freedroid.item_archetypes:3139
-#, fuzzy
 msgid "It might look a bit silly, but it will save your life many times."
 msgstr "Sieht vielleicht ein wenig dämlich aus, aber dieses Baby wird Ihr Leben nicht nur einmal retten..."
 
@@ -710,12 +707,10 @@ msgid "Battle Helmet"
 msgstr "Kampfhelm"
 
 #: freedroid.item_archetypes:3179
-#, fuzzy
 msgid "Now this is head protection. Feel safe with sturdy iron protecting your head. Not as comfortable as other hats."
 msgstr "Tja, das ist Kopfschutz! Ein neues Gefühl von Sicherheit durch ultrastabilen Resostahl(TM), das den Kopf umgibt. Eventuell nicht ganz so komfortabel wie andere Kopfbedeckungen, dafür bleibt der kostbare Inhalt heil."
 
 #: freedroid.item_archetypes:3183
-#, fuzzy
 msgid "Dixon's Helmet"
 msgstr "Dixons Wunderhelm"
 
@@ -928,7 +923,6 @@ msgid "These pills can reverse the harmful effects of the 'brain enlargement pil
 msgstr "Dieses Mittel kann die schädlichen Auswirkungen der 'Gehirnvergrößerungs-Pillen' rückgängig machen, die öffentlich über das Netz verkauft werden. Die planetarische Ärztevereinigung hat empfohlen auf diese Art von Werbung gar nicht erst zu reagieren, wogegen Versuche von Seiten der Regierung, die Verbreitung dieser Pillen gänzlich zu unterbinden, nie ganz zum Erfolg führten."
 
 #: freedroid.item_archetypes:3638
-#, fuzzy
 msgid "Brain Enlargement Pill"
 msgstr "Gehirnbooster-Gegengift"
 
@@ -1095,7 +1089,6 @@ msgid "This small device automatically collects data about the area within a ran
 msgstr "Dieses kleine Gerät sammelt automatisch Daten über das umliegende Gelände, in einem Umkreis von 7x7 Metern und zeigt auf Wunsch einen Miniaturplan der unmittelbaren Umgebung an. Per Funk werden die Informationen an Nanobots übermittelt, welche am Sehnerv angedockt sind und die Bilder über diesen direkt ins Gehirn einspeisen. Für bessere Lesbarkeit wird die Karte automatisch in mehrere Sektoren aufgeteilt."
 
 #: freedroid.item_archetypes:3957
-#, fuzzy
 msgid "Light Enhancer? to be incluced in the future..."
 msgstr "Lichverbesserer? wird in der Zukunft hinzugefügt..."
 
@@ -1155,9 +1148,8 @@ msgid "This is heavy. Cannot the end of the world come in a smaller package? It 
 msgstr "Das Teil ist schwer. Kann das Ende der Welt nicht in einem kleineren Paket daherkommen? Wäre eine gute Zeit für Duncan, um einige Dinge zu erklären..."
 
 #: freedroid.item_archetypes:4091
-#, fuzzy
 msgid "Linarian power crank"
-msgstr "Laser-Energiepack"
+msgstr "Linarianischer Krafthebel"
 
 #: freedroid.item_archetypes:4100
 msgid "This item can be installed to a socket of another item."
