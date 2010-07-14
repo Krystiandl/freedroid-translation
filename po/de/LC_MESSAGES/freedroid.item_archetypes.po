@@ -991,36 +991,34 @@ msgid "Running Power Capsule"
 msgstr "Marathon-Dopingkapsel"
 
 #: freedroid.item_archetypes:3771
-#, fuzzy
 msgid "These small containers hold purified running strength. Each capsule can be used only once, but many of them can be grouped together like one item in your inventory."
-msgstr "Diese kleinen Kapseln enthalten konzentrierte Amphetamine für maximalen Konditionsschub - keine Gewährleistung bei Herz- oder Hirnschäden - Anwendung auf eigene Gefahr! Man kann ein kleines aufgedrucktes Kaninchen erkennen..."
+msgstr ""
+"Diese kleinen Kapseln enthalten konzentrierte Amphetamine für maximalen Konditionsschub - keine Gewährleistung bei Herz- oder Hirnschäden - Anwendung auf eigene Gefahr! Man kann ein kleines aufgedrucktes Kaninchen erkennen.\r\n"
+"Jede Kapsel kann nur einmal benutzt werden, aber man mehrere im Inventar zu einem Gegenstand aufeinanderstecken."
 
 #: freedroid.item_archetypes:3775
 msgid "Strength Capsule"
 msgstr "Stärkungskapsel"
 
 #: freedroid.item_archetypes:3785
-#, fuzzy
 msgid "These small containers hold purified strength. This item will give a temporary boost to strength. Each capsule can be used only once, but many of them can be grouped together like one item in your inventory."
-msgstr "Die kleinen Bizoblast(TM)-Kapsel enthalten konzentrierte Steroide - eine Einnahme erhöht kurzzeitig die physische Kraft. Daueranwendung über längeren Zeitraum kann zu schweren erektilen Dysfunktionen und Herzinsuffizienz führen."
+msgstr "Die kleinen Bizoblast(TM)-Kapsel enthalten konzentrierte Steroide - eine Einnahme erhöht kurzzeitig die physische Kraft. Daueranwendung über längeren Zeitraum kann zu schweren erektilen Dysfunktionen und Herzinsuffizienz führen.Jede Kapsel kann nur einmal benutzt werden, aber man mehrere im Inventar zu einem Gegenstand aufeinanderstecken."
 
 #: freedroid.item_archetypes:3789
 msgid "Dexterity Capsule"
 msgstr "Agilitätskapsel"
 
 #: freedroid.item_archetypes:3799
-#, fuzzy
 msgid "These small containers hold purified dexterity. This item will give a temporary bonus to dexterity. Each capsule can be used only once, but many of them can be grouped together like one item in your inventory."
-msgstr "Diese kleine Kapsel enthält konzentrierte koordinationsfördernde Stoffe. Eine Einnahme erhöht vorübergehend die körperliche Geschicklichkeit. Längerfristige Anwendung kann unter anderem einen permanenten Verlust an Leistungsfähigkeit verursachen."
+msgstr "Diese kleine Kapsel enthält konzentrierte koordinationsfördernde Stoffe. Eine Einnahme erhöht vorübergehend die körperliche Geschicklichkeit. Längerfristige Anwendung kann unter anderem einen permanenten Verlust an Leistungsfähigkeit verursachen.Jede Kapsel kann nur einmal benutzt werden, aber man mehrere im Inventar zu einem Gegenstand aufeinanderstecken."
 
 #: freedroid.item_archetypes:3811
 msgid "Valuable Circuits"
 msgstr "Wertvolle Schaltkreise"
 
 #: freedroid.item_archetypes:3820
-#, fuzzy
 msgid "The new monetary standard of the world. With the collapse of the banking system, the precious metals in bot circutry has literally become hard cash. A bit hard to come by though, as the bots are not likely to just hand it over..."
-msgstr "Der neue Währungsstandart der Welt. Mit dem Zusammenbruch des Bankensystems ist das wertvolle Metall in Schaltkreisen von Robotern wortwörtlich zur barer Münze geworden. Man kommt nur schwer draran, die Roboter geben ihre Innenleben nicht freiwillig ab."
+msgstr "Der neue Währungsstandart der Welt. Mit dem Zusammenbruch des Bankensystems ist das wertvolle Metall in Schaltkreisen von Robotern wortwörtlich zur barer Münze geworden. Man kommt nur schwer dran, die Roboter geben ihre Innenleben nicht freiwillig ab."
 
 #: freedroid.item_archetypes:3824
 msgid "Anti-grav Pod for Droids"
@@ -1102,9 +1100,8 @@ msgstr "DSK.Gabel"
 
 #: freedroid.item_archetypes:3981 freedroid.item_archetypes:3996
 #: freedroid.item_archetypes:4009 freedroid.item_archetypes:4022
-#, fuzzy
 msgid "This item is part of the 'Self Cleaning Kitchen' (SCK) project from before the Great Assault. All of the items in the SCK project have an inner mechanism that will clean the object automatically if left alone for a given time. It comes with its own power supply, and has a supposed duration of 200 years."
-msgstr "Dieser Gegenstand ist Teil des Projekts 'Die Selbstreinigende Küche' (DSK), aus der Zeit vor dem Großen Angriff. Alle Teile des DSK-Projekts beinhalten einen Mechanismus, der den Gegenstand nach einer bestimmten Zeit der Nichtbenutzung automatisch reinigt. Enthält eine eigene Stromquelle und hat, laut Herstellerangaben, eine Lebensdauer von 200 Jahren. Im Rahmen einer Werbeaktion brach sich der letzte amtierende Mr. Universum, beim Versuch eine DSK.Gabel zu verbiegen, die Handwurzel."
+msgstr "Dieser Gegenstand ist Teil des Projekts 'Die Selbstreinigende Küche' (DSK), aus der Zeit vor dem Großen Angriff. Alle Teile des DSK-Projekts beinhalten einen Mechanismus, der den Gegenstand nach einer bestimmten Zeit ohne Benutzung automatisch reinigt. Enthält eine eigene Stromquelle und hat, laut Herstellerangaben, eine Lebensdauer von 200 Jahren. Im Rahmen einer Werbeaktion brach sich der letzte amtierende Mr. Universum, beim Versuch eine DSK-Gabel zu verbiegen, die Handwurzel."
 
 #: freedroid.item_archetypes:3985
 msgid "Plate"
@@ -1127,7 +1124,6 @@ msgid "Teleporter homing beacon"
 msgstr "Rückteleportations-Skriptkarte"
 
 #: freedroid.item_archetypes:4051
-#, fuzzy
 msgid "This device sends a signal to a nearby teleporter requesting a transport, and then helps with locking on and boosting the signal to ensure the teleportation attempt is succcessful. The battery inside is sufficient for one use *only* and the device becomes useless afterwards. At least, most people don't try to use them twice... and those few who do usually end up with parts of their body missing or attached in the wrong place. Note: Multiple of these may be grouped together in the inventory."
 msgstr "Diese Einheit sendet ein Signal an einen Teleporter in der Nähe, fordert einen Transport an und hilft dann bei der Anpeilung und der Verstärkung des Signals, um den Erfolg des Teleport-Vorgangs sicherzustellen. Die integrierte Batterie reicht nur für *eine* Anwendung aus, und die Einheit wird dabei unbrauchbar. Zumindest versuchen die meisten gar nicht, die Dinger zweimal einzusetzen... und die wenigen, die es tun, enden für gewöhnlich mit irgendwelchen fehlenden oder am falschen Platz sitzenden Körperteilen. Anmerkung: mehrere davon können im Inventar zusammen gruppiert werden."
 
