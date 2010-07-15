@@ -16,14 +16,12 @@ msgid "Hi! I'm new here. "
 msgstr "Hallo. Ich bin neu hier."
 
 #: Richard.dialog:45
-#, fuzzy
 msgid "Welcome, welcome! I'm Richard. I'm the computer guy around here."
-msgstr "Herzlich wilkommen! Ich bin Richard. Ich bin der Computertyp hier"
+msgstr "Herzlich wilkommen! Ich bin Richard. Ich bin der Computertyp hier."
 
 #: Richard.dialog:46
-#, fuzzy
 msgid "I mostly work with this huge computer cluster here, although I also program the 614 bots in my spare time."
-msgstr "Ich arbeite hier meistens mit Computerclustern obwogl ich mich auch um die 614 Bots kümmere, wenn ich Zeit dazu habe."
+msgstr "Ich arbeite hier meistens mit Computerclustern obwohl ich mich auch um die 614 Bots kümmere, wenn ich Zeit dazu habe."
 
 #: Richard.dialog:47
 msgid "Richard -- Programmer"
@@ -34,16 +32,14 @@ msgid "A computer cluster? What's that?"
 msgstr "Ein Computercluster? Was ist das?"
 
 #: Richard.dialog:54
-#, fuzzy
 msgid "A cluster is a group of computers, connected in a way that helps them collaborate in solving problems."
-msgstr "Ein Cluster ist eine Gruppe von Computern die so verbunden sind, dass sie gemeinsam schneller Aufgaben lösen."
+msgstr "Ein Cluster ist eine Gruppe von Computern die so verbunden sind, dass sie gemeinsam schneller Aufgaben lösen können."
 
 #: Richard.dialog:55
 msgid "As they say, 'two heads are better than one'. And we have a lot of heads here."
 msgstr "Ähnlich dem Sprichwort 'Vier Augen sehen mehr als zwei.' Und wir haben viele Augen hier."
 
 #: Richard.dialog:56
-#, fuzzy
 msgid "That is why I call this cluster 'Hydra'. A lot of heads indeed."
 msgstr "Darum nenne ich dieses Cluster 'Hydra'. Viele Köpfe, viel Augen."
 
@@ -52,7 +48,6 @@ msgid "I have a data cube with some information. Can you tell me something more 
 msgstr "Ich habe einen Datenkubus mit Informationen. Können sie mir darüber etwas sagen?"
 
 #: Richard.dialog:63
-#, fuzzy
 msgid "Interesting. Let me see this thing. Hmm... Yes, there is quite a lot of data in there. Maybe we could use Hydra to evaluate the data."
 msgstr "Interesant. Lass mich mal sehen. Hmm... Ja, da ist in der Tat einiges an Daten drin. Vielleicht können wir Hyra benutzen um die Daten zu verarbeiten."
 
