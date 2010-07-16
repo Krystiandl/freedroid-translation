@@ -266,7 +266,6 @@ msgid "It was a stroke of luck that it did not get destroyed by the bots. Becaus
 msgstr "Durch einen glücklichen Zufall wurde sie nicht von den Robots zerstört. Wegen leerer Kassen konnte man sich damals keine neuen Modelle leisten."
 
 #: Francis.dialog:152
-#, fuzzy
 msgid "All they had at the time of the bot attack were the 614 battle bot platforms. They were running an old operating system and were not affected by whatever caused the other bots to go crazy."
 msgstr "Alles, was sie zur Zeit des Großen Robot-Angriffs hier hatten, waren die Sicherheitsandroiden vom Typ 614 . Auf ihnen lief ein altes Betriebssystem, das nicht davon beeinflusst wurde, was auch immer die anderen Bots durchdrehen ließ."
 
@@ -279,7 +278,6 @@ msgid "However, I must admit that being a prisoner of a walled town looks pretty
 msgstr "Ich muss jedoch zugeben, dass es ziemlich angenehm ist, Gefangener in einer ummauerten Stadt zu sein - verglichen mit der Alternative, bei lebendigem Leibe ausgeweidet zu werden."
 
 #: Francis.dialog:159
-#, fuzzy
 msgid "Why did the bots attack?"
 msgstr " Warum haben euch die Roboter angegriffen?"
 
@@ -296,14 +294,12 @@ msgid "Not surprisingly, the bastards deny everything."
 msgstr "Nicht gerade überraschenderweise allerdings, haben die Bastarde alles abgestritten."
 
 #: Francis.dialog:164
-#, fuzzy
 msgid "Of course, because nearly every single bot in the world runs on that junk, the situation does not look pretty."
 msgstr "Und natürlich, weil praktisch auf jedem einzelnen Roboter weltweit dieser Müll installiert ist, sieht die Lage nicht sehr rosig aus!"
 
 #: Francis.dialog:169
-#, fuzzy
 msgid "I also heard a voice... Someone calling himself Dvorak... "
-msgstr " Ich hörte auch eine Stimme... jemand, der sich Dvorak nannte... "
+msgstr "Ich hörte auch eine Stimme... jemand, der sich Dvorak nannte... "
 
 #: Francis.dialog:171
 msgid "Relax. Everything will be fine in a few hours."
@@ -330,28 +326,24 @@ msgid "And an even bigger problem would be to feed everyone. Our food resources 
 msgstr "Und ein noch größeres Problem wäre, alle zu ernähren. Unsere Lebensmittel-Reserven sind ein bisschen arg bescheiden. Daher sind sie zur Zeit besser dran, wenn sie schlafen."
 
 #: Francis.dialog:186
-#, fuzzy
 msgid "Can you tell me how to get to town?"
-msgstr " Könnten Sie mir zeigen wie man kämpft?"
+msgstr " Könnten Sie mir sagen, wie ich zu dieser Stadt komme?"
 
 #: Francis.dialog:188
-#, fuzzy
 msgid "Sure. You just need to follow the road outside to the east. After the bridge, turn right and continue to follow the road and you will soon be outside of the town main gate."
-msgstr "Sicher. du musst lediglich der Straße da draußen folgen. Nach der Brücke geht es rechts und dann immer weiter die Straße entlang, und du bist bald außerhalb des Haupttors der Stadt."
+msgstr "Sicher. Du musst lediglich der Straße da draußen folgen. Nach der Brücke geht es rechts und dann immer weiter die Straße entlang, und du bist bald außerhalb des Haupttors der Stadt."
 
 #: Francis.dialog:189
 msgid "If you run across too many bots, you can try to circle around them. But avoid getting too far off the road, so you don't get lost. It's very dangerous out there."
 msgstr "Wenn dir zu viele Roboter auf einmal über den Weg laufen, kannst du versuchen, sie zu umkreisen. Vermeide es aber, dich zu weit von der Straße zu entfernen, damit du dich nicht verirrst. Es ist sehr gefährlich da draußen."
 
 #: Francis.dialog:190
-#, fuzzy
 msgid "Once in town you will be able to purchase or trade a few more items for protection at Ms. Stone's shop just inside the town gate."
 msgstr "Einmal in der Ortschaft angelangt, kannst du in Miss Stones Laden, gleich hinter dem Stadttor, einige schützende Sachen erstehen."
 
 #: Francis.dialog:195
-#, fuzzy
 msgid "How do I get out from here?"
-msgstr " Dann verschwinde ich lieber von hier..."
+msgstr "Wie komme ich hier raus?"
 
 #: Francis.dialog:197
 msgid "Oh, just take the small door and corridor out to the waiting room. And from there you can get out through the customer entrance."
@@ -362,9 +354,8 @@ msgid "I keep the back entrance, close to my sleeping quarters, locked at all ti
 msgstr "Ich halte den Hintereingang, nahe meines Schlafzimmers, aus Sicherheitsgründen stets verriegelt. Besser sicher als bereut."
 
 #: Francis.dialog:203
-#, fuzzy
 msgid "It cannot be true. One company cannot control all of the bot software on a whole world."
-msgstr " Das darf doch nicht wahr sein! Eine einzige Firma kann doch nicht für die Software einer ganzen Welt verantwortlich sein..."
+msgstr "Das darf doch nicht wahr sein! Eine einzige Firma kann doch nicht für die Software einer ganzen Welt verantwortlich sein..."
 
 #: Francis.dialog:205
 msgid "It can. They got close to a monopoly 30 years ago, but their last competitor, the open source community, was defeated by them about a year ago."
@@ -375,18 +366,16 @@ msgid "Since then all of the newly made bots have been made with MegaSys firmwar
 msgstr "Seither wurden alle neugebauten Roboter mit einer von MegaSys eingebrannten Schaltkreis-Firmware ausgeliefert."
 
 #: Francis.dialog:211
-#, fuzzy
 msgid "Why did you wake me up?"
-msgstr " Warum haben Sie mich aufgeweckt? "
+msgstr "Warum haben Sie mich aufgeweckt? "
 
 #: Francis.dialog:213
 msgid "The situation at the town is not good. The walls are crumbling and we have lost a lot of good people."
 msgstr "Der Zustand unserer kleinen Befestigung ist besorgniserregend. Die Mauern fallen bereits ein und wir haben viele gute Leute verloren."
 
 #: Francis.dialog:214
-#, fuzzy
 msgid "I heard the Linarians have a special gift for computers and can hack them just by thinking about it."
-msgstr "Wie ich hörte, haben die Linarianer eine besondere Begabung für Computer und können sie deaktivieren, indem sie nur daran denken."
+msgstr "Wie ich hörte, haben die Linarianer eine besondere Begabung für Computer und können sie übernehmen, indem sie nur daran denken."
 
 #: Francis.dialog:215
 msgid "Even if this is only partly true, we need it. The situation is quite ugly."
@@ -398,40 +387,41 @@ msgstr "Wir brauchen dich!"
 
 #: Francis.dialog:221
 msgid "Where are all my things?"
-msgstr ""
+msgstr "Wo sind alle meine Sachen?"
 
 #: Francis.dialog:223
 msgid "I already took out your chest with personal belongings from storage."
-msgstr ""
+msgstr "Ich hab deine Kiste mit deinen persönlichen Habsehlichkeiten schon aus dem Lager herrausgeholt."
 
 #: Francis.dialog:224
 msgid "It is standing there next to the door."
-msgstr ""
+msgstr "Sie steht direkt neben der Tür"
 
 #: Francis.dialog:225
+#, fuzzy
 msgid "Is that it?"
-msgstr ""
+msgstr "War's das`?"
 
 #: Francis.dialog:226
 msgid "That is all the records show you had with you when your were frozen."
-msgstr ""
+msgstr "Das sind alle Aufzeichnungen, die du dabei hattest., als du eingefrohren warst"
 
 #: Francis.dialog:227
 msgid "There are also some references to a bank account of yours, but as you probably understand, there is no working banking system presently."
-msgstr ""
+msgstr "Es gibt auch noch Hinweise auf ein Bankkonto von dir, aber wie du vielleicht verstehst gibt es momentan kein funktionierendes Banksystem."
 
 #: Francis.dialog:232
+#, fuzzy
 msgid "The 614 bot said he might shutdown the outside gate!"
-msgstr ""
+msgstr "Der 614 Roboter sagt, er könnte das Tor nach draußen öffnen."
 
 #: Francis.dialog:235
 msgid "Oh. You'll need to put the cryogenic terminals into admin mode to access the gate controls."
 msgstr ""
 
 #: Francis.dialog:236
-#, fuzzy
 msgid "How do I do that?"
-msgstr " Wie fing der Krieg an?"
+msgstr "Wie mache ich das?"
 
 #: Francis.dialog:237
 msgid "You press star-pound-zero-six-pound and then enter the free-speech number."
@@ -439,14 +429,14 @@ msgstr ""
 
 #: Francis.dialog:238
 msgid "It is kind of long, so I'll write it down for you."
-msgstr ""
+msgstr "Es ist recht lang, also schreib ich es dir auf."
 
 #: Francis.dialog:239
+#, fuzzy
 msgid "If the 614 bot locks the gate, it is for a good reason. Lock the gate behind you!"
-msgstr ""
+msgstr "Der 614 Bot schließt die Tür um eines guten Grundes wegen. Vergiss nicht, hinter dir wieder abzuschließen!"
 
 #: Francis.dialog:244
-#, fuzzy
 msgid "Thanks for the help. I'll be going now."
 msgstr " Danke für Ihre Hilfe. Ich werde mich jetzt auf den Weg machen."
 
