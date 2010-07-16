@@ -2,15 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-09 19:30+0100\n"
 "Last-Translator: Angelika Maria Piątkowska <piatkosia.apt@interia.pl>\n"
 "Language-Team: none\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 "X-Poedit-Language: Polish\n"
 "X-Poedit-Country: POLAND\n"
 "X-Poedit-SourceCharset: utf-8\n"
@@ -19,8 +20,7 @@ msgstr ""
 msgid ".. bot_type().."
 msgstr ".. typ_bota().."
 
-#: AfterTakeover_sub.dialog:47
-#: AfterTakeover_sub.dialog:50
+#: AfterTakeover_sub.dialog:47 AfterTakeover_sub.dialog:50
 msgid "./est_repair.plx"
 msgstr "./est_repair.plx"
 
@@ -46,10 +46,10 @@ msgstr "ciepło."
 
 #: AfterTakeover_sub.dialog:62
 msgid "You do not have enough valuable circuits to ensure repair of this "
-msgstr "Nie masz wystarczającej ilości cennych układów w celu zapewnienia naprawy tej"
+msgstr ""
+"Nie masz wystarczającej ilości cennych układów w celu zapewnienia naprawy tej"
 
-#: AfterTakeover_sub.dialog:62
-#: AfterTakeover_sub.dialog:154
+#: AfterTakeover_sub.dialog:62 AfterTakeover_sub.dialog:154
 msgid " unit."
 msgstr "jednostki."
 
@@ -57,8 +57,7 @@ msgstr "jednostki."
 msgid " is currently undamaged."
 msgstr "jest aktualnie nieuszkodzona"
 
-#: AfterTakeover_sub.dialog:74
-#: AfterTakeover_sub.dialog:77
+#: AfterTakeover_sub.dialog:74 AfterTakeover_sub.dialog:77
 msgid "./repair.plx"
 msgstr "./naprawa.plx"
 
@@ -70,8 +69,7 @@ msgstr "Naprawa w toku."
 msgid "Logout to complete repair process."
 msgstr "Wyloguj po zakończeniu procesu naprawy."
 
-#: AfterTakeover_sub.dialog:94
-#: AfterTakeover_sub.dialog:97
+#: AfterTakeover_sub.dialog:94 AfterTakeover_sub.dialog:97
 msgid "./settings.plx"
 msgstr "./ustawienia.plx"
 
@@ -99,8 +97,7 @@ msgstr "Tak, zawsze pytaj."
 msgid "Confirmation will now be asked before execution of hcf.py."
 msgstr "Teraz będziesz pytany o potwierdzenie przed wykonaniem hcf.py."
 
-#: AfterTakeover_sub.dialog:110
-#: AfterTakeover_sub.dialog:123
+#: AfterTakeover_sub.dialog:110 AfterTakeover_sub.dialog:123
 msgid "Settings saved"
 msgstr "Ustawienia zapisane."
 
@@ -112,8 +109,7 @@ msgstr "Nie, nie pytaj."
 msgid "hcf.py will be executed without asking for confirmation."
 msgstr " hcf.py będzie wykonywane bez pytania o potwierdzenie."
 
-#: AfterTakeover_sub.dialog:132
-#: AfterTakeover_sub.dialog:135
+#: AfterTakeover_sub.dialog:132 AfterTakeover_sub.dialog:135
 msgid "./hostname"
 msgstr "./hostname"
 
@@ -133,10 +129,8 @@ msgstr "Aktualne imię bota: [b]"
 msgid "Select new name? [Y/N]"
 msgstr "Wybrać nowe imię? [T/N]"
 
-#: AfterTakeover_sub.dialog:145
-#: AfterTakeover_sub.dialog:148
-#: AfterTakeover_sub.dialog:178
-#: AfterTakeover_sub.dialog:181
+#: AfterTakeover_sub.dialog:145 AfterTakeover_sub.dialog:148
+#: AfterTakeover_sub.dialog:178 AfterTakeover_sub.dialog:181
 msgid "Yes"
 msgstr "Tak"
 
@@ -280,10 +274,8 @@ msgstr "Otter"
 msgid "Type a new name for this "
 msgstr "Napisz nowe imię dla niego"
 
-#: AfterTakeover_sub.dialog:159
-#: AfterTakeover_sub.dialog:162
-#: AfterTakeover_sub.dialog:190
-#: AfterTakeover_sub.dialog:193
+#: AfterTakeover_sub.dialog:159 AfterTakeover_sub.dialog:162
+#: AfterTakeover_sub.dialog:190 AfterTakeover_sub.dialog:193
 msgid "No"
 msgstr "Nie"
 
@@ -291,8 +283,7 @@ msgstr "Nie"
 msgid "Confirm renaming from [b]"
 msgstr "Potwierdź zmianę nazwy z [b]"
 
-#: AfterTakeover_sub.dialog:172
-#: AfterTakeover_sub.dialog:182
+#: AfterTakeover_sub.dialog:172 AfterTakeover_sub.dialog:182
 msgid "[/b] to [b]"
 msgstr "[/b] na [b]"
 
@@ -315,4 +306,3 @@ msgstr "jednostka ma teraz miano: [b]"
 #: AfterTakeover_sub.dialog:202
 msgid "cd .."
 msgstr "cd .."
-

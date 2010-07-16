@@ -1,78 +1,85 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
-"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-24 11:46+0000\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-04-24 11:46+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:41
+#: HF-GateGuard.dialog:41
 msgid "Hi! I'm new here."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:43
-msgid ""
-"Great. Now back to where you came from. This is no place for you."
+#: HF-GateGuard.dialog:43
+msgid "Great. Now back to where you came from. This is no place for you."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:48
+#: HF-GateGuard.dialog:48
 msgid "What's the matter with this gate?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:50
-msgid ""
-"This is a gate to an automated bot factory we call the Hell Fortress."
+#: HF-GateGuard.dialog:50
+msgid "This is a gate to an automated bot factory we call the Hell Fortress."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:51
+#: HF-GateGuard.dialog:51
 msgid ""
-"You must be crazy if you want to get in there. That place is full of "
-"bots."
+"You must be crazy if you want to get in there. That place is full of bots."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:52
+#: HF-GateGuard.dialog:52
 msgid "Get out of here. They might attack at any moment!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:57
+#: HF-GateGuard.dialog:57
 msgid "What if I just walk in there? Will you try to stop me?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:59
+#: HF-GateGuard.dialog:59
 msgid "Of course not. Murdering you would be a complete waste of time."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:60
+#: HF-GateGuard.dialog:60
 msgid "The bots and disruptor shield will take care of that for me."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:61
-msgid ""
-"Just remember to give me your valuables before you commit suicide."
+#: HF-GateGuard.dialog:61
+msgid "Just remember to give me your valuables before you commit suicide."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:62
-msgid ""
-"You won't need any money once you're damn dead, and I could use it, "
-"eh?"
+#: HF-GateGuard.dialog:62
+msgid "You won't need any money once you're damn dead, and I could use it, eh?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:67
+#: HF-GateGuard.dialog:67
 msgid "Thanks for the advice."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:69
+#: HF-GateGuard.dialog:69
 msgid "You're dead if you don't take it."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:74
+#: HF-GateGuard.dialog:74
 msgid "I'll be going then."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/HF-GateGuard.dialog:76
+#: HF-GateGuard.dialog:76
 msgid "Finally."
+msgstr ""
+
+#: HF-GateGuard.dialog:76
+msgid "Don't come back."
+msgstr ""
+
+#: HF-GateGuard.dialog:76
+msgid "It is dangerous here."
+msgstr ""
+
+#: HF-GateGuard.dialog:76
+msgid "Leave and stay away."
 msgstr ""

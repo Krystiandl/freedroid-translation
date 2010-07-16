@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-07 11:40+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Peter.dialog:39
@@ -45,8 +45,12 @@ msgid "Those red fascists put me here."
 msgstr "Azok a Vörös fasiszták zártak ide."
 
 #: Peter.dialog:50
-msgid "And I guess you are a fascists too, as only Red Guard members are allowed in here."
-msgstr "És azt hiszem, te is fasiszta vagy, mert csak a Vörös Őrség tagjai léphetnek be ide."
+msgid ""
+"And I guess you are a fascists too, as only Red Guard members are allowed in "
+"here."
+msgstr ""
+"És azt hiszem, te is fasiszta vagy, mert csak a Vörös Őrség tagjai léphetnek "
+"be ide."
 
 #: Peter.dialog:55
 msgid "What is a fascist?"
@@ -57,8 +61,12 @@ msgid "What is ..."
 msgstr "Micsoda..."
 
 #: Peter.dialog:59
-msgid "LALALALALA - I'm not hearing you. I have my fingers in my ears and just go - LALALALALA"
-msgstr "LÁLÁLÁLÁLÁÁÁ - Nem hallok semmit! Bedugtam az ujjam a fülembe és nem hallom! - LÁLLÁÁÁLÁÁÁÁ!"
+msgid ""
+"LALALALALA - I'm not hearing you. I have my fingers in my ears and just go - "
+"LALALALALA"
+msgstr ""
+"LÁLÁLÁLÁLÁÁÁ - Nem hallok semmit! Bedugtam az ujjam a fülembe és nem hallom! "
+"- LÁLLÁÁÁLÁÁÁÁ!"
 
 #: Peter.dialog:63
 msgid "Talk to you later."
@@ -67,4 +75,3 @@ msgstr "Majd később még beszélünk."
 #: Peter.dialog:65
 msgid "Not in your life, Fascist!"
 msgstr "Veled az életben nem, Fasiszta!"
-

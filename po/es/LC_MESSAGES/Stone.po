@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-02 07:42+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-02 07:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Stone.dialog:46
@@ -38,8 +38,8 @@ msgstr ""
 
 #: Stone.dialog:64
 msgid ""
-"Sorry, this is all we have for now. The Red Guard took away all of "
-"our poppers."
+"Sorry, this is all we have for now. The Red Guard took away all of our "
+"poppers."
 msgstr ""
 
 #: Stone.dialog:65
@@ -71,20 +71,19 @@ msgid "They run the city with strict laws and demand total obedience."
 msgstr ""
 
 #: Stone.dialog:83
-msgid ""
-"We all need to obey their rules. We need to work hard or they hurt us."
+msgid "We all need to obey their rules. We need to work hard or they hurt us."
 msgstr ""
 
 #: Stone.dialog:84
 msgid ""
-"I guess I should not complain. The bots are far worse than the guards "
-"can be, but..."
+"I guess I should not complain. The bots are far worse than the guards can "
+"be, but..."
 msgstr ""
 
 #: Stone.dialog:85
 msgid ""
-"Sucked dry by a bloodthirsty regime over many years or just sliced "
-"into bits by our former servants..."
+"Sucked dry by a bloodthirsty regime over many years or just sliced into bits "
+"by our former servants..."
 msgstr ""
 
 #: Stone.dialog:86
@@ -105,8 +104,8 @@ msgstr ""
 
 #: Stone.dialog:101
 msgid ""
-"A hint, Linarian: We don't have much, but we're alive and we'd rather "
-"stay that way."
+"A hint, Linarian: We don't have much, but we're alive and we'd rather stay "
+"that way."
 msgstr ""
 
 #: Stone.dialog:102
@@ -123,8 +122,8 @@ msgstr ""
 
 #: Stone.dialog:110
 msgid ""
-"Ha! It's time to show the world that Lily Stone is not going down "
-"without putting up a damn good fight."
+"Ha! It's time to show the world that Lily Stone is not going down without "
+"putting up a damn good fight."
 msgstr ""
 
 #: Stone.dialog:112
@@ -133,14 +132,14 @@ msgstr ""
 
 #: Stone.dialog:113
 msgid ""
-"The Stone family always bought cheap and sold at a low profit. The "
-"times have changed, but not my prices."
+"The Stone family always bought cheap and sold at a low profit. The times "
+"have changed, but not my prices."
 msgstr ""
 
 #: Stone.dialog:114
 msgid ""
-"The new taxes, the worldwide economic collapse and other factors are "
-"slowly murdering the family store."
+"The new taxes, the worldwide economic collapse and other factors are slowly "
+"murdering the family store."
 msgstr ""
 
 #: Stone.dialog:121
@@ -149,8 +148,8 @@ msgstr ""
 
 #: Stone.dialog:123
 msgid ""
-"No, there's nothing that can be done anymore. I don't have enough "
-"money to lift the shop from the downward spiral."
+"No, there's nothing that can be done anymore. I don't have enough money to "
+"lift the shop from the downward spiral."
 msgstr ""
 
 #: Stone.dialog:124
@@ -158,19 +157,17 @@ msgid "I'd need thousands to just survive the month."
 msgstr ""
 
 #: Stone.dialog:125
-msgid ""
-"The shop is dying, and there's nothing either of us can do about it."
+msgid "The shop is dying, and there's nothing either of us can do about it."
 msgstr ""
 
 #: Stone.dialog:130
-msgid ""
-"Maybe there is still hope, Ms. Stone. How much exactly do you need?"
+msgid "Maybe there is still hope, Ms. Stone. How much exactly do you need?"
 msgstr ""
 
 #: Stone.dialog:132
 msgid ""
-"I couldn't get myself to look at my finance logs for a while now. I "
-"guess about two thousand circuits."
+"I couldn't get myself to look at my finance logs for a while now. I guess "
+"about two thousand circuits."
 msgstr ""
 
 #: Stone.dialog:134 Stone.dialog:180 Stone.dialog:190 Stone.dialog:203
@@ -180,8 +177,8 @@ msgstr ""
 #: Stone.dialog:134
 msgid ""
 "Ms. Stone can't afford to pay her taxes, and it looks like the family "
-"business will be going under soon. She needs 2000 in cash to stay "
-"afloat. I could try to help her out."
+"business will be going under soon. She needs 2000 in cash to stay afloat. I "
+"could try to help her out."
 msgstr ""
 
 #: Stone.dialog:140
@@ -210,14 +207,14 @@ msgstr ""
 
 #: Stone.dialog:152
 msgid ""
-"But this isn't fair to you. The Stones are a family of fair merchants "
-"and I intend to uphold that tradition."
+"But this isn't fair to you. The Stones are a family of fair merchants and I "
+"intend to uphold that tradition."
 msgstr ""
 
 #: Stone.dialog:153
 msgid ""
-"I need 1,547 circuits to get through the month. I will accept only "
-"that and not a transistor more."
+"I need 1,547 circuits to get through the month. I will accept only that and "
+"not a transistor more."
 msgstr ""
 
 #: Stone.dialog:155
@@ -254,8 +251,8 @@ msgstr ""
 
 #: Stone.dialog:165
 msgid ""
-"Otherwise you're throwing good money after bad, and I couldn't let "
-"you do that."
+"Otherwise you're throwing good money after bad, and I couldn't let you do "
+"that."
 msgstr ""
 
 #: Stone.dialog:171
@@ -264,8 +261,8 @@ msgstr ""
 
 #: Stone.dialog:173
 msgid ""
-"I thought so. My grandfather used to tell me stories about you. He "
-"said you would come here in a time of despair."
+"I thought so. My grandfather used to tell me stories about you. He said you "
+"would come here in a time of despair."
 msgstr ""
 
 #: Stone.dialog:174
@@ -278,27 +275,27 @@ msgstr ""
 
 #: Stone.dialog:176
 msgid ""
-"I have something here for you. I managed to hide this Shotgun from "
-"the Red Guard."
+"I have something here for you. I managed to hide this Shotgun from the Red "
+"Guard."
 msgstr ""
 
 #: Stone.dialog:177
 msgid ""
-"It used to belong to my grandfather, so it's very dear to me, but I'm "
-"sure he would have like you to have it on your journey to save us all."
+"It used to belong to my grandfather, so it's very dear to me, but I'm sure "
+"he would have like you to have it on your journey to save us all."
 msgstr ""
 
 #: Stone.dialog:178
 msgid ""
-"Tux, if you ever find out who started the Great Assault... GIVE THEM "
-"A KICK IN THE ASS, FROM LILY STONE!!!"
+"Tux, if you ever find out who started the Great Assault... GIVE THEM A KICK "
+"IN THE ASS, FROM LILY STONE!!!"
 msgstr ""
 
 #: Stone.dialog:180
 msgid ""
-"Ms. Stone was really grateful for my help. She took only what she "
-"needed from me, and still rewarded me with a shotgun she had been "
-"hiding from the Red Guard."
+"Ms. Stone was really grateful for my help. She took only what she needed "
+"from me, and still rewarded me with a shotgun she had been hiding from the "
+"Red Guard."
 msgstr ""
 
 #: Stone.dialog:186
@@ -315,8 +312,8 @@ msgstr ""
 
 #: Stone.dialog:190
 msgid ""
-"Ms. Stone was really grateful for my help. She took only what she "
-"needed from me."
+"Ms. Stone was really grateful for my help. She took only what she needed "
+"from me."
 msgstr ""
 
 #: Stone.dialog:196
@@ -335,10 +332,14 @@ msgstr ""
 msgid "Say your prayers, you oversized duck!!!"
 msgstr ""
 
+#: Stone.dialog:202
+msgid "Stone -- Bird Hunting"
+msgstr ""
+
 #: Stone.dialog:203
 msgid ""
-"I tricked that Ms. Stone into believing I was going to help her out. "
-"It was funny to see her get angry."
+"I tricked that Ms. Stone into believing I was going to help her out. It was "
+"funny to see her get angry."
 msgstr ""
 
 #: Stone.dialog:209

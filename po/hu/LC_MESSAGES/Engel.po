@@ -3,14 +3,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-05 15:49+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Engel.dialog:41
@@ -54,8 +54,12 @@ msgid "Nein. Let us die as warriors. That is all we ask for."
 msgstr "Nein. Hagyj minket harcosként meghalni. Csak ennyit kérünk."
 
 #: Engel.dialog:66
-msgid "If you keep standing here more bots will come and they will kill you. Go somewhere safe, and set up defense there."
-msgstr "Ha itt maradtuk, még több bot fog jönni, és megölnek titeket. Menjetek valami biztonságos helyre, és ássátok be magatokat."
+msgid ""
+"If you keep standing here more bots will come and they will kill you. Go "
+"somewhere safe, and set up defense there."
+msgstr ""
+"Ha itt maradtuk, még több bot fog jönni, és megölnek titeket. Menjetek "
+"valami biztonságos helyre, és ássátok be magatokat."
 
 #: Engel.dialog:74
 msgid "If you keep standing here more bots will come and --"
@@ -79,7 +83,8 @@ msgstr "Nem."
 
 #: Engel.dialog:85
 msgid "Every day since the mess started I come here to fight the bots."
-msgstr "Minden nap, a háború kezdete óta ide jövünk, hogy harcoljunk a botokkal."
+msgstr ""
+"Minden nap, a háború kezdete óta ide jövünk, hogy harcoljunk a botokkal."
 
 #: Engel.dialog:86
 msgid "Today will be no different."
@@ -98,11 +103,15 @@ msgid "Nowhere. This is the end of the world. There is no help."
 msgstr "Sehol. Ez a világvége. Nincs segítség."
 
 #: Engel.dialog:95
-msgid "There is a city a bit south from here, but if I were you, I would not go there."
+msgid ""
+"There is a city a bit south from here, but if I were you, I would not go "
+"there."
 msgstr "Van nem messze egy város, de a helyedben nem mennék oda."
 
 #: Engel.dialog:96
-msgid "The Rot Guard is the ruler there, and cruelty is their solution to everything."
+msgid ""
+"The Rot Guard is the ruler there, and cruelty is their solution to "
+"everything."
 msgstr "A Vörös Őrség uralkodik, és mindenre a kegyetlenség a megoldásuk."
 
 #: Engel.dialog:97
@@ -130,8 +139,12 @@ msgid "WHAT!? SPIT IT OUT!"
 msgstr "MI VAN!? BESZÉLJ!"
 
 #: Engel.dialog:115
-msgid "Er... You guys are really great and I admire your bravery in the face of certain death."
-msgstr "Ööö... Ti, fiúk igazán nagyszerűek vagytok, értékelem a bátorságotokat, hogy szembenéztek a biztos halállal."
+msgid ""
+"Er... You guys are really great and I admire your bravery in the face of "
+"certain death."
+msgstr ""
+"Ööö... Ti, fiúk igazán nagyszerűek vagytok, értékelem a bátorságotokat, hogy "
+"szembenéztek a biztos halállal."
 
 #: Engel.dialog:116
 msgid "Donnerwetter, you are a funny one."
@@ -158,8 +171,12 @@ msgid "I was a bot constructor. Built the killers of my mother."
 msgstr "Bot konstruktőrök voltunk. Anyánk gyilkosait építettük."
 
 #: Engel.dialog:127
-msgid "Now I sell the parts that I remove from the bots to buy more ammunition and food."
-msgstr "Manapság a botokból kiszerelt alkatrészeket adom el, hogy több lőszert és kaját vehessek."
+msgid ""
+"Now I sell the parts that I remove from the bots to buy more ammunition and "
+"food."
+msgstr ""
+"Manapság a botokból kiszerelt alkatrészeket adom el, hogy több lőszert és "
+"kaját vehessek."
 
 #: Engel.dialog:132
 msgid "I want to know how to extract modules from the bots."
@@ -192,4 +209,3 @@ msgstr "Majd még találkozunk."
 #: Engel.dialog:150
 msgid "Goodbye and viel Gluck."
 msgstr "Viszlát és viel glück."
-

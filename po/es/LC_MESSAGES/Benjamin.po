@@ -5,14 +5,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-04 10:56+0200\n"
 "Last-Translator: jordi <jordiferren@gmail.com>\n"
 "Language-Team: \n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Virtaal 0.5.2\n"
 
@@ -41,8 +41,12 @@ msgid "Hello!"
 msgstr "Hola!."
 
 #: Benjamin.dialog:44
-msgid "Ah, so you are the new member. Welcome. My name is Benjamin, and I take care of our ranged weaponry here in the citadel."
-msgstr "Ah, entonces eres el nuevo miembro. Bienvenido. Me llamo Benjamin, y presto atención a nuestras armas de largo alcance en la ciutadela."
+msgid ""
+"Ah, so you are the new member. Welcome. My name is Benjamin, and I take care "
+"of our ranged weaponry here in the citadel."
+msgstr ""
+"Ah, entonces eres el nuevo miembro. Bienvenido. Me llamo Benjamin, y presto "
+"atención a nuestras armas de largo alcance en la ciutadela."
 
 #: Benjamin.dialog:45
 msgid "Benjamin -- Gunsmith"
@@ -53,20 +57,37 @@ msgid "What are you doing here alone? "
 msgstr "¿Que estas haciendo aquí solo?"
 
 #: Benjamin.dialog:52
-msgid "I'm experimenting with new designs. I want to redesign the laser pistol."
-msgstr "Estoy experimentando con nuevos diseños. Busco como rediseñar la pistola laser."
+msgid ""
+"I'm experimenting with new designs. I want to redesign the laser pistol."
+msgstr ""
+"Estoy experimentando con nuevos diseños. Busco como rediseñar la pistola "
+"laser."
 
 #: Benjamin.dialog:53
-msgid "A lot of energy is wasted somewhere during firing, and I have no idea where. If I could find the source of the problem, the gun would become much more powerful."
-msgstr "Se gasta mucha energía en alguna parte durante los disparos, y no tengo idea de donde. Si pudiera encontrar la fuente del problema la pistola sería mucho más potente. "
+msgid ""
+"A lot of energy is wasted somewhere during firing, and I have no idea where. "
+"If I could find the source of the problem, the gun would become much more "
+"powerful."
+msgstr ""
+"Se gasta mucha energía en alguna parte durante los disparos, y no tengo idea "
+"de donde. Si pudiera encontrar la fuente del problema la pistola sería mucho "
+"más potente. "
 
 #: Benjamin.dialog:54
-msgid "So far all my prototypes have failed. Mostly overheating and jamming. Sometimes I wonder if I am doing something wrong."
-msgstr "Hasta ahora todos mis prototipos han fallado. La mayoría se calienta y se encasquilla. Algunas veces me pregunto si estare haciendo algo mal."
+msgid ""
+"So far all my prototypes have failed. Mostly overheating and jamming. "
+"Sometimes I wonder if I am doing something wrong."
+msgstr ""
+"Hasta ahora todos mis prototipos han fallado. La mayoría se calienta y se "
+"encasquilla. Algunas veces me pregunto si estare haciendo algo mal."
 
 #: Benjamin.dialog:59
-msgid "Did you think about somehow gathering the excess heat and using it to make the beam stronger?"
-msgstr "¿Has pensado reunir de alguna manera el exceso de calor y usarlo para hacer rayo más potente?"
+msgid ""
+"Did you think about somehow gathering the excess heat and using it to make "
+"the beam stronger?"
+msgstr ""
+"¿Has pensado reunir de alguna manera el exceso de calor y usarlo para hacer "
+"rayo más potente?"
 
 #: Benjamin.dialog:61
 msgid "Hmm... There might be something in that idea. I will think about it."
@@ -81,8 +102,12 @@ msgid "Hmm... I will think about it. Hmm..."
 msgstr "Hmm... Lo pensare. Hmm..."
 
 #: Benjamin.dialog:75
-msgid "You know, laser pistols are not a very promising weapon. I think you should work on something different."
-msgstr "Sabes, las pistolas láser no son una arma muy prometedora. Pienso que deberías trabajar en algo diferente."
+msgid ""
+"You know, laser pistols are not a very promising weapon. I think you should "
+"work on something different."
+msgstr ""
+"Sabes, las pistolas láser no son una arma muy prometedora. Pienso que "
+"deberías trabajar en algo diferente."
 
 #: Benjamin.dialog:77
 msgid "Yeah, maybe you are right. I will think about it."
@@ -93,16 +118,26 @@ msgid "Can you teach me how to properly use rifles and guns?"
 msgstr "¿Puedes enseñarme como usar correctamente los rifles y las pistolas?"
 
 #: Benjamin.dialog:87
-msgid "If anyone in this city knows more about guns than me, then my name's not Benjamin."
-msgstr "Si alguien de esta ciudad sabe mas sobre pistolas que yo, entonces no me llamo Benjamin."
+msgid ""
+"If anyone in this city knows more about guns than me, then my name's not "
+"Benjamin."
+msgstr ""
+"Si alguien de esta ciudad sabe mas sobre pistolas que yo, entonces no me "
+"llamo Benjamin."
 
 #: Benjamin.dialog:88
-msgid "Of course, I will need compensation for the ammunition spent in the training and for my time."
-msgstr "Por supuesto, necesitaré una compensación por la munición que gastemos en el entrenamiento y por mi tiempo."
+msgid ""
+"Of course, I will need compensation for the ammunition spent in the training "
+"and for my time."
+msgstr ""
+"Por supuesto, necesitaré una compensación por la munición que gastemos en el "
+"entrenamiento y por mi tiempo."
 
 #: Benjamin.dialog:89
 msgid "Say... A hundred circuits should be enough for a beginner lesson."
-msgstr "Creo que... Cien créditos deberían ser suficientes para una lección de principiante."
+msgstr ""
+"Creo que... Cien créditos deberían ser suficientes para una lección de "
+"principiante."
 
 #: Benjamin.dialog:90 Benjamin.dialog:96 Benjamin.dialog:101
 #: Benjamin.dialog:106 Benjamin.dialog:111
@@ -114,72 +149,113 @@ msgid "Oh, you are ready for some more training?"
 msgstr "Oh, ¿estas listo para algo mas de entrenamiento?"
 
 #: Benjamin.dialog:94
-msgid "It will of course cost a bit more money as well as mental focus on your part."
-msgstr "Esto, por supuesto, te costará un poco mas de dinero así como una mayor concentración por tu parte."
+msgid ""
+"It will of course cost a bit more money as well as mental focus on your part."
+msgstr ""
+"Esto, por supuesto, te costará un poco mas de dinero así como una mayor "
+"concentración por tu parte."
 
 #: Benjamin.dialog:95
-msgid "It will take you two hundred circuits and double the effort on your part to become a true apprentice."
-msgstr "Esto te costará doscientos créditos y el doble de esfuerzo por tu parte para que lo aprendas."
+msgid ""
+"It will take you two hundred circuits and double the effort on your part to "
+"become a true apprentice."
+msgstr ""
+"Esto te costará doscientos créditos y el doble de esfuerzo por tu parte para "
+"que lo aprendas."
 
 #: Benjamin.dialog:99
 msgid "I see you have taken a liking to guns."
 msgstr "Veo que le coges el gusto a las armas."
 
 #: Benjamin.dialog:100
-msgid "But the next step will cost even more money and require the mental focus equaling all your previous training."
-msgstr "Pero el siguiente paso te costará más dinero y requiere una concentración igual a todo tu entrenamiento previo."
+msgid ""
+"But the next step will cost even more money and require the mental focus "
+"equaling all your previous training."
+msgstr ""
+"Pero el siguiente paso te costará más dinero y requiere una concentración "
+"igual a todo tu entrenamiento previo."
 
 #: Benjamin.dialog:104
 msgid "Oh, you want to become a real master with shooters?"
 msgstr "Oh, ¿quieres convertirte en un verdadero maestro de las pistolas?"
 
 #: Benjamin.dialog:105
-msgid "It will cost you 400 valuable circuits and an awful lot of mental focusing on the task."
-msgstr "Esto te costará tus 400 valiosos créditos y una tremenda concentración en tu tarea."
+msgid ""
+"It will cost you 400 valuable circuits and an awful lot of mental focusing "
+"on the task."
+msgstr ""
+"Esto te costará tus 400 valiosos créditos y una tremenda concentración en tu "
+"tarea."
 
 #: Benjamin.dialog:109
-msgid "To become a true god of firearms, just like me, you need ridiculous amounts of training."
-msgstr "Para llegar a ser un verdadero dios de las armas de fuego, como yo, necesitarás un entrenamiento extraordinario."
+msgid ""
+"To become a true god of firearms, just like me, you need ridiculous amounts "
+"of training."
+msgstr ""
+"Para llegar a ser un verdadero dios de las armas de fuego, como yo, "
+"necesitarás un entrenamiento extraordinario."
 
 #: Benjamin.dialog:110
-msgid "It will of course cost a fair bit of cold, hard circuits as well. 500, to be precise."
-msgstr "Esto, por supuesto, te costará bastante más créditos. 500, para ser exactos."
+msgid ""
+"It will of course cost a fair bit of cold, hard circuits as well. 500, to be "
+"precise."
+msgstr ""
+"Esto, por supuesto, te costará bastante más créditos. 500, para ser exactos."
 
 #: Benjamin.dialog:114
 msgid "Sorry, there is no human alive that could give you further training."
-msgstr "Perdón, no hay ningún humano vivo que pueda darte tu entrenamiento avanzado."
+msgstr ""
+"Perdón, no hay ningún humano vivo que pueda darte tu entrenamiento avanzado."
 
 #: Benjamin.dialog:120
-msgid "Sign up for a course in improving my ranged weapons skill. (cost 100 circuits, 3 training points)"
-msgstr "Inscríbete para un curso de mejora de habilidad del manejo de las armas. (cuesta 100 créditos, 3 puntos de entrenamiento)"
+msgid ""
+"Sign up for a course in improving my ranged weapons skill. (cost 100 "
+"circuits, 3 training points)"
+msgstr ""
+"Inscríbete para un curso de mejora de habilidad del manejo de las armas. "
+"(cuesta 100 créditos, 3 puntos de entrenamiento)"
 
 #: Benjamin.dialog:123
 msgid "Yes, I'd like some basic training in ranged combat."
-msgstr "Sí, me gustaría hacer algo de entrenamiento en combate de largo alcance."
+msgstr ""
+"Sí, me gustaría hacer algo de entrenamiento en combate de largo alcance."
 
 #: Benjamin.dialog:126
 msgid "Suits me well, I'm not busy at the moment anyway."
 msgstr "Como quieras, de todas formas no estoy ocupado en este momento."
 
 #: Benjamin.dialog:127
-msgid "Now the most important thing is that you turn off the auto-aim on your weapon, like this."
-msgstr "Ahora lo más importante es que puedes desconectar el apuntador automático de tu arma, como esta."
+msgid ""
+"Now the most important thing is that you turn off the auto-aim on your "
+"weapon, like this."
+msgstr ""
+"Ahora lo más importante es que puedes desconectar el apuntador automático de "
+"tu arma, como esta."
 
 #: Benjamin.dialog:128
-msgid "Otherwise your weapon might 'help' you and shoot somewhere you didn't intend to fire."
-msgstr "Por lo demás tu arma puede 'ayudarte' y disparar donde no tenías intención de hacerlo."
+msgid ""
+"Otherwise your weapon might 'help' you and shoot somewhere you didn't intend "
+"to fire."
+msgstr ""
+"Por lo demás tu arma puede 'ayudarte' y disparar donde no tenías intención "
+"de hacerlo."
 
 #: Benjamin.dialog:129
 msgid "Next important thing is to remember how to properly fire a shot."
 msgstr "Lo siguiente más importante es recordar como disparar correctamente."
 
 #: Benjamin.dialog:130
-msgid "Watch your target closely. Pretend you're moving with it. Aim for the head."
-msgstr "Mira a tu objetivo de cerca. Finge que te mueves con él. Apunta a la cabeza."
+msgid ""
+"Watch your target closely. Pretend you're moving with it. Aim for the head."
+msgstr ""
+"Mira a tu objetivo de cerca. Finge que te mueves con él. Apunta a la cabeza."
 
 #: Benjamin.dialog:131
-msgid "When you feel completely in sync with your target, then you pull the trigger."
-msgstr "Cuando te sientas completamente en sincronía con tu objetivo, entonces tira del gatillo."
+msgid ""
+"When you feel completely in sync with your target, then you pull the trigger."
+msgstr ""
+"Cuando te sientas completamente en sincronía con tu objetivo, entonces tira "
+"del gatillo."
 
 #: Benjamin.dialog:132
 msgid "Good. You are learning fast. Try it a few more times."
@@ -191,7 +267,9 @@ msgstr "Bien. Creo que es suficiente por hoy."
 
 #: Benjamin.dialog:141
 msgid "Yes I want even more training. (cost 200 circuits, 6 training points)"
-msgstr "Si yo también quiero más entrenamiento. (cuesta 200 créditos, 6 puntos de entrenamiento)."
+msgstr ""
+"Si yo también quiero más entrenamiento. (cuesta 200 créditos, 6 puntos de "
+"entrenamiento)."
 
 #: Benjamin.dialog:144
 msgid "So lets start the second course?"
@@ -206,16 +284,23 @@ msgid "You must remain calm whilst shooting."
 msgstr "Tienes que permanecer calmado mientras disparas."
 
 #: Benjamin.dialog:149
-msgid "Try breathing out as you pull the trigger and squeeze it gently rather than jerking it."
-msgstr "Intenta no respirar cuando tires del gatillo y aprietalo suavemente en vez de bruscamente."
+msgid ""
+"Try breathing out as you pull the trigger and squeeze it gently rather than "
+"jerking it."
+msgstr ""
+"Intenta no respirar cuando tires del gatillo y aprietalo suavemente en vez "
+"de bruscamente."
 
 #: Benjamin.dialog:150
-msgid "That's right. You will find yourself hitting the target much more often now."
+msgid ""
+"That's right. You will find yourself hitting the target much more often now."
 msgstr "Correcto. Ahora te encontrarás que das con el objetivo más a menudo."
 
 #: Benjamin.dialog:158
 msgid "Yes I'm eager for more training. (cost 300 circuits, 9 training points)"
-msgstr "Si estoy impaciente por entrenar más. (cuesta 300 créditos, 9 puntos de entrenamiento)"
+msgstr ""
+"Si estoy impaciente por entrenar más. (cuesta 300 créditos, 9 puntos de "
+"entrenamiento)"
 
 #: Benjamin.dialog:161
 msgid "So can you help me get even better with guns?"
@@ -230,16 +315,27 @@ msgid "Next lesson is hitting a moving target."
 msgstr "La próxima lección es darle a un objetivo en movimiento."
 
 #: Benjamin.dialog:166
-msgid "It's pretty simple really, just watch to see where it is going and then aim slightly ahead in case you use a non-laser gun."
-msgstr "Es realmente muy sencillo, solo fíjate donde se dirige y entonces apunta ligeramente por delante en caso que no estés usando una pistola láser."
+msgid ""
+"It's pretty simple really, just watch to see where it is going and then aim "
+"slightly ahead in case you use a non-laser gun."
+msgstr ""
+"Es realmente muy sencillo, solo fíjate donde se dirige y entonces apunta "
+"ligeramente por delante en caso que no estés usando una pistola láser."
 
 #: Benjamin.dialog:167
-msgid "It's easy when you know how, especially with bots, because they tend to move in straight lines, not bob and weave like people."
-msgstr "Es fácil cuando sabes como hacerlo, especialmente con los robots, porque ellos tienden a moverse en línea recta, no curvados y dando tumbos como la gente."
+msgid ""
+"It's easy when you know how, especially with bots, because they tend to move "
+"in straight lines, not bob and weave like people."
+msgstr ""
+"Es fácil cuando sabes como hacerlo, especialmente con los robots, porque "
+"ellos tienden a moverse en línea recta, no curvados y dando tumbos como la "
+"gente."
 
 #: Benjamin.dialog:168
 msgid "I think that is enough training for now. Next time, firing on the move!"
-msgstr "Creo que es suficiente entrenamiento por ahora. La próxima vez, dispararemos en movimiento."
+msgstr ""
+"Creo que es suficiente entrenamiento por ahora. La próxima vez, dispararemos "
+"en movimiento."
 
 #: Benjamin.dialog:176
 msgid "Yes I accept. (cost 400 circuits, 12 training points)"
@@ -250,32 +346,50 @@ msgid "I'd like to learn how to be a master shot."
 msgstr "Haré que aprendas como ser un maestro de los disparos."
 
 #: Benjamin.dialog:182
-msgid "Firing on the move is difficult, but can make survival much more likely!"
-msgstr "Disparar en movimiento es difícil, pero es más probable que sobrevivas."
+msgid ""
+"Firing on the move is difficult, but can make survival much more likely!"
+msgstr ""
+"Disparar en movimiento es difícil, pero es más probable que sobrevivas."
 
 #: Benjamin.dialog:183
-msgid "The secret is to keep a stable platform and hold the weapon loosely so that it doesn't jar."
-msgstr "El secreto es mantenerte en una plataforma estable y sujetar el arma suavemente sin que sacuda."
+msgid ""
+"The secret is to keep a stable platform and hold the weapon loosely so that "
+"it doesn't jar."
+msgstr ""
+"El secreto es mantenerte en una plataforma estable y sujetar el arma "
+"suavemente sin que sacuda."
 
 #: Benjamin.dialog:184
-msgid "Oh yes, and remember not to trip, because you should be looking where you are firing, not where you are stepping."
-msgstr "Ah si, recuerda no tropezar, porque debes seguir mirando donde estés disparando, no donde estás poniendo los pies."
+msgid ""
+"Oh yes, and remember not to trip, because you should be looking where you "
+"are firing, not where you are stepping."
+msgstr ""
+"Ah si, recuerda no tropezar, porque debes seguir mirando donde estés "
+"disparando, no donde estás poniendo los pies."
 
 #: Benjamin.dialog:185
 msgid "Keep practicing and you will get the hang of it eventually."
 msgstr "Sigue practicando y lo terminaras cogiendo."
 
 #: Benjamin.dialog:193
-msgid "Yes I want to become a god in ranged combat. (cost 500 circuits, 15 training points)"
-msgstr "Sí, quiero convertirme un un dios en el combate de largo alcance. (cuesta 500 créditos, 15 puntos de entrenamiento)"
+msgid ""
+"Yes I want to become a god in ranged combat. (cost 500 circuits, 15 training "
+"points)"
+msgstr ""
+"Sí, quiero convertirme un un dios en el combate de largo alcance. (cuesta "
+"500 créditos, 15 puntos de entrenamiento)"
 
 #: Benjamin.dialog:196
 msgid "Teach me how to be at one with my weapon."
 msgstr "Enseñame como ser el numero uno con mi arma."
 
 #: Benjamin.dialog:199
-msgid "The ultimate secret to becoming a god in ranged combat is something you should value."
-msgstr "El ultimo secreto para llegar a ser un dios en el combate de largo alcance es algo que debería valerte."
+msgid ""
+"The ultimate secret to becoming a god in ranged combat is something you "
+"should value."
+msgstr ""
+"El ultimo secreto para llegar a ser un dios en el combate de largo alcance "
+"es algo que debería valerte."
 
 #: Benjamin.dialog:200
 msgid "I don't tell everyone this, so keep it to yourself, alright?"
@@ -303,15 +417,23 @@ msgstr "Por favor no me molestes si no puedes pagarme."
 
 #: Benjamin.dialog:217
 msgid "Please defray the costs of the ammo used in training."
-msgstr "Por favor sufraga los costes de la munición gastada en el entrenamiento."
+msgstr ""
+"Por favor sufraga los costes de la munición gastada en el entrenamiento."
 
 #: Benjamin.dialog:218
-msgid "I repeat, you need to bring enough to pay for the practice targets you destroy and for my time."
-msgstr "Repito, necesitas traer suficiente para pagar las objetivos de las practicas que destruías y por mi tiempo."
+msgid ""
+"I repeat, you need to bring enough to pay for the practice targets you "
+"destroy and for my time."
+msgstr ""
+"Repito, necesitas traer suficiente para pagar las objetivos de las practicas "
+"que destruías y por mi tiempo."
 
 #: Benjamin.dialog:219
-msgid "You don't have enough money! I cannot afford to just give away training for free."
-msgstr "¡No tienes suficiente dinero! No puedo permitirme darte entrenamiento gratis."
+msgid ""
+"You don't have enough money! I cannot afford to just give away training for "
+"free."
+msgstr ""
+"¡No tienes suficiente dinero! No puedo permitirme darte entrenamiento gratis."
 
 #: Benjamin.dialog:220
 msgid "Come back when you have enough circuits."
@@ -334,36 +456,60 @@ msgid "Come back after some more practice in the field."
 msgstr "Vuelve cuando tengas más practica en el campo de batalla."
 
 #: Benjamin.dialog:232
-msgid "Only a well prepared mind is open to the ultimate in ranged combat secrets."
-msgstr "Solo una buena mente preparada esta abierta para los últimos secretos en combate de largo alcance."
+msgid ""
+"Only a well prepared mind is open to the ultimate in ranged combat secrets."
+msgstr ""
+"Solo una buena mente preparada esta abierta para los últimos secretos en "
+"combate de largo alcance."
 
 #: Benjamin.dialog:233
-msgid "Waving those circuits in front of me when you are too unfocused to train won't help. I can take your money, but you won't learn anything."
-msgstr "Agitar estos circuitos delante mio cuando no estas preparado para aprender no ayuda. Puedo coger tu dinero, pero no puedo enseñarte nada."
+msgid ""
+"Waving those circuits in front of me when you are too unfocused to train "
+"won't help. I can take your money, but you won't learn anything."
+msgstr ""
+"Agitar estos circuitos delante mio cuando no estas preparado para aprender "
+"no ayuda. Puedo coger tu dinero, pero no puedo enseñarte nada."
 
 #: Benjamin.dialog:234
-msgid "But I don't think you have enough experience for this. Come back here after you see some more action."
-msgstr "Pero no creo que tengas demasiada experiencia para esto. Vuelve cuando hayas visto más acción."
+msgid ""
+"But I don't think you have enough experience for this. Come back here after "
+"you see some more action."
+msgstr ""
+"Pero no creo que tengas demasiada experiencia para esto. Vuelve cuando hayas "
+"visto más acción."
 
 #: Benjamin.dialog:235
 msgid "Then come back when you have a real will to learn."
 msgstr "Vuelve cuando tengas la verdadera necesidad de aprender."
 
 #: Benjamin.dialog:236
-msgid "You don't have enough experience. Come here after you see some more action."
-msgstr "No tienes suficiente experiencia. Vuelve después de que hayas visto más acción."
+msgid ""
+"You don't have enough experience. Come here after you see some more action."
+msgstr ""
+"No tienes suficiente experiencia. Vuelve después de que hayas visto más "
+"acción."
 
 #: Benjamin.dialog:240
 msgid "What weapons are available to the members of the Red Guard?"
 msgstr "¿Que armas están disponibles para los miembros de la Guardia Roja?"
 
 #: Benjamin.dialog:242
-msgid "Well, for novice members there are simple laser and plasma pistols. They have their share of problems, but they do the trick nine times out of ten."
-msgstr "Veamos, para los miembros novatos estan las pistolas láser y de plasma. Estas tienen algunos problemas, pero funcionan nueve veces de cada diez."
+msgid ""
+"Well, for novice members there are simple laser and plasma pistols. They "
+"have their share of problems, but they do the trick nine times out of ten."
+msgstr ""
+"Veamos, para los miembros novatos estan las pistolas láser y de plasma. "
+"Estas tienen algunos problemas, pero funcionan nueve veces de cada diez."
 
 #: Benjamin.dialog:243
-msgid "For bigger bots we have bigger guns. The exterminator is the best weapon that we have. We hand them out only in case of an emergency or to highly experienced people."
-msgstr "Para los robots más grandes tenemos armas más grandes. El exterminador es la mejor arma que tenemos. Solo la prestamos en caso de emergencia o para gente muy experimentada."
+msgid ""
+"For bigger bots we have bigger guns. The exterminator is the best weapon "
+"that we have. We hand them out only in case of an emergency or to highly "
+"experienced people."
+msgstr ""
+"Para los robots más grandes tenemos armas más grandes. El exterminador es la "
+"mejor arma que tenemos. Solo la prestamos en caso de emergencia o para gente "
+"muy experimentada."
 
 #: Benjamin.dialog:248
 msgid "Plasma sounds deadly."
@@ -374,64 +520,122 @@ msgid "It is!"
 msgstr "Lo es!"
 
 #: Benjamin.dialog:251
-msgid "While many people find the ammunition canisters too big, and the bullets too slow, they cannot deny that once plasma hits, it leaves big holes."
-msgstr "Mientras que mucha gente encuentra los botes de munición demasiado granes, y las balas demasiado lentas, no pueden negar que cuando disparan el plasma, deja grandes agujeros."
+msgid ""
+"While many people find the ammunition canisters too big, and the bullets too "
+"slow, they cannot deny that once plasma hits, it leaves big holes."
+msgstr ""
+"Mientras que mucha gente encuentra los botes de munición demasiado granes, y "
+"las balas demasiado lentas, no pueden negar que cuando disparan el plasma, "
+"deja grandes agujeros."
 
 #: Benjamin.dialog:252
-msgid "Plasma is matter, ionised gas to be exact. It also happens to be hot enough to make steel boil."
-msgstr "El plasma es materia, gas ionizado para ser exactos. Además esta suficientemente caliente como para fundir el acero."
+msgid ""
+"Plasma is matter, ionised gas to be exact. It also happens to be hot enough "
+"to make steel boil."
+msgstr ""
+"El plasma es materia, gas ionizado para ser exactos. Además esta "
+"suficientemente caliente como para fundir el acero."
 
 #: Benjamin.dialog:253
-msgid "Most of the new recruits hate how hard to aim this weapon is. If bullets were animals, then plasma would be a well fed cow. By the time it arrives at the target, the bot is already a mile away."
-msgstr "Muchos de los nuevos reclutas odian lo difícil que es apuntar con esta arma. Si las balas fuesen animales, entonces el plasma bien podría ser una gran vaca. Con el tiempo que tarda en llegar al objetivo, el robot ya esta a mas de un kilometro."
+msgid ""
+"Most of the new recruits hate how hard to aim this weapon is. If bullets "
+"were animals, then plasma would be a well fed cow. By the time it arrives at "
+"the target, the bot is already a mile away."
+msgstr ""
+"Muchos de los nuevos reclutas odian lo difícil que es apuntar con esta arma. "
+"Si las balas fuesen animales, entonces el plasma bien podría ser una gran "
+"vaca. Con el tiempo que tarda en llegar al objetivo, el robot ya esta a mas "
+"de un kilometro."
 
 #: Benjamin.dialog:254
-msgid "If you are going to use plasma weapons you need to remember one thing: Don't let the weapon get damaged."
-msgstr "Si vas a usar las armas de plasma, necesitas recordar una cosa: No dejes que el arma se dañe."
+msgid ""
+"If you are going to use plasma weapons you need to remember one thing: Don't "
+"let the weapon get damaged."
+msgstr ""
+"Si vas a usar las armas de plasma, necesitas recordar una cosa: No dejes que "
+"el arma se dañe."
 
 #: Benjamin.dialog:255
-msgid "Even though our armor is designed to resist high temperatures, once the plasma containment module goes, you will die, along with anything within ten meters of you."
-msgstr "Aunque nuestra armadura esta diseñada para resistir altas temperaturas, una vez que el plasma se escapa del modulo de contención, mueres, junto con cualquier cosa a menos de diez metros de ti."
+msgid ""
+"Even though our armor is designed to resist high temperatures, once the "
+"plasma containment module goes, you will die, along with anything within ten "
+"meters of you."
+msgstr ""
+"Aunque nuestra armadura esta diseñada para resistir altas temperaturas, una "
+"vez que el plasma se escapa del modulo de contención, mueres, junto con "
+"cualquier cosa a menos de diez metros de ti."
 
 #: Benjamin.dialog:256
-msgid "Because of all those drawbacks plasma weapons are not too popular. Quite a pity, they have great potential."
-msgstr "A causa de todos estos problemas las armas de plasma no son muy populares. Una lástima, porque tienen una potencia enorme."
+msgid ""
+"Because of all those drawbacks plasma weapons are not too popular. Quite a "
+"pity, they have great potential."
+msgstr ""
+"A causa de todos estos problemas las armas de plasma no son muy populares. "
+"Una lástima, porque tienen una potencia enorme."
 
 #: Benjamin.dialog:261
 msgid "Tell me more about laser weapons."
 msgstr "Cuéntame más sobre las armas laser."
 
 #: Benjamin.dialog:263
-msgid "Laser is an acronym for Light Amplification by Stimulated Emission of Radiation."
-msgstr "Láser es el acrónimo ingles de Light Amplification by Stimulated Emission of Radiation (amplificación de luz mediante emisión inducida de radiación)."
+msgid ""
+"Laser is an acronym for Light Amplification by Stimulated Emission of "
+"Radiation."
+msgstr ""
+"Láser es el acrónimo ingles de Light Amplification by Stimulated Emission of "
+"Radiation (amplificación de luz mediante emisión inducida de radiación)."
 
 #: Benjamin.dialog:264
-msgid "Laser is the technology employed in most of our weaponry. It uses a focused light beam to cause damage."
-msgstr "El láser es la tecnología empleada en la mayoría de nuestro armamento. Usa una rayo de luz para causar daños."
+msgid ""
+"Laser is the technology employed in most of our weaponry. It uses a focused "
+"light beam to cause damage."
+msgstr ""
+"El láser es la tecnología empleada en la mayoría de nuestro armamento. Usa "
+"una rayo de luz para causar daños."
 
 #: Benjamin.dialog:265
-msgid "Because the beam is composed out of light, it travels REALLY fast, at the speed of lights so to say. Also it is not affected by gravity or wind, which makes aiming easier."
-msgstr "Como el rayo esta compuesto de luz, viaja REALMENTE rápido, a la velocidad de la luz por así decirlo. Tampoco le afecta ni la gravedad ni el viento, esto hace que apuntar sea más fácil."
+msgid ""
+"Because the beam is composed out of light, it travels REALLY fast, at the "
+"speed of lights so to say. Also it is not affected by gravity or wind, which "
+"makes aiming easier."
+msgstr ""
+"Como el rayo esta compuesto de luz, viaja REALMENTE rápido, a la velocidad "
+"de la luz por así decirlo. Tampoco le afecta ni la gravedad ni el viento, "
+"esto hace que apuntar sea más fácil."
 
 #: Benjamin.dialog:266
-msgid "However, other than being a good training tool for newbies, that design just fails to deliver."
-msgstr "Sin embargo, aunque pueda ser una buena herramienta de entrenamiento para novatos, este diseño falla en la ejecución."
+msgid ""
+"However, other than being a good training tool for newbies, that design just "
+"fails to deliver."
+msgstr ""
+"Sin embargo, aunque pueda ser una buena herramienta de entrenamiento para "
+"novatos, este diseño falla en la ejecución."
 
 #: Benjamin.dialog:267
-msgid "The shots tend to be underpowered, the gun takes a long while to power up for a shot and can overheat during intense combat."
-msgstr "Los disparos tienden a ser poco potentes, la pistola tarda bastante en estar lista para disparar y puede recalentarse durante el combate intenso."
+msgid ""
+"The shots tend to be underpowered, the gun takes a long while to power up "
+"for a shot and can overheat during intense combat."
+msgstr ""
+"Los disparos tienden a ser poco potentes, la pistola tarda bastante en estar "
+"lista para disparar y puede recalentarse durante el combate intenso."
 
 #: Benjamin.dialog:268
-msgid "This is why I am trying to improve it, but so far I have had no success. I just feel like giving up."
-msgstr "Por eso es por lo que estoy tratando de mejorarla, pero hasta ahora no lo he conseguido. Creo que lo abandonare."
+msgid ""
+"This is why I am trying to improve it, but so far I have had no success. I "
+"just feel like giving up."
+msgstr ""
+"Por eso es por lo que estoy tratando de mejorarla, pero hasta ahora no lo he "
+"conseguido. Creo que lo abandonare."
 
 #: Benjamin.dialog:273
 msgid "I am curious about the exterminator."
 msgstr "Siento curiosidad sobre el exterminador."
 
 #: Benjamin.dialog:275
-msgid "Sorry, but that is classified and confidential. I have said too much already."
-msgstr "Perdón, pero esta clasificado y es confidencial. Pero tengo mucho que decir. "
+msgid ""
+"Sorry, but that is classified and confidential. I have said too much already."
+msgstr ""
+"Perdón, pero esta clasificado y es confidencial. Pero tengo mucho que decir. "
 
 #: Benjamin.dialog:280
 msgid "I will make it worth your while..."
@@ -454,20 +658,33 @@ msgid "How many exterminators does the Red Guard have?"
 msgstr "¿Cuantos exterminadores tiene la Guardia Roja?"
 
 #: Benjamin.dialog:292
-msgid "It might come as a surprise to you, but we don't have many. A bit over twenty, last time I checked."
-msgstr "Esto puedes sorprenderte, pero no tenemos muchos. Había un poco mas de una veintena la ultima vez que lo comprobé."
+msgid ""
+"It might come as a surprise to you, but we don't have many. A bit over "
+"twenty, last time I checked."
+msgstr ""
+"Esto puedes sorprenderte, pero no tenemos muchos. Había un poco mas de una "
+"veintena la ultima vez que lo comprobé."
 
 #: Benjamin.dialog:293
-msgid "However, as you can clearly see, it's more than enough to keep all of the damn bots away."
-msgstr "Sin embargo, como claramente puedes ver, es más que suficiente como para mantener lejos a todos esos condenados robots."
+msgid ""
+"However, as you can clearly see, it's more than enough to keep all of the "
+"damn bots away."
+msgstr ""
+"Sin embargo, como claramente puedes ver, es más que suficiente como para "
+"mantener lejos a todos esos condenados robots."
 
 #: Benjamin.dialog:301
 msgid "Well, I am a bit short on circuits right now..."
 msgstr "Bueno, estoy un poco corto de créditos ahora mismo..."
 
 #: Benjamin.dialog:303
-msgid "Linarian, I thought we had an agreement. Fifty per infobit. My silence can be only broken with currency, so if you want to know, you have to pay."
-msgstr "Linariano, pensé que podríamos llegar a un acuerdo. Cincuenta por un poco de información. Mi silencio solo se puede romper con monedas, así que si quieres saber, tienes que pagar."
+msgid ""
+"Linarian, I thought we had an agreement. Fifty per infobit. My silence can "
+"be only broken with currency, so if you want to know, you have to pay."
+msgstr ""
+"Linariano, pensé que podríamos llegar a un acuerdo. Cincuenta por un poco de "
+"información. Mi silencio solo se puede romper con monedas, así que si "
+"quieres saber, tienes que pagar."
 
 #: Benjamin.dialog:304
 msgid "This conversation is now over."
@@ -482,36 +699,61 @@ msgid "All of them were a very lucky find."
 msgstr "Tuve mucha suerte al encontrarlos."
 
 #: Benjamin.dialog:313
-msgid "We found a crashed army truck on the Terminal Field. It had six crates inside it, each containing five exterminators."
-msgstr "Encontramos un camión accidentado del ejercito en el el Campo de la Terminal. Hay seis cajas dentro, cada una contiene cinco exterminadores."
+msgid ""
+"We found a crashed army truck on the Terminal Field. It had six crates "
+"inside it, each containing five exterminators."
+msgstr ""
+"Encontramos un camión accidentado del ejercito en el el Campo de la "
+"Terminal. Hay seis cajas dentro, cada una contiene cinco exterminadores."
 
 #: Benjamin.dialog:314
 msgid "We tried, but we could not replicate the technology, only bullets."
 msgstr "Lo intentamos, pero no pudimos imitar la tecnología, solo las balas."
 
 #: Benjamin.dialog:315
-msgid "A few got damaged in battle, and we failed to recover five after a failed scout mission. We have twenty-two right now."
-msgstr "Unas pocas fueron dañadas en batalla, y fallamos en recuperar cinco después de una misión de exploración fallida. Ahora mismo tenemos veintidós."
+msgid ""
+"A few got damaged in battle, and we failed to recover five after a failed "
+"scout mission. We have twenty-two right now."
+msgstr ""
+"Unas pocas fueron dañadas en batalla, y fallamos en recuperar cinco después "
+"de una misión de exploración fallida. Ahora mismo tenemos veintidós."
 
 #: Benjamin.dialog:323
 msgid "What is the exterminator ammunition made from?"
 msgstr "¿De que esta echa la munición del exterminador?"
 
 #: Benjamin.dialog:326
-msgid "We use radioactives, whatever type happens to be on hand. Mostly plutonium and uranium, but we are not too picky."
-msgstr "Usamos agentes radioactivos, todos los que pudimos conseguir. Más que nada plutonio y uranio, pero no somos muy quisquillosos."
+msgid ""
+"We use radioactives, whatever type happens to be on hand. Mostly plutonium "
+"and uranium, but we are not too picky."
+msgstr ""
+"Usamos agentes radioactivos, todos los que pudimos conseguir. Más que nada "
+"plutonio y uranio, pero no somos muy quisquillosos."
 
 #: Benjamin.dialog:327
-msgid "When we get low on ammo, we send in a chain gang of criminals and sluggards into the mine shaft K-17."
-msgstr "Cuando estamos bajos de munición, enviamos a un grupo de criminales y holgazanes al pozo minero K-17."
+msgid ""
+"When we get low on ammo, we send in a chain gang of criminals and sluggards "
+"into the mine shaft K-17."
+msgstr ""
+"Cuando estamos bajos de munición, enviamos a un grupo de criminales y "
+"holgazanes al pozo minero K-17."
 
 #: Benjamin.dialog:328
-msgid "That place was closed down ages ago because of high radiation levels. It's full of good ores from which we make bullets and power our nuclear reactors."
-msgstr "Ese sitio se cerro hace años a causa de los altos niveles de radiación. Esta lleno de buenos minerales con los que hacemos balas y producimos energía en nuestros reactores nucleares."
+msgid ""
+"That place was closed down ages ago because of high radiation levels. It's "
+"full of good ores from which we make bullets and power our nuclear reactors."
+msgstr ""
+"Ese sitio se cerro hace años a causa de los altos niveles de radiación. Esta "
+"lleno de buenos minerales con los que hacemos balas y producimos energía en "
+"nuestros reactores nucleares."
 
 #: Benjamin.dialog:329
-msgid "We get our fission materials, and they serve their sentence. It was one of the best ideas we have ever had."
-msgstr "Cogemos nuestros materiales fisionables y ellos cumplen su condena. Fue una de las mejores ideas que jamás hayamos tenido."
+msgid ""
+"We get our fission materials, and they serve their sentence. It was one of "
+"the best ideas we have ever had."
+msgstr ""
+"Cogemos nuestros materiales fisionables y ellos cumplen su condena. Fue una "
+"de las mejores ideas que jamás hayamos tenido."
 
 #: Benjamin.dialog:337
 msgid "Tell me who designed the exterminator."
@@ -542,24 +784,40 @@ msgid "I changed my mind."
 msgstr "He cambiado de idea."
 
 #: Benjamin.dialog:350
-msgid "Keep your money Linarian. No amount of circuits can make me talk about that accursed day."
-msgstr "Guarda tu dinero Linariano. No hay bastantes créditos que puedan hacerme hablar de lo que ocurrió ese día."
+msgid ""
+"Keep your money Linarian. No amount of circuits can make me talk about that "
+"accursed day."
+msgstr ""
+"Guarda tu dinero Linariano. No hay bastantes créditos que puedan hacerme "
+"hablar de lo que ocurrió ese día."
 
 #: Benjamin.dialog:355
 msgid "What makes the exterminator so powerful?"
 msgstr "¿Que hace al exterminador tan poderoso?"
 
 #: Benjamin.dialog:358
-msgid "This is a tricky question. Most of the force comes from the miniature nuclear explosions which happen once the bullet hits something."
-msgstr "Esta es una pregunta delicada. La mayoría de su fuerza viene de las mini explosiones nucleares que ocurren cundo la bala hace blanco."
+msgid ""
+"This is a tricky question. Most of the force comes from the miniature "
+"nuclear explosions which happen once the bullet hits something."
+msgstr ""
+"Esta es una pregunta delicada. La mayoría de su fuerza viene de las mini "
+"explosiones nucleares que ocurren cundo la bala hace blanco."
 
 #: Benjamin.dialog:359
-msgid "Of course the high velocity of the impact can cause tremendous devastation by itself."
-msgstr "Por supuesto que una mayor velocidad de impacto puede causar una tremanda devastación por si misma."
+msgid ""
+"Of course the high velocity of the impact can cause tremendous devastation "
+"by itself."
+msgstr ""
+"Por supuesto que una mayor velocidad de impacto puede causar una tremanda "
+"devastación por si misma."
 
 #: Benjamin.dialog:360
-msgid "We never bothered with doing any research on that topic. It works and that is enough for us."
-msgstr "Nunca nos hemos molestado con hacer una investigación sobre este asunto. Funciona y es suficiente para nosotros."
+msgid ""
+"We never bothered with doing any research on that topic. It works and that "
+"is enough for us."
+msgstr ""
+"Nunca nos hemos molestado con hacer una investigación sobre este asunto. "
+"Funciona y es suficiente para nosotros."
 
 #: Benjamin.dialog:368
 msgid "That is all I want to know."

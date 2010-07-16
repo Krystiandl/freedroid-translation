@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
-"PO-Revision-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"PO-Revision-Date: 2010-07-16 14:05+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -331,6 +331,10 @@ msgstr ""
 
 #: ./Stone.dialog:200
 msgid "Say your prayers, you oversized duck!!!"
+msgstr ""
+
+#: ./Stone.dialog:202
+msgid "Stone -- Bird Hunting"
 msgstr ""
 
 #: ./Stone.dialog:203

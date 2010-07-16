@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
-"PO-Revision-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"PO-Revision-Date: 2010-07-16 14:05+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -373,6 +373,10 @@ msgstr ""
 
 #: ./Bender.dialog:244
 msgid "I'LL BEAT YOU TO SPLINTERS!"
+msgstr ""
+
+#: ./Bender.dialog:245
+msgid "Bender -- Homicidal"
 msgstr ""
 
 #: ./Bender.dialog:251

@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-02 07:42+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-02 07:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Pendragon.dialog:41
@@ -22,8 +22,8 @@ msgstr ""
 
 #: Pendragon.dialog:44
 msgid ""
-"Normally I'm a fighter. But now I try to relax, chill, take it easy "
-"and have a lot of fun."
+"Normally I'm a fighter. But now I try to relax, chill, take it easy and have "
+"a lot of fun."
 msgstr ""
 
 #: Pendragon.dialog:45
@@ -39,8 +39,7 @@ msgid "Could you teach me how to fight?"
 msgstr ""
 
 #: Pendragon.dialog:54
-msgid ""
-"NO! NO! Er... I mean, not right now. I am busy. Come again later."
+msgid "NO! NO! Er... I mean, not right now. I am busy. Come again later."
 msgstr ""
 
 #: Pendragon.dialog:56
@@ -81,8 +80,7 @@ msgstr ""
 
 #: Pendragon.dialog:75
 msgid ""
-"I only accept students that already have some experience in fighting "
-"bots."
+"I only accept students that already have some experience in fighting bots."
 msgstr ""
 
 #: Pendragon.dialog:80
@@ -138,8 +136,7 @@ msgid "I need to... Lie down for a while... My head hurts..."
 msgstr ""
 
 #: Pendragon.dialog:97
-msgid ""
-"Lesson number four. Never hit your sparring partner with full force."
+msgid "Lesson number four. Never hit your sparring partner with full force."
 msgstr ""
 
 #: Pendragon.dialog:98
@@ -152,8 +149,7 @@ msgstr ""
 
 #: Pendragon.dialog:103
 msgid ""
-"You don't have enough experience. I can't teach you anything more "
-"right now."
+"You don't have enough experience. I can't teach you anything more right now."
 msgstr ""
 
 #: Pendragon.dialog:104
@@ -162,14 +158,14 @@ msgstr ""
 
 #: Pendragon.dialog:106
 msgid ""
-"You don't have enough valuable circuits on you! Come back when you "
-"have the money."
+"You don't have enough valuable circuits on you! Come back when you have the "
+"money."
 msgstr ""
 
 #: Pendragon.dialog:110
 msgid ""
-"Hey, wake up! I taught you that stuff already. Go practice on the "
-"bots, if you really want more training."
+"Hey, wake up! I taught you that stuff already. Go practice on the bots, if "
+"you really want more training."
 msgstr ""
 
 #: Pendragon.dialog:116
@@ -186,8 +182,8 @@ msgstr ""
 
 #: Pendragon.dialog:120
 msgid ""
-"First learn the basics. Spend a year working on that, and then I'll "
-"be able to teach you some advanced tricks."
+"First learn the basics. Spend a year working on that, and then I'll be able "
+"to teach you some advanced tricks."
 msgstr ""
 
 #: Pendragon.dialog:125
@@ -200,8 +196,8 @@ msgstr ""
 
 #: Pendragon.dialog:132
 msgid ""
-"I want to know the Crazy Double-Fang Wolf-Sunlight I-Like-Tea Death "
-"Touch of Major Destruction Flesh-Bursting Attack!"
+"I want to know the Crazy Double-Fang Wolf-Sunlight I-Like-Tea Death Touch of "
+"Major Destruction Flesh-Bursting Attack!"
 msgstr ""
 
 #: Pendragon.dialog:134
@@ -209,14 +205,12 @@ msgid "Wow."
 msgstr ""
 
 #: Pendragon.dialog:135
-msgid ""
-"You have a very rich imagination. There is no such thing. Get a life."
+msgid "You have a very rich imagination. There is no such thing. Get a life."
 msgstr ""
 
 #: Pendragon.dialog:140
 msgid ""
-"I want to know the forbidden skill of furuike ya kawazu tobikomu mizu "
-"no oto."
+"I want to know the forbidden skill of furuike ya kawazu tobikomu mizu no oto."
 msgstr ""
 
 #: Pendragon.dialog:142
@@ -241,6 +235,10 @@ msgstr ""
 
 #: Pendragon.dialog:152
 msgid "DIEEEE!"
+msgstr ""
+
+#: Pendragon.dialog:153
+msgid "Pendragon -- Teaching you death"
 msgstr ""
 
 #: Pendragon.dialog:159

@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-05 14:46+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Bruce.dialog:38
@@ -49,11 +49,14 @@ msgid "You don't talk much, eh?"
 msgstr "Nem beszélsz túl sokat, mi?"
 
 #: Bruce.dialog:64
-msgid "No, I am just too tired now. I have been working in the mine for two weeks now."
+msgid ""
+"No, I am just too tired now. I have been working in the mine for two weeks "
+"now."
 msgstr "Nem, most csak nagyon fáradt vagyok. Már két hete a bányában dolgozom."
 
 #: Bruce.dialog:65
-msgid "I feel really wiped, so maybe it would be better if you came some other day."
+msgid ""
+"I feel really wiped, so maybe it would be better if you came some other day."
 msgstr "Nagyon szét vagyok csúszva, talán jobb lenne, ha máskor jönnél."
 
 #: Bruce.dialog:70
@@ -89,12 +92,20 @@ msgid "Those are pretty painful and distant memories."
 msgstr "Elég fájdalmas és távoli emlékek azok az idők."
 
 #: Bruce.dialog:89
-msgid "After the Great Assault, I joined the Red Guard. They needed help and were looking for volunteers."
-msgstr "A Nagy Ostrom után csatlakoztam a Vörös Őrséghez. Segítségre volt szükségük, és önkénteseket kerestek."
+msgid ""
+"After the Great Assault, I joined the Red Guard. They needed help and were "
+"looking for volunteers."
+msgstr ""
+"A Nagy Ostrom után csatlakoztam a Vörös Őrséghez. Segítségre volt szükségük, "
+"és önkénteseket kerestek."
 
 #: Bruce.dialog:90
-msgid "I served there for a short while, and they even let me use an exterminator. But then after a failed mission, I resigned and never wore a uniform again."
-msgstr "Egy rövid ideig náluk szolgáltam, és még egy exterminátorral is lőhettem. De egy befuccsolt küldetés után eldöntöttem, soha többé nem viselek egyenruhát."
+msgid ""
+"I served there for a short while, and they even let me use an exterminator. "
+"But then after a failed mission, I resigned and never wore a uniform again."
+msgstr ""
+"Egy rövid ideig náluk szolgáltam, és még egy exterminátorral is lőhettem. De "
+"egy befuccsolt küldetés után eldöntöttem, soha többé nem viselek egyenruhát."
 
 #: Bruce.dialog:95
 msgid "You mentioned an exterminator. What is it?"
@@ -105,47 +116,81 @@ msgid "It is the best weapon that the Red Guard has against the bots."
 msgstr "A Vörös Őrség legjobb fegyvere a botok ellen."
 
 #: Bruce.dialog:98
-msgid "A direct hit from one of those guns is enough to turn most bots into scrap metal."
-msgstr "Egy telitalálat abból a fegyverből elég, hogy a legtöbb botot fémhulladékká változtassa."
+msgid ""
+"A direct hit from one of those guns is enough to turn most bots into scrap "
+"metal."
+msgstr ""
+"Egy telitalálat abból a fegyverből elég, hogy a legtöbb botot fémhulladékká "
+"változtassa."
 
 #: Bruce.dialog:99
-msgid "Many of the great victories of the Red Guard are thanks to the exterminator."
+msgid ""
+"Many of the great victories of the Red Guard are thanks to the exterminator."
 msgstr "A Vörös Őrség a legtöbb nagy győzelmet ennek köszönhetően aratta."
 
 #: Bruce.dialog:100
-msgid "Of course, because of its small clip and terribly long reloading time, equally many deaths can be attributed to it."
-msgstr "Természetesen a kis kapacitású tár, és a borzasztóan hosszú újratöltési idő miatt a legtöbb haláleset is ennek köszönhető."
+msgid ""
+"Of course, because of its small clip and terribly long reloading time, "
+"equally many deaths can be attributed to it."
+msgstr ""
+"Természetesen a kis kapacitású tár, és a borzasztóan hosszú újratöltési idő "
+"miatt a legtöbb haláleset is ennek köszönhető."
 
 #: Bruce.dialog:105
 msgid "A failed mission?"
 msgstr "Befuccsolt küldetés?"
 
 #: Bruce.dialog:107
-msgid "There were six of us. Me, Wilber, Anderson and three others. I do not remember the names anymore. We were team number nine."
-msgstr "Hatan voltunk. Én, Wilber, Anderson és másik három. Már nem emlékszem a nevekre. Mi voltunk a Kilences Csapat."
+msgid ""
+"There were six of us. Me, Wilber, Anderson and three others. I do not "
+"remember the names anymore. We were team number nine."
+msgstr ""
+"Hatan voltunk. Én, Wilber, Anderson és másik három. Már nem emlékszem a "
+"nevekre. Mi voltunk a Kilences Csapat."
 
 #: Bruce.dialog:108
-msgid "It was a routine scout mission. We saw an interesting building which was not there before, and decided to take a look."
-msgstr "Egy rutin felderítő küldetés volt. Láttunk egy érdekes épületet, ami azelőtt nem volt ott, és eldöntöttük, hogy vetünk rá egy pillantást."
+msgid ""
+"It was a routine scout mission. We saw an interesting building which was not "
+"there before, and decided to take a look."
+msgstr ""
+"Egy rutin felderítő küldetés volt. Láttunk egy érdekes épületet, ami azelőtt "
+"nem volt ott, és eldöntöttük, hogy vetünk rá egy pillantást."
 
 #: Bruce.dialog:109
-msgid "It was a terrible fortress, many stories high. It had guns everywhere. When we got close the shooting started."
-msgstr "Borzasztó erőd volt, több szint magas. Fegyverek voltak rajta mindenhol. Mikor közelebb mentünk, elkezdődött a lövöldözés."
+msgid ""
+"It was a terrible fortress, many stories high. It had guns everywhere. When "
+"we got close the shooting started."
+msgstr ""
+"Borzasztó erőd volt, több szint magas. Fegyverek voltak rajta mindenhol. "
+"Mikor közelebb mentünk, elkezdődött a lövöldözés."
 
 #: Bruce.dialog:110
-msgid "They were waiting for us. Came in endless swarms. More and more and more. We stood our ground and kept firing, but it was no use. More of them came."
-msgstr "Ezek értünk jöttek. Végtelen hullámokban. Egyre több és több. Tartottuk az állásainkat, tüzeltünk rájuk, de nem használt. Még többen jöttek."
+msgid ""
+"They were waiting for us. Came in endless swarms. More and more and more. We "
+"stood our ground and kept firing, but it was no use. More of them came."
+msgstr ""
+"Ezek értünk jöttek. Végtelen hullámokban. Egyre több és több. Tartottuk az "
+"állásainkat, tüzeltünk rájuk, de nem használt. Még többen jöttek."
 
 #: Bruce.dialog:111
-msgid "Our ammunition ran out. They got close. It was the end of team number nine. The Hell Fortress took their lives. I ran. I survived."
-msgstr "A lőszerünk elfogyott. Közelebb nyomultak. Ez lett a Kilencses Csapat veszte. A Pokoli Erőd elvette az életüket. Én rohantam. Túléltem."
+msgid ""
+"Our ammunition ran out. They got close. It was the end of team number nine. "
+"The Hell Fortress took their lives. I ran. I survived."
+msgstr ""
+"A lőszerünk elfogyott. Közelebb nyomultak. Ez lett a Kilencses Csapat "
+"veszte. A Pokoli Erőd elvette az életüket. Én rohantam. Túléltem."
 
 #: Bruce.dialog:112
-msgid "After that I decided that I am not fit to be one of the Red Guard. I resigned and started to work in the mine shortly after."
-msgstr "Ez után eldöntöttem, nem tartozom többé a Vörös Őrséghez. Leszereltem, és röviddel utána a bányában kezdtem dolgozni."
+msgid ""
+"After that I decided that I am not fit to be one of the Red Guard. I "
+"resigned and started to work in the mine shortly after."
+msgstr ""
+"Ez után eldöntöttem, nem tartozom többé a Vörös Őrséghez. Leszereltem, és "
+"röviddel utána a bányában kezdtem dolgozni."
 
 #: Bruce.dialog:113
-msgid "I do not want to face the anger of the Hell Fortress ever again. Never again."
+msgid ""
+"I do not want to face the anger of the Hell Fortress ever again. Never again."
 msgstr "Nem akarok még egyszer szembe nézni a Pokoli Erőd dühével. Soha többé."
 
 #: Bruce.dialog:118
@@ -153,24 +198,40 @@ msgid "I said, I want to know about your life as a soldier."
 msgstr "Azt mondtam, hogy többet szeretnék tudni a katonaéletedről."
 
 #: Bruce.dialog:120
-msgid "And I said that I do not want to talk about it. It hurts too much. Please stop asking about it and leave me alone."
-msgstr "Mint mondtam, nem akarok beszélni róla. Túlságosan fáj. Kérlek ne kérdezz róla többet, és hagyj egyedül."
+msgid ""
+"And I said that I do not want to talk about it. It hurts too much. Please "
+"stop asking about it and leave me alone."
+msgstr ""
+"Mint mondtam, nem akarok beszélni róla. Túlságosan fáj. Kérlek ne kérdezz "
+"róla többet, és hagyj egyedül."
 
 #: Bruce.dialog:125
-msgid "You don't understand. I wasn't asking. Now, tell me about your life as a soldier, or I will tell the guards you are slacking off."
-msgstr "Nem érted. Nem kértelek. Most mesélj nekem a katonaéletedről, máskülönben szólok a Vörös Őrségnek, hogy teljesen elfáradtál."
+msgid ""
+"You don't understand. I wasn't asking. Now, tell me about your life as a "
+"soldier, or I will tell the guards you are slacking off."
+msgstr ""
+"Nem érted. Nem kértelek. Most mesélj nekem a katonaéletedről, máskülönben "
+"szólok a Vörös Őrségnek, hogy teljesen elfáradtál."
 
 #: Bruce.dialog:127
-msgid "No! Please... I will do anything, just don't call the Red Guard! They do not like people who left the service. They do not like me. "
-msgstr "Ne! Kérlek... Bármit megteszek, csk ne hívd a Vörösöket! Nem szeretik azokat, akik kiléptek a szolgálatból. Engem főleg nem."
+msgid ""
+"No! Please... I will do anything, just don't call the Red Guard! They do not "
+"like people who left the service. They do not like me. "
+msgstr ""
+"Ne! Kérlek... Bármit megteszek, csk ne hívd a Vörösöket! Nem szeretik "
+"azokat, akik kiléptek a szolgálatból. Engem főleg nem."
 
 #: Bruce.dialog:128
 msgid "I will tell you everything."
 msgstr "Mindent elmondok neked."
 
 #: Bruce.dialog:134
-msgid "I have some bad memories too. I know how hard it can be to talk about them. Keep your stories to yourself."
-msgstr "Nekem is vannak rossz emlékeim. Tudom, milyen nehéz lehet beszélni róluk. Tartsd meg a történeteidet magadnak."
+msgid ""
+"I have some bad memories too. I know how hard it can be to talk about them. "
+"Keep your stories to yourself."
+msgstr ""
+"Nekem is vannak rossz emlékeim. Tudom, milyen nehéz lehet beszélni róluk. "
+"Tartsd meg a történeteidet magadnak."
 
 #: Bruce.dialog:136
 msgid "Yes. And now I would like to go to sleep. Good night Linarian."
@@ -187,4 +248,3 @@ msgstr "..."
 #: Bruce.dialog:147
 msgid "Good. I need sleep."
 msgstr "Jó. Alvásra van szükségem."
-

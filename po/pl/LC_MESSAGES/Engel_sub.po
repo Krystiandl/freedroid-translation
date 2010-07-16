@@ -2,21 +2,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-23 07:57+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
-"%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 
 #: Engel_sub.dialog:36
 msgid ""
-"I'm ready. Please show me how to extract bot parts. (cost 50 "
-"circuits, 1 ability point)"
+"I'm ready. Please show me how to extract bot parts. (cost 50 circuits, 1 "
+"ability point)"
 msgstr ""
 
 #: Engel_sub.dialog:55 Engel_sub.dialog:60
@@ -49,8 +49,8 @@ msgstr ""
 
 #: Engel_sub.dialog:81
 msgid ""
-"When you have the head open wide, look around for a part which looks "
-"like two circles around a cube. That is what you are looking for."
+"When you have the head open wide, look around for a part which looks like "
+"two circles around a cube. That is what you are looking for."
 msgstr ""
 
 #: Engel_sub.dialog:89
@@ -58,15 +58,13 @@ msgid "How about... Plasma transistors? Trivial."
 msgstr ""
 
 #: Engel_sub.dialog:90
-msgid ""
-"Remove the bot's engine and look around somewhere close to the "
-"battery."
+msgid "Remove the bot's engine and look around somewhere close to the battery."
 msgstr ""
 
 #: Engel_sub.dialog:91
 msgid ""
-"Plasma transistors are shaped like the letter Y. Just rip them out, "
-"it's safe."
+"Plasma transistors are shaped like the letter Y. Just rip them out, it's "
+"safe."
 msgstr ""
 
 #: Engel_sub.dialog:99
@@ -79,8 +77,8 @@ msgstr ""
 
 #: Engel_sub.dialog:101
 msgid ""
-"Look around the electric system. Power coils, capacitors, generators "
-"and the like. Usually there are plenty of sehr gut parts there."
+"Look around the electric system. Power coils, capacitors, generators and the "
+"like. Usually there are plenty of sehr gut parts there."
 msgstr ""
 
 #: Engel_sub.dialog:102
@@ -97,8 +95,8 @@ msgstr ""
 
 #: Engel_sub.dialog:112
 msgid ""
-"They are easy to find, all you have to do is to get to the engine. "
-"But you must remember something very important:"
+"They are easy to find, all you have to do is to get to the engine. But you "
+"must remember something very important:"
 msgstr ""
 
 #: Engel_sub.dialog:113
@@ -107,8 +105,8 @@ msgstr ""
 
 #: Engel_sub.dialog:114
 msgid ""
-"If you do not do that, you will only succeed in converting yourself "
-"to anti-matter. And as you know, there is no coming back from there."
+"If you do not do that, you will only succeed in converting yourself to anti-"
+"matter. And as you know, there is no coming back from there."
 msgstr ""
 
 #: Engel_sub.dialog:122
@@ -117,14 +115,14 @@ msgstr ""
 
 #: Engel_sub.dialog:123
 msgid ""
-"Tachyons are very interesting particles. Many stories have been told "
-"about them."
+"Tachyons are very interesting particles. Many stories have been told about "
+"them."
 msgstr ""
 
 #: Engel_sub.dialog:124
 msgid ""
-"I have no idea why bots have them inside. They are usually not "
-"connected to anything and serve no function."
+"I have no idea why bots have them inside. They are usually not connected to "
+"anything and serve no function."
 msgstr ""
 
 #: Engel_sub.dialog:125
@@ -135,14 +133,13 @@ msgstr ""
 
 #: Engel_sub.dialog:126
 msgid ""
-"They can be installed just about anywhere, so you have to spend some "
-"time digging through the circuits to find one."
+"They can be installed just about anywhere, so you have to spend some time "
+"digging through the circuits to find one."
 msgstr ""
 
 #: Engel_sub.dialog:134
 msgid ""
-"Nein, I told you everything I know about that. No use asking me "
-"twice, ja?"
+"Nein, I told you everything I know about that. No use asking me twice, ja?"
 msgstr ""
 
 #: Engel_sub.dialog:139

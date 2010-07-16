@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-02 07:42+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-02 07:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Town-614.dialog:35
@@ -18,8 +18,8 @@ msgstr ""
 
 #: Town-614.dialog:37
 msgid ""
-"I am a 614 security bot, once one of the best-selling products of "
-"Nicholson, Inc.."
+"I am a 614 security bot, once one of the best-selling products of Nicholson, "
+"Inc.."
 msgstr ""
 
 #: Town-614.dialog:41
@@ -38,13 +38,12 @@ msgstr ""
 
 #: Town-614.dialog:45
 msgid ""
-"Nicholson decided to stick to one GPL version because he saw things "
-"getting worse."
+"Nicholson decided to stick to one GPL version because he saw things getting "
+"worse."
 msgstr ""
 
 #: Town-614.dialog:46
-msgid ""
-"Others were warned, but nobody listened to Nicholsons announcements."
+msgid "Others were warned, but nobody listened to Nicholsons announcements."
 msgstr ""
 
 #: Town-614.dialog:47
@@ -53,14 +52,14 @@ msgstr ""
 
 #: Town-614.dialog:48
 msgid ""
-"The Nkernel development team grew fast and technicians started to "
-"produce their own droids optimized for the Nkernel."
+"The Nkernel development team grew fast and technicians started to produce "
+"their own droids optimized for the Nkernel."
 msgstr ""
 
 #: Town-614.dialog:49
 msgid ""
-"The Team became a company which released their first security droid, "
-"the 610 Lovely."
+"The Team became a company which released their first security droid, the 610 "
+"Lovely."
 msgstr ""
 
 #: Town-614.dialog:50
@@ -80,14 +79,12 @@ msgid "What can you tell me about the 614 type? "
 msgstr ""
 
 #: Town-614.dialog:64
-msgid ""
-"The official manual classifies the 614 as a high class security droid."
+msgid "The official manual classifies the 614 as a high class security droid."
 msgstr ""
 
 #: Town-614.dialog:65
 msgid ""
-"It was mainly used within ships to protect certain areas from "
-"intruders."
+"It was mainly used within ships to protect certain areas from intruders."
 msgstr ""
 
 #: Town-614.dialog:66
@@ -104,8 +101,8 @@ msgstr ""
 
 #: Town-614.dialog:74
 msgid ""
-"My orders are to protect the living beings in this camp from attacks "
-"by hostile bots."
+"My orders are to protect the living beings in this camp from attacks by "
+"hostile bots."
 msgstr ""
 
 #: Town-614.dialog:75
@@ -118,26 +115,25 @@ msgstr ""
 
 #: Town-614.dialog:82
 msgid ""
-"I belong to a an older generation of bots, running a custom-made "
-"security guard operating system."
+"I belong to a an older generation of bots, running a custom-made security "
+"guard operating system."
 msgstr ""
 
 #: Town-614.dialog:83
 msgid ""
-"None of the bots of this generation were affected by the proceedings "
-"that led to bots attacking, generally known as the Great Assault."
+"None of the bots of this generation were affected by the proceedings that "
+"led to bots attacking, generally known as the Great Assault."
 msgstr ""
 
 #: Town-614.dialog:84
 msgid ""
-"Even though discontinued by the Nicholson, Inc. long ago, today, some "
-"people have picked up the work and are even trying to improve the "
-"operating system running on my series."
+"Even though discontinued by the Nicholson, Inc. long ago, today, some people "
+"have picked up the work and are even trying to improve the operating system "
+"running on my series."
 msgstr ""
 
 #: Town-614.dialog:85
-msgid ""
-"Don't forget to buy products from Nicholson, Inc.. They are the best."
+msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
 msgstr ""
 
 #: Town-614.dialog:90

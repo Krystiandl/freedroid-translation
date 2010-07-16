@@ -2,22 +2,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-06 14:17+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Geist.dialog:41
 msgid "Hello. Any idea where I can get some help here?"
 msgstr "Helló. Van ötleted, hol kaphatnék segítséget?"
 
-#: Geist.dialog:43
-#: Geist.dialog:69
+#: Geist.dialog:43 Geist.dialog:69
 msgid "Verschwinde!"
 msgstr "Verschwinde!"
 
@@ -68,4 +67,3 @@ msgstr "Most mennem kell."
 #: Geist.dialog:77
 msgid " . . ."
 msgstr " . . ."
-

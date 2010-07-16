@@ -2,15 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-08 02:43+0100\n"
 "Last-Translator: Angelika Maria Piątkowska <piatkosia.apt@interia.pl>\n"
 "Language-Team: freedroid team\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 "X-Poedit-Language: Polish\n"
 "X-Poedit-Country: POLAND\n"
 "X-Poedit-SourceCharset: utf-8\n"
@@ -48,8 +49,12 @@ msgid "Those red fascists put me here."
 msgstr "Ci czerwoni faszyści mnie tu wsadzili."
 
 #: Peter.dialog:50
-msgid "And I guess you are a fascists too, as only Red Guard members are allowed in here."
-msgstr "I domyślam się że też jesteś faszystą. Tylko członkowie Czerwonej Gwardii mogą tu wejść."
+msgid ""
+"And I guess you are a fascists too, as only Red Guard members are allowed in "
+"here."
+msgstr ""
+"I domyślam się że też jesteś faszystą. Tylko członkowie Czerwonej Gwardii "
+"mogą tu wejść."
 
 #: Peter.dialog:55
 msgid "What is a fascist?"
@@ -60,8 +65,11 @@ msgid "What is ..."
 msgstr "Co to ..."
 
 #: Peter.dialog:59
-msgid "LALALALALA - I'm not hearing you. I have my fingers in my ears and just go - LALALALALA"
-msgstr "LALALALALA - Nie słucham cię. Mam palce w uszach i wychodzę- LALALALALA"
+msgid ""
+"LALALALALA - I'm not hearing you. I have my fingers in my ears and just go - "
+"LALALALALA"
+msgstr ""
+"LALALALALA - Nie słucham cię. Mam palce w uszach i wychodzę- LALALALALA"
 
 #: Peter.dialog:63
 msgid "Talk to you later."
@@ -70,4 +78,3 @@ msgstr "Pogadamy później."
 #: Peter.dialog:65
 msgid "Not in your life, Fascist!"
 msgstr "Po moim trupie, faszysto!"
-

@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-23 07:57+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
-"%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 
 #: freedroid.levels:15
 msgid "Town"
@@ -95,7 +95,7 @@ msgstr ""
 msgid "World Edge Sea"
 msgstr ""
 
-#: freedroid.levels:22679 freedroid.levels:38879
+#: freedroid.levels:22679 freedroid.levels:38880
 msgid "Hell Fortress"
 msgstr ""
 
@@ -151,35 +151,35 @@ msgstr ""
 msgid "Tutorial"
 msgstr ""
 
-#: freedroid.levels:36169 freedroid.levels:36509
+#: freedroid.levels:36169 freedroid.levels:36510
 msgid "World Edge"
 msgstr ""
 
-#: freedroid.levels:36400
+#: freedroid.levels:36401
 msgid "Old abandoned complex"
 msgstr ""
 
-#: freedroid.levels:36654 freedroid.levels:39951 freedroid.levels:40069
-#: freedroid.levels:40187 freedroid.levels:40305 freedroid.levels:40641
+#: freedroid.levels:36655 freedroid.levels:39952 freedroid.levels:40070
+#: freedroid.levels:40188 freedroid.levels:40306 freedroid.levels:40644
 msgid "New level just created"
 msgstr ""
 
-#: freedroid.levels:36885
+#: freedroid.levels:36886
 msgid "Worker Mines"
 msgstr ""
 
-#: freedroid.levels:37380 freedroid.levels:37569
+#: freedroid.levels:37381 freedroid.levels:37570
 msgid "Southern Shorline"
 msgstr ""
 
-#: freedroid.levels:38122
+#: freedroid.levels:38123
 msgid "HF North Perimeter Defense Structure"
 msgstr ""
 
-#: freedroid.levels:40423
+#: freedroid.levels:40425
 msgid "Mashine Deck Upper Catacombs"
 msgstr ""
 
-#: freedroid.levels:40532
+#: freedroid.levels:40535
 msgid "Machine Deck Lower Catacombs"
 msgstr ""

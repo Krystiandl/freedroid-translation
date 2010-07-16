@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
-"PO-Revision-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"PO-Revision-Date: 2010-07-16 14:05+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -255,6 +255,13 @@ msgstr ""
 msgid "N0000000000!!!!!!!"
 msgstr ""
 
+#: ./Sorenson.dialog:173
+#: ./Sorenson.dialog:194
+#: ./Sorenson.dialog:214
+#: ./Sorenson.dialog:223
+msgid "COBOL Programmer -- Madly Enraged"
+msgstr ""
+
 #: ./Sorenson.dialog:179
 msgid ""
 "The great destroyer of evil, the purger of all things foul, the friend of mank"
@@ -283,57 +290,53 @@ msgstr ""
 msgid "N0! S7up1d illi73r4t3 p3n9u1n! D13!!"
 msgstr ""
 
-#: ./Sorenson.dialog:195
-msgid "Sorenson -- Crazy"
-msgstr ""
-
-#: ./Sorenson.dialog:200
+#: ./Sorenson.dialog:199
 msgid "Huh? I d0n'7 f33l g00d."
 msgstr ""
 
-#: ./Sorenson.dialog:202
+#: ./Sorenson.dialog:201
 msgid "Yes! I am free! At last I am free!"
 msgstr ""
 
-#: ./Sorenson.dialog:202
+#: ./Sorenson.dialog:201
 msgid "Yes! I am free!"
 msgstr ""
 
-#: ./Sorenson.dialog:202
+#: ./Sorenson.dialog:201
 msgid "Yes! I am free at last!"
 msgstr ""
 
-#: ./Sorenson.dialog:203
+#: ./Sorenson.dialog:202
 msgid "W417... 1 f331... H0rr1b13..."
 msgstr ""
 
-#: ./Sorenson.dialog:204
+#: ./Sorenson.dialog:203
 msgid "Yes, fool! You have freed me! I can finally die! Goodbye idiot!"
 msgstr ""
 
-#: ./Sorenson.dialog:211
+#: ./Sorenson.dialog:210
 msgid ""
 "In blood? Yuck. I am not going to do this, blood is too messy for a binding le"
 "gal contract. Forget about it."
 msgstr ""
 
-#: ./Sorenson.dialog:213
+#: ./Sorenson.dialog:212
 msgid "N00oo00oo0! T1m3 to d1e, m0rtal foo1!"
 msgstr ""
 
-#: ./Sorenson.dialog:220
+#: ./Sorenson.dialog:219
 msgid "There is no way I will sign something without reading it. Forget about it."
 msgstr ""
 
-#: ./Sorenson.dialog:222
+#: ./Sorenson.dialog:221
 msgid "N00oo00oo0! T1m3 to d1e, m0rta1 foo1!"
 msgstr ""
 
-#: ./Sorenson.dialog:229
+#: ./Sorenson.dialog:228
 msgid "I really must be going now. Goodbye."
 msgstr ""
 
-#: ./Sorenson.dialog:231
+#: ./Sorenson.dialog:230
 msgid "Please come back later, Linarian. We must talk again."
 msgstr ""
 

@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-07 11:44+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ReturnOfTux.droids:46
@@ -28,12 +28,8 @@ msgstr "Kapu Őr"
 msgid "Town Teleporter Guard"
 msgstr "Városi Tereport Őrség"
 
-#: ReturnOfTux.droids:63
-#: ReturnOfTux.droids:75
-#: ReturnOfTux.droids:76
-#: ReturnOfTux.droids:80
-#: ReturnOfTux.droids:82
-#: ReturnOfTux.droids:85
+#: ReturnOfTux.droids:63 ReturnOfTux.droids:75 ReturnOfTux.droids:76
+#: ReturnOfTux.droids:80 ReturnOfTux.droids:82 ReturnOfTux.droids:85
 msgid "Red Guard Member"
 msgstr "Vörös Őrség Tagja"
 
@@ -57,8 +53,7 @@ msgstr "COBAL Programozó"
 msgid "614 -- North Gate Guard Bot"
 msgstr "614 -- Északi Kapu Őr Bot"
 
-#: ReturnOfTux.droids:69
-#: ReturnOfTux.droids:70
+#: ReturnOfTux.droids:69 ReturnOfTux.droids:70
 msgid "614 -- South Gate Guard Bot"
 msgstr "614 --  Déli Kapu Őr Bot"
 
@@ -66,8 +61,7 @@ msgstr "614 --  Déli Kapu Őr Bot"
 msgid "614 -- East Gate Guard Bot"
 msgstr "614 -- Keleti Kapu Őr Bot"
 
-#: ReturnOfTux.droids:72
-#: ReturnOfTux.droids:73
+#: ReturnOfTux.droids:72 ReturnOfTux.droids:73
 msgid "614 -- Patrolling Guard Bot"
 msgstr "614 -- Őrjáratozó Bot"
 
@@ -123,8 +117,7 @@ msgstr "DSB Kontroll Terminál Őr"
 msgid "The Singularity"
 msgstr "A Jelenség"
 
-#: ReturnOfTux.droids:173
-#: ReturnOfTux.droids:174
+#: ReturnOfTux.droids:173 ReturnOfTux.droids:174
 msgid "Blue Guy"
 msgstr "Kék Fickó"
 
@@ -152,15 +145,12 @@ msgstr "Kevin"
 msgid "Cute Girl"
 msgstr "Aranyos Kislány"
 
-#: ReturnOfTux.droids:275
-#: ReturnOfTux.droids:276
-#: ReturnOfTux.droids:277
+#: ReturnOfTux.droids:275 ReturnOfTux.droids:276 ReturnOfTux.droids:277
 #: ReturnOfTux.droids:278
 msgid "Prisoner"
 msgstr "Elítélt"
 
-#: ReturnOfTux.droids:343
-#: ReturnOfTux.droids:344
+#: ReturnOfTux.droids:343 ReturnOfTux.droids:344
 msgid "MSCD - MegaSys Control Droid"
 msgstr "MSCD -- MegaSys Kontroll Droid"
 
@@ -200,11 +190,8 @@ msgstr "CIH.1103"
 msgid "MSDD - MegaSys Defence Droid"
 msgstr "MSDD -- MegaSys Védelmi Droid"
 
-#: ReturnOfTux.droids:433
-#: ReturnOfTux.droids:434
-#: ReturnOfTux.droids:435
-#: ReturnOfTux.droids:436
-#: ReturnOfTux.droids:437
+#: ReturnOfTux.droids:433 ReturnOfTux.droids:434 ReturnOfTux.droids:435
+#: ReturnOfTux.droids:436 ReturnOfTux.droids:437
 msgid "TD"
 msgstr "TD"
 
@@ -240,8 +227,7 @@ msgstr "Lina -- Könyvtáros"
 msgid "Serge -- storehouse keeper"
 msgstr "Serge -- Raktárvezető"
 
-#: ReturnOfTux.droids:496
-#: ReturnOfTux.droids:499
+#: ReturnOfTux.droids:496 ReturnOfTux.droids:499
 msgid "SADD"
 msgstr "TTŐDD"
 
@@ -249,9 +235,7 @@ msgstr "TTŐDD"
 msgid "Ashman"
 msgstr "Ashman"
 
-#: ReturnOfTux.droids:498
-#: ReturnOfTux.droids:500
-#: ReturnOfTux.droids:501
+#: ReturnOfTux.droids:498 ReturnOfTux.droids:500 ReturnOfTux.droids:501
 #: ReturnOfTux.droids:502
 msgid "Guard"
 msgstr "Őr"
@@ -284,21 +268,11 @@ msgstr "Ölj Meg"
 msgid "Kill Me Too"
 msgstr "Ölj Meg Engem Is"
 
-#: ReturnOfTux.droids:528
-#: ReturnOfTux.droids:529
-#: ReturnOfTux.droids:530
-#: ReturnOfTux.droids:531
-#: ReturnOfTux.droids:532
-#: ReturnOfTux.droids:533
-#: ReturnOfTux.droids:534
-#: ReturnOfTux.droids:535
-#: ReturnOfTux.droids:536
-#: ReturnOfTux.droids:537
-#: ReturnOfTux.droids:538
-#: ReturnOfTux.droids:539
-#: ReturnOfTux.droids:540
-#: ReturnOfTux.droids:541
-#: ReturnOfTux.droids:542
+#: ReturnOfTux.droids:528 ReturnOfTux.droids:529 ReturnOfTux.droids:530
+#: ReturnOfTux.droids:531 ReturnOfTux.droids:532 ReturnOfTux.droids:533
+#: ReturnOfTux.droids:534 ReturnOfTux.droids:535 ReturnOfTux.droids:536
+#: ReturnOfTux.droids:537 ReturnOfTux.droids:538 ReturnOfTux.droids:539
+#: ReturnOfTux.droids:540 ReturnOfTux.droids:541 ReturnOfTux.droids:542
 msgid "Target"
 msgstr "Célpont"
 
@@ -312,70 +286,102 @@ msgstr "Bot Gyár Kapu Őrség Parancsnok"
 
 #~ msgid "Bender -- The strongest one"
 #~ msgstr "Bender -- A legerősebb"
+
 #~ msgid "Doc Moore -- Medic"
 #~ msgstr "Moore Doki -- Orvos"
+
 #~ msgid "Sorenson -- Mystery coder"
 #~ msgstr "Sorenson -- Kódfejtő"
+
 #~ msgid "Richard -- Programmer"
 #~ msgstr "Richard -- Programozó"
+
 #~ msgid "Benjamin -- Gunsmith"
 #~ msgstr "Benjamin -- Fegyvermester"
+
 #~ msgid "Dixon -- Mechanic"
 #~ msgstr "Dixon -- Szerelő"
+
 #~ msgid "Michelangelo -- Colony Cook"
 #~ msgstr "Michelangelo -- Szakács"
+
 #~ msgid "Skippy -- Map-Maker Maker"
 #~ msgstr "Skippy -- Térképkészítő"
+
 #~ msgid "Duncan -- Bombmaker"
 #~ msgstr "Duncan -- Bombakészítő"
+
 #~ msgid "Pendragon -- Fighter"
 #~ msgstr "Pendragon -- Harcos"
+
 #~ msgid "Butch -- Arena Master"
 #~ msgstr "Butch -- Aréna Mester"
+
 #~ msgid "Tybalt -- Citadel Gate Guard"
 #~ msgstr "Tybalt -- Fellegvár Kapu Őr"
+
 #~ msgid "Tamara -- Librarian"
 #~ msgstr "Tamara -- Könyvtáros"
+
 #~ msgid "DSB Machine Deck Control Terminal"
 #~ msgstr "DSB Gépház Kontroll Terminál"
+
 #~ msgid "Gate Terminal"
 #~ msgstr "Kapu Terminál"
+
 #~ msgid "Engel -- Hunter"
 #~ msgstr "Engel -- Vadász"
+
 #~ msgid "Geist -- Hunter"
 #~ msgstr "Geist -- Vadász"
+
 #~ msgid "Nemesis"
 #~ msgstr "Nemezis"
+
 #~ msgid "302 Nemesis"
 #~ msgstr "302 Nemezis"
+
 #~ msgid "329"
 #~ msgstr "329"
+
 #~ msgid "302"
 #~ msgstr "302"
+
 #~ msgid "249"
 #~ msgstr "249"
+
 #~ msgid "Francis"
 #~ msgstr "Francis"
+
 #~ msgid "614 -- Cryo Lab Guard Bot"
 #~ msgstr "614 -- Krio Labor Őr Bot"
+
 #~ msgid "711 - Pure death"
 #~ msgstr "711 -- Maga a halál"
+
 #~ msgid "742 - Double death"
 #~ msgstr "742 -- Dupla halál"
+
 #~ msgid "821"
 #~ msgstr "821"
+
 #~ msgid "834"
 #~ msgstr "834"
+
 #~ msgid "614 -- Kevin's Guard"
 #~ msgstr "614 -- Kevin Őrzője"
+
 #~ msgid "Kevin --- Hacker "
 #~ msgstr "Kevin -- Hacker"
+
 #~ msgid "Jasmine --- Girlfriend of a true Hacker"
 #~ msgstr "Jasmine -- A Hacker barátnője"
+
 #~ msgid "SADD - Secret Area Defence Droid"
 #~ msgstr "TTŐD -- Titkos Terület Őr Droid"
+
 #~ msgid "Tania - lonely scientist"
 #~ msgstr "Tania -- Magányos tudós"
+
 #~ msgid "TutorialTom"
 #~ msgstr "TutorialTom"
-

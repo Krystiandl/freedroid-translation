@@ -2,24 +2,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-23 07:57+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
-"%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 
 #: Duncan.dialog:53
 msgid "Hi... Erm... Who are you?"
 msgstr ""
 
 #: Duncan.dialog:55
-msgid ""
-"Duncan McNamara, The Red Guard's resident bomb maker, at your service."
+msgid "Duncan McNamara, The Red Guard's resident bomb maker, at your service."
 msgstr ""
 
 #: Duncan.dialog:56 Duncan.dialog:261
@@ -47,36 +46,32 @@ msgid "My deepest apologies, I do not."
 msgstr ""
 
 #: Duncan.dialog:72
-msgid ""
-"The Red Guard prohibits the sales of extremely destructive munitions."
+msgid "The Red Guard prohibits the sales of extremely destructive munitions."
 msgstr ""
 
 #: Duncan.dialog:73
-msgid ""
-"It is not yet the time for the fall of their rule, so I remain loyal."
+msgid "It is not yet the time for the fall of their rule, so I remain loyal."
 msgstr ""
 
 #: Duncan.dialog:78
 msgid ""
-"The fall of the Red Guard? I am going to report that you are "
-"preparing a revolution!"
+"The fall of the Red Guard? I am going to report that you are preparing a "
+"revolution!"
 msgstr ""
 
 #: Duncan.dialog:80
-msgid ""
-"My word against yours. If you wish to try it, please, be my guest."
+msgid "My word against yours. If you wish to try it, please, be my guest."
 msgstr ""
 
 #: Duncan.dialog:81
 msgid ""
-"I am not preparing anything. I am just stating what I see as "
-"inevitable in the future."
+"I am not preparing anything. I am just stating what I see as inevitable in "
+"the future."
 msgstr ""
 
 #: Duncan.dialog:82
 msgid ""
-"I have taken part in many conflicts and I have seen how governments "
-"collapse."
+"I have taken part in many conflicts and I have seen how governments collapse."
 msgstr ""
 
 #: Duncan.dialog:83
@@ -85,8 +80,8 @@ msgstr ""
 
 #: Duncan.dialog:84
 msgid ""
-"Of course, I am making the assumption of victory, which is highly "
-"unlikely with the current state of affairs."
+"Of course, I am making the assumption of victory, which is highly unlikely "
+"with the current state of affairs."
 msgstr ""
 
 #: Duncan.dialog:89
@@ -95,14 +90,14 @@ msgstr ""
 
 #: Duncan.dialog:91
 msgid ""
-"It is not the time to speak of such things yet. Come another day, and "
-"we shall talk about it in more detail."
+"It is not the time to speak of such things yet. Come another day, and we "
+"shall talk about it in more detail."
 msgstr ""
 
 #: Duncan.dialog:92
 msgid ""
-"The Red Guard can have their great laser beams and plasma cannons... "
-"But nothing can save them."
+"The Red Guard can have their great laser beams and plasma cannons... But "
+"nothing can save them."
 msgstr ""
 
 #: Duncan.dialog:97
@@ -138,8 +133,7 @@ msgid "Twenty years ago there was a conflict."
 msgstr ""
 
 #: Duncan.dialog:114
-msgid ""
-"A grenade I threw destroyed a being which killed many of... my people."
+msgid "A grenade I threw destroyed a being which killed many of... my people."
 msgstr ""
 
 #: Duncan.dialog:115
@@ -175,8 +169,7 @@ msgid "A... friend of mine, Koan, stole something of great value to me."
 msgstr ""
 
 #: Duncan.dialog:135
-msgid ""
-"He is hiding somewhere in the desert, I don't know exactly where."
+msgid "He is hiding somewhere in the desert, I don't know exactly where."
 msgstr ""
 
 #: Duncan.dialog:140
@@ -193,16 +186,15 @@ msgstr ""
 
 #: Duncan.dialog:144
 msgid ""
-"There are not too many bots in the desert, but they are undefeatable. "
-"It is best to avoid them."
+"There are not too many bots in the desert, but they are undefeatable. It is "
+"best to avoid them."
 msgstr ""
 
 #: Duncan.dialog:145
 msgid "I will be waiting here for your return."
 msgstr ""
 
-#: Duncan.dialog:146 Duncan.dialog:188 Duncan.dialog:238
-#: Duncan.dialog:249
+#: Duncan.dialog:146 Duncan.dialog:188 Duncan.dialog:238 Duncan.dialog:249
 msgid "Doing Duncan a favour"
 msgstr ""
 
@@ -220,8 +212,8 @@ msgstr ""
 
 #: Duncan.dialog:149
 msgid ""
-"In any case, I'll let the Red Guard know to open the western gate to "
-"the desert."
+"In any case, I'll let the Red Guard know to open the western gate to the "
+"desert."
 msgstr ""
 
 #: Duncan.dialog:150
@@ -246,8 +238,8 @@ msgstr ""
 
 #: Duncan.dialog:161
 msgid ""
-"Their only weak point is their security system. But no one has "
-"managed to stay alive long enough to hack them."
+"Their only weak point is their security system. But no one has managed to "
+"stay alive long enough to hack them."
 msgstr ""
 
 #: Duncan.dialog:166
@@ -272,8 +264,8 @@ msgstr ""
 
 #: Duncan.dialog:186
 msgid ""
-"I could not find him anywhere in the desert. I don't think he is "
-"there anymore."
+"I could not find him anywhere in the desert. I don't think he is there "
+"anymore."
 msgstr ""
 
 #: Duncan.dialog:187
@@ -294,8 +286,8 @@ msgstr ""
 
 #: Duncan.dialog:206
 msgid ""
-"Yeah, I got him. Now, what is this big cube that you had me carry all "
-"the way here?"
+"Yeah, I got him. Now, what is this big cube that you had me carry all the "
+"way here?"
 msgstr ""
 
 #: Duncan.dialog:208
@@ -304,8 +296,8 @@ msgstr ""
 
 #: Duncan.dialog:209
 msgid ""
-"A little more than a portable end of the world, which I am looking "
-"forward to disassembling and learning its secrets."
+"A little more than a portable end of the world, which I am looking forward "
+"to disassembling and learning its secrets."
 msgstr ""
 
 #: Duncan.dialog:210
@@ -314,21 +306,19 @@ msgstr ""
 
 #: Duncan.dialog:215
 msgid ""
-"A 'few' bots? The place was crawling with Harvesters! I nearly got "
-"killed!"
+"A 'few' bots? The place was crawling with Harvesters! I nearly got killed!"
 msgstr ""
 
 #: Duncan.dialog:217
 msgid ""
-"There were only one hundred and twenty bots in the entire desert "
-"region. This hardly qualifies as many, considering the size of the "
-"area."
+"There were only one hundred and twenty bots in the entire desert region. "
+"This hardly qualifies as many, considering the size of the area."
 msgstr ""
 
 #: Duncan.dialog:218
 msgid ""
-"What? You know exactly how many bots were in the desert? Without "
-"being there? I don't like this."
+"What? You know exactly how many bots were in the desert? Without being "
+"there? I don't like this."
 msgstr ""
 
 #: Duncan.dialog:219
@@ -345,8 +335,8 @@ msgstr ""
 
 #: Duncan.dialog:227
 msgid ""
-"Hey, that is really neat. Here is your cube. Enjoy disassembling it "
-"and have fun with it."
+"Hey, that is really neat. Here is your cube. Enjoy disassembling it and have "
+"fun with it."
 msgstr ""
 
 #: Duncan.dialog:229
@@ -363,8 +353,8 @@ msgstr ""
 
 #: Duncan.dialog:238
 msgid ""
-"No way am I giving Duncan that cube thingie. Who knows what he would "
-"do with it."
+"No way am I giving Duncan that cube thingie. Who knows what he would do with "
+"it."
 msgstr ""
 
 #: Duncan.dialog:249
@@ -396,8 +386,7 @@ msgid " and not anyone else."
 msgstr ""
 
 #: Duncan.dialog:260
-msgid ""
-"And I am Duncan McNamara, the maker of grenades and nothing else."
+msgid "And I am Duncan McNamara, the maker of grenades and nothing else."
 msgstr ""
 
 #: Duncan.dialog:262
@@ -438,8 +427,7 @@ msgstr ""
 
 #: Duncan.dialog:286
 msgid ""
-"Huh? How do you know the Linarian farewell? No one around here knows "
-"it."
+"Huh? How do you know the Linarian farewell? No one around here knows it."
 msgstr ""
 
 #: Duncan.dialog:287

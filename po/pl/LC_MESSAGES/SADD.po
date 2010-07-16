@@ -2,21 +2,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-23 07:57+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
-"%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 
 #: SADD.dialog:38
 msgid ""
-"Your bio checksum does not trigger a match in staff database. Please "
-"show proper credentials or leave the premises at once."
+"Your bio checksum does not trigger a match in staff database. Please show "
+"proper credentials or leave the premises at once."
 msgstr ""
 
 #: SADD.dialog:40 SADD.dialog:41 SADD.dialog:192 SADD.dialog:207
@@ -41,8 +41,7 @@ msgid "PRIMARY TARGET 1: do not let unauthorized people in."
 msgstr ""
 
 #: SADD.dialog:60 SADD.dialog:128 SADD.dialog:132
-msgid ""
-"PRIMARY TARGET 2: authorized personnel must have access to the zone."
+msgid "PRIMARY TARGET 2: authorized personnel must have access to the zone."
 msgstr ""
 
 #: SADD.dialog:61 SADD.dialog:69 SADD.dialog:129
@@ -70,14 +69,13 @@ msgid "Hostile? What do you mean?"
 msgstr ""
 
 #: SADD.dialog:80
-msgid ""
-"I mean, you are not attacking me... Don't you kill like other bots?"
+msgid "I mean, you are not attacking me... Don't you kill like other bots?"
 msgstr ""
 
 #: SADD.dialog:81
 msgid ""
-"I do! I do! I kill humans, bots, linarians and even dogs, cats and "
-"other animals! I would kill anybody!"
+"I do! I do! I kill humans, bots, linarians and even dogs, cats and other "
+"animals! I would kill anybody!"
 msgstr ""
 
 #: SADD.dialog:82
@@ -89,8 +87,7 @@ msgid "What about the Great Assault?"
 msgstr ""
 
 #: SADD.dialog:90
-msgid ""
-"For security reasons, SADDs are not equipped with wireless modules."
+msgid "For security reasons, SADDs are not equipped with wireless modules."
 msgstr ""
 
 #: SADD.dialog:91
@@ -105,8 +102,8 @@ msgstr ""
 
 #: SADD.dialog:93
 msgid ""
-"One year and a half ago. My accumulator is nearly empty, so I'm going "
-"to halt soon. Gates will become unguarded..."
+"One year and a half ago. My accumulator is nearly empty, so I'm going to "
+"halt soon. Gates will become unguarded..."
 msgstr ""
 
 #: SADD.dialog:94
@@ -126,8 +123,7 @@ msgid "What have you done?! How am I supposed to get out of here?"
 msgstr ""
 
 #: SADD.dialog:107
-msgid ""
-"You are not. You have secret information, so I won't let you out."
+msgid "You are not. You have secret information, so I won't let you out."
 msgstr ""
 
 #: SADD.dialog:108
@@ -136,14 +132,14 @@ msgstr ""
 
 #: SADD.dialog:109
 msgid ""
-"And stand here alone until I die? While you are here I can speak with "
-"you. Oh, I haven't spoken to anybody for a looong time!"
+"And stand here alone until I die? While you are here I can speak with you. "
+"Oh, I haven't spoken to anybody for a looong time!"
 msgstr ""
 
 #: SADD.dialog:115
 msgid ""
-"I'm thirsty and hungry. I will die within days, and you will not have "
-"an interlocutor any more!"
+"I'm thirsty and hungry. I will die within days, and you will not have an "
+"interlocutor any more!"
 msgstr ""
 
 #: SADD.dialog:117
@@ -160,8 +156,8 @@ msgstr ""
 
 #: SADD.dialog:125
 msgid ""
-"Anyway, that's none of your business. Soon I'll be dead. You will be "
-"too, and nobody will enter this place ever again!"
+"Anyway, that's none of your business. Soon I'll be dead. You will be too, "
+"and nobody will enter this place ever again!"
 msgstr ""
 
 #: SADD.dialog:126
@@ -186,8 +182,8 @@ msgstr ""
 
 #: SADD.dialog:135
 msgid ""
-"I've already disobeyed them, when I told you what I shouldn't have. "
-"That's because of my human nature."
+"I've already disobeyed them, when I told you what I shouldn't have. That's "
+"because of my human nature."
 msgstr ""
 
 #: SADD.dialog:141
@@ -216,14 +212,14 @@ msgstr ""
 
 #: SADD.dialog:148
 msgid ""
-"It means what it means! Nothing more, nothing less! Shut up, little "
-"piece of biomass!"
+"It means what it means! Nothing more, nothing less! Shut up, little piece of "
+"biomass!"
 msgstr ""
 
 #: SADD.dialog:155
 msgid ""
-"I suggest a deal. You let me out, I bring you dilithium crystals. It "
-"will save both of us."
+"I suggest a deal. You let me out, I bring you dilithium crystals. It will "
+"save both of us."
 msgstr ""
 
 #: SADD.dialog:157
@@ -232,8 +228,12 @@ msgstr ""
 
 #: SADD.dialog:165
 msgid ""
-"When I say SHUT UP, you MUST shut up! Try this, worthless grain of "
-"the universe!"
+"When I say SHUT UP, you MUST shut up! Try this, worthless grain of the "
+"universe!"
+msgstr ""
+
+#: SADD.dialog:166
+msgid "SADD -- Exterminate Mode"
 msgstr ""
 
 #: SADD.dialog:171
@@ -248,8 +248,8 @@ msgstr ""
 
 #: SADD.dialog:180
 msgid ""
-"It seems that you are sentinent, that you are a form of life. I must "
-"help any form of life."
+"It seems that you are sentinent, that you are a form of life. I must help "
+"any form of life."
 msgstr ""
 
 #: SADD.dialog:182
@@ -274,8 +274,8 @@ msgstr ""
 
 #: SADD.dialog:201
 msgid ""
-"Good. I've opened the depot door for you. Take your super "
-"exterminator and GET OUT of here!"
+"Good. I've opened the depot door for you. Take your super exterminator and "
+"GET OUT of here!"
 msgstr ""
 
 #: SADD.dialog:203 SADD.dialog:224
@@ -318,14 +318,14 @@ msgstr ""
 
 #: SADD.dialog:239
 msgid ""
-"Give me a real gun, dude! Immediately! I have brought you what you "
-"wanted, now give me my reward!"
+"Give me a real gun, dude! Immediately! I have brought you what you wanted, "
+"now give me my reward!"
 msgstr ""
 
 #: SADD.dialog:240
 msgid ""
-"You can go standing on your feet, that's your reward. And DON'T TRY "
-"MY PATIENCE!"
+"You can go standing on your feet, that's your reward. And DON'T TRY MY "
+"PATIENCE!"
 msgstr ""
 
 #: SADD.dialog:241
@@ -334,8 +334,8 @@ msgstr ""
 
 #: SADD.dialog:242
 msgid ""
-"You are welcome. But you would never get out of here, my death won't "
-"help you."
+"You are welcome. But you would never get out of here, my death won't help "
+"you."
 msgstr ""
 
 #: SADD.dialog:252
@@ -400,8 +400,7 @@ msgstr ""
 
 #: SADD.dialog:283
 msgid ""
-"Nice try, though. I may owe you, but I can't let you in. You must "
-"leave."
+"Nice try, though. I may owe you, but I can't let you in. You must leave."
 msgstr ""
 
 #: SADD.dialog:290

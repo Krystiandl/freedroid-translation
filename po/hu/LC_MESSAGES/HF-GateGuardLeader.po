@@ -2,23 +2,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-06 14:21+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: HF-GateGuardLeader.dialog:33
-#: HF-GateGuardLeader.dialog:41
+#: HF-GateGuardLeader.dialog:33 HF-GateGuardLeader.dialog:41
 msgid "Hey, Linarian! What do you want here?"
 msgstr "Hé, Lináriai! Mit keresel itt?"
 
-#: HF-GateGuardLeader.dialog:37
-#: HF-GateGuardLeader.dialog:67
+#: HF-GateGuardLeader.dialog:37 HF-GateGuardLeader.dialog:67
 msgid "Opening access to MS Office"
 msgstr "MS Office hozzáférés indítása"
 
@@ -55,15 +53,21 @@ msgid "There are trillions of millions of quintillions of bots in there!"
 msgstr "Milliószor-milliárdszor-sokmillió bot van ott!"
 
 #: HF-GateGuardLeader.dialog:65
-msgid "Besides that, on the other side of the door is a disruptor shield, which we can't control."
-msgstr "Ja, és azon felül a kapu túloldalát disruptor pajzs védi, amit nem tudunk kontrollálni."
+msgid ""
+"Besides that, on the other side of the door is a disruptor shield, which we "
+"can't control."
+msgstr ""
+"Ja, és azon felül a kapu túloldalát disruptor pajzs védi, amit nem tudunk "
+"kontrollálni."
 
 #: HF-GateGuardLeader.dialog:66
 msgid "* Throws a stone through the door"
 msgstr "* Átdob egy követ a kapun"
 
 #: HF-GateGuardLeader.dialog:68
-msgid "* Stone freely flies through the gate and drops on the ground on the other side"
+msgid ""
+"* Stone freely flies through the gate and drops on the ground on the other "
+"side"
 msgstr "* A kő átrepül a kapun, és leesik a túloldalon"
 
 #: HF-GateGuardLeader.dialog:69
@@ -91,8 +95,12 @@ msgid "Go away!"
 msgstr "Menj el!"
 
 #: HF-GateGuardLeader.dialog:88
-msgid "Calm down. This is not an attack. I've disabled the shield and I'm going to disable all the bots around! Didn't Spencer inform you?"
-msgstr "Nyugodj meg. Ez nem támadás. Én kapcsoltam ki a pajzsot, és az összes botot is ki fogom iktatni. Spencer nem mondta?"
+msgid ""
+"Calm down. This is not an attack. I've disabled the shield and I'm going to "
+"disable all the bots around! Didn't Spencer inform you?"
+msgstr ""
+"Nyugodj meg. Ez nem támadás. Én kapcsoltam ki a pajzsot, és az összes botot "
+"is ki fogom iktatni. Spencer nem mondta?"
 
 #: HF-GateGuardLeader.dialog:90
 msgid "WHAT?! Not an attack?!"
@@ -111,8 +119,12 @@ msgid "Nothing from Spencer, ya fat duck. Now leave."
 msgstr "Spencer nem mondott semmit, te dagadt madár. Most húzz el."
 
 #: HF-GateGuardLeader.dialog:106
-msgid "Right, there is a message from Spencer, you can enter Hell Fortress. And may the source be with you!"
-msgstr "De, van egy üzenet Spencertől, beléphetsz a Pokoli Erődbe. A forráskód legyen veled!"
+msgid ""
+"Right, there is a message from Spencer, you can enter Hell Fortress. And may "
+"the source be with you!"
+msgstr ""
+"De, van egy üzenet Spencertől, beléphetsz a Pokoli Erődbe. A forráskód "
+"legyen veled!"
 
 #: HF-GateGuardLeader.dialog:111
 msgid "Relax, I'm leaving."
@@ -121,4 +133,3 @@ msgstr "Nyugi, elmegyek."
 #: HF-GateGuardLeader.dialog:113
 msgid "You better be. AND DON'T COME BACK!"
 msgstr "Jól teszed. ÉS NE GYERE VISSZA!"
-

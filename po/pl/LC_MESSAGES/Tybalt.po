@@ -2,15 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-08 01:30+0100\n"
 "Last-Translator: Angelika Maria Piątkowska <piatkosia.apt@interia.pl>\n"
 "Language-Team: Freedroid team\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 "X-Poedit-Language: Polish\n"
 "X-Poedit-Country: POLAND\n"
 "X-Poedit-SourceCharset: utf-8\n"
@@ -20,8 +21,12 @@ msgid "Hi! I'm new here."
 msgstr "Cześć! Jestem tu nowy."
 
 #: Tybalt.dialog:43
-msgid "Hello. I'm Tybalt. I'm guarding the town citadel gate. Only authorized personnel are permitted."
-msgstr "Cześć. Jestem Tybalt. Bronię bramy miejskiej cytadeli. Tylko autoryzowany personel może wejść."
+msgid ""
+"Hello. I'm Tybalt. I'm guarding the town citadel gate. Only authorized "
+"personnel are permitted."
+msgstr ""
+"Cześć. Jestem Tybalt. Bronię bramy miejskiej cytadeli. Tylko autoryzowany "
+"personel może wejść."
 
 #: Tybalt.dialog:44
 msgid "Tybalt -- Citadel Gate Guard"
@@ -32,32 +37,50 @@ msgid "Why is this gate locked most of the time?"
 msgstr "Czemu ta brama jest zamknięta cały czas?"
 
 #: Tybalt.dialog:51
-msgid "It's locked so no one can sneak inside while I'm not looking. That's why."
-msgstr "Jest zamknięta, więc nikt nie może się wemknąć do środka gdy nie patrzę. Dlatego."
+msgid ""
+"It's locked so no one can sneak inside while I'm not looking. That's why."
+msgstr ""
+"Jest zamknięta, więc nikt nie może się wemknąć do środka gdy nie patrzę. "
+"Dlatego."
 
 #: Tybalt.dialog:56
 msgid "I want to get into the citadel."
 msgstr "Chcę wejść do cytadeli."
 
 #: Tybalt.dialog:59
-msgid "Of course. Guard members are always authorized to enter the town citadel. The gate is open. Enjoy your stay."
-msgstr "Oczywiście. Członkowie straży są zawsze autoryzowani do wejścia do cytadeli miejskiej. Brama jest otwarta. Miłego pobytu."
+msgid ""
+"Of course. Guard members are always authorized to enter the town citadel. "
+"The gate is open. Enjoy your stay."
+msgstr ""
+"Oczywiście. Członkowie straży są zawsze autoryzowani do wejścia do cytadeli "
+"miejskiej. Brama jest otwarta. Miłego pobytu."
 
 #: Tybalt.dialog:62
-msgid "Sorry pal, but I don't think so. Only authorized personnel are permitted and that means members of the Red Guard."
-msgstr "Wybacz kumplu, ale nie wydaje mi się. Tylko autoryzowany personel jest uprawniony i mam na myśli członków Czerwonej Gwardii."
+msgid ""
+"Sorry pal, but I don't think so. Only authorized personnel are permitted and "
+"that means members of the Red Guard."
+msgstr ""
+"Wybacz kumplu, ale nie wydaje mi się. Tylko autoryzowany personel jest "
+"uprawniony i mam na myśli członków Czerwonej Gwardii."
 
 #: Tybalt.dialog:63
 msgid "Talk to Spencer if you have any business inside. I cannot let you pass."
-msgstr "Zagadaj ze Spencerem jeżeli masz jakiś interes w środku. Nie mogę cię wpuścić."
+msgstr ""
+"Zagadaj ze Spencerem jeżeli masz jakiś interes w środku. Nie mogę cię "
+"wpuścić."
 
 #: Tybalt.dialog:71
-msgid "So why is it you keep the citadel locked? Is there anything secret in there?"
-msgstr "Więc czemu cytadela pozostaje zamknięta? Ukrywa w sobie jakieś sekrety?"
+msgid ""
+"So why is it you keep the citadel locked? Is there anything secret in there?"
+msgstr ""
+"Więc czemu cytadela pozostaje zamknięta? Ukrywa w sobie jakieś sekrety?"
 
 #: Tybalt.dialog:73
-msgid "We need to protect our equipment and documents, because lives depend on it."
-msgstr "Potrzebujemy ochrony naszego wyposażenia i dokumentów, ponieważ życie zależy od tego."
+msgid ""
+"We need to protect our equipment and documents, because lives depend on it."
+msgstr ""
+"Potrzebujemy ochrony naszego wyposażenia i dokumentów, ponieważ życie zależy "
+"od tego."
 
 #: Tybalt.dialog:74
 msgid "Also, we don't have to answer questions."
@@ -144,4 +167,3 @@ msgstr "Żegnam"
 #: Tybalt.dialog:124
 msgid "Good riddance."
 msgstr "Krzyż na drogę."
-

@@ -2,24 +2,23 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-23 07:57+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
-"%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 
 #: Michelangelo.dialog:38 Michelangelo.dialog:39 Michelangelo.dialog:80
 #: Michelangelo.dialog:208 Michelangelo.dialog:261
 msgid "Anything but the army snacks, please!"
 msgstr ""
 
-#: Michelangelo.dialog:41 Michelangelo.dialog:42
-#: Michelangelo.dialog:315
+#: Michelangelo.dialog:41 Michelangelo.dialog:42 Michelangelo.dialog:315
 msgid "SADD's power supply"
 msgstr ""
 
@@ -33,8 +32,8 @@ msgstr ""
 
 #: Michelangelo.dialog:64
 msgid ""
-"I wish the bots had just killed me, but I got 'lucky' and ended up in "
-"this hellhole."
+"I wish the bots had just killed me, but I got 'lucky' and ended up in this "
+"hellhole."
 msgstr ""
 
 #: Michelangelo.dialog:65
@@ -59,8 +58,8 @@ msgstr ""
 
 #: Michelangelo.dialog:81
 msgid ""
-"Until my next batch of food comes out of the macrowave oven, all I "
-"have are the odoriferous military rations."
+"Until my next batch of food comes out of the macrowave oven, all I have are "
+"the odoriferous military rations."
 msgstr ""
 
 #: Michelangelo.dialog:83
@@ -69,15 +68,14 @@ msgstr ""
 
 #: Michelangelo.dialog:85
 msgid ""
-"They are made fully out of artificial nutrients and carcinogenic "
-"flavors. Even the army hated them."
+"They are made fully out of artificial nutrients and carcinogenic flavors. "
+"Even the army hated them."
 msgstr ""
 
 #: Michelangelo.dialog:86
 msgid ""
-"It's better than starving, but some people have already committed "
-"suicide because that repulsive material is the only thing available "
-"to eat."
+"It's better than starving, but some people have already committed suicide "
+"because that repulsive material is the only thing available to eat."
 msgstr ""
 
 #: Michelangelo.dialog:87
@@ -100,16 +98,15 @@ msgstr ""
 
 #: Michelangelo.dialog:98
 msgid ""
-"That includes the implied warranty of edibility or fitness for a "
-"particular purpose. The entire risk as to the quality of the food is "
-"with you."
+"That includes the implied warranty of edibility or fitness for a particular "
+"purpose. The entire risk as to the quality of the food is with you."
 msgstr ""
 
 #: Michelangelo.dialog:99
 msgid ""
-"Should the army meal model #23 prove poisonous, you agree to cover "
-"the cost of keeping you alive by the base medical staff or the costs "
-"of your cremation in our nuclear furnaces.'"
+"Should the army meal model #23 prove poisonous, you agree to cover the cost "
+"of keeping you alive by the base medical staff or the costs of your "
+"cremation in our nuclear furnaces.'"
 msgstr ""
 
 #: Michelangelo.dialog:100
@@ -118,13 +115,12 @@ msgstr ""
 
 #: Michelangelo.dialog:105
 msgid ""
-"You need to have a full mess kit with a Fork, Mug, and Plate before I "
-"can give you any army snacks."
+"You need to have a full mess kit with a Fork, Mug, and Plate before I can "
+"give you any army snacks."
 msgstr ""
 
 #: Michelangelo.dialog:105
-msgid ""
-"You need a Fork, Plate, and Mug before I can issue any army snacks."
+msgid "You need a Fork, Plate, and Mug before I can issue any army snacks."
 msgstr ""
 
 #: Michelangelo.dialog:105
@@ -145,35 +141,34 @@ msgstr ""
 
 #: Michelangelo.dialog:114
 msgid ""
-"We are constantly pushed around by our 'saviors' the damn Red Guard. "
-"I hope they all die from rat bites as soon as possible and go to the "
-"deepest hells to boil in lava forever."
+"We are constantly pushed around by our 'saviors' the damn Red Guard. I hope "
+"they all die from rat bites as soon as possible and go to the deepest hells "
+"to boil in lava forever."
 msgstr ""
 
 #: Michelangelo.dialog:115
 msgid ""
-"And the bots are keeping us busy by murdering, chopping, slicing, "
-"cleaving, rending and wounding us. How wonderful."
+"And the bots are keeping us busy by murdering, chopping, slicing, cleaving, "
+"rending and wounding us. How wonderful."
 msgstr ""
 
 #: Michelangelo.dialog:116
 msgid ""
-"The guards gave me a filthy hovel to live in. The walls are so thin "
-"that every night I am rocked to sleep by the bots communicating with "
-"those beeps and modem sounds."
+"The guards gave me a filthy hovel to live in. The walls are so thin that "
+"every night I am rocked to sleep by the bots communicating with those beeps "
+"and modem sounds."
 msgstr ""
 
 #: Michelangelo.dialog:117
 msgid ""
-"It sounds like they are singing something. Every night they start "
-"their song... I cannot sleep thanks to that electric chorus."
+"It sounds like they are singing something. Every night they start their "
+"song... I cannot sleep thanks to that electric chorus."
 msgstr ""
 
 #: Michelangelo.dialog:118
 msgid ""
 "Have I mentioned that the only food that we have is some kind of "
-"pestilential military ration? The smell alone is making me want to "
-"vomit."
+"pestilential military ration? The smell alone is making me want to vomit."
 msgstr ""
 
 #: Michelangelo.dialog:123
@@ -185,31 +180,27 @@ msgid "..."
 msgstr ""
 
 #: Michelangelo.dialog:126
-msgid ""
-"Linarian, have you been gorging on psychoactive pills or something?"
+msgid "Linarian, have you been gorging on psychoactive pills or something?"
 msgstr ""
 
 #: Michelangelo.dialog:127
 msgid ""
-"Get a grip, the situation is bad and there is no use in pretending "
-"otherwise."
+"Get a grip, the situation is bad and there is no use in pretending otherwise."
 msgstr ""
 
 #: Michelangelo.dialog:132
 msgid ""
-"You are a cook. Stop complaining about the poor food! Make some "
-"yourself."
+"You are a cook. Stop complaining about the poor food! Make some yourself."
 msgstr ""
 
 #: Michelangelo.dialog:134
 msgid ""
-"I cannot! My beautiful macrowave oven is out of power. The wretched "
-"Red Guard took away my uranium battery."
+"I cannot! My beautiful macrowave oven is out of power. The wretched Red "
+"Guard took away my uranium battery."
 msgstr ""
 
 #: Michelangelo.dialog:135
-msgid ""
-"I wish I could kill them all with my bare hands. They deserve it."
+msgid "I wish I could kill them all with my bare hands. They deserve it."
 msgstr ""
 
 #: Michelangelo.dialog:136
@@ -242,8 +233,7 @@ msgstr ""
 
 #: Michelangelo.dialog:157
 msgid ""
-"Such an intense, delectable, blend of savory spices... it melts in my "
-"mouth."
+"Such an intense, delectable, blend of savory spices... it melts in my mouth."
 msgstr ""
 
 #: Michelangelo.dialog:161
@@ -271,14 +261,13 @@ msgid "I cannot rush art for I am an artist!"
 msgstr ""
 
 #: Michelangelo.dialog:171
-msgid ""
-"I had prepared some delicacies, but the ravenous Red Guard ate it all."
+msgid "I had prepared some delicacies, but the ravenous Red Guard ate it all."
 msgstr ""
 
 #: Michelangelo.dialog:172
 msgid ""
-"Not a big loss, I have a second batch of food cubes in the oven and "
-"they will be ready shortly."
+"Not a big loss, I have a second batch of food cubes in the oven and they "
+"will be ready shortly."
 msgstr ""
 
 #: Michelangelo.dialog:173
@@ -289,8 +278,8 @@ msgstr ""
 
 #: Michelangelo.dialog:174
 msgid ""
-"But if you are really hungry, I still have some of those disgusting "
-"army snacks."
+"But if you are really hungry, I still have some of those disgusting army "
+"snacks."
 msgstr ""
 
 #: Michelangelo.dialog:181
@@ -319,8 +308,8 @@ msgstr ""
 
 #: Michelangelo.dialog:194
 msgid ""
-"We already know that. There is nothing else to eat here, so I hope "
-"you get used to the taste."
+"We already know that. There is nothing else to eat here, so I hope you get "
+"used to the taste."
 msgstr ""
 
 #: Michelangelo.dialog:195
@@ -328,8 +317,7 @@ msgid "That thing only looks okay, and has a nice color."
 msgstr ""
 
 #: Michelangelo.dialog:196
-msgid ""
-"But as you can see, the color cannot be eaten, only the taste counts."
+msgid "But as you can see, the color cannot be eaten, only the taste counts."
 msgstr ""
 
 #: Michelangelo.dialog:200
@@ -338,8 +326,8 @@ msgstr ""
 
 #: Michelangelo.dialog:202
 msgid ""
-"Really? I thought you were dead, but not only did you come back "
-"alive, you also brought some power crystals for my trusty oven."
+"Really? I thought you were dead, but not only did you come back alive, you "
+"also brought some power crystals for my trusty oven."
 msgstr ""
 
 #: Michelangelo.dialog:203
@@ -348,14 +336,14 @@ msgstr ""
 
 #: Michelangelo.dialog:204
 msgid ""
-"Thank you, Linarian. As soon as the food cubes are ready I will be "
-"able to give them away to the hungry people."
+"Thank you, Linarian. As soon as the food cubes are ready I will be able to "
+"give them away to the hungry people."
 msgstr ""
 
 #: Michelangelo.dialog:208
 msgid ""
-"I gave the cook, Michelangelo, enough dilithium to last a decade. The "
-"evil specter of eating army snacks is lifted from the city."
+"I gave the cook, Michelangelo, enough dilithium to last a decade. The evil "
+"specter of eating army snacks is lifted from the city."
 msgstr ""
 
 #: Michelangelo.dialog:213
@@ -364,15 +352,14 @@ msgstr ""
 
 #: Michelangelo.dialog:215
 msgid ""
-"Get me three dilithium crystals before the whole stupid town commits "
-"mass suicide because of poor food quality."
+"Get me three dilithium crystals before the whole stupid town commits mass "
+"suicide because of poor food quality."
 msgstr ""
 
 #: Michelangelo.dialog:216
 msgid ""
-"Of course our heinous food might do us in far before that. I swear I "
-"saw that stuff glow it the dark and try to sneak away from my plate a "
-"few times."
+"Of course our heinous food might do us in far before that. I swear I saw "
+"that stuff glow it the dark and try to sneak away from my plate a few times."
 msgstr ""
 
 #: Michelangelo.dialog:220
@@ -380,8 +367,7 @@ msgid "Where can I find dilithium crystals?"
 msgstr ""
 
 #: Michelangelo.dialog:222
-msgid ""
-"There is an old abandoned dilithium mine is to the east of the town."
+msgid "There is an old abandoned dilithium mine is to the east of the town."
 msgstr ""
 
 #: Michelangelo.dialog:223
@@ -398,8 +384,8 @@ msgstr ""
 
 #: Michelangelo.dialog:230
 msgid ""
-"Yesterday a guard patrol found a few tiny bits of him and lots of "
-"dried blood."
+"Yesterday a guard patrol found a few tiny bits of him and lots of dried "
+"blood."
 msgstr ""
 
 #: Michelangelo.dialog:231
@@ -416,14 +402,14 @@ msgstr ""
 
 #: Michelangelo.dialog:239
 msgid ""
-"Look, there are dozens of ways you can kill yourself, and most hurt "
-"less than being killed by a bot."
+"Look, there are dozens of ways you can kill yourself, and most hurt less "
+"than being killed by a bot."
 msgstr ""
 
 #: Michelangelo.dialog:240
 msgid ""
-"If you want to die just walk into a nuclear reactor or something. So "
-"much simpler."
+"If you want to die just walk into a nuclear reactor or something. So much "
+"simpler."
 msgstr ""
 
 #: Michelangelo.dialog:245
@@ -432,32 +418,31 @@ msgstr ""
 
 #: Michelangelo.dialog:247
 msgid ""
-"Do you know how the bots act? Some want to kill you as soon as "
-"possible... Others want to do the same, but slowly."
+"Do you know how the bots act? Some want to kill you as soon as possible... "
+"Others want to do the same, but slowly."
 msgstr ""
 
 #: Michelangelo.dialog:248
 msgid ""
-"I have seen corpses with nearly all of the fingers ripped off. People "
-"with eyes drilled out by some big tool."
+"I have seen corpses with nearly all of the fingers ripped off. People with "
+"eyes drilled out by some big tool."
 msgstr ""
 
 #: Michelangelo.dialog:249
 msgid ""
-"I smelled burnt meat and heard the screams of the captives as they "
-"were incinerated alive outside the city walls."
+"I smelled burnt meat and heard the screams of the captives as they were "
+"incinerated alive outside the city walls."
 msgstr ""
 
 #: Michelangelo.dialog:250
 msgid ""
-"The bots know no mercy. They cannot even define it, damn scrap metal "
-"fiends."
+"The bots know no mercy. They cannot even define it, damn scrap metal fiends."
 msgstr ""
 
 #: Michelangelo.dialog:251
 msgid ""
-"Feel free to go, Linarian, but make sure to be very dead before they "
-"start killing you."
+"Feel free to go, Linarian, but make sure to be very dead before they start "
+"killing you."
 msgstr ""
 
 #: Michelangelo.dialog:252
@@ -466,13 +451,12 @@ msgstr ""
 
 #: Michelangelo.dialog:253
 msgid ""
-"There is an old dilithium mine to the east. I am sure there is lots "
-"of that stuff there."
+"There is an old dilithium mine to the east. I am sure there is lots of that "
+"stuff there."
 msgstr ""
 
 #: Michelangelo.dialog:254
-msgid ""
-"I will talk to the guards, they will open the eastern gate for you."
+msgid "I will talk to the guards, they will open the eastern gate for you."
 msgstr ""
 
 #: Michelangelo.dialog:255
@@ -485,10 +469,10 @@ msgstr ""
 
 #: Michelangelo.dialog:257
 msgid ""
-"A single small crystal could power my oven for a decade if it is of "
-"good quality. But unfortunately my oven requires two to operate "
-"correctly. And since it is so dangerous to send anyone to get "
-"dilithium, could you get me a spare as well?"
+"A single small crystal could power my oven for a decade if it is of good "
+"quality. But unfortunately my oven requires two to operate correctly. And "
+"since it is so dangerous to send anyone to get dilithium, could you get me a "
+"spare as well?"
 msgstr ""
 
 #: Michelangelo.dialog:258
@@ -501,11 +485,10 @@ msgstr ""
 
 #: Michelangelo.dialog:261
 msgid ""
-"I am supposed to get three dilithium crystals for that cook, "
-"Michelangelo. Without them he cannot cook anything in his macrowave "
-"oven. And without his cooking the whole city is stuck eating army "
-"snacks. Many people have committed suicide because of the horrible "
-"food. This madness must stop."
+"I am supposed to get three dilithium crystals for that cook, Michelangelo. "
+"Without them he cannot cook anything in his macrowave oven. And without his "
+"cooking the whole city is stuck eating army snacks. Many people have "
+"committed suicide because of the horrible food. This madness must stop."
 msgstr ""
 
 #: Michelangelo.dialog:266
@@ -514,8 +497,8 @@ msgstr ""
 
 #: Michelangelo.dialog:268
 msgid ""
-"You do not know? I thought Linarians were unmatched in their "
-"knowledge of the universe. Anyway..."
+"You do not know? I thought Linarians were unmatched in their knowledge of "
+"the universe. Anyway..."
 msgstr ""
 
 #: Michelangelo.dialog:269
@@ -526,8 +509,8 @@ msgstr ""
 
 #: Michelangelo.dialog:270
 msgid ""
-"It somehow generates and stores amazing amounts of electricity. I do "
-"not know the details. I'm a cook, not a quantum scientist."
+"It somehow generates and stores amazing amounts of electricity. I do not "
+"know the details. I'm a cook, not a quantum scientist."
 msgstr ""
 
 #: Michelangelo.dialog:275
@@ -540,23 +523,21 @@ msgstr ""
 
 #: Michelangelo.dialog:278
 msgid ""
-"We are a town of 450 hungry people. It would need to be a very big "
-"fire to supply heat for all of the meals."
+"We are a town of 450 hungry people. It would need to be a very big fire to "
+"supply heat for all of the meals."
 msgstr ""
 
 #: Michelangelo.dialog:279
 msgid ""
-"There is nothing to burn inside the city. If you want you can go and "
-"try to chop some trees in the region to the north, but odds are the "
-"bots will chop you down before you get a chance to swing the hatchet "
-"once."
+"There is nothing to burn inside the city. If you want you can go and try to "
+"chop some trees in the region to the north, but odds are the bots will chop "
+"you down before you get a chance to swing the hatchet once."
 msgstr ""
 
 #: Michelangelo.dialog:280
 msgid ""
-"Finally, the meal cubes which we have in the freezer are optimized "
-"for macrowaves. If we stick them in a fire they will combust and not "
-"cook."
+"Finally, the meal cubes which we have in the freezer are optimized for "
+"macrowaves. If we stick them in a fire they will combust and not cook."
 msgstr ""
 
 #: Michelangelo.dialog:281
@@ -564,8 +545,7 @@ msgid "No oven means having to use premacrowaved food."
 msgstr ""
 
 #: Michelangelo.dialog:282
-msgid ""
-"And the only such thing around is that abhorrent military sludge."
+msgid "And the only such thing around is that abhorrent military sludge."
 msgstr ""
 
 #: Michelangelo.dialog:287
@@ -582,14 +562,12 @@ msgstr ""
 
 #: Michelangelo.dialog:297
 msgid ""
-"I am already using the ones you got me. They are being used to feed "
-"the town."
+"I am already using the ones you got me. They are being used to feed the town."
 msgstr ""
 
 #: Michelangelo.dialog:303 Michelangelo.dialog:310
 msgid ""
-"I need one of the dilithium crystals back, it is a matter of life or "
-"death!"
+"I need one of the dilithium crystals back, it is a matter of life or death!"
 msgstr ""
 
 #: Michelangelo.dialog:305
@@ -602,11 +580,10 @@ msgstr ""
 
 #: Michelangelo.dialog:315
 msgid ""
-"I remembered that I gave Michelangelo three dilithium crystals when "
-"he only needed two for his oven. I convinced him it was a life-or-"
-"death situation (is the SADD a life-form?) so he returned the spare "
-"one to me. Looks like I saved myself a trip back to the old dilithium "
-"mine!"
+"I remembered that I gave Michelangelo three dilithium crystals when he only "
+"needed two for his oven. I convinced him it was a life-or-death situation "
+"(is the SADD a life-form?) so he returned the spare one to me. Looks like I "
+"saved myself a trip back to the old dilithium mine!"
 msgstr ""
 
 #: Michelangelo.dialog:320

@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-02 07:42+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-02 07:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: HF-GateGuardLeader.dialog:33 HF-GateGuardLeader.dialog:41
@@ -49,14 +49,13 @@ msgid "Are you totally out of your mind?"
 msgstr ""
 
 #: HF-GateGuardLeader.dialog:64
-msgid ""
-"There are trillions of millions of quintillions of bots in there!"
+msgid "There are trillions of millions of quintillions of bots in there!"
 msgstr ""
 
 #: HF-GateGuardLeader.dialog:65
 msgid ""
-"Besides that, on the other side of the door is a disruptor shield, "
-"which we can't control."
+"Besides that, on the other side of the door is a disruptor shield, which we "
+"can't control."
 msgstr ""
 
 #: HF-GateGuardLeader.dialog:66
@@ -65,8 +64,8 @@ msgstr ""
 
 #: HF-GateGuardLeader.dialog:68
 msgid ""
-"* Stone freely flies through the gate and drops on the ground on the "
-"other side"
+"* Stone freely flies through the gate and drops on the ground on the other "
+"side"
 msgstr ""
 
 #: HF-GateGuardLeader.dialog:69
@@ -95,8 +94,8 @@ msgstr ""
 
 #: HF-GateGuardLeader.dialog:88
 msgid ""
-"Calm down. This is not an attack. I've disabled the shield and I'm "
-"going to disable all the bots around! Didn't Spencer inform you?"
+"Calm down. This is not an attack. I've disabled the shield and I'm going to "
+"disable all the bots around! Didn't Spencer inform you?"
 msgstr ""
 
 #: HF-GateGuardLeader.dialog:90
@@ -117,8 +116,8 @@ msgstr ""
 
 #: HF-GateGuardLeader.dialog:106
 msgid ""
-"Right, there is a message from Spencer, you can enter Hell Fortress. "
-"And may the source be with you!"
+"Right, there is a message from Spencer, you can enter Hell Fortress. And may "
+"the source be with you!"
 msgstr ""
 
 #: HF-GateGuardLeader.dialog:111

@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-05 15:44+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: DSB-MachineDeckControl.dialog:35
@@ -73,8 +73,12 @@ msgid "Opening access to MS Office"
 msgstr "Hozzáférés indítása az MS Office-ba."
 
 #: DSB-MachineDeckControl.dialog:66
-msgid "I've taken over the control droid and disabled the disruptor shield. Now, I should go to the Hell Fortress and hack the MS firmware update system."
-msgstr "Feltörtem a kontrolldroidot és kikapcsoltam a disruptor pajzsot. Mostmár mehetek a Pokoli Erődbe, és feltörhetem az MS firmware frissítő rendszert."
+msgid ""
+"I've taken over the control droid and disabled the disruptor shield. Now, I "
+"should go to the Hell Fortress and hack the MS firmware update system."
+msgstr ""
+"Feltörtem a kontrolldroidot és kikapcsoltam a disruptor pajzsot. Mostmár "
+"mehetek a Pokoli Erődbe, és feltörhetem az MS firmware frissítő rendszert."
 
 #: DSB-MachineDeckControl.dialog:72
 msgid "logout"
@@ -83,4 +87,3 @@ msgstr "logout"
 #: DSB-MachineDeckControl.dialog:74
 msgid "Exiting"
 msgstr "Kijelentkezés"
-

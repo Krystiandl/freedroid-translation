@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-23 07:57+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
-"%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 
 #: Butch.dialog:38 Butch.dialog:39 Butch.dialog:120 Butch.dialog:131
 #: Butch.dialog:148 Butch.dialog:213
@@ -20,8 +20,8 @@ msgstr ""
 
 #: Butch.dialog:40
 msgid ""
-"I've already opened the door for you. All you need to do is walk in "
-"there and crush all four bots."
+"I've already opened the door for you. All you need to do is walk in there "
+"and crush all four bots."
 msgstr ""
 
 #: Butch.dialog:50 Butch.dialog:51 Butch.dialog:157 Butch.dialog:171
@@ -30,14 +30,14 @@ msgstr ""
 
 #: Butch.dialog:52
 msgid ""
-"I've already opened the door. What are you waiting for? All you need "
-"to do is go down to the master arena and fight the bots."
+"I've already opened the door. What are you waiting for? All you need to do "
+"is go down to the master arena and fight the bots."
 msgstr ""
 
 #: Butch.dialog:53
 msgid ""
-"But I can understand if you hesitate. The master arena is by no means "
-"an easy task. Maybe you should practice some more before you go down."
+"But I can understand if you hesitate. The master arena is by no means an "
+"easy task. Maybe you should practice some more before you go down."
 msgstr ""
 
 #: Butch.dialog:66
@@ -98,8 +98,8 @@ msgstr ""
 
 #: Butch.dialog:108
 msgid ""
-"The underground arena. With holographic bots to train combat "
-"techniques against."
+"The underground arena. With holographic bots to train combat techniques "
+"against."
 msgstr ""
 
 #: Butch.dialog:109
@@ -112,32 +112,30 @@ msgstr ""
 
 #: Butch.dialog:116
 msgid ""
-"Good. I opened up the novice arena gate. Just climb down the ladder "
-"south of here."
+"Good. I opened up the novice arena gate. Just climb down the ladder south of "
+"here."
 msgstr ""
 
 #: Butch.dialog:117
-msgid ""
-"But remember, the door out won't be opened until you kill all the "
-"bots."
+msgid "But remember, the door out won't be opened until you kill all the bots."
 msgstr ""
 
 #: Butch.dialog:118
 msgid ""
-"And be careful, your brain get so fooled by what happens in the "
-"holographic world that you take physical damage for real."
+"And be careful, your brain get so fooled by what happens in the holographic "
+"world that you take physical damage for real."
 msgstr ""
 
 #: Butch.dialog:119
 msgid ""
-"So even if the enemies are only holograms, they can still hurt you "
-"and even kill you."
+"So even if the enemies are only holograms, they can still hurt you and even "
+"kill you."
 msgstr ""
 
 #: Butch.dialog:120 Butch.dialog:213
 msgid ""
-"Fighting in the arena is not something I would usually do, but I feel "
-"like doing it for a change. Why not?"
+"Fighting in the arena is not something I would usually do, but I feel like "
+"doing it for a change. Why not?"
 msgstr ""
 
 #: Butch.dialog:126
@@ -158,8 +156,8 @@ msgstr ""
 
 #: Butch.dialog:131
 msgid ""
-"Now that was easy. *Yawn*. I nearly fell asleep. No problem at all, "
-"the bots are dead."
+"Now that was easy. *Yawn*. I nearly fell asleep. No problem at all, the bots "
+"are dead."
 msgstr ""
 
 #: Butch.dialog:136
@@ -188,8 +186,8 @@ msgstr ""
 
 #: Butch.dialog:149
 msgid ""
-"I'm sorry, but town regulations forbid access to the master arena "
-"unless you've completed the novice arena first."
+"I'm sorry, but town regulations forbid access to the master arena unless "
+"you've completed the novice arena first."
 msgstr ""
 
 #: Butch.dialog:150
@@ -200,8 +198,8 @@ msgstr ""
 
 #: Butch.dialog:151
 msgid ""
-"You might try taking the novice arena first. Then I can grant you "
-"access to the master field."
+"You might try taking the novice arena first. Then I can grant you access to "
+"the master field."
 msgstr ""
 
 #: Butch.dialog:153
@@ -222,11 +220,10 @@ msgstr ""
 
 #: Butch.dialog:157
 msgid ""
-"I told the arena master to let me into his master arena. He agreed. "
-"Now all that remains to do is to climb down the ladder to the north "
-"arena and wait for death herself to come on her black wings and claim "
-"my soul. You know, now that I think about it... Maybe I should stay "
-"out of there?"
+"I told the arena master to let me into his master arena. He agreed. Now all "
+"that remains to do is to climb down the ladder to the north arena and wait "
+"for death herself to come on her black wings and claim my soul. You know, "
+"now that I think about it... Maybe I should stay out of there?"
 msgstr ""
 
 #: Butch.dialog:164
@@ -263,8 +260,7 @@ msgstr ""
 
 #: Butch.dialog:183
 msgid ""
-"Why the hell are you organizing fights? Enough people have died "
-"already!"
+"Why the hell are you organizing fights? Enough people have died already!"
 msgstr ""
 
 #: Butch.dialog:185
@@ -272,8 +268,7 @@ msgid "I have a very good reason not to tell you."
 msgstr ""
 
 #: Butch.dialog:186
-msgid ""
-"Not like someone as inexperienced as you could understand it anyway."
+msgid "Not like someone as inexperienced as you could understand it anyway."
 msgstr ""
 
 #: Butch.dialog:191
@@ -310,8 +305,8 @@ msgstr ""
 
 #: Butch.dialog:211
 msgid ""
-"You... Have ruined my pacifistic slogan... I am angry... So angry "
-"that I want to smash things!"
+"You... Have ruined my pacifistic slogan... I am angry... So angry that I "
+"want to smash things!"
 msgstr ""
 
 #: Butch.dialog:212
@@ -324,15 +319,14 @@ msgstr ""
 
 #: Butch.dialog:221
 msgid ""
-"You've already completed the novice arena. But since you really want "
-"to have another go, I'll cause the bots to respawn now. There, it's "
-"done."
+"You've already completed the novice arena. But since you really want to have "
+"another go, I'll cause the bots to respawn now. There, it's done."
 msgstr ""
 
 #: Butch.dialog:222
 msgid ""
-"But you also might want to try the master arena now, maybe? If so, "
-"just say so."
+"But you also might want to try the master arena now, maybe? If so, just say "
+"so."
 msgstr ""
 
 #: Butch.dialog:228
@@ -341,14 +335,14 @@ msgstr ""
 
 #: Butch.dialog:230
 msgid ""
-"But you've already completed the master arena. Ok, but I can have the "
-"bots respawn for you now, so you can have another go!"
+"But you've already completed the master arena. Ok, but I can have the bots "
+"respawn for you now, so you can have another go!"
 msgstr ""
 
 #: Butch.dialog:231
 msgid ""
-"But certainly you've earned yourself a reputation as arena master "
-"around here now and we respect that."
+"But certainly you've earned yourself a reputation as arena master around "
+"here now and we respect that."
 msgstr ""
 
 #: Butch.dialog:237

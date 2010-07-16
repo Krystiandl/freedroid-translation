@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-05 13:56+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: AfterTakeover.dialog:33
@@ -48,13 +48,11 @@ msgstr "Ez az "
 msgid " unit could need some repair."
 msgstr "egység javítást igényel."
 
-#: AfterTakeover.dialog:49
-#: AfterTakeover.dialog:52
+#: AfterTakeover.dialog:49 AfterTakeover.dialog:52
 msgid "cd repair&settings/"
 msgstr "cd javitas&beallitas/"
 
-#: AfterTakeover.dialog:58
-#: AfterTakeover.dialog:61
+#: AfterTakeover.dialog:58 AfterTakeover.dialog:61
 msgid "./hold_position.sh"
 msgstr "./poziciot_tartsd.sh"
 
@@ -66,8 +64,7 @@ msgstr "Pozíció tartása."
 msgid "script V 1.0.2 (c) gnu.org, 2054"
 msgstr "script V 1.0.2 (c) gnu.org, 2054"
 
-#: AfterTakeover.dialog:64
-#: AfterTakeover.dialog:93
+#: AfterTakeover.dialog:64 AfterTakeover.dialog:93
 msgid "Checking requirements..."
 msgstr "Szükséges eszközök ellenőrzése..."
 
@@ -79,8 +76,7 @@ msgstr "Meghajtóegység: Kikapcsolás... [kész]."
 msgid "Status: All movement suppressed."
 msgstr "Állapot: Minden mozgás felfüggesztve."
 
-#: AfterTakeover.dialog:73
-#: AfterTakeover.dialog:76
+#: AfterTakeover.dialog:73 AfterTakeover.dialog:76
 msgid "./follow_me.sh"
 msgstr "./kovess_engem.sh"
 
@@ -104,9 +100,7 @@ msgstr "pozíció."
 msgid "Status: Following "
 msgstr "Állapot: Követés"
 
-#: AfterTakeover.dialog:87
-#: AfterTakeover.dialog:90
-#: AfterTakeover.dialog:106
+#: AfterTakeover.dialog:87 AfterTakeover.dialog:90 AfterTakeover.dialog:106
 msgid "./move_freely.sh"
 msgstr "./mozogj_onalloan.sh"
 
@@ -155,7 +149,8 @@ msgid "No"
 msgstr "Nem"
 
 #: AfterTakeover.dialog:125
-msgid "Destrucion averted."
+#, fuzzy
+msgid "Destruction averted."
 msgstr "Parancs visszavonva."
 
 #: AfterTakeover.dialog:133
@@ -167,7 +162,9 @@ msgid "Warning! Cooling subsystems disabled."
 msgstr "Vigyázat! Hűtő alrendszerek kikapcsolva."
 
 #: AfterTakeover.dialog:135
-msgid "Warning! Spontaneous oxidization witH emis$ion of light aND heAt detecteddd in THE#main| procesIng unit."
+msgid ""
+"Warning! Spontaneous oxidization witH emis$ion of light aND heAt detecteddd "
+"in THE#main| procesIng unit."
 msgstr "Vigyázat! Spontán oxidáció Hő éS Feenyy emIszsI0v@l A CpU---nab."
 
 #: AfterTakeover.dialog:136
@@ -185,4 +182,3 @@ msgstr "()%#@(% A PENGE A TIÉTEK. )##%*&%*!"
 #: AfterTakeover.dialog:156
 msgid "Closing remote connection..."
 msgstr "Távkapcsolat zárása..."
-

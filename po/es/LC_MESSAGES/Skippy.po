@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-02 07:42+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-02 07:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Skippy.dialog:40
@@ -30,19 +30,16 @@ msgstr ""
 
 #: Skippy.dialog:50
 msgid ""
-"Great! A newcomer! Welcome! Welcome! I'm Skippy, and I'm your new "
-"best friend!"
+"Great! A newcomer! Welcome! Welcome! I'm Skippy, and I'm your new best "
+"friend!"
 msgstr ""
 
 #: Skippy.dialog:51
-msgid ""
-"I already saw you coming. Due to my mapping device! It's great stuff!"
+msgid "I already saw you coming. Due to my mapping device! It's great stuff!"
 msgstr ""
 
 #: Skippy.dialog:52
-msgid ""
-"And as a special favour, I'll sell you a mapping device for half "
-"price!"
+msgid "And as a special favour, I'll sell you a mapping device for half price!"
 msgstr ""
 
 #: Skippy.dialog:53
@@ -54,8 +51,7 @@ msgid "Skippy -- Map-Maker Maker"
 msgstr ""
 
 #: Skippy.dialog:59
-msgid ""
-"Ok, if I want to buy me one of those mapping pills. How much are they?"
+msgid "Ok, if I want to buy me one of those mapping pills. How much are they?"
 msgstr ""
 
 #: Skippy.dialog:61
@@ -76,19 +72,17 @@ msgstr ""
 
 #: Skippy.dialog:69
 msgid ""
-"Just swallow the pill and the nanotechnological bots will enter your "
-"body."
+"Just swallow the pill and the nanotechnological bots will enter your body."
 msgstr ""
 
 #: Skippy.dialog:70
 msgid ""
-"They'll merge with your eyes and transmit data to your brain using "
-"the optical nerves. Nice, eh?"
+"They'll merge with your eyes and transmit data to your brain using the "
+"optical nerves. Nice, eh?"
 msgstr ""
 
 #: Skippy.dialog:71
-msgid ""
-"Everything within 50 meters of you will be displayed on your retinas."
+msgid "Everything within 50 meters of you will be displayed on your retinas."
 msgstr ""
 
 #: Skippy.dialog:76
@@ -97,8 +91,8 @@ msgstr ""
 
 #: Skippy.dialog:78
 msgid ""
-"Oh, I've always been a geek. And I got blueprints from before the "
-"Great Assault."
+"Oh, I've always been a geek. And I got blueprints from before the Great "
+"Assault."
 msgstr ""
 
 #: Skippy.dialog:79
@@ -115,25 +109,23 @@ msgstr ""
 
 #: Skippy.dialog:87
 msgid ""
-"No way, man, I guarantee it. Don't believe anything you might have "
-"heard."
+"No way, man, I guarantee it. Don't believe anything you might have heard."
 msgstr ""
 
 #: Skippy.dialog:88
-msgid ""
-"This is a perfectly safe and tried technology. No risk at all! Really!"
+msgid "This is a perfectly safe and tried technology. No risk at all! Really!"
 msgstr ""
 
 #: Skippy.dialog:89
 msgid ""
-"There is no risk of your head being eaten by a nanotechnological "
-"nightmare, or anything funny like that."
+"There is no risk of your head being eaten by a nanotechnological nightmare, "
+"or anything funny like that."
 msgstr ""
 
 #: Skippy.dialog:90
 msgid ""
-"I've used one myself for many years now: no side effects! It works "
-"just as great as on the first day!"
+"I've used one myself for many years now: no side effects! It works just as "
+"great as on the first day!"
 msgstr ""
 
 #: Skippy.dialog:91
@@ -154,8 +146,8 @@ msgstr ""
 
 #: Skippy.dialog:105
 msgid ""
-"WHAT? Fine, you can forget about my great deals now! I don't want to "
-"trade with you anymore!"
+"WHAT? Fine, you can forget about my great deals now! I don't want to trade "
+"with you anymore!"
 msgstr ""
 
 #: Skippy.dialog:106
@@ -168,8 +160,8 @@ msgstr ""
 
 #: Skippy.dialog:115
 msgid ""
-"Sure! I also build some electronics devices, depending on what parts "
-"I can get my hands on."
+"Sure! I also build some electronics devices, depending on what parts I can "
+"get my hands on."
 msgstr ""
 
 #: Skippy.dialog:117
@@ -248,6 +240,5 @@ msgstr ""
 
 #: Skippy.dialog:166
 msgid ""
-"Yes, we'll meet again, my friend, and I'll have other great deals for "
-"you."
+"Yes, we'll meet again, my friend, and I'll have other great deals for you."
 msgstr ""

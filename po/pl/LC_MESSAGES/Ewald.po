@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-23 07:57+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
-"%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 
 #: Ewald.dialog:44
 msgid "Hi. You look really happy."
@@ -47,20 +47,20 @@ msgstr ""
 
 #: Ewald.dialog:58
 msgid ""
-"The bots ruined it for me. Now the supplies are very low and I had to "
-"make the prices high."
+"The bots ruined it for me. Now the supplies are very low and I had to make "
+"the prices high."
 msgstr ""
 
 #: Ewald.dialog:59
 msgid ""
-"No one wants to pay 499 circs for bottom shelf swill that even Bender "
-"would not drink..."
+"No one wants to pay 499 circs for bottom shelf swill that even Bender would "
+"not drink..."
 msgstr ""
 
 #: Ewald.dialog:60
 msgid ""
-"The tax is quite brutal as well. And the Red Guard always demands "
-"discounts too."
+"The tax is quite brutal as well. And the Red Guard always demands discounts "
+"too."
 msgstr ""
 
 #: Ewald.dialog:61
@@ -80,8 +80,7 @@ msgid "I could use a drink. What is there to be had?"
 msgstr ""
 
 #: Ewald.dialog:75
-msgid ""
-"Well... We are a bit short on supplies right now... Erm... AH! I know!"
+msgid "Well... We are a bit short on supplies right now... Erm... AH! I know!"
 msgstr ""
 
 #: Ewald.dialog:76
@@ -98,8 +97,8 @@ msgstr ""
 
 #: Ewald.dialog:87
 msgid ""
-"Here you go. That one is on the house. And if the water is not "
-"enough, just ask me for more."
+"Here you go. That one is on the house. And if the water is not enough, just "
+"ask me for more."
 msgstr ""
 
 #: Ewald.dialog:92
@@ -136,8 +135,7 @@ msgstr ""
 
 #: Ewald.dialog:122
 msgid ""
-"Hmm... Lots of ice. Give me one more double water, but now without "
-"any ice."
+"Hmm... Lots of ice. Give me one more double water, but now without any ice."
 msgstr ""
 
 #: Ewald.dialog:124
@@ -158,8 +156,8 @@ msgstr ""
 
 #: Ewald.dialog:140
 msgid ""
-"Well, you drank all my water, so you cannot have any more. There is "
-"none left."
+"Well, you drank all my water, so you cannot have any more. There is none "
+"left."
 msgstr ""
 
 #: Ewald.dialog:141
@@ -172,8 +170,8 @@ msgstr ""
 
 #: Ewald.dialog:148
 msgid ""
-"Eh... I think you've had enough... Maybe you should just go for a "
-"walk for now?"
+"Eh... I think you've had enough... Maybe you should just go for a walk for "
+"now?"
 msgstr ""
 
 #: Ewald.dialog:149
@@ -198,8 +196,8 @@ msgstr ""
 
 #: Ewald.dialog:160
 msgid ""
-"Well, unless you are in the Red Guard itself, of course. They have "
-"those big guns that can destroy a dozen bots with one shot..."
+"Well, unless you are in the Red Guard itself, of course. They have those big "
+"guns that can destroy a dozen bots with one shot..."
 msgstr ""
 
 #: Ewald.dialog:161
@@ -208,8 +206,8 @@ msgstr ""
 
 #: Ewald.dialog:162
 msgid ""
-"If you are really board, you can try gambling with me. But the Red "
-"Guard taxes it."
+"If you are really bored, you can try gambling with me. But the Red Guard "
+"taxes it."
 msgstr ""
 
 #: Ewald.dialog:167
@@ -250,15 +248,15 @@ msgstr ""
 
 #: Ewald.dialog:200
 msgid ""
-"Then you throw two dice and I throw three dice. If sum of your three "
-"dice are better than my three dice, you win twice your bet, minus a "
-"tax for the Red Guard."
+"Then you throw two dice and I throw three dice. If sum of your three dice "
+"are better than my three dice, you win twice your bet, minus a tax for the "
+"Red Guard."
 msgstr ""
 
 #: Ewald.dialog:201 Ewald.dialog:223
 msgid ""
-"Remember: the odds are slightly against you, so don't gamble anything "
-"you can't afford to lose."
+"Remember: the odds are slightly against you, so don't gamble anything you "
+"can't afford to lose."
 msgstr ""
 
 #: Ewald.dialog:209
@@ -270,8 +268,7 @@ msgid "It is simple. Five coin flips."
 msgstr ""
 
 #: Ewald.dialog:212
-msgid ""
-"You bet. Then you tell me if I will flip more 'heads' or 'tails'."
+msgid "You bet. Then you tell me if I will flip more 'heads' or 'tails'."
 msgstr ""
 
 #: Ewald.dialog:213
@@ -280,33 +277,30 @@ msgstr ""
 
 #: Ewald.dialog:214
 msgid ""
-"Then you tell me if there will be an 'odd' or 'even' number of flips "
-"for what you chose."
+"Then you tell me if there will be an 'odd' or 'even' number of flips for "
+"what you chose."
 msgstr ""
 
 #: Ewald.dialog:216
 msgid ""
-"I flip the other four coins. If you were completely right, I give you "
-"three times what your bet, if wrong, you get nothing."
+"I flip the other four coins. If you were completely right, I give you three "
+"times what your bet, if wrong, you get nothing."
 msgstr ""
 
 #: Ewald.dialog:218
 msgid ""
-"I flip the other four coins. If you were completely right, I give you "
-"twice what your bet, if completely wrong, you get 3/4 of your bet "
-"back."
+"I flip the other four coins. If you were completely right, I give you twice "
+"what your bet, if completely wrong, you get 3/4 of your bet back."
 msgstr ""
 
 #: Ewald.dialog:220
 msgid ""
-"I flip the other four coins. If you were completely right, I give you "
-"twice what your bet, if completely wrong, you get half of your bet "
-"back."
+"I flip the other four coins. If you were completely right, I give you twice "
+"what your bet, if completely wrong, you get half of your bet back."
 msgstr ""
 
 #: Ewald.dialog:222
-msgid ""
-"But if you are only partially wrong... well, then you get nothing."
+msgid "But if you are only partially wrong... well, then you get nothing."
 msgstr ""
 
 #: Ewald.dialog:234
@@ -486,13 +480,11 @@ msgid "Looks like it is 'heads'."
 msgstr ""
 
 #: Ewald.dialog:379
-msgid ""
-"So do you think there will be an even or odd number of 'tails' flips?"
+msgid "So do you think there will be an even or odd number of 'tails' flips?"
 msgstr ""
 
 #: Ewald.dialog:381
-msgid ""
-"So do you think there will be an even or odd number of 'heads' flips?"
+msgid "So do you think there will be an even or odd number of 'heads' flips?"
 msgstr ""
 
 #: Ewald.dialog:387
@@ -621,8 +613,8 @@ msgstr ""
 
 #: Ewald.dialog:495
 msgid ""
-"Let me be even with you: I can't make heads or tails of how you won "
-"this odd game. Good Job!"
+"Let me be even with you: I can't make heads or tails of how you won this odd "
+"game. Good Job!"
 msgstr ""
 
 #: Ewald.dialog:500 Ewald.dialog:514 Ewald.dialog:518
@@ -646,8 +638,7 @@ msgid "Close only counts in handgrenades and horseshoes."
 msgstr ""
 
 #: Ewald.dialog:506
-msgid ""
-"Looks like you got everything wrong... here is some of your bet back."
+msgid "Looks like you got everything wrong... here is some of your bet back."
 msgstr ""
 
 #: Ewald.dialog:506
@@ -656,8 +647,8 @@ msgstr ""
 
 #: Ewald.dialog:506
 msgid ""
-"You need to do exactly opposite of what you did here. Here is part of "
-"your bet back."
+"You need to do exactly opposite of what you did here. Here is part of your "
+"bet back."
 msgstr ""
 
 #: Ewald.dialog:506
@@ -665,14 +656,12 @@ msgid "Close, but no cigar. Here is some of your money back."
 msgstr ""
 
 #: Ewald.dialog:506
-msgid ""
-"Next time pick the opposite of what you did this time... or something."
+msgid "Next time pick the opposite of what you did this time... or something."
 msgstr ""
 
 #: Ewald.dialog:516
 msgid ""
-"You lost. You were half right, but half wrong. Pick one and stay with "
-"it."
+"You lost. You were half right, but half wrong. Pick one and stay with it."
 msgstr ""
 
 #: Ewald.dialog:516
@@ -693,8 +682,8 @@ msgstr ""
 
 #: Ewald.dialog:520
 msgid ""
-"THIS IS AN ERROR! REPORT IT PLEASE! E-MAIL: freedroid-"
-"discussion@lists.sourceforge.net"
+"THIS IS AN ERROR! REPORT IT PLEASE! E-MAIL: freedroid-discussion@lists."
+"sourceforge.net"
 msgstr ""
 
 #: Ewald.dialog:527
@@ -710,8 +699,7 @@ msgid "Come back soon!"
 msgstr ""
 
 #: Ewald.dialog:529
-msgid ""
-"You are welcome to unwind with old Ewald any time. Come back soon."
+msgid "You are welcome to unwind with old Ewald any time. Come back soon."
 msgstr ""
 
 #: Ewald.dialog:529

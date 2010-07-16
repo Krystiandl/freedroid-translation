@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-05 14:55+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: c-net.dialog:34
@@ -32,8 +32,7 @@ msgstr "Ön először jelentkezik be."
 msgid "Please enter your name"
 msgstr "Kérem, írja be a nevét"
 
-#: c-net.dialog:55
-#: c-net.dialog:62
+#: c-net.dialog:55 c-net.dialog:62
 msgid "Name : "
 msgstr "Név :"
 
@@ -42,20 +41,18 @@ msgid "Please set password for your personalized guest login "
 msgstr "Kérem adjon meg egy jelszót a személyes vendég bejelentkezéshez"
 
 #: c-net.dialog:58
-msgid "Use at least one lower case letter, one upper case letter, one number, and one symbol."
-msgstr "Használjon legalább egy nagybetűt, egy kisbetűt, egy számot és egy szimbólumot."
+msgid ""
+"Use at least one lower case letter, one upper case letter, one number, and "
+"one symbol."
+msgstr ""
+"Használjon legalább egy nagybetűt, egy kisbetűt, egy számot és egy "
+"szimbólumot."
 
-#: c-net.dialog:59
-#: c-net.dialog:64
-#: c-net.dialog:77
-#: c-net.dialog:96
+#: c-net.dialog:59 c-net.dialog:64 c-net.dialog:77 c-net.dialog:96
 msgid "Password : "
 msgstr "Jelszó :"
 
-#: c-net.dialog:67
-#: c-net.dialog:84
-#: c-net.dialog:103
-#: c-net.dialog:122
+#: c-net.dialog:67 c-net.dialog:84 c-net.dialog:103 c-net.dialog:122
 msgid "Last login from dev/tty3 on unknown"
 msgstr "Az utolsó bejelentkezés dev/tty3 -tól ismeretlen"
 
@@ -161,42 +158,60 @@ msgstr "A c-net kapcsolat lezárult."
 
 #~ msgid " guest "
 #~ msgstr "vendég"
+
 #~ msgid "root"
 #~ msgstr "root"
+
 #~ msgid "lily"
 #~ msgstr "lily"
+
 #~ msgid "cpain"
 #~ msgstr "cpain"
+
 #~ msgid "IM A BUG. REPORT ME!"
 #~ msgstr "BUG VAGYOK, JELENTS ENGEM!"
+
 #~ msgid "cd info_commands/"
 #~ msgstr "cd info_commands/"
+
 #~ msgid "cd ../"
 #~ msgstr "cd../"
+
 #~ msgid "date"
 #~ msgstr "dátum"
+
 #~ msgid "finger"
 #~ msgstr "finger"
+
 #~ msgid "users"
 #~ msgstr "felhasználók"
+
 #~ msgid "whoami"
 #~ msgstr "whoami"
+
 #~ msgid "uname"
 #~ msgstr "uname"
+
 #~ msgid "Nkernel"
 #~ msgstr "Nkernel"
+
 #~ msgid "cd file_commands/"
 #~ msgstr "cd file_commands/"
+
 #~ msgid "ls"
 #~ msgstr "ls"
+
 #~ msgid "tux@c-net:~$"
 #~ msgstr "tux@c-net:~$"
+
 #~ msgid "cd documents/"
 #~ msgstr "cd documents/"
+
 #~ msgid "cd games/"
 #~ msgstr "cd games/"
+
 #~ msgid "nethack"
 #~ msgstr "nethack"
+
 #~ msgid "logout"
 #~ msgstr "kijelentkezés"
-

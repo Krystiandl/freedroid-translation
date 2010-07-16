@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-02 07:42+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-02 07:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Sorenson.dialog:38
@@ -25,8 +25,7 @@ msgid "I think I should go now. Right now. See you later."
 msgstr ""
 
 #: Sorenson.dialog:41
-msgid ""
-"No, don't go. I will not let you go before we talk. Important things."
+msgid "No, don't go. I will not let you go before we talk. Important things."
 msgstr ""
 
 #: Sorenson.dialog:42
@@ -62,8 +61,7 @@ msgid "The best friend of the clean and pure code."
 msgstr ""
 
 #: Sorenson.dialog:55
-msgid ""
-"The great light on the night sky of the hollow web of computer power."
+msgid "The great light on the night sky of the hollow web of computer power."
 msgstr ""
 
 #: Sorenson.dialog:56
@@ -143,14 +141,13 @@ msgid "COBOL is the mind-crippler."
 msgstr ""
 
 #: Sorenson.dialog:85
-msgid ""
-"Don't use it. Forget the cursed name. COBOL is pain. COBOL is hate."
+msgid "Don't use it. Forget the cursed name. COBOL is pain. COBOL is hate."
 msgstr ""
 
 #: Sorenson.dialog:90
 msgid ""
-"I see you have a huge source code book collection. Mind if I buy some "
-"from you?"
+"I see you have a huge source code book collection. Mind if I buy some from "
+"you?"
 msgstr ""
 
 #: Sorenson.dialog:92
@@ -166,8 +163,7 @@ msgid "Yes. Sure. Of course."
 msgstr ""
 
 #: Sorenson.dialog:105
-msgid ""
-"You got me curious. How can you help me understand computers better?"
+msgid "You got me curious. How can you help me understand computers better?"
 msgstr ""
 
 #: Sorenson.dialog:107
@@ -204,9 +200,9 @@ msgstr ""
 
 #: Sorenson.dialog:129
 msgid ""
-"Please calm down. You must speak clearly and slowly. Please stop "
-"breathing smoke like that, it bothers my throat. And what is the deal "
-"with the red glowing eyes? You should see a doctor. "
+"Please calm down. You must speak clearly and slowly. Please stop breathing "
+"smoke like that, it bothers my throat. And what is the deal with the red "
+"glowing eyes? You should see a doctor. "
 msgstr ""
 
 #: Sorenson.dialog:131
@@ -261,12 +257,17 @@ msgstr ""
 msgid "N0000000000!!!!!!!"
 msgstr ""
 
+#: Sorenson.dialog:173 Sorenson.dialog:194 Sorenson.dialog:214
+#: Sorenson.dialog:223
+msgid "COBOL Programmer -- Madly Enraged"
+msgstr ""
+
 #: Sorenson.dialog:179
 msgid ""
-"The great destroyer of evil, the purger of all things foul, the "
-"friend of mankind, the third duke of Linarius, esquire, Doctorate of "
-"Computer Sciences, high priest of Kernelius, the ray of light in the "
-"darkness, the bender of spoons, His Great Magnificence, Tux."
+"The great destroyer of evil, the purger of all things foul, the friend of "
+"mankind, the third duke of Linarius, esquire, Doctorate of Computer "
+"Sciences, high priest of Kernelius, the ray of light in the darkness, the "
+"bender of spoons, His Great Magnificence, Tux."
 msgstr ""
 
 #: Sorenson.dialog:181
@@ -289,58 +290,53 @@ msgstr ""
 msgid "N0! S7up1d illi73r4t3 p3n9u1n! D13!!"
 msgstr ""
 
-#: Sorenson.dialog:195
-msgid "Sorenson -- Crazy"
-msgstr ""
-
-#: Sorenson.dialog:200
+#: Sorenson.dialog:199
 msgid "Huh? I d0n'7 f33l g00d."
 msgstr ""
 
-#: Sorenson.dialog:202
+#: Sorenson.dialog:201
 msgid "Yes! I am free! At last I am free!"
 msgstr ""
 
-#: Sorenson.dialog:202
+#: Sorenson.dialog:201
 msgid "Yes! I am free!"
 msgstr ""
 
-#: Sorenson.dialog:202
+#: Sorenson.dialog:201
 msgid "Yes! I am free at last!"
 msgstr ""
 
-#: Sorenson.dialog:203
+#: Sorenson.dialog:202
 msgid "W417... 1 f331... H0rr1b13..."
 msgstr ""
 
-#: Sorenson.dialog:204
+#: Sorenson.dialog:203
 msgid "Yes, fool! You have freed me! I can finally die! Goodbye idiot!"
 msgstr ""
 
-#: Sorenson.dialog:211
+#: Sorenson.dialog:210
 msgid ""
-"In blood? Yuck. I am not going to do this, blood is too messy for a "
-"binding legal contract. Forget about it."
+"In blood? Yuck. I am not going to do this, blood is too messy for a binding "
+"legal contract. Forget about it."
 msgstr ""
 
-#: Sorenson.dialog:213
+#: Sorenson.dialog:212
 msgid "N00oo00oo0! T1m3 to d1e, m0rtal foo1!"
 msgstr ""
 
-#: Sorenson.dialog:220
+#: Sorenson.dialog:219
 msgid ""
-"There is no way I will sign something without reading it. Forget "
-"about it."
+"There is no way I will sign something without reading it. Forget about it."
 msgstr ""
 
-#: Sorenson.dialog:222
+#: Sorenson.dialog:221
 msgid "N00oo00oo0! T1m3 to d1e, m0rta1 foo1!"
 msgstr ""
 
-#: Sorenson.dialog:229
+#: Sorenson.dialog:228
 msgid "I really must be going now. Goodbye."
 msgstr ""
 
-#: Sorenson.dialog:231
+#: Sorenson.dialog:230
 msgid "Please come back later, Linarian. We must talk again."
 msgstr ""

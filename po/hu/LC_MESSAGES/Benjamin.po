@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-05 14:05+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Benjamin.dialog:35
@@ -37,8 +37,12 @@ msgid "Hello!"
 msgstr "Hello!"
 
 #: Benjamin.dialog:44
-msgid "Ah, so you are the new member. Welcome. My name is Benjamin, and I take care of our ranged weaponry here in the citadel."
-msgstr "Ó, te lehetsz az új csapattag. Isten hozott. A nevem Benjemin, és én vigyázok a lőfegyverekre itt, a fellegvárban."
+msgid ""
+"Ah, so you are the new member. Welcome. My name is Benjamin, and I take care "
+"of our ranged weaponry here in the citadel."
+msgstr ""
+"Ó, te lehetsz az új csapattag. Isten hozott. A nevem Benjemin, és én "
+"vigyázok a lőfegyverekre itt, a fellegvárban."
 
 #: Benjamin.dialog:45
 msgid "Benjamin -- Gunsmith"
@@ -49,20 +53,34 @@ msgid "What are you doing here alone? "
 msgstr "Mit csinálsz itt egyedül?"
 
 #: Benjamin.dialog:52
-msgid "I'm experimenting with new designs. I want to redesign the laser pistol."
+msgid ""
+"I'm experimenting with new designs. I want to redesign the laser pistol."
 msgstr "Új tervekkel kísérletezem. A lézerpisztolyt szeretném átépíteni."
 
 #: Benjamin.dialog:53
-msgid "A lot of energy is wasted somewhere during firing, and I have no idea where. If I could find the source of the problem, the gun would become much more powerful."
-msgstr "Rengeteg energia veszik kárba tüzelés közben, de fogalmam sincs, hová lesz. Ha megtalálom a probléma forrását, a fegyver sokkal erősebb lesz."
+msgid ""
+"A lot of energy is wasted somewhere during firing, and I have no idea where. "
+"If I could find the source of the problem, the gun would become much more "
+"powerful."
+msgstr ""
+"Rengeteg energia veszik kárba tüzelés közben, de fogalmam sincs, hová lesz. "
+"Ha megtalálom a probléma forrását, a fegyver sokkal erősebb lesz."
 
 #: Benjamin.dialog:54
-msgid "So far all my prototypes have failed. Mostly overheating and jamming. Sometimes I wonder if I am doing something wrong."
-msgstr "Már régóta minden prototipusom befuccsol. Jellemzően túlmelegszenek, és elakadnak. Azt hiszem, valamit rosszul csinálok."
+msgid ""
+"So far all my prototypes have failed. Mostly overheating and jamming. "
+"Sometimes I wonder if I am doing something wrong."
+msgstr ""
+"Már régóta minden prototipusom befuccsol. Jellemzően túlmelegszenek, és "
+"elakadnak. Azt hiszem, valamit rosszul csinálok."
 
 #: Benjamin.dialog:59
-msgid "Did you think about somehow gathering the excess heat and using it to make the beam stronger?"
-msgstr "Gondoltál arra, hogy valahogyan összegyűjtsd a kiáramló hőt és a sugár erősítésére használd fel?"
+msgid ""
+"Did you think about somehow gathering the excess heat and using it to make "
+"the beam stronger?"
+msgstr ""
+"Gondoltál arra, hogy valahogyan összegyűjtsd a kiáramló hőt és a sugár "
+"erősítésére használd fel?"
 
 #: Benjamin.dialog:61
 msgid "Hmm... There might be something in that idea. I will think about it."
@@ -77,8 +95,12 @@ msgid "Hmm... I will think about it. Hmm..."
 msgstr "Hmm... Át fogom gondolni. Hmm..."
 
 #: Benjamin.dialog:75
-msgid "You know, laser pistols are not a very promising weapon. I think you should work on something different."
-msgstr "Tudod, a lézerpisztolyok nem túl ígéretes fegyverek. Azt hiszem, valami egészen másban kellene gondolkoznod."
+msgid ""
+"You know, laser pistols are not a very promising weapon. I think you should "
+"work on something different."
+msgstr ""
+"Tudod, a lézerpisztolyok nem túl ígéretes fegyverek. Azt hiszem, valami "
+"egészen másban kellene gondolkoznod."
 
 #: Benjamin.dialog:77
 msgid "Yeah, maybe you are right. I will think about it."
@@ -89,22 +111,27 @@ msgid "Can you teach me how to properly use rifles and guns?"
 msgstr "Meg tudsz tanítani a karabélyok és puskák helyes használatára?"
 
 #: Benjamin.dialog:87
-msgid "If anyone in this city knows more about guns than me, then my name's not Benjamin."
-msgstr "Ha ebben a városban valaki többet tud nálam a fegyverekről, ne legyen a nevem Benjamin."
+msgid ""
+"If anyone in this city knows more about guns than me, then my name's not "
+"Benjamin."
+msgstr ""
+"Ha ebben a városban valaki többet tud nálam a fegyverekről, ne legyen a "
+"nevem Benjamin."
 
 #: Benjamin.dialog:88
-msgid "Of course, I will need compensation for the ammunition spent in the training and for my time."
-msgstr "Természetesen, de valahogy ellentételezned kell a tréning alatt elhasznált lőszerért és az időmért is."
+msgid ""
+"Of course, I will need compensation for the ammunition spent in the training "
+"and for my time."
+msgstr ""
+"Természetesen, de valahogy ellentételezned kell a tréning alatt elhasznált "
+"lőszerért és az időmért is."
 
 #: Benjamin.dialog:89
 msgid "Say... A hundred circuits should be enough for a beginner lesson."
 msgstr "Nézzük csak... Száz cyberdollár elég lesz a kezdő leckére."
 
-#: Benjamin.dialog:90
-#: Benjamin.dialog:96
-#: Benjamin.dialog:101
-#: Benjamin.dialog:106
-#: Benjamin.dialog:111
+#: Benjamin.dialog:90 Benjamin.dialog:96 Benjamin.dialog:101
+#: Benjamin.dialog:106 Benjamin.dialog:111
 msgid "Interested?"
 msgstr "Érdekel?"
 
@@ -113,44 +140,69 @@ msgid "Oh, you are ready for some more training?"
 msgstr "Na, felkészültél a további tréningre?"
 
 #: Benjamin.dialog:94
-msgid "It will of course cost a bit more money as well as mental focus on your part."
-msgstr "Persze ez egy kicsit több pénzbe és koncentrációba fog kerülni a részedről"
+msgid ""
+"It will of course cost a bit more money as well as mental focus on your part."
+msgstr ""
+"Persze ez egy kicsit több pénzbe és koncentrációba fog kerülni a részedről"
 
 #: Benjamin.dialog:95
-msgid "It will take you two hundred circuits and double the effort on your part to become a true apprentice."
-msgstr "Kétszáz cyberdollárba és dupla erőfeszítésbe fog kerülni, hogy valódi újonccá válhass."
+msgid ""
+"It will take you two hundred circuits and double the effort on your part to "
+"become a true apprentice."
+msgstr ""
+"Kétszáz cyberdollárba és dupla erőfeszítésbe fog kerülni, hogy valódi "
+"újonccá válhass."
 
 #: Benjamin.dialog:99
 msgid "I see you have taken a liking to guns."
 msgstr "Látom, megkedvelted a fegyvereket."
 
 #: Benjamin.dialog:100
-msgid "But the next step will cost even more money and require the mental focus equaling all your previous training."
-msgstr "Ám a következő szint több pénzbe, és összpontosításba fog kerülni, mint az összes előző tréning együttvéve."
+msgid ""
+"But the next step will cost even more money and require the mental focus "
+"equaling all your previous training."
+msgstr ""
+"Ám a következő szint több pénzbe, és összpontosításba fog kerülni, mint az "
+"összes előző tréning együttvéve."
 
 #: Benjamin.dialog:104
 msgid "Oh, you want to become a real master with shooters?"
 msgstr "Ó, a fegyverek igazi mestere szeretnél lenni?"
 
 #: Benjamin.dialog:105
-msgid "It will cost you 400 valuable circuits and an awful lot of mental focusing on the task."
-msgstr "400 cyberdollárba és hihetetlenül magas fokú koncentrációba fog kerülni."
+msgid ""
+"It will cost you 400 valuable circuits and an awful lot of mental focusing "
+"on the task."
+msgstr ""
+"400 cyberdollárba és hihetetlenül magas fokú koncentrációba fog kerülni."
 
 #: Benjamin.dialog:109
-msgid "To become a true god of firearms, just like me, you need ridiculous amounts of training."
-msgstr "Hogy a tűzfegyverek igazi istenévé válj, mint én, rettentő mennyiségű gyakorlásra lesz szükséged."
+msgid ""
+"To become a true god of firearms, just like me, you need ridiculous amounts "
+"of training."
+msgstr ""
+"Hogy a tűzfegyverek igazi istenévé válj, mint én, rettentő mennyiségű "
+"gyakorlásra lesz szükséged."
 
 #: Benjamin.dialog:110
-msgid "It will of course cost a fair bit of cold, hard circuits as well. 500, to be precise."
-msgstr "Természetesen sok akaratba, és kemény cyberdollárba fog kerülni. Ötszázba, egészen pontosan."
+msgid ""
+"It will of course cost a fair bit of cold, hard circuits as well. 500, to be "
+"precise."
+msgstr ""
+"Természetesen sok akaratba, és kemény cyberdollárba fog kerülni. Ötszázba, "
+"egészen pontosan."
 
 #: Benjamin.dialog:114
 msgid "Sorry, there is no human alive that could give you further training."
 msgstr "Sajnálom, de nincs élő ember, aki tovább tudna tanítani."
 
 #: Benjamin.dialog:120
-msgid "Sign up for a course in improving my ranged weapons skill. (cost 100 circuits, 3 training points)"
-msgstr "Jelentkezem a tréningre, hogy növeljem a lőfegyver kezelési képességemet. (100 cyberdollárba és 3 tréning pontba kerül)"
+msgid ""
+"Sign up for a course in improving my ranged weapons skill. (cost 100 "
+"circuits, 3 training points)"
+msgstr ""
+"Jelentkezem a tréningre, hogy növeljem a lőfegyver kezelési képességemet. "
+"(100 cyberdollárba és 3 tréning pontba kerül)"
 
 #: Benjamin.dialog:123
 msgid "Yes, I'd like some basic training in ranged combat."
@@ -161,24 +213,40 @@ msgid "Suits me well, I'm not busy at the moment anyway."
 msgstr "Ráérek, most nem vagyok túl elfoglalt."
 
 #: Benjamin.dialog:127
-msgid "Now the most important thing is that you turn off the auto-aim on your weapon, like this."
-msgstr "Most a legfontosabb dolog, hogy kapcsold ki az autocélzást a fegyvereden. Így ni."
+msgid ""
+"Now the most important thing is that you turn off the auto-aim on your "
+"weapon, like this."
+msgstr ""
+"Most a legfontosabb dolog, hogy kapcsold ki az autocélzást a fegyvereden. "
+"Így ni."
 
 #: Benjamin.dialog:128
-msgid "Otherwise your weapon might 'help' you and shoot somewhere you didn't intend to fire."
-msgstr "Máskülönben a fegyvered 'segíthet' neked, és arra is tüzelhet, amire nem szeretnéd."
+msgid ""
+"Otherwise your weapon might 'help' you and shoot somewhere you didn't intend "
+"to fire."
+msgstr ""
+"Máskülönben a fegyvered 'segíthet' neked, és arra is tüzelhet, amire nem "
+"szeretnéd."
 
 #: Benjamin.dialog:129
 msgid "Next important thing is to remember how to properly fire a shot."
-msgstr "A következő fontos dolog, hogy az emlékezetedbe vésd, miként tüzelj sorozatot."
+msgstr ""
+"A következő fontos dolog, hogy az emlékezetedbe vésd, miként tüzelj "
+"sorozatot."
 
 #: Benjamin.dialog:130
-msgid "Watch your target closely. Pretend you're moving with it. Aim for the head."
-msgstr "Tartsd szemmel a célpontot. Tégy úgy, minha együtt mozognál vele. Célozz a fejére."
+msgid ""
+"Watch your target closely. Pretend you're moving with it. Aim for the head."
+msgstr ""
+"Tartsd szemmel a célpontot. Tégy úgy, minha együtt mozognál vele. Célozz a "
+"fejére."
 
 #: Benjamin.dialog:131
-msgid "When you feel completely in sync with your target, then you pull the trigger."
-msgstr "Mikor úgy érzed, hogy teljes szinkronban vagy a célponttal, akkor süsd el a fegyvert."
+msgid ""
+"When you feel completely in sync with your target, then you pull the trigger."
+msgstr ""
+"Mikor úgy érzed, hogy teljes szinkronban vagy a célponttal, akkor süsd el a "
+"fegyvert."
 
 #: Benjamin.dialog:132
 msgid "Good. You are learning fast. Try it a few more times."
@@ -190,7 +258,9 @@ msgstr "Rendben. Azt hiszem, mára ennyi elég lesz."
 
 #: Benjamin.dialog:141
 msgid "Yes I want even more training. (cost 200 circuits, 6 training points)"
-msgstr "Igen, szeretnék még többet gyakorolni. (200 cyberdollárba és 6 tréning ponba kerül)"
+msgstr ""
+"Igen, szeretnék még többet gyakorolni. (200 cyberdollárba és 6 tréning ponba "
+"kerül)"
 
 #: Benjamin.dialog:144
 msgid "So lets start the second course?"
@@ -205,16 +275,23 @@ msgid "You must remain calm whilst shooting."
 msgstr "Tüzelés közben maradj nyugodt."
 
 #: Benjamin.dialog:149
-msgid "Try breathing out as you pull the trigger and squeeze it gently rather than jerking it."
-msgstr "Próbálj kilélegezni, miközben elsütöd a fegyvert, és próbáld meg húzni a ravaszt, ne rántani."
+msgid ""
+"Try breathing out as you pull the trigger and squeeze it gently rather than "
+"jerking it."
+msgstr ""
+"Próbálj kilélegezni, miközben elsütöd a fegyvert, és próbáld meg húzni a "
+"ravaszt, ne rántani."
 
 #: Benjamin.dialog:150
-msgid "That's right. You will find yourself hitting the target much more often now."
+msgid ""
+"That's right. You will find yourself hitting the target much more often now."
 msgstr "Ez az. Most már sokkal gyakrabban fogod eltalálni a célt."
 
 #: Benjamin.dialog:158
 msgid "Yes I'm eager for more training. (cost 300 circuits, 9 training points)"
-msgstr "Igen, éhezem a további gyakorlást. (300 cyberdollárba és 9 tréning pontba kerül)"
+msgstr ""
+"Igen, éhezem a további gyakorlást. (300 cyberdollárba és 9 tréning pontba "
+"kerül)"
 
 #: Benjamin.dialog:161
 msgid "So can you help me get even better with guns?"
@@ -229,16 +306,25 @@ msgid "Next lesson is hitting a moving target."
 msgstr "A következő lecke a mozgó célpont eltalálása."
 
 #: Benjamin.dialog:166
-msgid "It's pretty simple really, just watch to see where it is going and then aim slightly ahead in case you use a non-laser gun."
-msgstr "Igazán egyszerű, csak nézd meg, hová megy, és célozz picit elé, ha nem lézer fegyvert használsz."
+msgid ""
+"It's pretty simple really, just watch to see where it is going and then aim "
+"slightly ahead in case you use a non-laser gun."
+msgstr ""
+"Igazán egyszerű, csak nézd meg, hová megy, és célozz picit elé, ha nem lézer "
+"fegyvert használsz."
 
 #: Benjamin.dialog:167
-msgid "It's easy when you know how, especially with bots, because they tend to move in straight lines, not bob and weave like people."
-msgstr "Könnyű, ha tudod hogyan kell, különösképpen a botokkal, mert egyenes vonalban mozognak, nem ugrálnak kiszámíthatatlanul, mint az emberek."
+msgid ""
+"It's easy when you know how, especially with bots, because they tend to move "
+"in straight lines, not bob and weave like people."
+msgstr ""
+"Könnyű, ha tudod hogyan kell, különösképpen a botokkal, mert egyenes "
+"vonalban mozognak, nem ugrálnak kiszámíthatatlanul, mint az emberek."
 
 #: Benjamin.dialog:168
 msgid "I think that is enough training for now. Next time, firing on the move!"
-msgstr "Azt hiszem, elég lesz mára. A következő lecke a mozgás közbeni tüzelés lesz!"
+msgstr ""
+"Azt hiszem, elég lesz mára. A következő lecke a mozgás közbeni tüzelés lesz!"
 
 #: Benjamin.dialog:176
 msgid "Yes I accept. (cost 400 circuits, 12 training points)"
@@ -249,32 +335,49 @@ msgid "I'd like to learn how to be a master shot."
 msgstr "Szeretném megtanulni, hogyan váljak mesterlövésszé."
 
 #: Benjamin.dialog:182
-msgid "Firing on the move is difficult, but can make survival much more likely!"
+msgid ""
+"Firing on the move is difficult, but can make survival much more likely!"
 msgstr "A mozgás közbeni tüzelés bonyolult, de a túlélést is jobban szolgálja!"
 
 #: Benjamin.dialog:183
-msgid "The secret is to keep a stable platform and hold the weapon loosely so that it doesn't jar."
-msgstr "Az a titka, hogy vegyél fel stabil helyzetet, és tartsd lazán a fegyveredet, mert az így nem rúg vissza."
+msgid ""
+"The secret is to keep a stable platform and hold the weapon loosely so that "
+"it doesn't jar."
+msgstr ""
+"Az a titka, hogy vegyél fel stabil helyzetet, és tartsd lazán a fegyveredet, "
+"mert az így nem rúg vissza."
 
 #: Benjamin.dialog:184
-msgid "Oh yes, and remember not to trip, because you should be looking where you are firing, not where you are stepping."
-msgstr "Ó, igen, vigyázz, hogy ne ess el, mert oda kell nézned, ahová tüzelsz, és nem oda, ahová lépsz."
+msgid ""
+"Oh yes, and remember not to trip, because you should be looking where you "
+"are firing, not where you are stepping."
+msgstr ""
+"Ó, igen, vigyázz, hogy ne ess el, mert oda kell nézned, ahová tüzelsz, és "
+"nem oda, ahová lépsz."
 
 #: Benjamin.dialog:185
 msgid "Keep practicing and you will get the hang of it eventually."
 msgstr "Gyakorold sokat, és kiismered minden csínját-bínját."
 
 #: Benjamin.dialog:193
-msgid "Yes I want to become a god in ranged combat. (cost 500 circuits, 15 training points)"
-msgstr "Igen, a fegyverhasználat istene szeretnék lenni. (500 cyberdollárba és 15 tréning pont az ára)"
+msgid ""
+"Yes I want to become a god in ranged combat. (cost 500 circuits, 15 training "
+"points)"
+msgstr ""
+"Igen, a fegyverhasználat istene szeretnék lenni. (500 cyberdollárba és 15 "
+"tréning pont az ára)"
 
 #: Benjamin.dialog:196
 msgid "Teach me how to be at one with my weapon."
 msgstr "Taníts meg, hogyan váljak eggyé a fegyveremmel."
 
 #: Benjamin.dialog:199
-msgid "The ultimate secret to becoming a god in ranged combat is something you should value."
-msgstr "A legnagyobb titok, hogy a fegyverek istenévé legyél, olyan dolog, amit értékelni fogsz."
+msgid ""
+"The ultimate secret to becoming a god in ranged combat is something you "
+"should value."
+msgstr ""
+"A legnagyobb titok, hogy a fegyverek istenévé legyél, olyan dolog, amit "
+"értékelni fogsz."
 
 #: Benjamin.dialog:200
 msgid "I don't tell everyone this, so keep it to yourself, alright?"
@@ -305,12 +408,19 @@ msgid "Please defray the costs of the ammo used in training."
 msgstr "Kérlek térítsd meg a gyakorlás alatt elhasznált lőszet."
 
 #: Benjamin.dialog:218
-msgid "I repeat, you need to bring enough to pay for the practice targets you destroy and for my time."
-msgstr "Ismétlem, legyen elég pénzed, hogy kifizesd a szétlőtt céltáblákat és az időmet."
+msgid ""
+"I repeat, you need to bring enough to pay for the practice targets you "
+"destroy and for my time."
+msgstr ""
+"Ismétlem, legyen elég pénzed, hogy kifizesd a szétlőtt céltáblákat és az "
+"időmet."
 
 #: Benjamin.dialog:219
-msgid "You don't have enough money! I cannot afford to just give away training for free."
-msgstr "Nincs elég pénzed! Nem engedhetem meg magamnak, hogy ingyen tanítsalak."
+msgid ""
+"You don't have enough money! I cannot afford to just give away training for "
+"free."
+msgstr ""
+"Nincs elég pénzed! Nem engedhetem meg magamnak, hogy ingyen tanítsalak."
 
 #: Benjamin.dialog:220
 msgid "Come back when you have enough circuits."
@@ -333,23 +443,35 @@ msgid "Come back after some more practice in the field."
 msgstr "Gyere vissza némi gyakorlás után."
 
 #: Benjamin.dialog:232
-msgid "Only a well prepared mind is open to the ultimate in ranged combat secrets."
-msgstr "Csak egy jól felkészült lélek képes a távolsági fegyverhasználat rejtelmeit befogadni."
+msgid ""
+"Only a well prepared mind is open to the ultimate in ranged combat secrets."
+msgstr ""
+"Csak egy jól felkészült lélek képes a távolsági fegyverhasználat rejtelmeit "
+"befogadni."
 
 #: Benjamin.dialog:233
-msgid "Waving those circuits in front of me when you are too unfocused to train won't help. I can take your money, but you won't learn anything."
-msgstr "Nem segít ha az orrom előtt pénzt lobogtatsz, mikor felkészületlen vagy. Elvehetem a pénzed, de semmit sem fogsz megtanulni."
+msgid ""
+"Waving those circuits in front of me when you are too unfocused to train "
+"won't help. I can take your money, but you won't learn anything."
+msgstr ""
+"Nem segít ha az orrom előtt pénzt lobogtatsz, mikor felkészületlen vagy. "
+"Elvehetem a pénzed, de semmit sem fogsz megtanulni."
 
 #: Benjamin.dialog:234
-msgid "But I don't think you have enough experience for this. Come back here after you see some more action."
-msgstr "De nem hiszem, hogy elég tapasztalatod van. Gyere vissza, ha már elég akcióban volt részed."
+msgid ""
+"But I don't think you have enough experience for this. Come back here after "
+"you see some more action."
+msgstr ""
+"De nem hiszem, hogy elég tapasztalatod van. Gyere vissza, ha már elég "
+"akcióban volt részed."
 
 #: Benjamin.dialog:235
 msgid "Then come back when you have a real will to learn."
 msgstr "Akkor gyere, ha igazán tanulni akarsz."
 
 #: Benjamin.dialog:236
-msgid "You don't have enough experience. Come here after you see some more action."
+msgid ""
+"You don't have enough experience. Come here after you see some more action."
 msgstr "Nincs elég tapasztalatod. Gyere vissza, ha már több akciót láttál."
 
 #: Benjamin.dialog:240
@@ -357,12 +479,21 @@ msgid "What weapons are available to the members of the Red Guard?"
 msgstr "Milyen fegyverek elérhetők a Vörös Örség tagjainak?"
 
 #: Benjamin.dialog:242
-msgid "Well, for novice members there are simple laser and plasma pistols. They have their share of problems, but they do the trick nine times out of ten."
-msgstr "Hát, az újoncoknak egyszerű lézer és plazma pisztolyok. Megvannak a saját hibáik, de tízből kilencszer sikerrel jársz velük."
+msgid ""
+"Well, for novice members there are simple laser and plasma pistols. They "
+"have their share of problems, but they do the trick nine times out of ten."
+msgstr ""
+"Hát, az újoncoknak egyszerű lézer és plazma pisztolyok. Megvannak a saját "
+"hibáik, de tízből kilencszer sikerrel jársz velük."
 
 #: Benjamin.dialog:243
-msgid "For bigger bots we have bigger guns. The exterminator is the best weapon that we have. We hand them out only in case of an emergency or to highly experienced people."
-msgstr "Nagyobb botok ellen nagyobb fegyvereink vannak. Az exterminátor a legjobb fegyverünk. Csak vészhelyzet esetén, és csak tapasztalt embereknek adjuk oda."
+msgid ""
+"For bigger bots we have bigger guns. The exterminator is the best weapon "
+"that we have. We hand them out only in case of an emergency or to highly "
+"experienced people."
+msgstr ""
+"Nagyobb botok ellen nagyobb fegyvereink vannak. Az exterminátor a legjobb "
+"fegyverünk. Csak vészhelyzet esetén, és csak tapasztalt embereknek adjuk oda."
 
 #: Benjamin.dialog:248
 msgid "Plasma sounds deadly."
@@ -373,63 +504,118 @@ msgid "It is!"
 msgstr "Az is!"
 
 #: Benjamin.dialog:251
-msgid "While many people find the ammunition canisters too big, and the bullets too slow, they cannot deny that once plasma hits, it leaves big holes."
-msgstr "Míg a legtöbb ember túl nagynak találja a plazmatárat, a lövedéket túl lassúnak, azzal egyetértenek, hogy ha a plazma talál, nagy lyukat üt."
+msgid ""
+"While many people find the ammunition canisters too big, and the bullets too "
+"slow, they cannot deny that once plasma hits, it leaves big holes."
+msgstr ""
+"Míg a legtöbb ember túl nagynak találja a plazmatárat, a lövedéket túl "
+"lassúnak, azzal egyetértenek, hogy ha a plazma talál, nagy lyukat üt."
 
 #: Benjamin.dialog:252
-msgid "Plasma is matter, ionised gas to be exact. It also happens to be hot enough to make steel boil."
-msgstr "A plazma anyag, ionizált gáz egészen pontosan. Elég forró ahhoz, hogy felforralja az acélt."
+msgid ""
+"Plasma is matter, ionised gas to be exact. It also happens to be hot enough "
+"to make steel boil."
+msgstr ""
+"A plazma anyag, ionizált gáz egészen pontosan. Elég forró ahhoz, hogy "
+"felforralja az acélt."
 
 #: Benjamin.dialog:253
-msgid "Most of the new recruits hate how hard to aim this weapon is. If bullets were animals, then plasma would be a well fed cow. By the time it arrives at the target, the bot is already a mile away."
-msgstr "A legtöbb újonc utálja,hogy milyen nehéz ezzel a fegyverrel célozni. Ha a lövedék állat lenne, a plazma egy jóltáplált tehénhez hasonlítana. Mire eléri a célt, a bot már messze jár."
+msgid ""
+"Most of the new recruits hate how hard to aim this weapon is. If bullets "
+"were animals, then plasma would be a well fed cow. By the time it arrives at "
+"the target, the bot is already a mile away."
+msgstr ""
+"A legtöbb újonc utálja,hogy milyen nehéz ezzel a fegyverrel célozni. Ha a "
+"lövedék állat lenne, a plazma egy jóltáplált tehénhez hasonlítana. Mire "
+"eléri a célt, a bot már messze jár."
 
 #: Benjamin.dialog:254
-msgid "If you are going to use plasma weapons you need to remember one thing: Don't let the weapon get damaged."
-msgstr "Ha plazmafegyvert fogsz használni, egy dologra mindíg emlékezned kell: Ne hagyd, hogy a fegyvered megsérüljön."
+msgid ""
+"If you are going to use plasma weapons you need to remember one thing: Don't "
+"let the weapon get damaged."
+msgstr ""
+"Ha plazmafegyvert fogsz használni, egy dologra mindíg emlékezned kell: Ne "
+"hagyd, hogy a fegyvered megsérüljön."
 
 #: Benjamin.dialog:255
-msgid "Even though our armor is designed to resist high temperatures, once the plasma containment module goes, you will die, along with anything within ten meters of you."
-msgstr "Bár a páncélunkat úgy tervezték, hogy ellenálljon a magas hőnek, ha a plazmatár eldurran, meghalsz minden mással együtt, ami tíz méter távolságon belül van."
+msgid ""
+"Even though our armor is designed to resist high temperatures, once the "
+"plasma containment module goes, you will die, along with anything within ten "
+"meters of you."
+msgstr ""
+"Bár a páncélunkat úgy tervezték, hogy ellenálljon a magas hőnek, ha a "
+"plazmatár eldurran, meghalsz minden mással együtt, ami tíz méter távolságon "
+"belül van."
 
 #: Benjamin.dialog:256
-msgid "Because of all those drawbacks plasma weapons are not too popular. Quite a pity, they have great potential."
-msgstr "Hátrányai miatt a plazmafegyver nem túl népszerű. Elég nagy baj, mert elég hatékony lenne."
+msgid ""
+"Because of all those drawbacks plasma weapons are not too popular. Quite a "
+"pity, they have great potential."
+msgstr ""
+"Hátrányai miatt a plazmafegyver nem túl népszerű. Elég nagy baj, mert elég "
+"hatékony lenne."
 
 #: Benjamin.dialog:261
 msgid "Tell me more about laser weapons."
 msgstr "Mondj többet a lézer fegyverekről."
 
 #: Benjamin.dialog:263
-msgid "Laser is an acronym for Light Amplification by Stimulated Emission of Radiation."
-msgstr "A lézer egy mozaikszó, amely az angol Light Amplification by Stimulated Emission of Radiation definícióból ered."
+msgid ""
+"Laser is an acronym for Light Amplification by Stimulated Emission of "
+"Radiation."
+msgstr ""
+"A lézer egy mozaikszó, amely az angol Light Amplification by Stimulated "
+"Emission of Radiation definícióból ered."
 
 #: Benjamin.dialog:264
-msgid "Laser is the technology employed in most of our weaponry. It uses a focused light beam to cause damage."
-msgstr "A legtöbb fegyverünk a lézertechnológiát alkalmazza. Egy fókuszált fénynyaláb alkalmazásával okoz sérülést."
+msgid ""
+"Laser is the technology employed in most of our weaponry. It uses a focused "
+"light beam to cause damage."
+msgstr ""
+"A legtöbb fegyverünk a lézertechnológiát alkalmazza. Egy fókuszált "
+"fénynyaláb alkalmazásával okoz sérülést."
 
 #: Benjamin.dialog:265
-msgid "Because the beam is composed out of light, it travels REALLY fast, at the speed of lights so to say. Also it is not affected by gravity or wind, which makes aiming easier."
-msgstr "Mivel a sugár fényből áll, NAGYON gyorsan célba ér, mondhatnám, hogy fénysebességgel. Nem befolyásolja a gravitáció, vagy a szél, ezáltal a célzás is könnyebbé válik."
+msgid ""
+"Because the beam is composed out of light, it travels REALLY fast, at the "
+"speed of lights so to say. Also it is not affected by gravity or wind, which "
+"makes aiming easier."
+msgstr ""
+"Mivel a sugár fényből áll, NAGYON gyorsan célba ér, mondhatnám, hogy "
+"fénysebességgel. Nem befolyásolja a gravitáció, vagy a szél, ezáltal a "
+"célzás is könnyebbé válik."
 
 #: Benjamin.dialog:266
-msgid "However, other than being a good training tool for newbies, that design just fails to deliver."
-msgstr "Mindazonáltal azon kívül, hogy jó gyakorlóeszköz az újoncoknak, a tervezés ez esetben kissé alulmúlja önmagát."
+msgid ""
+"However, other than being a good training tool for newbies, that design just "
+"fails to deliver."
+msgstr ""
+"Mindazonáltal azon kívül, hogy jó gyakorlóeszköz az újoncoknak, a tervezés "
+"ez esetben kissé alulmúlja önmagát."
 
 #: Benjamin.dialog:267
-msgid "The shots tend to be underpowered, the gun takes a long while to power up for a shot and can overheat during intense combat."
-msgstr "A lövések erőtlenek, a fegyvernek sokáig tart, míg feltöltődik a lövések között, és hajlamos túlmelegedni a csata hevében."
+msgid ""
+"The shots tend to be underpowered, the gun takes a long while to power up "
+"for a shot and can overheat during intense combat."
+msgstr ""
+"A lövések erőtlenek, a fegyvernek sokáig tart, míg feltöltődik a lövések "
+"között, és hajlamos túlmelegedni a csata hevében."
 
 #: Benjamin.dialog:268
-msgid "This is why I am trying to improve it, but so far I have had no success. I just feel like giving up."
-msgstr "Éppen ezért próbálom fejavítani, de régóta nem jártam sikerrel. Úgy érzem, feladom."
+msgid ""
+"This is why I am trying to improve it, but so far I have had no success. I "
+"just feel like giving up."
+msgstr ""
+"Éppen ezért próbálom fejavítani, de régóta nem jártam sikerrel. Úgy érzem, "
+"feladom."
 
 #: Benjamin.dialog:273
 msgid "I am curious about the exterminator."
 msgstr "Kíváncsi vagyok az exterminátorra."
 
 #: Benjamin.dialog:275
-msgid "Sorry, but that is classified and confidential. I have said too much already."
+msgid ""
+"Sorry, but that is classified and confidential. I have said too much already."
 msgstr "Sajnálom, de az minősített információ. Már így is túl sokat mondtam."
 
 #: Benjamin.dialog:280
@@ -453,20 +639,32 @@ msgid "How many exterminators does the Red Guard have?"
 msgstr "Hány darab exterminátora van a Vörös Őrségnek?"
 
 #: Benjamin.dialog:292
-msgid "It might come as a surprise to you, but we don't have many. A bit over twenty, last time I checked."
-msgstr "Talán meglepő lesz számodra, de nem túl sok. Picit több, mint húsz, az utolsó leltár szerint."
+msgid ""
+"It might come as a surprise to you, but we don't have many. A bit over "
+"twenty, last time I checked."
+msgstr ""
+"Talán meglepő lesz számodra, de nem túl sok. Picit több, mint húsz, az "
+"utolsó leltár szerint."
 
 #: Benjamin.dialog:293
-msgid "However, as you can clearly see, it's more than enough to keep all of the damn bots away."
-msgstr "Mindazonáltal, ahogy te is tisztán láthatod, több, mint elég, hogy az átkozott botokat távol tartsa."
+msgid ""
+"However, as you can clearly see, it's more than enough to keep all of the "
+"damn bots away."
+msgstr ""
+"Mindazonáltal, ahogy te is tisztán láthatod, több, mint elég, hogy az "
+"átkozott botokat távol tartsa."
 
 #: Benjamin.dialog:301
 msgid "Well, I am a bit short on circuits right now..."
 msgstr "Hát, most egy kicsit pénzszűkében vagyok..."
 
 #: Benjamin.dialog:303
-msgid "Linarian, I thought we had an agreement. Fifty per infobit. My silence can be only broken with currency, so if you want to know, you have to pay."
-msgstr "Lináriai, azt hittem, megegyeztünk. Ötven per infobit. A hallgatásom csak pénzzel törhető meg, ha tudást akarsz, fizetned kell."
+msgid ""
+"Linarian, I thought we had an agreement. Fifty per infobit. My silence can "
+"be only broken with currency, so if you want to know, you have to pay."
+msgstr ""
+"Lináriai, azt hittem, megegyeztünk. Ötven per infobit. A hallgatásom csak "
+"pénzzel törhető meg, ha tudást akarsz, fizetned kell."
 
 #: Benjamin.dialog:304
 msgid "This conversation is now over."
@@ -481,36 +679,62 @@ msgid "All of them were a very lucky find."
 msgstr "Mindegyiket szerencsés véletlennek köszönhetően találtuk."
 
 #: Benjamin.dialog:313
-msgid "We found a crashed army truck on the Terminal Field. It had six crates inside it, each containing five exterminators."
-msgstr "Találtunk egy összetört katonai teherautót a Terminál Mezőn. Hat láda volt benne, mindegyikben öt exterminátor."
+msgid ""
+"We found a crashed army truck on the Terminal Field. It had six crates "
+"inside it, each containing five exterminators."
+msgstr ""
+"Találtunk egy összetört katonai teherautót a Terminál Mezőn. Hat láda volt "
+"benne, mindegyikben öt exterminátor."
 
 #: Benjamin.dialog:314
 msgid "We tried, but we could not replicate the technology, only bullets."
-msgstr "Megpróbáltuk, de nem tudtuk előállítani a fegyvert, csak lőszert hozzá."
+msgstr ""
+"Megpróbáltuk, de nem tudtuk előállítani a fegyvert, csak lőszert hozzá."
 
 #: Benjamin.dialog:315
-msgid "A few got damaged in battle, and we failed to recover five after a failed scout mission. We have twenty-two right now."
-msgstr "Néhány megsérült a csatában, és nem találtunk meg ötöt egy rosszul sikerült felderítő küldetés után. Most huszonkettő van."
+msgid ""
+"A few got damaged in battle, and we failed to recover five after a failed "
+"scout mission. We have twenty-two right now."
+msgstr ""
+"Néhány megsérült a csatában, és nem találtunk meg ötöt egy rosszul sikerült "
+"felderítő küldetés után. Most huszonkettő van."
 
 #: Benjamin.dialog:323
 msgid "What is the exterminator ammunition made from?"
 msgstr "Miből készül az exterminátor lőszere?"
 
 #: Benjamin.dialog:326
-msgid "We use radioactives, whatever type happens to be on hand. Mostly plutonium and uranium, but we are not too picky."
-msgstr "Rádioaktív izotópot használunk, amilyen éppen akad. Jellemzően plutóniumot és urániumot, de nem vagyunk válogatósak."
+msgid ""
+"We use radioactives, whatever type happens to be on hand. Mostly plutonium "
+"and uranium, but we are not too picky."
+msgstr ""
+"Rádioaktív izotópot használunk, amilyen éppen akad. Jellemzően plutóniumot "
+"és urániumot, de nem vagyunk válogatósak."
 
 #: Benjamin.dialog:327
-msgid "When we get low on ammo, we send in a chain gang of criminals and sluggards into the mine shaft K-17."
-msgstr "Mikor kevés a lőszer, sorban küldjük a bűnözőket és gonosztevőket a K-17 bányába."
+msgid ""
+"When we get low on ammo, we send in a chain gang of criminals and sluggards "
+"into the mine shaft K-17."
+msgstr ""
+"Mikor kevés a lőszer, sorban küldjük a bűnözőket és gonosztevőket a K-17 "
+"bányába."
 
 #: Benjamin.dialog:328
-msgid "That place was closed down ages ago because of high radiation levels. It's full of good ores from which we make bullets and power our nuclear reactors."
-msgstr "Az a hely hosszú ideig le volt zárva a magas sugárszint miatt. Tele van jóféle ásványokkal, amikből lőszert készítünk, és tápláljuk a nukleáris reaktorainkat."
+msgid ""
+"That place was closed down ages ago because of high radiation levels. It's "
+"full of good ores from which we make bullets and power our nuclear reactors."
+msgstr ""
+"Az a hely hosszú ideig le volt zárva a magas sugárszint miatt. Tele van "
+"jóféle ásványokkal, amikből lőszert készítünk, és tápláljuk a nukleáris "
+"reaktorainkat."
 
 #: Benjamin.dialog:329
-msgid "We get our fission materials, and they serve their sentence. It was one of the best ideas we have ever had."
-msgstr "Megkapjuk a hasadóanyagot, ők pedig letöltik a büntetésüket. Ez az egyik legjobb ötlet, amit valaha kitaláltunk."
+msgid ""
+"We get our fission materials, and they serve their sentence. It was one of "
+"the best ideas we have ever had."
+msgstr ""
+"Megkapjuk a hasadóanyagot, ők pedig letöltik a büntetésüket. Ez az egyik "
+"legjobb ötlet, amit valaha kitaláltunk."
 
 #: Benjamin.dialog:337
 msgid "Tell me who designed the exterminator."
@@ -541,24 +765,38 @@ msgid "I changed my mind."
 msgstr "Meggondoltam magam."
 
 #: Benjamin.dialog:350
-msgid "Keep your money Linarian. No amount of circuits can make me talk about that accursed day."
-msgstr "Tartsd meg a pénzed, Lináriai. Nincs pénz, amiért beszélnék arról az elátkozott napról."
+msgid ""
+"Keep your money Linarian. No amount of circuits can make me talk about that "
+"accursed day."
+msgstr ""
+"Tartsd meg a pénzed, Lináriai. Nincs pénz, amiért beszélnék arról az "
+"elátkozott napról."
 
 #: Benjamin.dialog:355
 msgid "What makes the exterminator so powerful?"
 msgstr "Mi teszi az exterminátort ilyen erőteljessé?"
 
 #: Benjamin.dialog:358
-msgid "This is a tricky question. Most of the force comes from the miniature nuclear explosions which happen once the bullet hits something."
-msgstr "Ez egy trükkös kérdés. A legtöbb erő a miniatűr nukleáris robbanásból származik, ami akkor következik be, amikor a lövedék eltalál valamit."
+msgid ""
+"This is a tricky question. Most of the force comes from the miniature "
+"nuclear explosions which happen once the bullet hits something."
+msgstr ""
+"Ez egy trükkös kérdés. A legtöbb erő a miniatűr nukleáris robbanásból "
+"származik, ami akkor következik be, amikor a lövedék eltalál valamit."
 
 #: Benjamin.dialog:359
-msgid "Of course the high velocity of the impact can cause tremendous devastation by itself."
-msgstr "Természetesen a lövedék nagy sebessége önmagában is nagy pusztítást okoz."
+msgid ""
+"Of course the high velocity of the impact can cause tremendous devastation "
+"by itself."
+msgstr ""
+"Természetesen a lövedék nagy sebessége önmagában is nagy pusztítást okoz."
 
 #: Benjamin.dialog:360
-msgid "We never bothered with doing any research on that topic. It works and that is enough for us."
-msgstr "Soha nem folytattunk kutatást a témában. Bőven elég nekünk, hogy működik."
+msgid ""
+"We never bothered with doing any research on that topic. It works and that "
+"is enough for us."
+msgstr ""
+"Soha nem folytattunk kutatást a témában. Bőven elég nekünk, hogy működik."
 
 #: Benjamin.dialog:368
 msgid "That is all I want to know."
@@ -575,4 +813,3 @@ msgstr "Akkor most megyek is."
 #: Benjamin.dialog:376
 msgid "See you later!"
 msgstr "Viszlát!"
-

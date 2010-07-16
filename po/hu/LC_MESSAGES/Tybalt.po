@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-07 13:49+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Tybalt.dialog:41
@@ -17,8 +17,12 @@ msgid "Hi! I'm new here."
 msgstr "Helló! Új vagyok errefelé."
 
 #: Tybalt.dialog:43
-msgid "Hello. I'm Tybalt. I'm guarding the town citadel gate. Only authorized personnel are permitted."
-msgstr "Üdv. Tybalt vagyok. Én őrzöm a fellegvár kapuját. Csak az engedéllyel rendelkezők léphetnek be."
+msgid ""
+"Hello. I'm Tybalt. I'm guarding the town citadel gate. Only authorized "
+"personnel are permitted."
+msgstr ""
+"Üdv. Tybalt vagyok. Én őrzöm a fellegvár kapuját. Csak az engedéllyel "
+"rendelkezők léphetnek be."
 
 #: Tybalt.dialog:44
 msgid "Tybalt -- Citadel Gate Guard"
@@ -29,7 +33,8 @@ msgid "Why is this gate locked most of the time?"
 msgstr "Miért tartjátok zárva ezt a kaput?"
 
 #: Tybalt.dialog:51
-msgid "It's locked so no one can sneak inside while I'm not looking. That's why."
+msgid ""
+"It's locked so no one can sneak inside while I'm not looking. That's why."
 msgstr "Mert így senki sem tud besurranni, mikor nem figyelek. Ezért."
 
 #: Tybalt.dialog:56
@@ -37,24 +42,37 @@ msgid "I want to get into the citadel."
 msgstr "Be akarok menni a fellegvárba."
 
 #: Tybalt.dialog:59
-msgid "Of course. Guard members are always authorized to enter the town citadel. The gate is open. Enjoy your stay."
-msgstr "Természetesen. Az Őrség tagjai bármikor bemehetnek a főhadiszállásra. A kapu nyitva előtted. Jó szórakozást."
+msgid ""
+"Of course. Guard members are always authorized to enter the town citadel. "
+"The gate is open. Enjoy your stay."
+msgstr ""
+"Természetesen. Az Őrség tagjai bármikor bemehetnek a főhadiszállásra. A kapu "
+"nyitva előtted. Jó szórakozást."
 
 #: Tybalt.dialog:62
-msgid "Sorry pal, but I don't think so. Only authorized personnel are permitted and that means members of the Red Guard."
-msgstr "Sajnálom, haver, de nem fog menni. Csak engedéllyel rendelkezők mehetnek be, ami a Vörös Őrséget jelenti."
+msgid ""
+"Sorry pal, but I don't think so. Only authorized personnel are permitted and "
+"that means members of the Red Guard."
+msgstr ""
+"Sajnálom, haver, de nem fog menni. Csak engedéllyel rendelkezők mehetnek be, "
+"ami a Vörös Őrséget jelenti."
 
 #: Tybalt.dialog:63
 msgid "Talk to Spencer if you have any business inside. I cannot let you pass."
 msgstr "Beszélj Spencerrel, ha dolgod lenne bent. Én nem engedlek be."
 
 #: Tybalt.dialog:71
-msgid "So why is it you keep the citadel locked? Is there anything secret in there?"
-msgstr "És miért tartjátok folyamatosan zárva a fellegvárat? Van ott valami titkotok?"
+msgid ""
+"So why is it you keep the citadel locked? Is there anything secret in there?"
+msgstr ""
+"És miért tartjátok folyamatosan zárva a fellegvárat? Van ott valami titkotok?"
 
 #: Tybalt.dialog:73
-msgid "We need to protect our equipment and documents, because lives depend on it."
-msgstr "Meg kell védenünk a felszerelésünket és a dokumentumainkat, mert az életünk múlik rajta."
+msgid ""
+"We need to protect our equipment and documents, because lives depend on it."
+msgstr ""
+"Meg kell védenünk a felszerelésünket és a dokumentumainkat, mert az életünk "
+"múlik rajta."
 
 #: Tybalt.dialog:74
 msgid "Also, we don't have to answer questions."
@@ -139,4 +157,3 @@ msgstr "Majd még találkozunk."
 #: Tybalt.dialog:124
 msgid "Good riddance."
 msgstr "Minden jót."
-

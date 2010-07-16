@@ -2,15 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-08 01:06+0100\n"
 "Last-Translator: Angelika Maria Piątkowska <piatkosia.apt@interia.pl>\n"
 "Language-Team: Freedroid team\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 "X-Poedit-Language: Polish\n"
 "X-Poedit-Country: Poland\n"
 "X-Poedit-SourceCharset: utf-8\n"
@@ -20,8 +21,12 @@ msgid "Who are you? "
 msgstr "Kim jesteś?"
 
 #: 614_cryo.dialog:36
-msgid "I am a 614 security bot, once one of the best-selling products of Nicholson, Inc.."
-msgstr "Jestem botem bezpieczeństwa 614, jeden z najlepiej sprzedających się produktów firmy Nicholson, Inc.."
+msgid ""
+"I am a 614 security bot, once one of the best-selling products of Nicholson, "
+"Inc.."
+msgstr ""
+"Jestem botem bezpieczeństwa 614, jeden z najlepiej sprzedających się "
+"produktów firmy Nicholson, Inc.."
 
 #: 614_cryo.dialog:37
 msgid "614 -- Cryo Lab Guard Bot"
@@ -36,12 +41,20 @@ msgid "Nicholson, Inc. produces security bots."
 msgstr "Nicholson, Inc. produkuje boty bezpieczeństwa."
 
 #: 614_cryo.dialog:45
-msgid "It was founded by Karl Nicholson, a former Kernel hacker who was not satisfied with the development of the GPL license."
-msgstr "Została założona przez  Karla Nicholsona, byłego Kernel hakera który nie był zadowolony z rozwoju licencji GPL."
+msgid ""
+"It was founded by Karl Nicholson, a former Kernel hacker who was not "
+"satisfied with the development of the GPL license."
+msgstr ""
+"Została założona przez  Karla Nicholsona, byłego Kernel hakera który nie był "
+"zadowolony z rozwoju licencji GPL."
 
 #: 614_cryo.dialog:46
-msgid "Nicholson decided to stick to one GPL version because he saw things getting worse."
-msgstr "Nicholson zdecydował się trzymać jednej wersji GPL ponieważ zobaczył że niektóre rzeczy idą w złym kierunku."
+msgid ""
+"Nicholson decided to stick to one GPL version because he saw things getting "
+"worse."
+msgstr ""
+"Nicholson zdecydował się trzymać jednej wersji GPL ponieważ zobaczył że "
+"niektóre rzeczy idą w złym kierunku."
 
 #: 614_cryo.dialog:47
 msgid "Others were warned, but nobody listened to Nicholsons announcements."
@@ -52,12 +65,20 @@ msgid "He built up a team and developed his own Kernel called 'Nkernel'."
 msgstr "Powołał więc team i rozwijał swój własny kernel nazywany \" Nkernel\"."
 
 #: 614_cryo.dialog:49
-msgid "The Nkernel development team grew fast and technicians started to produce their own droids optimized for the Nkernel."
-msgstr "Team zajmujący się  Nkernel rozwijał się szybko i technicy rozpoczęli produkować własne roboty optymizowane pod Nkernel."
+msgid ""
+"The Nkernel development team grew fast and technicians started to produce "
+"their own droids optimized for the Nkernel."
+msgstr ""
+"Team zajmujący się  Nkernel rozwijał się szybko i technicy rozpoczęli "
+"produkować własne roboty optymizowane pod Nkernel."
 
 #: 614_cryo.dialog:50
-msgid "The Team became a company which released their first security droid, the 610 Lovely."
-msgstr "Team stał się firmą która wydała pierwszego bota bezpieczeństwa, uroczego 610."
+msgid ""
+"The Team became a company which released their first security droid, the 610 "
+"Lovely."
+msgstr ""
+"Team stał się firmą która wydała pierwszego bota bezpieczeństwa, uroczego "
+"610."
 
 #: 614_cryo.dialog:51
 msgid "I am the 4th generation version of their security droid line."
@@ -102,11 +123,15 @@ msgstr "Co możesz mi powiedzieć o typie 614?"
 
 #: 614_cryo.dialog:74
 msgid "The official manual classifies the 614 as a high class security droid."
-msgstr "Oficjalny manual klasyfikuje 614 jako wysokiej klasy bota bezpieczeństwa."
+msgstr ""
+"Oficjalny manual klasyfikuje 614 jako wysokiej klasy bota bezpieczeństwa."
 
 #: 614_cryo.dialog:75
-msgid "It was mainly used within ships to protect certain areas from intruders."
-msgstr "Jest głównie używany wewnątrz statków do ochrony pewnych miejsc przed intruzami."
+msgid ""
+"It was mainly used within ships to protect certain areas from intruders."
+msgstr ""
+"Jest głównie używany wewnątrz statków do ochrony pewnych miejsc przed "
+"intruzami."
 
 #: 614_cryo.dialog:76
 msgid "It is considered an old but reliable device."
@@ -121,28 +146,50 @@ msgid "What are your orders?"
 msgstr "Co leży w twoim obowiązku??"
 
 #: 614_cryo.dialog:84
-msgid "Primary objective: Protect the living beings inside this complex from attacks by hostile bots."
-msgstr "Podstawowy cel: Ochrona życia wewnątrz tego kompleksu przed atakami przez wrogie boty."
+msgid ""
+"Primary objective: Protect the living beings inside this complex from "
+"attacks by hostile bots."
+msgstr ""
+"Podstawowy cel: Ochrona życia wewnątrz tego kompleksu przed atakami przez "
+"wrogie boty."
 
 #: 614_cryo.dialog:85
-msgid "Secondary objective: Protect facility by locking outer gates if Threat Degree Analysis: HIGH."
-msgstr "Drugorzędny cel: Funkcja ochronna przez pozamykanie bram jeżeli Analiza Stopnia Zagrożenia osiągnie wartość WYSOKA"
+msgid ""
+"Secondary objective: Protect facility by locking outer gates if Threat "
+"Degree Analysis: HIGH."
+msgstr ""
+"Drugorzędny cel: Funkcja ochronna przez pozamykanie bram jeżeli Analiza "
+"Stopnia Zagrożenia osiągnie wartość WYSOKA"
 
 #: 614_cryo.dialog:91
 msgid "Why are you not hostile as are all the other bots?"
 msgstr "Czemu nie jesteś tak wrogi jak wszystkie pozostałe boty?"
 
 #: 614_cryo.dialog:93
-msgid "I belong to a an older generation of bots, running a custom-made security guard operating system."
-msgstr "Należę do starszej generacji botów, działam pod kontrolą zamówionego przez gwardię bezpieczeństwa systemie operacyjnym."
+msgid ""
+"I belong to a an older generation of bots, running a custom-made security "
+"guard operating system."
+msgstr ""
+"Należę do starszej generacji botów, działam pod kontrolą zamówionego przez "
+"gwardię bezpieczeństwa systemie operacyjnym."
 
 #: 614_cryo.dialog:94
-msgid "None of the bots of this generation were affected by the proceedings that led to bots attacking, generally known as the Great Assault."
-msgstr "Żaden bot tej generacji nie był wyczulony na procedury co prowadziło do ataku botów, ogólnie znanym jako Wielki Atak"
+msgid ""
+"None of the bots of this generation were affected by the proceedings that "
+"led to bots attacking, generally known as the Great Assault."
+msgstr ""
+"Żaden bot tej generacji nie był wyczulony na procedury co prowadziło do "
+"ataku botów, ogólnie znanym jako Wielki Atak"
 
 #: 614_cryo.dialog:95
-msgid "Even though discontinued from Nicholson, Inc. long ago, today, some people have picked up the work and are even trying to improve the operating system running on my series."
-msgstr "Chociaż już dawno nie jest już produkowany przez Nicholson, Inc. , niektórzy ludzie zabrali się do pracy i jeszcze próbowali poprawić system operacyjny chodzący na mojej serii."
+msgid ""
+"Even though discontinued from Nicholson, Inc. long ago, today, some people "
+"have picked up the work and are even trying to improve the operating system "
+"running on my series."
+msgstr ""
+"Chociaż już dawno nie jest już produkowany przez Nicholson, Inc. , niektórzy "
+"ludzie zabrali się do pracy i jeszcze próbowali poprawić system operacyjny "
+"chodzący na mojej serii."
 
 #: 614_cryo.dialog:96
 msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
@@ -156,4 +203,3 @@ msgstr "Do zobaczenia później"
 #: 614_cryo.dialog:103
 msgid "Resuming guard program."
 msgstr "Wznowienie programu straży"
-

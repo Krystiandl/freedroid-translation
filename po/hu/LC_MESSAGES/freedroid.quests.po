@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-06 14:17+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: freedroid.quests:36
@@ -32,9 +32,7 @@ msgstr "Újonc Aréna"
 msgid "Novice arena cleared!"
 msgstr "Újonc Aréna megtisztítva!"
 
-#: freedroid.quests:96
-#: freedroid.quests:116
-#: freedroid.quests:152
+#: freedroid.quests:96 freedroid.quests:116 freedroid.quests:152
 msgid "Level cleared!"
 msgstr "Szint megtisztítva!"
 
@@ -117,4 +115,3 @@ msgstr "Hackelési terület megtisztítva!"
 #: freedroid.quests:340
 msgid "A strange guy stealing from town"
 msgstr "Valaki lop a városban"
-

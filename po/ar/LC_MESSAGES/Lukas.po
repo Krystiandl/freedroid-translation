@@ -1,90 +1,93 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
-"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-24 11:46+0000\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-04-24 11:46+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:42
+#: Lukas.dialog:42
 msgid "Hi! I'm new here."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:44
+#: Lukas.dialog:44
 msgid ""
-"A newcomer! Great! We can always use more people. Welcome to the Red "
-"Guard! I'm Lukas. I'm in charge of our little armory here."
+"A newcomer! Great! We can always use more people. Welcome to the Red Guard! "
+"I'm Lukas. I'm in charge of our little armory here."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:49
+#: Lukas.dialog:49
 msgid ""
-"Spencer said you'd be able to provide me with better armor and "
-"equipment."
+"Spencer said you'd be able to provide me with better armor and equipment."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:51
+#: Lukas.dialog:51
 msgid ""
-"Of course. As a member of our Guard, you're entitled to wear one of "
-"our suits of armor. I can adjust it to fit any measurements, even "
-"yours."
+"Of course. As a member of our Guard, you're entitled to wear one of our "
+"suits of armor. I can adjust it to fit any measurements, even yours."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:52
+#: Lukas.dialog:52
 msgid ""
-"There are two kinds or armor, a heavy Red Guard robe and a light "
-"version of the same thing."
+"There are two kinds or armor, a heavy Red Guard robe and a light version of "
+"the same thing."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:53
+#: Lukas.dialog:53
 msgid "But we also trade guns and some ammo."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:54
+#: Lukas.dialog:54
 msgid "Now, what will it be?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:60
+#: Lukas.dialog:54
+msgid "So, what do you want to buy?"
+msgstr ""
+
+#: Lukas.dialog:60
 msgid "What do you do all day here at the armory?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:62
+#: Lukas.dialog:62
 msgid ""
-"Oh, there's always something to do. Don't worry. I'm pretty occupied "
-"keeping the place in order."
+"Oh, there's always something to do. Don't worry. I'm pretty occupied keeping "
+"the place in order."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:66
+#: Lukas.dialog:66
 msgid "I'd like to buy an exterminator"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:68
+#: Lukas.dialog:68
 msgid "Haha, good one."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:69
+#: Lukas.dialog:69
 msgid "Sorry, they are not for sale."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:70
+#: Lukas.dialog:70
 msgid "I'll get one for free?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:71
+#: Lukas.dialog:71
 msgid "You are the funniest Linarian I've ever seen."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:72
+#: Lukas.dialog:72
 msgid "If the only one."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:73
+#: Lukas.dialog:73
 msgid "Now go, kill some bots."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Lukas.dialog:78
+#: Lukas.dialog:78
 msgid "See you later!"
 msgstr ""

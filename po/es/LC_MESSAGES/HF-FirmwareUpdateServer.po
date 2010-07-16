@@ -2,66 +2,98 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-02 07:42+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-02 07:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: HF-FirmwareUpdateServer.dialog:33
-msgid "Welcome to MS firmware upgrade server for region #54658."
+#: HF-FirmwareUpdateServer.dialog:38
+msgid "one"
 msgstr ""
 
-#: HF-FirmwareUpdateServer.dialog:34
-msgid "Please select action"
-msgstr ""
-
-#: HF-FirmwareUpdateServer.dialog:39
-msgid "Get current OS version"
+#: HF-FirmwareUpdateServer.dialog:40
+msgid "two"
 msgstr ""
 
 #: HF-FirmwareUpdateServer.dialog:42
-msgid "Currently deployed firmware is v. 5.0.8+worldto-nogpl."
+msgid "three"
 msgstr ""
 
 #: HF-FirmwareUpdateServer.dialog:44
-msgid "Currently deployed firmware is v. 5.0.8+tuxwashere+gpl"
+msgid "four"
+msgstr ""
+
+#: HF-FirmwareUpdateServer.dialog:46
+msgid "five"
+msgstr ""
+
+#: HF-FirmwareUpdateServer.dialog:48
+msgid "six"
 msgstr ""
 
 #: HF-FirmwareUpdateServer.dialog:50
-msgid "Propagate firmware update"
+msgid "CAPTCHA: Please write the lowercase word that answers the following: "
 msgstr ""
 
 #: HF-FirmwareUpdateServer.dialog:52
+msgid "Non-human detected. Administering paralyzing shock."
+msgstr ""
+
+#: HF-FirmwareUpdateServer.dialog:58
+msgid "Welcome to MS firmware upgrade server for region #54658."
+msgstr ""
+
+#: HF-FirmwareUpdateServer.dialog:59
+msgid "Please select action"
+msgstr ""
+
+#: HF-FirmwareUpdateServer.dialog:65
+msgid "Get current OS version"
+msgstr ""
+
+#: HF-FirmwareUpdateServer.dialog:68
+msgid "Currently deployed firmware is v. 5.0.8+worldto-nogpl."
+msgstr ""
+
+#: HF-FirmwareUpdateServer.dialog:70
+msgid "Currently deployed firmware is v. 5.0.8+tuxwashere+gpl"
+msgstr ""
+
+#: HF-FirmwareUpdateServer.dialog:76
+msgid "Propagate firmware update"
+msgstr ""
+
+#: HF-FirmwareUpdateServer.dialog:78
 msgid "Compressing image...."
 msgstr ""
 
-#: HF-FirmwareUpdateServer.dialog:53
+#: HF-FirmwareUpdateServer.dialog:79
 msgid "Advertising update to clients..."
 msgstr ""
 
-#: HF-FirmwareUpdateServer.dialog:54
+#: HF-FirmwareUpdateServer.dialog:80
 msgid "Waiting for all connections...."
 msgstr ""
 
-#: HF-FirmwareUpdateServer.dialog:57
+#: HF-FirmwareUpdateServer.dialog:83
 msgid "Firmware update propagated!"
 msgstr ""
 
-#: HF-FirmwareUpdateServer.dialog:59
+#: HF-FirmwareUpdateServer.dialog:85
 msgid "Propagating a faulty firmware"
 msgstr ""
 
-#: HF-FirmwareUpdateServer.dialog:59
+#: HF-FirmwareUpdateServer.dialog:85
 msgid ""
-"I managed to upload the faulty firmware to all bots within "
-"transmission range. Victory is mine!"
+"I managed to upload the faulty firmware to all bots within transmission "
+"range. Victory is mine!"
 msgstr ""
 
-#: HF-FirmwareUpdateServer.dialog:63
+#: HF-FirmwareUpdateServer.dialog:89
 msgid "Logout"
 msgstr ""

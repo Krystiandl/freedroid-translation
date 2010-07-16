@@ -2,28 +2,33 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-05 15:50+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Engel_sub.dialog:36
-msgid "I'm ready. Please show me how to extract bot parts. (cost 50 circuits, 1 ability point)"
-msgstr "Készen állok.Kérlek mutasd meg, hogyan bontam ki a botalkatrészeket. (50 rugóba és 1 képességponba kerül)"
+msgid ""
+"I'm ready. Please show me how to extract bot parts. (cost 50 circuits, 1 "
+"ability point)"
+msgstr ""
+"Készen állok.Kérlek mutasd meg, hogyan bontam ki a botalkatrészeket. (50 "
+"rugóba és 1 képességponba kerül)"
 
-#: Engel_sub.dialog:55
-#: Engel_sub.dialog:60
+#: Engel_sub.dialog:55 Engel_sub.dialog:60
 msgid "Hmmm..."
 msgstr "Hmmm..."
 
 #: Engel_sub.dialog:56
 msgid "You look green. Toughen up. Get some experience, kill some bots."
-msgstr "Zöldfülűnek tűnsz. Gyúrj egy kicsit. Szerezz pár tapasztalati pontot, ölj meg pár botot."
+msgstr ""
+"Zöldfülűnek tűnsz. Gyúrj egy kicsit. Szerezz pár tapasztalati pontot, ölj "
+"meg pár botot."
 
 #: Engel_sub.dialog:57
 msgid "Then we can talk."
@@ -46,8 +51,12 @@ msgid "Just take a hammer and hit the bot sehr hard on the head."
 msgstr "Csak fogj egy ütőszerszámot és üsd a botot sehr fejbe."
 
 #: Engel_sub.dialog:81
-msgid "When you have the head open wide, look around for a part which looks like two circles around a cube. That is what you are looking for."
-msgstr "Mikor a feje kinyílt, nézz körül és keress egy olyan alkatrészt, ami úgy zéz ki, mind két kör egy kocka körül. Ez az, amit keresel."
+msgid ""
+"When you have the head open wide, look around for a part which looks like "
+"two circles around a cube. That is what you are looking for."
+msgstr ""
+"Mikor a feje kinyílt, nézz körül és keress egy olyan alkatrészt, ami úgy zéz "
+"ki, mind két kör egy kocka körül. Ez az, amit keresel."
 
 #: Engel_sub.dialog:89
 msgid "How about... Plasma transistors? Trivial."
@@ -55,10 +64,13 @@ msgstr "Mit szólsz a plazma tranzisztorhoz? Triviális."
 
 #: Engel_sub.dialog:90
 msgid "Remove the bot's engine and look around somewhere close to the battery."
-msgstr "Távolítsd el a bot motorját, és nézz körül valahol az akkumulátor körül."
+msgstr ""
+"Távolítsd el a bot motorját, és nézz körül valahol az akkumulátor körül."
 
 #: Engel_sub.dialog:91
-msgid "Plasma transistors are shaped like the letter Y. Just rip them out, it's safe."
+msgid ""
+"Plasma transistors are shaped like the letter Y. Just rip them out, it's "
+"safe."
 msgstr "A plazma tranzisztor egy Y alakú valami. Csak szedd ki. Nem veszélyes."
 
 #: Engel_sub.dialog:99
@@ -70,8 +82,12 @@ msgid "They are relatively easy to get out."
 msgstr "Viszonylag könnyű kiszerelni."
 
 #: Engel_sub.dialog:101
-msgid "Look around the electric system. Power coils, capacitors, generators and the like. Usually there are plenty of sehr gut parts there."
-msgstr "Nézd végig az elegtomos rendszert. Tekercsek, kondenzátorok, generátorok és hasonlók. Rengeteg sehr gut alkatrész van ott."
+msgid ""
+"Look around the electric system. Power coils, capacitors, generators and the "
+"like. Usually there are plenty of sehr gut parts there."
+msgstr ""
+"Nézd végig az elegtomos rendszert. Tekercsek, kondenzátorok, generátorok és "
+"hasonlók. Rengeteg sehr gut alkatrész van ott."
 
 #: Engel_sub.dialog:102
 msgid "Wear rubber gloves. Just in case, you know."
@@ -86,42 +102,65 @@ msgid "Yes... Converters are a problem."
 msgstr "Igen... A konverterek problémásak."
 
 #: Engel_sub.dialog:112
-msgid "They are easy to find, all you have to do is to get to the engine. But you must remember something very important:"
-msgstr "Könnyű megtalálni, csak a motort kell kiszedned. Ám figyelj egy nagyon fontos dologra:"
+msgid ""
+"They are easy to find, all you have to do is to get to the engine. But you "
+"must remember something very important:"
+msgstr ""
+"Könnyű megtalálni, csak a motort kell kiszedned. Ám figyelj egy nagyon "
+"fontos dologra:"
 
 #: Engel_sub.dialog:113
 msgid "Make sure you turn the converter off before you remove it."
 msgstr "Mindenképpen kapcsold ki a konvertert, mielőtt kiszereled."
 
 #: Engel_sub.dialog:114
-msgid "If you do not do that, you will only succeed in converting yourself to anti-matter. And as you know, there is no coming back from there."
-msgstr "Ha nem teszed, akkor sikeresen antianyaggá konvertálod magad. És mint tudod, onnan nincs visszatérés."
+msgid ""
+"If you do not do that, you will only succeed in converting yourself to anti-"
+"matter. And as you know, there is no coming back from there."
+msgstr ""
+"Ha nem teszed, akkor sikeresen antianyaggá konvertálod magad. És mint tudod, "
+"onnan nincs visszatérés."
 
 #: Engel_sub.dialog:122
 msgid "I will teach you about tachyon converters."
 msgstr "Tanítani foglak a tachyon konverterről."
 
 #: Engel_sub.dialog:123
-msgid "Tachyons are very interesting particles. Many stories have been told about them."
-msgstr "A tachyon nagyon érdekes alkatrész. Több történetet tudnék mesélni róla."
+msgid ""
+"Tachyons are very interesting particles. Many stories have been told about "
+"them."
+msgstr ""
+"A tachyon nagyon érdekes alkatrész. Több történetet tudnék mesélni róla."
 
 #: Engel_sub.dialog:124
-msgid "I have no idea why bots have them inside. They are usually not connected to anything and serve no function."
-msgstr "Nincs ötletem, hogy egyéltalán miért van a robotokban. Általában semmihez sem csatlakoznak, és funkciójuk sincs."
+msgid ""
+"I have no idea why bots have them inside. They are usually not connected to "
+"anything and serve no function."
+msgstr ""
+"Nincs ötletem, hogy egyéltalán miért van a robotokban. Általában semmihez "
+"sem csatlakoznak, és funkciójuk sincs."
 
 #: Engel_sub.dialog:125
-msgid "They are usually quite hot when you get them out, but they cool down quickly, so handling them is not a big deal."
-msgstr "Általában túl forrók, mikor kiszereled őket, de hamar lehűlnek, és nem nagy dolog kiszedni őket."
+msgid ""
+"They are usually quite hot when you get them out, but they cool down "
+"quickly, so handling them is not a big deal."
+msgstr ""
+"Általában túl forrók, mikor kiszereled őket, de hamar lehűlnek, és nem nagy "
+"dolog kiszedni őket."
 
 #: Engel_sub.dialog:126
-msgid "They can be installed just about anywhere, so you have to spend some time digging through the circuits to find one."
-msgstr "Bárhol lehetnek a botban, tehát egy kis időt kell ráfordítanod, hogy találj egyet."
+msgid ""
+"They can be installed just about anywhere, so you have to spend some time "
+"digging through the circuits to find one."
+msgstr ""
+"Bárhol lehetnek a botban, tehát egy kis időt kell ráfordítanod, hogy találj "
+"egyet."
 
 #: Engel_sub.dialog:134
-msgid "Nein, I told you everything I know about that. No use asking me twice, ja?"
+msgid ""
+"Nein, I told you everything I know about that. No use asking me twice, ja?"
 msgstr "Nein, már mindent elmondtam. Nincs értelme kétszer kérdezni, ja?"
 
 #: Engel_sub.dialog:139
 msgid "Maybe another time."
 msgstr "Talán máskor."
-

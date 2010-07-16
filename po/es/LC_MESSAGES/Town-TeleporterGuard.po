@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-02 07:42+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-02 07:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Town-TeleporterGuard.dialog:41
@@ -18,26 +18,25 @@ msgstr ""
 
 #: Town-TeleporterGuard.dialog:43
 msgid ""
-"Ah, a newcomer. I gather you were treated rather harshly by my friend "
-"at the gate? My apologies, he lost his little sister in the Great "
-"Assault. He never got over it."
+"Ah, a newcomer. I gather you were treated rather harshly by my friend at the "
+"gate? My apologies, he lost his little sister in the Great Assault. He never "
+"got over it."
 msgstr ""
 
 #: Town-TeleporterGuard.dialog:44
 msgid ""
-"So, stranger, welcome here. You might want to talk to Chandra or to "
-"Spencer, they can tell you a lot about our current situation."
+"So, stranger, welcome here. You might want to talk to Chandra or to Spencer, "
+"they can tell you a lot about our current situation."
 msgstr ""
 
 #: Town-TeleporterGuard.dialog:45
 msgid ""
-"The city is presently ruled by the Red Guard. We are the police and "
-"the soldiers here."
+"The city is presently ruled by the Red Guard. We are the police and the "
+"soldiers here."
 msgstr ""
 
 #: Town-TeleporterGuard.dialog:46
-msgid ""
-"There is only one law concerning outsiders here: Don't be stupid."
+msgid "There is only one law concerning outsiders here: Don't be stupid."
 msgstr ""
 
 #: Town-TeleporterGuard.dialog:47

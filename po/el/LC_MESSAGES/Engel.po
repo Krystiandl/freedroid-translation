@@ -1,198 +1,203 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
-"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-24 11:46+0000\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-04-24 11:46+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:41
+#: Engel.dialog:41
 msgid "Hi! I'm new here. "
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:43
+#: Engel.dialog:43
 msgid "Hello. We are the Fleischer brothers."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:44
+#: Engel.dialog:44
 msgid "I am Engel. He is Geist, and he does not know the language."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:49
+#: Engel.dialog:45
+msgid "Engel -- Hunter"
+msgstr ""
+
+#: Engel.dialog:50
 msgid "What are you doing here?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:51
+#: Engel.dialog:52
 msgid "Revenge."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:52
+#: Engel.dialog:53
 msgid "The bots have killed our mother. Now we kill them."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:53
+#: Engel.dialog:54
 msgid "No mercy. We hunt them."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:58
+#: Engel.dialog:59
 msgid "Can I help you somehow?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:60
+#: Engel.dialog:61
 msgid "Nein. Let us die as warriors. That is all we ask for."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:65
+#: Engel.dialog:66
 msgid ""
-"If you keep standing here more bots will come and they will kill you. "
-"Go somewhere safe, and set up defense there."
+"If you keep standing here more bots will come and they will kill you. Go "
+"somewhere safe, and set up defense there."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:73
+#: Engel.dialog:74
 msgid "If you keep standing here more bots will come and --"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:75
+#: Engel.dialog:76
 msgid "Sehr gut. Let them come. We are ready."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:76
+#: Engel.dialog:77
 msgid "What a beautiful day. Yes."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:81
+#: Engel.dialog:82
 msgid "You are insane. Get out of here while you still can."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:83
+#: Engel.dialog:84
 msgid "No."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:84
+#: Engel.dialog:85
 msgid "Every day since the mess started I come here to fight the bots."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:85
+#: Engel.dialog:86
 msgid "Today will be no different."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:86
+#: Engel.dialog:87
 msgid "Do not try to stop us. We have our rifles loaded."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:91
+#: Engel.dialog:92
 msgid "Where can I get some help?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:93
+#: Engel.dialog:94
 msgid "Nowhere. This is the end of the world. There is no help."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:94
+#: Engel.dialog:95
 msgid ""
-"There is a city a bit south from here, but if I were you, I would not "
-"go there."
+"There is a city a bit south from here, but if I were you, I would not go "
+"there."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:95
+#: Engel.dialog:96
 msgid ""
 "The Rot Guard is the ruler there, and cruelty is their solution to "
 "everything."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:96
+#: Engel.dialog:97
 msgid "Real freedom is really dead."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:101
+#: Engel.dialog:102
 msgid "You guys are totally nuts. Get a life."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:109
+#: Engel.dialog:110
 msgid "You guys are tota --"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:111
+#: Engel.dialog:112
 msgid "WHAT?! What is it that you want to say?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:112
+#: Engel.dialog:113
 msgid "Erm... I --"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:113
+#: Engel.dialog:114
 msgid "WHAT!? SPIT IT OUT!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:114
+#: Engel.dialog:115
 msgid ""
-"Er... You guys are really great and I admire your bravery in the face "
-"of certain death."
+"Er... You guys are really great and I admire your bravery in the face of "
+"certain death."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:115
+#: Engel.dialog:116
 msgid "Donnerwetter, you are a funny one."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:116
+#: Engel.dialog:117
 msgid "I hope that one day we shall meet again, maybe in a better time."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:117
+#: Engel.dialog:118
 msgid "Maybe then you will tell us other gut jokes that you know."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:118
+#: Engel.dialog:119
 msgid "Maybe one day..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:123
+#: Engel.dialog:124
 msgid "What did you use to do before you became a hunter?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:125
+#: Engel.dialog:126
 msgid "I was a bot constructor. Built the killers of my mother."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:126
+#: Engel.dialog:127
 msgid ""
-"Now I sell the parts that I remove from the bots to buy more "
-"ammunition and food."
+"Now I sell the parts that I remove from the bots to buy more ammunition and "
+"food."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:131
+#: Engel.dialog:132
 msgid "I want to know how to extract modules from the bots."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:133
+#: Engel.dialog:134
 msgid "Yes."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:134
+#: Engel.dialog:135
 msgid "I will sell the information for a lot of Schaltkreise."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:135
+#: Engel.dialog:136
 msgid "Interested?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:140
+#: Engel.dialog:141
 msgid "Can I join your hunt?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:142
+#: Engel.dialog:143
 msgid "Nein. Our problem. Our hunt."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:147
+#: Engel.dialog:148
 msgid "I'll be going then."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Engel.dialog:149
+#: Engel.dialog:150
 msgid "Goodbye and viel Gluck."
 msgstr ""

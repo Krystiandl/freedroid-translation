@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-08 15:49+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Sorenson.dialog:38
@@ -62,7 +62,8 @@ msgstr "Legjobb barátja a tiszta forráskód."
 
 #: Sorenson.dialog:55
 msgid "The great light on the night sky of the hollow web of computer power."
-msgstr "Az éjszakai égbolt szárnyaló csillagaként ragyog a számítógépek világában."
+msgstr ""
+"Az éjszakai égbolt szárnyaló csillagaként ragyog a számítógépek világában."
 
 #: Sorenson.dialog:56
 msgid "Yes, I get the idea..."
@@ -145,8 +146,11 @@ msgid "Don't use it. Forget the cursed name. COBOL is pain. COBOL is hate."
 msgstr "Ne használd. Felejtsd el a nevét. A COBOL fájdalom. A COBOL gyűlölet."
 
 #: Sorenson.dialog:90
-msgid "I see you have a huge source code book collection. Mind if I buy some from you?"
-msgstr "Látom, hatalmas forráskód-könyv gyűjteményed van. Vásárolhatnék belőlük?"
+msgid ""
+"I see you have a huge source code book collection. Mind if I buy some from "
+"you?"
+msgstr ""
+"Látom, hatalmas forráskód-könyv gyűjteményed van. Vásárolhatnék belőlük?"
 
 #: Sorenson.dialog:92
 msgid "Of course not. Trade is good."
@@ -162,7 +166,8 @@ msgstr "Igen. Persze. Természetesen."
 
 #: Sorenson.dialog:105
 msgid "You got me curious. How can you help me understand computers better?"
-msgstr "Kíváncsivá tettél. Hogyan segítenél, hogy jobban megértsem a számítógépeket?"
+msgstr ""
+"Kíváncsivá tettél. Hogyan segítenél, hogy jobban megértsem a számítógépeket?"
 
 #: Sorenson.dialog:107
 msgid "Simplicity! Sign this contract. No need to read it."
@@ -197,8 +202,14 @@ msgid "519n 7h3 c0n7r4c7!!!!"
 msgstr "1rD @L@ a Sz3rZ0dÉst!!!!"
 
 #: Sorenson.dialog:129
-msgid "Please calm down. You must speak clearly and slowly. Please stop breathing smoke like that, it bothers my throat. And what is the deal with the red glowing eyes? You should see a doctor. "
-msgstr "Kérlek, higgadj le. Beszélj érthetően és lassan. És ne lehelj ki füstöt, mert kaparja a torkomat. És mi van a vérben forgó szemeddel? Orvoshoz kéne menned."
+msgid ""
+"Please calm down. You must speak clearly and slowly. Please stop breathing "
+"smoke like that, it bothers my throat. And what is the deal with the red "
+"glowing eyes? You should see a doctor. "
+msgstr ""
+"Kérlek, higgadj le. Beszélj érthetően és lassan. És ne lehelj ki füstöt, "
+"mert kaparja a torkomat. És mi van a vérben forgó szemeddel? Orvoshoz kéne "
+"menned."
 
 #: Sorenson.dialog:131
 msgid "519n 17!!!!"
@@ -252,9 +263,21 @@ msgstr "Izé. Ellent kell mondanom. Nem Francisnak hívnak."
 msgid "N0000000000!!!!!!!"
 msgstr "N333333333M!"
 
+#: Sorenson.dialog:173 Sorenson.dialog:194 Sorenson.dialog:214
+#: Sorenson.dialog:223
+msgid "COBOL Programmer -- Madly Enraged"
+msgstr ""
+
 #: Sorenson.dialog:179
-msgid "The great destroyer of evil, the purger of all things foul, the friend of mankind, the third duke of Linarius, esquire, Doctorate of Computer Sciences, high priest of Kernelius, the ray of light in the darkness, the bender of spoons, His Great Magnificence, Tux."
-msgstr "A gonosz nagyszerű pusztítója, az emberiség barátja, Linárius lordja, a számítógépes tudományok doktora, Kernelius papja, a fénysugár az éjszakában, a kanál meghajlítója, Őmagasságossága, Tux."
+msgid ""
+"The great destroyer of evil, the purger of all things foul, the friend of "
+"mankind, the third duke of Linarius, esquire, Doctorate of Computer "
+"Sciences, high priest of Kernelius, the ray of light in the darkness, the "
+"bender of spoons, His Great Magnificence, Tux."
+msgstr ""
+"A gonosz nagyszerű pusztítója, az emberiség barátja, Linárius lordja, a "
+"számítógépes tudományok doktora, Kernelius papja, a fénysugár az éjszakában, "
+"a kanál meghajlítója, Őmagasságossága, Tux."
 
 #: Sorenson.dialog:181
 msgid "Huh?"
@@ -276,55 +299,58 @@ msgstr "X"
 msgid "N0! S7up1d illi73r4t3 p3n9u1n! D13!!"
 msgstr "N3! hÜly3 P1Ngv1N! M3gH@LsZ!"
 
-#: Sorenson.dialog:195
-msgid "Sorenson -- Crazy"
-msgstr "Sorenson -- Őrült"
-
-#: Sorenson.dialog:200
+#: Sorenson.dialog:199
 msgid "Huh? I d0n'7 f33l g00d."
 msgstr "Jaj! N3m ÉrZ3m J0l M@g@m."
 
-#: Sorenson.dialog:202
+#: Sorenson.dialog:201
 msgid "Yes! I am free! At last I am free!"
 msgstr "Igen! Szabad vagyok! Végre szabad!"
 
-#: Sorenson.dialog:202
+#: Sorenson.dialog:201
 msgid "Yes! I am free!"
 msgstr "Igen! Szabad vagyok!"
 
-#: Sorenson.dialog:202
+#: Sorenson.dialog:201
 msgid "Yes! I am free at last!"
 msgstr "Igen, végre szabad vagyok!"
 
-#: Sorenson.dialog:203
+#: Sorenson.dialog:202
 msgid "W417... 1 f331... H0rr1b13..."
 msgstr "3Z b0rz41M4s... R3tT3nTő...."
 
-#: Sorenson.dialog:204
+#: Sorenson.dialog:203
 msgid "Yes, fool! You have freed me! I can finally die! Goodbye idiot!"
 msgstr "Te bolond! Felszabadítottál! Most már meghalhatok! Viszlát, Idióta!"
 
-#: Sorenson.dialog:211
-msgid "In blood? Yuck. I am not going to do this, blood is too messy for a binding legal contract. Forget about it."
-msgstr "Vérrel? Fúj! Nem fogom ezt csinálni, a vér túl drága egy szerződés aláírásához. Felejtsd el."
+#: Sorenson.dialog:210
+msgid ""
+"In blood? Yuck. I am not going to do this, blood is too messy for a binding "
+"legal contract. Forget about it."
+msgstr ""
+"Vérrel? Fúj! Nem fogom ezt csinálni, a vér túl drága egy szerződés "
+"aláírásához. Felejtsd el."
 
-#: Sorenson.dialog:213
+#: Sorenson.dialog:212
 msgid "N00oo00oo0! T1m3 to d1e, m0rtal foo1!"
 msgstr "Nee333e333eee33! M3gH4lsZ t3 Hüly3!!!"
 
-#: Sorenson.dialog:220
-msgid "There is no way I will sign something without reading it. Forget about it."
+#: Sorenson.dialog:219
+msgid ""
+"There is no way I will sign something without reading it. Forget about it."
 msgstr "Semmit sem írok alá elolvasás nélkül. Felejtsd el."
 
-#: Sorenson.dialog:222
+#: Sorenson.dialog:221
 msgid "N00oo00oo0! T1m3 to d1e, m0rta1 foo1!"
 msgstr "Nee333e333eee33! M3gH4lsZ t3 Hüly3!!!"
 
-#: Sorenson.dialog:229
+#: Sorenson.dialog:228
 msgid "I really must be going now. Goodbye."
 msgstr "Most már mindenképp mennem kell. Viszlát."
 
-#: Sorenson.dialog:231
+#: Sorenson.dialog:230
 msgid "Please come back later, Linarian. We must talk again."
 msgstr "Kérlek gyere vissza később, Lináriai. Muszáj beszélnünk."
 
+#~ msgid "Sorenson -- Crazy"
+#~ msgstr "Sorenson -- Őrült"

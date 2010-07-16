@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-02 07:42+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-02 07:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Bruce.dialog:38
@@ -50,14 +50,13 @@ msgstr ""
 
 #: Bruce.dialog:64
 msgid ""
-"No, I am just too tired now. I have been working in the mine for two "
-"weeks now."
+"No, I am just too tired now. I have been working in the mine for two weeks "
+"now."
 msgstr ""
 
 #: Bruce.dialog:65
 msgid ""
-"I feel really wiped, so maybe it would be better if you came some "
-"other day."
+"I feel really wiped, so maybe it would be better if you came some other day."
 msgstr ""
 
 #: Bruce.dialog:70
@@ -65,13 +64,11 @@ msgid "Why do you work so hard in the mine?"
 msgstr ""
 
 #: Bruce.dialog:72
-msgid ""
-"Because I must! The Red Guard makes everyone work up to their limits!"
+msgid "Because I must! The Red Guard makes everyone work up to their limits!"
 msgstr ""
 
 #: Bruce.dialog:73
-msgid ""
-"If you do not work for a full work period, you will be in trouble."
+msgid "If you do not work for a full work period, you will be in trouble."
 msgstr ""
 
 #: Bruce.dialog:74
@@ -96,15 +93,14 @@ msgstr ""
 
 #: Bruce.dialog:89
 msgid ""
-"After the Great Assault, I joined the Red Guard. They needed help and "
-"were looking for volunteers."
+"After the Great Assault, I joined the Red Guard. They needed help and were "
+"looking for volunteers."
 msgstr ""
 
 #: Bruce.dialog:90
 msgid ""
-"I served there for a short while, and they even let me use an "
-"exterminator. But then after a failed mission, I resigned and never "
-"wore a uniform again."
+"I served there for a short while, and they even let me use an exterminator. "
+"But then after a failed mission, I resigned and never wore a uniform again."
 msgstr ""
 
 #: Bruce.dialog:95
@@ -117,20 +113,19 @@ msgstr ""
 
 #: Bruce.dialog:98
 msgid ""
-"A direct hit from one of those guns is enough to turn most bots into "
-"scrap metal."
+"A direct hit from one of those guns is enough to turn most bots into scrap "
+"metal."
 msgstr ""
 
 #: Bruce.dialog:99
 msgid ""
-"Many of the great victories of the Red Guard are thanks to the "
-"exterminator."
+"Many of the great victories of the Red Guard are thanks to the exterminator."
 msgstr ""
 
 #: Bruce.dialog:100
 msgid ""
-"Of course, because of its small clip and terribly long reloading "
-"time, equally many deaths can be attributed to it."
+"Of course, because of its small clip and terribly long reloading time, "
+"equally many deaths can be attributed to it."
 msgstr ""
 
 #: Bruce.dialog:105
@@ -145,27 +140,26 @@ msgstr ""
 
 #: Bruce.dialog:108
 msgid ""
-"It was a routine scout mission. We saw an interesting building which "
-"was not there before, and decided to take a look."
+"It was a routine scout mission. We saw an interesting building which was not "
+"there before, and decided to take a look."
 msgstr ""
 
 #: Bruce.dialog:109
 msgid ""
-"It was a terrible fortress, many stories high. It had guns "
-"everywhere. When we got close the shooting started."
+"It was a terrible fortress, many stories high. It had guns everywhere. When "
+"we got close the shooting started."
 msgstr ""
 
 #: Bruce.dialog:110
 msgid ""
-"They were waiting for us. Came in endless swarms. More and more and "
-"more. We stood our ground and kept firing, but it was no use. More of "
-"them came."
+"They were waiting for us. Came in endless swarms. More and more and more. We "
+"stood our ground and kept firing, but it was no use. More of them came."
 msgstr ""
 
 #: Bruce.dialog:111
 msgid ""
-"Our ammunition ran out. They got close. It was the end of team number "
-"nine. The Hell Fortress took their lives. I ran. I survived."
+"Our ammunition ran out. They got close. It was the end of team number nine. "
+"The Hell Fortress took their lives. I ran. I survived."
 msgstr ""
 
 #: Bruce.dialog:112
@@ -176,8 +170,7 @@ msgstr ""
 
 #: Bruce.dialog:113
 msgid ""
-"I do not want to face the anger of the Hell Fortress ever again. "
-"Never again."
+"I do not want to face the anger of the Hell Fortress ever again. Never again."
 msgstr ""
 
 #: Bruce.dialog:118
@@ -186,20 +179,20 @@ msgstr ""
 
 #: Bruce.dialog:120
 msgid ""
-"And I said that I do not want to talk about it. It hurts too much. "
-"Please stop asking about it and leave me alone."
+"And I said that I do not want to talk about it. It hurts too much. Please "
+"stop asking about it and leave me alone."
 msgstr ""
 
 #: Bruce.dialog:125
 msgid ""
-"You don't understand. I wasn't asking. Now, tell me about your life "
-"as a soldier, or I will tell the guards you are slacking off."
+"You don't understand. I wasn't asking. Now, tell me about your life as a "
+"soldier, or I will tell the guards you are slacking off."
 msgstr ""
 
 #: Bruce.dialog:127
 msgid ""
-"No! Please... I will do anything, just don't call the Red Guard! They "
-"do not like people who left the service. They do not like me. "
+"No! Please... I will do anything, just don't call the Red Guard! They do not "
+"like people who left the service. They do not like me. "
 msgstr ""
 
 #: Bruce.dialog:128
@@ -208,8 +201,8 @@ msgstr ""
 
 #: Bruce.dialog:134
 msgid ""
-"I have some bad memories too. I know how hard it can be to talk about "
-"them. Keep your stories to yourself."
+"I have some bad memories too. I know how hard it can be to talk about them. "
+"Keep your stories to yourself."
 msgstr ""
 
 #: Bruce.dialog:136

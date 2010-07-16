@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-23 07:57+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
-"%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 
 #: Engel.dialog:41
 msgid "Hi! I'm new here. "
@@ -55,8 +55,8 @@ msgstr ""
 
 #: Engel.dialog:66
 msgid ""
-"If you keep standing here more bots will come and they will kill you. "
-"Go somewhere safe, and set up defense there."
+"If you keep standing here more bots will come and they will kill you. Go "
+"somewhere safe, and set up defense there."
 msgstr ""
 
 #: Engel.dialog:74
@@ -101,8 +101,8 @@ msgstr ""
 
 #: Engel.dialog:95
 msgid ""
-"There is a city a bit south from here, but if I were you, I would not "
-"go there."
+"There is a city a bit south from here, but if I were you, I would not go "
+"there."
 msgstr ""
 
 #: Engel.dialog:96
@@ -137,8 +137,8 @@ msgstr ""
 
 #: Engel.dialog:115
 msgid ""
-"Er... You guys are really great and I admire your bravery in the face "
-"of certain death."
+"Er... You guys are really great and I admire your bravery in the face of "
+"certain death."
 msgstr ""
 
 #: Engel.dialog:116
@@ -167,8 +167,8 @@ msgstr ""
 
 #: Engel.dialog:127
 msgid ""
-"Now I sell the parts that I remove from the bots to buy more "
-"ammunition and food."
+"Now I sell the parts that I remove from the bots to buy more ammunition and "
+"food."
 msgstr ""
 
 #: Engel.dialog:132

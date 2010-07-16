@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-23 07:57+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n"
-"%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 
 #: Spencer.dialog:38
 msgid "Greetings fellow Red Guard member."
@@ -31,8 +31,8 @@ msgstr ""
 
 #: Spencer.dialog:53
 msgid ""
-"I'm Spencer. I'm the leader of the Red Guard. Is there anything I can "
-"help you with?"
+"I'm Spencer. I'm the leader of the Red Guard. Is there anything I can help "
+"you with?"
 msgstr ""
 
 #: Spencer.dialog:58
@@ -53,14 +53,14 @@ msgstr ""
 
 #: Spencer.dialog:68
 msgid ""
-"This is not so easy. First you must establish a reputation around "
-"here. Ask around, talk to people and build your reputation."
+"This is not so easy. First you must establish a reputation around here. Ask "
+"around, talk to people and build your reputation."
 msgstr ""
 
 #: Spencer.dialog:69
 msgid ""
-"Once you're a known character around here, we might let you join the "
-"ranks of the Guard."
+"Once you're a known character around here, we might let you join the ranks "
+"of the Guard."
 msgstr ""
 
 #: Spencer.dialog:74
@@ -81,14 +81,13 @@ msgstr ""
 
 #: Spencer.dialog:85
 msgid ""
-"Look, I'm just fooling around. We don't let just anyone join the Red "
-"Guard."
+"Look, I'm just fooling around. We don't let just anyone join the Red Guard."
 msgstr ""
 
 #: Spencer.dialog:86
 msgid ""
-"If you seriously want to join, you have to prove yourself first. You "
-"might want to ask around town for things you can do."
+"If you seriously want to join, you have to prove yourself first. You might "
+"want to ask around town for things you can do."
 msgstr ""
 
 #: Spencer.dialog:92
@@ -97,41 +96,41 @@ msgstr ""
 
 #: Spencer.dialog:94
 msgid ""
-"That would be most kind of you, but I doubt that you will be able to "
-"clear out the warehouse for us."
+"That would be most kind of you, but I doubt that you will be able to clear "
+"out the warehouse for us."
 msgstr ""
 
 #: Spencer.dialog:95
 msgid ""
-"But since you are said to be powerful and a former hero, I'll once "
-"more put trust into a stranger."
+"But since you are said to be powerful and a former hero, I'll once more put "
+"trust into a stranger."
 msgstr ""
 
 #: Spencer.dialog:96
 msgid ""
-"I've unlocked the access-way to the warehouse. It's to the north of "
-"this town, somewhat hidden in the woods northeast."
+"I've unlocked the access-way to the warehouse. It's to the north of this "
+"town, somewhat hidden in the woods northeast."
 msgstr ""
 
 #: Spencer.dialog:97
 msgid ""
-"The stuff we need is on the first floor. Don't go any deeper, there "
-"are only bots in there."
+"The stuff we need is on the first floor. Don't go any deeper, there are only "
+"bots in there."
 msgstr ""
 
 #: Spencer.dialog:98
 msgid "I wish you the best of luck."
 msgstr ""
 
-#: Spencer.dialog:99 Spencer.dialog:107 Spencer.dialog:108
-#: Spencer.dialog:118 Spencer.dialog:183
+#: Spencer.dialog:99 Spencer.dialog:107 Spencer.dialog:108 Spencer.dialog:118
+#: Spencer.dialog:183
 msgid "Opening a can of bots..."
 msgstr ""
 
 #: Spencer.dialog:99
 msgid ""
-"I am supposed to clean out the first level of some warehouse. Sounds "
-"easy. It lies nearby, somewhat hidden in the woods north-east of town."
+"I am supposed to clean out the first level of some warehouse. Sounds easy. "
+"It lies nearby, somewhat hidden in the woods north-east of town."
 msgstr ""
 
 #: Spencer.dialog:105
@@ -140,69 +139,66 @@ msgstr ""
 
 #: Spencer.dialog:110
 msgid ""
-"Thanks to you, we've been able to transport all the goods we need "
-"right now. You've really helped us out there."
+"Thanks to you, we've been able to transport all the goods we need right now. "
+"You've really helped us out there."
 msgstr ""
 
 #: Spencer.dialog:111
 msgid ""
-"Rest assured that we will never forget your brave activity for our "
-"community."
+"Rest assured that we will never forget your brave activity for our community."
 msgstr ""
 
 #: Spencer.dialog:113
 msgid ""
-"Man, you really did it! I can hardly believe it, but all the bots are "
-"gone!"
+"Man, you really did it! I can hardly believe it, but all the bots are gone!"
 msgstr ""
 
 #: Spencer.dialog:114
 msgid ""
-"Take these 500 circuits as a reward. And be assured that you've "
-"earned my deepest respect, Linarian."
+"Take these 500 circuits as a reward. And be assured that you've earned my "
+"deepest respect, Linarian."
 msgstr ""
 
 #: Spencer.dialog:115
 msgid ""
-"Our people are transporting the goods as we speak. It can't be too "
-"long until new bots from ships in the orbit of the planet will beam "
-"down to replace the dead bots."
+"Our people are transporting the goods as we speak. It can't be too long "
+"until new bots from ships in the orbit of the planet will beam down to "
+"replace the dead bots."
 msgstr ""
 
 #: Spencer.dialog:118
 msgid ""
-"Ouch. It wasn't. At least I am alive, and the warehouse is clear. "
-"*Whew*."
+"Ouch. It wasn't. At least I am alive, and the warehouse is clear. *Whew*."
 msgstr ""
 
 #: Spencer.dialog:121
 msgid ""
-"Not too good. Without the supplies from the warehouse we are doomed. "
-"So my problems are still the same."
+"Not too good. Without the supplies from the warehouse we are doomed. So my "
+"problems are still the same."
 msgstr ""
 
 #: Spencer.dialog:122
 msgid ""
-"Maybe later, when you grow more experienced you might be able to help "
-"us after all."
+"Maybe later, when you grow more experienced you might be able to help us "
+"after all."
 msgstr ""
 
 #: Spencer.dialog:125
 msgid ""
-"These are bad times. Interplanetary travel is made impossible by bot "
-"ships, so we need to stick to our local resources."
+"These are bad times. Interplanetary travel is made impossible by bot ships, "
+"so we need to stick to our local resources."
 msgstr ""
 
 #: Spencer.dialog:126
 msgid ""
-"We've got a list of stuff we need from the automated underground "
-"storage north of town. But the bots there are numerous."
+"We've got a list of stuff we need from the automated underground storage "
+"north of town. But the bots there are numerous."
 msgstr ""
 
 #: Spencer.dialog:127
 msgid ""
-"And currently I can't spare a single man from the city defenses. It's "
-"quite a difficult situation."
+"And currently I can't spare a single man from the city defenses. It's quite "
+"a difficult situation."
 msgstr ""
 
 #: Spencer.dialog:133
@@ -215,8 +211,8 @@ msgstr ""
 
 #: Spencer.dialog:136
 msgid ""
-"I think our teleporter service man, Dixon, has some problem. You "
-"might want to talk to him."
+"I think our teleporter service man, Dixon, has some problem. You might want "
+"to talk to him."
 msgstr ""
 
 #: Spencer.dialog:139 Spencer.dialog:146 Spencer.dialog:153
@@ -230,8 +226,7 @@ msgid ""
 msgstr ""
 
 #: Spencer.dialog:141
-msgid ""
-"I think it is the best for him if we leave him alone the next days."
+msgid "I think it is the best for him if we leave him alone the next days."
 msgstr ""
 
 #: Spencer.dialog:142
@@ -244,8 +239,8 @@ msgstr ""
 
 #: Spencer.dialog:148
 msgid ""
-"Poor guy, if we weren't in such a bad situation, he could have some "
-"work-free days, but bot attacks continue all the time."
+"Poor guy, if we weren't in such a bad situation, he could have some work-"
+"free days, but bot attacks continue all the time."
 msgstr ""
 
 #: Spencer.dialog:149
@@ -254,14 +249,14 @@ msgstr ""
 
 #: Spencer.dialog:154
 msgid ""
-"He did rail against you though. He said he had to give you 400 "
-"circuits to get his toolkit back, his own property."
+"He did rail against you though. He said he had to give you 400 circuits to "
+"get his toolkit back, his own property."
 msgstr ""
 
 #: Spencer.dialog:155
 msgid ""
-"That was nearly all money he had. He said you were too greedy to "
-"become a good member and he doesn't want to see you anymore."
+"That was nearly all money he had. He said you were too greedy to become a "
+"good member and he doesn't want to see you anymore."
 msgstr ""
 
 #: Spencer.dialog:156
@@ -272,8 +267,8 @@ msgstr ""
 
 #: Spencer.dialog:159
 msgid ""
-"Dixon told me about the matter with his toolkit. He seemed pretty "
-"impressed by you."
+"Dixon told me about the matter with his toolkit. He seemed pretty impressed "
+"by you."
 msgstr ""
 
 #: Spencer.dialog:165
@@ -288,8 +283,8 @@ msgstr ""
 
 #: Spencer.dialog:168
 msgid ""
-"I think you should visit the camp's cook sometime. He's usually in "
-"the restaurant kitchen."
+"I think you should visit the camp's cook sometime. He's usually in the "
+"restaurant kitchen."
 msgstr ""
 
 #: Spencer.dialog:171
@@ -297,15 +292,13 @@ msgid "Novice Arena"
 msgstr ""
 
 #: Spencer.dialog:172
-msgid ""
-"From Butch I hear you've become a novice arena master. "
-"Congratulations."
+msgid "From Butch I hear you've become a novice arena master. Congratulations."
 msgstr ""
 
 #: Spencer.dialog:174
 msgid ""
-"You might want to score some arena victories. That could also help "
-"your reputation a lot."
+"You might want to score some arena victories. That could also help your "
+"reputation a lot."
 msgstr ""
 
 #: Spencer.dialog:177
@@ -314,9 +307,9 @@ msgstr ""
 
 #: Spencer.dialog:178
 msgid ""
-"Helping Bender along was also a smart move. But you should be very "
-"careful with that one. He can get mad rather easily. A bit of a "
-"security threat, but we can't be too picky."
+"Helping Bender along was also a smart move. But you should be very careful "
+"with that one. He can get mad rather easily. A bit of a security threat, but "
+"we can't be too picky."
 msgstr ""
 
 #: Spencer.dialog:180
@@ -325,35 +318,34 @@ msgstr ""
 
 #: Spencer.dialog:184
 msgid ""
-"But most importantly, I was very impressed with you when you cleared "
-"out the warehouse. That was a huge deed I will never forget."
+"But most importantly, I was very impressed with you when you cleared out the "
+"warehouse. That was a huge deed I will never forget."
 msgstr ""
 
 #: Spencer.dialog:186
 msgid ""
-"Personally I'm also worrying about how we will manage to get some "
-"necessary supplies from our warehouse. It's filled with bots and we "
-"just don't have the manpower to spare to clean them out."
+"Personally I'm also worrying about how we will manage to get some necessary "
+"supplies from our warehouse. It's filled with bots and we just don't have "
+"the manpower to spare to clean them out."
 msgstr ""
 
 #: Spencer.dialog:191
 msgid ""
-"OK. Your list of achievements is long enough. You can join us. So I "
-"hereby declare you a member of the Red Guard."
+"OK. Your list of achievements is long enough. You can join us. So I hereby "
+"declare you a member of the Red Guard."
 msgstr ""
 
 #: Spencer.dialog:192
 msgid ""
-"But now that you are in the Guard, know this: There is only one rule "
-"for us guards: We stick together. We survive together or we die "
-"together. But we do it together."
+"But now that you are in the Guard, know this: There is only one rule for us "
+"guards: We stick together. We survive together or we die together. But we do "
+"it together."
 msgstr ""
 
 #: Spencer.dialog:193
 msgid ""
-"And now you might want to inspect the guard house. Tell Tybalt to "
-"open the door for you. Lukas at the arms counter will give you your "
-"armor."
+"And now you might want to inspect the guard house. Tell Tybalt to open the "
+"door for you. Lukas at the arms counter will give you your armor."
 msgstr ""
 
 #: Spencer.dialog:194
@@ -366,14 +358,14 @@ msgstr ""
 
 #: Spencer.dialog:201
 msgid ""
-"All in all, not quite so bad. But you still need to do the one thing "
-"or the other. Then we can talk about it."
+"All in all, not quite so bad. But you still need to do the one thing or the "
+"other. Then we can talk about it."
 msgstr ""
 
 #: Spencer.dialog:203
 msgid ""
-"I can't accept you into the guard like this. Get going. There are "
-"still many things to do for you."
+"I can't accept you into the guard like this. Get going. There are still many "
+"things to do for you."
 msgstr ""
 
 #: Spencer.dialog:209
@@ -382,38 +374,37 @@ msgstr ""
 
 #: Spencer.dialog:211
 msgid ""
-"Yes, that's right, and in fact it might be crucial. As you may have "
-"heard, the MS office is defended by a disruptor shield. They open it "
-"only to let out new armies of bots."
+"Yes, that's right, and in fact it might be crucial. As you may have heard, "
+"the MS office is defended by a disruptor shield. They open it only to let "
+"out new armies of bots."
 msgstr ""
 
 #: Spencer.dialog:212
 msgid ""
 "The data on the cube he obtained indicates the existence of a secret "
-"experimental facility in this region. Our findings suggest that they "
-"were testing some new form of disruptor shield for MS, so the shield "
-"can be controlled from that facility."
+"experimental facility in this region. Our findings suggest that they were "
+"testing some new form of disruptor shield for MS, so the shield can be "
+"controlled from that facility."
 msgstr ""
 
 #: Spencer.dialog:213
 msgid ""
-"If the information is true, then you can take over the control droid "
-"and disable the shield permanently so we can get in."
+"If the information is true, then you can take over the control droid and "
+"disable the shield permanently so we can get in."
 msgstr ""
 
 #: Spencer.dialog:214
 msgid ""
 "We know that MS had a firmware update system, which could be used to "
-"propagate a malicious update to disable all bots. It is very "
-"alluring, but to perform this trick you need to hack the control "
-"droid, which is in the heart of the HF. To enter HF you would have to "
-"disable the disruptor shield."
+"propagate a malicious update to disable all bots. It is very alluring, but "
+"to perform this trick you need to hack the control droid, which is in the "
+"heart of the HF. To enter HF you would have to disable the disruptor shield."
 msgstr ""
 
 #: Spencer.dialog:215
 msgid ""
-"This seems like a gift sent from the heavens. Cleaning the Hell "
-"Fortress is not going to be easy, though.."
+"This seems like a gift sent from the heavens. Cleaning the Hell Fortress is "
+"not going to be easy, though.."
 msgstr ""
 
 #: Spencer.dialog:220
@@ -422,27 +413,26 @@ msgstr ""
 
 #: Spencer.dialog:222
 msgid ""
-"That's most kind of you to volunteer. So far, I've sent two scouts "
-"into the area. They have found the facility entrance and unlocked the "
-"gate."
+"That's most kind of you to volunteer. So far, I've sent two scouts into the "
+"area. They have found the facility entrance and unlocked the gate."
 msgstr ""
 
 #: Spencer.dialog:223
 msgid ""
-"That is a good sign, because it shows that the key combinations from "
-"the data cube were correct."
+"That is a good sign, because it shows that the key combinations from the "
+"data cube were correct."
 msgstr ""
 
 #: Spencer.dialog:224
 msgid ""
-"However, we lost contact with them shortly after they went inside. "
-"They also reported heavy bot resistance."
+"However, we lost contact with them shortly after they went inside. They also "
+"reported heavy bot resistance."
 msgstr ""
 
 #: Spencer.dialog:225
 msgid ""
-"I'd be glad if you could take a look. But use the utmost care. We "
-"can't afford to lose another guard."
+"I'd be glad if you could take a look. But use the utmost care. We can't "
+"afford to lose another guard."
 msgstr ""
 
 #: Spencer.dialog:230
@@ -451,9 +441,9 @@ msgstr ""
 
 #: Spencer.dialog:232
 msgid ""
-"Good. The base entrance is somewhat hidden in the caves to the "
-"northeast. Best to use the north gate out of town, then head east, "
-"and turn north again along the shore."
+"Good. The base entrance is somewhat hidden in the caves to the northeast. "
+"Best to use the north gate out of town, then head east, and turn north again "
+"along the shore."
 msgstr ""
 
 #: Spencer.dialog:233
@@ -464,22 +454,21 @@ msgstr ""
 
 #: Spencer.dialog:234
 msgid ""
-"Try to get control over the disruptor shield if you can. The control "
-"droid should be somewhere on the lowest level of the installation. "
-"Simply destroying the droid might suffice in disabling the shield."
+"Try to get control over the disruptor shield if you can. The control droid "
+"should be somewhere on the lowest level of the installation. Simply "
+"destroying the droid might suffice in disabling the shield."
 msgstr ""
 
 #: Spencer.dialog:235
 msgid ""
-"Spencer has revealed the information from the data cube evaluation to "
-"me. It seems there is an old military research facility near the "
-"town. By taking over the control droid, I should be able to control "
-"the disruptor shield at the facility. I could activate it "
-"permanently, thereby locking off the Hell Fortress, and the bots it's "
-"producing, forever. Alternatively, I could disable it, and fight my "
-"way through the Hell Fortress droids until I reach the main control "
-"droid and update it, thereby disabling all bots in the entire area "
-"around town in one fell swoop."
+"Spencer has revealed the information from the data cube evaluation to me. It "
+"seems there is an old military research facility near the town. By taking "
+"over the control droid, I should be able to control the disruptor shield at "
+"the facility. I could activate it permanently, thereby locking off the Hell "
+"Fortress, and the bots it's producing, forever. Alternatively, I could "
+"disable it, and fight my way through the Hell Fortress droids until I reach "
+"the main control droid and update it, thereby disabling all bots in the "
+"entire area around town in one fell swoop."
 msgstr ""
 
 #: Spencer.dialog:241
@@ -492,48 +481,46 @@ msgstr ""
 
 #: Spencer.dialog:244
 msgid ""
-"Also there is no need to hurry with this. After all, the installation "
-"is not running away, so it's best to take a cautious approach."
+"Also there is no need to hurry with this. After all, the installation is not "
+"running away, so it's best to take a cautious approach."
 msgstr ""
 
 #: Spencer.dialog:249
 msgid ""
-"It's done. Your soldiers were killed, but I managed to have a word "
-"with the shield control droid. The access to the bot factory is now "
-"open."
+"It's done. Your soldiers were killed, but I managed to have a word with the "
+"shield control droid. The access to the bot factory is now open."
 msgstr ""
 
 #: Spencer.dialog:251
 msgid ""
-"Good. We cannot help you much in this final mission, but I can tell "
-"you what our recon teams gathered behind the factory doors. You will "
-"enter a zone that used to be a MS office."
+"Good. We cannot help you much in this final mission, but I can tell you what "
+"our recon teams gathered behind the factory doors. You will enter a zone "
+"that used to be a MS office."
 msgstr ""
 
 #: Spencer.dialog:252
 msgid ""
-"They carried out some development there, and had part of their "
-"patching division and update management department. The actual "
-"factory is located behind the office."
+"They carried out some development there, and had part of their patching "
+"division and update management department. The actual factory is located "
+"behind the office."
 msgstr ""
 
 #: Spencer.dialog:253
 msgid ""
-"With a bit of luck, you might not need to access it. We know they "
-"have their update server in the office."
+"With a bit of luck, you might not need to access it. We know they have their "
+"update server in the office."
 msgstr ""
 
 #: Spencer.dialog:254
 msgid ""
-"If you can find it and get it to propagate a faulty update, this "
-"could suffice to stopping bots dead in their tracks."
+"If you can find it and get it to propagate a faulty update, this could "
+"suffice to stopping bots dead in their tracks."
 msgstr ""
 
 #: Spencer.dialog:255
 msgid ""
-"Look for the entrance of the office in the crystal fields. I will "
-"send a message to the guards so they let you pass. Then you will be "
-"on your own."
+"Look for the entrance of the office in the crystal fields. I will send a "
+"message to the guards so they let you pass. Then you will be on your own."
 msgstr ""
 
 #: Spencer.dialog:256
@@ -546,9 +533,9 @@ msgstr ""
 
 #: Spencer.dialog:257
 msgid ""
-"I can now enter the fortress and find the upgrade server bot. The "
-"fortress gates are in the Crystal Fields. Spencer told the guards to "
-"open the doors for me."
+"I can now enter the fortress and find the upgrade server bot. The fortress "
+"gates are in the Crystal Fields. Spencer told the guards to open the doors "
+"for me."
 msgstr ""
 
 #: Spencer.dialog:262

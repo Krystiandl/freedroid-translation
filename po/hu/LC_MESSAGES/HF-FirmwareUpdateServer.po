@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-06 14:20+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: HF-FirmwareUpdateServer.dialog:38
@@ -89,8 +89,11 @@ msgid "Propagating a faulty firmware"
 msgstr "Firmware update közzététele"
 
 #: HF-FirmwareUpdateServer.dialog:85
-msgid "I managed to upload the faulty firmware to all bots within transmission range. Victory is mine!"
-msgstr "Feltöltöttem a hibás firmwarét az összes hatókörön belüli botra. Én győztem!"
+msgid ""
+"I managed to upload the faulty firmware to all bots within transmission "
+"range. Victory is mine!"
+msgstr ""
+"Feltöltöttem a hibás firmwarét az összes hatókörön belüli botra. Én győztem!"
 
 #: HF-FirmwareUpdateServer.dialog:89
 msgid "Logout"
@@ -98,4 +101,3 @@ msgstr "Kijelentkezés"
 
 #~ msgid "..."
 #~ msgstr "..."
-

@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-06 13:29+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: freedroid.events:19
@@ -100,8 +100,7 @@ msgstr "FIXME2"
 msgid "Exit Crystal Caves"
 msgstr "Kristály Barlang Kijárat"
 
-#: freedroid.events:339
-#: freedroid.events:351
+#: freedroid.events:339 freedroid.events:351
 msgid "Back to the Desert"
 msgstr "Vissza a Sivatagba"
 
@@ -113,8 +112,7 @@ msgstr "Vörös Tér"
 msgid "Good, now move to the black grating to the East."
 msgstr "Rendben, most menj vissza a fekete kínhoz Kelet felé."
 
-#: freedroid.events:374
-#: freedroid.events:386
+#: freedroid.events:374 freedroid.events:386
 msgid "Quest log updated"
 msgstr "Küldetés lista frissítve"
 
@@ -153,4 +151,3 @@ msgstr "Vissza a Felsőbb Katakombák Gépházába"
 #: freedroid.events:517
 msgid "To Disruptor Mashine Deck"
 msgstr "Disruptor Gépház"
-

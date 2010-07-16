@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-07 11:40+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Pendragon.dialog:41
@@ -21,8 +21,12 @@ msgid "You don't say. I'm not living here either. I'm just on vacation."
 msgstr "Ne is mondd. Én sem itt lakom. Csak itt nyaralok."
 
 #: Pendragon.dialog:44
-msgid "Normally I'm a fighter. But now I try to relax, chill, take it easy and have a lot of fun."
-msgstr "Igazából harcos vagyok. Ám most pihenek, relaxálok, kicsit kifújom magam és sokat bulizok."
+msgid ""
+"Normally I'm a fighter. But now I try to relax, chill, take it easy and have "
+"a lot of fun."
+msgstr ""
+"Igazából harcos vagyok. Ám most pihenek, relaxálok, kicsit kifújom magam és "
+"sokat bulizok."
 
 #: Pendragon.dialog:45
 msgid "And in case you couldn't tell, that was sarcasm."
@@ -77,8 +81,11 @@ msgid "Are you sure?"
 msgstr "Biztos vagy benne?"
 
 #: Pendragon.dialog:75
-msgid "I only accept students that already have some experience in fighting bots."
-msgstr "Csak olyanokat tanítok, akiknek már van némi tapasztalatuk a botok elleni harcban."
+msgid ""
+"I only accept students that already have some experience in fighting bots."
+msgstr ""
+"Csak olyanokat tanítok, akiknek már van némi tapasztalatuk a botok elleni "
+"harcban."
 
 #: Pendragon.dialog:80
 msgid "Yes (cost 100 valuable circuits, 5 ability points)"
@@ -145,7 +152,8 @@ msgid "This is enough training for today."
 msgstr "Ennyi tréning elég is mára."
 
 #: Pendragon.dialog:103
-msgid "You don't have enough experience. I can't teach you anything more right now."
+msgid ""
+"You don't have enough experience. I can't teach you anything more right now."
 msgstr "Nincs elég tapasztalatod. Most nem tudok többet tanítani."
 
 #: Pendragon.dialog:104
@@ -153,12 +161,18 @@ msgid "First collect more experience. Then we can go on."
 msgstr "Először szerezz több tapasztalatot. Utána visszatérünk rá."
 
 #: Pendragon.dialog:106
-msgid "You don't have enough valuable circuits on you! Come back when you have the money."
+msgid ""
+"You don't have enough valuable circuits on you! Come back when you have the "
+"money."
 msgstr "Nincs elég pénzed! Gyere vissza, ha lesz rávalód."
 
 #: Pendragon.dialog:110
-msgid "Hey, wake up! I taught you that stuff already. Go practice on the bots, if you really want more training."
-msgstr "Hé, ébresztő! Azt már megtanítottam. Menj, és gyakorolj pár boton, ha több gyakorlásra vágysz."
+msgid ""
+"Hey, wake up! I taught you that stuff already. Go practice on the bots, if "
+"you really want more training."
+msgstr ""
+"Hé, ébresztő! Azt már megtanítottam. Menj, és gyakorolj pár boton, ha több "
+"gyakorlásra vágysz."
 
 #: Pendragon.dialog:116
 msgid "Teach me how to smash concrete blocks with my bare hands."
@@ -173,8 +187,12 @@ msgid "You are quite an ambitious fellow."
 msgstr "Igazán ambíciózus figura vagy."
 
 #: Pendragon.dialog:120
-msgid "First learn the basics. Spend a year working on that, and then I'll be able to teach you some advanced tricks."
-msgstr "Először tanuld meg az alapokat. Tölts el egy évet gyakorlással, utána megtanítalak pár komolyabb trükkre."
+msgid ""
+"First learn the basics. Spend a year working on that, and then I'll be able "
+"to teach you some advanced tricks."
+msgstr ""
+"Először tanuld meg az alapokat. Tölts el egy évet gyakorlással, utána "
+"megtanítalak pár komolyabb trükkre."
 
 #: Pendragon.dialog:125
 msgid "Teach me Ninjitsu."
@@ -185,8 +203,12 @@ msgid "Go away."
 msgstr "Menj innen."
 
 #: Pendragon.dialog:132
-msgid "I want to know the Crazy Double-Fang Wolf-Sunlight I-Like-Tea Death Touch of Major Destruction Flesh-Bursting Attack!"
-msgstr "Ismerni szeretném az Őrült Dupla-Sáska Farkas-Holdfény Édes-Savanyú Mártásos Hússzakító Halálérintés technikát!"
+msgid ""
+"I want to know the Crazy Double-Fang Wolf-Sunlight I-Like-Tea Death Touch of "
+"Major Destruction Flesh-Bursting Attack!"
+msgstr ""
+"Ismerni szeretném az Őrült Dupla-Sáska Farkas-Holdfény Édes-Savanyú Mártásos "
+"Hússzakító Halálérintés technikát!"
 
 #: Pendragon.dialog:134
 msgid "Wow."
@@ -197,8 +219,11 @@ msgid "You have a very rich imagination. There is no such thing. Get a life."
 msgstr "Igen jó a képzelőerőd. Olyan nincs is. Élj a való világban."
 
 #: Pendragon.dialog:140
-msgid "I want to know the forbidden skill of furuike ya kawazu tobikomu mizu no oto."
-msgstr "Ismerni szeretném az elfeledett furuike ya kawazu tobikomu mizu no oto technikát."
+msgid ""
+"I want to know the forbidden skill of furuike ya kawazu tobikomu mizu no oto."
+msgstr ""
+"Ismerni szeretném az elfeledett furuike ya kawazu tobikomu mizu no oto "
+"technikát."
 
 #: Pendragon.dialog:142
 msgid "This is starting to make me angry. Shut up and go away."
@@ -224,6 +249,11 @@ msgstr "Csak egyszer mutatom meg, szóval nagyon figyelj."
 msgid "DIEEEE!"
 msgstr "MEGHALSZ!"
 
+#: Pendragon.dialog:153
+#, fuzzy
+msgid "Pendragon -- Teaching you death"
+msgstr "Pendragon -- Harcos"
+
 #: Pendragon.dialog:159
 msgid "Enough for now."
 msgstr "Mára elég."
@@ -243,4 +273,3 @@ msgstr "Bátorság veled."
 #: Pendragon.dialog:168
 msgid "Be strong."
 msgstr "Légy erős."
-

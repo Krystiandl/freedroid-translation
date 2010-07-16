@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-02 07:42+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-02 07:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Peter.dialog:39
@@ -46,8 +46,8 @@ msgstr ""
 
 #: Peter.dialog:50
 msgid ""
-"And I guess you are a fascists too, as only Red Guard members are "
-"allowed in here."
+"And I guess you are a fascists too, as only Red Guard members are allowed in "
+"here."
 msgstr ""
 
 #: Peter.dialog:55
@@ -60,8 +60,8 @@ msgstr ""
 
 #: Peter.dialog:59
 msgid ""
-"LALALALALA - I'm not hearing you. I have my fingers in my ears and "
-"just go - LALALALALA"
+"LALALALALA - I'm not hearing you. I have my fingers in my ears and just go - "
+"LALALALALA"
 msgstr ""
 
 #: Peter.dialog:63

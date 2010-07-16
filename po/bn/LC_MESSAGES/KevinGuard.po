@@ -1,185 +1,177 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
-"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-24 11:46+0000\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-04-24 11:46+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:34
+#: KevinGuard.dialog:34
 msgid "It's me."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:35
+#: KevinGuard.dialog:35
 msgid "IDENTITY CONFIRMED. YOU MAY PASS."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:39
+#: KevinGuard.dialog:39
 msgid ""
 "INTRUDER, LOWER YOUR WEAPONS AND IDENTIFY YOURSELF OR FACE IMMEDIATE "
 "TERMINATION."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:40
+#: KevinGuard.dialog:40
 msgid "I WILL NOT LET YOU INJURE MY MASTER."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:46
+#: KevinGuard.dialog:46
 msgid "I must talk to your master."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:48
+#: KevinGuard.dialog:48
 msgid "STATE YOUR REASON."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:53
+#: KevinGuard.dialog:53
 msgid "Don't shoot! I come in peace."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:55
+#: KevinGuard.dialog:55
 msgid "STATE THE PURPOSE OF YOUR PRESENCE HERE."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:60
+#: KevinGuard.dialog:60
 msgid ""
-"I saw this building as I was walking by, and I decided to take a look "
-"inside."
+"I saw this building as I was walking by, and I decided to take a look inside."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:62
+#: KevinGuard.dialog:62
 msgid "YOUR REASON IS CURIOSITY. MASTER KEVIN LIKES CURIOUS PEOPLE."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:63
+#: KevinGuard.dialog:63 KevinGuard.dialog:94
+msgid "614 -- Kevin's Guard"
+msgstr ""
+
+#: KevinGuard.dialog:64
 msgid "YOU MAY PASS."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:68
+#: KevinGuard.dialog:69
 msgid "Thank you."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:76
+#: KevinGuard.dialog:77
 msgid "Umm... His life is in grave danger. "
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:78
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:85
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:133
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:140
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:147
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:163
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:170
+#: KevinGuard.dialog:79 KevinGuard.dialog:86 KevinGuard.dialog:135
+#: KevinGuard.dialog:142 KevinGuard.dialog:149 KevinGuard.dialog:165
+#: KevinGuard.dialog:172
 msgid "ERROR: REASON INVALID."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:83
+#: KevinGuard.dialog:84
 msgid ""
-"The people from the uhh... city want me to have a word with him. "
-"Yeah, that's it."
+"The people from the uhh... city want me to have a word with him. Yeah, "
+"that's it."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:90
+#: KevinGuard.dialog:91
 msgid ""
-"I have some very valuable information. Your master might be "
-"interested in it."
+"I have some very valuable information. Your master might be interested in it."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:92
+#: KevinGuard.dialog:93
 msgid "MASTER KEVIN WILL BE PLEASED. YOU MAY PASS."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:93
+#: KevinGuard.dialog:95
 msgid "DOOR OPENING SEQUENCE INITIATED."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:98
+#: KevinGuard.dialog:100
 msgid "Step aside, you stupid tin can!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:100
-msgid ""
-"YOU SHALL NOT PASS. ACTIVATING DISINTEGRATOR BEAM IN TEN SECONDS."
+#: KevinGuard.dialog:102
+msgid "YOU SHALL NOT PASS. ACTIVATING DISINTEGRATOR BEAM IN TEN SECONDS."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:101
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:155
+#: KevinGuard.dialog:103 KevinGuard.dialog:157
 msgid "NINE."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:102
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:156
+#: KevinGuard.dialog:104 KevinGuard.dialog:158
 msgid "EIGHT."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:107
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:123
+#: KevinGuard.dialog:109 KevinGuard.dialog:125
 msgid "Wait, that's not what I meant!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:109
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:117
+#: KevinGuard.dialog:111 KevinGuard.dialog:119
 msgid "SEVEN."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:110
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:118
+#: KevinGuard.dialog:112 KevinGuard.dialog:120
 msgid "SIX."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:115
+#: KevinGuard.dialog:117
 msgid "I am not afraid of you."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:125
+#: KevinGuard.dialog:127
 msgid "FIVE."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:126
+#: KevinGuard.dialog:128
 msgid "FOUR."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:131
+#: KevinGuard.dialog:133
 msgid "The enemies are approaching from every side!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:138
+#: KevinGuard.dialog:140
 msgid "We are surrounded! They will attack any second now!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:145
+#: KevinGuard.dialog:147
 msgid "Are you listening to me?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:152
+#: KevinGuard.dialog:154
 msgid "I do not have to tell you anything, bot."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:154
+#: KevinGuard.dialog:156
 msgid ""
-"ENGAGING AGGRESSION CIRCUITS. YOU SHALL BE DISINTEGRATED IN TEN "
-"SECONDS."
+"ENGAGING AGGRESSION CIRCUITS. YOU SHALL BE DISINTEGRATED IN TEN SECONDS."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:161
+#: KevinGuard.dialog:163
 msgid "I think I just found an error in your programming."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:168
+#: KevinGuard.dialog:170
 msgid "Thought so."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:175
+#: KevinGuard.dialog:177
 msgid "See you later, tin can."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:178
+#: KevinGuard.dialog:180
 msgid "EOT ACKNOWLEDGED. CONNECTION CLOSED."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/KevinGuard.dialog:179
+#: KevinGuard.dialog:181
 msgid "GOODBYE."
 msgstr ""

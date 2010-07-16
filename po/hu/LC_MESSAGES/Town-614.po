@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-07 12:32+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Town-614.dialog:35
@@ -17,8 +17,12 @@ msgid "Who are you?"
 msgstr "Ki vagy te?"
 
 #: Town-614.dialog:37
-msgid "I am a 614 security bot, once one of the best-selling products of Nicholson, Inc.."
-msgstr "Én egy 614-es biztonsági bot vagyok, a Nicholson vállalat egyik legjobb terméke..."
+msgid ""
+"I am a 614 security bot, once one of the best-selling products of Nicholson, "
+"Inc.."
+msgstr ""
+"Én egy 614-es biztonsági bot vagyok, a Nicholson vállalat egyik legjobb "
+"terméke..."
 
 #: Town-614.dialog:41
 msgid "What can you tell me about the Nicholson company?"
@@ -29,28 +33,46 @@ msgid "Nicholson, Inc. produces security bots."
 msgstr "A Nicholson vállalat biztonsági botokat gyárt."
 
 #: Town-614.dialog:44
-msgid "It was founded by Karl Nicholson, a former Kernel hacker who was not satisfied with the development of the GPL license."
-msgstr "Karl Nicholson alapította, aki előtte kernel hackerként tevékenykedett, mert nem volt megelégedve a GPL licensz fejlesztésével."
+msgid ""
+"It was founded by Karl Nicholson, a former Kernel hacker who was not "
+"satisfied with the development of the GPL license."
+msgstr ""
+"Karl Nicholson alapította, aki előtte kernel hackerként tevékenykedett, mert "
+"nem volt megelégedve a GPL licensz fejlesztésével."
 
 #: Town-614.dialog:45
-msgid "Nicholson decided to stick to one GPL version because he saw things getting worse."
-msgstr "Nicholson elhatározta, hogy megmarad egyfajta GPL verziónál, mert úgy látta, hogy a dolgok egyre rosszabbá válnak."
+msgid ""
+"Nicholson decided to stick to one GPL version because he saw things getting "
+"worse."
+msgstr ""
+"Nicholson elhatározta, hogy megmarad egyfajta GPL verziónál, mert úgy látta, "
+"hogy a dolgok egyre rosszabbá válnak."
 
 #: Town-614.dialog:46
 msgid "Others were warned, but nobody listened to Nicholsons announcements."
-msgstr "A többieket figyelmeztette, de senki sem hallgatott Nicholson szavaira."
+msgstr ""
+"A többieket figyelmeztette, de senki sem hallgatott Nicholson szavaira."
 
 #: Town-614.dialog:47
 msgid "He built up a team and developed an own Kernel called 'Nkernel'."
-msgstr "Alapított egy csapatot, és kifejlesztette a saját kernelét, az Nkernelt."
+msgstr ""
+"Alapított egy csapatot, és kifejlesztette a saját kernelét, az Nkernelt."
 
 #: Town-614.dialog:48
-msgid "The Nkernel development team grew fast and technicians started to produce their own droids optimized for the Nkernel."
-msgstr "Az Nkernel fejlesztői csapat gyorsan növekedett, és a technikusaik elkezdték gyártani a saját, Nkernelre optimalizált droidjaikat."
+msgid ""
+"The Nkernel development team grew fast and technicians started to produce "
+"their own droids optimized for the Nkernel."
+msgstr ""
+"Az Nkernel fejlesztői csapat gyorsan növekedett, és a technikusaik elkezdték "
+"gyártani a saját, Nkernelre optimalizált droidjaikat."
 
 #: Town-614.dialog:49
-msgid "The Team became a company which released their first security droid, the 610 Lovely."
-msgstr "A Csapat vállalattá alakult, és piacra dobta első biztonsági droidját, a 610 Lovely-t."
+msgid ""
+"The Team became a company which released their first security droid, the 610 "
+"Lovely."
+msgstr ""
+"A Csapat vállalattá alakult, és piacra dobta első biztonsági droidját, a 610 "
+"Lovely-t."
 
 #: Town-614.dialog:50
 msgid "I am the 4th generation version of their security droid line."
@@ -73,8 +95,11 @@ msgid "The official manual classifies the 614 as a high class security droid."
 msgstr "A 614-es hivatalos besorolása magasszintű biztonsági droid."
 
 #: Town-614.dialog:65
-msgid "It was mainly used within ships to protect certain areas from intruders."
-msgstr "Jellemzően hajókon alkalmazták, különböző területek behatolókkal szembeni védelmére."
+msgid ""
+"It was mainly used within ships to protect certain areas from intruders."
+msgstr ""
+"Jellemzően hajókon alkalmazták, különböző területek behatolókkal szembeni "
+"védelmére."
 
 #: Town-614.dialog:66
 msgid "It is considered an old but reliable device."
@@ -89,8 +114,12 @@ msgid "What are your orders?"
 msgstr "Milyen utasításokat követsz?"
 
 #: Town-614.dialog:74
-msgid "My orders are to protect the living beings in this camp from attacks by hostile bots."
-msgstr "Elsődleges feladat: Az élőlények védelme az ellenséges droidoktól a táboron belül."
+msgid ""
+"My orders are to protect the living beings in this camp from attacks by "
+"hostile bots."
+msgstr ""
+"Elsődleges feladat: Az élőlények védelme az ellenséges droidoktól a táboron "
+"belül."
 
 #: Town-614.dialog:75
 msgid "This has top priority. There are no other priorities."
@@ -101,20 +130,36 @@ msgid "Why are you not hostile, as are all the other bots?"
 msgstr "Miért nem vagy ellenséges, mint a többi bot?"
 
 #: Town-614.dialog:82
-msgid "I belong to a an older generation of bots, running a custom-made security guard operating system."
-msgstr "Egy régebbi botgenerációhoz tartozom, amely egy kölönlegesen fejlesztett őrző-védő operációs rendszert futtat."
+msgid ""
+"I belong to a an older generation of bots, running a custom-made security "
+"guard operating system."
+msgstr ""
+"Egy régebbi botgenerációhoz tartozom, amely egy kölönlegesen fejlesztett "
+"őrző-védő operációs rendszert futtat."
 
 #: Town-614.dialog:83
-msgid "None of the bots of this generation were affected by the proceedings that led to bots attacking, generally known as the Great Assault."
-msgstr "Ebből a generációból egy bot sem volt érintett abban a folyamatban, ami a droidok ellenségessé válásához vezetett, amit mindenki csak a Nagy Ostromként emleget."
+msgid ""
+"None of the bots of this generation were affected by the proceedings that "
+"led to bots attacking, generally known as the Great Assault."
+msgstr ""
+"Ebből a generációból egy bot sem volt érintett abban a folyamatban, ami a "
+"droidok ellenségessé válásához vezetett, amit mindenki csak a Nagy "
+"Ostromként emleget."
 
 #: Town-614.dialog:84
-msgid "Even though discontinued by the Nicholson, Inc. long ago, today, some people have picked up the work and are even trying to improve the operating system running on my series."
-msgstr "Ahol a Nicholson vállalat a régmúltban abbahagyta, néhány ember ott folytatta a munkát, megpróbálva növelni az operációs rendszer hatékonyságát, amelyet a szériám futtat."
+msgid ""
+"Even though discontinued by the Nicholson, Inc. long ago, today, some people "
+"have picked up the work and are even trying to improve the operating system "
+"running on my series."
+msgstr ""
+"Ahol a Nicholson vállalat a régmúltban abbahagyta, néhány ember ott "
+"folytatta a munkát, megpróbálva növelni az operációs rendszer hatékonyságát, "
+"amelyet a szériám futtat."
 
 #: Town-614.dialog:85
 msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
-msgstr "Ne felejts el a Nicholson vállalat termékeiből vásárolni. Ők a legjobbak."
+msgstr ""
+"Ne felejts el a Nicholson vállalat termékeiből vásárolni. Ők a legjobbak."
 
 #: Town-614.dialog:90
 msgid "See you later."
@@ -123,4 +168,3 @@ msgstr "Később találkozunk. Viszlát!"
 #: Town-614.dialog:92
 msgid "Resuming guard program."
 msgstr "Örző-Védő Program folytatása."
-

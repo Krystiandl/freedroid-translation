@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-02 07:42+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-02 07:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: c-net_sub_nethack.dialog:35
@@ -18,8 +18,8 @@ msgstr ""
 
 #: c-net_sub_nethack.dialog:60
 msgid ""
-"Shall I pick a character's race, role, gender and alignment for you? "
-"[b][y/n][/b]"
+"Shall I pick a character's race, role, gender and alignment for you? [b][y/n]"
+"[/b]"
 msgstr ""
 
 #: c-net_sub_nethack.dialog:69
@@ -91,19 +91,19 @@ msgid "female"
 msgstr ""
 
 #: c-net_sub_nethack.dialog:270 c-net_sub_nethack.dialog:565
-msgid "good"
+msgid "a good"
 msgstr ""
 
 #: c-net_sub_nethack.dialog:271
-msgid "chaotic"
+msgid "a chaotic"
 msgstr ""
 
 #: c-net_sub_nethack.dialog:272 c-net_sub_nethack.dialog:569
-msgid "evil"
+msgid "an evil"
 msgstr ""
 
 #: c-net_sub_nethack.dialog:302
-msgid "Hello, welcome to NetHack! You are a "
+msgid "Hello, welcome to NetHack! You are "
 msgstr ""
 
 #: c-net_sub_nethack.dialog:303
@@ -119,8 +119,7 @@ msgid "[/b] has hidden at the bottom of this dungeon."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:304
-msgid ""
-"Return with the [b]Amulet of Yendor[/b], and you shall be rewarded!"
+msgid "Return with the [b]Amulet of Yendor[/b], and you shall be rewarded!"
 msgstr ""
 
 #: c-net_sub_nethack.dialog:305
@@ -171,8 +170,8 @@ msgstr ""
 
 #: c-net_sub_nethack.dialog:335
 msgid ""
-" looks at you with impatience and points you back to the entrance of "
-"the dungeon."
+" looks at you with impatience and points you back to the entrance of the "
+"dungeon."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:335
@@ -225,8 +224,7 @@ msgstr ""
 
 #: c-net_sub_nethack.dialog:349
 msgid ""
-"You find yourself in a labyrinth, with 1980's music playing "
-"mysteriously."
+"You find yourself in a labyrinth, with 1980's music playing mysteriously."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:349
@@ -242,9 +240,7 @@ msgid "You find yourself in a flooded room."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:349
-msgid ""
-"You find yourself in a passage filled with bones from the ancient "
-"past."
+msgid "You find yourself in a passage filled with bones from the ancient past."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:349
@@ -727,8 +723,8 @@ msgstr ""
 
 #: c-net_sub_nethack.dialog:451
 msgid ""
-"You stumble over a rock, creating a chain of reactions, ending in the "
-"tunnel collapsing on the "
+"You stumble over a rock, creating a chain of reactions, ending in the tunnel "
+"collapsing on the "
 msgstr ""
 
 #: c-net_sub_nethack.dialog:451
@@ -736,8 +732,7 @@ msgid "You stab yourself with a fake dagger and pretend to be dead."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:451
-msgid ""
-"You walk like a duck, quack like a duck and swim like a duck. The "
+msgid "You walk like a duck, quack like a duck and swim like a duck. The "
 msgstr ""
 
 #: c-net_sub_nethack.dialog:451
@@ -765,9 +760,7 @@ msgid "You try to act like a duck, but "
 msgstr ""
 
 #: c-net_sub_nethack.dialog:454
-msgid ""
-" has an elephant and a lighter, and you don't want to be the "
-"punchline."
+msgid " has an elephant and a lighter, and you don't want to be the punchline."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:454
@@ -776,8 +769,7 @@ msgstr ""
 
 #: c-net_sub_nethack.dialog:458
 msgid ""
-"Not having any tricks left, you resort to you trying your feminine "
-"wiles."
+"Not having any tricks left, you resort to you trying your feminine wiles."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:461
@@ -815,7 +807,7 @@ msgid "The Random Number God stikes you, changing your gender."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:466 c-net_sub_nethack.dialog:578
-msgid "You are now a "
+msgid "You are now "
 msgstr ""
 
 #: c-net_sub_nethack.dialog:470
@@ -860,8 +852,7 @@ msgstr ""
 
 #: c-net_sub_nethack.dialog:492
 msgid ""
-"While you were praying a hermit crab moved into your helmet. It's his "
-"now."
+"While you were praying a hermit crab moved into your helmet. It's his now."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:499 c-net_sub_nethack.dialog:508
@@ -993,8 +984,7 @@ msgid " off a convenient cliff."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:550
-msgid ""
-"You find prayer beads invoking the goodwill of the Random Number God."
+msgid "You find prayer beads invoking the goodwill of the Random Number God."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:550
@@ -1159,12 +1149,12 @@ msgstr ""
 
 #: c-net_sub_nethack.dialog:571
 msgid ""
-"You decide good and evil are too two sides of the same coin, so you "
-"take the coin."
+"You decide good and evil are too two sides of the same coin, so you take the "
+"coin."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:572
-msgid "neutral"
+msgid "a neutral"
 msgstr ""
 
 #: c-net_sub_nethack.dialog:573
@@ -1180,8 +1170,7 @@ msgid " don't know how to feel about this."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:575
-msgid ""
-"You put on a tarnished belt, and you feel something strange happen."
+msgid "You put on a tarnished belt, and you feel something strange happen."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:575
@@ -1225,8 +1214,7 @@ msgid " breathes fire at you, burning your map and causing "
 msgstr ""
 
 #: c-net_sub_nethack.dialog:584
-msgid ""
-" throws an exploding bananna at you, but you duck, so it only causes "
+msgid " throws an exploding bananna at you, but you duck, so it only causes "
 msgstr ""
 
 #: c-net_sub_nethack.dialog:584
@@ -1279,25 +1267,23 @@ msgstr ""
 
 #: c-net_sub_nethack.dialog:593
 msgid ""
-"Hermes, with Death and Sleep, asks if you've seen his Caduceus "
-"anywhere, and then brings you to the river Leith."
+"Hermes, with Death and Sleep, asks if you've seen his Caduceus anywhere, and "
+"then brings you to the river Leith."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:593
 msgid ""
-"Your soul finds itself traveling along the path of the moon, far away "
-"from your broken body."
+"Your soul finds itself traveling along the path of the moon, far away from "
+"your broken body."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:593
 msgid ""
-"You are fully one with everything. Your battered body no longer "
-"concerns you."
+"You are fully one with everything. Your battered body no longer concerns you."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:593
-msgid ""
-"You failed to enlist the Random Number God to your side. You died."
+msgid "You failed to enlist the Random Number God to your side. You died."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:594
@@ -1314,8 +1300,7 @@ msgstr ""
 
 #: c-net_sub_nethack.dialog:616
 msgid ""
-" and the [b]Amulet of Yendor[/b] compels you down, deeper into the "
-"depths."
+" and the [b]Amulet of Yendor[/b] compels you down, deeper into the depths."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:619
@@ -1351,14 +1336,13 @@ msgid "You grab a nice rope someone left, and climb up it."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:629
-msgid ""
-"Using magic, you cut foot and handholds into the rock, and use them."
+msgid "Using magic, you cut foot and handholds into the rock, and use them."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:629
 msgid ""
-"Reaching a state of total ONE-ness with the world, you break your "
-"earthly bonds, and rise upwards."
+"Reaching a state of total ONE-ness with the world, you break your earthly "
+"bonds, and rise upwards."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:629
@@ -1378,8 +1362,7 @@ msgid "You rappel down the pit to the level below."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:637
-msgid ""
-"You lower yourself using footholds cut long ago into the living earth."
+msgid "You lower yourself using footholds cut long ago into the living earth."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:637
@@ -1388,14 +1371,12 @@ msgstr ""
 
 #: c-net_sub_nethack.dialog:637
 msgid ""
-"By playing with the levers before you, you teleport into the depths "
-"below."
+"By playing with the levers before you, you teleport into the depths below."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:637
 msgid ""
-"You take out a shovel and start digging. Eventually you hit rock "
-"bottom."
+"You take out a shovel and start digging. Eventually you hit rock bottom."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:637

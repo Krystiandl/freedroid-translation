@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-06 14:14+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Language: Hungarian\n"
 "X-Poedit-Country: HUNGARY\n"
@@ -19,32 +19,55 @@ msgid "Hacking"
 msgstr "Hackelés"
 
 #: freedroid.program_archetypes:9
-msgid "Tux is gifted with the ability to hack any hostile bot in no time. With this program selected, initiate the takeover process by right clicking a hostile machine of your choice."
-msgstr "Tux pillanatok alatt képes bármilyen gépet hackelni. Ezt a programot kiválasztva, és a jobb egérgombbal egy ellenséges gépre kattintva elindul a feltörési folyamat."
+msgid ""
+"Tux is gifted with the ability to hack any hostile bot in no time. With this "
+"program selected, initiate the takeover process by right clicking a hostile "
+"machine of your choice."
+msgstr ""
+"Tux pillanatok alatt képes bármilyen gépet hackelni. Ezt a programot "
+"kiválasztva, és a jobb egérgombbal egy ellenséges gépre kattintva elindul a "
+"feltörési folyamat."
 
 #: freedroid.program_archetypes:19
 msgid "Repair equipment"
 msgstr "Javítás"
 
 #: freedroid.program_archetypes:20
-msgid "Fully repair any item of your choice. To use this skill, select it, open the inventory screen and then right click on the item you wish to repair. While Tux can repair items without incurring any cost, the item will get reduced maximum durability."
-msgstr "Ez tesz képessé a felszerelés részét képező tárgyak javítására. A használathoz ki kell választani, majd jobb egérgombbal kattintani arra az eszközre, amelyet meg szeretnél javítani. Bár a javítás így semmibe sem kerül, a javított tárgy veszteni fog valamennyit a maximális élettartamából. Ám a pillanatnyi állapota a maximumra ugrik fel."
+msgid ""
+"Fully repair any item of your choice. To use this skill, select it, open the "
+"inventory screen and then right click on the item you wish to repair. While "
+"Tux can repair items without incurring any cost, the item will get reduced "
+"maximum durability."
+msgstr ""
+"Ez tesz képessé a felszerelés részét képező tárgyak javítására. A "
+"használathoz ki kell választani, majd jobb egérgombbal kattintani arra az "
+"eszközre, amelyet meg szeretnél javítani. Bár a javítás így semmibe sem "
+"kerül, a javított tárgy veszteni fog valamennyit a maximális élettartamából. "
+"Ám a pillanatnyi állapota a maximumra ugrik fel."
 
 #: freedroid.program_archetypes:28
 msgid "Use weapon"
 msgstr "Fegyverhasználat"
 
 #: freedroid.program_archetypes:29
-msgid "This skill allows you to force an attack on something not normally a target or firing single shots with automatic weapons."
-msgstr "Ezt a képességet használva lőni tudsz olyan tárgyra, ami egyébként nem lenne célpont, vagy egyes lövéseket tudsz leadni automata fegyverekkel."
+msgid ""
+"This skill allows you to force an attack on something not normally a target "
+"or firing single shots with automatic weapons."
+msgstr ""
+"Ezt a képességet használva lőni tudsz olyan tárgyra, ami egyébként nem lenne "
+"célpont, vagy egyes lövéseket tudsz leadni automata fegyverekkel."
 
 #: freedroid.program_archetypes:37
 msgid "Emergency shutdown"
 msgstr "Vészleállítás"
 
 #: freedroid.program_archetypes:38
-msgid "Everyone needs to turn off and cool down a bit now and then. Just be careful so you are not still offline when enemy bots close in..."
-msgstr "Mindenkinek szüksége van a kikapcsolódásra, hogy lehűljön kissé. De vigyázz, nem legyél offline, mikor ellenséges botok közelítenek..."
+msgid ""
+"Everyone needs to turn off and cool down a bit now and then. Just be careful "
+"so you are not still offline when enemy bots close in..."
+msgstr ""
+"Mindenkinek szüksége van a kikapcsolódásra, hogy lehűljön kissé. De vigyázz, "
+"nem legyél offline, mikor ellenséges botok közelítenek..."
 
 #: freedroid.program_archetypes:50
 msgid "Check system integrity"
@@ -52,7 +75,8 @@ msgstr "Rendszerintegritás ellenőrzése"
 
 #: freedroid.program_archetypes:51
 msgid "While repairing damage you must remember that patience is a virtue."
-msgstr "A sérüléseid gyógyításánál vedd figyelembe, hogy a türelem rózsát terem."
+msgstr ""
+"A sérüléseid gyógyításánál vedd figyelembe, hogy a türelem rózsát terem."
 
 #: freedroid.program_archetypes:63
 msgid "Sanctuary"
@@ -61,10 +85,12 @@ msgstr "Menedék"
 #: freedroid.program_archetypes:64
 msgid ""
 "Effect: Teleport to town or back \n"
-"The art of rapidly moving away from danger is very useful. Even when used in reverse it has it's uses."
+"The art of rapidly moving away from danger is very useful. Even when used in "
+"reverse it has it's uses."
 msgstr ""
 "Hatása: Teleportál a városba és vissza \n"
-"A veszély előli gyors menekülés művészete nagyon hasznos. És visszafelé is jól használható."
+"A veszély előli gyors menekülés művészete nagyon hasznos. És visszafelé is "
+"jól használható."
 
 #: freedroid.program_archetypes:73
 msgid "Invisibility"
@@ -79,7 +105,8 @@ msgid "Malformed packet"
 msgstr "Törött csomag"
 
 #: freedroid.program_archetypes:85
-msgid "When computers are presented with the unexpected they can damage themselves."
+msgid ""
+"When computers are presented with the unexpected they can damage themselves."
 msgstr "Mikor a számítógépek váratlan dologgal találkoznak, megsérülhetnek."
 
 #: freedroid.program_archetypes:98
@@ -87,15 +114,20 @@ msgid "Calculate Pi"
 msgstr "Pi számítása"
 
 #: freedroid.program_archetypes:99
-msgid "It is not a big problem to make a badly designed system to go hunting for the impossible, causing a performance impact."
-msgstr "Nem nagy dolog egy rosszul tervezett rendszert lehetetlen feladat elé állítani, ezzel rendszerösszeomlást okozva."
+msgid ""
+"It is not a big problem to make a badly designed system to go hunting for "
+"the impossible, causing a performance impact."
+msgstr ""
+"Nem nagy dolog egy rosszul tervezett rendszert lehetetlen feladat elé "
+"állítani, ezzel rendszerösszeomlást okozva."
 
 #: freedroid.program_archetypes:114
 msgid "Blue Screen"
 msgstr "Kék Halál"
 
 #: freedroid.program_archetypes:115
-msgid "With a little touch a war machine comes crashing down to a halt. For a while."
+msgid ""
+"With a little touch a war machine comes crashing down to a halt. For a while."
 msgstr "Egy érintéstől a harci gép lefagy. Egy időre."
 
 #: freedroid.program_archetypes:128
@@ -103,118 +135,189 @@ msgid "Broadcast Blue Screen"
 msgstr "Kék Halál Megosztása"
 
 #: freedroid.program_archetypes:129
-msgid "With a little touch a war machine comes crashing down to a halt. For a while. The radio network is a wonderful invention for the people who like to blow up a lot of stuff at once."
-msgstr "Egy érintéstől a harci gép lefagy. Egy időre. A vezeték nélküli hálózat nagyszerű eszköz azok számára, akik egyszerre több gépet is meg akarnak érinteni."
+msgid ""
+"With a little touch a war machine comes crashing down to a halt. For a "
+"while. The radio network is a wonderful invention for the people who like to "
+"blow up a lot of stuff at once."
+msgstr ""
+"Egy érintéstől a harci gép lefagy. Egy időre. A vezeték nélküli hálózat "
+"nagyszerű eszköz azok számára, akik egyszerre több gépet is meg akarnak "
+"érinteni."
 
 #: freedroid.program_archetypes:143
 msgid "Virus"
 msgstr "Vírus"
 
 #: freedroid.program_archetypes:144
-msgid "This is not just a firmware upgrade, my dear bot. You are about to find out what exactly I want to give you."
-msgstr "Ez nem csak egy firmware frissítés, kicsi robot. Nézd csak, mit hoztam neked."
+msgid ""
+"This is not just a firmware upgrade, my dear bot. You are about to find out "
+"what exactly I want to give you."
+msgstr ""
+"Ez nem csak egy firmware frissítés, kicsi robot. Nézd csak, mit hoztam neked."
 
 #: freedroid.program_archetypes:158
 msgid "Broadcast virus"
 msgstr "Vírus Megosztás"
 
 #: freedroid.program_archetypes:159
-msgid "The network is wide and dangerous. Many traps await for the weak and unprepared."
-msgstr "A hálózat nagy és veszélyes. Sok veszély fenyegeti a gyengéket és készületleneket."
+msgid ""
+"The network is wide and dangerous. Many traps await for the weak and "
+"unprepared."
+msgstr ""
+"A hálózat nagy és veszélyes. Sok veszély fenyegeti a gyengéket és "
+"készületleneket."
 
 #: freedroid.program_archetypes:174
 msgid "Dispel smoke"
 msgstr "Füst Kivétel"
 
 #: freedroid.program_archetypes:175
-msgid "By heating up the chips with a malformed program you can cause them to release the magic smoke which keeps the bot running. "
-msgstr "A bot processzorok is füsttel működnek. Ha kijön belőlük a füst, nem működnek tovább."
+msgid ""
+"By heating up the chips with a malformed program you can cause them to "
+"release the magic smoke which keeps the bot running. "
+msgstr ""
+"A bot processzorok is füsttel működnek. Ha kijön belőlük a füst, nem "
+"működnek tovább."
 
 #: freedroid.program_archetypes:187
 msgid "Killer poke"
 msgstr "Gyilkos poke"
 
 #: freedroid.program_archetypes:188
-msgid "Messing around with the bot's memory can cause it to severly damage itself, but the damage is greatly variable."
-msgstr "A bot memória adatainak összekeverése sérülést okozhat, de a sérülés mértéke erősen változó."
+msgid ""
+"Messing around with the bot's memory can cause it to severly damage itself, "
+"but the damage is greatly variable."
+msgstr ""
+"A bot memória adatainak összekeverése sérülést okozhat, de a sérülés mértéke "
+"erősen változó."
 
 #: freedroid.program_archetypes:202
 msgid "Plasma discharge"
 msgstr "Plazma kisütés"
 
 #: freedroid.program_archetypes:203
-msgid "The overload setting exists for emergencies. The plasma does not discriminate between bots and humans."
-msgstr "A túltöltött plazma nem tesz különbséget bot és ember között. Mindkettővel ugyanazt teszi."
+msgid ""
+"The overload setting exists for emergencies. The plasma does not "
+"discriminate between bots and humans."
+msgstr ""
+"A túltöltött plazma nem tesz különbséget bot és ember között. Mindkettővel "
+"ugyanazt teszi."
 
 #: freedroid.program_archetypes:218
 msgid "Extract bot parts"
 msgstr "Bot alkatrészek kiszerelése"
 
 #: freedroid.program_archetypes:219
-msgid "With a little knowledge, you can extract some useful parts out of the robots you kill. With each bot there is some hope of a part falling out. This skill is always active even when not selected."
-msgstr "Egy kis hozzáértéssel ki tudsz szerelni pár értékes alkatrészt a botokból. Minden egyes botnál van egy kis esélyed, hogy kiesik belőle valami hasznosítható. Ez a képesség folyamatosan aktív, nincs szükség a kiválasztására."
+msgid ""
+"With a little knowledge, you can extract some useful parts out of the robots "
+"you kill. With each bot there is some hope of a part falling out. This skill "
+"is always active even when not selected."
+msgstr ""
+"Egy kis hozzáértéssel ki tudsz szerelni pár értékes alkatrészt a botokból. "
+"Minden egyes botnál van egy kis esélyed, hogy kiesik belőle valami "
+"hasznosítható. Ez a képesség folyamatosan aktív, nincs szükség a "
+"kiválasztására."
 
 #: freedroid.program_archetypes:227
 msgid "Analyze item"
 msgstr "Tárgy vizsgálata"
 
 #: freedroid.program_archetypes:228
-msgid "NOT IMPLEMENTED YET Current implementation will be removed and possibly reimplemented for something else due to addon system replacing magic items"
-msgstr "EZ MÉG NEM BIZTOS A jelenlegi leírás el lesz távolítva, és átalakul valami mássá, ha a helyettesítő mágikus eszközök beillesztésre kerülnek"
+msgid ""
+"NOT IMPLEMENTED YET Current implementation will be removed and possibly "
+"reimplemented for something else due to addon system replacing magic items"
+msgstr ""
+"EZ MÉG NEM BIZTOS A jelenlegi leírás el lesz távolítva, és átalakul valami "
+"mássá, ha a helyettesítő mágikus eszközök beillesztésre kerülnek"
 
 #: freedroid.program_archetypes:229
-msgid "Effect: Identify - There are very few items which have labels on them. Unless you happen to have an item labeled 'USE ME', you better make sure what it is before using it..."
-msgstr "Hatása: Azonosítás -Nagyon kevés felcímkézett eszköz létezik. Hacsak nem találsz valamit, amire 'HASZNÁLJ FEL' címke van ragasztva, jobb, ha azonosítod, mielőtt a kezedbe vennéd..."
+msgid ""
+"Effect: Identify - There are very few items which have labels on them. "
+"Unless you happen to have an item labeled 'USE ME', you better make sure "
+"what it is before using it..."
+msgstr ""
+"Hatása: Azonosítás -Nagyon kevés felcímkézett eszköz létezik. Hacsak nem "
+"találsz valamit, amire 'HASZNÁLJ FEL' címke van ragasztva, jobb, ha "
+"azonosítod, mielőtt a kezedbe vennéd..."
 
 #: freedroid.program_archetypes:239
 msgid "Nethack"
 msgstr "Nethack"
 
 #: freedroid.program_archetypes:240
-msgid "NOT IMPLEMENTED YET The open source game called Nethack is one of the world's greatest wasters of time. Machines don't care about it, but humans can get sucked in quite deeply."
-msgstr "EZ MÉG NEM BIZTOS A nyílt forráskódú Nethack játék az időpocsékolás legjobb módja. A gépek nem foglalkoznak vele, ám az emberek gyorsan képesek túl mélyen belebonyolódni."
+msgid ""
+"NOT IMPLEMENTED YET The open source game called Nethack is one of the "
+"world's greatest wasters of time. Machines don't care about it, but humans "
+"can get sucked in quite deeply."
+msgstr ""
+"EZ MÉG NEM BIZTOS A nyílt forráskódú Nethack játék az időpocsékolás legjobb "
+"módja. A gépek nem foglalkoznak vele, ám az emberek gyorsan képesek túl "
+"mélyen belebonyolódni."
 
 #: freedroid.program_archetypes:255
 msgid "Reverse-engineer"
 msgstr "Visszatervezés"
 
 #: freedroid.program_archetypes:256
-msgid "NOT IMPLEMENTED YET There is some dark magic in the art of turning devices or programs inside-out, picking them appart to learn all their secrets and putting them back again."
-msgstr "EZ MÉG NEM BIZTOS Van némi feketemágia a botok kifordításának tudományában. Fordítsd ki és fürkészd ki minden titkukat."
+msgid ""
+"NOT IMPLEMENTED YET There is some dark magic in the art of turning devices "
+"or programs inside-out, picking them appart to learn all their secrets and "
+"putting them back again."
+msgstr ""
+"EZ MÉG NEM BIZTOS Van némi feketemágia a botok kifordításának tudományában. "
+"Fordítsd ki és fürkészd ki minden titkukat."
 
 #: freedroid.program_archetypes:267
 msgid "Ricer CFLAGS"
 msgstr "CFLAGS rendezés"
 
 #: freedroid.program_archetypes:268
-msgid "NOT IMPLEMENTED YET Optimization is the root of all evil. You can gain some temporary speed improvements to your system, but in the end you will likely overheat and cause permanent damage if you are not careful."
-msgstr "EZ MÉG NEM BIZTOS Az optimalizálás minden gonosz forrása. Nyerhetsz némi ideiglenes rendszerteljesítményt, de vigyázz, mert könnyen túlmelegedéssel végződhet, és maradandó sérülést szenvedhetsz."
+msgid ""
+"NOT IMPLEMENTED YET Optimization is the root of all evil. You can gain some "
+"temporary speed improvements to your system, but in the end you will likely "
+"overheat and cause permanent damage if you are not careful."
+msgstr ""
+"EZ MÉG NEM BIZTOS Az optimalizálás minden gonosz forrása. Nyerhetsz némi "
+"ideiglenes rendszerteljesítményt, de vigyázz, mert könnyen túlmelegedéssel "
+"végződhet, és maradandó sérülést szenvedhetsz."
 
 #: freedroid.program_archetypes:276
 msgid "Light"
 msgstr "Fény"
 
 #: freedroid.program_archetypes:277
-msgid "NOT IMPLEMENTED YET This does nothing in this version of freedroidRPG. Let there be light..."
-msgstr "EZ MÉG NEM BIZTOS A Freedroid RPG e verziójában nem csinál semmit. S lőn világosság..."
+msgid ""
+"NOT IMPLEMENTED YET This does nothing in this version of freedroidRPG. Let "
+"there be light..."
+msgstr ""
+"EZ MÉG NEM BIZTOS A Freedroid RPG e verziójában nem csinál semmit. S lőn "
+"világosság..."
 
 #: freedroid.program_archetypes:286
 msgid "Satellite image"
 msgstr "Műholdkép"
 
 #: freedroid.program_archetypes:287
-msgid "NOT IMPLEMENTED YET Getting a map of an area is pretty easy when you can look at everything from above."
-msgstr "EZ MÉG NEM BIZTOS A Freedroid RPG e verziójában nem csinál semmit. Könnyű egy fentről készült térképen megnézni, mi hol található."
+msgid ""
+"NOT IMPLEMENTED YET Getting a map of an area is pretty easy when you can "
+"look at everything from above."
+msgstr ""
+"EZ MÉG NEM BIZTOS A Freedroid RPG e verziójában nem csinál semmit. Könnyű "
+"egy fentről készült térképen megnézni, mi hol található."
 
 #: freedroid.program_archetypes:295
 msgid "Plasma grenade"
 msgstr "Plazma gránát"
 
-#: freedroid.program_archetypes:296
-#: freedroid.program_archetypes:308
+#: freedroid.program_archetypes:296 freedroid.program_archetypes:308
 #: freedroid.program_archetypes:320
-msgid "If you see this in game it is a bug. Please report this to the developers, unless you cheated, in which case you deserve to see this silly nonsense description."
-msgstr "Ez egy bug, jelentsd a fejlesztőknek. Ám ha cheateltél, akkor is előjöhet ez a hülye magyarázat."
+msgid ""
+"If you see this in game it is a bug. Please report this to the developers, "
+"unless you cheated, in which case you deserve to see this silly nonsense "
+"description."
+msgstr ""
+"Ez egy bug, jelentsd a fejlesztőknek. Ám ha cheateltél, akkor is előjöhet ez "
+"a hülye magyarázat."
 
 #: freedroid.program_archetypes:307
 msgid "Gas grenade"
@@ -223,4 +326,3 @@ msgstr "Gáz gránát"
 #: freedroid.program_archetypes:319
 msgid "EMP grenade"
 msgstr "EMP gránát"
-

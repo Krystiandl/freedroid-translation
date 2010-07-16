@@ -2,43 +2,48 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-05 14:52+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: Butch.dialog:38
-#: Butch.dialog:39
-#: Butch.dialog:120
-#: Butch.dialog:131
-#: Butch.dialog:148
-#: Butch.dialog:213
+#: Butch.dialog:38 Butch.dialog:39 Butch.dialog:120 Butch.dialog:131
+#: Butch.dialog:148 Butch.dialog:213
 msgid "Novice Arena"
 msgstr "Újonc Aréna"
 
 #: Butch.dialog:40
-msgid "I've already opened the door for you. All you need to do is walk in there and crush all four bots."
-msgstr "Már kinyitottam neked az ajtót. Csak annyit kell tedded, hogy besétálsz, és szétütöd mind a négy botot."
+msgid ""
+"I've already opened the door for you. All you need to do is walk in there "
+"and crush all four bots."
+msgstr ""
+"Már kinyitottam neked az ajtót. Csak annyit kell tedded, hogy besétálsz, és "
+"szétütöd mind a négy botot."
 
-#: Butch.dialog:50
-#: Butch.dialog:51
-#: Butch.dialog:157
-#: Butch.dialog:171
+#: Butch.dialog:50 Butch.dialog:51 Butch.dialog:157 Butch.dialog:171
 msgid "Time to say goodnight"
 msgstr "Ideje jóéjt kívánni"
 
 #: Butch.dialog:52
-msgid "I've already opened the door. What are you waiting for? All you need to do is go down to the master arena and fight the bots."
-msgstr "Már kinyitottam az ajtót. Mire vársz? Annyi a dolgod, hogy lemész a mester arénába, és megküzdesz a botokkal."
+msgid ""
+"I've already opened the door. What are you waiting for? All you need to do "
+"is go down to the master arena and fight the bots."
+msgstr ""
+"Már kinyitottam az ajtót. Mire vársz? Annyi a dolgod, hogy lemész a mester "
+"arénába, és megküzdesz a botokkal."
 
 #: Butch.dialog:53
-msgid "But I can understand if you hesitate. The master arena is by no means an easy task. Maybe you should practice some more before you go down."
-msgstr "Megértem, ha jól meggondolod. A mester aréna nem egyszerű feladat. Talán gyakorolhatnál még előtte, mielőtt lemész oda."
+msgid ""
+"But I can understand if you hesitate. The master arena is by no means an "
+"easy task. Maybe you should practice some more before you go down."
+msgstr ""
+"Megértem, ha jól meggondolod. A mester aréna nem egyszerű feladat. Talán "
+"gyakorolhatnál még előtte, mielőtt lemész oda."
 
 #: Butch.dialog:66
 msgid "Hi! I'm new here."
@@ -97,8 +102,12 @@ msgid "Arena? What arena?"
 msgstr "Aréna? Milyen aréna?"
 
 #: Butch.dialog:108
-msgid "The underground arena. With holographic bots to train combat techniques against."
-msgstr "A földalatti aréna. Holografikus botokkal, akikkel gyakorolhatod a harci technikákat."
+msgid ""
+"The underground arena. With holographic bots to train combat techniques "
+"against."
+msgstr ""
+"A földalatti aréna. Holografikus botokkal, akikkel gyakorolhatod a harci "
+"technikákat."
 
 #: Butch.dialog:109
 msgid "Wanna fight?"
@@ -109,25 +118,40 @@ msgid "Yeah. I want to fight."
 msgstr "Aha. Harcolni akarok."
 
 #: Butch.dialog:116
-msgid "Good. I opened up the novice arena gate. Just climb down the ladder south of here."
-msgstr "Rendben. Kinyitottam az újonc aréna kapuját. Innen délre van egy létra, mássz le rajta."
+msgid ""
+"Good. I opened up the novice arena gate. Just climb down the ladder south of "
+"here."
+msgstr ""
+"Rendben. Kinyitottam az újonc aréna kapuját. Innen délre van egy létra, "
+"mássz le rajta."
 
 #: Butch.dialog:117
 msgid "But remember, the door out won't be opened until you kill all the bots."
-msgstr "Ám vésd az eszedbe, az ajtó csak akkor nyílik, ha az összes botot megölted."
+msgstr ""
+"Ám vésd az eszedbe, az ajtó csak akkor nyílik, ha az összes botot megölted."
 
 #: Butch.dialog:118
-msgid "And be careful, your brain get so fooled by what happens in the holographic world that you take physical damage for real."
-msgstr "És légy elővigyázatos, mert az agyad annyira hozzászokhat a holografikus világhoz, hogy az a valós pszichédre is kihathat."
+msgid ""
+"And be careful, your brain get so fooled by what happens in the holographic "
+"world that you take physical damage for real."
+msgstr ""
+"És légy elővigyázatos, mert az agyad annyira hozzászokhat a holografikus "
+"világhoz, hogy az a valós pszichédre is kihathat."
 
 #: Butch.dialog:119
-msgid "So even if the enemies are only holograms, they can still hurt you and even kill you."
-msgstr "Bár az ellenség csak hologram, mégis megsérülhetsz, akár meg is halhatsz."
+msgid ""
+"So even if the enemies are only holograms, they can still hurt you and even "
+"kill you."
+msgstr ""
+"Bár az ellenség csak hologram, mégis megsérülhetsz, akár meg is halhatsz."
 
-#: Butch.dialog:120
-#: Butch.dialog:213
-msgid "Fighting in the arena is not something I would usually do, but I feel like doing it for a change. Why not?"
-msgstr "Az aránában való küzdelem nem olyan, amit naponta gyakorlok, de azt hiszem megpróbálhatom. Miért ne?"
+#: Butch.dialog:120 Butch.dialog:213
+msgid ""
+"Fighting in the arena is not something I would usually do, but I feel like "
+"doing it for a change. Why not?"
+msgstr ""
+"Az aránában való küzdelem nem olyan, amit naponta gyakorlok, de azt hiszem "
+"megpróbálhatom. Miért ne?"
 
 #: Butch.dialog:126
 msgid "The bots are dead."
@@ -146,8 +170,11 @@ msgid "I will say a good word to Spencer about this."
 msgstr "Szólok pár jó szót erről Spencernek."
 
 #: Butch.dialog:131
-msgid "Now that was easy. *Yawn*. I nearly fell asleep. No problem at all, the bots are dead."
-msgstr "Ez könnyű volt. *ásít*. Majdnem elaludtam. Nem volt gond, a botok halottak."
+msgid ""
+"Now that was easy. *Yawn*. I nearly fell asleep. No problem at all, the bots "
+"are dead."
+msgstr ""
+"Ez könnyű volt. *ásít*. Majdnem elaludtam. Nem volt gond, a botok halottak."
 
 #: Butch.dialog:136
 msgid "I thought I was going to fight you, coward."
@@ -174,16 +201,28 @@ msgid "I want a bigger challenge."
 msgstr "Nagyobb kihívást akarok."
 
 #: Butch.dialog:149
-msgid "I'm sorry, but town regulations forbid access to the master arena unless you've completed the novice arena first."
-msgstr "Sajnálom, de a város szabályai tiltják, hogy az újonc aréna befejezése előtt a mester arénába menj."
+msgid ""
+"I'm sorry, but town regulations forbid access to the master arena unless "
+"you've completed the novice arena first."
+msgstr ""
+"Sajnálom, de a város szabályai tiltják, hogy az újonc aréna befejezése előtt "
+"a mester arénába menj."
 
 #: Butch.dialog:150
-msgid "This regulation is in place for your own safety, so that no newbie accidentally signs up for the master arena."
-msgstr "Ez a szabály a saját biztonságodat szolgálja, egy totál újonc sohasem léphet először a mester arénába."
+msgid ""
+"This regulation is in place for your own safety, so that no newbie "
+"accidentally signs up for the master arena."
+msgstr ""
+"Ez a szabály a saját biztonságodat szolgálja, egy totál újonc sohasem léphet "
+"először a mester arénába."
 
 #: Butch.dialog:151
-msgid "You might try taking the novice arena first. Then I can grant you access to the master field."
-msgstr "Először az újonc arénával kellene próbálkoznod. Utána biztosítom a mester arénába való lejutásodat."
+msgid ""
+"You might try taking the novice arena first. Then I can grant you access to "
+"the master field."
+msgstr ""
+"Először az újonc arénával kellene próbálkoznod. Utána biztosítom a mester "
+"arénába való lejutásodat."
 
 #: Butch.dialog:153
 msgid "Newbie, I have a second arena."
@@ -202,8 +241,16 @@ msgid "But if you really want it, the door is now open."
 msgstr "De ha igazán akarod, az ajtó már nyitva van."
 
 #: Butch.dialog:157
-msgid "I told the arena master to let me into his master arena. He agreed. Now all that remains to do is to climb down the ladder to the north arena and wait for death herself to come on her black wings and claim my soul. You know, now that I think about it... Maybe I should stay out of there?"
-msgstr "Mondtam az arénamesternek, hogy engedjen be a mester arénába. Megengedte. Most már csak az maradt, hogy lemásszak a lértán, és találkozzak magával a halállal, aki fekete szárnyán suhan felém, hogy elragadja a lelkemet. Tudod, most mire gondolok? Talán nem kellene oda lemennem..."
+msgid ""
+"I told the arena master to let me into his master arena. He agreed. Now all "
+"that remains to do is to climb down the ladder to the north arena and wait "
+"for death herself to come on her black wings and claim my soul. You know, "
+"now that I think about it... Maybe I should stay out of there?"
+msgstr ""
+"Mondtam az arénamesternek, hogy engedjen be a mester arénába. Megengedte. "
+"Most már csak az maradt, hogy lemásszak a lértán, és találkozzak magával a "
+"halállal, aki fekete szárnyán suhan felém, hogy elragadja a lelkemet. Tudod, "
+"most mire gondolok? Talán nem kellene oda lemennem..."
 
 #: Butch.dialog:164
 msgid "The master arena is clear."
@@ -238,7 +285,8 @@ msgid "Because you ARE a newbie, newbie!"
 msgstr "Mert az vagy, zöldfülű!"
 
 #: Butch.dialog:183
-msgid "Why the hell are you organizing fights? Enough people have died already!"
+msgid ""
+"Why the hell are you organizing fights? Enough people have died already!"
 msgstr "Mi a fenéért szervezel küzdelmeket? Elég ember halt már meg."
 
 #: Butch.dialog:185
@@ -253,8 +301,7 @@ msgstr "Nálad tapasztaltabbak sem értenék meg."
 msgid "No way! Violence is wrong! Make love not war!"
 msgstr "Soha! Az erőszak nem megoldás. Szeretkezz, ne háborúzz!"
 
-#: Butch.dialog:193
-#: Butch.dialog:200
+#: Butch.dialog:193 Butch.dialog:200
 msgid " . . ."
 msgstr ". . ."
 
@@ -283,8 +330,12 @@ msgid "The bots bleed black."
 msgstr "A botok feketén véreznek."
 
 #: Butch.dialog:211
-msgid "You... Have ruined my pacifistic slogan... I am angry... So angry that I want to smash things!"
-msgstr "Te... Elrontottad a békeszlogenemet... Mérhes vagyok... Olyan mérges, hogy legszívesebben összetörnék valamit!"
+msgid ""
+"You... Have ruined my pacifistic slogan... I am angry... So angry that I "
+"want to smash things!"
+msgstr ""
+"Te... Elrontottad a békeszlogenemet... Mérhes vagyok... Olyan mérges, hogy "
+"legszívesebben összetörnék valamit!"
 
 #: Butch.dialog:212
 msgid "Great. Get in the door, newbie."
@@ -295,11 +346,17 @@ msgid "I want to fight in the novice arena!"
 msgstr "Az újonc arénában akarok küzdeni!"
 
 #: Butch.dialog:221
-msgid "You've already completed the novice arena. But since you really want to have another go, I'll cause the bots to respawn now. There, it's done."
-msgstr "Már teljesítetted az újonc arénát. De ha még egyszer szeretnéd végigcsinálni, indulj, és újraindítom a hologram botokat. Kész is van."
+msgid ""
+"You've already completed the novice arena. But since you really want to have "
+"another go, I'll cause the bots to respawn now. There, it's done."
+msgstr ""
+"Már teljesítetted az újonc arénát. De ha még egyszer szeretnéd "
+"végigcsinálni, indulj, és újraindítom a hologram botokat. Kész is van."
 
 #: Butch.dialog:222
-msgid "But you also might want to try the master arena now, maybe? If so, just say so."
+msgid ""
+"But you also might want to try the master arena now, maybe? If so, just say "
+"so."
 msgstr "Talán ki akarod próbálni a mester arénát? Ha igen, csak szólj."
 
 #: Butch.dialog:228
@@ -307,11 +364,17 @@ msgid "I want to fight in the master arena!"
 msgstr "A mester arénában akaok küzdeni!"
 
 #: Butch.dialog:230
-msgid "But you've already completed the master arena. Ok, but I can have the bots respawn for you now, so you can have another go!"
-msgstr "Már teljesítetted a mester arénát. Ha akarod, újraindíthatom a botokat, és mehetsz még egy kört."
+msgid ""
+"But you've already completed the master arena. Ok, but I can have the bots "
+"respawn for you now, so you can have another go!"
+msgstr ""
+"Már teljesítetted a mester arénát. Ha akarod, újraindíthatom a botokat, és "
+"mehetsz még egy kört."
 
 #: Butch.dialog:231
-msgid "But certainly you've earned yourself a reputation as arena master around here now and we respect that."
+msgid ""
+"But certainly you've earned yourself a reputation as arena master around "
+"here now and we respect that."
 msgstr "Már elérted, hogy aréna mester legyél, és mi tiszteljük ezt."
 
 #: Butch.dialog:237
@@ -333,4 +396,3 @@ msgstr "Emlékezz: a fájdalom csak időleges, ám a dicsőség örök."
 #: Butch.dialog:239
 msgid "Go kill some bots."
 msgstr "Menj, ölj meg pár botot."
-

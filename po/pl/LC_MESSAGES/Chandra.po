@@ -2,15 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-08 14:01+0100\n"
 "Last-Translator: Angelika Maria Piątkowska <piatkosia.apt@interia.pl>\n"
 "Language-Team: none\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 
 #: Chandra.dialog:41
 msgid "Hi! I'm new here."
@@ -26,18 +27,34 @@ msgstr "Co możesz mi powiedzieć o tym miejscu?"
 
 # Może ktoś to ujmie lepiej. Jak na razie nie oznaczam za niepewne
 #: Chandra.dialog:50
-msgid "This small town used to be a somewhat successful mining community, exporting rare earth materials and other resources to the rest of the solar system."
-msgstr "To małe miasto używane do czegoś udanego przez górniczą społeczność, eksportowanie rzadkich minerałów i innych surowców w układzie słonecznym."
+msgid ""
+"This small town used to be a somewhat successful mining community, exporting "
+"rare earth materials and other resources to the rest of the solar system."
+msgstr ""
+"To małe miasto używane do czegoś udanego przez górniczą społeczność, "
+"eksportowanie rzadkich minerałów i innych surowców w układzie słonecznym."
 
 # Mogłoby być że grozi bankructwo, ale tak jest bardziej na polskie realia.
 #: Chandra.dialog:51
-msgid "The mines have depleted recently, however. The town was under a threat of bankruptcy. Living here became harder and many left to seek new opportunities elsewhere."
-msgstr "Jaskinie są eksploatowane od niedawna, jednakże miasto jest na skraju bankructwa. Życie tutaj stało się cięższe i wielu je opuściło by poszukać nowych możliwości gdzie indziej."
+msgid ""
+"The mines have depleted recently, however. The town was under a threat of "
+"bankruptcy. Living here became harder and many left to seek new "
+"opportunities elsewhere."
+msgstr ""
+"Jaskinie są eksploatowane od niedawna, jednakże miasto jest na skraju "
+"bankructwa. Życie tutaj stało się cięższe i wielu je opuściło by poszukać "
+"nowych możliwości gdzie indziej."
 
 #: Chandra.dialog:52
 #, fuzzy
-msgid "But now after the Great Assault, the rest of the planet gets bombarded by automated bot ships every now and then, so being down here isn't so bad at all."
-msgstr "Ale teraz, po Wielkiej Walce, reszta planety jest bombardowana z każdą chwilą przez zautomatyzowane statki botów tak więc istoty ginęły tutaj, ale to nie było najgorsze."
+msgid ""
+"But now after the Great Assault, the rest of the planet gets bombarded by "
+"automated bot ships every now and then, so being down here isn't so bad at "
+"all."
+msgstr ""
+"Ale teraz, po Wielkiej Walce, reszta planety jest bombardowana z każdą "
+"chwilą przez zautomatyzowane statki botów tak więc istoty ginęły tutaj, ale "
+"to nie było najgorsze."
 
 #: Chandra.dialog:53
 msgid "Even with the Red Guard in charge, I suppose."
@@ -48,8 +65,12 @@ msgid "Where can I get better equipment?"
 msgstr "Gdzie mogę dostać lepsze wyposażenie?"
 
 #: Chandra.dialog:60
-msgid "The shop is to the north, near the gate. Ms. Stone always has a good range of equipment there, with fair prices too."
-msgstr "Sklep jest na północy, koło bramy. Pani Stone zawsze ma tam dobry asortyment i nie zdziera na cenie."
+msgid ""
+"The shop is to the north, near the gate. Ms. Stone always has a good range "
+"of equipment there, with fair prices too."
+msgstr ""
+"Sklep jest na północy, koło bramy. Pani Stone zawsze ma tam dobry asortyment "
+"i nie zdziera na cenie."
 
 #: Chandra.dialog:61
 #, fuzzy
@@ -57,20 +78,34 @@ msgid "Not that you have much choice."
 msgstr "Nie tutaj masz wiele wyborów."
 
 #: Chandra.dialog:62
-msgid "Of course, the Red Guard always has the biggest guns and the best armor, but they do not sell them to non-members."
-msgstr "Oczywiście Czerwona Gwardia zawsze ma większą broń i lepszą amunicję, ale nie sprzedają jej ludziom z poza."
+msgid ""
+"Of course, the Red Guard always has the biggest guns and the best armor, but "
+"they do not sell them to non-members."
+msgstr ""
+"Oczywiście Czerwona Gwardia zawsze ma większą broń i lepszą amunicję, ale "
+"nie sprzedają jej ludziom z poza."
 
 #: Chandra.dialog:67
 msgid "So what's so strange about the attack?"
 msgstr "Więc co jest najdziwniejsze w ataku?"
 
 #: Chandra.dialog:69
-msgid "According to my calculations from the Fermi estimate, there are about seven million bots active in the region, everything from cleaner bots and servant droids to much more dangerous ones."
-msgstr "Według moich obliczeń z szacunków Fermiego, jedt około siedem milionów botów aktywnych w tym regionie, wszystkich od czystych botów i sług droidów do o wiele bardziej niebezpiecznych jednostek."
+msgid ""
+"According to my calculations from the Fermi estimate, there are about seven "
+"million bots active in the region, everything from cleaner bots and servant "
+"droids to much more dangerous ones."
+msgstr ""
+"Według moich obliczeń z szacunków Fermiego, jedt około siedem milionów botów "
+"aktywnych w tym regionie, wszystkich od czystych botów i sług droidów do o "
+"wiele bardziej niebezpiecznych jednostek."
 
 #: Chandra.dialog:70
-msgid "Now, I think you will agree with me that the following statement is true: If bots, then death to everything alive."
-msgstr "Teraz, myślę że zgodzisz się ze mną że prawdą jest stwierdzenie: Jeżeli boty, to śmierć by wszystko żyło."
+msgid ""
+"Now, I think you will agree with me that the following statement is true: If "
+"bots, then death to everything alive."
+msgstr ""
+"Teraz, myślę że zgodzisz się ze mną że prawdą jest stwierdzenie: Jeżeli "
+"boty, to śmierć by wszystko żyło."
 
 #: Chandra.dialog:71
 msgid "Now, I make the assumption that you and I are alive."
@@ -109,11 +144,16 @@ msgid "What do you know about the hostile bots?"
 msgstr "Co wiesz o wrogich botach?"
 
 #: Chandra.dialog:85
-msgid "The phenomenon of hostile bots has occupied my mind for quite some time. There are some strange irrationalities in this behaviour, that I cannot explain."
+msgid ""
+"The phenomenon of hostile bots has occupied my mind for quite some time. "
+"There are some strange irrationalities in this behaviour, that I cannot "
+"explain."
 msgstr "Fenomenem wrogich botów jest"
 
 #: Chandra.dialog:86
-msgid "This concerns not only the suddenness of the attack but also the methods and the scale of it all."
+msgid ""
+"This concerns not only the suddenness of the attack but also the methods and "
+"the scale of it all."
 msgstr ""
 
 #: Chandra.dialog:91
@@ -121,7 +161,9 @@ msgid "What types of bots are out there?"
 msgstr ""
 
 #: Chandra.dialog:93
-msgid "There are many. Each kind of bot has a number consisting of three digits. The first one is the most significant, the class of a bot."
+msgid ""
+"There are many. Each kind of bot has a number consisting of three digits. "
+"The first one is the most significant, the class of a bot."
 msgstr ""
 
 #: Chandra.dialog:94
@@ -129,19 +171,30 @@ msgid "I know a bit about three classes."
 msgstr ""
 
 #: Chandra.dialog:95
-msgid "The 100s are cleaning bots of old. Being that, they are quite common. Fortunately for us they aren't as good at killing things as they are at cleaning up the mess afterwards."
+msgid ""
+"The 100s are cleaning bots of old. Being that, they are quite common. "
+"Fortunately for us they aren't as good at killing things as they are at "
+"cleaning up the mess afterwards."
 msgstr ""
 
 #: Chandra.dialog:96
-msgid "The 200s are servant bots, designed to come quickly when summoned and be able to lift heavy weights. That makes them more dangerous under most circumstances, so beware of being attacked by more than one at the same time."
+msgid ""
+"The 200s are servant bots, designed to come quickly when summoned and be "
+"able to lift heavy weights. That makes them more dangerous under most "
+"circumstances, so beware of being attacked by more than one at the same time."
 msgstr ""
 
 #: Chandra.dialog:97
-msgid "Right now, an encounter with a 300 type bot equals death, so try to avoid it. They were messenger bots before the Great Assault, which means they have superb visual sensors and some are very fast."
+msgid ""
+"Right now, an encounter with a 300 type bot equals death, so try to avoid "
+"it. They were messenger bots before the Great Assault, which means they have "
+"superb visual sensors and some are very fast."
 msgstr ""
 
 #: Chandra.dialog:98
-msgid "There are many more classes out there. The military used bots, of course, and they were used on ships, but I know nothing about those types."
+msgid ""
+"There are many more classes out there. The military used bots, of course, "
+"and they were used on ships, but I know nothing about those types."
 msgstr ""
 
 #: Chandra.dialog:103
@@ -153,7 +206,9 @@ msgid "We all do, Linarian, we all do."
 msgstr ""
 
 #: Chandra.dialog:106
-msgid "The act in question is made impossible by the quasi-infinite bots outside of the city walls."
+msgid ""
+"The act in question is made impossible by the quasi-infinite bots outside of "
+"the city walls."
 msgstr ""
 
 #: Chandra.dialog:107
@@ -165,7 +220,9 @@ msgid "No, I meant I would like to leave this world."
 msgstr ""
 
 #: Chandra.dialog:114
-msgid "Simple. Walk outside the city walls, and the bots will send you to the other world within a few minutes."
+msgid ""
+"Simple. Walk outside the city walls, and the bots will send you to the other "
+"world within a few minutes."
 msgstr ""
 
 #: Chandra.dialog:115
@@ -173,7 +230,8 @@ msgid "Unless you mean leave the planet, in which case that is impossible."
 msgstr ""
 
 #: Chandra.dialog:116
-msgid "Most likely all of our cosmodromes have been destroyed in the bot attacks."
+msgid ""
+"Most likely all of our cosmodromes have been destroyed in the bot attacks."
 msgstr ""
 
 #: Chandra.dialog:121
@@ -185,35 +243,54 @@ msgid "There are many things you can do. The first is to fight more bots."
 msgstr ""
 
 #: Chandra.dialog:124
-msgid "Er... Wouldn't that cause me to get beaten up more and therefore be counter-productive?"
+msgid ""
+"Er... Wouldn't that cause me to get beaten up more and therefore be counter-"
+"productive?"
 msgstr ""
 
 #: Chandra.dialog:125
-msgid "Your logic is infallible, Linarian, but you are forgetting one thing: the more you fight, the more experienced you become, and the better at surviving you get."
+msgid ""
+"Your logic is infallible, Linarian, but you are forgetting one thing: the "
+"more you fight, the more experienced you become, and the better at surviving "
+"you get."
 msgstr ""
 
 #: Chandra.dialog:126
-msgid "Also, if you have the money and can find a supplier, it is wise to invest in better equipment - more protective clothing and better weaponry."
+msgid ""
+"Also, if you have the money and can find a supplier, it is wise to invest in "
+"better equipment - more protective clothing and better weaponry."
 msgstr ""
 
 #: Chandra.dialog:127
-msgid "My advice is to invest in a ranged weapon. While that can create a huge hole in your wallet, it also creates several in the bots, and is better than a huge hole in you."
+msgid ""
+"My advice is to invest in a ranged weapon. While that can create a huge hole "
+"in your wallet, it also creates several in the bots, and is better than a "
+"huge hole in you."
 msgstr ""
 
 #: Chandra.dialog:128
-msgid "Currently there is a ban on selling such things. The Red Guard wants to be the only ones with good weapons."
+msgid ""
+"Currently there is a ban on selling such things. The Red Guard wants to be "
+"the only ones with good weapons."
 msgstr ""
 
 #: Chandra.dialog:129
-msgid "Should you fail to find something decent to shoot or swing with, there are always other options."
+msgid ""
+"Should you fail to find something decent to shoot or swing with, there are "
+"always other options."
 msgstr ""
 
 #: Chandra.dialog:130
-msgid "Ewald, the barkeeper, usually sells an assortment of junk, but even he sometimes has something worthwhile on display."
+msgid ""
+"Ewald, the barkeeper, usually sells an assortment of junk, but even he "
+"sometimes has something worthwhile on display."
 msgstr ""
 
 #: Chandra.dialog:131
-msgid "There was a person selling grenades, too. Eh... I forgot his name, my memory is not serving me very well today. He's a very mysterious fellow. Perhaps he can help you."
+msgid ""
+"There was a person selling grenades, too. Eh... I forgot his name, my memory "
+"is not serving me very well today. He's a very mysterious fellow. Perhaps he "
+"can help you."
 msgstr ""
 
 #: Chandra.dialog:132
@@ -225,15 +302,21 @@ msgid "Do you think I could join the guardians of this town?"
 msgstr ""
 
 #: Chandra.dialog:139
-msgid "The Red Guard? Unlikely. You'd have to establish a reputation beforehand, and demonstrate that you can fix things."
+msgid ""
+"The Red Guard? Unlikely. You'd have to establish a reputation beforehand, "
+"and demonstrate that you can fix things."
 msgstr ""
 
 #: Chandra.dialog:140
-msgid "Also, the Red Guard is not a very popular organization, so if you do join them then you can expect to be hated by nearly everyone here."
+msgid ""
+"Also, the Red Guard is not a very popular organization, so if you do join "
+"them then you can expect to be hated by nearly everyone here."
 msgstr ""
 
 #: Chandra.dialog:141
-msgid "As the ancients said, 'Boni pastoris est tondere pecus, non deglubere'. A good tax must be a reasonable tax."
+msgid ""
+"As the ancients said, 'Boni pastoris est tondere pecus, non deglubere'. A "
+"good tax must be a reasonable tax."
 msgstr ""
 
 #: Chandra.dialog:146
@@ -241,7 +324,10 @@ msgid "What bots are in the 100 class?"
 msgstr ""
 
 #: Chandra.dialog:148
-msgid "I know of two types, the 123 and the 139. The former is a simple cleaning bot, and is fairly weak. The latter is a mobile trash compactor. Don't get your flippers get caught in one of those."
+msgid ""
+"I know of two types, the 123 and the 139. The former is a simple cleaning "
+"bot, and is fairly weak. The latter is a mobile trash compactor. Don't get "
+"your flippers get caught in one of those."
 msgstr ""
 
 #: Chandra.dialog:149
@@ -253,7 +339,9 @@ msgid "Many strange things have happened since the Great Assault."
 msgstr ""
 
 #: Chandra.dialog:151
-msgid "Any way, because the class 100 bots are neither fast nor dangerous, the Red Guard often uses them for target practice."
+msgid ""
+"Any way, because the class 100 bots are neither fast nor dangerous, the Red "
+"Guard often uses them for target practice."
 msgstr ""
 
 #: Chandra.dialog:152
@@ -269,19 +357,29 @@ msgid "What bots are in the 200 class?"
 msgstr ""
 
 #: Chandra.dialog:160
-msgid "In fitting with the lazy nature of humans, there are several servant bots of the 200 class."
+msgid ""
+"In fitting with the lazy nature of humans, there are several servant bots of "
+"the 200 class."
 msgstr ""
 
 #: Chandra.dialog:161
-msgid "The 247 is often called the 'Banshee'. Being a simple servant robot, it isn't very well equipped to kill, although its arms are quite strong."
+msgid ""
+"The 247 is often called the 'Banshee'. Being a simple servant robot, it "
+"isn't very well equipped to kill, although its arms are quite strong."
 msgstr ""
 
 #: Chandra.dialog:162
-msgid "Also, as I said, the 200s were built to report quickly. The 247 is no exception, and moves faster than some of us can run. As a killer bot, it has a fast rate of attack. It is not something to be trifled with."
+msgid ""
+"Also, as I said, the 200s were built to report quickly. The 247 is no "
+"exception, and moves faster than some of us can run. As a killer bot, it has "
+"a fast rate of attack. It is not something to be trifled with."
 msgstr ""
 
 #: Chandra.dialog:163
-msgid "The 249 is a cheaper version of the Banshee. It uses a tripedal drive instead of anti-gravity propulsion, and is therefore slower. However it is much more dangerous: its machine gun has a very high rate of fire."
+msgid ""
+"The 249 is a cheaper version of the Banshee. It uses a tripedal drive "
+"instead of anti-gravity propulsion, and is therefore slower. However it is "
+"much more dangerous: its machine gun has a very high rate of fire."
 msgstr ""
 
 #: Chandra.dialog:164
@@ -297,7 +395,9 @@ msgid ". I know."
 msgstr ""
 
 #: Chandra.dialog:166
-msgid "Let's see... Oh, there is also the 296, which was used for serving drinks. Ewald once had one of those in his bar."
+msgid ""
+"Let's see... Oh, there is also the 296, which was used for serving drinks. "
+"Ewald once had one of those in his bar."
 msgstr ""
 
 #: Chandra.dialog:167
@@ -305,7 +405,9 @@ msgid "Once? What happened to it?"
 msgstr ""
 
 #: Chandra.dialog:168
-msgid "No one knows. One day it simply wasn't there. Ewald probably remembers more than I do, though."
+msgid ""
+"No one knows. One day it simply wasn't there. Ewald probably remembers more "
+"than I do, though."
 msgstr ""
 
 #: Chandra.dialog:174
@@ -313,11 +415,17 @@ msgid "What other bots are out there?"
 msgstr ""
 
 #: Chandra.dialog:176
-msgid "Though I do not know the details, I assure you there are many. Robots and automated machinery served almost every purpose you can imagine, and probably some that you can't."
+msgid ""
+"Though I do not know the details, I assure you there are many. Robots and "
+"automated machinery served almost every purpose you can imagine, and "
+"probably some that you can't."
 msgstr ""
 
 #: Chandra.dialog:177
-msgid "They were used by the military, aboard ships, as security droids and more. Right now, however, most of the people who know them up close are pushing up daisies."
+msgid ""
+"They were used by the military, aboard ships, as security droids and more. "
+"Right now, however, most of the people who know them up close are pushing up "
+"daisies."
 msgstr ""
 
 #: Chandra.dialog:182
@@ -327,4 +435,3 @@ msgstr ""
 #: Chandra.dialog:184
 msgid "Feel free to come here any time you want."
 msgstr ""
-

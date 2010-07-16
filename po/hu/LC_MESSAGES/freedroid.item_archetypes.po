@@ -2,19 +2,26 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-06 14:09+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: freedroid.item_archetypes:52
-msgid "Spawning item index 0 in editor or drop ingame causes CTD! Dont click this! OK this seemes fixed now. However the first item is still VERY buggy ingame (cant be dropped, can't be switched to from inventory etc)"
-msgstr "Tétel előtűnés index 0 az editorban vagy eldobás esetén a játékban CTD-t okoz! Ne kattints erre! OK úgy tűnik, ezt már javítottuk. Mindazonáltal az első eszköz még mindig NAGYON bugos a játékban ( nem eldobható, nem választható az inventoryból, stb."
+msgid ""
+"Spawning item index 0 in editor or drop ingame causes CTD! Dont click this! "
+"OK this seemes fixed now. However the first item is still VERY buggy ingame "
+"(cant be dropped, can't be switched to from inventory etc)"
+msgstr ""
+"Tétel előtűnés index 0 az editorban vagy eldobás esetén a játékban CTD-t "
+"okoz! Ne kattints erre! OK úgy tűnik, ezt már javítottuk. Mindazonáltal az "
+"első eszköz még mindig NAGYON bugos a játékban ( nem eldobható, nem "
+"választható az inventoryból, stb."
 
 #: freedroid.item_archetypes:61
 msgid "Dummy item. If you see this, report a bug."
@@ -25,127 +32,224 @@ msgid "Big kitchen knife"
 msgstr "Nagy konyhakés"
 
 #: freedroid.item_archetypes:181
-msgid "Light and maneuverable in combat, but unfortunately not very effective in cutting through steel as well as quickly reaching the point of breaking if you try. Though for sure better than hitting at metal with your bare fists."
-msgstr "Könnyű és kezelhető a csatában, de sajnos nem túl hatékony az acél átvágásában olyannyira, hogy biztosítsa a túlélésedet. Azért sokkal jobb, mintha puszta kézzel ütnéd az acélt."
+msgid ""
+"Light and maneuverable in combat, but unfortunately not very effective in "
+"cutting through steel as well as quickly reaching the point of breaking if "
+"you try. Though for sure better than hitting at metal with your bare fists."
+msgstr ""
+"Könnyű és kezelhető a csatában, de sajnos nem túl hatékony az acél "
+"átvágásában olyannyira, hogy biztosítsa a túlélésedet. Azért sokkal jobb, "
+"mintha puszta kézzel ütnéd az acélt."
 
 #: freedroid.item_archetypes:203
 msgid "Cutlass"
 msgstr "Vadászkés"
 
 #: freedroid.item_archetypes:219
-msgid "Long reach while remaining maneuverable enough in combat to find the weak spots in droid armor are the advantages that partially makes up for the inability of a cutting blade to incur lots of damage on a heavily protected target. Repeatedly striking at metal quickly damages the blade though."
-msgstr "Elég hosszú fegyver, de elég kezelhető marad a csatában, hogy megtalálhatók legyenek a droid gyenge pontjai. A pange nem teszi túl alkalmassá a túl nagy sérülés okozására. Az ismételt alkalmazás gyorsan tönkre teszi a pengét."
+msgid ""
+"Long reach while remaining maneuverable enough in combat to find the weak "
+"spots in droid armor are the advantages that partially makes up for the "
+"inability of a cutting blade to incur lots of damage on a heavily protected "
+"target. Repeatedly striking at metal quickly damages the blade though."
+msgstr ""
+"Elég hosszú fegyver, de elég kezelhető marad a csatában, hogy megtalálhatók "
+"legyenek a droid gyenge pontjai. A pange nem teszi túl alkalmassá a túl nagy "
+"sérülés okozására. Az ismételt alkalmazás gyorsan tönkre teszi a pengét."
 
 #: freedroid.item_archetypes:241
 msgid "Antique Greatsword"
 msgstr "Antik Hosszúkard"
 
 #: freedroid.item_archetypes:257
-msgid "Very maneuverable for it's size, and heavy enough to punch though weaker bot armor in 1 hit, the only real disadvantage of this old weapon is the same as for other swords. It just doesn't last long when cutting into metal parts."
-msgstr "Mérete miatt jól használható, és elég nehéz, hogy a gyengébb botpáncélt az első csapásra átüsse. A hátránya ugyanaz, mint az összes kardfajtának. Nem bírja sokáig a fémalkatrészek vagdalását."
+#, fuzzy
+msgid ""
+"Very maneuverable for it's size, and heavy enough to punch through weaker "
+"bot armor in 1 hit, the only real disadvantage of this old weapon is the "
+"same as for other swords. It just doesn't last long when cutting into metal "
+"parts."
+msgstr ""
+"Mérete miatt jól használható, és elég nehéz, hogy a gyengébb botpáncélt az "
+"első csapásra átüsse. A hátránya ugyanaz, mint az összes kardfajtának. Nem "
+"bírja sokáig a fémalkatrészek vagdalását."
 
 #: freedroid.item_archetypes:279
 msgid "Chainsaw"
 msgstr "Láncfűrész."
 
 #: freedroid.item_archetypes:295
-msgid "Quite efficient at separating limbs from even a droid body, or digging through weaker armored parts to cause massive damage on internal electronics. But, the chain wears out very quickly when used on materials harder than wood, and supply shortages of new chains and other parts makes it expensive to maintain."
-msgstr "Elég hatékony, hogy a lábat elválassza a törzstől, akár egy bot esetében is, vagy átvágja a gyengébb páncélzatot, és komoly sérülést okozzon a belső elektronikában. Ám a lánc hamar elkopik, ha a fánál keményebb anyagokat vágsz vele, és a lánc, valamint az egyéb alkatrészek beszerzése drágává teszi a fenntartását."
+msgid ""
+"Quite efficient at separating limbs from even a droid body, or digging "
+"through weaker armored parts to cause massive damage on internal "
+"electronics. But, the chain wears out very quickly when used on materials "
+"harder than wood, and supply shortages of new chains and other parts makes "
+"it expensive to maintain."
+msgstr ""
+"Elég hatékony, hogy a lábat elválassza a törzstől, akár egy bot esetében is, "
+"vagy átvágja a gyengébb páncélzatot, és komoly sérülést okozzon a belső "
+"elektronikában. Ám a lánc hamar elkopik, ha a fánál keményebb anyagokat "
+"vágsz vele, és a lánc, valamint az egyéb alkatrészek beszerzése drágává "
+"teszi a fenntartását."
 
 #: freedroid.item_archetypes:323
 msgid "Meat cleaver"
 msgstr "Húsbárd"
 
 #: freedroid.item_archetypes:339
-msgid "Designed to chop through meat and bones, it's not as fragile as cutting blades when used against metal enemies. However, it is a bit slower and clumsier to use than more graceful weapons."
-msgstr "A hús és a csontok átvágására tervezték, de nem olyan törékeny, mint a pengék, ha fém ellenség ellen használod. Mindazonáltal kissé lassúbb és otrombább, mint a nemesebb fegyverek."
+msgid ""
+"Designed to chop through meat and bones, it's not as fragile as cutting "
+"blades when used against metal enemies. However, it is a bit slower and "
+"clumsier to use than more graceful weapons."
+msgstr ""
+"A hús és a csontok átvágására tervezték, de nem olyan törékeny, mint a "
+"pengék, ha fém ellenség ellen használod. Mindazonáltal kissé lassúbb és "
+"otrombább, mint a nemesebb fegyverek."
 
 #: freedroid.item_archetypes:361
 msgid "Small Axe"
 msgstr "Kis fejsze"
 
 #: freedroid.item_archetypes:377
-msgid "While this axe was made for splitting wood, with some luck it can damage vital parts of a droid as well."
-msgstr "Bár favágásra tervezték, kis szerencsével sérülést okoz a droidok létfontosságú alkatrészeiben is."
+msgid ""
+"While this axe was made for splitting wood, with some luck it can damage "
+"vital parts of a droid as well."
+msgstr ""
+"Bár favágásra tervezték, kis szerencsével sérülést okoz a droidok "
+"létfontosságú alkatrészeiben is."
 
 #: freedroid.item_archetypes:399
 msgid "Large Axe"
 msgstr "Nagy fejsze"
 
 #: freedroid.item_archetypes:415
-msgid "While this weapon is somewhat slow and cumbersome to use, it is as good at leaving big dents in droids as it is at felling trees. A good hit is often capable of taking out lesser droids in a single hit"
-msgstr "Bár ez a fegyver viszonylag lassú és nehézkes, elég jó ahhoz, hogy olyan nyomokat hagyjon a droidokon, mint a ledőlő fákon. Egy jó ütés általában képes a gyengébb droidokat elsőre kiütni."
+msgid ""
+"While this weapon is somewhat slow and cumbersome to use, it is as good at "
+"leaving big dents in droids as it is at felling trees. A good hit is often "
+"capable of taking out lesser droids in a single hit"
+msgstr ""
+"Bár ez a fegyver viszonylag lassú és nehézkes, elég jó ahhoz, hogy olyan "
+"nyomokat hagyjon a droidokon, mint a ledőlő fákon. Egy jó ütés általában "
+"képes a gyengébb droidokat elsőre kiütni."
 
 #: freedroid.item_archetypes:443
 msgid "Hunting knife"
 msgstr "Vadászkés"
 
 #: freedroid.item_archetypes:459
-msgid "A short stabbing dagger doesn't have much effect on the metal body of a droid, but with luck you might damage some wires or hoses in less protected areas, so it's still better than trying to take the machines on with bare hands."
-msgstr "Ez a hosszú szúrófegyver nem okoz nagy sérülést a droid fémtestében, de kis szerencsével átvághatsz pár vezetéket a gyengébben védett részeknél, ami még mindig jobb, mintha puszta kézzel kellene harcolnod."
+msgid ""
+"A short stabbing dagger doesn't have much effect on the metal body of a "
+"droid, but with luck you might damage some wires or hoses in less protected "
+"areas, so it's still better than trying to take the machines on with bare "
+"hands."
+msgstr ""
+"Ez a hosszú szúrófegyver nem okoz nagy sérülést a droid fémtestében, de kis "
+"szerencsével átvághatsz pár vezetéket a gyengébben védett részeknél, ami még "
+"mindig jobb, mintha puszta kézzel kellene harcolnod."
 
 #: freedroid.item_archetypes:481
 msgid "Metal spear"
 msgstr "Fémlándzsa"
 
 #: freedroid.item_archetypes:497
-msgid "A spear forged from metal considerably improves on a wooden spears damage and durability, but the increased weight does make it somewhat slower and more cumbersome to use. It's still a fast weapon though, compared to most others."
-msgstr "A fémből kovácsolt ládzsa, amely meghaladja a fából készült változat sebzési képességét és élettartamát is, de a nagyobb súly lassabbá és esetlenebbé teszi a használatát. Ám ég így is gyorsan használhatónak mondható."
+msgid ""
+"A spear forged from metal considerably improves on a wooden spears damage "
+"and durability, but the increased weight does make it somewhat slower and "
+"more cumbersome to use. It's still a fast weapon though, compared to most "
+"others."
+msgstr ""
+"A fémből kovácsolt ládzsa, amely meghaladja a fából készült változat sebzési "
+"képességét és élettartamát is, de a nagyobb súly lassabbá és esetlenebbé "
+"teszi a használatát. Ám ég így is gyorsan használhatónak mondható."
 
 #: freedroid.item_archetypes:525
 msgid "Iron pipe"
 msgstr "Vascső"
 
 #: freedroid.item_archetypes:541
-msgid "A medium sized water pipe of iron can turn into an effective weapon even versus a metal opponent. While not likely to penetrate the armor of a bot, the impact force alone can still damage and shake loose circuit boards and weldings beneath the protective metal layer."
-msgstr "Közepes méretű vízvezeték cső, ami hatékony fegyver a fém ellenfelek ellen. Bár nem üti át a botok páncélzatát, a becsapódás ereje önmagában képes tönkretenni az áramköröket a burkolat alatt."
+msgid ""
+"A medium sized water pipe of iron can turn into an effective weapon even "
+"versus a metal opponent. While not likely to penetrate the armor of a bot, "
+"the impact force alone can still damage and shake loose circuit boards and "
+"weldings beneath the protective metal layer."
+msgstr ""
+"Közepes méretű vízvezeték cső, ami hatékony fegyver a fém ellenfelek ellen. "
+"Bár nem üti át a botok páncélzatát, a becsapódás ereje önmagában képes "
+"tönkretenni az áramköröket a burkolat alatt."
 
 #: freedroid.item_archetypes:563
 msgid "Big wrench"
 msgstr "Nagy Franciakulcs"
 
 #: freedroid.item_archetypes:579
-msgid "A big heavy wrench can be surprisingly efficient in turning a bot into second hand parts, in a hands on, brutal way if needed."
-msgstr "Nagy és nehéz szerszám, ami meglepően hatékony a botok szemétté tételében, jól forgatva brutális eszköz."
+msgid ""
+"A big heavy wrench can be surprisingly efficient in turning a bot into "
+"second hand parts, in a hands on, brutal way if needed."
+msgstr ""
+"Nagy és nehéz szerszám, ami meglepően hatékony a botok szemétté tételében, "
+"jól forgatva brutális eszköz."
 
 #: freedroid.item_archetypes:602
 msgid "Crowbar"
 msgstr "Pajszer"
 
 #: freedroid.item_archetypes:618
-msgid "Something originally intended for breaking up doors or pulling out nails can also be used to break open droid skulls or give enough leverage to pull off their extremities."
-msgstr "Bár ajtók feltörésére és szögek kihúzására tervezték, jól használható a droidfejek kinyitására is, szögek híjján a működőképességet húzza ki a droidokból."
+msgid ""
+"Something originally intended for breaking up doors or pulling out nails can "
+"also be used to break open droid skulls or give enough leverage to pull off "
+"their extremities."
+msgstr ""
+"Bár ajtók feltörésére és szögek kihúzására tervezték, jól használható a "
+"droidfejek kinyitására is, szögek híjján a működőképességet húzza ki a "
+"droidokból."
 
 #: freedroid.item_archetypes:640
 msgid "Golf club"
 msgstr "Golfütő"
 
 #: freedroid.item_archetypes:656
-msgid "It might not be so sturdy, but if you manage to get in a good hit, the kinetic energy might be enough to damage internal electronics even if there is only a small dent on the outside."
-msgstr "Nem túl erős, de ha jól találod el, a mozgási energiája elég, hogy a belső elektronikát összezúzza, míg kívülről csak egy kis horpadás látszik a burkolaton."
+msgid ""
+"It might not be so sturdy, but if you manage to get in a good hit, the "
+"kinetic energy might be enough to damage internal electronics even if there "
+"is only a small dent on the outside."
+msgstr ""
+"Nem túl erős, de ha jól találod el, a mozgási energiája elég, hogy a belső "
+"elektronikát összezúzza, míg kívülről csak egy kis horpadás látszik a "
+"burkolaton."
 
 #: freedroid.item_archetypes:678
 msgid "Tree branch"
 msgstr "Faág"
 
 #: freedroid.item_archetypes:694
-msgid "A club from a tree branch is certainly not your preferred choice of weapon, but it might be your only one..."
-msgstr "Egy nagyobb faág, ami nem javasolt fegyverként való használatra, hacsak nem ez az egyetlen fegyvered..."
+msgid ""
+"A club from a tree branch is certainly not your preferred choice of weapon, "
+"but it might be your only one..."
+msgstr ""
+"Egy nagyobb faág, ami nem javasolt fegyverként való használatra, hacsak nem "
+"ez az egyetlen fegyvered..."
 
 #: freedroid.item_archetypes:716
 msgid "Power hammer"
 msgstr "Szögbelövő"
 
 #: freedroid.item_archetypes:732
-msgid "The POWER NAIL DRIVER 3000 will, according to the advertisement, 'build your house for you'. While it's unclear how many nails your igloo will actually need, it sure can be handy nonetheless for bashing bot skulls. As long as the battery lasts, anyway."
-msgstr "A POWER NAIL 3000, mint a reklámjában is elhangzott, 'házat épít neked'. Bár nem tudni, hogy az iglud építéséhez mennyi szögre is van szükség, mégis nélkülözhetetlen a botfejek szétszögeléséhez. Már amíg az akkumulátor bírja."
+msgid ""
+"The POWER NAIL DRIVER 3000 will, according to the advertisement, 'build your "
+"house for you'. While it's unclear how many nails your igloo will actually "
+"need, it sure can be handy nonetheless for bashing bot skulls. As long as "
+"the battery lasts, anyway."
+msgstr ""
+"A POWER NAIL 3000, mint a reklámjában is elhangzott, 'házat épít neked'. Bár "
+"nem tudni, hogy az iglud építéséhez mennyi szögre is van szükség, mégis "
+"nélkülözhetetlen a botfejek szétszögeléséhez. Már amíg az akkumulátor bírja."
 
 #: freedroid.item_archetypes:754
 msgid "Table leg"
 msgstr "Asztalláb"
 
 #: freedroid.item_archetypes:770
-msgid "In desperate situations even ordinary objects can turn into makeshift weapons."
+msgid ""
+"In desperate situations even ordinary objects can turn into makeshift "
+"weapons."
 msgstr "Vészhelyzetben bármilyen eszköz fegyverré válik."
 
 #: freedroid.item_archetypes:792
@@ -153,71 +257,109 @@ msgid "Mace"
 msgstr "Buzogány"
 
 #: freedroid.item_archetypes:808
-msgid "The mace already proved on the medieval battlefield that it was good at crushing even heavily armored skulls. Unfortunately for the droids, this old knowledge still holds true."
-msgstr "A régmúlt csatáiban a buzogány bár bebizonyította, hogy alkalmas a nehézpáncélos ellenség szétzúzására. A droidok szerencsétlenségére ez még manapság is igaz."
+msgid ""
+"The mace already proved on the medieval battlefield that it was good at "
+"crushing even heavily armored skulls. Unfortunately for the droids, this old "
+"knowledge still holds true."
+msgstr ""
+"A régmúlt csatáiban a buzogány bár bebizonyította, hogy alkalmas a "
+"nehézpáncélos ellenség szétzúzására. A droidok szerencsétlenségére ez még "
+"manapság is igaz."
 
 #: freedroid.item_archetypes:830
 msgid "Baseball bat"
 msgstr "Baseball ütő"
 
 #: freedroid.item_archetypes:846
-msgid "With 1-2 good two handed swings, a former droids head might fly far enough for you to score a home run. Just make sure to bring a backup weapon, because wooden bats have a predilection for splitting in two after too many hard hits."
-msgstr "Egy-két jó ütéssel lehetséges, hogy a repülő droidfej hazafutást jelentsen. Ám legyen tartalék fegyvered is, mert a fából készült ütők könnyen kettétörhetnek pár erősebb ütés után."
+msgid ""
+"With 1-2 good two handed swings, a former droids head might fly far enough "
+"for you to score a home run. Just make sure to bring a backup weapon, "
+"because wooden bats have a predilection for splitting in two after too many "
+"hard hits."
+msgstr ""
+"Egy-két jó ütéssel lehetséges, hogy a repülő droidfej hazafutást jelentsen. "
+"Ám legyen tartalék fegyvered is, mert a fából készült ütők könnyen "
+"kettétörhetnek pár erősebb ütés után."
 
 #: freedroid.item_archetypes:868
 msgid "Iron bar"
 msgstr "Vasrúd"
 
 #: freedroid.item_archetypes:884
-msgid "A bit slow and cumbersome to use, and prohibiting the security of a shield to cower behind, this weapon isn't always a good option. But if you do hit, you are sure to do more damage than just a scratch."
-msgstr "Kicsit lassú és nehézkes a használata, és megakadályozza a pajzs alkalmazását, ezért ez a fegyver nem mindig jó választás. De ha az ütés talál, jóval több nyomot hagy, mint egy kis karcolás."
+msgid ""
+"A bit slow and cumbersome to use, and prohibiting the security of a shield "
+"to cower behind, this weapon isn't always a good option. But if you do hit, "
+"you are sure to do more damage than just a scratch."
+msgstr ""
+"Kicsit lassú és nehézkes a használata, és megakadályozza a pajzs "
+"alkalmazását, ezért ez a fegyver nem mindig jó választás. De ha az ütés "
+"talál, jóval több nyomot hagy, mint egy kis karcolás."
 
 #: freedroid.item_archetypes:906
 msgid "Sledgehammer"
 msgstr "Pörölykalapács"
 
 #: freedroid.item_archetypes:923
-msgid "Very slow and only for the strongest wielder, but only the tougher droids can survive more than 1-2 direct hits."
-msgstr "Nagyon nehézkes, és csak a legerősebbeknek való, de egy-két ütésnél többet csak a legerősebb droidok bírnak ki."
+msgid ""
+"Very slow and only for the strongest wielder, but only the tougher droids "
+"can survive more than 1-2 direct hits."
+msgstr ""
+"Nagyon nehézkes, és csak a legerősebbeknek való, de egy-két ütésnél többet "
+"csak a legerősebb droidok bírnak ki."
 
 #: freedroid.item_archetypes:951
 msgid "Light saber"
 msgstr "Fénykard"
 
 #: freedroid.item_archetypes:967
-msgid "In the hands of a true master, this excellent technological craftsmanship is as deadly as it is beautiful. It requires laser crystals to work properly."
-msgstr "Egy igazi mester kezében ez a kiváló technológiai eszköz éppoly halálos, mint amilyen szép. Működtetésükhöz lézer kristálokra van szükség."
+msgid ""
+"In the hands of a true master, this excellent technological craftsmanship is "
+"as deadly as it is beautiful. It requires laser crystals to work properly."
+msgstr ""
+"Egy igazi mester kezében ez a kiváló technológiai eszköz éppoly halálos, "
+"mint amilyen szép. Működtetésükhöz lézer kristálokra van szükség."
 
 #: freedroid.item_archetypes:989
 msgid "Laser staff"
 msgstr "Lézerbot"
 
 #: freedroid.item_archetypes:1004
-msgid "A close combat master with this weapon in his hands is a pure whirling dervish of death. It requires laser crystals to work properly."
-msgstr "Egy közelharc mester ezzel a fegyverrel a halál keringő dervise lehet. Működéséhez lézer kristály szükséges."
+msgid ""
+"A close combat master with this weapon in his hands is a pure whirling "
+"dervish of death. It requires laser crystals to work properly."
+msgstr ""
+"Egy közelharc mester ezzel a fegyverrel a halál keringő dervise lehet. "
+"Működéséhez lézer kristály szükséges."
 
 #: freedroid.item_archetypes:1032
 msgid "Nobody's edge"
 msgstr "A Senki Pengéje"
 
 #: freedroid.item_archetypes:1045
-msgid "This blade pulses with evil. That power. That energy. Nothing can stop you now."
-msgstr "Ezt a pengét a tiszta gonosz járja át. Az az erő. Az az energia. Mostantól semmi sem állíthat meg."
+msgid ""
+"This blade pulses with evil. That power. That energy. Nothing can stop you "
+"now."
+msgstr ""
+"Ezt a pengét a tiszta gonosz járja át. Az az erő. Az az energia. Mostantól "
+"semmi sem állíthat meg."
 
 #: freedroid.item_archetypes:1067
 msgid "Laser Scalpel"
 msgstr "Lézerszike"
 
 #: freedroid.item_archetypes:1080
-msgid "I murdered the only person within a thousand miles who can heal me, and all I got was this lousy scalpel."
-msgstr "Megöltem az egyetlen embert ezer mérföldön belül, aki meggyógyíthatott volna, és csak ez a vacak szike volt nála."
+msgid ""
+"I murdered the only person within a thousand miles who can heal me, and all "
+"I got was this lousy scalpel."
+msgstr ""
+"Megöltem az egyetlen embert ezer mérföldön belül, aki meggyógyíthatott "
+"volna, és csak ez a vacak szike volt nála."
 
 #: freedroid.item_archetypes:1102
 msgid "Shock knife"
 msgstr "Sokk kés"
 
-#: freedroid.item_archetypes:1115
-#: freedroid.item_archetypes:1150
+#: freedroid.item_archetypes:1115 freedroid.item_archetypes:1150
 msgid "FIXME and all values"
 msgstr "FIXME és az összes eszköz"
 
@@ -230,63 +372,111 @@ msgid ".22 LR Ammunition"
 msgstr ".22 LR lőszer"
 
 #: freedroid.item_archetypes:1214
-msgid ".22 Long Rifle ammunition used to be a very common ammo for target practice, mainly because it was cheap and gave little recoil. It's just too weak to penetrate any real droid armor though."
-msgstr ".22 kaliberű lőszer, amit a lőgyakorlatok általános kelléke, leginkább azért, mert olcsó és kicsit rúg vissza. Tól gyenge, hogy az igazi droidpáncélt átüsse."
+msgid ""
+".22 Long Rifle ammunition used to be a very common ammo for target practice, "
+"mainly because it was cheap and gave little recoil. It's just too weak to "
+"penetrate any real droid armor though."
+msgstr ""
+".22 kaliberű lőszer, amit a lőgyakorlatok általános kelléke, leginkább "
+"azért, mert olcsó és kicsit rúg vissza. Tól gyenge, hogy az igazi "
+"droidpáncélt átüsse."
 
 #: freedroid.item_archetypes:1218
 msgid ".22 Automatic"
 msgstr ".22 Automata"
 
 #: freedroid.item_archetypes:1234
-msgid "With .22 ammo, it's mostly dumb luck if you actually damage a bot with this pistol. On the bright side, you will get a LOT of target practise out of each bot before a bullet or two manages to find a weak enough spot to take the bot out."
-msgstr "A .22-es lőszerrel nagy szerencse kell, hogy egyáltalán sérülést okozz egy botnak. Ami jó benne, hogy legalább SOKAT gyakorolsz, miközben azon próbálkozol, hogy egy vagy két lövedék megtalálja a bot gyenge pontját."
+msgid ""
+"With .22 ammo, it's mostly dumb luck if you actually damage a bot with this "
+"pistol. On the bright side, you will get a LOT of target practise out of "
+"each bot before a bullet or two manages to find a weak enough spot to take "
+"the bot out."
+msgstr ""
+"A .22-es lőszerrel nagy szerencse kell, hogy egyáltalán sérülést okozz egy "
+"botnak. Ami jó benne, hogy legalább SOKAT gyakorolsz, miközben azon "
+"próbálkozol, hogy egy vagy két lövedék megtalálja a bot gyenge pontját."
 
 #: freedroid.item_archetypes:1256
 msgid ".22 Hunting Rifle"
 msgstr ".22-es Vadászpuska"
 
 #: freedroid.item_archetypes:1272
-msgid "A .22 hunting rifle was mainly used for sports shooting and for cheap training. As a hunting weapon its main use was to kill small vermin such as rats and squirrels. It was also highly effective against rabbits. Unfortunately, you won't be hunting 'wabbits'..."
-msgstr "A .22-es vadászpuskát leginkább sportlövészetre használták. Vadászfegyverként csak a kisebb állatok elejtésére alkalmas, mint például a patkány és mókus. Nyulak ellen is nagyon hatékony. Sajnos te kevés Tapsi Hapsira fogsz vadászni..."
+msgid ""
+"A .22 hunting rifle was mainly used for sports shooting and for cheap "
+"training. As a hunting weapon its main use was to kill small vermin such as "
+"rats and squirrels. It was also highly effective against rabbits. "
+"Unfortunately, you won't be hunting 'wabbits'..."
+msgstr ""
+"A .22-es vadászpuskát leginkább sportlövészetre használták. "
+"Vadászfegyverként csak a kisebb állatok elejtésére alkalmas, mint például a "
+"patkány és mókus. Nyulak ellen is nagyon hatékony. Sajnos te kevés Tapsi "
+"Hapsira fogsz vadászni..."
 
 #: freedroid.item_archetypes:1294
 msgid "Shotgun shells"
 msgstr "Sörétes lőszer"
 
 #: freedroid.item_archetypes:1309
-msgid "While solid slugs, or possibly 8-10 Gauge shells, would be the most effective versus armored targets, beggars can't be choosers. One just has to use any type of shell one is lucky enough to stumble across. And even 20+ Gauge cartridges mostly used for bird hunting can, with luck, damage a bot."
-msgstr "Bár a golyós lőszerek, vagy a 8-10 sörétből álló lőszerek a leghatékonyabbak a páncélozott célok ellen, a koldus sajnos nem válogathat. Azt vagy kénytelen használni, amit találsz. A 20+ os sörét - bár csak madárvadászatra alkalmas - kis szerencsével megsebez egy botot is."
+msgid ""
+"While solid slugs, or possibly 8-10 Gauge shells, would be the most "
+"effective versus armored targets, beggars can't be choosers. One just has to "
+"use any type of shell one is lucky enough to stumble across. And even 20+ "
+"Gauge cartridges mostly used for bird hunting can, with luck, damage a bot."
+msgstr ""
+"Bár a golyós lőszerek, vagy a 8-10 sörétből álló lőszerek a leghatékonyabbak "
+"a páncélozott célok ellen, a koldus sajnos nem válogathat. Azt vagy "
+"kénytelen használni, amit találsz. A 20+ os sörét - bár csak madárvadászatra "
+"alkalmas - kis szerencsével megsebez egy botot is."
 
 #: freedroid.item_archetypes:1318
 msgid "Two Barrel sawn off shotgun"
 msgstr "Kétcsövű, lefűrészelt sörétes puska"
 
 #: freedroid.item_archetypes:1334
-msgid "Often wielded in the past by thugs or convenience store owners, this little baby is less powerful than the two-handed model, but makes up for it by letting you use a shield in conjunction with it."
-msgstr "A múltban gyakran bűnözők és bolttulajdonosok kedvence volt, és ez a kis bébi kevésbé hatékony, mint a hosszúcsövű változat, de előnye, hogy a másik kezedben pajzsot tudsz használni."
+msgid ""
+"Often wielded in the past by thugs or convenience store owners, this little "
+"baby is less powerful than the two-handed model, but makes up for it by "
+"letting you use a shield in conjunction with it."
+msgstr ""
+"A múltban gyakran bűnözők és bolttulajdonosok kedvence volt, és ez a kis "
+"bébi kevésbé hatékony, mint a hosszúcsövű változat, de előnye, hogy a másik "
+"kezedben pajzsot tudsz használni."
 
 #: freedroid.item_archetypes:1356
 msgid "Two Barrel shotgun"
 msgstr "Kétcsövű sörétes puska"
 
 #: freedroid.item_archetypes:1372
-msgid "An old standby of farmers and bird hunters. While capable of causing a fair amount of damage to droid armor, the limited rounds capacity and fairly slow reloading time make this weapon preferable to melee weapons, but only just. Requires two hands to wield."
-msgstr "Az idős farmerek és madárvadászok régi kelléke. Bár alkalmas arra, hogy viszonylag nagy sérülést okozzon egy botnak, de a limitált lőszerkapacitás és a viszonylag lassú töltési folyamat vonzóbbá teszi inkább az ütőfegyverek használatát. Használatához mindkét kézre szükség van."
+msgid ""
+"An old standby of farmers and bird hunters. While capable of causing a fair "
+"amount of damage to droid armor, the limited rounds capacity and fairly slow "
+"reloading time make this weapon preferable to melee weapons, but only just. "
+"Requires two hands to wield."
+msgstr ""
+"Az idős farmerek és madárvadászok régi kelléke. Bár alkalmas arra, hogy "
+"viszonylag nagy sérülést okozzon egy botnak, de a limitált lőszerkapacitás "
+"és a viszonylag lassú töltési folyamat vonzóbbá teszi inkább az ütőfegyverek "
+"használatát. Használatához mindkét kézre szükség van."
 
 #: freedroid.item_archetypes:1394
 msgid "Pump action shotgun"
 msgstr "Félautomata shotgun"
 
 #: freedroid.item_archetypes:1410
-msgid "The pump action shotgun isn't quite as powerful as the double barrel equivalent, but it does hold more ammo per clip. Requires two hands to wield."
-msgstr "A félautomata shotgun nem olyan hatékony, mint a kétcsövű sörétes, de nagyobb a tárkapacitása. Használatához mindkét kézre szükség van."
+msgid ""
+"The pump action shotgun isn't quite as powerful as the double barrel "
+"equivalent, but it does hold more ammo per clip. Requires two hands to wield."
+msgstr ""
+"A félautomata shotgun nem olyan hatékony, mint a kétcsövű sörétes, de "
+"nagyobb a tárkapacitása. Használatához mindkét kézre szükség van."
 
 #: freedroid.item_archetypes:1432
 msgid "9x19mm Ammunition"
 msgstr "9x19mm Lőszer"
 
 #: freedroid.item_archetypes:1446
-msgid "Plasma crystal load. This is the most common way of loading a plasma weapon."
+msgid ""
+"Plasma crystal load. This is the most common way of loading a plasma weapon."
 msgstr "Plazma kristály töltet. Ez a plazmafegyver általános töltete."
 
 #: freedroid.item_archetypes:1450
@@ -294,8 +484,12 @@ msgid "9mm Automatic"
 msgstr "9mm Automata"
 
 #: freedroid.item_archetypes:1466
-msgid "Nine millimeter ammo is a common caliber. While not very powerful, it allows for more rounds per clip than bigger ammunition."
-msgstr "A kilencmilliméteres lőszer egy általános kaliber. Bár nem túl hatékony, többet tudsz magaddal vinni, így nagyobb a lőszerkészleted."
+msgid ""
+"Nine millimeter ammo is a common caliber. While not very powerful, it allows "
+"for more rounds per clip than bigger ammunition."
+msgstr ""
+"A kilencmilliméteres lőszer egy általános kaliber. Bár nem túl hatékony, "
+"többet tudsz magaddal vinni, így nagyobb a lőszerkészleted."
 
 #: freedroid.item_archetypes:1488
 msgid "9mm Sub Machine Gun"
@@ -318,16 +512,24 @@ msgid "7.62mm Hunting Rifle"
 msgstr "7.62mm Vadász Karabély"
 
 #: freedroid.item_archetypes:1560
-msgid "7.62 millimeter ammo is commonly used in assault rifles. This is a more civilian take on that concept."
-msgstr "A 7.62 milliméteres lőszert általában hadi karabélyhoz használják. Ez egy civilebb változata."
+msgid ""
+"7.62 millimeter ammo is commonly used in assault rifles. This is a more "
+"civilian take on that concept."
+msgstr ""
+"A 7.62 milliméteres lőszert általában hadi karabélyhoz használják. Ez egy "
+"civilebb változata."
 
 #: freedroid.item_archetypes:1582
 msgid "7.62mm AK-47"
 msgstr "7.62mm AK-47"
 
 #: freedroid.item_archetypes:1598
-msgid "The favorite weapon of third-world countries everywhere, this is a mass-produced, fairly reliable automatic weapon."
-msgstr "A harmadik világbeli országok legkedveltebb fegyvere, tömeggyártású, jól használható automata fegyver."
+msgid ""
+"The favorite weapon of third-world countries everywhere, this is a mass-"
+"produced, fairly reliable automatic weapon."
+msgstr ""
+"A harmadik világbeli országok legkedveltebb fegyvere, tömeggyártású, jól "
+"használható automata fegyver."
 
 #: freedroid.item_archetypes:1620
 msgid ".50 BMG (12.7x99mm) Ammunition"
@@ -342,23 +544,37 @@ msgid "Barrett M82 Sniper Rifle"
 msgstr "Barrett M82 Mesterlövész puska"
 
 #: freedroid.item_archetypes:1656
-msgid "Powerful enough to stop a truck, literally, the likelihood of even a battle droid surviving more than 2 hits by this weapon is quite slim. It doesn't even matter if the pesky droid is cowering behind a wall, the bullets will break right through and make the bot ready for the scrap heap in no time."
-msgstr "Elég erős, hogy egy teherautót is megállítson, és annak a valószínűsége, hogy egy droid kettőnél több találatot túléljen, nagyon alacsony. Az sem baj, ha a béna droid fal mögé bújik, a lövedékek áthatolnak a falon, és egy pillanat alatt fémhulladékot csinálnak belőle."
+msgid ""
+"Powerful enough to stop a truck, literally, the likelihood of even a battle "
+"droid surviving more than 2 hits by this weapon is quite slim. It doesn't "
+"even matter if the pesky droid is cowering behind a wall, the bullets will "
+"break right through and make the bot ready for the scrap heap in no time."
+msgstr ""
+"Elég erős, hogy egy teherautót is megállítson, és annak a valószínűsége, "
+"hogy egy droid kettőnél több találatot túléljen, nagyon alacsony. Az sem "
+"baj, ha a béna droid fal mögé bújik, a lövedékek áthatolnak a falon, és egy "
+"pillanat alatt fémhulladékot csinálnak belőle."
 
 #: freedroid.item_archetypes:1678
 msgid "Laser power pack"
 msgstr "Lézer energia pack"
 
 #: freedroid.item_archetypes:1693
-msgid "Energy crystal load for laser weapons and other powertools. Each round fired consumes a load within the crystal."
-msgstr "Energiakristály töltet a lézerfegyverekhez, és egyéb eszközökhöz. Minden lövés adott mennyiségű töltést használ fela kristályból."
+msgid ""
+"Energy crystal load for laser weapons and other powertools. Each round fired "
+"consumes a load within the crystal."
+msgstr ""
+"Energiakristály töltet a lézerfegyverekhez, és egyéb eszközökhöz. Minden "
+"lövés adott mennyiségű töltést használ fela kristályból."
 
 #: freedroid.item_archetypes:1697
 msgid "Laser pistol"
 msgstr "Lézer pisztoly"
 
 #: freedroid.item_archetypes:1713
-msgid "A basic laser, but it has good uses in certain situations. No warranty of any kind, though."
+msgid ""
+"A basic laser, but it has good uses in certain situations. No warranty of "
+"any kind, though."
 msgstr "Alapszintű lézer, de általában jó haszna van. Bár erre nincs garancia."
 
 #: freedroid.item_archetypes:1735
@@ -366,32 +582,61 @@ msgid "Laser Rifle"
 msgstr "Lézer karabély"
 
 #: freedroid.item_archetypes:1751
-msgid "This rifle is a high-end laser weapon. There is only one problem with it: Shooting it is too much fun. People often end up with no ammunition in the middle of a battle."
-msgstr "Ez egy csúcs lézerfegyver. Egy probléma van csak vele: nagyon jó lövöldözni vele. Éppezért sokan sokszor fogynak ki a lőszerből a csata közepette."
+msgid ""
+"This rifle is a high-end laser weapon. There is only one problem with it: "
+"Shooting it is too much fun. People often end up with no ammunition in the "
+"middle of a battle."
+msgstr ""
+"Ez egy csúcs lézerfegyver. Egy probléma van csak vele: nagyon jó lövöldözni "
+"vele. Éppezért sokan sokszor fogynak ki a lőszerből a csata közepette."
 
 #: freedroid.item_archetypes:1773
 msgid "Laser Pulse Rifle"
 msgstr "Lézer Impulzus Karabély"
 
 #: freedroid.item_archetypes:1787
-msgid "The pulse laser technology, allowing for many repeated short bursts without the weapon overheating, makes this quite a useful weapon. The damage from each shot is noticably less than from a Laser rifle, but the firing rate more than makes up for it."
-msgstr "Az impulzuslézer technológia lehetővé teszi a gyors sorozatok lövését túlmelegedés nélkül, ezért ez egy elég hasznos fegyver. A lövésenként okozott sérülés észrevehetően kisebb a Lézer Karabélynál, de a tűzgyorsaság ezt kompenzálja valamelyest."
+msgid ""
+"The pulse laser technology, allowing for many repeated short bursts without "
+"the weapon overheating, makes this quite a useful weapon. The damage from "
+"each shot is noticably less than from a Laser rifle, but the firing rate "
+"more than makes up for it."
+msgstr ""
+"Az impulzuslézer technológia lehetővé teszi a gyors sorozatok lövését "
+"túlmelegedés nélkül, ezért ez egy elég hasznos fegyver. A lövésenként "
+"okozott sérülés észrevehetően kisebb a Lézer Karabélynál, de a tűzgyorsaság "
+"ezt kompenzálja valamelyest."
 
 #: freedroid.item_archetypes:1811
 msgid "Laser Pulse Cannon"
 msgstr "Lézer Impulzus Ágyú"
 
 #: freedroid.item_archetypes:1825
-msgid "The pulse laser technology, allowing for many repeated short bursts without the weapon overheating, combined with a military design makes this weapon the preferred choice for most soldiers. Its quick no-recoil firing, large magazine, and awesome killing power makes it the ideal weapon for cleansing large droid infestations in mere minutes."
-msgstr "Az impulzuslézer technológia lehetővé teszi a gyors sorozatok lövését túlmelegedés nélkül, és ez még kombinálva van a katonai fejlesztésekkel. Ez teszi a katonák legjobb választásává ezt a fegyvert. Gyors töltése, nagy tárkapacitása és durva ölőhatása ideálissá teszi a nagy droidszámok pár perc alatti csökkentésére."
+msgid ""
+"The pulse laser technology, allowing for many repeated short bursts without "
+"the weapon overheating, combined with a military design makes this weapon "
+"the preferred choice for most soldiers. Its quick no-recoil firing, large "
+"magazine, and awesome killing power makes it the ideal weapon for cleansing "
+"large droid infestations in mere minutes."
+msgstr ""
+"Az impulzuslézer technológia lehetővé teszi a gyors sorozatok lövését "
+"túlmelegedés nélkül, és ez még kombinálva van a katonai fejlesztésekkel. Ez "
+"teszi a katonák legjobb választásává ezt a fegyvert. Gyors töltése, nagy "
+"tárkapacitása és durva ölőhatása ideálissá teszi a nagy droidszámok pár perc "
+"alatti csökkentésére."
 
 #: freedroid.item_archetypes:1849
 msgid "Plasma energy container"
 msgstr "Plazma energia tároló"
 
 #: freedroid.item_archetypes:1864
-msgid "A container filled with all materials and energy required to make plasma weapons work in one handy and relatively safe package. This is the most common way of loading a plasma weapon."
-msgstr "Egy tároló, amely a plazmafegyverek működtetéséhez szükséges anyagokkal és energiával van tele. Kézhezálló és biszonylag biztonságos. Ez a plazmafegyverek megtöltésének általános módja."
+msgid ""
+"A container filled with all materials and energy required to make plasma "
+"weapons work in one handy and relatively safe package. This is the most "
+"common way of loading a plasma weapon."
+msgstr ""
+"Egy tároló, amely a plazmafegyverek működtetéséhez szükséges anyagokkal és "
+"energiával van tele. Kézhezálló és biszonylag biztonságos. Ez a "
+"plazmafegyverek megtöltésének általános módja."
 
 #: freedroid.item_archetypes:1868
 msgid "Plasma pistol"
@@ -406,40 +651,68 @@ msgid "Plasma gun"
 msgstr "Plazma puska"
 
 #: freedroid.item_archetypes:1922
-msgid "A somewhat slow weapon, but once you do hit plenty a bot will just down on the spot. A good alternative to a pulse laser for the skilled marksman."
-msgstr "Elég lassú fegyver, de pár tucat bot lelővése után megszokható. Az imulzuslézer jó alternatívája egy képzett céllövő kezében."
+msgid ""
+"A somewhat slow weapon, but once you do hit plenty a bot will just down on "
+"the spot. A good alternative to a pulse laser for the skilled marksman."
+msgstr ""
+"Elég lassú fegyver, de pár tucat bot lelővése után megszokható. Az "
+"imulzuslézer jó alternatívája egy képzett céllövő kezében."
 
 #: freedroid.item_archetypes:1944
 msgid "Plasma cannon"
 msgstr "Plazma ágyú"
 
 #: freedroid.item_archetypes:1960
-msgid "The very slow firing rate is made up for by the awesome power of this weapon. Its main use in the military is as a close support weapon complementing the soldiers' bread and butter pulse lasers, especially when attacking enemies behind cover."
-msgstr "A nagyon lassú tűzsebesség áll szemben a hihetetlen erővel ennél a fegyvernél. A hadseregben közeltámogató fegyverként használják, így jól kiegészíti a katonák ipmpulzuslézereit, főleg a fedezékben megbúvó célok ellen."
+msgid ""
+"The very slow firing rate is made up for by the awesome power of this "
+"weapon. Its main use in the military is as a close support weapon "
+"complementing the soldiers' bread and butter pulse lasers, especially when "
+"attacking enemies behind cover."
+msgstr ""
+"A nagyon lassú tűzsebesség áll szemben a hihetetlen erővel ennél a "
+"fegyvernél. A hadseregben közeltámogató fegyverként használják, így jól "
+"kiegészíti a katonák ipmpulzuslézereit, főleg a fedezékben megbúvó célok "
+"ellen."
 
 #: freedroid.item_archetypes:1982
 msgid "2 mm Exterminator Ammunition"
 msgstr "2mm-es Exterminátor lőszer"
 
 #: freedroid.item_archetypes:1996
-msgid "Exterminators need this kind of ammunition. It can cause skin irritations due to leaking extermination radiation when carried close to the body for long time."
-msgstr "Az exterminátorok ezt a lőszert tüzelik. A hosszú távon - a testhez közel - történő szállítása bőrirritációt okozhat, a lőszerből folyamatosan szivárgó extermináló sugárzás miatt."
+msgid ""
+"Exterminators need this kind of ammunition. It can cause skin irritations "
+"due to leaking extermination radiation when carried close to the body for "
+"long time."
+msgstr ""
+"Az exterminátorok ezt a lőszert tüzelik. A hosszú távon - a testhez közel - "
+"történő szállítása bőrirritációt okozhat, a lőszerből folyamatosan szivárgó "
+"extermináló sugárzás miatt."
 
 #: freedroid.item_archetypes:2000
 msgid "Exterminator"
 msgstr "Exterminátor."
 
 #: freedroid.item_archetypes:2016
-msgid "While this weapon is capable of firing really powerful shots, beware of the exceptionally long reloading times. (Don't get swarmed by enemies with this weapon unless you have powerful armor!)"
-msgstr "Bár ez a fegyver igazán erős lövések leadására képes, viszonylag hosszú a töltési ideje. (Ne engedd, hogy az ellenségeid körülfogjanak, ha ez van a kezedben, hacsak nincs erős páncélzatod!)"
+msgid ""
+"While this weapon is capable of firing really powerful shots, beware of the "
+"exceptionally long reloading times. (Don't get swarmed by enemies with this "
+"weapon unless you have powerful armor!)"
+msgstr ""
+"Bár ez a fegyver igazán erős lövések leadására képes, viszonylag hosszú a "
+"töltési ideje. (Ne engedd, hogy az ellenségeid körülfogjanak, ha ez van a "
+"kezedben, hacsak nincs erős páncélzatod!)"
 
 #: freedroid.item_archetypes:2038
 msgid "The Super Exterminator!!!"
 msgstr "A Szuper Exterminátor!!!"
 
 #: freedroid.item_archetypes:2054
-msgid "This bad boy is known to blow away most enemies with a single blast. A dangerous weapon that you don't want to be on the receiving end of."
-msgstr "Ez a rosszfiú elfújja az ellenséget az első lövésre. Veszélyes fegyver, aminek nem akarnál a rosszabbik végén állni."
+msgid ""
+"This bad boy is known to blow away most enemies with a single blast. A "
+"dangerous weapon that you don't want to be on the receiving end of."
+msgstr ""
+"Ez a rosszfiú elfújja az ellenséget az első lövésre. Veszélyes fegyver, "
+"aminek nem akarnál a rosszabbik végén állni."
 
 #: freedroid.item_archetypes:2081
 msgid "Electro Laser Rifle"
@@ -447,35 +720,59 @@ msgstr "ElektroLézer karabély"
 
 #: freedroid.item_archetypes:2097
 msgid ""
-"A specialized beam of laser momentarily ionizes the air between the target and the gun, turning it into highly conductive plasma. Milliseconds later, a powerful electric shock is delivered through the air and hits the target. This weapon is effective against people as it is against bots, and indeed few are the droid classes that can withstand\n"
-"more than a few hits from it before going down. The one downside is the enormous power consumption that makes this weapon expensive to maintain."
+"A specialized beam of laser momentarily ionizes the air between the target "
+"and the gun, turning it into highly conductive plasma. Milliseconds later, a "
+"powerful electric shock is delivered through the air and hits the target. "
+"This weapon is effective against people as it is against bots, and indeed "
+"few are the droid classes that can withstand\n"
+"more than a few hits from it before going down. The one downside is the "
+"enormous power consumption that makes this weapon expensive to maintain."
 msgstr ""
-"Egy speciális sugár egy pillanat alatt ionizálja a célpont és a fegyver közötti levegőt, nagy vezetőképességű plazmává alakítva azt. Milliszekundumokkal később egy erőteljes elektromos impulzus indul az ionizált levegőn keresztül és eltalálja a célpontot. Ez a fegyver emberek ellen ugyanúgy hatásos, mint botok ellen, csak néhány típus\n"
-"képes ellenállni egynél több lövésének. Az egyetlen hátránya a hatalma energiafelhasználás, ami elég drágává teszi a lőszerellátást."
+"Egy speciális sugár egy pillanat alatt ionizálja a célpont és a fegyver "
+"közötti levegőt, nagy vezetőképességű plazmává alakítva azt. "
+"Milliszekundumokkal később egy erőteljes elektromos impulzus indul az "
+"ionizált levegőn keresztül és eltalálja a célpontot. Ez a fegyver emberek "
+"ellen ugyanúgy hatásos, mint botok ellen, csak néhány típus\n"
+"képes ellenállni egynél több lövésének. Az egyetlen hátránya a hatalma "
+"energiafelhasználás, ami elég drágává teszi a lőszerellátást."
 
 #: freedroid.item_archetypes:2127
 msgid "VMX Gas Grenade"
 msgstr "VMX Gázgránát."
 
 #: freedroid.item_archetypes:2140
-msgid "The gas does not look terrifying. It even smells somewhat nice. And then you die. You die a most horrible death, never knowing what killed you."
-msgstr "A gáz nem tűnik borzalmasnak. Söt, jó illata van. Aztán meghalsz. Borzalmas halállal úgy, hogy sohasem tudod meg mitől."
+msgid ""
+"The gas does not look terrifying. It even smells somewhat nice. And then you "
+"die. You die a most horrible death, never knowing what killed you."
+msgstr ""
+"A gáz nem tűnik borzalmasnak. Söt, jó illata van. Aztán meghalsz. Borzalmas "
+"halállal úgy, hogy sohasem tudod meg mitől."
 
 #: freedroid.item_archetypes:2144
 msgid "EMP Shockwave Generator"
 msgstr "EMP Sokkhullám Generátor"
 
 #: freedroid.item_archetypes:2156
-msgid "This sphere contains a few strange bits of technology invented by Nikola Tesla in the early 20th century. The magnetic pulse that it generates can destroy most electronic devices in just one blast."
-msgstr "Ez az eszköz a Nikola Tesla által, a XX. században felfedezett technológián alapul. Az általa generált mágneses impulzus a legtöbb elektronikus szerkezetet egy lövéssel elpusztítja."
+msgid ""
+"This sphere contains a few strange bits of technology invented by Nikola "
+"Tesla in the early 20th century. The magnetic pulse that it generates can "
+"destroy most electronic devices in just one blast."
+msgstr ""
+"Ez az eszköz a Nikola Tesla által, a XX. században felfedezett technológián "
+"alapul. Az általa generált mágneses impulzus a legtöbb elektronikus "
+"szerkezetet egy lövéssel elpusztítja."
 
 #: freedroid.item_archetypes:2160
 msgid "Plasma Shockwave Emitter"
 msgstr "Plazma Sokkhollám Emitter"
 
 #: freedroid.item_archetypes:2172
-msgid "Said to be the downscaled version of the original Pandora's Sphere, this device extinguishes life with superheated plasma."
-msgstr "A Pandora Szelencéjének kissé butított változataként ismert, és ez a szerkezet szuperforró plazmával pusztít."
+msgid ""
+"Said to be the downscaled version of the original Pandora's Sphere, this "
+"device extinguishes life with superheated plasma."
+msgstr ""
+"A Pandora Szelencéjének kissé butított változataként ismert, és ez a "
+"szerkezet szuperforró plazmával pusztít."
 
 #: freedroid.item_archetypes:2184
 msgid "NPC Hand to hand weapon"
@@ -489,22 +786,14 @@ msgstr "Csak botok használhatják"
 msgid "Droid 123 Weak Robotic Arm"
 msgstr "Droid 123 Gyenge robotkar"
 
-#: freedroid.item_archetypes:2230
-#: freedroid.item_archetypes:2263
-#: freedroid.item_archetypes:2298
-#: freedroid.item_archetypes:2331
-#: freedroid.item_archetypes:2366
-#: freedroid.item_archetypes:2401
-#: freedroid.item_archetypes:2436
-#: freedroid.item_archetypes:2471
-#: freedroid.item_archetypes:2504
-#: freedroid.item_archetypes:2539
-#: freedroid.item_archetypes:2574
-#: freedroid.item_archetypes:2609
-#: freedroid.item_archetypes:2644
-#: freedroid.item_archetypes:2679
-#: freedroid.item_archetypes:2713
-#: freedroid.item_archetypes:2750
+#: freedroid.item_archetypes:2230 freedroid.item_archetypes:2263
+#: freedroid.item_archetypes:2298 freedroid.item_archetypes:2331
+#: freedroid.item_archetypes:2366 freedroid.item_archetypes:2401
+#: freedroid.item_archetypes:2436 freedroid.item_archetypes:2471
+#: freedroid.item_archetypes:2504 freedroid.item_archetypes:2539
+#: freedroid.item_archetypes:2574 freedroid.item_archetypes:2609
+#: freedroid.item_archetypes:2644 freedroid.item_archetypes:2679
+#: freedroid.item_archetypes:2713 freedroid.item_archetypes:2750
 #: freedroid.item_archetypes:2785
 msgid "Droid weaponry"
 msgstr "Droid fegyverzet"
@@ -578,16 +867,30 @@ msgid "Reinforced Boots"
 msgstr "Erősített Bakancs"
 
 #: freedroid.item_archetypes:2842
-msgid "These boots were originally normal boots, but have been fitted with some extra reinforcements to give better protection to the wearer. Of course this makes them a bit less elegant and also less comfy to wear, but the extra protection might be worth it, at less than the price of hiking boots."
-msgstr "Ezek az eredendően normál bakancsok kaptak némi erősítést a kritikus helyeken, hogy jobban védjék viselőjüket. Természetesen így kevésbé elegánsak, és kevésbé kényelmesek, de az extra védelem megéri, főleg, mert olcsóbb, mint egy túrabakancs."
+msgid ""
+"These boots were originally normal boots, but have been fitted with some "
+"extra reinforcements to give better protection to the wearer. Of course this "
+"makes them a bit less elegant and also less comfy to wear, but the extra "
+"protection might be worth it, at less than the price of hiking boots."
+msgstr ""
+"Ezek az eredendően normál bakancsok kaptak némi erősítést a kritikus "
+"helyeken, hogy jobban védjék viselőjüket. Természetesen így kevésbé "
+"elegánsak, és kevésbé kényelmesek, de az extra védelem megéri, főleg, mert "
+"olcsóbb, mint egy túrabakancs."
 
 #: freedroid.item_archetypes:2843
 msgid "Hiking Boots"
 msgstr "Túrabakancs"
 
 #: freedroid.item_archetypes:2844
-msgid "These hiking boots are a very sophisticated product, combining optimal comfort for the wearer with a good protection from collisions with blunt objects like stones, which of course also makes for a higher price."
-msgstr "A túrabakancs egy kiváló termék, ami ötvözi a kényelmességet a jó védelemmel. Jól véd a kövek és az egyéb leeső tárgyak ellen, de az ára is magasabb."
+msgid ""
+"These hiking boots are a very sophisticated product, combining optimal "
+"comfort for the wearer with a good protection from collisions with blunt "
+"objects like stones, which of course also makes for a higher price."
+msgstr ""
+"A túrabakancs egy kiváló termék, ami ötvözi a kényelmességet a jó "
+"védelemmel. Jól véd a kövek és az egyéb leeső tárgyak ellen, de az ára is "
+"magasabb."
 
 #: freedroid.item_archetypes:2879
 msgid "Normal Jacket"
@@ -634,15 +937,29 @@ msgid "Improvised Buckler"
 msgstr "Eszkábált Kukafedő"
 
 #: freedroid.item_archetypes:3001
-msgid "This shield is a compilation of various objects which happened to be around. It has tubes, bolts and parts of metal, all slapped together to provide a small bit of protection from enemies. It's very simple and rough, but some sensors and lights have been added to let the wielder know when the item is getting hit, and how long it will remain operational and other cool stuff like that."
-msgstr "Ez a pajzs a kukafedőre szerelt szükséganyagokból áll. Van benne vascső, fémalkatrészek, és mindenféle szemét, amely úgy lett összeeszkábálva, hogy legalább némi védelmet nyújtson az ellenséggel szemben. Nagyon egyszerű és durva, de a beépített néhány szenzornak és lámpának köszönhetően jelzi a viselőjének a kapott találatot, és azt is, hogy még meddig marad használható. Kicsit csicsás."
+msgid ""
+"This shield is a compilation of various objects which happened to be around. "
+"It has tubes, bolts and parts of metal, all slapped together to provide a "
+"small bit of protection from enemies. It's very simple and rough, but some "
+"sensors and lights have been added to let the wielder know when the item is "
+"getting hit, and how long it will remain operational and other cool stuff "
+"like that."
+msgstr ""
+"Ez a pajzs a kukafedőre szerelt szükséganyagokból áll. Van benne vascső, "
+"fémalkatrészek, és mindenféle szemét, amely úgy lett összeeszkábálva, hogy "
+"legalább némi védelmet nyújtson az ellenséggel szemben. Nagyon egyszerű és "
+"durva, de a beépített néhány szenzornak és lámpának köszönhetően jelzi a "
+"viselőjének a kapott találatot, és azt is, hogy még meddig marad "
+"használható. Kicsit csicsás."
 
 #: freedroid.item_archetypes:3005
 msgid "Bot Carapace"
 msgstr "Bot páncél"
 
 #: freedroid.item_archetypes:3021
-msgid "A small, lightweight and pretty straightforward shield. Provides decent protection."
+msgid ""
+"A small, lightweight and pretty straightforward shield. Provides decent "
+"protection."
 msgstr "Egy kicsi, általános de elég ellenálló pajzs. Tűrhető védelmet nyújt."
 
 #: freedroid.item_archetypes:3025
@@ -658,32 +975,49 @@ msgid "Heavy Shield"
 msgstr "Nehéz Pajzs"
 
 #: freedroid.item_archetypes:3058
-msgid "A medium sized, lightweight and pretty straightforward shield. Provides decent protection."
-msgstr "Közepes méretű, könnyű súlyú, jól használható pajzs. Tűrhető védelmet nyújt."
+msgid ""
+"A medium sized, lightweight and pretty straightforward shield. Provides "
+"decent protection."
+msgstr ""
+"Közepes méretű, könnyű súlyú, jól használható pajzs. Tűrhető védelmet nyújt."
 
 #: freedroid.item_archetypes:3062
 msgid "Riot Shield"
 msgstr "Rendőr Pajzs"
 
 #: freedroid.item_archetypes:3077
-msgid "A powerful shield, as useful to protect from bots as it is to control big crowds of angry protesters."
-msgstr "Erőteljes pajzs, ami a botok támadásától éppúgy véd, mint a feldühödött csőcselék okozta sérüléstől."
+msgid ""
+"A powerful shield, as useful to protect from bots as it is to control big "
+"crowds of angry protesters."
+msgstr ""
+"Erőteljes pajzs, ami a botok támadásától éppúgy véd, mint a feldühödött "
+"csőcselék okozta sérüléstől."
 
 #: freedroid.item_archetypes:3087
 msgid "Pot Helmet"
 msgstr "Kupak Sisak"
 
 #: freedroid.item_archetypes:3101
-msgid "Top of the line head gear, for bots. But rip it off their metal necks and take out the circuits it also manages to protect living beings decently against a myriad of close range and long range attacks."
-msgstr "A fejvédők királya, botoknak. De ha letéped a nyakukról, kirángatod az áramköröket, akkor az élőlények fejét is elég jól megvédi a közeli és a távolabbi támadások esetén."
+msgid ""
+"Top of the line head gear, for bots. But rip it off their metal necks and "
+"take out the circuits it also manages to protect living beings decently "
+"against a myriad of close range and long range attacks."
+msgstr ""
+"A fejvédők királya, botoknak. De ha letéped a nyakukról, kirángatod az "
+"áramköröket, akkor az élőlények fejét is elég jól megvédi a közeli és a "
+"távolabbi támadások esetén."
 
 #: freedroid.item_archetypes:3105
 msgid "Worker Helmet"
 msgstr "Melós Sisak"
 
 #: freedroid.item_archetypes:3121
-msgid "A simple cover to protect your head. Don't expect to be incognito, your flippers and penguin like body are hard to miss."
-msgstr "Egy egyszerű fejvédő. Ne reménykedj, hogy álcázni is fog, a pingvinszerű tested és az úszóhártyás lábad úgyis elárul."
+msgid ""
+"A simple cover to protect your head. Don't expect to be incognito, your "
+"flippers and penguin like body are hard to miss."
+msgstr ""
+"Egy egyszerű fejvédő. Ne reménykedj, hogy álcázni is fog, a pingvinszerű "
+"tested és az úszóhártyás lábad úgyis elárul."
 
 #: freedroid.item_archetypes:3125
 msgid "Miner Helmet"
@@ -698,7 +1032,9 @@ msgid "Light Battle Helmet"
 msgstr "Könnyű Csatasisak"
 
 #: freedroid.item_archetypes:3160
-msgid "A rather useful helmet, has a few defense issues here and there but mainly is worth the wear."
+msgid ""
+"A rather useful helmet, has a few defense issues here and there but mainly "
+"is worth the wear."
 msgstr "Elég hasznos sisak, elég jó védelmi képessége van, megéri ezt viselni."
 
 #: freedroid.item_archetypes:3164
@@ -706,8 +1042,12 @@ msgid "Battle Helmet"
 msgstr "Csatasisak"
 
 #: freedroid.item_archetypes:3179
-msgid "Now this is head protection. Feel safe with sturdy iron protecting your head. Not as comfortable as other hats."
-msgstr "Na, ez már fejvédő. A fejed ebben biztonságban van, bár nem olyan kényelmes, mint más kalapok."
+msgid ""
+"Now this is head protection. Feel safe with sturdy iron protecting your "
+"head. Not as comfortable as other hats."
+msgstr ""
+"Na, ez már fejvédő. A fejed ebben biztonságban van, bár nem olyan kényelmes, "
+"mint más kalapok."
 
 #: freedroid.item_archetypes:3183
 msgid "Dixon's Helmet"
@@ -722,7 +1062,9 @@ msgid "Shoes"
 msgstr "Cipő"
 
 #: freedroid.item_archetypes:3219
-msgid "These simple boots are designed for comfort of the wearer more than to give actual protection."
+msgid ""
+"These simple boots are designed for comfort of the wearer more than to give "
+"actual protection."
 msgstr "Ez az egyszerű cipő inkább a kényelmet, mint a védelmet szolgálja."
 
 #: freedroid.item_archetypes:3223
@@ -730,16 +1072,23 @@ msgid "Worker Shoes"
 msgstr "Munkavédelmi Cipő"
 
 #: freedroid.item_archetypes:3237
-msgid "These footwear are steel tipped, and generally quite sturdy, giving a bit extra protection."
-msgstr "Ez a lábbeli vasalt orrú, és eléggé erős, hogy némi extra védelmet nyújtson."
+msgid ""
+"These footwear are steel tipped, and generally quite sturdy, giving a bit "
+"extra protection."
+msgstr ""
+"Ez a lábbeli vasalt orrú, és eléggé erős, hogy némi extra védelmet nyújtson."
 
 #: freedroid.item_archetypes:3241
 msgid "Battle Shoes"
 msgstr "Katonai Surranó"
 
 #: freedroid.item_archetypes:3255
-msgid "These boots are similar to the simple shoes, but the material they are made of is hardened for extra protection."
-msgstr "Ez a lábbeli megerősített anyagokból készül, az extra védelem biztosítása érdekében."
+msgid ""
+"These boots are similar to the simple shoes, but the material they are made "
+"of is hardened for extra protection."
+msgstr ""
+"Ez a lábbeli megerősített anyagokból készül, az extra védelem biztosítása "
+"érdekében."
 
 #: freedroid.item_archetypes:3269
 msgid "Source Book of Emergency shutdown"
@@ -754,8 +1103,11 @@ msgid "Source Book of Check system integrity"
 msgstr "A Rendszerintegritás ellenőrzésének Forráskódja"
 
 #: freedroid.item_archetypes:3295
-msgid "An incredible healing program, probably the only one you will ever need."
-msgstr "Egy hihetetlen öngyógyító program, valószínűleg az egyetlen, amire mindenképp szükséged van."
+msgid ""
+"An incredible healing program, probably the only one you will ever need."
+msgstr ""
+"Egy hihetetlen öngyógyító program, valószínűleg az egyetlen, amire "
+"mindenképp szükséged van."
 
 #: freedroid.item_archetypes:3301
 msgid "Source Book of Analyze item"
@@ -770,32 +1122,42 @@ msgid "Source Book of Sanctuary"
 msgstr "A Menedék Forráskódja"
 
 #: freedroid.item_archetypes:3327
-msgid "The art of rapidly moving away from danger is very useful. Even when used in reverse, it has its uses."
-msgstr "A veszélyzóna azonnali elhagyásának művészete nagyon hasznos. Visszafelé használva méginkább."
+msgid ""
+"The art of rapidly moving away from danger is very useful. Even when used in "
+"reverse, it has its uses."
+msgstr ""
+"A veszélyzóna azonnali elhagyásának művészete nagyon hasznos. Visszafelé "
+"használva méginkább."
 
 #: freedroid.item_archetypes:3333
 msgid "Source Book of Malformed packet"
 msgstr "A Törött Csomagok Forráskódja"
 
 #: freedroid.item_archetypes:3343
-msgid "When computers are presented with the unexpected, they can damage themselves."
-msgstr "Ha a számítógépek nem várt dolgokkal találkoznak, könnyen megsérülhetnek."
+msgid ""
+"When computers are presented with the unexpected, they can damage themselves."
+msgstr ""
+"Ha a számítógépek nem várt dolgokkal találkoznak, könnyen megsérülhetnek."
 
 #: freedroid.item_archetypes:3349
 msgid "Source Book of Calculate Pi"
 msgstr "A Pí Számításának Forráskódja"
 
 #: freedroid.item_archetypes:3359
-msgid "It is not a big problem to make a badly designed system to go hunting for the impossible, causing a performance impact."
-msgstr "Nem nagy dolog egy rossz tervezésű rendszert lehetetlen feladatra rávenni, ezáltal okozva teljesítményromlást."
+msgid ""
+"It is not a big problem to make a badly designed system to go hunting for "
+"the impossible, causing a performance impact."
+msgstr ""
+"Nem nagy dolog egy rossz tervezésű rendszert lehetetlen feladatra rávenni, "
+"ezáltal okozva teljesítményromlást."
 
 #: freedroid.item_archetypes:3365
 msgid "Source Book of Blue Screen"
 msgstr "A Kék Halál Forráskódja"
 
-#: freedroid.item_archetypes:3375
-#: freedroid.item_archetypes:3391
-msgid "With a little touch a war machine comes crashing to a halt. For a while."
+#: freedroid.item_archetypes:3375 freedroid.item_archetypes:3391
+msgid ""
+"With a little touch a war machine comes crashing to a halt. For a while."
 msgstr "Egy kis érintéstől lefagyhat a hadigépezet. Egy ideig."
 
 #: freedroid.item_archetypes:3381
@@ -815,64 +1177,96 @@ msgid "Source Book of Virus"
 msgstr "A Vírus Forráskódja"
 
 #: freedroid.item_archetypes:3423
-msgid "This is not just a firmware upgrade, my dear bot. You are about to find out what exactly I want to give you."
-msgstr "Ez nem csak egy firmware frissítés, kicsi robot. Nézd csak, mit hoztam neked."
+msgid ""
+"This is not just a firmware upgrade, my dear bot. You are about to find out "
+"what exactly I want to give you."
+msgstr ""
+"Ez nem csak egy firmware frissítés, kicsi robot. Nézd csak, mit hoztam neked."
 
 #: freedroid.item_archetypes:3429
 msgid "Source Book of Broadcast virus"
 msgstr "A Vírus Megosztás Forráskódja"
 
 #: freedroid.item_archetypes:3439
-msgid "The network is wide and dangerous. Many traps await the weak and unprepared."
-msgstr "A hálózat nagy és veszélyes. Sok veszély fenyegeti a gyengéket és készületleneket."
+msgid ""
+"The network is wide and dangerous. Many traps await the weak and unprepared."
+msgstr ""
+"A hálózat nagy és veszélyes. Sok veszély fenyegeti a gyengéket és "
+"készületleneket."
 
 #: freedroid.item_archetypes:3445
 msgid "Source Book of Dispel smoke"
 msgstr "A Füst Kivétel Forráskódja"
 
 #: freedroid.item_archetypes:3455
-msgid "By heating up the chips with a malformed program, you can cause them to release the magic smoke which keeps the bot running."
-msgstr "A bot processzorok is füsttel működnek. Ha kijön belőlük a füst, nem működnek tovább."
+msgid ""
+"By heating up the chips with a malformed program, you can cause them to "
+"release the magic smoke which keeps the bot running."
+msgstr ""
+"A bot processzorok is füsttel működnek. Ha kijön belőlük a füst, nem "
+"működnek tovább."
 
 #: freedroid.item_archetypes:3461
 msgid "Source Book of Killer poke"
 msgstr "A Gyilkos poke Forráskódja"
 
 #: freedroid.item_archetypes:3471
-msgid "Messing around with the bot's memory can cause it to damage itself, but the damage is greatly variable."
-msgstr "A bot memória adatainak összekeverése sérülést okozhat, de a sérülés mértéke erősen változó."
+msgid ""
+"Messing around with the bot's memory can cause it to damage itself, but the "
+"damage is greatly variable."
+msgstr ""
+"A bot memória adatainak összekeverése sérülést okozhat, de a sérülés mértéke "
+"erősen változó."
 
 #: freedroid.item_archetypes:3477
 msgid "Source Book of Plasma discharge"
 msgstr "A Plazma kisütés Forráskódja"
 
 #: freedroid.item_archetypes:3487
-msgid "The overload setting exists for emergencies. Plasma does not discriminate between bots and humans. Everything is the same to it."
-msgstr "A túltöltött plazma nem diszkriminálja az embert és a botot sem. Mindkettővel ugyanazt teszi."
+msgid ""
+"The overload setting exists for emergencies. Plasma does not discriminate "
+"between bots and humans. Everything is the same to it."
+msgstr ""
+"A túltöltött plazma nem diszkriminálja az embert és a botot sem. "
+"Mindkettővel ugyanazt teszi."
 
 #: freedroid.item_archetypes:3493
 msgid "Source Book of Nethack"
 msgstr "A Nethack Forráskódja"
 
 #: freedroid.item_archetypes:3503
-msgid "The open source game called Nethack is one of the world's greatest wasters of time. Machines don't care about it, but humans can get sucked in quite deeply."
-msgstr "A nyílt forráskódú Nethack játék az időpocsékolás legjobb módja. A gépek nem foglalkoznak vele, ám az emberek gyorsan képesek túl mélyen belebonyolódni."
+msgid ""
+"The open source game called Nethack is one of the world's greatest wasters "
+"of time. Machines don't care about it, but humans can get sucked in quite "
+"deeply."
+msgstr ""
+"A nyílt forráskódú Nethack játék az időpocsékolás legjobb módja. A gépek nem "
+"foglalkoznak vele, ám az emberek gyorsan képesek túl mélyen belebonyolódni."
 
 #: freedroid.item_archetypes:3509
 msgid "Source Book of Ricer CFLAGS"
 msgstr "A CFLAGS rendezés Forráskódja"
 
 #: freedroid.item_archetypes:3519
-msgid "Optimization is the root of all evil. You can gain some temporary improvements to your system, but in the end you are only likely to cause permanent damage."
-msgstr "Az optimalizálás minden gonosz forrása. Nyerhetsz némi ideiglenes rendszerteljesítményt, de a végén csak az örök rendszerhiba marad."
+msgid ""
+"Optimization is the root of all evil. You can gain some temporary "
+"improvements to your system, but in the end you are only likely to cause "
+"permanent damage."
+msgstr ""
+"Az optimalizálás minden gonosz forrása. Nyerhetsz némi ideiglenes "
+"rendszerteljesítményt, de a végén csak az örök rendszerhiba marad."
 
 #: freedroid.item_archetypes:3525
 msgid "Source Book of Reverse-engineer"
 msgstr "A Visszatervezés Forráskódja"
 
 #: freedroid.item_archetypes:3535
-msgid "There is some dark magic in the art of turning bots inside-out to learn all their secrets."
-msgstr "Van némi feketemágia a botok kifordításának tudományában. Fordítsd ki és fürkészd ki minden titkukat."
+msgid ""
+"There is some dark magic in the art of turning bots inside-out to learn all "
+"their secrets."
+msgstr ""
+"Van némi feketemágia a botok kifordításának tudományában. Fordítsd ki és "
+"fürkészd ki minden titkukat."
 
 #: freedroid.item_archetypes:3541
 msgid "Source Book of Light"
@@ -887,7 +1281,9 @@ msgid "Source Book of Satellite image"
 msgstr "A Műholdkép forráskódja"
 
 #: freedroid.item_archetypes:3567
-msgid "Getting a map of an area is pretty easy when you can look at everything from above."
+msgid ""
+"Getting a map of an area is pretty easy when you can look at everything from "
+"above."
 msgstr "Könnyű egy fentről készült térképen megnézni, mi hol található."
 
 #: freedroid.item_archetypes:3583
@@ -895,71 +1291,123 @@ msgid "Strength Pill"
 msgstr "Erősítő Tabletta"
 
 #: freedroid.item_archetypes:3593
-msgid "These pills permanently raise strength within a person. They work on a nano-technological basis. Consult your physician, the receipt or pharmacy experts for details on intended effects, possible interactions and side effects of this drug."
-msgstr "Ez a tabletta növeli az erőt, és hatása sohasem ér véget. Nanotechnológiai elven működik. A mellékhatások tekintetében kérdezze meg kezelőorvosát, vagy gyógyszerészét."
+msgid ""
+"These pills permanently raise strength within a person. They work on a nano-"
+"technological basis. Consult your physician, the receipt or pharmacy experts "
+"for details on intended effects, possible interactions and side effects of "
+"this drug."
+msgstr ""
+"Ez a tabletta növeli az erőt, és hatása sohasem ér véget. Nanotechnológiai "
+"elven működik. A mellékhatások tekintetében kérdezze meg kezelőorvosát, vagy "
+"gyógyszerészét."
 
 #: freedroid.item_archetypes:3597
 msgid "Dexterity Pill"
 msgstr "Ügyességnövelő kapszula"
 
 #: freedroid.item_archetypes:3607
-msgid "These pills permanently raise dexterity within a person. They work on a nano-technological basis. Consult your physician, the receipt or pharmacy experts for details on intended effects, possible interactions and side effects of this drug."
-msgstr "Ez a tabletta növeli az ügyességet, és hatása sohasem ér véget.  Nanotechnológiai elven működik. A mellékhatások tekintetében kérdezze meg kezelőorvosát, vagy gyógyszerészét."
+msgid ""
+"These pills permanently raise dexterity within a person. They work on a nano-"
+"technological basis. Consult your physician, the receipt or pharmacy experts "
+"for details on intended effects, possible interactions and side effects of "
+"this drug."
+msgstr ""
+"Ez a tabletta növeli az ügyességet, és hatása sohasem ér véget.  "
+"Nanotechnológiai elven működik. A mellékhatások tekintetében kérdezze meg "
+"kezelőorvosát, vagy gyógyszerészét."
 
 #: freedroid.item_archetypes:3611
 msgid "Code Pill"
 msgstr "Kódoló tabletta"
 
 #: freedroid.item_archetypes:3621
-msgid "Dude! This fab food will totally bump up your code skills, man! A real blast. Scarf these down to *see* the code."
-msgstr "Öcsém! Ez a cucc totálisan megemeli a programozói képességedet, vazzeg! Told le, hogy *lásd* a kódot."
+msgid ""
+"Dude! This fab food will totally bump up your code skills, man! A real "
+"blast. Scarf these down to *see* the code."
+msgstr ""
+"Öcsém! Ez a cucc totálisan megemeli a programozói képességedet, vazzeg! Told "
+"le, hogy *lásd* a kódot."
 
 #: freedroid.item_archetypes:3625
 msgid "Brain Enlargement Pills Antidote"
 msgstr "Agynövelő tabletta Antiszérum."
 
 #: freedroid.item_archetypes:3634
-msgid "These pills can reverse the harmful effects of the 'brain enlargement pills' that are publicly sold via the Internet. The planet-wide guild of medics has recommended not to respond to these ads at all, while attempts to entirely ban the distribution of those pills were never completely successful."
-msgstr "Ez a szérum képes az Interneten széles körben árusított agynövelő tabletta káros hatásait visszafordítani. Bár a kezelőorvosok és gyógyszerészek bolygószerte ellenzik az agynövelők használatát, eddig sikertelenek voltak az ilyen gyógyszerek eltüntetésére tett erőfeszítések."
+msgid ""
+"These pills can reverse the harmful effects of the 'brain enlargement pills' "
+"that are publicly sold via the Internet. The planet-wide guild of medics has "
+"recommended not to respond to these ads at all, while attempts to entirely "
+"ban the distribution of those pills were never completely successful."
+msgstr ""
+"Ez a szérum képes az Interneten széles körben árusított agynövelő tabletta "
+"káros hatásait visszafordítani. Bár a kezelőorvosok és gyógyszerészek "
+"bolygószerte ellenzik az agynövelők használatát, eddig sikertelenek voltak "
+"az ilyen gyógyszerek eltüntetésére tett erőfeszítések."
 
 #: freedroid.item_archetypes:3638
 msgid "Brain Enlargement Pill"
 msgstr "Agynövelő tabletta"
 
 #: freedroid.item_archetypes:3647
-msgid "Doctors all over the planet have tried to suppress the amazing breakthrough which has brought increased altertness and concentration that comes with a larger brain. They are synthesized using cutting edge technology and 100% natual herbal ingreedients from a secret five thousand-year-old traditional holistic recipe.  Get yours direct from our online Canadian ph4rm4cy!!! 100% satisfaction guaranteed!!!"
-msgstr "Az orvosok az egész világon azzal kísérleteztek, hogy hihetetlen áttörést érjenek el a koncentráció és a tudás maximalizálásában az agy méretének növelésével. A mikrosebészeti eljárások, valamint egy ötezer éves tradicionális holisztikus, 100%-ban természetes gyógynövény kivonatokat tartalmazó recept alkalmazásával ez most sikerült is! Rendelje meg online Kanadai Gyógyszert@runkból most!!! 100% elégedettség garantált!!!"
+msgid ""
+"Doctors all over the planet have tried to suppress the amazing breakthrough "
+"which has brought increased altertness and concentration that comes with a "
+"larger brain. They are synthesized using cutting edge technology and 100% "
+"natual herbal ingreedients from a secret five thousand-year-old traditional "
+"holistic recipe.  Get yours direct from our online Canadian ph4rm4cy!!! 100% "
+"satisfaction guaranteed!!!"
+msgstr ""
+"Az orvosok az egész világon azzal kísérleteztek, hogy hihetetlen áttörést "
+"érjenek el a koncentráció és a tudás maximalizálásában az agy méretének "
+"növelésével. A mikrosebészeti eljárások, valamint egy ötezer éves "
+"tradicionális holisztikus, 100%-ban természetes gyógynövény kivonatokat "
+"tartalmazó recept alkalmazásával ez most sikerült is! Rendelje meg online "
+"Kanadai Gyógyszert@runkból most!!! 100% elégedettség garantált!!!"
 
 #: freedroid.item_archetypes:3651
 msgid "Diet supplement"
 msgstr "Étrendkiegészítő"
 
 #: freedroid.item_archetypes:3663
-msgid "Only proper vitamin and mineral intake can keep you healthy during the apocalypse. This can cure a cold."
-msgstr "Csak létfontosságú vitamin és ásványi anyag tartalmú szer, amely segít megőrizni az egészséget az apokalipszis közepette. Náthára is jó."
+msgid ""
+"Only proper vitamin and mineral intake can keep you healthy during the "
+"apocalypse. This can cure a cold."
+msgstr ""
+"Csak létfontosságú vitamin és ásványi anyag tartalmú szer, amely segít "
+"megőrizni az egészséget az apokalipszis közepette. Náthára is jó."
 
 #: freedroid.item_archetypes:3667
 msgid "Antibiotic"
 msgstr "Antibiotikum"
 
 #: freedroid.item_archetypes:3679
-msgid "Truly wonderful things can be extracted from molds. This can cure lethal food poisoning. Wish you had that in your last Nethack game, eh?"
-msgstr "Hihetetlen dolgok nyerhetők ki az egyszerű penészből. Képes gyógyítani a halálos ételmérgezést. Jó lett volna egy a legutóbbi Nethack játék alatt, mi?"
+msgid ""
+"Truly wonderful things can be extracted from molds. This can cure lethal "
+"food poisoning. Wish you had that in your last Nethack game, eh?"
+msgstr ""
+"Hihetetlen dolgok nyerhetők ki az egyszerű penészből. Képes gyógyítani a "
+"halálos ételmérgezést. Jó lett volna egy a legutóbbi Nethack játék alatt, mi?"
 
 #: freedroid.item_archetypes:3683
 msgid "Doc-in-a-can"
 msgstr "Doki-a-dobozban"
 
 #: freedroid.item_archetypes:3695
-msgid "This is a drink filled with nanobots designed to heal any damage that they notice inside you. It can cure decapitation. Most of the time."
-msgstr "Ez egy ital, ami a benned lévő bármilyen sérülés gyógyítására tervezett nanobotokat tartalmaz. Még a lefejezést is meggyógyítja. A legtöbb esetben."
+msgid ""
+"This is a drink filled with nanobots designed to heal any damage that they "
+"notice inside you. It can cure decapitation. Most of the time."
+msgstr ""
+"Ez egy ital, ami a benned lévő bármilyen sérülés gyógyítására tervezett "
+"nanobotokat tartalmaz. Még a lefejezést is meggyógyítja. A legtöbb esetben."
 
 #: freedroid.item_archetypes:3699
 msgid "Bottled ice"
 msgstr "Palackozott jég"
 
 #: freedroid.item_archetypes:3711
-msgid "This bottle is filled with ice. It can keep you cool during a warm summer day."
+msgid ""
+"This bottle is filled with ice. It can keep you cool during a warm summer "
+"day."
 msgstr "Ez a palack jéggel van megtöltve. Hűvösen tart a forró nyári napokon."
 
 #: freedroid.item_archetypes:3715
@@ -967,56 +1415,98 @@ msgid "Industrial coolant"
 msgstr "Ipari hűtőfolyadék"
 
 #: freedroid.item_archetypes:3727
-msgid "Bartenders around the world add this to drinks to get them cold very fast. Plus, the coolant is much cheaper. It can keep you cool inside a nuclear reactor."
-msgstr "A kocsmárosok világszerte adagolják a piához, hogy gyorsan lehűtsék. Továbbá elég olcsó. Még egy nukleáris reaktor belsejében is képes lehűteni."
+msgid ""
+"Bartenders around the world add this to drinks to get them cold very fast. "
+"Plus, the coolant is much cheaper. It can keep you cool inside a nuclear "
+"reactor."
+msgstr ""
+"A kocsmárosok világszerte adagolják a piához, hogy gyorsan lehűtsék. Továbbá "
+"elég olcsó. Még egy nukleáris reaktor belsejében is képes lehűteni."
 
 #: freedroid.item_archetypes:3731
 msgid "Liquid nitrogen"
 msgstr "Folyékony nitrogén"
 
 #: freedroid.item_archetypes:3743
-msgid "When you want something frozen solid, this is what you need. It can keep you cool even inside a class M star."
-msgstr "Ha valamit keményre akarsz fagyasztani, erre van szükséged. Még egy M tipusú bolygó magjában is képes lehűteni."
+msgid ""
+"When you want something frozen solid, this is what you need. It can keep you "
+"cool even inside a class M star."
+msgstr ""
+"Ha valamit keményre akarsz fagyasztani, erre van szükséged. Még egy M tipusú "
+"bolygó magjában is képes lehűteni."
 
 #: freedroid.item_archetypes:3747
 msgid "Barf's Energy Drink"
 msgstr "Barf Energia Itala"
 
 #: freedroid.item_archetypes:3757
-msgid "Warning! These energy drinks contain high doses of caffeine! The average person drops dead after consuming 12 grams of caffeine. One of these bottles contains over double that amount."
-msgstr "Vigyázat! Ez az energiaital nagy dózisban tartalmaz koffeint! Egy átlagember 12 gramm koffeintől beadja a kulcsot. Egy palack ebből, kétszer annyit tartalmaz."
+msgid ""
+"Warning! These energy drinks contain high doses of caffeine! The average "
+"person drops dead after consuming 12 grams of caffeine. One of these bottles "
+"contains over double that amount."
+msgstr ""
+"Vigyázat! Ez az energiaital nagy dózisban tartalmaz koffeint! Egy átlagember "
+"12 gramm koffeintől beadja a kulcsot. Egy palack ebből, kétszer annyit "
+"tartalmaz."
 
 #: freedroid.item_archetypes:3761
 msgid "Running Power Capsule"
 msgstr "Kondi Kapszula"
 
 #: freedroid.item_archetypes:3771
-msgid "These small containers hold purified running strength. Each capsule can be used only once, but many of them can be grouped together like one item in your inventory."
-msgstr "Ezek a kis kapszulák kondíció kivonatot tartalmaznak. Egy kapszula csak egyszer használható, de a felszereléseid között csoportba rendezhető, így csak egy darab helyét foglalja."
+msgid ""
+"These small containers hold purified running strength. Each capsule can be "
+"used only once, but many of them can be grouped together like one item in "
+"your inventory."
+msgstr ""
+"Ezek a kis kapszulák kondíció kivonatot tartalmaznak. Egy kapszula csak "
+"egyszer használható, de a felszereléseid között csoportba rendezhető, így "
+"csak egy darab helyét foglalja."
 
 #: freedroid.item_archetypes:3775
 msgid "Strength Capsule"
 msgstr "Erő kapszula"
 
 #: freedroid.item_archetypes:3785
-msgid "These small containers hold purified strength. This item will give a temporary boost to strength. Each capsule can be used only once, but many of them can be grouped together like one item in your inventory."
-msgstr "Ezek a kis kapszulák erő-kivonatot tartalmaznak. Ideiglenek erőnövekedést képes biztosítani. Egy kapszula csak egyszer használható, de a felszereléseid között csoportba rendezhető, így csak egy darab helyét foglalja."
+msgid ""
+"These small containers hold purified strength. This item will give a "
+"temporary boost to strength. Each capsule can be used only once, but many of "
+"them can be grouped together like one item in your inventory."
+msgstr ""
+"Ezek a kis kapszulák erő-kivonatot tartalmaznak. Ideiglenek erőnövekedést "
+"képes biztosítani. Egy kapszula csak egyszer használható, de a "
+"felszereléseid között csoportba rendezhető, így csak egy darab helyét "
+"foglalja."
 
 #: freedroid.item_archetypes:3789
 msgid "Dexterity Capsule"
 msgstr "Ügyesség kapszula"
 
 #: freedroid.item_archetypes:3799
-msgid "These small containers hold purified dexterity. This item will give a temporary bonus to dexterity. Each capsule can be used only once, but many of them can be grouped together like one item in your inventory."
-msgstr "Ez a kis kapszula ügyesség kivonatot tartalmaz. Ideiglenesen emeli az ügyességedet. Egy kapszula csak egyszer használható, de a felszereléseid között csoportba rendezhető, így csak egy darab helyét foglalja."
+msgid ""
+"These small containers hold purified dexterity. This item will give a "
+"temporary bonus to dexterity. Each capsule can be used only once, but many "
+"of them can be grouped together like one item in your inventory."
+msgstr ""
+"Ez a kis kapszula ügyesség kivonatot tartalmaz. Ideiglenesen emeli az "
+"ügyességedet. Egy kapszula csak egyszer használható, de a felszereléseid "
+"között csoportba rendezhető, így csak egy darab helyét foglalja."
 
 #: freedroid.item_archetypes:3811
 msgid "Valuable Circuits"
 msgstr "Rugó"
 
 #: freedroid.item_archetypes:3820
-msgid "The new monetary standard of the world. With the collapse of the banking system, the precious metals in bot circutry has literally become hard cash. A bit hard to come by though, as the bots are not likely to just hand it over..."
-msgstr "A világ új fizetőeszköze. A bankrendszer összeomlása után a botok nemesebb alkatrészei használatosak készpénzként. Hivatalosan áramkörnek nevezték, de a Rugó megnevezés terjedt el. Nehéz hozzájutni, mert a botok nem szívesen válnak meg tőlük..."
+msgid ""
+"The new monetary standard of the world. With the collapse of the banking "
+"system, the precious metals in bot circutry has literally become hard cash. "
+"A bit hard to come by though, as the bots are not likely to just hand it "
+"over..."
+msgstr ""
+"A világ új fizetőeszköze. A bankrendszer összeomlása után a botok nemesebb "
+"alkatrészei használatosak készpénzként. Hivatalosan áramkörnek nevezték, de "
+"a Rugó megnevezés terjedt el. Nehéz hozzájutni, mert a botok nem szívesen "
+"válnak meg tőlük..."
 
 #: freedroid.item_archetypes:3824
 msgid "Anti-grav Pod for Droids"
@@ -1031,17 +1521,21 @@ msgid "Dixon's Toolbox"
 msgstr "Dixon Szerszámosládája"
 
 #: freedroid.item_archetypes:3847
-msgid "This is a teleporter service toolbox. It's complete and orderly, though a few dents on the outside give proof of frequent use. 'C. Dixon' is carved into the outside with fine print."
-msgstr "Ez egy teleport berendezés szerszámkészlete. Hiánytalan, ám öregecske készlet, és a számos horpadás bizonyítja a gyakori használatát. A felületére a 'C. Dixon' felrat van gravírozva."
+msgid ""
+"This is a teleporter service toolbox. It's complete and orderly, though a "
+"few dents on the outside give proof of frequent use. 'C. Dixon' is carved "
+"into the outside with fine print."
+msgstr ""
+"Ez egy teleport berendezés szerszámkészlete. Hiánytalan, ám öregecske "
+"készlet, és a számos horpadás bizonyítja a gyakori használatát. A felületére "
+"a 'C. Dixon' felrat van gravírozva."
 
 #: freedroid.item_archetypes:3851
 msgid "Entropy Inverter"
 msgstr "Entrópia Inverter"
 
-#: freedroid.item_archetypes:3860
-#: freedroid.item_archetypes:3873
-#: freedroid.item_archetypes:3886
-#: freedroid.item_archetypes:3899
+#: freedroid.item_archetypes:3860 freedroid.item_archetypes:3873
+#: freedroid.item_archetypes:3886 freedroid.item_archetypes:3899
 #: freedroid.item_archetypes:3912
 msgid "This is an standard part within many robot types."
 msgstr "Ez számos robot standard alkatrésze."
@@ -1075,16 +1569,36 @@ msgid "Red Dilithium Crystal"
 msgstr "Vörös Dilítium Kristály"
 
 #: freedroid.item_archetypes:3938
-msgid "These dilithium crystals are used as an energy source in many modern electricity or heat based devices. Energy is extracted from the crystal by making use of the ordering of the crystal molecules. This principle has allowed us to build devices that consume a lot of energy, but do not need to be connected to a power line."
-msgstr "Ez a dilítium kristály a mai modern hő és energia működtetésű eszközök általános energiaforrása. Az energiakinyerés a kristály molekuláinak gerjesztésével biztosítható. Használatával olyan nagy energiaigényű eszközök építését teszi lehetővé, amelyeknek nincs szükségük hálózati tápellátásra."
+msgid ""
+"These dilithium crystals are used as an energy source in many modern "
+"electricity or heat based devices. Energy is extracted from the crystal by "
+"making use of the ordering of the crystal molecules. This principle has "
+"allowed us to build devices that consume a lot of energy, but do not need to "
+"be connected to a power line."
+msgstr ""
+"Ez a dilítium kristály a mai modern hő és energia működtetésű eszközök "
+"általános energiaforrása. Az energiakinyerés a kristály molekuláinak "
+"gerjesztésével biztosítható. Használatával olyan nagy energiaigényű eszközök "
+"építését teszi lehetővé, amelyeknek nincs szükségük hálózati tápellátásra."
 
 #: freedroid.item_archetypes:3942
 msgid "Map Maker"
 msgstr "Térkép Készítő"
 
 #: freedroid.item_archetypes:3953
-msgid "This small device automatically collects data about the area within a range of 7 times 7 meters and draws a small-scale plan of the immediate surroundings. Because of its very tiny display, it needs to be held closely to the eye, and the image will then be projected directly into the eyeball of the user. Still, the collected map data will be split up by the device into several sectors for convenient viewing."
-msgstr "Ez a kis egység 7-szer 7 méteres területről gyűjt automatikusan adatokat, és ezekből egy kis térképet rajzol. A picike méret miatt a szemhez nagyon közel kell viselni, és a képet közvetlenül a szemgolyóra vetíti. A könnyebb átláthatóság miatt az elkészített térképet az egység több, kisebb szektorra bontja."
+msgid ""
+"This small device automatically collects data about the area within a range "
+"of 7 times 7 meters and draws a small-scale plan of the immediate "
+"surroundings. Because of its very tiny display, it needs to be held closely "
+"to the eye, and the image will then be projected directly into the eyeball "
+"of the user. Still, the collected map data will be split up by the device "
+"into several sectors for convenient viewing."
+msgstr ""
+"Ez a kis egység 7-szer 7 méteres területről gyűjt automatikusan adatokat, és "
+"ezekből egy kis térképet rajzol. A picike méret miatt a szemhez nagyon közel "
+"kell viselni, és a képet közvetlenül a szemgolyóra vetíti. A könnyebb "
+"átláthatóság miatt az elkészített térképet az egység több, kisebb szektorra "
+"bontja."
 
 #: freedroid.item_archetypes:3957
 msgid "Light Enhancer? to be incluced in the future..."
@@ -1098,80 +1612,277 @@ msgstr "Láss jobban a sötétben."
 msgid "Fork"
 msgstr "Villa"
 
-#: freedroid.item_archetypes:3981
-#: freedroid.item_archetypes:3996
-#: freedroid.item_archetypes:4009
-#: freedroid.item_archetypes:4022
-msgid "This item is part of the 'Self Cleaning Kitchen' (SCK) project from before the Great Assault. All of the items in the SCK project have an inner mechanism that will clean the object automatically if left alone for a given time. It comes with its own power supply, and has a supposed duration of 200 years."
-msgstr "Ez az eszköz az 'Öntisztító Konyha' (ÖTK) projekt egy darabja, ami a Nagy Ostrom előtti időkből származik. Az ÖTK projekt mindegyik darabja egy beépített mechanizmusnak köszönhetően megtisztítja önmagát, ha egy ideig nem nyúlunk hozzá. Saját energiaforrással rendelkezik, melynek tervezett élettartama 200 év."
+#: freedroid.item_archetypes:3981 freedroid.item_archetypes:3996
+#: freedroid.item_archetypes:4009 freedroid.item_archetypes:4022
+msgid ""
+"This item is part of the 'Self Cleaning Kitchen' (SCK) project from before "
+"the Great Assault. All of the items in the SCK project have an inner "
+"mechanism that will clean the object automatically if left alone for a given "
+"time. It comes with its own power supply, and has a supposed duration of 200 "
+"years."
+msgstr ""
+"Ez az eszköz az 'Öntisztító Konyha' (ÖTK) projekt egy darabja, ami a Nagy "
+"Ostrom előtti időkből származik. Az ÖTK projekt mindegyik darabja egy "
+"beépített mechanizmusnak köszönhetően megtisztítja önmagát, ha egy ideig nem "
+"nyúlunk hozzá. Saját energiaforrással rendelkezik, melynek tervezett "
+"élettartama 200 év."
 
 #: freedroid.item_archetypes:3985
 msgid "Plate"
 msgstr "Tányér"
 
-#: freedroid.item_archetypes:4000
-#: freedroid.item_archetypes:4013
+#: freedroid.item_archetypes:4000 freedroid.item_archetypes:4013
 msgid "Mug"
 msgstr "Bögre"
 
 #: freedroid.item_archetypes:4026
-msgid "Identification Script"
-msgstr "Azonosító Szkript"
-
-#: freedroid.item_archetypes:4036
-msgid "Point and click. Point and know anything. Point, and I will show you the correct path. Point, and I will be there. Point, and I will protect you."
-msgstr "Mutasd és kattints. Mutass rá, és tudj meg mindent. Mutass rá, és megmutatom a biztonságos utat. Mutass rá, és én ott leszek. Kattints, és megvédelek."
-
-#: freedroid.item_archetypes:4040
 msgid "Teleporter homing beacon"
 msgstr "Teleportációs jeladó"
 
-#: freedroid.item_archetypes:4051
-msgid "This device sends a signal to a nearby teleporter requesting a transport, and then helps with locking on and boosting the signal to ensure the teleportation attempt is succcessful. The battery inside is sufficient for one use *only* and the device becomes useless afterwards. At least, most people don't try to use them twice... and those few who do usually end up with parts of their body missing or attached in the wrong place. Note: Multiple of these may be grouped together in the inventory."
-msgstr "Ez az eszköz egy transzport kérő jelet küld a közeli teleporter állomásra, és segit az érkező jel felerősítésében és rögzítésében a sikeres teleportációhoz. A belső elem csak egyetlen használatra elegendő energiát tartalmaz, utána használhatatlanná válik. A legtöbb ember amúgy sem akarná kétszer használni... mert az a pár, aki már megtette, általában két helyen jelent meg egyszerre. Több darabban. Ezeket is csoportosíthatod az eszköztáradban, és akkor csak egy helyet foglalnak el."
+#: freedroid.item_archetypes:4037
+msgid ""
+"This device sends a signal to a nearby teleporter requesting a transport, "
+"and then helps with locking on and boosting the signal to ensure the "
+"teleportation attempt is succcessful. The battery inside is sufficient for "
+"one use *only* and the device becomes useless afterwards. At least, most "
+"people don't try to use them twice... and those few who do usually end up "
+"with parts of their body missing or attached in the wrong place. Note: "
+"Multiple of these may be grouped together in the inventory."
+msgstr ""
+"Ez az eszköz egy transzport kérő jelet küld a közeli teleporter állomásra, "
+"és segit az érkező jel felerősítésében és rögzítésében a sikeres "
+"teleportációhoz. A belső elem csak egyetlen használatra elegendő energiát "
+"tartalmaz, utána használhatatlanná válik. A legtöbb ember amúgy sem akarná "
+"kétszer használni... mert az a pár, aki már megtette, általában két helyen "
+"jelent meg egyszerre. Több darabban. Ezeket is csoportosíthatod az "
+"eszköztáradban, és akkor csak egy helyet foglalnak el."
 
-#: freedroid.item_archetypes:4055
+#: freedroid.item_archetypes:4041
 msgid "Kevin's Data Cube"
 msgstr "Kevin Adatkockája"
 
-#: freedroid.item_archetypes:4064
-msgid "This data cube contains confidential government data on the installations around the town. Kevin hopes that when the data is evaluated properly, a way out of the current crisis might be found. However, the amount of data is so vast, it can only be evaluated properly using a large cluster of computers. The Red Guard base is said to store an infrastructure suitable to this purpose."
-msgstr "Ez az adatkocka minősített kormányadatokat tartalmaz a várost körülvevő installációkról. Kevin reméli, hogy az adatok szakszerű felhasználásával kiút nyílik a jelenlegi krízishelyzetből. Ám az adatmennyiség olyan hatalmas, hogy csak egy nagyobb számítógéphálózattal dolgozható fel. Azt beszélik, hogy a Vörös Ősrég által birtokolt infrastruktúra alkalmas lenne erre."
+#: freedroid.item_archetypes:4050
+msgid ""
+"This data cube contains confidential government data on the installations "
+"around the town. Kevin hopes that when the data is evaluated properly, a way "
+"out of the current crisis might be found. However, the amount of data is so "
+"vast, it can only be evaluated properly using a large cluster of computers. "
+"The Red Guard base is said to store an infrastructure suitable to this "
+"purpose."
+msgstr ""
+"Ez az adatkocka minősített kormányadatokat tartalmaz a várost körülvevő "
+"installációkról. Kevin reméli, hogy az adatok szakszerű felhasználásával "
+"kiút nyílik a jelenlegi krízishelyzetből. Ám az adatmennyiség olyan "
+"hatalmas, hogy csak egy nagyobb számítógéphálózattal dolgozható fel. Azt "
+"beszélik, hogy a Vörös Ősrég által birtokolt infrastruktúra alkalmas lenne "
+"erre."
 
-#: freedroid.item_archetypes:4068
+#: freedroid.item_archetypes:4054
 msgid "Pandora's Cube"
 msgstr "Pandora Kockája"
 
-#: freedroid.item_archetypes:4079
-msgid "This is heavy. Cannot the end of the world come in a smaller package? It would be a great time for Duncan to explain a few things..."
-msgstr "Nehéz ügy. Nem jöhetne a világvége ennél kisebb csomagolásban? Jó lenne, ha Duncan kitalálna erre valamit..."
+#: freedroid.item_archetypes:4065
+msgid ""
+"This is heavy. Cannot the end of the world come in a smaller package? It "
+"would be a great time for Duncan to explain a few things..."
+msgstr ""
+"Nehéz ügy. Nem jöhetne a világvége ennél kisebb csomagolásban? Jó lenne, ha "
+"Duncan kitalálna erre valamit..."
 
-#: freedroid.item_archetypes:4091
+#: freedroid.item_archetypes:4077
 msgid "Linarian power crank"
 msgstr "Lináriai erő cucc"
 
-#: freedroid.item_archetypes:4100
-msgid "This item can be installed to a socket of another item."
-msgstr "Ez az eszköz egy másik eszköz foglalatába illeszthető."
+#: freedroid.item_archetypes:4086
+msgid "This mechanical crank pumps up your muscles."
+msgstr ""
+
+#: freedroid.item_archetypes:4090
+msgid "Tungsten Spikes"
+msgstr ""
+
+#: freedroid.item_archetypes:4099
+msgid ""
+"These spikes offer a simple and affordable solution to increasing the damage "
+"you can cause with your melee weapon."
+msgstr ""
+
+#: freedroid.item_archetypes:4103
+msgid "Tinfoil Patch"
+msgstr ""
+
+#: freedroid.item_archetypes:4112
+msgid ""
+"When attached to your armor, this patch of tinfoil allows you to stay cooler "
+"by reducing the amount of electromagnetic radiation that your body absorbs."
+msgstr ""
+
+#: freedroid.item_archetypes:4116
+#, fuzzy
+msgid "Laser sight"
+msgstr "Lézerbot"
+
+#: freedroid.item_archetypes:4127
+msgid ""
+"A miniaturised laser powered by a nuclear battery. When attached parallel to "
+"the barrel of a gun, it makes a little red dot on the target and helps with "
+"aiming."
+msgstr ""
+
+#: freedroid.item_archetypes:4131
+msgid "Exoskeletal Joint"
+msgstr ""
+
+#: freedroid.item_archetypes:4140
+msgid ""
+"This electromechanical joint helps you to perform physically demanding tasks "
+"more easily by amplifying the movements of your body."
+msgstr ""
+
+#: freedroid.item_archetypes:4144
+msgid "Heatsink"
+msgstr ""
+
+#: freedroid.item_archetypes:4153
+msgid "This heatsink add-on increases your cooling rate slightly."
+msgstr ""
+
+#: freedroid.item_archetypes:4157
+#, fuzzy
+msgid "Peltier Element"
+msgstr "Étrendkiegészítő"
+
+#: freedroid.item_archetypes:4166
+msgid "This thermoelectric device increases your cooling rate."
+msgstr ""
+
+#: freedroid.item_archetypes:4170
+msgid "Heat Buffer"
+msgstr ""
+
+#: freedroid.item_archetypes:4179
+msgid ""
+"This item absorbs some of the heat your body generates, making you heat "
+"slower."
+msgstr ""
+
+#: freedroid.item_archetypes:4183
+msgid "Steel Mesh"
+msgstr ""
+
+#: freedroid.item_archetypes:4192
+msgid "This item adds an extra protective layer to your armor."
+msgstr ""
+
+#: freedroid.item_archetypes:4196
+msgid "Shock Discharger"
+msgstr ""
+
+#: freedroid.item_archetypes:4205
+msgid ""
+"When installed to a melee weapon, this item gives a small electric shock to "
+"enemies you hit."
+msgstr ""
+
+#: freedroid.item_archetypes:4209
+msgid "Silencer"
+msgstr ""
+
+#: freedroid.item_archetypes:4218
+msgid ""
+"Allowing you to catch yours enemies by surprise, this silencer helps you to "
+"do more damage in ranged combat."
+msgstr ""
+
+#: freedroid.item_archetypes:4222
+msgid "Coprocessor"
+msgstr ""
+
+#: freedroid.item_archetypes:4231
+msgid ""
+"By speeding up your computations, this chip helps you to excel in many "
+"activities."
+msgstr ""
+
+#: freedroid.item_archetypes:4235
+msgid "Pedometer"
+msgstr ""
+
+#: freedroid.item_archetypes:4244
+msgid ""
+"This device helps you to move dexterously by giving feedback on your "
+"movements."
+msgstr ""
+
+#: freedroid.item_archetypes:4248
+msgid "Foot Warmer"
+msgstr ""
+
+#: freedroid.item_archetypes:4257
+msgid "This item helps you to be more comfortable in your shoes."
+msgstr ""
+
+#: freedroid.item_archetypes:4261
+msgid "Circuit Jammer"
+msgstr ""
+
+#: freedroid.item_archetypes:4270
+msgid ""
+"This item improves your melee weapon by blasting the enemies you hit with an "
+"electromagnetic pulse. The pulse is powerful enough to temporarily shut down "
+"the circuits of the attacked bot."
+msgstr ""
+
+#: freedroid.item_archetypes:4274
+msgid "Sensor Disruptor"
+msgstr ""
+
+#: freedroid.item_archetypes:4283
+msgid ""
+"When attached to a melee weapon, this item induces errors to the sensors of "
+"the bots you attack, causing them to slow down momentarily."
+msgstr ""
+
+#~ msgid "Identification Script"
+#~ msgstr "Azonosító Szkript"
+
+#~ msgid ""
+#~ "Point and click. Point and know anything. Point, and I will show you the "
+#~ "correct path. Point, and I will be there. Point, and I will protect you."
+#~ msgstr ""
+#~ "Mutasd és kattints. Mutass rá, és tudj meg mindent. Mutass rá, és "
+#~ "megmutatom a biztonságos utat. Mutass rá, és én ott leszek. Kattints, és "
+#~ "megvédelek."
+
+#~ msgid "This item can be installed to a socket of another item."
+#~ msgstr "Ez az eszköz egy másik eszköz foglalatába illeszthető."
 
 #~ msgid "Droid weaponry - 302"
 #~ msgstr "Droid fegyverzet - 302"
+
 #~ msgid "Droid weaponry - 329"
 #~ msgstr "Droid fegyverzet - 329"
+
 #~ msgid "Droid weaponry - 420"
 #~ msgstr "Droid fegyverzet - 420"
+
 #~ msgid "Droid weaponry - 493"
 #~ msgstr "Droid fegyverzet - 493"
+
 #~ msgid "Droid weaponry - 516"
 #~ msgstr "Droid fegyverzet - 516"
+
 #~ msgid "Droid weaponry - 543 : Laser beam cutter"
 #~ msgstr "Droid fegyverzet - 543 : Lézersugár-vágó"
+
 #~ msgid "Droid weaponry - 571"
 #~ msgstr "Droid fegyverzet - 571"
+
 #~ msgid "Droid weaponry - 598"
 #~ msgstr "Droid fegyverzet - 598"
+
 #~ msgid "Droid weaponry - 615,751,834 (Advanced Single Laser)"
 #~ msgstr "Droid fegyverzet - 615,751,834 (Közepes Szimpla Lézer)"
+
 #~ msgid "Droid weaponry - 883 (Bot exterminator)"
 #~ msgstr "Droid fegyverzet - 883 (Bot exterminátor)"
-

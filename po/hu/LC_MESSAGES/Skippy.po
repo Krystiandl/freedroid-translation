@@ -2,22 +2,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-05-22 20:22+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-28 12:04+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Skippy.dialog:40
 msgid "What? You again? I don't want you here, get out."
 msgstr "Micsoda? Megint te? Nem akarlak itt látni, menj innen."
 
-#: Skippy.dialog:41
-#: Skippy.dialog:163
+#: Skippy.dialog:41 Skippy.dialog:164
 msgid "See you later."
 msgstr "Majd még találkozunk."
 
@@ -30,8 +29,11 @@ msgid "Hi! I'm new here."
 msgstr "Üdv! Új vagyok itt."
 
 #: Skippy.dialog:50
-msgid "Great! A newcomer! Welcome! Welcome! I'm Skippy, and I'm your new best friend!"
-msgstr "Nagyszerű! Egy látogató! Isten hozott! Skippy vagyok, az új legjobb barátod!"
+msgid ""
+"Great! A newcomer! Welcome! Welcome! I'm Skippy, and I'm your new best "
+"friend!"
+msgstr ""
+"Nagyszerű! Egy látogató! Isten hozott! Skippy vagyok, az új legjobb barátod!"
 
 #: Skippy.dialog:51
 msgid "I already saw you coming. Due to my mapping device! It's great stuff!"
@@ -45,175 +47,215 @@ msgstr "És a legjobb, hogy féláron veheted meg tőlem!"
 msgid "What a GREAT offer! You're so lucky!"
 msgstr "Micsoda NAGYSZERŰ ajánlat! Nagyon szerencsés vagy!"
 
-#: Skippy.dialog:58
+#: Skippy.dialog:54
+msgid "Skippy -- Map-Maker Maker"
+msgstr ""
+
+#: Skippy.dialog:59
 msgid "Ok, if I want to buy me one of those mapping pills. How much are they?"
 msgstr "Oké, ha venni akarok a térkép kapszulából, az mennyibe fog kerülni?"
 
-#: Skippy.dialog:60
+#: Skippy.dialog:61
 msgid "They only cost 50. Special price only for you!"
 msgstr "Csak ötvenbe. Csak most, csak neked!"
 
-#: Skippy.dialog:65
+#: Skippy.dialog:61
+msgid "You're so lucky! I just decided to cut the price in half!"
+msgstr ""
+
+#: Skippy.dialog:66
 msgid "How do I activate a mapping device?"
 msgstr "Hogyan aktiválom a térkép eszközt?"
 
-#: Skippy.dialog:67
+#: Skippy.dialog:68
 msgid "Oh, that's so simple. No need to activate anything at all."
 msgstr "Ó, az a legegyszerűbb. Semmit sem kell aktiválnod."
 
-#: Skippy.dialog:68
-msgid "Just swallow the pill and the nanotechnological bots will enter your body."
+#: Skippy.dialog:69
+msgid ""
+"Just swallow the pill and the nanotechnological bots will enter your body."
 msgstr "Csak lenyeled a kapszulát, és a nanobotok bejutnak a szervezetedbe."
 
-#: Skippy.dialog:69
-msgid "They'll merge with your eyes and transmit data to your brain using the optical nerves. Nice, eh?"
-msgstr "Kapcsolódnak a szemedhez, és optikai kapcsolaton továbbítják a jeleket az agyadba. Jó mi?"
-
 #: Skippy.dialog:70
+msgid ""
+"They'll merge with your eyes and transmit data to your brain using the "
+"optical nerves. Nice, eh?"
+msgstr ""
+"Kapcsolódnak a szemedhez, és optikai kapcsolaton továbbítják a jeleket az "
+"agyadba. Jó mi?"
+
+#: Skippy.dialog:71
 msgid "Everything within 50 meters of you will be displayed on your retinas."
 msgstr "Minden, ami 50 méteren belül van, azt kivetítik a retinádra."
 
-#: Skippy.dialog:75
+#: Skippy.dialog:76
 msgid "You said you make these things yourself? How do you do that?"
 msgstr "Azt modtad, hogy ezeket magad készíted? Hogyan csinálod?"
 
-#: Skippy.dialog:77
-msgid "Oh, I've always been a geek. And I got blueprints from before the Great Assault."
-msgstr "Ó, mindig is geek voltam. És vannak a Nagy Ostrom előttről származó tervrajzaim."
-
 #: Skippy.dialog:78
+msgid ""
+"Oh, I've always been a geek. And I got blueprints from before the Great "
+"Assault."
+msgstr ""
+"Ó, mindig is geek voltam. És vannak a Nagy Ostrom előttről származó "
+"tervrajzaim."
+
+#: Skippy.dialog:79
 msgid "You can't order anything from a catalogue anymore."
 msgstr "A katalógusból rendelés mára a múlté."
 
-#: Skippy.dialog:79
+#: Skippy.dialog:80
 msgid "The only source of these gizmos is here. It's me!"
 msgstr "A helyi ezermestereknek csak itt van esélyük. Nálam!"
 
-#: Skippy.dialog:84
+#: Skippy.dialog:85
 msgid "Nanotechnology? Isn't that dangerous?"
 msgstr "Nanotechnológia? Az nem veszélyes?"
 
-#: Skippy.dialog:86
-msgid "No way, man, I guarantee it. Don't believe anything you might have heard."
+#: Skippy.dialog:87
+msgid ""
+"No way, man, I guarantee it. Don't believe anything you might have heard."
 msgstr "Így nem, tesó, garantálom. Ne higgy el mindent, amit hallasz."
 
-#: Skippy.dialog:87
-msgid "This is a perfectly safe and tried technology. No risk at all! Really!"
-msgstr "Ez egy teljesen biztonságos és kiforrott technológia. Igazán semmi rizikó! "
-
 #: Skippy.dialog:88
-msgid "There is no risk of your head being eaten by a nanotechnological nightmare, or anything funny like that."
-msgstr "Nics esély rá, hogy nanotechnológiai rémség falja fel a fejed, vagy más hasonlóan vicces történjen veled."
+msgid "This is a perfectly safe and tried technology. No risk at all! Really!"
+msgstr ""
+"Ez egy teljesen biztonságos és kiforrott technológia. Igazán semmi rizikó! "
 
 #: Skippy.dialog:89
-msgid "I've used one myself for many years now: no side effects! It works just as great as on the first day!"
-msgstr "Már több éve használom, de nincs mellékhatás! Ugyanolyan tökéletesem működik, mint az első napon!"
+msgid ""
+"There is no risk of your head being eaten by a nanotechnological nightmare, "
+"or anything funny like that."
+msgstr ""
+"Nics esély rá, hogy nanotechnológiai rémség falja fel a fejed, vagy más "
+"hasonlóan vicces történjen veled."
 
 #: Skippy.dialog:90
+msgid ""
+"I've used one myself for many years now: no side effects! It works just as "
+"great as on the first day!"
+msgstr ""
+"Már több éve használom, de nincs mellékhatás! Ugyanolyan tökéletesem "
+"működik, mint az első napon!"
+
+#: Skippy.dialog:91
 msgid "Trust me! I'm your best friend and I wouldn't lie to you! Never!"
 msgstr "Bizz bennem, és vagyok a legjobb barátod. Nem hazudnék neked! Soha!"
 
-#: Skippy.dialog:95
+#: Skippy.dialog:96
 msgid "I don't trust you."
 msgstr "Nem bízom benned."
 
-#: Skippy.dialog:97
+#: Skippy.dialog:98
 msgid "WHAT? But I'm your best friend! You must trust me!"
 msgstr "MICSODA? De én vagyok a legjobb barátod! Bíznod kell bennem!"
 
-#: Skippy.dialog:102
+#: Skippy.dialog:103
 msgid "I still do not trust you. You are selling junk to people."
 msgstr "Még mindig nem bízom benned. Szemetet adsz el az embereknek."
 
-#: Skippy.dialog:104
-msgid "WHAT? Fine, you can forget about my great deals now! I don't want to trade with you anymore!"
-msgstr "MIAKURV...?! Na jó, elfelejtheted a nagyszerű ajánlatomat! Soha többé nem akarok veled üzletelni!"
-
 #: Skippy.dialog:105
+msgid ""
+"WHAT? Fine, you can forget about my great deals now! I don't want to trade "
+"with you anymore!"
+msgstr ""
+"MIAKURV...?! Na jó, elfelejtheted a nagyszerű ajánlatomat! Soha többé nem "
+"akarok veled üzletelni!"
+
+#: Skippy.dialog:106
 msgid "I'm no longer your best friend. Go away, you dirty hoser!"
 msgstr "Nem vagyok többé a legjobb barátod. Menj innen, te koszos madár!"
 
-#: Skippy.dialog:112
+#: Skippy.dialog:113
 msgid "Do you sell anything else?"
 msgstr "Árulsz mást is?"
 
-#: Skippy.dialog:114
-msgid "Sure! I also build some electronics devices, depending on what parts I can get my hands on."
-msgstr "Persze! Építettem pár elektronikus eszközt, mindenből mindenfélét, amihez csak hozzájutottam."
+#: Skippy.dialog:115
+msgid ""
+"Sure! I also build some electronics devices, depending on what parts I can "
+"get my hands on."
+msgstr ""
+"Persze! Építettem pár elektronikus eszközt, mindenből mindenfélét, amihez "
+"csak hozzájutottam."
 
-#: Skippy.dialog:116
+#: Skippy.dialog:117
 msgid "Resources are a bit scarce nowdays though."
 msgstr "A források kissé elapadtak mostanság."
 
-#: Skippy.dialog:121
+#: Skippy.dialog:122
 msgid "Ok, I'll take one."
 msgstr "Rendben, veszek egyet."
 
-#: Skippy.dialog:124
+#: Skippy.dialog:125
 msgid "Here is your pill."
 msgstr "Tessék a tabletta."
 
-#: Skippy.dialog:125
+#: Skippy.dialog:126
 msgid "Just swallow it, and it should work."
 msgstr "Csak nyeld le, és működni fog."
 
-#: Skippy.dialog:126
-msgid "I give a 30 day warranty and adjustments, in case it doesn't work as expected."
+#: Skippy.dialog:127
+msgid ""
+"I give a 30 day warranty and adjustments, in case it doesn't work as "
+"expected."
 msgstr "Adok 30 nap garanciát, ha mégsem űgy működne, ahogy kellene."
 
-#: Skippy.dialog:128
+#: Skippy.dialog:129
 msgid "Swallow pill and Press tab to see automap."
-msgstr "Nyeld le a tablettát, majd nyomd meg a tab gombot az autotérkép használatához."
+msgstr ""
+"Nyeld le a tablettát, majd nyomd meg a tab gombot az autotérkép "
+"használatához."
 
-#: Skippy.dialog:130
+#: Skippy.dialog:131
 msgid "Hey, I'm not a bank!"
 msgstr "Hé, nálam nincs hitel!"
 
-#: Skippy.dialog:131
+#: Skippy.dialog:132
 msgid "Come back when you can afford it."
 msgstr "Gyere vissza majd ha lesz rávalód."
 
-#: Skippy.dialog:138
+#: Skippy.dialog:139
 msgid "Nah, don't think so. "
 msgstr "Nem, nem hinném."
 
-#: Skippy.dialog:140
+#: Skippy.dialog:141
 msgid "Your loss."
 msgstr "A te bajod."
 
-#: Skippy.dialog:141
+#: Skippy.dialog:142
 msgid "Hope you won't get lost and killed out there."
 msgstr "Remélem nem fogsz eltévedni és megöletni magad odakint."
 
-#: Skippy.dialog:142
+#: Skippy.dialog:143
 msgid "But don't count on it."
 msgstr "Azért nem vennék rá mérget."
 
-#: Skippy.dialog:147
+#: Skippy.dialog:148
 msgid "Why are you so friendly?"
 msgstr "Miért vagy ennyire barátságos?"
 
-#: Skippy.dialog:149
+#: Skippy.dialog:150
 msgid "Because you are my best friend!"
 msgstr "Mert te vagy a legjobb barátom!"
 
-#: Skippy.dialog:150
+#: Skippy.dialog:151
 msgid "I always take good care of my special buddies!"
 msgstr "Mindig különös figyelmet fordítok a különleges barátaimra!"
 
-#: Skippy.dialog:155
+#: Skippy.dialog:156
 msgid "You are friendly only to sell me your stuff, aren't you?"
 msgstr "Csak azért vagy varátságos, mert rám akarod sózni a vackaidat, mi?"
 
-#: Skippy.dialog:157
+#: Skippy.dialog:158
 msgid "No, never! I would never be so shallow!"
 msgstr "Nem, soha! Soha nem tennék ilyet!"
 
-#: Skippy.dialog:158
+#: Skippy.dialog:159
 msgid "I am friendly because I like you."
 msgstr "Azért vagyok barátságos, mert kedvellek téged."
 
-#: Skippy.dialog:165
-msgid "Yes, we'll meet again, my friend, and I'll have other great deals for you."
-msgstr "Igen, találkozunk még, barátom, és akkor lesznek még ilyen kiváló ajánlataim."
-
+#: Skippy.dialog:166
+msgid ""
+"Yes, we'll meet again, my friend, and I'll have other great deals for you."
+msgstr ""
+"Igen, találkozunk még, barátom, és akkor lesznek még ilyen kiváló ajánlataim."

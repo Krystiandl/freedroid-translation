@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
-"PO-Revision-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"PO-Revision-Date: 2010-07-16 14:05+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -50,9 +50,9 @@ msgstr ""
 
 #: ./freedroid.item_archetypes:257
 msgid ""
-"Very maneuverable for it's size, and heavy enough to punch though weaker bot a"
-"rmor in 1 hit, the only real disadvantage of this old weapon is the same as fo"
-"r other swords. It just doesn't last long when cutting into metal parts."
+"Very maneuverable for it's size, and heavy enough to punch through weaker bot "
+"armor in 1 hit, the only real disadvantage of this old weapon is the same as f"
+"or other swords. It just doesn't last long when cutting into metal parts."
 msgstr ""
 
 #: ./freedroid.item_archetypes:279
@@ -1374,20 +1374,10 @@ msgid "Mug"
 msgstr ""
 
 #: ./freedroid.item_archetypes:4026
-msgid "Identification Script"
-msgstr ""
-
-#: ./freedroid.item_archetypes:4036
-msgid ""
-"Point and click. Point and know anything. Point, and I will show you the corre"
-"ct path. Point, and I will be there. Point, and I will protect you."
-msgstr ""
-
-#: ./freedroid.item_archetypes:4040
 msgid "Teleporter homing beacon"
 msgstr ""
 
-#: ./freedroid.item_archetypes:4051
+#: ./freedroid.item_archetypes:4037
 msgid ""
 "This device sends a signal to a nearby teleporter requesting a transport, and "
 "then helps with locking on and boosting the signal to ensure the teleportation"
@@ -1398,11 +1388,11 @@ msgid ""
 " together in the inventory."
 msgstr ""
 
-#: ./freedroid.item_archetypes:4055
+#: ./freedroid.item_archetypes:4041
 msgid "Kevin's Data Cube"
 msgstr ""
 
-#: ./freedroid.item_archetypes:4064
+#: ./freedroid.item_archetypes:4050
 msgid ""
 "This data cube contains confidential government data on the installations arou"
 "nd the town. Kevin hopes that when the data is evaluated properly, a way out o"
@@ -1411,21 +1401,165 @@ msgid ""
 "uard base is said to store an infrastructure suitable to this purpose."
 msgstr ""
 
-#: ./freedroid.item_archetypes:4068
+#: ./freedroid.item_archetypes:4054
 msgid "Pandora's Cube"
 msgstr ""
 
-#: ./freedroid.item_archetypes:4079
+#: ./freedroid.item_archetypes:4065
 msgid ""
 "This is heavy. Cannot the end of the world come in a smaller package? It would"
 " be a great time for Duncan to explain a few things..."
 msgstr ""
 
-#: ./freedroid.item_archetypes:4091
+#: ./freedroid.item_archetypes:4077
 msgid "Linarian power crank"
 msgstr ""
 
-#: ./freedroid.item_archetypes:4100
-msgid "This item can be installed to a socket of another item."
+#: ./freedroid.item_archetypes:4086
+msgid "This mechanical crank pumps up your muscles."
+msgstr ""
+
+#: ./freedroid.item_archetypes:4090
+msgid "Tungsten Spikes"
+msgstr ""
+
+#: ./freedroid.item_archetypes:4099
+msgid ""
+"These spikes offer a simple and affordable solution to increasing the damage y"
+"ou can cause with your melee weapon."
+msgstr ""
+
+#: ./freedroid.item_archetypes:4103
+msgid "Tinfoil Patch"
+msgstr ""
+
+#: ./freedroid.item_archetypes:4112
+msgid ""
+"When attached to your armor, this patch of tinfoil allows you to stay cooler b"
+"y reducing the amount of electromagnetic radiation that your body absorbs."
+msgstr ""
+
+#: ./freedroid.item_archetypes:4116
+msgid "Laser sight"
+msgstr ""
+
+#: ./freedroid.item_archetypes:4127
+msgid ""
+"A miniaturised laser powered by a nuclear battery. When attached parallel to t"
+"he barrel of a gun, it makes a little red dot on the target and helps with aim"
+"ing."
+msgstr ""
+
+#: ./freedroid.item_archetypes:4131
+msgid "Exoskeletal Joint"
+msgstr ""
+
+#: ./freedroid.item_archetypes:4140
+msgid ""
+"This electromechanical joint helps you to perform physically demanding tasks m"
+"ore easily by amplifying the movements of your body."
+msgstr ""
+
+#: ./freedroid.item_archetypes:4144
+msgid "Heatsink"
+msgstr ""
+
+#: ./freedroid.item_archetypes:4153
+msgid "This heatsink add-on increases your cooling rate slightly."
+msgstr ""
+
+#: ./freedroid.item_archetypes:4157
+msgid "Peltier Element"
+msgstr ""
+
+#: ./freedroid.item_archetypes:4166
+msgid "This thermoelectric device increases your cooling rate."
+msgstr ""
+
+#: ./freedroid.item_archetypes:4170
+msgid "Heat Buffer"
+msgstr ""
+
+#: ./freedroid.item_archetypes:4179
+msgid ""
+"This item absorbs some of the heat your body generates, making you heat slower"
+"."
+msgstr ""
+
+#: ./freedroid.item_archetypes:4183
+msgid "Steel Mesh"
+msgstr ""
+
+#: ./freedroid.item_archetypes:4192
+msgid "This item adds an extra protective layer to your armor."
+msgstr ""
+
+#: ./freedroid.item_archetypes:4196
+msgid "Shock Discharger"
+msgstr ""
+
+#: ./freedroid.item_archetypes:4205
+msgid ""
+"When installed to a melee weapon, this item gives a small electric shock to en"
+"emies you hit."
+msgstr ""
+
+#: ./freedroid.item_archetypes:4209
+msgid "Silencer"
+msgstr ""
+
+#: ./freedroid.item_archetypes:4218
+msgid ""
+"Allowing you to catch yours enemies by surprise, this silencer helps you to do"
+" more damage in ranged combat."
+msgstr ""
+
+#: ./freedroid.item_archetypes:4222
+msgid "Coprocessor"
+msgstr ""
+
+#: ./freedroid.item_archetypes:4231
+msgid ""
+"By speeding up your computations, this chip helps you to excel in many activit"
+"ies."
+msgstr ""
+
+#: ./freedroid.item_archetypes:4235
+msgid "Pedometer"
+msgstr ""
+
+#: ./freedroid.item_archetypes:4244
+msgid ""
+"This device helps you to move dexterously by giving feedback on your movements"
+"."
+msgstr ""
+
+#: ./freedroid.item_archetypes:4248
+msgid "Foot Warmer"
+msgstr ""
+
+#: ./freedroid.item_archetypes:4257
+msgid "This item helps you to be more comfortable in your shoes."
+msgstr ""
+
+#: ./freedroid.item_archetypes:4261
+msgid "Circuit Jammer"
+msgstr ""
+
+#: ./freedroid.item_archetypes:4270
+msgid ""
+"This item improves your melee weapon by blasting the enemies you hit with an e"
+"lectromagnetic pulse. The pulse is powerful enough to temporarily shut down th"
+"e circuits of the attacked bot."
+msgstr ""
+
+#: ./freedroid.item_archetypes:4274
+msgid "Sensor Disruptor"
+msgstr ""
+
+#: ./freedroid.item_archetypes:4283
+msgid ""
+"When attached to a melee weapon, this item induces errors to the sensors of th"
+"e bots you attack, causing them to slow down momentarily."
 msgstr ""
 

@@ -2,31 +2,29 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-02 07:42+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-02 07:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Koan.dialog:36
-msgid ""
-"So you have come. I knew Duncan would not let me live for too long."
+msgid "So you have come. I knew Duncan would not let me live for too long."
 msgstr ""
 
 #: Koan.dialog:37
 msgid ""
-"Once I am gone this oasis of peace in the world will dry up and die. "
-"A shame."
+"Once I am gone this oasis of peace in the world will dry up and die. A shame."
 msgstr ""
 
 #: Koan.dialog:38
 msgid ""
-"I hoped to turn the whole desert into a sanctuary. And now my dream "
-"will never come true."
+"I hoped to turn the whole desert into a sanctuary. And now my dream will "
+"never come true."
 msgstr ""
 
 #: Koan.dialog:39
@@ -63,8 +61,7 @@ msgstr ""
 
 #: Koan.dialog:58
 msgid ""
-"The water is safe to drink and the fruit from the tree is quite "
-"delicious."
+"The water is safe to drink and the fruit from the tree is quite delicious."
 msgstr ""
 
 #: Koan.dialog:60
@@ -72,8 +69,7 @@ msgid "I met and talked to Koan, but didn't kill him."
 msgstr ""
 
 #: Koan.dialog:65
-msgid ""
-"What is this place? Why is there grass and water under the desert?"
+msgid "What is this place? Why is there grass and water under the desert?"
 msgstr ""
 
 #: Koan.dialog:67
@@ -102,25 +98,23 @@ msgstr ""
 
 #: Koan.dialog:78
 msgid ""
-"I like the way it is right now. The water cools everything down and "
-"the plants give the air a very fresh smell."
+"I like the way it is right now. The water cools everything down and the "
+"plants give the air a very fresh smell."
 msgstr ""
 
 #: Koan.dialog:79
 msgid ""
-"As soon as I leave, everything will die. I have seen that happen "
-"before."
+"As soon as I leave, everything will die. I have seen that happen before."
 msgstr ""
 
 #: Koan.dialog:80
 msgid ""
-"Because this place is just like a small bit of paradise, I decided to "
-"stay here."
+"Because this place is just like a small bit of paradise, I decided to stay "
+"here."
 msgstr ""
 
 #: Koan.dialog:81
-msgid ""
-"I do not want this wonderful bunker to become devoid of life again."
+msgid "I do not want this wonderful bunker to become devoid of life again."
 msgstr ""
 
 #: Koan.dialog:86

@@ -2,22 +2,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-07-06 11:03+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
+"Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: AfterTakeover_sub.dialog:33
 msgid ".. bot_type().."
 msgstr ".. bot_tipus().."
 
-#: AfterTakeover_sub.dialog:47
-#: AfterTakeover_sub.dialog:50
+#: AfterTakeover_sub.dialog:47 AfterTakeover_sub.dialog:50
 msgid "./est_repair.plx"
 msgstr "./szuks_javitas.plx"
 
@@ -45,8 +44,7 @@ msgstr " hő"
 msgid "You do not have enough valuable circuits to ensure repair of this "
 msgstr "Nincs elég pénzed, hogy megjavíttasd ezt a "
 
-#: AfterTakeover_sub.dialog:62
-#: AfterTakeover_sub.dialog:154
+#: AfterTakeover_sub.dialog:62 AfterTakeover_sub.dialog:154
 msgid " unit."
 msgstr " egységet."
 
@@ -54,8 +52,7 @@ msgstr " egységet."
 msgid " is currently undamaged."
 msgstr " pillanatnyilag sérült."
 
-#: AfterTakeover_sub.dialog:74
-#: AfterTakeover_sub.dialog:77
+#: AfterTakeover_sub.dialog:74 AfterTakeover_sub.dialog:77
 msgid "./repair.plx"
 msgstr "./javitas.plx"
 
@@ -67,8 +64,7 @@ msgstr "Javítás folyamatban."
 msgid "Logout to complete repair process."
 msgstr "Jelentkezzen ki a javítási folyamat befejezéséhez."
 
-#: AfterTakeover_sub.dialog:94
-#: AfterTakeover_sub.dialog:97
+#: AfterTakeover_sub.dialog:94 AfterTakeover_sub.dialog:97
 msgid "./settings.plx"
 msgstr "./beallitas.plx"
 
@@ -96,8 +92,7 @@ msgstr "Igen, mindig kérjen."
 msgid "Confirmation will now be asked before execution of hcf.py."
 msgstr "Mostantól megerősítést kérek a flgym.py futtatása előtt."
 
-#: AfterTakeover_sub.dialog:110
-#: AfterTakeover_sub.dialog:123
+#: AfterTakeover_sub.dialog:110 AfterTakeover_sub.dialog:123
 msgid "Settings saved"
 msgstr "Beállítások elmentve"
 
@@ -109,8 +104,7 @@ msgstr "Nem, ne kérj."
 msgid "hcf.py will be executed without asking for confirmation."
 msgstr "Mostantól megerősítés nélkül futtatom a flgym.py -t."
 
-#: AfterTakeover_sub.dialog:132
-#: AfterTakeover_sub.dialog:135
+#: AfterTakeover_sub.dialog:132 AfterTakeover_sub.dialog:135
 msgid "./hostname"
 msgstr "./hostname"
 
@@ -130,10 +124,8 @@ msgstr "Jelenlegi botnév: [b]"
 msgid "Select new name? [Y/N]"
 msgstr "Válasz új nevet? [Y/N]"
 
-#: AfterTakeover_sub.dialog:145
-#: AfterTakeover_sub.dialog:148
-#: AfterTakeover_sub.dialog:178
-#: AfterTakeover_sub.dialog:181
+#: AfterTakeover_sub.dialog:145 AfterTakeover_sub.dialog:148
+#: AfterTakeover_sub.dialog:178 AfterTakeover_sub.dialog:181
 msgid "Yes"
 msgstr "Igen"
 
@@ -277,10 +269,8 @@ msgstr "Gyereide"
 msgid "Type a new name for this "
 msgstr "Gépeld be az új nevet ennek a "
 
-#: AfterTakeover_sub.dialog:159
-#: AfterTakeover_sub.dialog:162
-#: AfterTakeover_sub.dialog:190
-#: AfterTakeover_sub.dialog:193
+#: AfterTakeover_sub.dialog:159 AfterTakeover_sub.dialog:162
+#: AfterTakeover_sub.dialog:190 AfterTakeover_sub.dialog:193
 msgid "No"
 msgstr "Nem"
 
@@ -288,8 +278,7 @@ msgstr "Nem"
 msgid "Confirm renaming from [b]"
 msgstr "Átnevezés megerősítése erről [b]"
 
-#: AfterTakeover_sub.dialog:172
-#: AfterTakeover_sub.dialog:182
+#: AfterTakeover_sub.dialog:172 AfterTakeover_sub.dialog:182
 msgid "[/b] to [b]"
 msgstr "[b] erre [b]"
 
@@ -312,4 +301,3 @@ msgstr " egység jelenlegi azonosítója: [b]"
 #: AfterTakeover_sub.dialog:202
 msgid "cd .."
 msgstr "cd .."
-

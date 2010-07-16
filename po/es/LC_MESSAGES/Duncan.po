@@ -1,16 +1,16 @@
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-06-23 07:57+0000\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-06-02 07:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Duncan.dialog:53
@@ -19,7 +19,9 @@ msgstr "Hola... Emm... ¿Quien eres?"
 
 #: Duncan.dialog:55
 msgid "Duncan McNamara, The Red Guard's resident bomb maker, at your service."
-msgstr "Duncan McNamara, el fabricante de bombas residente de la Guardia Roja, a tu servicio."
+msgstr ""
+"Duncan McNamara, el fabricante de bombas residente de la Guardia Roja, a tu "
+"servicio."
 
 #: Duncan.dialog:56 Duncan.dialog:261
 msgid "Duncan -- Bombmaker"
@@ -47,47 +49,73 @@ msgstr "Mis mas sinceras disculpas, no lo tengo."
 
 #: Duncan.dialog:72
 msgid "The Red Guard prohibits the sales of extremely destructive munitions."
-msgstr "La Guardia Roja prohíbe las ventas de la munición extremadamente destructiva."
+msgstr ""
+"La Guardia Roja prohíbe las ventas de la munición extremadamente destructiva."
 
 #: Duncan.dialog:73
 msgid "It is not yet the time for the fall of their rule, so I remain loyal."
-msgstr "Aún no ha llegado la hora de la caída de sus reglas, así que permanezco leal."
+msgstr ""
+"Aún no ha llegado la hora de la caída de sus reglas, así que permanezco leal."
 
 #: Duncan.dialog:78
-msgid "The fall of the Red Guard? I am going to report that you are preparing a revolution!"
-msgstr "¿La caída de la Guardia Roja? ¡Voy a informar de que estas preparando una revolución!"
+msgid ""
+"The fall of the Red Guard? I am going to report that you are preparing a "
+"revolution!"
+msgstr ""
+"¿La caída de la Guardia Roja? ¡Voy a informar de que estas preparando una "
+"revolución!"
 
 #: Duncan.dialog:80
 msgid "My word against yours. If you wish to try it, please, be my guest."
-msgstr "Mi palabra contra la tuya. Si deseas intentarlo, por favor, estas invitado."
+msgstr ""
+"Mi palabra contra la tuya. Si deseas intentarlo, por favor, estas invitado."
 
 #: Duncan.dialog:81
-msgid "I am not preparing anything. I am just stating what I see as inevitable in the future."
-msgstr "No estoy preparando nada. Solo estoy diciendo lo que veo como un inevitable futuro."
+msgid ""
+"I am not preparing anything. I am just stating what I see as inevitable in "
+"the future."
+msgstr ""
+"No estoy preparando nada. Solo estoy diciendo lo que veo como un inevitable "
+"futuro."
 
 #: Duncan.dialog:82
-msgid "I have taken part in many conflicts and I have seen how governments collapse."
-msgstr "He tomado parte en muchos conflictos y he visto como los gobiernos se derrumban."
+msgid ""
+"I have taken part in many conflicts and I have seen how governments collapse."
+msgstr ""
+"He tomado parte en muchos conflictos y he visto como los gobiernos se "
+"derrumban."
 
 #: Duncan.dialog:83
 msgid "As soon as the war is over, the Red Guard will disband."
 msgstr "Tan pronto como la guerra termine, la Guardia Roja se disolverá."
 
 #: Duncan.dialog:84
-msgid "Of course, I am making the assumption of victory, which is highly unlikely with the current state of affairs."
-msgstr "Por supuesto, estoy suponiendo una victoria, que es muy poco probable con el estado actual de los echos."
+msgid ""
+"Of course, I am making the assumption of victory, which is highly unlikely "
+"with the current state of affairs."
+msgstr ""
+"Por supuesto, estoy suponiendo una victoria, que es muy poco probable con el "
+"estado actual de los echos."
 
 #: Duncan.dialog:89
 msgid "The fall of the Red Guard? Tell me more about it."
 msgstr "¿La caída de la Guardia Roja? Cuéntame más sobre esto."
 
 #: Duncan.dialog:91
-msgid "It is not the time to speak of such things yet. Come another day, and we shall talk about it in more detail."
-msgstr "Todavía no es hora de hablar de estas cosas. Vuelve otro día, y lo podremos hablar con más detalle."
+msgid ""
+"It is not the time to speak of such things yet. Come another day, and we "
+"shall talk about it in more detail."
+msgstr ""
+"Todavía no es hora de hablar de estas cosas. Vuelve otro día, y lo podremos "
+"hablar con más detalle."
 
 #: Duncan.dialog:92
-msgid "The Red Guard can have their great laser beams and plasma cannons... But nothing can save them."
-msgstr "La Guardia Roja puede que tengan sus grandes rayos de láser y sus cañones de plasma... Pero nadie puede salvarlos."
+msgid ""
+"The Red Guard can have their great laser beams and plasma cannons... But "
+"nothing can save them."
+msgstr ""
+"La Guardia Roja puede que tengan sus grandes rayos de láser y sus cañones de "
+"plasma... Pero nadie puede salvarlos."
 
 #: Duncan.dialog:97
 msgid "I want to buy some grenades."
@@ -159,7 +187,8 @@ msgstr "Un... amigo mio, Koan, me robo algo de gran valor para mi."
 
 #: Duncan.dialog:135
 msgid "He is hiding somewhere in the desert, I don't know exactly where."
-msgstr "Lo esta escondiendo en alguna parte del desierto, no se exactamente donde."
+msgstr ""
+"Lo esta escondiendo en alguna parte del desierto, no se exactamente donde."
 
 #: Duncan.dialog:140
 msgid "I will get your property back."
@@ -174,8 +203,12 @@ msgid "There is something you must know."
 msgstr "Hay algo que debes saber."
 
 #: Duncan.dialog:144
-msgid "There are not too many bots in the desert, but they are undefeatable. It is best to avoid them."
-msgstr "No hay muchos robots en el desierto, pero son invencibles. Lo mejor es evitarlos."
+msgid ""
+"There are not too many bots in the desert, but they are undefeatable. It is "
+"best to avoid them."
+msgstr ""
+"No hay muchos robots en el desierto, pero son invencibles. Lo mejor es "
+"evitarlos."
 
 #: Duncan.dialog:145
 msgid "I will be waiting here for your return."
@@ -198,8 +231,12 @@ msgid "Only time will tell."
 msgstr "Sólo el tiempo lo dirá."
 
 #: Duncan.dialog:149
-msgid "In any case, I'll let the Red Guard know to open the western gate to the desert."
-msgstr "En cualquier caso, voy a hacer saber a la Guardia Roja que debe abrir la puerta occidental del desierto."
+msgid ""
+"In any case, I'll let the Red Guard know to open the western gate to the "
+"desert."
+msgstr ""
+"En cualquier caso, voy a hacer saber a la Guardia Roja que debe abrir la "
+"puerta occidental del desierto."
 
 #: Duncan.dialog:150
 msgid "Good luck!"
@@ -222,8 +259,12 @@ msgid "Now they chop down people."
 msgstr "Ahora talan a la gente."
 
 #: Duncan.dialog:161
-msgid "Their only weak point is their security system. But no one has managed to stay alive long enough to hack them."
-msgstr "Su único punto débil es su sistema de seguridad. Pero nadie ha logrado sobrevivir bastante como para hackearlo."
+msgid ""
+"Their only weak point is their security system. But no one has managed to "
+"stay alive long enough to hack them."
+msgstr ""
+"Su único punto débil es su sistema de seguridad. Pero nadie ha logrado "
+"sobrevivir bastante como para hackearlo."
 
 #: Duncan.dialog:166
 msgid "What is it that he took from you?"
@@ -246,8 +287,12 @@ msgid "So... Any news on the Koan matter?"
 msgstr "Así que... ¿Alguna novedad sobre el asunto de Koan?"
 
 #: Duncan.dialog:186
-msgid "I could not find him anywhere in the desert. I don't think he is there anymore."
-msgstr "No he podido encontrarle en ninguna parte del desierto. Creo que el ya no esta ahí."
+msgid ""
+"I could not find him anywhere in the desert. I don't think he is there "
+"anymore."
+msgstr ""
+"No he podido encontrarle en ninguna parte del desierto. Creo que el ya no "
+"esta ahí."
 
 #: Duncan.dialog:187
 msgid "I see."
@@ -266,32 +311,52 @@ msgid "Yes. I appreciate your help."
 msgstr "Sí. Agradezco tu ayuda."
 
 #: Duncan.dialog:206
-msgid "Yeah, I got him. Now, what is this big cube that you had me carry all the way here?"
-msgstr "Sí, lo conseguí. Dime, ¿que es este gran cubo que me ha tocado cargar todo el camino de vuelta?"
+msgid ""
+"Yeah, I got him. Now, what is this big cube that you had me carry all the "
+"way here?"
+msgstr ""
+"Sí, lo conseguí. Dime, ¿que es este gran cubo que me ha tocado cargar todo "
+"el camino de vuelta?"
 
 #: Duncan.dialog:208
 msgid "Just a memento from a friend."
 msgstr "Es solo un recuerdo de un amigo."
 
 #: Duncan.dialog:209
-msgid "A little more than a portable end of the world, which I am looking forward to disassembling and learning its secrets."
-msgstr "Es algo más que un, fin del mundo portátil, que quiero desmontar y aprender de sus secretos."
+msgid ""
+"A little more than a portable end of the world, which I am looking forward "
+"to disassembling and learning its secrets."
+msgstr ""
+"Es algo más que un, fin del mundo portátil, que quiero desmontar y aprender "
+"de sus secretos."
 
 #: Duncan.dialog:210
 msgid "Nothing that important."
 msgstr "Nada importante."
 
 #: Duncan.dialog:215
-msgid "A 'few' bots? The place was crawling with Harvesters! I nearly got killed!"
-msgstr "¿Unos 'pocos' robots? ¡El sitio estaba plagado de Harvesters! ¡Casi me asesinan!"
+msgid ""
+"A 'few' bots? The place was crawling with Harvesters! I nearly got killed!"
+msgstr ""
+"¿Unos 'pocos' robots? ¡El sitio estaba plagado de Harvesters! ¡Casi me "
+"asesinan!"
 
 #: Duncan.dialog:217
-msgid "There were only one hundred and twenty bots in the entire desert region. This hardly qualifies as many, considering the size of the area."
-msgstr "Solo hay unos ciento veinte robots en todo la región desértica. Esto difícilmente puede calificarse como muchos, si consideramos el tamaño de la región."
+msgid ""
+"There were only one hundred and twenty bots in the entire desert region. "
+"This hardly qualifies as many, considering the size of the area."
+msgstr ""
+"Solo hay unos ciento veinte robots en todo la región desértica. Esto "
+"difícilmente puede calificarse como muchos, si consideramos el tamaño de la "
+"región."
 
 #: Duncan.dialog:218
-msgid "What? You know exactly how many bots were in the desert? Without being there? I don't like this."
-msgstr "¿Que? ¿Sabes exactamente cuantos robots había en el desierto? ¿Sin ni siquiera estar ahí? Esto no me gusta."
+msgid ""
+"What? You know exactly how many bots were in the desert? Without being "
+"there? I don't like this."
+msgstr ""
+"¿Que? ¿Sabes exactamente cuantos robots había en el desierto? ¿Sin ni "
+"siquiera estar ahí? Esto no me gusta."
 
 #: Duncan.dialog:219
 msgid "I just know a lot of things. You do not need to worry about it."
@@ -306,8 +371,12 @@ msgid "As you wish."
 msgstr "Como quieras."
 
 #: Duncan.dialog:227
-msgid "Hey, that is really neat. Here is your cube. Enjoy disassembling it and have fun with it."
-msgstr "Hey, esto es realmente fantástico. Aquí esta tu cubo. Disfruta desmontándolo y diviertete con el."
+msgid ""
+"Hey, that is really neat. Here is your cube. Enjoy disassembling it and have "
+"fun with it."
+msgstr ""
+"Hey, esto es realmente fantástico. Aquí esta tu cubo. Disfruta desmontándolo "
+"y diviertete con el."
 
 #: Duncan.dialog:229
 msgid "I will."
@@ -315,19 +384,26 @@ msgstr "Lo haré."
 
 #: Duncan.dialog:235
 msgid "WHAT? No way I am giving you a doomsday device! Forget about it."
-msgstr "¿QUE? ¡De ninguna manera te voy a dar un dispositivo para e juicio final! Olvídate de el."
+msgstr ""
+"¿QUE? ¡De ninguna manera te voy a dar un dispositivo para e juicio final! "
+"Olvídate de el."
 
 #: Duncan.dialog:237
 msgid "I understand. So be it."
 msgstr "Entiendo. Que así sea."
 
 #: Duncan.dialog:238
-msgid "No way am I giving Duncan that cube thingie. Who knows what he would do with it."
-msgstr "De ninguna manera le daré a Duncan este dichoso cubo. Quien sabe lo que haría con el."
+msgid ""
+"No way am I giving Duncan that cube thingie. Who knows what he would do with "
+"it."
+msgstr ""
+"De ninguna manera le daré a Duncan este dichoso cubo. Quien sabe lo que "
+"haría con el."
 
 #: Duncan.dialog:249
 msgid "I gave Duncan the cube thingie. It feels nice to help people."
-msgstr "Le he dado a Duncan el dichoso cubo. Parece dispuesto a ayudar a la gente."
+msgstr ""
+"Le he dado a Duncan el dichoso cubo. Parece dispuesto a ayudar a la gente."
 
 #: Duncan.dialog:254
 msgid "I feel you are... Different."
@@ -394,7 +470,8 @@ msgid "I wish you cold winds."
 msgstr "Te deseo vientos frescos."
 
 #: Duncan.dialog:286
-msgid "Huh? How do you know the Linarian farewell? No one around here knows it."
+msgid ""
+"Huh? How do you know the Linarian farewell? No one around here knows it."
 msgstr "¿Huh? ¿Como conoces el saludo Linariano? Nadie de por aquí lo conoce."
 
 #: Duncan.dialog:287

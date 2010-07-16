@@ -4,11 +4,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
-"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-24 11:46+0000\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-05-17 20:51+0200\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,7 +18,7 @@ msgstr ""
 "X-Poedit-Country: FRANCE\n"
 "X-Poedit-Language: French\n"
 
-#: /home/david/src/freedroid-translation/dialogs/TestDroid.dialog:41
+#: TestDroid.dialog:41
 msgid ""
 "This is a MegaSys test bot, running a very basic version of their OS. I can "
 "do nothing with this bot, because it doesn't know how to do anything."
@@ -26,7 +27,7 @@ msgstr ""
 "de leur OS. Je ne peux rien faire avec ce robot, parce-qu'il ne sait rien "
 "faire."
 
-#: /home/david/src/freedroid-translation/dialogs/TestDroid.dialog:47
+#: TestDroid.dialog:47
 msgid "logout"
 msgstr "Déconnecter"
 

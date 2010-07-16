@@ -1,370 +1,567 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
-"Report-Msgid-Bugs-To: CHANGE THIS TOO\n"
-"POT-Creation-Date: 2010-04-24 11:46+0000\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-07-16 14:05+0000\n"
 "PO-Revision-Date: 2010-04-24 11:46+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:61
-msgid ""
-"Hello... Oh dear... You look awful... Who did this to you? Did they "
-"torture you?"
+#: Kevin.dialog:35
+msgid "Hello."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:63
-msgid ""
-"Hi. I haven't slept for a few weeks, so I'm just a little bit tired."
+#: Kevin.dialog:35
+msgid "Hi there, Kevin."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:64
+#: Kevin.dialog:36
+msgid "Well, hello again."
+msgstr ""
+
+#: Kevin.dialog:36
+msgid "Hello hello."
+msgstr ""
+
+#: Kevin.dialog:36
+msgid "Welcome back."
+msgstr ""
+
+#: Kevin.dialog:39 Kevin.dialog:41
+msgid "A strange guy stealing from town"
+msgstr ""
+
+#: Kevin.dialog:41
+msgid ""
+"Oh, I seem to have found the guy the town guard was raving on about. Better "
+"not tell the Red Guards in town or they might force me to assist them in his "
+"capture. I'll likely have more use of Kevin and his knowledge here in his "
+"house with his computers than in a holding cell in town."
+msgstr ""
+
+#: Kevin.dialog:44 Kevin.dialog:45 Kevin.dialog:49 Kevin.dialog:80
+#: Kevin.dialog:192 Kevin.dialog:193 Kevin.dialog:200
+msgid "And there was light..."
+msgstr ""
+
+#: Kevin.dialog:49
+msgid ""
+"Everything *is* back to normal for now, so Kevin doesn't need to spend all "
+"his time monitoring the power levels."
+msgstr ""
+
+#: Kevin.dialog:62
+msgid ""
+"Hello... Oh dear... You look awful... Who did this to you? Did they torture "
+"you?"
+msgstr ""
+
+#: Kevin.dialog:64
+msgid "Hi. I haven't slept for a few weeks, so I'm just a little bit tired."
+msgstr ""
+
+#: Kevin.dialog:65
 msgid "Don't worry about me. I'll be fine."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:65
+#: Kevin.dialog:66
 msgid "I'm Kevin, a computer security expert."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:66
+#: Kevin.dialog:67
 msgid "In other words: You are a hacker."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:67
+#: Kevin.dialog:68
 msgid "Eh... I guess you could put it that way, yes."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:72
-msgid "What can you teach me about hacking?"
+#: Kevin.dialog:69
+msgid "Kevin --- Hacker"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:76
-msgid ""
-"As I've told you, I cannot teach you anything right now. I don't have "
-"the time."
-msgstr ""
-
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:77
-msgid ""
-"I must see that the flaky energy stream is distributed in such a way "
-"that my research project can continue."
-msgstr ""
-
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:78
-msgid ""
-"If you get rid of the maintenance bots on the second underground "
-"level of this station, I will find the time to teach you something."
-msgstr ""
-
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:80
-msgid "Not now, I'm busy."
-msgstr ""
-
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:81
-msgid ""
-"I've got an important research project going on. In fact this project "
-"might be crucial to the survival of the whole town."
-msgstr ""
-
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:82
-msgid ""
-"There is tremendous importance in it. But the project is in danger. "
-"There are some maintenance bots down at the energy source."
-msgstr ""
-
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:83
-msgid ""
-"They are trying to 'maintain' machines by rebooting them all the "
-"time. This must stop, but I can't leave this place."
-msgstr ""
-
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:84
-msgid ""
-"I must balance the remaining power in such a way that my project can "
-"continue uninterrupted."
-msgstr ""
-
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:85
-msgid ""
-"Now, if you go down there and make the power flow stable, then I'll "
-"find the time to teach you something."
-msgstr ""
-
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:90
-msgid ""
-"I can teach you everything. For three hundred, up front. Still "
-"interested?"
-msgstr ""
-
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:92
-msgid "Sorry, don't have that much money right now."
-msgstr ""
-
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:99
-msgid ""
-"Sorry, my memory databank is filled to the brim right now. Can't "
-"learn more until I get some more experience."
-msgstr ""
-
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:109
+#: Kevin.dialog:74
 msgid "I'll see after the energy supply now."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:111
+#: Kevin.dialog:76
 msgid ""
-"That's great. You can't miss it. It's not hard to find. Enter my "
-"garden and find the lower station entrance there."
+"That's great. You can't miss it. It's not hard to find. Enter my garden and "
+"find the lower station entrance there."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:112
+#: Kevin.dialog:77
 msgid ""
-"It would be best not to bother with the resistance on the first "
-"level. You only need to take care of the energy supply. And that's on "
-"the SECOND level."
+"It would be best not to bother with the resistance on the first level. You "
+"only need to take care of the energy supply. And that's on the SECOND level."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:113
+#: Kevin.dialog:78
 msgid ""
-"I hope you have a laser pistol or something like that, the bots there "
-"will rip you apart if you try to approach them."
+"I hope you have a laser pistol or something like that, the bots there will "
+"rip you apart if you try to approach them."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:114
+#: Kevin.dialog:79
 msgid ""
-"Best make it quick. I'm already sick of stabilizing the stupid power "
-"grid."
+"Best make it quick. I'm already sick of stabilizing the stupid power grid."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:120
+#: Kevin.dialog:80
 msgid ""
-"I'm sorry, but I don't think there's anything I could do about that "
-"energy supply."
+"The entrance is in Kevins garden. According to Kevin I also don't need to "
+"bother with bots on the first level, just go straight for the second level."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:122
+#: Kevin.dialog:85
+msgid ""
+"I'm sorry, but I don't think there's anything I could do about that energy "
+"supply."
+msgstr ""
+
+#: Kevin.dialog:87
 msgid "Too bad. Now get out of my sight."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:127
+#: Kevin.dialog:92
 msgid "About that project you said you have running..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:130
-msgid ""
-"I've already received the results from the evaluation of my data in "
-"the cluster. Good work."
+#: Kevin.dialog:94 Kevin.dialog:109 Kevin.dialog:118
+msgid "A kingdom for a cluster!"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:132
+#: Kevin.dialog:95
 msgid ""
-"Yes, since the energy supply has been constant, results were much "
-"better. I've achieved my goal."
+"I've already received the results from the evaluation of my data in the "
+"cluster. Good work."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:133
+#: Kevin.dialog:97
+msgid ""
+"Yes, since the energy supply has been constant, results were much better. "
+"I've achieved my goal."
+msgstr ""
+
+#: Kevin.dialog:98
 msgid ""
 "I've obtained secret data on the town surroundings. We'll need a big "
 "computer cluster to evaluate it properly."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:134
+#: Kevin.dialog:99
 msgid ""
-"Once we've evaluated the data, we might find a way to secure the town "
-"and ensure our survival. But it's too early to tell yet."
+"Once we've evaluated the data, we might find a way to secure the town and "
+"ensure our survival. But it's too early to tell yet."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:135
+#: Kevin.dialog:100
 msgid ""
-"If I only had a suitable cluster. Then we could start data evaluation "
-"right away."
+"If I only had a suitable cluster. Then we could start data evaluation right "
+"away."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:142
+#: Kevin.dialog:107
 msgid "Maybe I can help somehow to find a suitable cluster."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:145
+#: Kevin.dialog:110
 msgid ""
 "You've already agreed to take my data cube to the cluster. I have no "
 "influence on this matter anymore."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:146
+#: Kevin.dialog:111
 msgid ""
-"The fate of the town now rests in your hands. Take the data cube I "
-"gave you to the cluster. Only there can the data be evaluated "
-"properly."
+"The fate of the town now rests in your hands. Take the data cube I gave you "
+"to the cluster. Only there can the data be evaluated properly."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:148
+#: Kevin.dialog:113
 msgid ""
-"That would be great of course. I know that the old town is "
-"maintaining a suitable information infrastructure and has had a "
-"proper cluster running for some time now."
+"That would be great of course. I know that the old town is maintaining a "
+"suitable information infrastructure and has had a proper cluster running for "
+"some time now."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:149
+#: Kevin.dialog:114
 msgid ""
-"The only problem is, I can't go back to town. They would probably "
-"kill me because of... a misunderstanding."
+"The only problem is, I can't go back to town. They would probably kill me "
+"because of... a misunderstanding."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:150
+#: Kevin.dialog:115
 msgid ""
-"Also, the cluster is inside of the guard citadel. I hear that only "
-"members of the Red Guard are allowed to enter the complex."
+"Also, the cluster is inside of the guard citadel. I hear that only members "
+"of the Red Guard are allowed to enter the complex."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:151
+#: Kevin.dialog:116
 msgid ""
-"But maybe you can arrange that somehow. For me it would be "
-"impossible, because of my reputation."
+"But maybe you can arrange that somehow. For me it would be impossible, "
+"because of my reputation."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:152
+#: Kevin.dialog:117
 msgid ""
-"I'll give you the data cube. Take it to the computer cluster "
-"administration people. They will know what to do. And don't mention "
-"me there."
+"I'll give you the data cube. Take it to the computer cluster administration "
+"people. They will know what to do. And don't mention me there."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:160
+#: Kevin.dialog:118
+msgid ""
+"Kevin gave me a cube full of some kind of data. I am supposed to take it to "
+"a computer cluster for analysis. Ought to be simple."
+msgstr ""
+
+#: Kevin.dialog:125
 msgid "How about some reward for securing your energy supply area?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:163
-msgid ""
-"I've already rewarded you for that. Don't steal my time. I'm busy."
+#: Kevin.dialog:128
+msgid "I've already rewarded you for that. Don't steal my time. I'm busy."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:165
+#: Kevin.dialog:128
+msgid "I am not as confused as you think. Go away now."
+msgstr ""
+
+#: Kevin.dialog:130
 msgid "What do you want?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:171
+#: Kevin.dialog:137
 msgid "I want to become a hacker."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:173
+#: Kevin.dialog:139
 msgid ""
-"Your desire for information amuses me. Your wish will be granted. I "
-"will teach you how to improve your skill in designing hacking "
-"programs."
+"Your desire for information amuses me. Your wish will be granted. I will "
+"teach you how to improve your skill in designing hacking programs."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:174
+#: Kevin.dialog:140
 msgid ""
-"You must know that hacking is an art. It is easy to chop your enemy "
-"to bits with an axe or shred it to atoms with a grenade... But "
-"hacking requires skill."
+"You must know that hacking is an art. It is easy to chop your enemy to bits "
+"with an axe or shred it to atoms with a grenade... But hacking requires "
+"skill."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:175
+#: Kevin.dialog:141
 msgid ""
-"Look at this terminal... I am connected to a remote system. A fool "
-"would just launch a thousand attacks, but a skilled intruder stops "
-"and thinks."
+"Look at this terminal... I am connected to a remote system. A fool would "
+"just launch a thousand attacks, but a skilled intruder stops and thinks."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:176
+#: Kevin.dialog:142
 msgid ""
-"You must know when to hack and when not to hack. You must attack when "
-"the enemy is unprepared for you."
+"You must know when to hack and when not to hack. You must attack when the "
+"enemy is unprepared for you."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:177
+#: Kevin.dialog:143
 msgid ""
-"Now watch. Observe carefully. See how I enter the system... Yes. "
-"Watch the connection glowing, burning like a bright star..."
+"Now watch. Observe carefully. See how I enter the system... Yes. Watch the "
+"connection glowing, burning like a bright star..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:178
+#: Kevin.dialog:144
 msgid ""
-"...only to die seconds after, as the system far away collapses under "
-"it's own weight... It's done."
+"...only to die seconds after, as the system far away collapses under it's "
+"own weight... It's done."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:179
+#: Kevin.dialog:145
 msgid ""
 "That is all I want to show you for now. Maybe later I will teach you "
 "something else."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:187
+#: Kevin.dialog:153
 msgid "I don't want any reward. Just gratitude."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:189
+#: Kevin.dialog:155
 msgid ""
-"Of course you can have that. There, I'm most grateful to you. That "
-"should do."
+"Of course you can have that. There, I'm most grateful to you. That should do."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:197
+#: Kevin.dialog:163
 msgid "I want money."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:199
+#: Kevin.dialog:165
 msgid "Eh... Here, take these 900 circuits. That should be enough."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:207
+#: Kevin.dialog:173
 msgid "Jasmine just blew up."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:209
+#: Kevin.dialog:175
 msgid "Oh. Right."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:210
+#: Kevin.dialog:176
 msgid "Well, thanks for telling me."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:211
+#: Kevin.dialog:177
 msgid "Back to the drawing board, I guess..."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:217
+#: Kevin.dialog:183
 msgid "I thought you would be more worried about her death."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:219
+#: Kevin.dialog:185
 msgid "Why? I have backups from last Friday. No reason to worry at all."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:220
-msgid ""
-"It will be a while till I get her together again, but she will be "
-"fine."
+#: Kevin.dialog:186
+msgid "It will be a while till I get her together again, but she will be fine."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:229
-msgid ""
-"Good. The most important thing about hacking is to understand the "
-"nature of the machine you want to hack."
+#: Kevin.dialog:190
+msgid "What can you teach me about hacking?"
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:230
-msgid ""
-"Once you have figured out what the creators of the system were "
-"thinking when setting it up, you'll also know how to best hack it."
+#: Kevin.dialog:194
+msgid "Not now, I'm busy."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:231
+#: Kevin.dialog:195
 msgid ""
-"Now I see the feature set of your hacking program has already "
-"improved a lot."
+"I've got an important research project going on. In fact this project might "
+"be crucial to the survival of the whole town."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:241
+#: Kevin.dialog:196
+msgid ""
+"There is tremendous importance in it. But the project is in danger. There "
+"are some maintenance bots down at the energy source."
+msgstr ""
+
+#: Kevin.dialog:197
+msgid ""
+"They are trying to 'maintain' machines by rebooting them all the time. This "
+"must stop, but I can't leave this place."
+msgstr ""
+
+#: Kevin.dialog:198
+msgid ""
+"I must balance the remaining power in such a way that my project can "
+"continue uninterrupted."
+msgstr ""
+
+#: Kevin.dialog:199
+msgid ""
+"Now, if you go down there and make the power flow stable, then I'll find the "
+"time to teach you something."
+msgstr ""
+
+#: Kevin.dialog:200
+msgid ""
+"Kevin has a problem with his energy supply. His bots keep rebooting the "
+"system, and he cannot conduct any experiments with an unstable power supply. "
+"My job is to stabilize the power. I think that implies removing the stupid "
+"bots."
+msgstr ""
+
+#: Kevin.dialog:203
+msgid ""
+"As I've told you, I cannot teach you anything right now. I don't have the "
+"time."
+msgstr ""
+
+#: Kevin.dialog:204
+msgid ""
+"I must see that the flaky energy stream is distributed in such a way that my "
+"research project can continue."
+msgstr ""
+
+#: Kevin.dialog:205
+msgid ""
+"If you get rid of the maintenance bots on the second underground level of "
+"this station, I will find the time to teach you something."
+msgstr ""
+
+#: Kevin.dialog:208
+msgid "I can teach you everything. For a price of course."
+msgstr ""
+
+#: Kevin.dialog:209
+msgid "Three hundred per lesson, up front."
+msgstr ""
+
+#: Kevin.dialog:210
+msgid "Still interested?"
+msgstr ""
+
+#: Kevin.dialog:220
+msgid "Sorry, there is no human alive that could give you further training."
+msgstr ""
+
+#: Kevin.dialog:227
+msgid "Improve Hacking Program (cost 300 circuits, 2 training points)"
+msgstr ""
+
+#: Kevin.dialog:230 Kevin.dialog:244 Kevin.dialog:257 Kevin.dialog:270
+#: Kevin.dialog:283 Kevin.dialog:296 Kevin.dialog:309 Kevin.dialog:322
+msgid "Yes, please teach me."
+msgstr ""
+
+#: Kevin.dialog:232
+msgid ""
+"Good. The most important thing about hacking is to understand the nature of "
+"the machine you want to hack."
+msgstr ""
+
+#: Kevin.dialog:233
+msgid ""
+"Once you have figured out what the creators of the system were thinking when "
+"setting it up, you'll also know how to best hack it."
+msgstr ""
+
+#: Kevin.dialog:234
+msgid ""
+"Now I see the feature set of your hacking program has already improved a lot."
+msgstr ""
+
+#: Kevin.dialog:241
+msgid "Improve Hacking Program (cost 300 circuits, 4 training points)"
+msgstr ""
+
+#: Kevin.dialog:246 Kevin.dialog:259 Kevin.dialog:272 Kevin.dialog:285
+#: Kevin.dialog:298 Kevin.dialog:311 Kevin.dialog:324
+msgid "blabla"
+msgstr ""
+
+#: Kevin.dialog:254
+msgid "Improve Hacking Program (cost 300 circuits, 6 training points)"
+msgstr ""
+
+#: Kevin.dialog:267
+msgid "Improve Hacking Program (cost 300 circuits, 8 training points)"
+msgstr ""
+
+#: Kevin.dialog:280
+msgid "Improve Hacking Program (cost 300 circuits, 10 training points)"
+msgstr ""
+
+#: Kevin.dialog:293
+msgid "Improve Hacking Program (cost 300 circuits, 12 training points)"
+msgstr ""
+
+#: Kevin.dialog:306
+msgid "Improve Hacking Program (cost 300 circuits, 14 training points)"
+msgstr ""
+
+#: Kevin.dialog:319
+msgid "Improve Hacking Program (cost 300 circuits, 16 training points)"
+msgstr ""
+
+#: Kevin.dialog:336
+msgid "Hold on, I don't seem to have that much money right now."
+msgstr ""
+
+#: Kevin.dialog:337
+msgid ""
+"This is embarrasing. I will come back when I have the amount of valuable "
+"circuits you desire."
+msgstr ""
+
+#: Kevin.dialog:339
+msgid "Ok, come back when you can afford to pay me if you are interested."
+msgstr ""
+
+#: Kevin.dialog:340
+msgid "Please don't bother me if you can't pay me."
+msgstr ""
+
+#: Kevin.dialog:341
+msgid ""
+"You don't have enough money! I cannot afford to just give away training for "
+"free."
+msgstr ""
+
+#: Kevin.dialog:342
+msgid "Come back when you have enough circuits."
+msgstr ""
+
+#: Kevin.dialog:343
+msgid "So come back when you have some valuables."
+msgstr ""
+
+#: Kevin.dialog:350
+msgid ""
+"Sorry, my memory databank is filled to the brim right now. Can't learn more "
+"until I get some more experience."
+msgstr ""
+
+#: Kevin.dialog:352
+msgid ""
+"You Linarians are funny creatures. Come back later when you feel ready if "
+"you please."
+msgstr ""
+
+#: Kevin.dialog:353
+msgid ""
+"I cannot teach you when you have no training points. Come back when you are "
+"more prepared."
+msgstr ""
+
+#: Kevin.dialog:354
+msgid "You are not ready. Go kill some bots and come back."
+msgstr ""
+
+#: Kevin.dialog:355
+msgid "Come back when you are mentally ready to learn."
+msgstr ""
+
+#: Kevin.dialog:356
+msgid "Come back after some more practice in the field."
+msgstr ""
+
+#: Kevin.dialog:357
+msgid ""
+"Waving those circuits in front of me when you are too unfocused to train "
+"won't help. I can take your money, but you won't learn anything."
+msgstr ""
+
+#: Kevin.dialog:358
+msgid ""
+"Yeah, I don't think you have enough experience for this. Come back here "
+"after you see some more action."
+msgstr ""
+
+#: Kevin.dialog:359
+msgid "Then come back when you have a real will to learn."
+msgstr ""
+
+#: Kevin.dialog:360
+msgid ""
+"You don't have enough experience. Come here after you see some more action."
+msgstr ""
+
+#: Kevin.dialog:364
 msgid "I'll be off then."
 msgstr ""
 
-#: /home/david/src/freedroid-translation/dialogs/Kevin.dialog:243
+#: Kevin.dialog:366
 msgid ""
-"Be careful. The bots are in a foul mood today. Very easy to get "
-"killed. Very easy."
+"Be careful. The bots are in a foul mood today. Very easy to get killed. Very "
+"easy."
+msgstr ""
+
+#: Kevin.dialog:366
+msgid "If you need to contact me, my number is 127.0.0.1"
+msgstr ""
+
+#: Kevin.dialog:366
+msgid "Keep your system up to date, Linarian."
 msgstr ""
