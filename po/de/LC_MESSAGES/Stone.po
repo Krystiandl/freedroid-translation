@@ -168,7 +168,7 @@ msgstr "Den Laden retten"
 
 #: Stone.dialog:134
 msgid "Ms. Stone can't afford to pay her taxes, and it looks like the family business will be going under soon. She needs 2000 in cash to stay afloat. I could try to help her out."
-msgstr ""
+msgstr "Ms. Stone kann ihre Steuern nicht mehr bezahlen und es sieht so aus, als würde ein Familienunternehmen untergeht. Sie braucht 2000 Mäuse um sich überwasser zu halten. Ich könnte versuchen ihr zu helfen."
 
 #: Stone.dialog:140
 msgid "A pity that nothing can be done about your store."
