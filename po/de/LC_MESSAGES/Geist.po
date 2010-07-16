@@ -1,3 +1,4 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
@@ -6,63 +7,65 @@ msgstr ""
 "PO-Revision-Date: 2010-04-08 14:10+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
 
 #: Geist.dialog:41
 msgid "Hello. Any idea where I can get some help here?"
-msgstr ""
+msgstr "Hallo. Irgend ein Idee, wo ich Hilfe bekommen könnte?"
 
 #: Geist.dialog:43 Geist.dialog:69
 msgid "Verschwinde!"
-msgstr ""
+msgstr "Go away!"
 
 #: Geist.dialog:48
 msgid "Erm... What do you mean?"
-msgstr ""
+msgstr "Ähm... Wiebitte?"
 
 #: Geist.dialog:50
 msgid "Ich bin der Geist, der stets verneint."
-msgstr ""
+msgstr "I am the Ghost, that always negates."
 
 #: Geist.dialog:51
 msgid "Und das mit Recht; denn alles, was entsteht,"
-msgstr ""
+msgstr "And that with right, because everything that is created,"
 
 #: Geist.dialog:52
 msgid "ist wert, dass es zugrunde geht."
-msgstr ""
+msgstr "is worth being ruined."
 
 #: Geist.dialog:53
 msgid "Geist -- Hunter"
-msgstr ""
+msgstr "Geist -- Jäger"
 
 #: Geist.dialog:58
 msgid "I really do not understand you."
-msgstr ""
+msgstr "Ich verstehe sie wirklich nicht."
 
 #: Geist.dialog:60
 msgid "Wer sie nicht kennte, die Elemente,"
-msgstr ""
+msgstr "Who does no know them, the elements,"
 
 #: Geist.dialog:61
 msgid "ihre Kraft und Eigenschaft,"
 msgstr ""
+"their P\r\n"
+"powers and characeristics,"
 
 #: Geist.dialog:62
 msgid "waere kein Meister ueber die Geister."
-msgstr ""
+msgstr "wouldn't be a master of the ghosts."
 
 #: Geist.dialog:67
 msgid "I wish I knew what you are talking about."
-msgstr ""
+msgstr "Ich wünschte ich wüsste, worüber sie sprechen."
 
 #: Geist.dialog:75
 msgid "I need to go now."
-msgstr ""
+msgstr "Ich muss gehen jetzt."
 
 #: Geist.dialog:77
 msgid " . . ."
-msgstr ""
+msgstr ". . . "
