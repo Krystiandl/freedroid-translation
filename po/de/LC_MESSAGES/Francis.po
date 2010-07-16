@@ -92,7 +92,6 @@ msgid "If the computer is not lying, then your name is "
 msgstr "Wenn der Computer die Wahrheit sagt, ist dein Name "
 
 #: Francis.dialog:73
-#, fuzzy
 msgid "How did the war start?"
 msgstr " Wie fing der Krieg an?"
 
@@ -117,7 +116,6 @@ msgid "I broke into a parked hover car and used it to escape. The sight from the
 msgstr "Ich brach einen geparkten Gleiter auf und flüchtete damit. Der Anblick aus der Luft war grauenhaft."
 
 #: Francis.dialog:80
-#, fuzzy
 msgid "The city was full of flames, flashes of gunfire and screaming people. That image still does not let me sleep at night."
 msgstr "Die Stadt war übersät von Flammenherden und Gewehrblitzen und die Luft war erfüllt vom Geschrei der Menschen. Die Bilder lassen mich Nachts immer noch nicht einschlafen."
 
@@ -126,7 +124,6 @@ msgid "First we made them, and then they unmade us. How ironic."
 msgstr "Erst erschufen wir sie, und dann schufen sie uns ab. Welche Ironie!"
 
 #: Francis.dialog:86
-#, fuzzy
 msgid "What happened then?"
 msgstr " Was passierte dann?"
 
@@ -139,9 +136,8 @@ msgid "Later I learned that the bots started attacking all around the globe. The
 msgstr "Später erfuhr ich, dass die Bots in aller Welt zum Angriff übergegangen waren. Die Reporter nannten es den 'Großen Angriff'. Der Name blieb bestehen."
 
 #: Francis.dialog:90
-#, fuzzy
 msgid "Then the bots started jamming our broadcasts and long distance communication became impossible. I have no idea what happened in the world after that. We are cut off."
-msgstr "Dann blockierten die Metallungeheuer unsere Sender und Langstreckenübertragungen wurden unmöglich."
+msgstr "Dann blockierten die Metallungeheuer unsere Sender und Langstreckenübertragungen wurden unmöglich. Ich hab keine Ahnung, was danach in der weiten Welt passierte. Wie waren von ihr Abgeschnitten."
 
 #: Francis.dialog:91
 msgid "For all I know the war might be already over."
@@ -156,9 +152,8 @@ msgid "The locals call this place the popsicle storage, because of all the peopl
 msgstr "Die Anwohner nennen diesen Ort den 'Eis am Stiel'-Speicher, weil sich alle Menschen, die hier liegen, im Kälteschlaf befinden. Sie wurden alle schon vor dem großen Angriff eingefroren."
 
 #: Francis.dialog:99
-#, fuzzy
 msgid "This facility is located not too far away from a mining town where we have made a stand against the damn contraptions. However, I'm alone here with only 1 droid for security."
-msgstr "Die hiesige Bevölkerung nennt diesen Ort Tempelwald. Wir befinden uns nicht allzu weit entfernt von einer befestigten Bergbausiedlung, wo wir uns eine Zuflucht vor den verdammten Metallgebilden geschaffen haben."
+msgstr "Die Fabrik ist nicht sehr von der Bergwergstadt entfernt. In dieser Stadt konnten wir einen Widerstand gegen die Roboter aufbauen. Dennoch bin ich hier mit einem Sicherheitsdroiden alleine."
 
 #: Francis.dialog:100
 msgid "There are just too few humans alive and awake to allow us to properly protect this place, and nobody else is foolish enough to stay out here alone."
@@ -169,9 +164,8 @@ msgid "I try to do my best to make sure nothing goes bad here and all these peop
 msgstr "Ich versuche mein Bestes, um sicherzustellen, dass hier nichts schiefläuft und alle diese Leute sterben. Glücklicherweise sind die äußeren Tore dieses Ortes sehr stabil."
 
 #: Francis.dialog:106
-#, fuzzy
 msgid "Why did the Linarians come to this world?"
-msgstr " Warum kamen die Linarianer auf diese Welt?"
+msgstr "Warum kamen die Linarianer auf diese Welt?"
 
 #: Francis.dialog:108
 msgid "The planet you mean? No one knows that. None of you ever said anything about it."
@@ -184,16 +178,15 @@ msgstr "Tut mir leid, aber da kann ich dir nicht weiterhelfen."
 #: Francis.dialog:114
 #, fuzzy
 msgid "Where in the void is this world?"
-msgstr " Wo, zum Lisun, befindet sich diese Welt?"
+msgstr "Wo, zum Lisun, befindet sich diese Welt?"
 
 #: Francis.dialog:116
 msgid "I guess you mean in the universe?"
 msgstr "Ich nehme an, du meinst wo im Universum?"
 
 #: Francis.dialog:117
-#, fuzzy
 msgid "Yes, I think that is your name for it."
-msgstr " Ja, ich glaube das ist eure Bezeichnung dafür."
+msgstr "Ja, ich glaube das ist eure Bezeichnung dafür."
 
 #: Francis.dialog:118
 msgid "Well, we are in a barred spiral galaxy, twenty-six thousand light years away from the galactic core."
@@ -208,32 +201,28 @@ msgid "This is a planetary system of ten planets, and we are presently located o
 msgstr "Dies ist ein Planetensystem mit zehn Planeten, und wir befinden uns gerade auf dem dritten von unserem Stern - der Sonne."
 
 #: Francis.dialog:121
-#, fuzzy
 msgid "I am not an astronomer, so I could be wrong. I am too tired to keep track of what is a planet and what is just an oversized rock."
-msgstr "Da ich kein Astronom bin, kann ich auch falsch liegen. Ich bin's leid, mich auf dem Laufenden zu halten, was ein Planet ist - und was lediglich ein übergewichtiger Felsbrocken."
+msgstr "Da ich kein Astronom bin, kann ich auch falsch liegen. Ich bin zu müde, um mich auf dem Laufenden zu halten, was ein Planet ist - und was lediglich ein übergewichtiger Felsbrocken."
 
 #: Francis.dialog:122
-#, fuzzy
 msgid "This could be just about anywhere. Your description is too ambiguous."
-msgstr " Das könnte ebensogut im Nirgendwo sein. Ihre Beschreibung ist viel zu ungenau."
+msgstr "Das könnte ebensogut im Nirgendwo sein. Ihre Beschreibung ist viel zu ungenau."
 
 #: Francis.dialog:123
 msgid "Sorry, star sciences are my weak point. Maybe someone in the town might know something more."
 msgstr "Tja, wie gesagt, Sternenkunde ist nicht mein Fachgebiet. Vielleicht weiß ja jemand in der Stadt mehr darüber."
 
 #: Francis.dialog:128
-#, fuzzy
 msgid "Who are you? What is going on?"
-msgstr " Wer sind Sie und was geht hier vor?"
+msgstr "Wer sind Sie und was geht hier vor?"
 
 #: Francis.dialog:130
 msgid "I guess I will start with myself."
 msgstr "Ich denke, ich fange mal bei mir selbst an."
 
 #: Francis.dialog:131
-#, fuzzy
 msgid "Francis. Dr. Francis Spark. I used to be a teacher at a small university before all hell broke loose."
-msgstr "Francis. Francis Spark. Ich war Professor an einer kleinen Universität, bevor hier die Hölle losbrach."
+msgstr "Francis. Dr. Francis Spark. Ich war Professor an einer kleinen Universität, bevor hier die Hölle losbrach."
 
 #: Francis.dialog:132
 msgid "Dr. Francis - Cryogenicist"
@@ -248,9 +237,8 @@ msgid "And it looks like we are losing the war."
 msgstr "Und es sieht ganz danach aus, als ob wir diesen Krieg verlieren würden - oder bereits haben."
 
 #: Francis.dialog:139
-#, fuzzy
 msgid "I feel terrible... Was I asleep? I remember nightmares. A meteor shower striking a planet full of life and killing everything on it..."
-msgstr " Ich fühle mich schrecklich... habe ich geschlafen? Ich erinnere mich an Alpträume - ein Meteoritenschauer, der einen Planeten voller Leben traf und alles darauf auslöschte..."
+msgstr "Ich fühle mich schrecklich... habe ich geschlafen? Ich erinnere mich an Alpträume - ein Meteoritenschauer, der einen Planeten voller Leben traf und alles darauf auslöschte..."
 
 #: Francis.dialog:141
 msgid "This is normal. You were in stasis sleep for over 70 years. Stasis is not too kind on the mind. Your strange dreams will keep recurring for several years."
@@ -266,12 +254,10 @@ msgid "You are lucky that I found you and woke you up. A few more decades in the
 msgstr "Du hattest Glück, dass ich dich gefunden und aufgeweckt habe. Ein paar weitere Jahrzehnte da drinnen und du wärst dem Wahnsinn verfallen."
 
 #: Francis.dialog:148
-#, fuzzy
 msgid "Tell me more about the town you mentioned."
-msgstr " Erzählen Sie mir mehr über die kleine Stadt, die Sie erwähnt hatten."
+msgstr "Erzählen Sie mir mehr über die kleine Stadt, die Sie erwähnt hatten."
 
 #: Francis.dialog:150
-#, fuzzy
 msgid "It is a small mining community of no more than 500 inhabitants..."
 msgstr "Es ist eine kleine Bergbaugemeinde, mit nicht mehr als 500 Einwohnern..."
 
