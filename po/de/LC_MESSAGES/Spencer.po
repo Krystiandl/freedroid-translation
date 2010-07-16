@@ -239,7 +239,7 @@ msgstr "Ich denke, Sie sollten einmal den Koch unserer Gemeinde aufsuchen. Er h�
 
 #: Spencer.dialog:171
 msgid "Novice Arena"
-msgstr ""
+msgstr "Anfängerarena"
 
 #: Spencer.dialog:172
 msgid "From Butch I hear you've become a novice arena master. Congratulations."
@@ -251,10 +251,9 @@ msgstr "Sie könnten eventuell ein paar Arena-Kämpfe im südlichen Viertel aust
 
 #: Spencer.dialog:177
 msgid "Bender's problem"
-msgstr ""
+msgstr "Benders Problem"
 
 #: Spencer.dialog:178
-#, fuzzy
 msgid "Helping Bender along was also a smart move. But you should be very careful with that one. He can get mad rather easily. A bit of a security threat, but we can't be too picky."
 msgstr "Bender aus seiner Notlage zu befreien war auch ein sehr geschickter Zug von Ihnen. Doch bei dem sollten Sie sehr vorsichtig sein; er kann sehr schnell ausrasten! Praktisch ein kleines Sicherheitsproblem, aber wir können nicht allzu wählerisch sein..."
 
@@ -269,7 +268,7 @@ msgstr "Aber am allerwichtigsten ist - Sie haben mich aufs Äußerste beeindruck
 #: Spencer.dialog:186
 #, fuzzy
 msgid "Personally I'm also worrying about how we will manage to get some necessary supplies from our warehouse. It's filled with bots and we just don't have the manpower to spare to clean them out."
-msgstr "Persönlich mache ich mir auch darüber Sorgen, wie wir es schaffen, einige dringend benötigte Vorräte aus dem Lagerhaus zu beschaffen."
+msgstr "Persönlich mache ich mir auch darüber Sorgen, wie wir es schaffen, einige dringend benötigte Vorräte aus dem Lagerhaus zu beschaffen. Es ist voller Roboter und wir haben einfach nicht die Manneskraft zur verfügung, um sie Auszuräuchern."
 
 #: Spencer.dialog:191
 msgid "OK. Your list of achievements is long enough. You can join us. So I hereby declare you a member of the Red Guard."
@@ -280,7 +279,6 @@ msgid "But now that you are in the Guard, know this: There is only one rule for 
 msgstr "Jetzt, da Sie zur Wache gehören, denken Sie immer daran... es gibt nur eine Regel für uns Wachmänner: Wir halten zusammen. Wir überleben gemeinsam und wir sterben gemeinsam. Aber tun es zusammen!"
 
 #: Spencer.dialog:193
-#, fuzzy
 msgid "And now you might want to inspect the guard house. Tell Tybalt to open the door for you. Lukas at the arms counter will give you your armor."
 msgstr "Und jetzt werden Sie sicher das Wachgebäude aufsuchen wollen. Sagen Sie Tybalt, er soll Ihnen die Tür öffnen. Lukas in der Waffenausgabe soll Ihnen Ihren Schutzpanzer geben."
 
@@ -290,7 +288,7 @@ msgstr "Ich hoffe, Sie werden sich als würdiges Mitglied der Roten Wache erweis
 
 #: Spencer.dialog:195
 msgid "Joined Town Guard!!"
-msgstr ""
+msgstr "Der Stadtwache beigetreten!!!"
 
 #: Spencer.dialog:201
 msgid "All in all, not quite so bad. But you still need to do the one thing or the other. Then we can talk about it."
@@ -301,7 +299,6 @@ msgid "I can't accept you into the guard like this. Get going. There are still m
 msgstr "Ich kann Sie so in der Wache nicht gebrauchen. Bleiben Sie am Ball - es gibt noch viel für Sie zu tun..."
 
 #: Spencer.dialog:209
-#, fuzzy
 msgid "I've heard Richard obtained new information on the town."
 msgstr " Mir ist zu Ohren gekommen, dass Richard neue Informationen betreffend der Kolonie zugespielt wurden..."
 
@@ -318,7 +315,6 @@ msgid "If the information is true, then you can take over the control droid and 
 msgstr "Falls die Informationen zutreffen, könnten Sie den Kontrollandroiden übernehmen und den Schild permanent abschalten, so dass wir hinein können."
 
 #: Spencer.dialog:214
-#, fuzzy
 msgid "We know that MS had a firmware update system, which could be used to propagate a malicious update to disable all bots. It is very alluring, but to perform this trick you need to hack the control droid, which is in the heart of the HF. To enter HF you would have to disable the disruptor shield."
 msgstr "Wir wissen, dass MS ein Firmware-Update-System unterhielt, das dazu verwendet werden könnte, Schadcode zu verbreiten und alle Robots auszuschalten. Es klingt sehr verlockend aber um diesen Trick einzusetzen, müssten Sie sich in den Kontrollandroiden einhacken, der irgendwo im Herz der Höllenfestung sitzt. Um dort hinein zu gelangen, müssen Sie den Disruptorschild abstellen."
 
@@ -327,9 +323,10 @@ msgid "This seems like a gift sent from the heavens. Cleaning the Hell Fortress 
 msgstr "Das scheint ein Geschenk des Himmels zu sein! Die Höllenfestung zu säubern dürfte allerdings alles andere als einfach werden..."
 
 #: Spencer.dialog:220
-#, fuzzy
 msgid "I'd like to participate in this operation."
-msgstr " Ich will an dieser Operation teilnehmen!"
+msgstr ""
+" Ich würder gerne an dieser Operation teilnehmen1\r\n"
+"."
 
 #: Spencer.dialog:222
 msgid "That's most kind of you to volunteer. So far, I've sent two scouts into the area. They have found the facility entrance and unlocked the gate."
@@ -344,12 +341,10 @@ msgid "However, we lost contact with them shortly after they went inside. They a
 msgstr "Allerdings hatten wir, kurz nachdem sie hineingegangen waren, den Kontakt zu ihnen verloren. Sie berichteten über heftigen Widerstand durch Roboter."
 
 #: Spencer.dialog:225
-#, fuzzy
 msgid "I'd be glad if you could take a look. But use the utmost care. We can't afford to lose another guard."
 msgstr "Ich wäre froh, wenn Sie dort mal nachsehen könnten. Aber lassen Sie allergrößte Vorsicht walten. Wir können es uns nicht leisten, einen weiteren Wachmann zu verlieren..."
 
 #: Spencer.dialog:230
-#, fuzzy
 msgid "OK. I'll be careful. But I'll do it."
 msgstr " OK. Ich werde vorsichtig sein. Aber ich gehe da rein."
 
@@ -371,9 +366,8 @@ msgid "Spencer has revealed the information from the data cube evaluation to me.
 msgstr ""
 
 #: Spencer.dialog:241
-#, fuzzy
 msgid "I don't feel like doing it now. I'd rather prepare some more."
-msgstr " Ich glaube, ich bin noch nicht so weit. Ich möchte mich lieber noch besser vorbereiten."
+msgstr "Ich glaube, ich bin noch nicht so weit. Ich möchte mich lieber noch besser vorbereiten."
 
 #: Spencer.dialog:243
 msgid "Good. You should be well prepared if you intend to go."
