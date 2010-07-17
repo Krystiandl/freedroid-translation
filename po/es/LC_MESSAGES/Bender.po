@@ -7,10 +7,10 @@ msgstr ""
 "PO-Revision-Date: 2010-06-17 10:05+0200\n"
 "Last-Translator: jordi <jordiferren@gmail.com>\n"
 "Language-Team: none\n"
-"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Virtaal 0.5.2\n"
 
@@ -19,16 +19,8 @@ msgid "Bender's problem"
 msgstr "El problema de Bender"
 
 #: Bender.dialog:47
-msgid ""
-"Congratulations on getting into the Red Guard! I voted for you and that was "
-"what got you in! I said we'd be buddies, didn't I? Want to stand guard at "
-"the gate with me? It gets boring with just that 614 to talk to. I could tell "
-"you all the secrets of the Red Guard."
-msgstr ""
-"¡Enhorabuena por formar parte de la Guardia Roja! ¡Vote por ti y por eso es "
-"por lo que estás dentro! Les dije que eramos amigos, ¿no es así? ¿Quieres "
-"hacer guardia en la puerta conmigo? Se vuelve aburrido si solo esta ese 614 "
-"con el que hablar. Te contaría todos los secretos de la Guardia Roja."
+msgid "Congratulations on getting into the Red Guard! I voted for you and that was what got you in! I said we'd be buddies, didn't I? Want to stand guard at the gate with me? It gets boring with just that 614 to talk to. I could tell you all the secrets of the Red Guard."
+msgstr "¡Enhorabuena por formar parte de la Guardia Roja! ¡Vote por ti y por eso es por lo que estás dentro! Les dije que eramos amigos, ¿no es así? ¿Quieres hacer guardia en la puerta conmigo? Se vuelve aburrido si solo esta ese 614 con el que hablar. Te contaría todos los secretos de la Guardia Roja."
 
 #: Bender.dialog:60
 msgid "Hello! I'm new here."
@@ -44,23 +36,15 @@ msgstr "Bender"
 
 #: Bender.dialog:68
 msgid "What's wrong? You seem to be in pretty good shape for a dead man."
-msgstr ""
-"¿Que ocurre? Parece que estas en buena forma para ser un hombre muerto."
+msgstr "¿Que ocurre? Parece que estas en buena forma para ser un hombre muerto."
 
 #: Bender.dialog:70
-msgid ""
-"Yeah. I'm the strongest man in all the world. That's 'cause I took ALL of "
-"the strength pills."
-msgstr ""
-"Sí. Soy el hombre más fuerte de todo el mundo. Esto es porque me he tomado "
-"TODAS las pastillas de fuerza."
+msgid "Yeah. I'm the strongest man in all the world. That's 'cause I took ALL of the strength pills."
+msgstr "Sí. Soy el hombre más fuerte de todo el mundo. Esto es porque me he tomado TODAS las pastillas de fuerza."
 
 #: Bender.dialog:71
-msgid ""
-"And yet, I might be dead soon. The doc warned me, but I didn't listen. Damn."
-msgstr ""
-"Y sin embargo, me moriré dentro de poco. El doctor me advirtió, pero yo no "
-"le escuché. Maldición."
+msgid "And yet, I might be dead soon. The doc warned me, but I didn't listen. Damn."
+msgstr "Y sin embargo, me moriré dentro de poco. El doctor me advirtió, pero yo no le escuché. Maldición."
 
 #: Bender.dialog:72
 msgid "Bender -- The strongest one"
@@ -71,16 +55,12 @@ msgid "You took too many strength pills and now you're sick?"
 msgstr "¿Tomaste demasiadas pastillas de fuerza y ahora estas enfermo?"
 
 #: Bender.dialog:79
-msgid ""
-"Nah. The strength pills were fine. They made me strong. The doc said so."
-msgstr ""
-"Que va. La pastillas de fuerza estaban bien. Me hicieron fuerte. El doctor "
-"también lo dijo."
+msgid "Nah. The strength pills were fine. They made me strong. The doc said so."
+msgstr "Que va. La pastillas de fuerza estaban bien. Me hicieron fuerte. El doctor también lo dijo."
 
 #: Bender.dialog:80 Bender.dialog:87
 msgid "It was the brain enlargement pills. They did me no good, man."
-msgstr ""
-"Fueron las pastillas para agrandar el cerebro. No me sentaron bien colega."
+msgstr "Fueron las pastillas para agrandar el cerebro. No me sentaron bien colega."
 
 #: Bender.dialog:85
 msgid "What made you so sick?"
@@ -96,26 +76,19 @@ msgstr "Sabes colega, pille esas ofertas que todos cogen."
 
 #: Bender.dialog:95
 msgid "They offer some brain enlargement pills to enhance brain performance."
-msgstr ""
-"Ofrecen unas pastillas que agrandan el cerebro y permiten mejorar la "
-"capacidad mental."
+msgstr "Ofrecen unas pastillas que agrandan el cerebro y permiten mejorar la capacidad mental."
 
 #: Bender.dialog:96
 msgid "'Enlarg3 your brain! Bu.y pi11s! Che4p!!11!!!'"
 msgstr "'¡Agrand3 su cerebro! ¡Com.pr3 p4sti114s! ¡B4r4t4s!!11!!!'"
 
 #: Bender.dialog:97
-msgid ""
-"And everybody in the camp said I was dumb, which by the way IS NOT TRUE."
-msgstr ""
-"Y todo el mundo en el campamento, dijo que estaba tonto. Pero por supuesto "
-"NO ES CIERTO."
+msgid "And everybody in the camp said I was dumb, which by the way IS NOT TRUE."
+msgstr "Y todo el mundo en el campamento, dijo que estaba tonto. Pero por supuesto NO ES CIERTO."
 
 #: Bender.dialog:98
 msgid "So I thought these pills might make them think differently about me."
-msgstr ""
-"Así que pensé que esas pastillas podrían hacerme pensar de otro modo sobre "
-"mí."
+msgstr "Así que pensé que esas pastillas podrían hacerme pensar de otro modo sobre mí."
 
 #: Bender.dialog:103
 msgid "But if you aren't dumb, why the brain enlargement pills?"
@@ -123,47 +96,31 @@ msgstr "Pero si tu no eres tonto, ¿porque pastillas para agrandar el cerebro?"
 
 #: Bender.dialog:105
 msgid "Because they said I was dumb. So I had to do something about it, eh?"
-msgstr ""
-"Porque decían que era tonto. Así que tenía que hacer algo al respecto, ¿no?"
+msgstr "Porque decían que era tonto. Así que tenía que hacer algo al respecto, ¿no?"
 
 #: Bender.dialog:110
 msgid "Isn't there some doctor in town who could cure you?"
 msgstr "¿No hay ningún doctor en la ciudad que pueda curarte?"
 
 #: Bender.dialog:112
-msgid ""
-"Yeah, the doc could help. But he won't. I've threatened him, but he won't."
-msgstr ""
-"Claro, el doctor puede ayudarme. Pero no lo hace. Le he amenazado y ni aun "
-"así."
+msgid "Yeah, the doc could help. But he won't. I've threatened him, but he won't."
+msgstr "Claro, el doctor puede ayudarme. Pero no lo hace. Le he amenazado y ni aun así."
 
 #: Bender.dialog:113
-msgid ""
-"He's so angry cause I didn't listen. He warned me about the brain "
-"enlargement pill offers."
-msgstr ""
-"Está enfadado porque no le escuché. Me advirtió sobre lo que las pastillas "
-"para agrandar el cerebro ofrecían."
+msgid "He's so angry cause I didn't listen. He warned me about the brain enlargement pill offers."
+msgstr "Está enfadado porque no le escuché. Me advirtió sobre lo que las pastillas para agrandar el cerebro ofrecían."
 
 #: Bender.dialog:114
-msgid ""
-"They can cause some awful forms of cancer. But I didn't listen. And now he "
-"refuses to help me, man."
-msgstr ""
-"Pueden causar horribles formas de cáncer. Pero no le escuché. Y ahora no me "
-"quiere ayudar, colega."
+msgid "They can cause some awful forms of cancer. But I didn't listen. And now he refuses to help me, man."
+msgstr "Pueden causar horribles formas de cáncer. Pero no le escuché. Y ahora no me quiere ayudar, colega."
 
 #: Bender.dialog:119
 msgid "Maybe I can help you somehow?"
 msgstr "¿Te puedo ayudar de alguna manera?"
 
 #: Bender.dialog:121
-msgid ""
-"Man, if you could do that, I'd give you everything. I still got some of "
-"those strength pills left."
-msgstr ""
-"Colega, si lo pudieras hacer, te daría lo que sea. Todavía me quedan algunas "
-"pastillas de fuerza."
+msgid "Man, if you could do that, I'd give you everything. I still got some of those strength pills left."
+msgstr "Colega, si lo pudieras hacer, te daría lo que sea. Todavía me quedan algunas pastillas de fuerza."
 
 #: Bender.dialog:122
 msgid "Also I could vote for you if you seek to join the guard of the town."
@@ -174,26 +131,16 @@ msgid "Just get me a cure, and I'll be forever grateful!"
 msgstr "Solo dame una cura, ¡te estaré agradecido para siempre!"
 
 #: Bender.dialog:124
-msgid ""
-"I met a Red Guardsman named Bender. He poisoned himself with some brain "
-"enlargement pills, which turned out to be highly carcinogenic. The city "
-"doctor will not give him the antidote, so it is up to me to save him."
-msgstr ""
-"He conocida a un tipo de la Guardia Roja llamado Bender. Se ha envenenado a "
-"si mismo con algunas pastillas para agrandar el cerebro, que resultaron ser "
-"altamente cancerígenas. El doctor de la ciudad no le quiere dar un antídoto, "
-"así que me toca a mi salvarle."
+msgid "I met a Red Guardsman named Bender. He poisoned himself with some brain enlargement pills, which turned out to be highly carcinogenic. The city doctor will not give him the antidote, so it is up to me to save him."
+msgstr "He conocida a un tipo de la Guardia Roja llamado Bender. Se ha envenenado a si mismo con algunas pastillas para agrandar el cerebro, que resultaron ser altamente cancerígenas. El doctor de la ciudad no le quiere dar un antídoto, así que me toca a mi salvarle."
 
 #: Bender.dialog:129
 msgid "I'm sorry, but it looks like there's nothing I could do for you."
 msgstr "Lo siento, pero parece que no hay nada que pueda hacer por ti."
 
 #: Bender.dialog:131
-msgid ""
-"Of course not. You're not a doctor. Only the doctor has the right medicine."
-msgstr ""
-"Por supuesto que no. No eres medico. Solo el doctor tiene la medicina "
-"adecuada."
+msgid "Of course not. You're not a doctor. Only the doctor has the right medicine."
+msgstr "Por supuesto que no. No eres medico. Solo el doctor tiene la medicina adecuada."
 
 #: Bender.dialog:132
 msgid "But this rat would rather let me die!"
@@ -201,8 +148,7 @@ msgstr "¡Pero esa rata prefiere que me muera!"
 
 #: Bender.dialog:133
 msgid "I'll rip his guts out as soon as I get my hands on him, man!"
-msgstr ""
-"¡Le arrancaré las tripas tan pronto como le ponga las manos encima, colega!"
+msgstr "¡Le arrancaré las tripas tan pronto como le ponga las manos encima, colega!"
 
 #: Bender.dialog:138
 msgid "I've got your medicine. With best wishes from the doctor."
@@ -210,45 +156,31 @@ msgstr "Tengo tu medicina. Con los mejores deseos del doctor."
 
 #: Bender.dialog:140
 msgid "Wow, you really did it! I guess you beat the hell out of him."
-msgstr ""
-"Uau, ¡realmente lo has conseguido! Supongo que habrás vencido la maldad que "
-"hay en él."
+msgstr "Uau, ¡realmente lo has conseguido! Supongo que habrás vencido la maldad que hay en él."
 
 #: Bender.dialog:141
 msgid "He wouldn't help me even after I pounded him a bit. A big bit."
-msgstr ""
-"No quería ayudarme, ni siquiera después de que le golpeara un poco. Un poco "
-"bastante."
+msgstr "No quería ayudarme, ni siquiera después de que le golpeara un poco. Un poco bastante."
 
 #: Bender.dialog:142
 msgid "Man, you are the greatest hero!"
 msgstr "Colega, ¡eres el héroe más grande!"
 
 #: Bender.dialog:143
-msgid ""
-"Here, take this as a reward - and you can be sure that I'll vote for you if "
-"you seek membership in the Red Guard!"
-msgstr ""
-"Aquí esta, toma esta recompensa - y puedes estar seguro de que votaré por ti "
-"si quieres ser miembro de la ¡Guardia Roja!"
+msgid "Here, take this as a reward - and you can be sure that I'll vote for you if you seek membership in the Red Guard!"
+msgstr "Aquí esta, toma esta recompensa - y puedes estar seguro de que votaré por ti si quieres ser miembro de la ¡Guardia Roja!"
 
 #: Bender.dialog:144
 msgid "Thanks, man!"
 msgstr "¡Gracias, colega!"
 
 #: Bender.dialog:149
-msgid ""
-"Bender is fine now. He gave me some muscle enlargement pills in return for "
-"my help. Hmm..."
-msgstr ""
-"Bender se encuentra bien. El me ha dado unas cuantas pastillas para agrandar "
-"los músculos que me pueden ayudar. Mmm..."
+msgid "Bender is fine now. He gave me some muscle enlargement pills in return for my help. Hmm..."
+msgstr "Bender se encuentra bien. El me ha dado unas cuantas pastillas para agrandar los músculos que me pueden ayudar. Mmm..."
 
 #: Bender.dialog:154
 msgid "Maybe taking the brain enlargement pills really was stupid."
-msgstr ""
-"Puede ser que tomar las pastillas para agrandar el cerebro fuera realmente "
-"estúpido."
+msgstr "Puede ser que tomar las pastillas para agrandar el cerebro fuera realmente estúpido."
 
 #: Bender.dialog:156
 msgid "WHAT? Did you just say I'm stupid?"
@@ -271,17 +203,12 @@ msgid "He's right inside this building. I'm waiting here for him, man."
 msgstr "Esta justo en este edificio. Le estoy esperando aquí, colega."
 
 #: Bender.dialog:166
-msgid ""
-"When he comes out, maybe I can pound him some more. Maybe then he'll help me "
-"at last!"
-msgstr ""
-"Cuando salga, quizás le pueda golpear un poco más. ¡Puede que al fin me "
-"ayude!"
+msgid "When he comes out, maybe I can pound him some more. Maybe then he'll help me at last!"
+msgstr "Cuando salga, quizás le pueda golpear un poco más. ¡Puede que al fin me ayude!"
 
 #: Bender.dialog:167
 msgid "Yes, he'll get a good beating. That will make him reconsider! That rat!"
-msgstr ""
-"Sí, se merece una buena paliza. ¡Eso le hará reconsiderarlo! ¡Esa rata!"
+msgstr "Sí, se merece una buena paliza. ¡Eso le hará reconsiderarlo! ¡Esa rata!"
 
 #: Bender.dialog:172
 msgid "About that medicine that you need..."
@@ -297,9 +224,7 @@ msgstr "¿Que? ¿No tienes nada?"
 
 #: Bender.dialog:176
 msgid "Man, what are you doing here? Get the medicine! I need it now!"
-msgstr ""
-"Colega, ¿Que estás haciendo aquí? ¡Consigue la medicina! ¡La necesito ahora "
-"mismo!"
+msgstr "Colega, ¿Que estás haciendo aquí? ¡Consigue la medicina! ¡La necesito ahora mismo!"
 
 #: Bender.dialog:181
 msgid "How are you doing?"
@@ -323,8 +248,7 @@ msgstr ", te debo una."
 
 #: Bender.dialog:187
 msgid "And I'll sure vote for you if you want into the city guard! "
-msgstr ""
-"Y ten por seguro que te votare si quieres entrar en la guardia de la ciudad!"
+msgstr "Y ten por seguro que te votare si quieres entrar en la guardia de la ciudad!"
 
 #: Bender.dialog:191
 msgid "What secrets? Like a secret handshake?"
@@ -355,11 +279,8 @@ msgid "I sometimes login to her account and mess with it for the LULZ."
 msgstr "A veces entro a su cuenta y trasteo por ahí solo por los LOL."
 
 #: Bender.dialog:206
-msgid ""
-"It's the end of the world as we know it, and I... am so incredibly bored."
-msgstr ""
-"Es el fin del mundo tal como lo conocemos, y yo... estoy increíblemente "
-"aburrido."
+msgid "It's the end of the world as we know it, and I... am so incredibly bored."
+msgstr "Es el fin del mundo tal como lo conocemos, y yo... estoy increíblemente aburrido."
 
 #: Bender.dialog:207
 msgid "Erm... excuse me?"
@@ -435,7 +356,7 @@ msgstr "¡TE HARÉ AÑICOS!"
 
 #: Bender.dialog:245
 msgid "Bender -- Homicidal"
-msgstr ""
+msgstr "Bender -- Homicida"
 
 #: Bender.dialog:251
 msgid "See you later."
