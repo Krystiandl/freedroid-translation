@@ -21,29 +21,30 @@ msgid " . "
 msgstr "."
 
 #: c-net.dialog:37
+#, fuzzy
 msgid "Welcome to the Community Network."
-msgstr ""
+msgstr "Wilkommen zum Gemeinschaftsnetzwerk"
 
 #: c-net.dialog:38
 msgid "Login : "
-msgstr ""
+msgstr "Einloggen :"
 
 #: c-net.dialog:53
 msgid "First time login detected."
 msgstr ""
 
 #: c-net.dialog:54
-#, fuzzy
 msgid "Please enter your name"
-msgstr "Bitte Sicherheits-Passwort zum entsperren eingeben:"
+msgstr "Bitte geben Sie ihren Namen ein"
 
 #: c-net.dialog:55 c-net.dialog:62
 msgid "Name : "
-msgstr ""
+msgstr "Name :"
 
 #: c-net.dialog:57
+#, fuzzy
 msgid "Please set password for your personalized guest login "
-msgstr ""
+msgstr "Bitte geben Sie ein Passwort für ihren persönliche Sitzung als Gast ein"
 
 #: c-net.dialog:58
 msgid "Use at least one lower case letter, one upper case letter, one number, and one symbol."
@@ -51,7 +52,7 @@ msgstr ""
 
 #: c-net.dialog:59 c-net.dialog:64 c-net.dialog:77 c-net.dialog:96
 msgid "Password : "
-msgstr ""
+msgstr "Passwort :"
 
 #: c-net.dialog:67 c-net.dialog:84 c-net.dialog:103 c-net.dialog:122
 #, fuzzy
@@ -59,13 +60,13 @@ msgid "Last login from dev/tty3 on unknown"
 msgstr "Letzter Login von /dev/ttyS0 am Sonntag, 23.03.2057. admin@sabwehr: ~ #"
 
 #: c-net.dialog:114
-#, fuzzy
 msgid "Password: "
-msgstr " Passwort"
+msgstr "Passwort:"
 
 #: c-net.dialog:132
+#, fuzzy
 msgid "Login incorrect"
-msgstr ""
+msgstr "Einloggen fehlgeschlagen"
 
 #: c-net.dialog:133
 msgid "Connection to c-net terminated."
@@ -73,7 +74,7 @@ msgstr ""
 
 #: c-net.dialog:163
 msgid "Date unknown"
-msgstr ""
+msgstr "Datum unbekannt"
 
 #: c-net.dialog:242
 msgid "mountdisk.sh"
@@ -85,7 +86,7 @@ msgstr ""
 
 #: c-net.dialog:246
 msgid "no disk found"
-msgstr ""
+msgstr "keine Festplatte gefunden"
 
 #: c-net.dialog:251
 msgid "statistics.pl"
@@ -101,7 +102,7 @@ msgstr ""
 
 #: c-net.dialog:267
 msgid "guest"
-msgstr ""
+msgstr "Gast"
 
 #: c-net.dialog:288
 msgid "forkBOMB.sh -arm bomb"
@@ -145,15 +146,15 @@ msgstr ""
 
 #: c-net.dialog:347
 msgid "Mankind exterminated. You lost!"
-msgstr ""
+msgstr "Menschheit ausgerottet. Sie haben verloten!"
 
 #: c-net.dialog:347
 msgid "No victory possible. LOSER! Play again?"
-msgstr ""
+msgstr "Kein Sieg möglich. VERLIERER! Nochmal spielen?"
 
 #: c-net.dialog:347
 msgid "Everyone dies, new game?"
-msgstr ""
+msgstr "Alle sterben, neues Spiel?"
 
 #: c-net.dialog:356
 msgid "Connection to c-net closed."
