@@ -33,19 +33,17 @@ msgid "*******"
 msgstr "******"
 
 #: DSB-MachineDeckControl.dialog:39
-#, fuzzy
 msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
 msgstr "Letzter Login von /dev/ttyS0 am Sonntag, 23.03.2057. admin@sabwehr: ~ #"
 
 #: DSB-MachineDeckControl.dialog:47
-#, fuzzy
 msgid "passwd"
-msgstr " Passwt"
+msgstr "passwd"
 
 #: DSB-MachineDeckControl.dialog:49
 #, fuzzy
 msgid "Changing password for admin. Enter new password: "
-msgstr " Admin-Passwort wird geändert. Neues Passwort eingeben: "
+msgstr "Admin-Passwort wird geändert. Neues Passwort eingeben: "
 
 #: DSB-MachineDeckControl.dialog:50
 msgid "Enter new password again: "
@@ -58,12 +56,12 @@ msgstr " Passwort wurde erfolgreich geändert."
 #: DSB-MachineDeckControl.dialog:58
 #, fuzzy
 msgid "shieldmgr --disable --force"
-msgstr " schildmgr --sperre --energie"
+msgstr "schildmgr --sperre --energie"
 
 #: DSB-MachineDeckControl.dialog:60
 #, fuzzy
 msgid "Disabling disruptor shield... "
-msgstr " Disruptorschild wird deaktiviert... "
+msgstr "Disruptorschild wird deaktiviert... "
 
 #: DSB-MachineDeckControl.dialog:61
 msgid "Shield disabled."
@@ -78,20 +76,23 @@ msgid "Disruptor shield is active."
 msgstr "Disruptorschild ist aktiv."
 
 #: DSB-MachineDeckControl.dialog:66
+#, fuzzy
 msgid "Opening access to MS Office"
-msgstr ""
+msgstr "Zugang zum MS Büro ermöglichen"
 
 #: DSB-MachineDeckControl.dialog:66
+#, fuzzy
 msgid "I've taken over the control droid and disabled the disruptor shield. Now, I should go to the Hell Fortress and hack the MS firmware update system."
-msgstr ""
+msgstr "Ich habe den Kontrolldroiden übernommen und das Disruptorschild deaktiviert. Jetzt sollte ich in die Höllenfestung gehen und mich in das MS Firmware-Aktualisierungssystem einhacken."
 
 #: DSB-MachineDeckControl.dialog:72
 msgid "logout"
 msgstr "logout"
 
 #: DSB-MachineDeckControl.dialog:74
+#, fuzzy
 msgid "Exiting"
-msgstr ""
+msgstr "Aussteigen"
 
 #~ msgid "Hi! I'm new here."
 #~ msgstr " Hallo, ich bin neu hier..."
