@@ -13,10 +13,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
-"X-Poedit-Country: FRANCE\n"
 "Language: \n"
-"X-Generator: Launchpad (build Unknown)\n"
 "X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Generator: Launchpad (build Unknown)\n"
 
 #: Benjamin.dialog:35
 msgid "Hello."
@@ -216,17 +216,14 @@ msgid "That's right. You will find yourself hitting the target much more often n
 msgstr "C'est exact. Tu te trouvera en train de toucher la cible bien plus souvent maintenant."
 
 #: Benjamin.dialog:158
-#, fuzzy
 msgid "Yes I'm eager for more training. (cost 300 circuits, 9 training points)"
-msgstr "Oui, je veux encore plus d'entraînement. (coûte 6 points d'entraînement, 200 Tribucks)"
+msgstr "Oui, je veux encore plus d'entraînement. (donne 6 points d'entraînement, 200 circuits)"
 
 #: Benjamin.dialog:161
-#, fuzzy
 msgid "So can you help me get even better with guns?"
-msgstr " Que pouvez vous me dire à propos des gardes ici ?"
+msgstr "Pouvez vous m'aider à devenir meilleur avec les armes à feu ?"
 
 #: Benjamin.dialog:164
-#, fuzzy
 msgid "Of course."
 msgstr "Oui. Bien sûr. Naturellement."
 
