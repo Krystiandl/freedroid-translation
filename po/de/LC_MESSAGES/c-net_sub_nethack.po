@@ -34,11 +34,11 @@ msgstr "nein"
 
 #: c-net_sub_nethack.dialog:81
 msgid "Choose your job."
-msgstr ""
+msgstr "Wähle deinen Beruf."
 
 #: c-net_sub_nethack.dialog:90 c-net_sub_nethack.dialog:130
 msgid "Archeologist"
-msgstr ""
+msgstr "Archäologe"
 
 #: c-net_sub_nethack.dialog:96 c-net_sub_nethack.dialog:134
 msgid "Roge"
@@ -50,88 +50,88 @@ msgstr ""
 
 #: c-net_sub_nethack.dialog:108 c-net_sub_nethack.dialog:142
 msgid "Tourist"
-msgstr ""
+msgstr "Tourist"
 
 #: c-net_sub_nethack.dialog:114 c-net_sub_nethack.dialog:146
 msgid "Wizard"
-msgstr ""
+msgstr "Zauberer"
 
 #: c-net_sub_nethack.dialog:154
 msgid "Choose your race."
-msgstr ""
+msgstr "Wähle deine Rasse."
 
 #: c-net_sub_nethack.dialog:166 c-net_sub_nethack.dialog:201
 msgid "human"
-msgstr ""
+msgstr "Mensch"
 
 #: c-net_sub_nethack.dialog:172 c-net_sub_nethack.dialog:206
 msgid "elf"
-msgstr ""
+msgstr "Elf"
 
 #: c-net_sub_nethack.dialog:178 c-net_sub_nethack.dialog:211
 #: c-net_sub_nethack.dialog:389
 msgid "gnome"
-msgstr ""
+msgstr "Gnom"
 
 #: c-net_sub_nethack.dialog:184 c-net_sub_nethack.dialog:216
 msgid "orc"
-msgstr ""
+msgstr "Ork"
 
 #: c-net_sub_nethack.dialog:224
 msgid "Choose your gender."
-msgstr ""
+msgstr "Wähle dein Geschlecht."
 
 #: c-net_sub_nethack.dialog:233 c-net_sub_nethack.dialog:255
 #: c-net_sub_nethack.dialog:465 c-net_sub_nethack.dialog:576
 msgid "male"
-msgstr ""
+msgstr "männlich"
 
 #: c-net_sub_nethack.dialog:239 c-net_sub_nethack.dialog:258
 #: c-net_sub_nethack.dialog:404 c-net_sub_nethack.dialog:457
 #: c-net_sub_nethack.dialog:576 c-net_sub_nethack.dialog:603
 msgid "female"
-msgstr ""
+msgstr "weiblich"
 
 #: c-net_sub_nethack.dialog:270 c-net_sub_nethack.dialog:565
 msgid "a good"
-msgstr ""
+msgstr "ein guter"
 
 #: c-net_sub_nethack.dialog:271
 msgid "a chaotic"
-msgstr ""
+msgstr "ein chaotischer"
 
 #: c-net_sub_nethack.dialog:272 c-net_sub_nethack.dialog:569
 msgid "an evil"
-msgstr ""
+msgstr "ein böser"
 
 #: c-net_sub_nethack.dialog:302
 msgid "Hello, welcome to NetHack! You are "
-msgstr ""
+msgstr "Hallo, willkommen bei NetHack! Du bist "
 
 #: c-net_sub_nethack.dialog:303
 msgid "Your goddess, [b]"
-msgstr ""
+msgstr "Deine Göttin, [b]"
 
 #: c-net_sub_nethack.dialog:303
 msgid "[/b] desires the Amulet of Yendor, which the evil god [b]"
-msgstr ""
+msgstr "[/b] verlangt nach dem Amulet von Yendor, welches der böse Gott [b]"
 
 #: c-net_sub_nethack.dialog:303
 msgid "[/b] has hidden at the bottom of this dungeon."
-msgstr ""
+msgstr "[/b] in dem untersten seiner Kerker versteckt hält."
 
 #: c-net_sub_nethack.dialog:304
+#, fuzzy
 msgid "Return with the [b]Amulet of Yendor[/b], and you shall be rewarded!"
-msgstr ""
+msgstr "Kehre mit dem [b]Amulet von Yendor[/b] zurück, und du sollest belohnt werden."
 
 #: c-net_sub_nethack.dialog:305
-#, fuzzy
 msgid "You are all alone on the surface. There is a stairway down."
-msgstr "Ja, du könntest wieder an die Oberfläche gelangen - aber die Laserkanonen sind noch in Betrieb."
+msgstr "Du bist alleine an der Oberfläche. Es gibt eine Treppe, die nach unten führt."
 
 #: c-net_sub_nethack.dialog:319
 msgid "The door closes behind you."
-msgstr ""
+msgstr "Die Tür hinter dir schließt sich."
 
 #: c-net_sub_nethack.dialog:320
 msgid "You find the [b]Amulet of Yendor[/b], and take it and suddenly feel a compulsion to go down, into the depths."
@@ -139,7 +139,7 @@ msgstr ""
 
 #: c-net_sub_nethack.dialog:321
 msgid " awaits you at the surface"
-msgstr ""
+msgstr "erwartet dich an der Oberfläche"
 
 #: c-net_sub_nethack.dialog:323
 msgid "There is only an exit into the depths."
@@ -147,27 +147,28 @@ msgstr ""
 
 #: c-net_sub_nethack.dialog:326
 msgid "You find nothing new here."
-msgstr ""
+msgstr "Du findest hier nichts neues."
 
 #: c-net_sub_nethack.dialog:326
 msgid "You find a Fake Amulet of Yendor."
-msgstr ""
+msgstr "Du findest ein gefällschtes Amulet von Yendor."
 
 #: c-net_sub_nethack.dialog:326
 msgid "You find emptiness."
-msgstr ""
+msgstr "Du findest Leere."
 
 #: c-net_sub_nethack.dialog:326
 msgid "You find an empty room."
-msgstr ""
+msgstr "Du findest einen leeren Raum."
 
 #: c-net_sub_nethack.dialog:333
 msgid "You drink from the spring at the entrance to the cave."
-msgstr ""
+msgstr "Du trinkst von der Quelle am Eingang zur Höhle."
 
 #: c-net_sub_nethack.dialog:333
+#, fuzzy
 msgid "You make a quick trip to the hospital."
-msgstr ""
+msgstr "Du machst einen kurzen Ausflug ins Krankenhaus."
 
 #: c-net_sub_nethack.dialog:335
 msgid " looks at you with impatience and points you back to the entrance of the dungeon."
@@ -199,7 +200,7 @@ msgstr ""
 
 #: c-net_sub_nethack.dialog:340
 msgid "You win!"
-msgstr ""
+msgstr "Du gewinnst!"
 
 #: c-net_sub_nethack.dialog:341
 msgid "You ascended a "
@@ -207,11 +208,11 @@ msgstr ""
 
 #: c-net_sub_nethack.dialog:341
 msgid " in Nethack!"
-msgstr ""
+msgstr "in Nethack!"
 
 #: c-net_sub_nethack.dialog:347
 msgid "You are on level [b]"
-msgstr ""
+msgstr "Du befindest dich auf Stufe [b]"
 
 #: c-net_sub_nethack.dialog:349
 msgid "You find yourself in a series of passages all alike."
