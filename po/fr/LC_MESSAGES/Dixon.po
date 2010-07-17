@@ -526,7 +526,7 @@ msgstr "Les accidents... ça arrive."
 
 #: Dixon.dialog:337
 msgid "I sold the toolkit to Dixon for a huge sum of money. Life is great."
-msgstr ""
+msgstr "J'ai vendu la boîte à outils de Dixon pour une belle somme d'argent. La vie est formidable."
 
 #: Dixon.dialog:345
 msgid "Linarian. Now we part as usual. However should I ever see you after the war is over..."
@@ -542,21 +542,19 @@ msgstr "Maintenant prends ton argent et casse toi. Je ne veux plus te voir traî
 
 #: Dixon.dialog:351
 msgid "I sold the toolkit to Dixon for a enormous sum of money. Life is truly grand. But, I better stay away from Dixon for now... He seemed very angry at me."
-msgstr ""
+msgstr "J'ai vendu la boîte à outils à Dixon pour une énorme somme d'argent. La vie est vraiment exceptionnelle, mais je ferai mieux de rester loin de Dixon maintenant… Il a semblé très en colère envers moi."
 
 #: Dixon.dialog:357
-#, fuzzy
 msgid "Good joke. I am sure you can do better."
-msgstr " C'est une bonne blague. Je suis certain que tu peux faire mieux."
+msgstr "Bonne blague. Je suis certain que tu peux faire mieux."
 
 #: Dixon.dialog:359
 msgid "Three fifty. This is all that the technical division has as their cash resources."
 msgstr "Trois cinquante. C'est tout ce que la division technique a comme liquidités."
 
 #: Dixon.dialog:364
-#, fuzzy
 msgid "Come on, I am sure you can do even better than that... "
-msgstr " Vas y, je suis sûr que tu peux faire mieux que ça... "
+msgstr "Allez, je suis sûr que tu peux faire mieux que ça... "
 
 #: Dixon.dialog:366
 msgid "Four hundred. We cannot offer anything more."
@@ -571,9 +569,8 @@ msgid "Without them this city is doomed."
 msgstr "Sans eux cette ville est condamnée."
 
 #: Dixon.dialog:373 Dixon.dialog:383 Dixon.dialog:391 Dixon.dialog:402
-#, fuzzy
 msgid "Is everything all right?"
-msgstr " Est-ce tout ce dont tu es capable ?"
+msgstr "Tout va bien ?"
 
 #: Dixon.dialog:375
 msgid "Heh, never better!"
@@ -616,9 +613,8 @@ msgid "This town has a few weeks left to live. After that we are all dead."
 msgstr "Cette ville est condamnée. C'est une question de semaines. Alors, nous mourrons tous."
 
 #: Dixon.dialog:404
-#, fuzzy
 msgid "Ha! Never better!"
-msgstr " Ha ! Pas mieux !"
+msgstr "Ha ! Pas mieux !"
 
 #: Dixon.dialog:405
 msgid "We are mass producing energy shields, creating more electric energy than we can ever imagine spending and even experimenting with new armor types."
@@ -629,14 +625,12 @@ msgid "Life is good right now."
 msgstr "La vie est belle maintenant."
 
 #: Dixon.dialog:412
-#, fuzzy
 msgid "What happened? Last time I asked, you said things are not going that well."
-msgstr " Que se passe-t-il ? La dernière fois que je t'ai demandé, tu m'as dis que ça n'allait pas si bien que ça."
+msgstr "Que se passe-t-il ? La dernière fois que je t'ai demandé, tu m'as dis que ça n'allait pas si bien que ça."
 
 #: Dixon.dialog:414
-#, fuzzy
 msgid "Yes, but now everything is different."
-msgstr " Oui, mais tout est différent maintenant."
+msgstr "Oui, mais tout est différent maintenant."
 
 #: Dixon.dialog:415
 msgid "I met someone who decided to join us in the fight against the MegaSys bots."
@@ -647,9 +641,8 @@ msgid "You will need a hacked computer. Type in 'ssh 10.83.13.230' as the superu
 msgstr "Tu as besoin d'un ordinateur hacké. Tape 'ssh 10.83.13.230' en tant que superutilisateur et tu comprendras ce que je veux dire."
 
 #: Dixon.dialog:422
-#, fuzzy
 msgid "Why the secrecy and the hushed voice? Can't you just tell me?"
-msgstr " Pourquoi parler à voix basse secrètement ? Tu ne peux pas me le dire simplement ?"
+msgstr "Pourquoi parler à voix basse secrètement ? Tu ne peux pas me le dire simplement ?"
 
 #: Dixon.dialog:424
 msgid "Nope. Some things you just have to see with your own eyes."
@@ -669,7 +662,7 @@ msgstr "Va, et vois par toi-même. Sinon tu ne me croiras jamais."
 
 #: Dixon.dialog:428
 msgid "The tunnels bots seem to be working together with Dixon in keeping the city working. All is well that ends well."
-msgstr ""
+msgstr "Les robots du tunnel semblent travailler de concert avec Dixon pour garder la ville en état. Tout est bien qui finit bien."
 
 #: Dixon.dialog:436
 msgid "YOU AGAIN!"
@@ -701,12 +694,11 @@ msgstr "AAAAAAAAAAAAAAAAAAAAAAAAAA !"
 
 #: Dixon.dialog:443
 msgid "Dixon -- Temporarily insane"
-msgstr ""
+msgstr "Dixon – temporairement fou"
 
 #: Dixon.dialog:448
-#, fuzzy
 msgid "I must go now."
-msgstr " Je dois partir maintenant."
+msgstr "Je dois partir maintenant."
 
 #~ msgid "Sure. I'll sign it."
 #~ msgstr " Certainement. Je le signerai."
