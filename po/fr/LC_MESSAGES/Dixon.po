@@ -496,9 +496,8 @@ msgid "Two fifty."
 msgstr "Deux cinquante."
 
 #: Dixon.dialog:316 Dixon.dialog:330 Dixon.dialog:343
-#, fuzzy
 msgid "Deal. Here is your toolkit. Now cough up the money. Fast."
-msgstr " Marché conclu. Voilà la boîte de microbots. Maintenant envoie la monnaie. Vite."
+msgstr "Marché conclu. Voilà la boîte de microbots. Maintenant envoie la monnaie. Vite."
 
 #: Dixon.dialog:318
 msgid "Here. It is all there."
@@ -514,7 +513,7 @@ msgstr "Hors de ma vue."
 
 #: Dixon.dialog:324
 msgid "I sold the toolkit to Dixon for a nice sum of money. Life is good."
-msgstr ""
+msgstr "J'ai vendu la boîte à outils à Dixon pour une jolie somme. La vie est bonne."
 
 #: Dixon.dialog:332
 msgid "I am not happy about this. I suggest you leave the city."
