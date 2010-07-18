@@ -37,9 +37,8 @@ msgid "Good! Here is the selection of items I have for sale."
 msgstr "Gut! Hier ist die Auswahl an Waren, die ich anzubieten habe."
 
 #: Stone.dialog:62
-#, fuzzy
 msgid "Swords, clubs and maces? What is this? I want guns!"
-msgstr "Schwerter, Keulen und Morgensterne? Was soll das?! Ich will Feuerpower!"
+msgstr "Schwerter, Keulen und Morgensterne? Was soll das?! Ich will Knarren und Pistolen!"
 
 #: Stone.dialog:64
 msgid "Sorry, this is all we have for now. The Red Guard took away all of our poppers."
@@ -90,7 +89,6 @@ msgid "... What's the difference?"
 msgstr "... wo liegt da der Unterschied? "
 
 #: Stone.dialog:91
-#, fuzzy
 msgid "If things are so bad right now, why don't you leave?"
 msgstr "Wenn jetzt alles so unerträglich ist, warum dann nicht einfach fortgehen?"
 
@@ -99,9 +97,8 @@ msgid "If things are so bad right now, why --"
 msgstr "Wenn jetzt alles so unerträglich ist, warum --"
 
 #: Stone.dialog:100
-#, fuzzy
 msgid "I don't want to hear this jabberwocky."
-msgstr "Ich will von diesem Gerede nichts mehr hören! "
+msgstr "Ich will von diesem Quatsch nichts mehr hören! "
 
 #: Stone.dialog:101
 msgid "A hint, Linarian: We don't have much, but we're alive and we'd rather stay that way."
@@ -162,9 +159,8 @@ msgid "I couldn't get myself to look at my finance logs for a while now. I guess
 msgstr "Ich hatte seit geraumer Zeit keine Gelegenheit, meine Geschäftsbücher zu überprüfen. Ich schätze, so an die 2000 Schaltkreise."
 
 #: Stone.dialog:134 Stone.dialog:180 Stone.dialog:190 Stone.dialog:203
-#, fuzzy
 msgid "Saving the shop"
-msgstr "Den Laden retten"
+msgstr "Den Kaufladen retten"
 
 #: Stone.dialog:134
 msgid "Ms. Stone can't afford to pay her taxes, and it looks like the family business will be going under soon. She needs 2000 in cash to stay afloat. I could try to help her out."
