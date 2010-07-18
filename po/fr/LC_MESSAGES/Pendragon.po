@@ -12,10 +12,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
-"X-Poedit-Country: FRANCE\n"
 "Language: \n"
-"X-Generator: Launchpad (build Unknown)\n"
 "X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Generator: Launchpad (build Unknown)\n"
 
 #: Pendragon.dialog:41
 msgid "Hi! I'm new here."
@@ -38,7 +38,6 @@ msgid "Fighter"
 msgstr "Combattant"
 
 #: Pendragon.dialog:51
-#, fuzzy
 msgid "Could you teach me how to fight?"
 msgstr " Pourrais tu m'apprendre à me battre ?"
 
