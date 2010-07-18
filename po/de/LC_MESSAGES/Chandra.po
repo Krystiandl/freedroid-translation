@@ -148,9 +148,8 @@ msgid "There are many more classes out there. The military used bots, of course,
 msgstr ""
 
 #: Chandra.dialog:103
-#, fuzzy
 msgid "I want to leave this place."
-msgstr " Ich möchte diese Gegend verlassen."
+msgstr "Ich möchte diese Gegend verlassen."
 
 #: Chandra.dialog:105
 msgid "We all do, Linarian, we all do."
@@ -165,9 +164,8 @@ msgid "You cannot live for long out there."
 msgstr "Man kann dort draußen nicht lange überleben."
 
 #: Chandra.dialog:112
-#, fuzzy
 msgid "No, I meant I would like to leave this world."
-msgstr " Nein, ich meine, ich will weg von dieser Welt!"
+msgstr "Nein, ich meine, ich will weg von dieser Welt!"
 
 #: Chandra.dialog:114
 msgid "Simple. Walk outside the city walls, and the bots will send you to the other world within a few minutes."
@@ -182,18 +180,16 @@ msgid "Most likely all of our cosmodromes have been destroyed in the bot attacks
 msgstr "Höchstwahrscheinlich wurden beim Angriff der Bots alle unsere Raumhäfen eingeebnet."
 
 #: Chandra.dialog:121
-#, fuzzy
 msgid "I keep getting beaten up by the bots. What can I do?"
-msgstr " Ich werde andauernd von den Robots verprügelt - was kann ich dagegen machen?"
+msgstr "Ich werde andauernd von den Robots verprügelt - was kann ich dagegen machen?"
 
 #: Chandra.dialog:123
-#, fuzzy
 msgid "There are many things you can do. The first is to fight more bots."
-msgstr "Es gibt drei Möglichkeiten, wenn ein Gegenstand einen bedenklichen Zustand erreicht hat."
+msgstr "Es gibt viele Dinge, die du da tun könntest. Zuallererst könntest du weitere Roboter bekämpfen."
 
 #: Chandra.dialog:124
 msgid "Er... Wouldn't that cause me to get beaten up more and therefore be counter-productive?"
-msgstr ""
+msgstr "Äh... Würde ich dann nicht noch mehr verprügelt werden? Das wäre dann ja kontraproduktiv..."
 
 #: Chandra.dialog:125
 msgid "Your logic is infallible, Linarian, but you are forgetting one thing: the more you fight, the more experienced you become, and the better at surviving you get."
@@ -231,12 +227,10 @@ msgid "Other than that, you are on your own."
 msgstr "Andernfalls sind Sie auf sich allein gestellt."
 
 #: Chandra.dialog:137
-#, fuzzy
 msgid "Do you think I could join the guardians of this town?"
-msgstr " Glauben Sie, dass ich den Wächtern dieser kleinen Stadt beitreten könnte?"
+msgstr "Glauben Sie, dass ich den Wächtern dieser kleinen Stadt beitreten könnte?"
 
 #: Chandra.dialog:139
-#, fuzzy
 msgid "The Red Guard? Unlikely. You'd have to establish a reputation beforehand, and demonstrate that you can fix things."
 msgstr "Der Roten Wache? Unwahrscheinlich. Sie müssten sich vorher einen guten Ruf erarbeiten und beweisen, dass Sie Gegenstände reparieren können."
 
@@ -250,9 +244,8 @@ msgid "As the ancients said, 'Boni pastoris est tondere pecus, non deglubere'. A
 msgstr "Oder wie die Vorfahren sagten, 'Boni pastoris est tondere pecus, non deglubere'. Eine gute Steuer muss eine vernünftige Steuer sein."
 
 #: Chandra.dialog:146
-#, fuzzy
 msgid "What bots are in the 100 class?"
-msgstr " Welche Robots sind in der 100er Klasse zu finden?"
+msgstr "Welche Robots sind in der 100er Klasse zu finden?"
 
 #: Chandra.dialog:148
 msgid "I know of two types, the 123 and the 139. The former is a simple cleaning bot, and is fairly weak. The latter is a mobile trash compactor. Don't get your flippers get caught in one of those."
@@ -264,12 +257,11 @@ msgstr ""
 
 #: Chandra.dialog:150
 msgid "Many strange things have happened since the Great Assault."
-msgstr ""
+msgstr "Viele merkwürdige Dinge sind seit dem Großen Angriff passiert."
 
 #: Chandra.dialog:151
-#, fuzzy
 msgid "Any way, because the class 100 bots are neither fast nor dangerous, the Red Guard often uses them for target practice."
-msgstr "Weil sie weder schnell noch gefährlich sind, benutzt die Rote Wache sie als Übungsziele."
+msgstr "Weil die 100er-Klasse weder schnell noch gefährlich ist, benutzt die Rote Wache sie als Übungsziele."
 
 #: Chandra.dialog:152
 msgid "If I were you, I would not overestimate them. "
@@ -280,9 +272,8 @@ msgid "Nec Hercules contra plures."
 msgstr "Allerdings sollte man sich nicht mit zu vielen auf einmal anlegen - nec Hercules contra plures."
 
 #: Chandra.dialog:158
-#, fuzzy
 msgid "What bots are in the 200 class?"
-msgstr " Welche Bots gibt es in der 200er Klasse?"
+msgstr "Welche Bots gibt es in der 200er Klasse?"
 
 #: Chandra.dialog:160
 msgid "In fitting with the lazy nature of humans, there are several servant bots of the 200 class."
@@ -306,29 +297,27 @@ msgstr ""
 
 #: Chandra.dialog:165
 msgid "I know, "
-msgstr ""
+msgstr "Ich weiß, "
 
 #: Chandra.dialog:165
 msgid ". I know."
-msgstr ""
+msgstr ". Ich weiß."
 
 #: Chandra.dialog:166
 msgid "Let's see... Oh, there is also the 296, which was used for serving drinks. Ewald once had one of those in his bar."
 msgstr ""
 
 #: Chandra.dialog:167
-#, fuzzy
 msgid "Once? What happened to it?"
-msgstr " Was passierte dann?"
+msgstr "Damals? Was ist damit passiet?"
 
 #: Chandra.dialog:168
 msgid "No one knows. One day it simply wasn't there. Ewald probably remembers more than I do, though."
 msgstr ""
 
 #: Chandra.dialog:174
-#, fuzzy
 msgid "What other bots are out there?"
-msgstr " Welche anderen Typklassen gibts da draußen noch?"
+msgstr "Welche anderen Typklassen gibts da draußen noch?"
 
 #: Chandra.dialog:176
 msgid "Though I do not know the details, I assure you there are many. Robots and automated machinery served almost every purpose you can imagine, and probably some that you can't."
@@ -339,9 +328,8 @@ msgid "They were used by the military, aboard ships, as security droids and more
 msgstr ""
 
 #: Chandra.dialog:182
-#, fuzzy
 msgid "Thank you for your wise words."
-msgstr " Vielen Dank für Ihre guten Ratschläge."
+msgstr "Vielen Dank für Ihre weisen Worte."
 
 #: Chandra.dialog:184
 msgid "Feel free to come here any time you want."
