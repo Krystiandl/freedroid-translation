@@ -60,9 +60,8 @@ msgid "Then she started reading more and more books and sitting in front of the 
 msgstr "Aber dann llaß sie immer mehr Bücher und saß nur noch vor ihrem Computer, Tag und Nacht, ohne zu schlafen."
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:55
-#, fuzzy
 msgid "In the end she completely lost her marbles, sadly."
-msgstr "Schlussendlich hat sie nicht mehr alle Tassen im Schrank, leider."
+msgstr "Schlussendlich hatt sie nicht mehr alle Tassen im Schrank, leider."
 
 #: /home/david/src/freedroid-translation/dialogs/Tamara.dialog:56
 msgid "Now all she does is sit locked in her house staring into the computer."
