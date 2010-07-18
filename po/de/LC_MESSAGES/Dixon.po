@@ -442,7 +442,7 @@ msgstr "Es tut mir leid, aber ich muss jetzt gehen. Meine Pflichten rufen."
 
 #: Dixon.dialog:279
 msgid "Finally. I am tired, covered in bruises and oil... But I made sure that the all the bots are dead. It felt great to break their metal bodies and crush their circuits. Dixon didn't seem too happy about this solution, but I don't care. It was fun killing the bots. Nothing else matters."
-msgstr ""
+msgstr "Endlich. Ich bin müde, voll von Blutergüssen und Öl... Aber ich habe sichergestellt, dass all die Bots tot sind. Es hat sich toll angefühlt, ihrer Metallkörper zu zerbrechen und ihrer Schaltkreise zu zertrümmern. Dixon scheinte nicht all zu fröhlich mit dieser Lösung gewesen zu sein, aber das ist mir egal. Es hat Spaß gemacht, dir Bots zu erledigen. Alles andere ist egal."
 
 #: Dixon.dialog:284
 msgid "I got your toolkit. The bots were not a big problem."
