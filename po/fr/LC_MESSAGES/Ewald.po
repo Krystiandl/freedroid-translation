@@ -12,10 +12,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
-"X-Poedit-Country: FRANCE\n"
 "Language: \n"
-"X-Generator: Launchpad (build Unknown)\n"
 "X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Generator: Launchpad (build Unknown)\n"
 
 #: Ewald.dialog:44
 msgid "Hi. You look really happy."
@@ -350,9 +350,8 @@ msgid "You won! Man you are lucky!"
 msgstr "Tu as gagné ! Mec, tu es chanceux !"
 
 #: Ewald.dialog:324
-#, fuzzy
 msgid "You won!"
-msgstr "Tu as gagné ! Bien joué."
+msgstr "Tu as gagné !"
 
 #: Ewald.dialog:333 Ewald.dialog:500
 msgid "You won "
@@ -508,11 +507,11 @@ msgstr "Tu bosses tes mathématiques, hein ?"
 
 #: Ewald.dialog:424
 msgid "Betting against the game. I like that."
-msgstr ""
+msgstr "Parier contre le jeu. J'aime cette attitude."
 
 #: Ewald.dialog:427
 msgid "I think I would have picked odd this time."
-msgstr ""
+msgstr "Je pense que j'aurai choisi impair cette fois."
 
 #: Ewald.dialog:436
 msgid "The last four coin flips:"
@@ -536,12 +535,11 @@ msgstr "On dirait que"
 
 #: Ewald.dialog:463
 msgid " tails, and "
-msgstr ""
+msgstr "pile, et"
 
 #: Ewald.dialog:463
-#, fuzzy
 msgid " heads."
-msgstr "Face."
+msgstr "face."
 
 #: Ewald.dialog:467
 msgid "Tails won..."
