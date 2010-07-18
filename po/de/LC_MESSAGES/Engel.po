@@ -53,7 +53,6 @@ msgid "Nein. Let us die as warriors. That is all we ask for."
 msgstr "No. Lass und als krieger sterben. Das ist alles, was wir wollen."
 
 #: Engel.dialog:66
-#, fuzzy
 msgid "If you keep standing here more bots will come and they will kill you. Go somewhere safe, and set up defense there."
 msgstr "Wenn ihr hier so stehen bleibt, werden noch mehr Roboter kommen und sie werden euch töten. Geht irgendwo hin, wo es sicher ist, und verteidigt euch."
 
@@ -110,9 +109,8 @@ msgid "Real freedom is really dead."
 msgstr "Echte Freiheit ist echter Tot."
 
 #: Engel.dialog:102
-#, fuzzy
 msgid "You guys are totally nuts. Get a life."
-msgstr "Ihr Typen seit total durchgeknallt. Holt euch ein Leben."
+msgstr "Ihr Typen seit total durchgeknallt. Hab ihr kein Leben?"
 
 #: Engel.dialog:110
 msgid "You guys are tota --"
@@ -191,6 +189,5 @@ msgid "I'll be going then."
 msgstr "Ich geh dann mal."
 
 #: Engel.dialog:150
-#, fuzzy
 msgid "Goodbye and viel Gluck."
 msgstr "Auf wiedersehen und viel Luck."
