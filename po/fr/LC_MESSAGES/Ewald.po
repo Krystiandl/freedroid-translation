@@ -12,10 +12,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
-"Language: \n"
-"X-Poedit-Language: French\n"
 "X-Poedit-Country: FRANCE\n"
+"Language: \n"
 "X-Generator: Launchpad (build Unknown)\n"
+"X-Poedit-Language: French\n"
 
 #: Ewald.dialog:44
 msgid "Hi. You look really happy."
@@ -573,23 +573,23 @@ msgstr "Encore une combinaison gagnante ! Bravo !"
 
 #: Ewald.dialog:495
 msgid "You have the best luck! You won!"
-msgstr ""
+msgstr "Tu as eu le plus de chance ! Tu as gagné !"
 
 #: Ewald.dialog:495
 msgid "Too many of these and I'll go out of business. You won!"
-msgstr ""
+msgstr "Un peu trop du truc comme ça et je vais finir sur la paille. Tu as gagné."
 
 #: Ewald.dialog:495
 msgid "You will have to tell me how you did it. You Won!"
-msgstr ""
+msgstr "Tu devras me dire comment tu as fait. Tu as gagné !"
 
 #: Ewald.dialog:495
 msgid "Let me be even with you: I can't make heads or tails of how you won this odd game. Good Job!"
-msgstr ""
+msgstr "Laisse moi être honnête : je ne peux pas jouer à pile ou face la manière dont tu as gagné ce jeu. Bon travail !"
 
 #: Ewald.dialog:500 Ewald.dialog:514 Ewald.dialog:518
 msgid " valuable circuits in the coin-flip game with Ewald."
-msgstr ""
+msgstr "circuits dans le jeu de lancer de pièce avec Ewald."
 
 #: Ewald.dialog:503
 msgid "Looks like you got everything wrong."
@@ -597,37 +597,35 @@ msgstr "On dirait que tu avais tout faux."
 
 #: Ewald.dialog:503
 msgid "Well, close, but exactly wrong."
-msgstr ""
+msgstr "Pas mal, presque mais faux."
 
 #: Ewald.dialog:503
 msgid "Close, but no cigar."
-msgstr ""
+msgstr "Presque, mais pas de cigare."
 
 #: Ewald.dialog:503
 msgid "Close only counts in handgrenades and horseshoes."
-msgstr ""
+msgstr "Compte seulement en grenades et fers à cheval."
 
 #: Ewald.dialog:506
 msgid "Looks like you got everything wrong... here is some of your bet back."
 msgstr "On dirait que tu avais en partie tort... voilà une partie de ta mise."
 
 #: Ewald.dialog:506
-#, fuzzy
 msgid "Well, close, but exactly wrong. Here is some of your bet back."
 msgstr "On dirait que tu avais en partie tort... voilà une partie de ta mise."
 
 #: Ewald.dialog:506
 msgid "You need to do exactly opposite of what you did here. Here is part of your bet back."
-msgstr ""
+msgstr "Tu as besoin de faire l'excact opposé de ce que tu as fait ici. Voici une part de ton paris en retour."
 
 #: Ewald.dialog:506
-#, fuzzy
 msgid "Close, but no cigar. Here is some of your money back."
 msgstr "On dirait que tu avais en partie tort... voilà une partie de ta mise."
 
 #: Ewald.dialog:506
 msgid "Next time pick the opposite of what you did this time... or something."
-msgstr ""
+msgstr "La prochaine fois, choisis l'opposé de ce que tu as fait cette fois... Ou quelque chose."
 
 #: Ewald.dialog:516
 msgid "You lost. You were half right, but half wrong. Pick one and stay with it."
@@ -635,20 +633,19 @@ msgstr "Tu as perdu. Tu avais à moitié raison mais aussi à moitié tort. Fais
 
 #: Ewald.dialog:516
 msgid "You lost. You were all messed up. Better luck next time."
-msgstr ""
+msgstr "Tu as perdu. Tu avais complètement faux. Tu auras plus de chance la prochaine fois."
 
 #: Ewald.dialog:516
 msgid "You lost. Maybe you sould try something else for a while?"
-msgstr ""
+msgstr "Tu as perdu. Peut être veux tu essayer quelque chose d'autre pour un moment ?"
 
 #: Ewald.dialog:516
-#, fuzzy
 msgid "You lost."
-msgstr "Tu as perdu. Pas de chance."
+msgstr "Tu as perdu."
 
 #: Ewald.dialog:516
 msgid "You lost. You might try the dice game next time."
-msgstr ""
+msgstr "Tu as perdu. Tu pourrais essayer les dés la prochaine fois."
 
 #: Ewald.dialog:520
 msgid "THIS IS AN ERROR! REPORT IT PLEASE! E-MAIL: freedroid-discussion@lists.sourceforge.net"
@@ -663,17 +660,16 @@ msgid "Goodbye and remember: My bar is always open."
 msgstr "Au revoir et souviens toi : Mon bar est toujours ouvert."
 
 #: Ewald.dialog:529
-#, fuzzy
 msgid "Come back soon!"
-msgstr "Reviens avec de l'argent."
+msgstr "Reviens vite !"
 
 #: Ewald.dialog:529
 msgid "You are welcome to unwind with old Ewald any time. Come back soon."
-msgstr ""
+msgstr "Tu es le bienvenue avec le vieil Ewald, n'importe quand. Reviens vite."
 
 #: Ewald.dialog:529
 msgid "Remember, you can always come back here to relax and kick back."
-msgstr ""
+msgstr "Rappelle toi, tu peux toujours revenir ici pour te relaxer et rejouer."
 
 #~ msgid "Sure. I'll sign it."
 #~ msgstr " Certainement. Je le signerai."
