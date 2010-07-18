@@ -141,7 +141,6 @@ msgid "Even though discontinued from Nicholson, Inc. long ago, today, some peopl
 msgstr "Bien que la compagnie Nicholson en ait stoppé la production depuis longtemps, aujourd'hui, certaines personnes ont amélioré mon fonctionnement et essaient également d'améliorer le système d'exploitation utilisé par ma série."
 
 #: 614_cryo.dialog:96
-#, fuzzy
 msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
 msgstr "N'oubliez pas d'acheter des produits de la compagnie Nicholson. Ce sont les meilleurs."
 
