@@ -166,9 +166,8 @@ msgid "You don't understand. I wasn't asking. Now, tell me about your life as a 
 msgstr "Tu ne comprends pas. Ce n'était pas une question. Maintenant, parle moi de ta vie de soldat, ou j'irai raconter aux gardes que tu te crois en vacances."
 
 #: Bruce.dialog:127
-#, fuzzy
 msgid "No! Please... I will do anything, just don't call the Red Guard! They do not like people who left the service. They do not like me. "
-msgstr "Non ! S'il te plaît... Je ferai n'importe quoi, n'appelles pas la Garde Rouge ! Ils n'aiment pas les déserteurs. Ils ne m'aiment pas. "
+msgstr "Non ! S'il te plaît... Je ferai n'importe quoi, n'appelle pas la Garde Rouge ! Ils n'aiment pas les déserteurs. Ils ne m'aiment pas. "
 
 #: Bruce.dialog:128
 msgid "I will tell you everything."
