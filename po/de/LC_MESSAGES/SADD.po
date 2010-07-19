@@ -259,7 +259,7 @@ msgstr "SAGEs Stromversorgung wiederhergestellt"
 
 #: SADD.dialog:207 SADD.dialog:229
 msgid "I managed to restore the SADD's power supply."
-msgstr "Ich hab SADDs Stromversorgung wiederhergestellt."
+msgstr "Ich hab SAGEs Stromversorgung wiederhergestellt."
 
 #: SADD.dialog:212
 msgid "How is your power supply?"
