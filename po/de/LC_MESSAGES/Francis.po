@@ -17,16 +17,14 @@ msgstr ""
 "X-Generator: KBabel 1.11.4\n"
 
 #: Francis.dialog:44
-#, fuzzy
 msgid "Welcome back "
-msgstr "Schön, Sie wieder zu sehen."
+msgstr "Schön, Sie wieder zu sehen"
 
 #: Francis.dialog:45
 msgid "I joined the Red Guard."
 msgstr "Ich bin der Roten Wache beigetreten."
 
 #: Francis.dialog:46
-#, fuzzy
 msgid "Congratulations are in order, I guess."
 msgstr "Herzlichen Glückwunsch!"
 
@@ -39,9 +37,8 @@ msgid "Linarian, don't forget your special gifts and how you can change things."
 msgstr "Linarianer, vergesse deine speziellen Begabungen nicht und die Weise, wie du Dinge verändern kannst."
 
 #: Francis.dialog:49
-#, fuzzy
 msgid "Life's busy as a Red Guard member."
-msgstr "Das Leben als Mitglied der Wache ist wirklich ansträngent."
+msgstr "Das Leben als Mitglied der Wache ist wirklich anstrengent."
 
 #: Francis.dialog:50
 msgid "I can imagine that."
@@ -176,7 +173,6 @@ msgid "Sorry, I cannot help you with that."
 msgstr "Tut mir leid, aber da kann ich dir nicht weiterhelfen."
 
 #: Francis.dialog:114
-#, fuzzy
 msgid "Where in the void is this world?"
 msgstr "Wo, zum Lisun, befindet sich diese Welt?"
 
@@ -226,7 +222,7 @@ msgstr "Francis. Dr. Francis Spark. Ich war Professor an einer kleinen Universit
 
 #: Francis.dialog:132
 msgid "Dr. Francis - Cryogenicist"
-msgstr ""
+msgstr "Dr. Francis - Kryotechniker"
 
 #: Francis.dialog:133
 msgid "Currently, there is a war raging all around the globe. Humans are fighting against bots."
@@ -245,7 +241,6 @@ msgid "This is normal. You were in stasis sleep for over 70 years. Stasis is not
 msgstr "Das ist ganz normal. Du warst im Kälteschlaf, seit über 70 Jahren. Üblicherweise ist dies sehr belastend für das Gehirn. Deine fremdartigen Träume werden noch mehrere Jahre lang auftreten."
 
 #: Francis.dialog:142
-#, fuzzy
 msgid "Whatever the reason was for putting yourself through this, it must have been a damn good one."
 msgstr "Was auch immer der Grund dafür war, warum du dir das aufgeladen hast - es muss ein verdammt guter gewesen sein."
 
@@ -398,9 +393,8 @@ msgid "It is standing there next to the door."
 msgstr "Sie steht direkt neben der Tür"
 
 #: Francis.dialog:225
-#, fuzzy
 msgid "Is that it?"
-msgstr "War's das`?"
+msgstr "War's das?"
 
 #: Francis.dialog:226
 msgid "That is all the records show you had with you when your were frozen."
@@ -411,13 +405,12 @@ msgid "There are also some references to a bank account of yours, but as you pro
 msgstr "Es gibt auch noch Hinweise auf ein Bankkonto von dir, aber wie du vielleicht verstehst gibt es momentan kein funktionierendes Banksystem."
 
 #: Francis.dialog:232
-#, fuzzy
 msgid "The 614 bot said he might shutdown the outside gate!"
-msgstr "Der 614 Roboter sagt, er könnte das Tor nach draußen öffnen."
+msgstr "Der 614 Roboter sagt, er könnte das Tor nach draußen herrunterfahren."
 
 #: Francis.dialog:235
 msgid "Oh. You'll need to put the cryogenic terminals into admin mode to access the gate controls."
-msgstr ""
+msgstr "Oh. Du musst die kryotechnischen Terminals in den Administrationsmodus versetzen um auf die Torkontrolle zugreifen zu können."
 
 #: Francis.dialog:236
 msgid "How do I do that?"
@@ -425,14 +418,13 @@ msgstr "Wie mache ich das?"
 
 #: Francis.dialog:237
 msgid "You press star-pound-zero-six-pound and then enter the free-speech number."
-msgstr ""
+msgstr "Drück einfach Sternchen, Euro, 0, 6, Euro und dann die frei-sprech-Nummer."
 
 #: Francis.dialog:238
 msgid "It is kind of long, so I'll write it down for you."
 msgstr "Es ist recht lang, also schreib ich es dir auf."
 
 #: Francis.dialog:239
-#, fuzzy
 msgid "If the 614 bot locks the gate, it is for a good reason. Lock the gate behind you!"
 msgstr "Der 614 Bot schließt die Tür um eines guten Grundes wegen. Vergiss nicht, hinter dir wieder abzuschließen!"
 
