@@ -29,7 +29,6 @@ msgid "So, stranger, welcome here. You might want to talk to Chandra or to Spenc
 msgstr "Also, Fremder, seien Sie hier willkommen. Sie werden vielleicht mit Chandra oder Spencer sprechen wollen - diese beiden können Ihnen einiges über unsere gegenwärtige Lage erzählen."
 
 #: Town-GuardhouseGuard.dialog:45
-#, fuzzy
 msgid "The city is presently ruled by the Red Guard. We are the police and the soldiers here."
 msgstr "Die Stadt wird derzeit von der Roten Wache regiert. Wir stellen die Polizei und die Soldaten hier dar."
 
