@@ -22,23 +22,20 @@ msgstr "Für Ihre biometrische Prüfsumme findet sich keine Übereinstimmung in 
 
 #: SADD.dialog:40 SADD.dialog:41 SADD.dialog:192 SADD.dialog:207
 #: SADD.dialog:229
-#, fuzzy
 msgid "SADD's power supply"
-msgstr " Wie ist es um deine Stromversorgung bestellt?"
+msgstr "SAGEs Stromversorgung "
 
 #: SADD.dialog:55
 msgid "Who are you and what are you doing?"
 msgstr "Wer bist du und was machst du hier?"
 
 #: SADD.dialog:57
-#, fuzzy
 msgid "I am a SADD - Secret Area Defence Droid."
-msgstr " Ich bin ein SAGE - Sicherheis-Androide für Geheime Einrichtungen."
+msgstr "Ich bin ein SAGE - Sicherheits-Androide für Geheime Einrichtungen."
 
 #: SADD.dialog:58
-#, fuzzy
 msgid "SADD - Secret Area Defence Droid"
-msgstr " Ich bin ein SAGE - Sicherheis-Androide für Geheime Einrichtungen."
+msgstr "SAGE - Sicherheis-Androide für Geheime Einrichtungen"
 
 #: SADD.dialog:59 SADD.dialog:127
 msgid "PRIMARY TARGET 1: do not let unauthorized people in."
@@ -85,14 +82,12 @@ msgid "Em.. Anybody who would try to get in, of course."
 msgstr "Äh... natürlich alle, die versuchen würden, dort hineinzugehen."
 
 #: SADD.dialog:88
-#, fuzzy
 msgid "What about the Great Assault?"
-msgstr "Du weißt nichts über den großen Angriff..?"
+msgstr "Was ist mit dem großen Angriff?"
 
 #: SADD.dialog:90
-#, fuzzy
 msgid "For security reasons, SADDs are not equipped with wireless modules."
-msgstr " Aus Sicherheitsgründen sind SAGEs nicht mit einem Funkmodul ausgestattet."
+msgstr "Aus Sicherheitsgründen sind SAGEs nicht mit einem Funkmodul ausgestattet."
 
 #: SADD.dialog:91
 msgid "I know only that I have to be recharged, checked and have my firmware updated every 3 months."
@@ -219,9 +214,8 @@ msgid "When I say SHUT UP, you MUST shut up! Try this, worthless grain of the un
 msgstr "Wenn ich sage HALT DIE KLAPPE, dann HAST du ruhig zu sein! Nimm das, wertloses Staubkörnchen!"
 
 #: SADD.dialog:166
-#, fuzzy
 msgid "SADD -- Exterminate Mode"
-msgstr "SADD -- Ausrottungsmodus"
+msgstr "SAGE -- Ausrottungsmodus"
 
 #: SADD.dialog:171
 msgid "You must promise me a significant reward."
@@ -248,9 +242,8 @@ msgid "Go, and bring dilithium. I badly need it."
 msgstr "Geh und bring mir Dilizium - ich brauche es dringend!"
 
 #: SADD.dialog:192
-#, fuzzy
 msgid "I am supposed to get some dilithium crystals for that SADD."
-msgstr "Ich soll ein paar Dilithiumkristalle für das SADD herbeischaffen."
+msgstr "Ich soll ein paar Dilithiumkristalle für das SAGE herbeischaffen."
 
 #: SADD.dialog:199 SADD.dialog:220
 msgid "I have the crystals! They were difficult to find."
@@ -261,9 +254,8 @@ msgid "Good. I've opened the depot door for you. Take your super exterminator an
 msgstr "Gut. Ich habe Tür zum Lager für dich geöffnet. Nimm deinen Super-Exterminator und dann VERSCHWINDE von hier!"
 
 #: SADD.dialog:203 SADD.dialog:224
-#, fuzzy
 msgid "Restored SADD's power supply"
-msgstr "SADDs Stromversorgung wiederhergestellt"
+msgstr "SAGEs Stromversorgung wiederhergestellt"
 
 #: SADD.dialog:207 SADD.dialog:229
 msgid "I managed to restore the SADD's power supply."
