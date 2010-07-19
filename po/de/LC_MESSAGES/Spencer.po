@@ -22,7 +22,7 @@ msgstr "Grüßdich, Kollege."
 
 #: Spencer.dialog:42 Spencer.dialog:46 Spencer.dialog:235
 msgid "Opening access to MS Office"
-msgstr ""
+msgstr "Zugang zum MS-Büro ermöglichen"
 
 #: Spencer.dialog:43
 msgid "A kingdom for a cluster!"
@@ -73,9 +73,8 @@ msgid "But I don't have that many circuits!"
 msgstr "Aber soviele Schaltkreise habe ich gar nicht."
 
 #: Spencer.dialog:84
-#, fuzzy
 msgid "That much I can tell."
-msgstr "Das hätte ich dir auch vorher sagen können..."
+msgstr "So viel kann ich sagen."
 
 #: Spencer.dialog:85
 msgid "Look, I'm just fooling around. We don't let just anyone join the Red Guard."
@@ -111,9 +110,8 @@ msgstr "Ich wünsche Ihnen alles Gute!"
 
 #: Spencer.dialog:99 Spencer.dialog:107 Spencer.dialog:108 Spencer.dialog:118
 #: Spencer.dialog:183
-#, fuzzy
 msgid "Opening a can of bots..."
-msgstr "Öffne Hermetiktür..."
+msgstr "Eine Dose Roboter öffnen..."
 
 #: Spencer.dialog:99
 msgid "I am supposed to clean out the first level of some warehouse. Sounds easy. It lies nearby, somewhat hidden in the woods north-east of town."
@@ -144,7 +142,6 @@ msgid "Our people are transporting the goods as we speak. It can't be too long u
 msgstr "Während wir noch reden, verladen unsere Leute schon die Waren. Es kann nicht mehr allzu lange dauern, bis neue Robots aus den Raumschiffen im Orbit herunterbeamen und die zerstörten ersetzen."
 
 #: Spencer.dialog:118
-#, fuzzy
 msgid "Ouch. It wasn't. At least I am alive, and the warehouse is clear. *Whew*."
 msgstr "Autsch! War es nicht. Immerhin lebe ich noch und das Warenhaus ist sauber. *Puhh*"
 
@@ -169,9 +166,8 @@ msgid "And currently I can't spare a single man from the city defenses. It's qui
 msgstr "Und momentan kann ich keinen einzigen Mann entbehren, um die Verteidigung unserer kleinen Stadt aufrecht zu erhalten. Eine recht schwierige Situation."
 
 #: Spencer.dialog:133
-#, fuzzy
 msgid "Have I done enough quests to become a member now?"
-msgstr " Habe ich genug geleistet, um der Roten Wache nun beitreten zu können?"
+msgstr "Habe ich genug Aufgaben erfült, um der Roten Wache nun beitreten zu können?"
 
 #: Spencer.dialog:135
 msgid "The yellow toolkit"
@@ -266,9 +262,8 @@ msgid "But most importantly, I was very impressed with you when you cleared out 
 msgstr "Aber am allerwichtigsten ist - Sie haben mich aufs Äußerste beeindruckt, indem Sie das Lagerhaus von den Blechköpfen gesäubert haben - das war eine Großtat, die ich Ihnen niemals vergessen werde!"
 
 #: Spencer.dialog:186
-#, fuzzy
 msgid "Personally I'm also worrying about how we will manage to get some necessary supplies from our warehouse. It's filled with bots and we just don't have the manpower to spare to clean them out."
-msgstr "Persönlich mache ich mir auch darüber Sorgen, wie wir es schaffen, einige dringend benötigte Vorräte aus dem Lagerhaus zu beschaffen. Es ist voller Roboter und wir haben einfach nicht die Manneskraft zur verfügung, um sie Auszuräuchern."
+msgstr "Persönlich mache ich mir auch darüber Sorgen, wie wir es schaffen, einige dringend benötigte Vorräte aus dem Lagerhaus zu beschaffen. Es ist voller Roboter und wir haben einfach nicht die Manneskraft zur Verfügung, um die Bots auszuräuchern."
 
 #: Spencer.dialog:191
 msgid "OK. Your list of achievements is long enough. You can join us. So I hereby declare you a member of the Red Guard."
@@ -349,9 +344,8 @@ msgid "OK. I'll be careful. But I'll do it."
 msgstr " OK. Ich werde vorsichtig sein. Aber ich gehe da rein."
 
 #: Spencer.dialog:232
-#, fuzzy
 msgid "Good. The base entrance is somewhat hidden in the caves to the northeast. Best to use the north gate out of town, then head east, and turn north again along the shore."
-msgstr "Gut. Der Basiseingang liegt ein wenig versteckt, zwischen den Felsschluchten im Nordwesten. Gehen Sie am besten durch das Nordtor und wenden Sie sich dann nach Westen."
+msgstr "Gut. Der Basiseingang liegt ein wenig versteckt, zwischen den Felsschluchten im Nordwesten. Gehen Sie am besten durch das Nordtor und wenden Sie sich dann nach Osten, und dann wieder nach Norden, der Küste entlang."
 
 #: Spencer.dialog:233
 msgid "I wish you the best of luck for this operation. It might be that our survival depends on it. Don't wait for assistance."
@@ -374,12 +368,10 @@ msgid "Good. You should be well prepared if you intend to go."
 msgstr "In Ordnung. Sie sollten gut gewappnet sein, falls Sie vorhaben zu gehen."
 
 #: Spencer.dialog:244
-#, fuzzy
 msgid "Also there is no need to hurry with this. After all, the installation is not running away, so it's best to take a cautious approach."
-msgstr "Es gibt auch keinen Grund, die Dinge zu überstürzen. Schließlich kann Ihnen das Geheimlabor nicht davonlaufen - also lassen Sie es am besten langsam angehen."
+msgstr "Es gibt auch keinen Grund, die Dinge zu überstürzen. Schließlich kann Ihnen das Geheimlabor nicht davonlaufen - also lassen Sie es am besten vorsichtig angehen."
 
 #: Spencer.dialog:249
-#, fuzzy
 msgid "It's done. Your soldiers were killed, but I managed to have a word with the shield control droid. The access to the bot factory is now open."
 msgstr "Es ist geschafft. Ihre Soldaten wurden getötet, aber ich konnte ein Wörtchen mit den Schild-Kontrollandroiden reden. Der Zugang zur Roboterfabrik ist jetzt offen."
 
@@ -408,16 +400,14 @@ msgid "Good luck."
 msgstr "Viel Glück!"
 
 #: Spencer.dialog:257
-#, fuzzy
 msgid "Propagating a faulty firmware"
-msgstr " Firmware-Update ausliefern"
+msgstr " Fehlerhaftes Firmware-Update ausliefern"
 
 #: Spencer.dialog:257
 msgid "I can now enter the fortress and find the upgrade server bot. The fortress gates are in the Crystal Fields. Spencer told the guards to open the doors for me."
 msgstr ""
 
 #: Spencer.dialog:262
-#, fuzzy
 msgid "I will need some time to get myself ready before I clean up the Hell Fortress."
 msgstr "Ich brauche ein wenig Zeit mich darauf vorzubereiten, die Höllenfestung zu säubern."
 
