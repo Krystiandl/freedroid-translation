@@ -53,14 +53,12 @@ msgid "Talk to Spencer if you have any business inside. I cannot let you pass."
 msgstr "Reden Sie mit Spencer, falls Sie irgendwelche Angelegenheiten da drinnen regeln müssen. Ich kann Sie so nicht passieren lassen."
 
 #: Tybalt.dialog:71
-#, fuzzy
 msgid "So why is it you keep the citadel locked? Is there anything secret in there?"
-msgstr "Wieso hältst du die Zitadelle allzeit geschlossen? Ist da etwas Geheimes drin?"
+msgstr "Wieso hältst du die Zitadelle allzeit geschlossen? Ist dort etwas Geheimes drin?"
 
 #: Tybalt.dialog:73
-#, fuzzy
 msgid "We need to protect our equipment and documents, because lives depend on it."
-msgstr "Wir müssen undere Ausrüstung und unsere Dokumente schützen, sie sind essentiell."
+msgstr "Wir müssen unsere Ausrüstung und unsere Dokumente schützen, sie sind essentiell, von ihnen hängt Leben ab."
 
 #: Tybalt.dialog:74
 msgid "Also, we don't have to answer questions."
