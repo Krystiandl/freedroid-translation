@@ -19,7 +19,7 @@ msgstr ""
 #: Butch.dialog:38 Butch.dialog:39 Butch.dialog:120 Butch.dialog:131
 #: Butch.dialog:148 Butch.dialog:213
 msgid "Novice Arena"
-msgstr ""
+msgstr "Anfängerarena"
 
 #: Butch.dialog:40
 msgid "I've already opened the door for you. All you need to do is walk in there and crush all four bots."
@@ -27,10 +27,9 @@ msgstr "Ich hab die Tür bereits für dich geöffnet. Musst nur da reingehen und
 
 #: Butch.dialog:50 Butch.dialog:51 Butch.dialog:157 Butch.dialog:171
 msgid "Time to say goodnight"
-msgstr ""
+msgstr "Zeit, 'Gute Nacht' zu sagen"
 
 #: Butch.dialog:52
-#, fuzzy
 msgid "I've already opened the door. What are you waiting for? All you need to do is go down to the master arena and fight the bots."
 msgstr "Ich hab die Pforte schon aufgemacht, also nerv mich nicht... worauf wartest du? Musst nur in die Experten-Arena runterbeamen und die Blechteufel zerlegen, wenn du Mumm hast!"
 
@@ -39,18 +38,16 @@ msgid "But I can understand if you hesitate. The master arena is by no means an 
 msgstr "Aber ich kanns verstehn, wenn dir die Bürzeldrüse geht... Der Kampf für Experten ist 'ne harte Sache. Vielleicht solltest du lieber noch'n bisschen üben, bevor du wirklich da reingehst - so drei, vier Jahre!"
 
 #: Butch.dialog:66
-#, fuzzy
 msgid "Hi! I'm new here."
-msgstr " Hallo, ich bin neu hier..."
+msgstr "Hallo, ich bin neu hier..."
 
 #: Butch.dialog:68
 msgid "Yeah, what do you want newbie?"
 msgstr "Moin. Was willste, Grünschnabel? Etwa kämpfen?"
 
 #: Butch.dialog:73
-#, fuzzy
 msgid "Say 'newbie' again and I will rip your spine out."
-msgstr " Sagen Sie, sind Sie scharf auf 'nen Satz heiße Ohren? Mein Schnabel ist Gelb!"
+msgstr "Sag noch ein einziges mal 'Grünschnabel' zu mir und ich reiß' dir die Wirbelsäule raus."
 
 #: Butch.dialog:75
 msgid "Fine, newbie. You are greener than green and a total newbie."
@@ -204,17 +201,15 @@ msgstr "Aber wenn du wirklich als Brathähnchen enden willst, die Tür ist offen
 
 #: Butch.dialog:157
 msgid "I told the arena master to let me into his master arena. He agreed. Now all that remains to do is to climb down the ladder to the north arena and wait for death herself to come on her black wings and claim my soul. You know, now that I think about it... Maybe I should stay out of there?"
-msgstr ""
+msgstr "Ich hab den Arenameister gesagt, dass ich in die Meisterarena will. Er war einverstanden. Nun muss ich nur noch die Leiter zur nördlichen Arena runterklettern und warten, bis der Tod selbst mit seinen schwarzen Flügeln naht, um meine Seele für sich beansprucht. Nun, wenn ich so darüber nachdenke, vielleicht sollte ich doch lieber hier oben bleiben?"
 
 #: Butch.dialog:164
-#, fuzzy
 msgid "The master arena is clear."
 msgstr " Ach, äh... die Experten-Arena ist jetzt übrigens ausgemistet..."
 
 #: Butch.dialog:166
-#, fuzzy
 msgid "What!? Impossible! No one ever survives the second arena!"
-msgstr "WAS!? Unmöglich! Niemand hat zuvor die Meister-Arena überlebt!"
+msgstr "WAS!? Unmöglich! Niemand hat zuvor die zweite Arena überlebt!"
 
 #: Butch.dialog:167
 msgid "One has to be out of his mind to try the second arena."
