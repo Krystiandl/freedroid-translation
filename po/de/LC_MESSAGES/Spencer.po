@@ -357,7 +357,7 @@ msgstr "Versuchen Sie, Kontrolle über den Disruptorschild zu erlangen, wenn mö
 
 #: Spencer.dialog:235
 msgid "Spencer has revealed the information from the data cube evaluation to me. It seems there is an old military research facility near the town. By taking over the control droid, I should be able to control the disruptor shield at the facility. I could activate it permanently, thereby locking off the Hell Fortress, and the bots it's producing, forever. Alternatively, I could disable it, and fight my way through the Hell Fortress droids until I reach the main control droid and update it, thereby disabling all bots in the entire area around town in one fell swoop."
-msgstr ""
+msgstr "Spencer hat mir die Informationen aus dem Datenkubus offenbahrt. Es scheint eine alte Fabrik, die zur militärischen Forschungszwecken benutzt wurde in der Nähe der Stadt zu geben. Wenn ich den Kontrolldroiden übernehme sollte ich in der Lage sein, das Disruptorschild der Werkstädte zu kontrollieren. Ich könnte es permanent aktivieren und somit die Höllenfestung von der Außenwelt abschneiden. Die Bots die sie produziert wären für immer gefangen. Alternativ könnte ich es auch abschalten, und mir einen Weg durch die Höllenfestung kämpfen, bis ich den Hauptkontrolldroiden finde. Den würde ich dann aktualisieren und dabei mit einem mal alle Roboter im ganzen Gelände um die Stadt herum ausschalten."
 
 #: Spencer.dialog:241
 msgid "I don't feel like doing it now. I'd rather prepare some more."
@@ -405,7 +405,7 @@ msgstr " Fehlerhaftes Firmware-Update ausliefern"
 
 #: Spencer.dialog:257
 msgid "I can now enter the fortress and find the upgrade server bot. The fortress gates are in the Crystal Fields. Spencer told the guards to open the doors for me."
-msgstr ""
+msgstr "Ich kann nun in die Festung und den Upgradeserver-Roboter finden. Die Tor zur Festung liegen in den Kristallfeldern. Spencer beorderte die Wachen die Türen für mich zu öffnen."
 
 #: Spencer.dialog:262
 msgid "I will need some time to get myself ready before I clean up the Hell Fortress."
