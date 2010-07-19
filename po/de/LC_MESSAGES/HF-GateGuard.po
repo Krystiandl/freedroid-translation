@@ -53,16 +53,14 @@ msgid "Just remember to give me your valuables before you commit suicide."
 msgstr "Vergiss nicht, mir deine Wertsachen zu geben, bevor du dich in den Selbstmord stürtzt."
 
 #: HF-GateGuard.dialog:62
-#, fuzzy
 msgid "You won't need any money once you're damn dead, and I could use it, eh?"
-msgstr "Du brauchst gar kein Geld mehr, wenn du mausetot bist, ich könnte damit noch was anfangen, kapito?"
+msgstr "Du brauchst gar kein Geld mehr, wenn du mausetot bist, ich könnte damit noch was anfangen, klar?"
 
 #: HF-GateGuard.dialog:67
 msgid "Thanks for the advice."
 msgstr "Danke für den Hinweis.."
 
 #: HF-GateGuard.dialog:69
-#, fuzzy
 msgid "You're dead if you don't take it."
 msgstr "Du bist tot, wenn du das nicht schaffst."
 
