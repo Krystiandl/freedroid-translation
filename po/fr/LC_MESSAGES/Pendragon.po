@@ -59,7 +59,7 @@ msgstr "Avez vous un nom ?"
 
 #: Pendragon.dialog:64
 msgid "I go by Pendragon, because I can pull a knife from thin air."
-msgstr ""
+msgstr "Je suis appelé Pendragon, parce que je peux faire apparaître un couteau de l'air."
 
 #: Pendragon.dialog:65
 msgid "And you?"
