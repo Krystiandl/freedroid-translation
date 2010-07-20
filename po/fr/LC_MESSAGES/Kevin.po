@@ -379,9 +379,8 @@ msgid "Improve Hacking Program (cost 300 circuits, 12 training points)"
 msgstr "Étudier le piratage des ordinateurs (coûte 300 circuits, donne 5 points de compétence)"
 
 #: Kevin.dialog:306
-#, fuzzy
 msgid "Improve Hacking Program (cost 300 circuits, 14 training points)"
-msgstr " Étudier le piratage des ordinateurs (300 en liquide, 5 points de compétence)"
+msgstr "Améliorer le piratage des ordinateurs (coûte 300 circuits, donne 14 points de compétence)"
 
 #: Kevin.dialog:319
 msgid "Improve Hacking Program (cost 300 circuits, 16 training points)"
