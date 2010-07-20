@@ -12,10 +12,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
-"X-Poedit-Country: FRANCE\n"
 "Language: \n"
-"X-Generator: Launchpad (build Unknown)\n"
 "X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Generator: Launchpad (build Unknown)\n"
 
 #: DocMoore.dialog:37 DocMoore.dialog:38 DocMoore.dialog:63
 #: DocMoore.dialog:100
@@ -307,7 +307,6 @@ msgid "What can you tell me about Diet supplements?"
 msgstr "Pouvez m'apprendre quelque chose à propos des compléments diététiques ?"
 
 #: DocMoore.dialog:241
-#, fuzzy
 msgid "Have you tasted the army snacks that the cook, Michelangelo, has been handing out?"
 msgstr "Avez vous goûté les snacks de l'armée que le cuisinier, Michelangelo, distribue ?"
 
@@ -353,25 +352,21 @@ msgstr "Oui. Ça tue les bactéres qui veulent vous tuer. Ça améliore fortemen
 
 #: DocMoore.dialog:264
 msgid "What is a Doc-in-a-can?"
-msgstr ""
+msgstr "Qu'est-ce qu'est un Doc-en-boîte ?"
 
 #: DocMoore.dialog:266
-#, fuzzy
 msgid "It is a device that releases millions of short-lived nanobots that swarm all over your body inside and out repairing and fixing almost all but the most serious wounds."
-msgstr "C'est un dispositif qui libère des millions de nano-robots à courte durée de vie qui vont se répandre dans ton corps et réparer presque tout."
+msgstr "C'est un dispositif qui libère des millions de nano-robots à courte durée de vie qui vont se répandre dans ton corps et réparer presque tout, sauf les blessures les plus sérieuses."
 
 #: DocMoore.dialog:267
-#, fuzzy
 msgid "Wouldn't long-lived nanobots work better?"
 msgstr "Ça ne serait pas mieux des nano-robots à longue durée de vie ?"
 
 #: DocMoore.dialog:268
-#, fuzzy
 msgid "They found that long-lived nanobots evolve self-replication and act like a cancer. A cancer of gray goo that eats everything."
 msgstr "Il a été trouvé que les nano-robots à longue durée de vie évoluent par mitose et agissent comme un cancer. Un cancer de glue grisâtre qui mange tout."
 
 #: DocMoore.dialog:269
-#, fuzzy
 msgid "Several planets were made uninhabitable before they figured that one out."
 msgstr "Beaucoup de planètes furent rendues inhabitables avant qu'on ne s'en rende compte."
 
@@ -381,7 +376,7 @@ msgstr "À plus tard."
 
 #: DocMoore.dialog:276
 msgid "Keep healthy!"
-msgstr ""
+msgstr "Reste en bonne santé !"
 
 #~ msgid "Sure. I'll sign it."
 #~ msgstr " Certainement. Je le signerai."
