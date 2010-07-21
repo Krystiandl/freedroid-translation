@@ -12,10 +12,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
-"Language: \n"
-"X-Poedit-Language: French\n"
 "X-Poedit-Country: FRANCE\n"
+"Language: \n"
 "X-Generator: Launchpad (build Unknown)\n"
+"X-Poedit-Language: French\n"
 
 #: TutorialTom.dialog:51
 msgid "Tutorial Tom"
@@ -141,7 +141,7 @@ msgstr "Maintenant, essaye de te déplacer vers le point rouge au nord. Puis au 
 
 #: TutorialTom.dialog:107
 msgid "I'm supposed to left click anywhere to move to a location. If I can figure out a way, I will move there automatically. Tom wants me to first try to move to the red dot to the North."
-msgstr ""
+msgstr "Je suis censé cliquer n'importe ou avec le bouton gauche pour aller à cet endroit. S'il y a un chemin, j'y irais automatiquement. Tom veut que je fasse mon premier déplacement vers le point rouge au nord."
 
 #: TutorialTom.dialog:114
 msgid "What else makes me different as a Linarian?"
@@ -153,8 +153,9 @@ msgid "As a Linarian, you have some special abilities that no human does: Linari
 msgstr "En tant que Linarien, tu as des compétences dont aucun humain ne dispose : les Linariens peuvent transformer un code source de programmation en quelque chose, comme par magie."
 
 #: TutorialTom.dialog:117
+#, fuzzy
 msgid "However, using these [b]Programs[/b], adversely affect your body temperature, which you must regulate."
-msgstr ""
+msgstr "Par contre ces [b]Programmes[/b] augmentent la température de ton corps, que tu dois réguler."
 
 #: TutorialTom.dialog:118
 #, fuzzy
@@ -174,23 +175,24 @@ msgid "View the Skills/Program menu by pressing the S key."
 msgstr ""
 
 #: TutorialTom.dialog:126
+#, fuzzy
 msgid "I'm sensing some sort of strange presence in the vicinity."
-msgstr ""
+msgstr "Je sens une présence étrange proche."
 
 #: TutorialTom.dialog:128
 msgid "Ah, yes."
 msgstr "Ah, oui."
 
 #: TutorialTom.dialog:129
+#, fuzzy
 msgid "Linarians seem to [b]detect items[/b] - even through walls - in an augmented reality."
-msgstr ""
+msgstr "Les Linariens ont la compétence de [b]détecter les objets[/b] - même a travers les murs - dans une réalité augmentée."
 
 #: TutorialTom.dialog:130
 msgid "The [b]Z key[/b] will toggles this augmentation, while the [b]X key[/b] momentarily flashes it."
 msgstr ""
 
 #: TutorialTom.dialog:131
-#, fuzzy
 msgid "Moving your pointer over an item will tell you more about that item."
 msgstr "Déplacer votre curseur sur un objet vous donnera plus d'informations le concernant."
 
@@ -204,19 +206,20 @@ msgstr "Tu est libre de passer quand tu veux pour t'entraîner."
 
 #: TutorialTom.dialog:134
 msgid "[b]Left clicking[/b] on an item will pick it up and put it in your inventory, toggled by the [b]I key[/b], where you can examine it further."
-msgstr ""
+msgstr "Un [b]Clic gauche[/b] sur un objet vous fera le prendre et le mettre dans votre inventaire - affiché par la [b]touche I[/b], où vous pourrez l'examiner plus en détail."
 
 #: TutorialTom.dialog:135
 msgid "Toggle detect items by pressing the Z key, and press X to flash the ability.  To pick up an item, left click on it. To view an item you've picked up, open the inventory by pressing I."
 msgstr ""
 
 #: TutorialTom.dialog:141
+#, fuzzy
 msgid "No, thanks, I still remember how to walk, run, navigate, and pick things up."
-msgstr ""
+msgstr "Non, merci, je me rappelle comment marcher, courir, me déplacer, et comment prendre des objets."
 
 #: TutorialTom.dialog:147
 msgid "Thank you, that was very informative. Can we move on now?"
-msgstr ""
+msgstr "Merci, c'était très intéressant. Pouvons nous continuer maintenant ?"
 
 #: TutorialTom.dialog:150
 msgid "I just closed your first quest. You can still see what you learned by clicking on the 'done quests' tab in the quest screen."
@@ -229,7 +232,7 @@ msgstr " Je dois y aller maintenant."
 
 #: TutorialTom.dialog:157
 msgid "Ok, follow me into the next area."
-msgstr ""
+msgstr "Ok, suis moi dans la prochaine zone."
 
 #: TutorialTom.dialog:169
 msgid "What is in that chest?"
@@ -272,8 +275,9 @@ msgid "For some, it's valuable metals in robotic circuitry. That's the current m
 msgstr "Pour certains, des métaux très chers en circuits robotiques. C'est le standard monétaire actuel dans notre monde."
 
 #: TutorialTom.dialog:184
+#, fuzzy
 msgid "For others, it may be weapons, or even just items that may be used as weapons in a pinch."
-msgstr ""
+msgstr "Pour d'autres, ça peut être des armes, ou même des objets qui pourraient être utilisés comme des armes."
 
 #: TutorialTom.dialog:185
 msgid "Still others, odd as it may sound, keep dishes hidden away."
@@ -289,27 +293,28 @@ msgstr ""
 
 #: TutorialTom.dialog:193
 msgid "In the years since you entered stasis, mankind has done much research in the field of robotics."
-msgstr ""
+msgstr "Durant les années où vous êtes restés en hibernation, l'humanité à fait beaucoup de recherches dans la robotique."
 
 #: TutorialTom.dialog:194
 msgid "One branch in particular that has served us well is the realm of nanotechnology."
-msgstr ""
+msgstr "Une branche qui nous à particulièrement bien servie est celle de la nano-technologie."
 
 #: TutorialTom.dialog:195
 msgid "Because they run a very simple operating system, nanobots were not affected by whatever caused the Great Assault."
-msgstr ""
+msgstr "Car il utilisent un système d'exploitation très simple, les nano-robots n'ont pas été affectés par ce qui à causé le Grand Assaut."
 
 #: TutorialTom.dialog:196
 msgid "To this day, our armor and clothing are made out of nanobots. This enables many different sizes of people to wear the same clothing."
-msgstr ""
+msgstr "Jusqu'a ce jour, nos armures et vêtements sont faits de nano-robots. Cela permet à des personnes de différentes tailles de porter les mêmes vêtements."
 
 #: TutorialTom.dialog:197
 msgid "The nanobots reshape the garment for a comfortable fit, so even you should be able to wear them without problem."
 msgstr ""
 
 #: TutorialTom.dialog:202
+#, fuzzy
 msgid "How does wearing clothes and holding shields help me?"
-msgstr ""
+msgstr "Dans quelle mesure porter des vêtements ou tenir un bouclier m'aide ?"
 
 #: TutorialTom.dialog:204
 msgid "Well, it can help you avoid indecent exposure charges."
@@ -324,20 +329,23 @@ msgid "Even the best of fighters sometimes get hit by enemy blows. If I were you
 msgstr ""
 
 #: TutorialTom.dialog:208
+#, fuzzy
 msgid "They will help to mitigate some of the damage you take from melee or ranged combat."
-msgstr ""
+msgstr "Elles vous aideront à contrer une partie des dégats que vous receverez des attaques en mêlée ou en combat à distance."
 
 #: TutorialTom.dialog:209
 msgid "Keep in mind, though, that there is a chance that your armor will take damage whenever you get hit. Keep an eye on it, or you'll lose it."
 msgstr ""
 
 #: TutorialTom.dialog:214
+#, fuzzy
 msgid "That sounds useful. How do I use armor?"
-msgstr ""
+msgstr "Ca à l'air très utile. Comment est ce que j'utilise une armure ?"
 
 #: TutorialTom.dialog:216
+#, fuzzy
 msgid "Well, let me start by saying that there are four classes of armor: headgear, shoes, body armor, and shields."
-msgstr ""
+msgstr "Bien, laisse moi commencer en epxliquant qu'il y a 4 classes d'armures. Les gants, les chaussures, les armures de torse, et les boucliers."
 
 #: TutorialTom.dialog:217
 msgid "When you pick up a piece of armor of a particular class, and you don't already have one equipped, you will automatically equip it if you can."
@@ -345,7 +353,7 @@ msgstr ""
 
 #: TutorialTom.dialog:218
 msgid "Picking up armor and items can be accomplished by [b]left clicking[/b] on the item. If your inventory has space, you will pick the item up."
-msgstr ""
+msgstr "Ramasser des armures et objets peut être fait par un [b]clic gauche[/b] sur l'objet. Si votre inventaire n'est pas plein, vous prendrez l'objet. "
 
 #: TutorialTom.dialog:219
 msgid "If you currently have one piece of armor equipped that you would like to swap out for another, simply drag the new armor piece to the current armor piece and left click."
@@ -360,8 +368,9 @@ msgid "Alternatively, you can drag it into your field of view and drop it on the
 msgstr ""
 
 #: TutorialTom.dialog:226
+#, fuzzy
 msgid "I wouldn't want to lose any armor. What can I do about that?"
-msgstr ""
+msgstr "Je n'aimerais pas casser des armures. Qu'est ce que je peux faire contre ça ?"
 
 #: TutorialTom.dialog:228
 msgid "Well, there are several ways to keep that from happening."
@@ -372,12 +381,14 @@ msgid "Equipped items in poor condition will show up yellow and should turn red 
 msgstr ""
 
 #: TutorialTom.dialog:230
+#, fuzzy
 msgid "However, if your visual acuity is only SDL, not OGL, apparently the colors won't change."
-msgstr ""
+msgstr "Cependant, si votre accuité visuelle est seulement SDL, et pas OpenGL, apparemment les couleurs ne changeront pas."
 
 #: TutorialTom.dialog:231
+#, fuzzy
 msgid "If you don't unequip an item in poor or critical condition it may be ruined!"
-msgstr ""
+msgstr "Si tu ne déséquippe pas un objet en mauvaise condition, il pourrait se retrouver ruiné !"
 
 #: TutorialTom.dialog:232
 msgid "There are three things you can do when an item reaches critical condition:"
@@ -385,24 +396,26 @@ msgstr ""
 
 #: TutorialTom.dialog:233
 msgid "First, you can sell or discard the item."
-msgstr ""
+msgstr "Premièrement, tu peux vendre ou te débarrasser de l'objet."
 
 #: TutorialTom.dialog:234
+#, fuzzy
 msgid "Second, you can use your [b]repair equipment[/b] program on the item, which will repair the item at the cost of some of its durability."
-msgstr ""
+msgstr "Sinon deuxièmement, tu peux utiliser ta compétence [b]réparer équipement[/b], qui va réparer l'objet en réduisant sa durabilité maximum en contrepartie."
 
 #: TutorialTom.dialog:235
 msgid "Or third, you can have the item repaired at a shop, which maintains the item's durability at a price."
-msgstr ""
+msgstr "Ou troisièmement, tu peux réparer l'objet dans un magasin, ce qui gardera sa durabilité au maximum."
 
 #: TutorialTom.dialog:240
+#, fuzzy
 msgid "You mentioned discarding an item. Why would I want to do that?"
-msgstr ""
+msgstr "Vous avez parlé de se débarrasser d'un objet. Pourquoi est ce que je ferais ça ?"
 
 #: TutorialTom.dialog:242
 #, fuzzy
 msgid "Well, I can think of a few reasons."
-msgstr "J'ai bien l'impression que cette porte va rester fermée."
+msgstr "Hé bien, il peut y avoir plusieurs raisons."
 
 #: TutorialTom.dialog:243
 msgid "You might not have enough room in your inventory for an item you need more, or can sell for more."
@@ -413,32 +426,35 @@ msgid "If an item is close to being destroyed, you might also consider dropping 
 msgstr ""
 
 #: TutorialTom.dialog:245
+#, fuzzy
 msgid "And finally some items give negative status effects, and aren't worth selling."
-msgstr ""
+msgstr "Et pour finir, certains objets donnent des modifications de statut négatives, et ne valent pas d'être vendus."
 
 #: TutorialTom.dialog:246
 msgid "Armor or weapons may affect you in different ways."
-msgstr ""
+msgstr "Les armures et armes peuvent vous affecter dans différentes mesures."
 
 #: TutorialTom.dialog:247
 msgid "Some will help you out, for example by increasing your cooling rate or increasing your dexterity. This is the work of specialized nanobots, but the reverse can happen too."
-msgstr ""
+msgstr "Certains vont vous aider, par exemple en augmentant votre vitesse de refroidissement, ou votre dextérité. Ceci est assuré par l'emploi de nano-robots spécialisés, mais le contraire peut arriver aussi."
 
 #: TutorialTom.dialog:252
 msgid "Repair equipment program? How do I use that?"
-msgstr ""
+msgstr "Un programme de réparation d'équipement ? Comment est ce que j'utilise ça ?"
 
 #: TutorialTom.dialog:254
+#, fuzzy
 msgid "Perhaps I should start by explaining programs in general."
-msgstr ""
+msgstr "Peut-être que je devrais commencer par parler des programmes de façon générale."
 
 #: TutorialTom.dialog:255
 msgid "To use a program, select it through your HUD (remember the [b]S key[/b] toggles your [b]Skills/Program menu[/b])."
 msgstr ""
 
 #: TutorialTom.dialog:256
+#, fuzzy
 msgid "After you've selected a program, run the program by right clicking. Depending on the program you can target an enemy, an item, or just the world."
-msgstr ""
+msgstr "Une fois que tu as sélectionné un programme, tu peux le lancer par un clic droit sur la souris. Selon le programme, tu peux cibler un ennemi, un objet, ou quelque part sur le terrain."
 
 #: TutorialTom.dialog:257
 msgid "You can also assign quick-select keys to programs. Simply hover over the program in the Skills/Program menu and press one of the keys [b]F5[/b] to [b]F12[/b]. Then, whenever you press this button, you will select the corresponding program."
@@ -446,7 +462,7 @@ msgstr ""
 
 #: TutorialTom.dialog:258
 msgid "If you're curious what a program does, you can find out by clicking the question mark in the Skills/Program menu."
-msgstr ""
+msgstr "Si tu es curieux concernant l'utilisation d'un programme, tu peux en savoir plus en cliquant le point d'interrogation dans le menu de compétences et programmes."
 
 #: TutorialTom.dialog:259
 msgid "Now, to answer your question, you use your repair equipment program by selecting it in the Skills/Program menu, then right clicking on the item you wish to repair."
@@ -482,8 +498,9 @@ msgid "We prefer to fight the damn droids at a distance. They're less likely to 
 msgstr ""
 
 #: TutorialTom.dialog:283
+#, fuzzy
 msgid "Unfortunately, guns and other ranged weaponry are hard to come by these days."
-msgstr ""
+msgstr "Par contre, les armes et autres armes à distances sont durs à trouver en ces temps."
 
 #: TutorialTom.dialog:284
 msgid "That goes double for ammunition. Because these are bots, you really can't effectively keep them at bay by just waving around an empty gun."
@@ -495,11 +512,11 @@ msgstr ""
 
 #: TutorialTom.dialog:290
 msgid "So I'm supposed to fight bots with my fists?"
-msgstr ""
+msgstr "Donc je suis censé me battre contre des robots avec mes poings ?"
 
 #: TutorialTom.dialog:292
 msgid "There may be times when you have no choice."
-msgstr ""
+msgstr "Il y aura peut-êtres des fois ou tu n'auras pas le choix."
 
 #: TutorialTom.dialog:293
 msgid "Melee combat, armed or unarmed, can be initiated by [b]left clicking[/b] on an enemy."
@@ -544,11 +561,11 @@ msgstr ""
 #: TutorialTom.dialog:307
 #, fuzzy
 msgid "Tell me about health drinks."
-msgstr " Dis m'en plus au sujet des armes laser."
+msgstr " Dis m'en plus a propos des objets de soin."
 
 #: TutorialTom.dialog:309
 msgid "Man has practiced medicine in one form or another for hundreds of years."
-msgstr ""
+msgstr "L'homme à pratiqué la médecine sous différentes formes pendant des centaines d'années."
 
 #: TutorialTom.dialog:310
 msgid "Using some of the same nanotechnology that makes up your armor, we've perfected drinks that instantaneously restore your health."
@@ -556,7 +573,7 @@ msgstr ""
 
 #: TutorialTom.dialog:311
 msgid "There are many kinds, but all accomplish the same thing, to varying degrees."
-msgstr ""
+msgstr "Il y a plusieurs types, mais ils accomplissent tous la même tâche à des degrés différents."
 
 #: TutorialTom.dialog:312
 msgid "Certain items, like health drinks, can be used directly without clicking on them."
@@ -584,45 +601,45 @@ msgstr ""
 
 #: TutorialTom.dialog:322
 msgid "I'm ready to fight my first bot."
-msgstr ""
+msgstr "Je suis prêt à me combattre contre mon premier robot."
 
 #: TutorialTom.dialog:324
 msgid "We keep two bots captive for melee practice."
-msgstr ""
+msgstr "Nous avons gardé deux robots captifs pour l'entrainement en mêlée."
 
 #: TutorialTom.dialog:325
 #, fuzzy
 msgid "I've unlocked the door leading to the first bot. Take care of it, then come back and talk to me."
-msgstr "D'accord. J'ai déverrouillé la porte pour l'arène de niveau 'maître'. Fais attention, ça ne sera pas aussi facile."
+msgstr "D'accord. J'ai déverrouillé la porte menant au premier robot. Occupe toi en, puis reviens et parle moi."
 
 #: TutorialTom.dialog:326
 msgid "I'm also giving you some health drinks. Feel free to use them, though I can heal you if you need it."
 msgstr ""
 
 #: TutorialTom.dialog:327
+#, fuzzy
 msgid "Your health will also regenerate over time. I wish it were so easy for us humans."
-msgstr ""
+msgstr "Votre vie se régènera aussi avec le temps. J'aimerais que ça soit aussi facile pour nous les humains."
 
 #: TutorialTom.dialog:328
 msgid "The first bot is carrying an [b]Entropy Inverter[/b]. Bring it to me to prove you've beaten it."
-msgstr ""
+msgstr "Le premier robot devrait avoir un [b]Inverseur d'entropie[/b]. Ramène le moi pour me prouver que tu l'as battu."
 
 #: TutorialTom.dialog:329
 msgid "Come back and talk to me when you have the Entropy Inverter."
-msgstr ""
+msgstr "Reviens et parle moi une fois que tu as récupéré l'Inverseur d'Entropie."
 
 #: TutorialTom.dialog:332
 msgid "I'm going to fight my first bot! To start melee combat left click on the bot. Tom wants the Entropy Inverter from the bot after I've defeated it, so I should pick that up."
 msgstr ""
 
 #: TutorialTom.dialog:338
-#, fuzzy
 msgid "Can you heal me?"
 msgstr " Pouvez vous me soigner ?"
 
 #: TutorialTom.dialog:340
 msgid "You should be more careful, Linarian. But yes, I can heal you."
-msgstr ""
+msgstr "Tu devrais être plus attentif, Linarien. Mais oui, je peux te soigner."
 
 #: TutorialTom.dialog:341
 #, fuzzy
@@ -631,7 +648,7 @@ msgstr "Ici. Tout est là."
 
 #: TutorialTom.dialog:346
 msgid "I've beaten the first bot."
-msgstr ""
+msgstr "Je me suis occupé du premier robot."
 
 #: TutorialTom.dialog:349
 msgid "So you have. Well done."
@@ -670,14 +687,12 @@ msgid "I'll need proof that you've beaten the first bot."
 msgstr ""
 
 #: TutorialTom.dialog:362
-#, fuzzy
 msgid "Don't come back without the [b]Entropy Inverter[/b] it was carrying."
-msgstr "Ne reviens jamais. Je te déteste."
+msgstr "Ne reviens pas sans l'[b]Inverseur d'Entropie[/b] qu'il gardait."
 
 #: TutorialTom.dialog:368
-#, fuzzy
 msgid "You mentioned another bot?"
-msgstr " Tu as mentionné un exterminateur. Qu'est-ce que c'est?"
+msgstr "Vous avez parlé d'un autre robot ?"
 
 #: TutorialTom.dialog:370
 msgid "That's correct. The second bot is a lot more dangerous, and you're not likely to make much headway against it with your fists."
