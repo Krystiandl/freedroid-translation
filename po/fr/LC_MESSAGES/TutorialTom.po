@@ -459,7 +459,7 @@ msgstr "Une fois que tu as sélectionné un programme, tu peux le lancer par un 
 
 #: TutorialTom.dialog:257
 msgid "You can also assign quick-select keys to programs. Simply hover over the program in the Skills/Program menu and press one of the keys [b]F5[/b] to [b]F12[/b]. Then, whenever you press this button, you will select the corresponding program."
-msgstr ""
+msgstr "Vous pouvez aussi assigner des touches de sélection rapide aux programmes. Passez la souris au dessus du programme sur l'écran de sélection et appuyez une des touches de [b]F5 à F12[/b]. Quand vous appuierez sur ce bouton, le programme correspondant sera sélectionné."
 
 #: TutorialTom.dialog:258
 msgid "If you're curious what a program does, you can find out by clicking the question mark in the Skills/Program menu."
@@ -467,28 +467,28 @@ msgstr "Si tu es curieux concernant l'utilisation d'un programme, tu peux en sav
 
 #: TutorialTom.dialog:259
 msgid "Now, to answer your question, you use your repair equipment program by selecting it in the Skills/Program menu, then right clicking on the item you wish to repair."
-msgstr ""
+msgstr "Maintenant pour répondre à votre question, pour réparer votre équipement, sélectionnez le programme Réparer équipement puis faites un clic droit sur l'objet que vous voulez réparer."
 
 #: TutorialTom.dialog:262
 msgid "Run a program by right clicking after it has been selected from the Skills/Program menu. My shoes are damaged, so I might try the repair equipment program on them to slightly repair them."
-msgstr ""
+msgstr "Lancer un programme avec un clic droit après l'avoir sélectionné dans l'écran de sélection des compétences et programmes. Mes chaussures sont endommagées donc je devrais essayer le programme de réparation d'équipement dessus."
 
 #: TutorialTom.dialog:267
 msgid "I think I'm ready for the next section of the tutorial."
-msgstr ""
+msgstr "Je pense que je suis prêt pour la prochaine section du tutoriel."
 
 #: TutorialTom.dialog:269
 msgid "Ok, I'll open the next door then. But prepare yourself, soon you will learn how to fight against bots in hand-to-hand combat."
-msgstr ""
+msgstr "D'accord, je vais ouvrir la prochaine porte alors. Mais prépare toi, tu auras bientôt à te battre contre des robots dans un combat à mains nues."
 
 #: TutorialTom.dialog:278
-#, fuzzy
 msgid "Can you tell me how to fight the bots?"
 msgstr " Pourrais tu m'apprendre à me battre ?"
 
 #: TutorialTom.dialog:280
+#, fuzzy
 msgid "I will certainly try my best."
-msgstr ""
+msgstr "Je ferais de mon mieux."
 
 #: TutorialTom.dialog:281
 msgid "It's odd to think that a flightless bird would be such a scrapper, but you Linarians have been surprising us since the beginning."
