@@ -12,10 +12,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
-"X-Poedit-Country: FRANCE\n"
 "Language: \n"
-"X-Generator: Launchpad (build Unknown)\n"
 "X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Generator: Launchpad (build Unknown)\n"
 
 #: TutorialTom.dialog:51
 msgid "Tutorial Tom"
@@ -45,41 +45,36 @@ msgid "Tutorial Movement"
 msgstr "Tutorial de déplacement"
 
 #: TutorialTom.dialog:63
-#, fuzzy
 msgid "Glad to see you figured out the quest log!"
-msgstr "Content de voir que vous avez decouvert le journal des quêtes !"
+msgstr "Content de voir que vous avez découvert le journal des quêtes !"
 
 #: TutorialTom.dialog:67
 msgid "Speaking of moment, you can also [b]sprint[/b] by holding the [b]control key[/b]."
 msgstr "En parlant de déplacement, vous pouvez aussi [b]courir[/b] en restant appuyé sur [b]la touche Control[/b]"
 
 #: TutorialTom.dialog:68
-#, fuzzy
 msgid "Apparently I can sprint if I hold down the control key as I move. This might help if I get in a tight spot."
-msgstr "Apparament, je peux sprinter si je reste appuyé sur la touche control. Ca pourrait servir si je me retrouve dans une mauvaise situation."
+msgstr "Apparemment, je peux sprinter si je reste appuyé sur la touche \"Control\". Ca pourrait servir si je me retrouve dans une mauvaise situation."
 
 #: TutorialTom.dialog:69
 msgid "This distance is determined by your yellow stamina bar; the more you have, the farther you can run without becoming winded."
 msgstr "Cette distance est déterminée par votre barre jaune d'endurance. Plus vous en avez, plus vous pouvez courir loin avant d'être complétement essoufflé."
 
 #: TutorialTom.dialog:75
-#, fuzzy
 msgid "Yes, it would be most kind of you. I don't remember anything."
 msgstr "Oui, ce serait très gentil de ta part, je ne me souviens de rien."
 
 #: TutorialTom.dialog:77
-#, fuzzy
 msgid "You Linarians keep a quest [b]Log[/b] where you write down key bits of information."
-msgstr "Vous, les linariens, avez l'habitude de tenir un [b]journal[/b] de quêtes, ou vous gardez les informations importantes."
+msgstr "Vous, les Linariens, avez l'habitude de tenir un [b]journal[/b] de quêtes, ou vous gardez les informations importantes."
 
 #: TutorialTom.dialog:78
 msgid "When you aren't speaking with someone, you can open it up or close it by pressing the [b]Q key[/b]."
 msgstr "Quand vous n'êtes pas en train de parler à quelqu'un, vous pouvez l'ouvrir ou le fermer en appuyant sur [b]la touche Q[/b]."
 
 #: TutorialTom.dialog:79
-#, fuzzy
 msgid "I'll assign you a new quest, so you can try it out. Once you are done, [b]left click[/b] on me."
-msgstr "Je vais te donner une nouvelle quête comme ça tu pourras essayer. Une fois que tu aura terminé, effectue un [b]clic gauche[/b] sur moi."
+msgstr "Je vais te donner une nouvelle quête comme ça tu pourras essayer tout de suite. Une fois que tu aura terminé, effectue un [b]clic gauche[/b] sur moi."
 
 #: TutorialTom.dialog:81
 msgid "To talk to someone, left click on them! You can talk to any friendly bot or person. Friendly people and bots have a green bar above them. Press the Q key to open or close the quest log. Left click back on Tutorial Tom to learn more!"
@@ -114,13 +109,13 @@ msgid "Although, you don't currently have such a device, you might find someone 
 msgstr "Même si tu n'en dispose pas pour l'instant, tu pourrais très bien trouver quelqu'un avec les compétences en nano-technologie pour en créer un."
 
 #: TutorialTom.dialog:96
-#, fuzzy
 msgid "I'll keep that in mind."
 msgstr "J'y penserais."
 
 #: TutorialTom.dialog:101
+#, fuzzy
 msgid "My limbs don't seem to want to work properly. Can you help me with that?"
-msgstr ""
+msgstr "Mes membres ne bougent pas très bien... est-ce-que vous pouvez m'aider avec ça ?"
 
 #: TutorialTom.dialog:103
 msgid "Ah yes, movement. It's second nature to us humans, but our research with you in the past showed that your brain seems to work more like a computer."
@@ -158,9 +153,8 @@ msgid "However, using these [b]Programs[/b], adversely affect your body temperat
 msgstr "Par contre ces [b]Programmes[/b] augmentent la température de ton corps, que tu dois réguler."
 
 #: TutorialTom.dialog:118
-#, fuzzy
 msgid "But you normally have a special program called [b]Emergency Shutdown[/b], which freezes your motions for several seconds but significantly cools your body."
-msgstr "Mais vous avez normalement un programme d'[b]Extinction d'urgence[/b] qui vous gèle pendant un moment, mais refroidira sérieusement votre corps."
+msgstr "Mais tu as normalement un programme d'[b]Extinction d'urgence[/b] qui te gèlera pendant un moment, mais refroidira sérieusement ton corps."
 
 #: TutorialTom.dialog:119
 msgid "This, and the ability to hack bots will soon return once your mind recovers from the stasis."
@@ -172,12 +166,11 @@ msgstr "Quand ça sera fait, nous parlerons plus en détail des programmes. Tu p
 
 #: TutorialTom.dialog:121
 msgid "View the Skills/Program menu by pressing the S key."
-msgstr ""
+msgstr "Affichez le menu des compétences et programmes avec la touche S."
 
 #: TutorialTom.dialog:126
-#, fuzzy
 msgid "I'm sensing some sort of strange presence in the vicinity."
-msgstr "Je sens une présence étrange proche."
+msgstr "Je sens une présence étrange pas très loin."
 
 #: TutorialTom.dialog:128
 msgid "Ah, yes."
@@ -189,16 +182,18 @@ msgid "Linarians seem to [b]detect items[/b] - even through walls - in an augmen
 msgstr "Les Linariens ont la compétence de [b]détecter les objets[/b] - même a travers les murs - dans une réalité augmentée."
 
 #: TutorialTom.dialog:130
+#, fuzzy
 msgid "The [b]Z key[/b] will toggles this augmentation, while the [b]X key[/b] momentarily flashes it."
-msgstr ""
+msgstr "La [b]touche Z[/b] active ou désactive cette augmentation, et la [b]touche X[/b] permet de l'affiche momentanément."
 
 #: TutorialTom.dialog:131
 msgid "Moving your pointer over an item will tell you more about that item."
 msgstr "Déplacer votre curseur sur un objet vous donnera plus d'informations le concernant."
 
 #: TutorialTom.dialog:132
+#, fuzzy
 msgid "On our way to the next stopping point, we'll pass some items on the floor."
-msgstr ""
+msgstr "Pour continuer, nous allons s'occuper de quelques objets au sol."
 
 #: TutorialTom.dialog:133
 msgid "Feel free to stop and examine them to get practice."
@@ -209,8 +204,9 @@ msgid "[b]Left clicking[/b] on an item will pick it up and put it in your invent
 msgstr "Un [b]Clic gauche[/b] sur un objet vous fera le prendre et le mettre dans votre inventaire - affiché par la [b]touche I[/b], où vous pourrez l'examiner plus en détail."
 
 #: TutorialTom.dialog:135
+#, fuzzy
 msgid "Toggle detect items by pressing the Z key, and press X to flash the ability.  To pick up an item, left click on it. To view an item you've picked up, open the inventory by pressing I."
-msgstr ""
+msgstr "(Dés)active la détection des objets avec la touche Z, ou vois les en un flash avec la touche X. Pour prendre un objet, clique dessus. Pour voir les objets que tu as pris, ouvre ton inventaire avec la touche I."
 
 #: TutorialTom.dialog:141
 #, fuzzy
@@ -223,12 +219,11 @@ msgstr "Merci, c'était très intéressant. Pouvons nous continuer maintenant ?"
 
 #: TutorialTom.dialog:150
 msgid "I just closed your first quest. You can still see what you learned by clicking on the 'done quests' tab in the quest screen."
-msgstr ""
+msgstr "J'ai terminé ta première quête. Tu peux toujours revoir ce que tu as appris en cliquant sur \"Quêtes terminées\" dans l'écran des quêtes."
 
 #: TutorialTom.dialog:155
-#, fuzzy
 msgid "I'm eager to learn more."
-msgstr " Je dois y aller maintenant."
+msgstr "Je veux en apprendre plus."
 
 #: TutorialTom.dialog:157
 msgid "Ok, follow me into the next area."
@@ -249,25 +244,27 @@ msgstr "Fait un clic gauche sur le coffre pour l'ouvrir et voir ce qu'il contien
 #: TutorialTom.dialog:173 TutorialTom.dialog:262 TutorialTom.dialog:317
 #: TutorialTom.dialog:332 TutorialTom.dialog:357 TutorialTom.dialog:426
 #: TutorialTom.dialog:427
+#, fuzzy
 msgid "Tutorial Melee"
-msgstr ""
+msgstr "Tutorial de mêlée"
 
 #: TutorialTom.dialog:173
 msgid "I'm supposed to left click on chests to open them up."
-msgstr ""
+msgstr "Je dois faire un clic gauche sur les coffres pour les ouvrir."
 
 #: TutorialTom.dialog:179
-#, fuzzy
 msgid "Some items came out."
 msgstr "Quelques objets en sont sortis."
 
 #: TutorialTom.dialog:181
+#, fuzzy
 msgid "Well, you've discovered a great secret: chests sometimes contain items."
-msgstr ""
+msgstr "Eh bien tu as découvert quelque chose de génial: les coffres contiennent parfois des objets."
 
 #: TutorialTom.dialog:182
+#, fuzzy
 msgid "We humans have a fascination with hiding our treasures. What comprises a treasure means different things to different people."
-msgstr ""
+msgstr "Nous, les humains, voulons vraiment cacher nos trésors. Ce qu'est un trésor dépends selon les personnes."
 
 #: TutorialTom.dialog:183
 #, fuzzy
@@ -288,8 +285,9 @@ msgid "Perhaps the best thing you can find, though, is armor. At least, given th
 msgstr ""
 
 #: TutorialTom.dialog:191
+#, fuzzy
 msgid "Armor? I should know more about this."
-msgstr ""
+msgstr "Armure? Je veux en savoir plus."
 
 #: TutorialTom.dialog:193
 msgid "In the years since you entered stasis, mankind has done much research in the field of robotics."
@@ -334,8 +332,9 @@ msgid "They will help to mitigate some of the damage you take from melee or rang
 msgstr "Elles vous aideront à contrer une partie des dégats que vous receverez des attaques en mêlée ou en combat à distance."
 
 #: TutorialTom.dialog:209
+#, fuzzy
 msgid "Keep in mind, though, that there is a chance that your armor will take damage whenever you get hit. Keep an eye on it, or you'll lose it."
-msgstr ""
+msgstr "Garde à l'esprit par contre que les attaques peuvent parfois endommager l'armure. Garde donc un oeuil dessus ou tu risques de la perdre."
 
 #: TutorialTom.dialog:214
 #, fuzzy
@@ -345,11 +344,11 @@ msgstr "Ca à l'air très utile. Comment est ce que j'utilise une armure ?"
 #: TutorialTom.dialog:216
 #, fuzzy
 msgid "Well, let me start by saying that there are four classes of armor: headgear, shoes, body armor, and shields."
-msgstr "Bien, laisse moi commencer en epxliquant qu'il y a 4 classes d'armures. Les gants, les chaussures, les armures de torse, et les boucliers."
+msgstr "Bien, laisse moi commencer en expliquant qu'il y a 4 classes d'armures. Les gants, les chaussures, les armures de torse, et les boucliers."
 
 #: TutorialTom.dialog:217
 msgid "When you pick up a piece of armor of a particular class, and you don't already have one equipped, you will automatically equip it if you can."
-msgstr ""
+msgstr "Quand tu ramasses une pièce d'armure d'une certaine classe et que tu n'en a pas déjà une équipée, elle sera automatiquement équipée si possible."
 
 #: TutorialTom.dialog:218
 msgid "Picking up armor and items can be accomplished by [b]left clicking[/b] on the item. If your inventory has space, you will pick the item up."
@@ -357,15 +356,16 @@ msgstr "Ramasser des armures et objets peut être fait par un [b]clic gauche[/b]
 
 #: TutorialTom.dialog:219
 msgid "If you currently have one piece of armor equipped that you would like to swap out for another, simply drag the new armor piece to the current armor piece and left click."
-msgstr ""
+msgstr "Si tu as déjà une pièce d'armure d'équipée que tu voudrais échanger pour une autre, glisse simplement la nouvelle armure sur celle qui est déjà activée et fait un clic gauche."
 
 #: TutorialTom.dialog:220
 msgid "They will swap places, and you can put the other piece of armor back into your inventory."
-msgstr ""
+msgstr "Elles échangeront leur places, et tu peux ensuite remettre l'autre dans ton inventaire."
 
 #: TutorialTom.dialog:221
+#, fuzzy
 msgid "Alternatively, you can drag it into your field of view and drop it on the ground."
-msgstr ""
+msgstr "Tu peux aussi la glisser sur le terrain et elle sera lâchée sur le sol."
 
 #: TutorialTom.dialog:226
 #, fuzzy
@@ -388,11 +388,11 @@ msgstr "Cependant, si votre accuité visuelle est seulement SDL, et pas OpenGL, 
 #: TutorialTom.dialog:231
 #, fuzzy
 msgid "If you don't unequip an item in poor or critical condition it may be ruined!"
-msgstr "Si tu ne déséquippe pas un objet en mauvaise condition, il pourrait se retrouver ruiné !"
+msgstr "Si tu ne déséquipe pas un objet en mauvaise condition, il pourrait se retrouver ruiné !"
 
 #: TutorialTom.dialog:232
 msgid "There are three things you can do when an item reaches critical condition:"
-msgstr ""
+msgstr "Il y a trois options quand un objet atteint une condition critique:"
 
 #: TutorialTom.dialog:233
 msgid "First, you can sell or discard the item."
@@ -419,11 +419,12 @@ msgstr "Hé bien, il peut y avoir plusieurs raisons."
 
 #: TutorialTom.dialog:243
 msgid "You might not have enough room in your inventory for an item you need more, or can sell for more."
-msgstr ""
+msgstr "Tu pourrais ne plus avoir assez de place dans ton inventaire pour un objet dont tu as plus besoin, ou que tu peux vendre plus cher."
 
 #: TutorialTom.dialog:244
+#, fuzzy
 msgid "If an item is close to being destroyed, you might also consider dropping it."
-msgstr ""
+msgstr "Si un objet va bientôt être détruit, tu devrais peut-être le jeter. "
 
 #: TutorialTom.dialog:245
 #, fuzzy
