@@ -11,8 +11,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:32+0000\n"
+"Language: fr\n"
 "X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
@@ -202,8 +202,9 @@ msgid "A close combat master with this weapon in his hands is a pure whirling de
 msgstr "Un maître en combat rapproché, avec cette arme en main, est un derviche tourneur mortel. Elle fonctionne avec des cristaux lasers comme charge."
 
 #: freedroid.item_archetypes:1032
+#, fuzzy
 msgid "Nobody's edge"
-msgstr ""
+msgstr "Le bord de personne"
 
 #: freedroid.item_archetypes:1045
 msgid "This blade pulses with evil. That power. That energy. Nothing can stop you now."
@@ -218,13 +219,14 @@ msgid "I murdered the only person within a thousand miles who can heal me, and a
 msgstr "J'ai tué la seule personne qui pouvait me soigner à mille kilomètres à la ronde, et tout ce que j'ai eu est ce minable scalpel."
 
 #: freedroid.item_archetypes:1102
+#, fuzzy
 msgid "Shock knife"
-msgstr ""
+msgstr "Couteau à impulsions"
 
-#: freedroid.item_archetypes:1115
-#: freedroid.item_archetypes:1150
+#: freedroid.item_archetypes:1115 freedroid.item_archetypes:1150
+#, fuzzy
 msgid "FIXME and all values"
-msgstr ""
+msgstr "REPAREZ MOI"
 
 #: freedroid.item_archetypes:1137
 msgid "Energy whip"
@@ -259,8 +261,9 @@ msgid "Shotgun shells"
 msgstr "Cartouches de fusil à pompe"
 
 #: freedroid.item_archetypes:1309
+#, fuzzy
 msgid "While solid slugs, or possibly 8-10 Gauge shells, would be the most effective versus armored targets, beggars can't be choosers. One just has to use any type of shell one is lucky enough to stumble across. And even 20+ Gauge cartridges mostly used for bird hunting can, with luck, damage a bot."
-msgstr ""
+msgstr "Alors que des bouts solides, ou des cartouches 8 ou 10 (gauges) seraient les meilleures contre des cibles avec une armure, on ne choisit pas toujours. La plus part des gens doit utiliser le premier type de cartouche qu'il trouve. Et même les cartouches de plus de 20 (gauges) - surtout utilisées pour la chasse aux oiseaux - peuvent avec de la chance endommager un robot."
 
 #: freedroid.item_archetypes:1318
 msgid "Two Barrel sawn off shotgun"
@@ -495,30 +498,21 @@ msgstr "Usage robotique seulement."
 msgid "Droid 123 Weak Robotic Arm"
 msgstr "Armement droïde - 123 : Faible bras robotique"
 
-#: freedroid.item_archetypes:2230
-#: freedroid.item_archetypes:2263
-#: freedroid.item_archetypes:2298
-#: freedroid.item_archetypes:2331
-#: freedroid.item_archetypes:2366
-#: freedroid.item_archetypes:2401
-#: freedroid.item_archetypes:2436
-#: freedroid.item_archetypes:2471
-#: freedroid.item_archetypes:2504
-#: freedroid.item_archetypes:2539
-#: freedroid.item_archetypes:2574
-#: freedroid.item_archetypes:2609
-#: freedroid.item_archetypes:2644
-#: freedroid.item_archetypes:2679
-#: freedroid.item_archetypes:2713
-#: freedroid.item_archetypes:2750
+#: freedroid.item_archetypes:2230 freedroid.item_archetypes:2263
+#: freedroid.item_archetypes:2298 freedroid.item_archetypes:2331
+#: freedroid.item_archetypes:2366 freedroid.item_archetypes:2401
+#: freedroid.item_archetypes:2436 freedroid.item_archetypes:2471
+#: freedroid.item_archetypes:2504 freedroid.item_archetypes:2539
+#: freedroid.item_archetypes:2574 freedroid.item_archetypes:2609
+#: freedroid.item_archetypes:2644 freedroid.item_archetypes:2679
+#: freedroid.item_archetypes:2713 freedroid.item_archetypes:2750
 #: freedroid.item_archetypes:2785
 msgid "Droid weaponry"
 msgstr "Armement droïde."
 
 #: freedroid.item_archetypes:2252
-#, fuzzy
 msgid "Droid 139 Plasma Trash Vaporiser"
-msgstr "Armement droïde - 139 : Compresseur d'ordures au plasma surchargé"
+msgstr "Armement droide - 139 Vaporiseur d'ordures à Plasma"
 
 #: freedroid.item_archetypes:2285
 msgid "Droid 247 Robotic Arm"
@@ -545,30 +539,30 @@ msgid "Droid 420 Laser Scalpel"
 msgstr "Armement droïde - 420 : Scalpel laser"
 
 #: freedroid.item_archetypes:2493
-#, fuzzy
 msgid "Droid 476 Small Laser"
-msgstr "Armement droïde - 476 ( un simple petit laser)"
+msgstr "Armement droïde - 476 Petit Laser"
 
 #: freedroid.item_archetypes:2526
 #, fuzzy
 msgid "Droid 493 Power Hammer"
-msgstr "Marteau"
+msgstr "Armement droïde - 493 Puissant Marteau"
 
 #: freedroid.item_archetypes:2561
 msgid "Droid 516 Robotic Fist"
-msgstr ""
+msgstr "Armement droïde 516 - Poing robotique"
 
 #: freedroid.item_archetypes:2596
+#, fuzzy
 msgid "Droid 543 Tree Harvester"
-msgstr ""
+msgstr "Armement droïde 543 - Récolteur de bois"
 
 #: freedroid.item_archetypes:2631
 msgid "Droid 571 Robotic Fist"
-msgstr ""
+msgstr "Armement droïde 571 - Poing robotique"
 
 #: freedroid.item_archetypes:2666
 msgid "Droid 598 Robotic Fist"
-msgstr ""
+msgstr "Armement droïde 598 - Poing robotique"
 
 #: freedroid.item_archetypes:2702
 msgid "Droid 7xx Tux Seeking Missiles"
@@ -803,8 +797,7 @@ msgstr "Ce n'est souvent pas un problème de faire un système mal conçu, pour 
 msgid "Source Book of Blue Screen"
 msgstr "Livre Source de l'Ecran Bleu"
 
-#: freedroid.item_archetypes:3375
-#: freedroid.item_archetypes:3391
+#: freedroid.item_archetypes:3375 freedroid.item_archetypes:3391
 msgid "With a little touch a war machine comes crashing to a halt. For a while."
 msgstr "Avec la bonne précision, un contact bien placé peut arrêter une machine de guerre. Pendant quelques temps."
 
@@ -933,13 +926,13 @@ msgid "These pills can reverse the harmful effects of the 'brain enlargement pil
 msgstr "Ces pilules peuvent contrecarrer les effets douloureux des  « pilules d'augmentation cérébrales » , vendues au public sur internet. La guilde mondiale pharmaceutique a recommandé de ne pas réagir à ces publicités, alors que les tentatives pour éradiquer la distribution de ces pilules n'ont pas rencontré de succès total."
 
 #: freedroid.item_archetypes:3638
-#, fuzzy
 msgid "Brain Enlargement Pill"
-msgstr "Antidote des pilules d'augmentation du volume cérébral"
+msgstr "Pilules d'augmentation du volume cérébral"
 
 #: freedroid.item_archetypes:3647
+#, fuzzy
 msgid "Doctors all over the planet have tried to suppress the amazing breakthrough which has brought increased altertness and concentration that comes with a larger brain. They are synthesized using cutting edge technology and 100% natual herbal ingreedients from a secret five thousand-year-old traditional holistic recipe.  Get yours direct from our online Canadian ph4rm4cy!!! 100% satisfaction guaranteed!!!"
-msgstr ""
+msgstr "Les docteurs du monde entier ont essayé de <supress> cette découverte majeure qui a amené une concentration supplémentaire qui vient avec un plus gros cerveau. Elles sont synthétisées en utilisant une technologie de pointe et 100% d'ingrédient naturels végétaux d'une recette traditionnelle <holistic> vielle de cinq mille ans. Commandez la votre directement depuis notre ph4rm4cy canadienne!!! 100% de satisfaction garantie!!!!"
 
 #: freedroid.item_archetypes:3651
 msgid "Diet supplement"
@@ -1049,10 +1042,8 @@ msgstr "C'est une boîte à outil pour téléporteur. Elle est complète et en o
 msgid "Entropy Inverter"
 msgstr "Inverseur d'Entropie"
 
-#: freedroid.item_archetypes:3860
-#: freedroid.item_archetypes:3873
-#: freedroid.item_archetypes:3886
-#: freedroid.item_archetypes:3899
+#: freedroid.item_archetypes:3860 freedroid.item_archetypes:3873
+#: freedroid.item_archetypes:3886 freedroid.item_archetypes:3899
 #: freedroid.item_archetypes:3912
 msgid "This is an standard part within many robot types."
 msgstr "C'est une pièce standard pour un grand nombre de modèles de robots."
@@ -1109,10 +1100,8 @@ msgstr "On voit mieux dans le noir."
 msgid "Fork"
 msgstr "Fourchette"
 
-#: freedroid.item_archetypes:3981
-#: freedroid.item_archetypes:3996
-#: freedroid.item_archetypes:4009
-#: freedroid.item_archetypes:4022
+#: freedroid.item_archetypes:3981 freedroid.item_archetypes:3996
+#: freedroid.item_archetypes:4009 freedroid.item_archetypes:4022
 msgid "This item is part of the 'Self Cleaning Kitchen' (SCK) project from before the Great Assault. All of the items in the SCK project have an inner mechanism that will clean the object automatically if left alone for a given time. It comes with its own power supply, and has a supposed duration of 200 years."
 msgstr "Une partie du projet de « Cuisine Auto-Nettoyante » (CAN) de l'époqueantérieure au Grand Assaut. Tous les objets de CAN ont un mécanisme interne autonettoyant lorsque laissés l'abandon pendant un temps donné. Il est fourni avec une alimentation interne dont la durée prévue de fonctionnement est de 200 ans."
 
@@ -1120,8 +1109,7 @@ msgstr "Une partie du projet de « Cuisine Auto-Nettoyante » (CAN) de l'époque
 msgid "Plate"
 msgstr "Assiette"
 
-#: freedroid.item_archetypes:4000
-#: freedroid.item_archetypes:4013
+#: freedroid.item_archetypes:4000 freedroid.item_archetypes:4013
 msgid "Mug"
 msgstr "Goblet"
 
@@ -1155,8 +1143,9 @@ msgid "Linarian power crank"
 msgstr "Pack d'énergie pour laser"
 
 #: freedroid.item_archetypes:4086
+#, fuzzy
 msgid "This mechanical crank pumps up your muscles."
-msgstr ""
+msgstr "Ces manivelles mécaniques donnent plus de tonus à vos muscles. "
 
 #: freedroid.item_archetypes:4090
 msgid "Tungsten Spikes"
@@ -1164,15 +1153,17 @@ msgstr "Pics en Tungsten"
 
 #: freedroid.item_archetypes:4099
 msgid "These spikes offer a simple and affordable solution to increasing the damage you can cause with your melee weapon."
-msgstr ""
+msgstr "Ces simples pics sont une solution bon marché pour augmenter les dégâts que vous pouvez faire avec une arme de mêlée."
 
 #: freedroid.item_archetypes:4103
+#, fuzzy
 msgid "Tinfoil Patch"
-msgstr ""
+msgstr "Patch de feuille d'étain"
 
 #: freedroid.item_archetypes:4112
+#, fuzzy
 msgid "When attached to your armor, this patch of tinfoil allows you to stay cooler by reducing the amount of electromagnetic radiation that your body absorbs."
-msgstr ""
+msgstr "Lorsque attaché à votre armure, ce patch de feuille de <???> vous aide a rester froid en réduisant les radiations électromagnétiques absorbées par votre corps."
 
 #: freedroid.item_archetypes:4116
 msgid "Laser sight"
@@ -1183,12 +1174,14 @@ msgid "A miniaturised laser powered by a nuclear battery. When attached parallel
 msgstr "Un laser miniature alimenté par une batterie nucléaire. Quand attaché à côté du canon d'une arme, il envoie un petit point rouge sur la ciible, aidant à mieux viser."
 
 #: freedroid.item_archetypes:4131
+#, fuzzy
 msgid "Exoskeletal Joint"
-msgstr ""
+msgstr "Joint d'exosquelette"
 
 #: freedroid.item_archetypes:4140
+#, fuzzy
 msgid "This electromechanical joint helps you to perform physically demanding tasks more easily by amplifying the movements of your body."
-msgstr ""
+msgstr "Ce joint electro-mécanique vous aide à accomplir des tâches très difficiles en amplifiant les mouvements de votre corps."
 
 #: freedroid.item_archetypes:4144
 msgid "Heatsink"
@@ -1253,7 +1246,7 @@ msgstr "Podomètre"
 
 #: freedroid.item_archetypes:4244
 msgid "This device helps you to move dexterously by giving feedback on your movements."
-msgstr ""
+msgstr "Ce périphérique vous aide à bouger plus agilement en vous donnant des informations sur vos mouvements."
 
 #: freedroid.item_archetypes:4248
 msgid "Foot Warmer"
@@ -1262,7 +1255,7 @@ msgstr ""
 #: freedroid.item_archetypes:4257
 #, fuzzy
 msgid "This item helps you to be more comfortable in your shoes."
-msgstr "Cet object rends vos chaussures plus confortables."
+msgstr "Cet objet rends vos chaussures plus confortables."
 
 #: freedroid.item_archetypes:4261
 msgid "Circuit Jammer"
@@ -1274,7 +1267,7 @@ msgstr "Cet objet améliore votre arme de mêlée en envoyant des rafales élect
 
 #: freedroid.item_archetypes:4274
 msgid "Sensor Disruptor"
-msgstr ""
+msgstr "Brouilleur de senseurs"
 
 #: freedroid.item_archetypes:4283
 msgid "When attached to a melee weapon, this item induces errors to the sensors of the bots you attack, causing them to slow down momentarily."
@@ -1313,22 +1306,15 @@ msgstr "Lorsque attaché à une arme de mêlée, cet objet induis des erreurs da
 #~ msgid "Identification Script"
 #~ msgstr "Script d'identification"
 
-#~ msgid ""
-#~ "Point and click. Point and know anything. Point, and I will show you the "
-#~ "correct path. Point, and I will be there. Point, and I will protect you."
-#~ msgstr ""
-#~ "Pointe et clique. Pointe et apprend tout. Pointe, et je te montrerai le "
-#~ "bon chemin. Pointe, et je serai là. Pointe, et je te protégerai."
+#~ msgid "Point and click. Point and know anything. Point, and I will show you the correct path. Point, and I will be there. Point, and I will protect you."
+#~ msgstr "Pointe et clique. Pointe et apprend tout. Pointe, et je te montrerai le bon chemin. Pointe, et je serai là. Pointe, et je te protégerai."
 
-#, fuzzy
 #~ msgid "Slasher Mountains"
 #~ msgstr "Conteneur d'énergie plasma"
 
-#, fuzzy
 #~ msgid "Terminal Field"
 #~ msgstr "Petit bouclier"
 
-#, fuzzy
 #~ msgid "Master Arena"
 #~ msgstr "Grenade au gaz"
 
@@ -1341,11 +1327,9 @@ msgstr "Lorsque attaché à une arme de mêlée, cet objet induis des erreurs da
 #~ msgid " coated in teflon"
 #~ msgstr " recouvert(e) de téflon"
 
-#, fuzzy
 #~ msgid " of Almost Zodiac"
 #~ msgstr " du Près du Zodiaque"
 
-#, fuzzy
 #~ msgid "Resonant "
 #~ msgstr "Résonant "
 
@@ -1358,11 +1342,9 @@ msgstr "Lorsque attaché à une arme de mêlée, cet objet induis des erreurs da
 #~ msgid "Mouse "
 #~ msgstr "Souris "
 
-#, fuzzy
 #~ msgid "Jackdaw "
 #~ msgstr "Choucas "
 
-#, fuzzy
 #~ msgid "Hardcoded "
 #~ msgstr "Codé en dur "
 
@@ -1390,14 +1372,12 @@ msgstr "Lorsque attaché à une arme de mêlée, cet objet induis des erreurs da
 #~ msgid "Beautiful "
 #~ msgstr "Superbe "
 
-#, fuzzy
 #~ msgid "Howling "
 #~ msgstr "Hurlement "
 
 #~ msgid "Accelerating "
 #~ msgstr "Accélération "
 
-#, fuzzy
 #~ msgid "Colorful "
 #~ msgstr "Coloré(e) "
 
@@ -1407,7 +1387,6 @@ msgstr "Lorsque attaché à une arme de mêlée, cet objet induis des erreurs da
 #~ msgid "Suicide "
 #~ msgstr "Suicide "
 
-#, fuzzy
 #~ msgid "Broken "
 #~ msgstr "Cassé(e) "
 
@@ -1426,14 +1405,12 @@ msgstr "Lorsque attaché à une arme de mêlée, cet objet induis des erreurs da
 #~ msgid "Devouring "
 #~ msgstr "Dévorant(e) "
 
-#, fuzzy
 #~ msgid "Ravenous "
 #~ msgstr "Vorace "
 
 #~ msgid "OMGWTF "
 #~ msgstr "OMGWTF "
 
-#, fuzzy
 #~ msgid " of good design"
 #~ msgstr " de bonne conception"
 
@@ -1479,45 +1456,26 @@ msgstr "Lorsque attaché à une arme de mêlée, cet objet induis des erreurs da
 #~ msgid "Cool "
 #~ msgstr "Cool "
 
-#, fuzzy
 #~ msgid "Frozen "
 #~ msgstr "Gelé(e) "
 
 #~ msgid " of ice"
 #~ msgstr " de glace"
 
-#, fuzzy
 #~ msgid " of chills"
 #~ msgstr " des frissons de froid"
 
 #~ msgid "Great sword"
 #~ msgstr "Epée longue"
 
-#, fuzzy
-#~ msgid ""
-#~ "The size and kinetic force achievable with this 2 handed sword is enough "
-#~ "to cleave straight through the armor of a low level droid. The strain on "
-#~ "the sword from high impact hits into metal will however require frequent "
-#~ "maintenance to keep it from breaking in half exactly when it's most "
-#~ "needed."
-#~ msgstr ""
-#~ "La taille et l'énergie cinétique qui sont permises par cette épée à deux "
-#~ "mains est suffisante pour une franche entaille dans l'armure d'un droïde "
-#~ "de bas niveau. L'effort subit par l'épée, à cause des impacts violents "
-#~ "sur du métal, peut néanmoins nécessiter une maintenance régulière, pour "
-#~ "que l'épée ne se brise pas en deux exactement au moment où vous en avez "
-#~ "le plus besoin."
+#~ msgid "The size and kinetic force achievable with this 2 handed sword is enough to cleave straight through the armor of a low level droid. The strain on the sword from high impact hits into metal will however require frequent maintenance to keep it from breaking in half exactly when it's most needed."
+#~ msgstr "La taille et l'énergie cinétique qui sont permises par cette épée à deux mains est suffisante pour une franche entaille dans l'armure d'un droïde de bas niveau. L'effort subit par l'épée, à cause des impacts violents sur du métal, peut néanmoins nécessiter une maintenance régulière, pour que l'épée ne se brise pas en deux exactement au moment où vous en avez le plus besoin."
 
 #~ msgid "Droid weaponry - 711,742 (Disruptor Class Alpha)"
 #~ msgstr "Armement droïde - 711, 742 (Disrupteur de classe alpha)"
 
-#, fuzzy
-#~ msgid ""
-#~ " This weapons name speaks for itself-more of a brute force weapon than "
-#~ "most, it is best used on well-defended enemies."
-#~ msgstr ""
-#~ " Le nom de cette arme lui suggère une puissance plus grande que la "
-#~ "normale, elle est mieux employée sur les défenses ennemies."
+#~ msgid " This weapons name speaks for itself-more of a brute force weapon than most, it is best used on well-defended enemies."
+#~ msgstr " Le nom de cette arme lui suggère une puissance plus grande que la normale, elle est mieux employée sur les défenses ennemies."
 
 #~ msgid "Cap"
 #~ msgstr "Casquette"
@@ -1540,13 +1498,8 @@ msgstr "Lorsque attaché à une arme de mêlée, cet objet induis des erreurs da
 #~ msgid "Light Boots"
 #~ msgstr "Bottes en caoutchouc"
 
-#~ msgid ""
-#~ "These boots are a bit lighter than the normal version, giving of course "
-#~ "worse protection but certainly extra comfort for the wearer."
-#~ msgstr ""
-#~ "Ces bottes sont un peu plus légères que la version normale, ne dégradant "
-#~ "pas la protection originale, mais augmentant certainement le confort pour "
-#~ "celui qui les porte."
+#~ msgid "These boots are a bit lighter than the normal version, giving of course worse protection but certainly extra comfort for the wearer."
+#~ msgstr "Ces bottes sont un peu plus légères que la version normale, ne dégradant pas la protection originale, mais augmentant certainement le confort pour celui qui les porte."
 
 #~ msgid "Boots"
 #~ msgstr "Bottes"
@@ -1557,15 +1510,10 @@ msgstr "Lorsque attaché à une arme de mêlée, cet objet induis des erreurs da
 #~ msgid "Hacking"
 #~ msgstr "Piratage"
 
-#, fuzzy
-#~ msgid ""
-#~ "Tux is gifted with the ability to hack any machine in no time. With this "
-#~ "program selected and activated by pressing down the right mouse button "
-#~ "over a hostile machine, the takeover process will be initiated."
+#~ msgid "Tux is gifted with the ability to hack any machine in no time. With this program selected and activated by pressing down the right mouse button over a hostile machine, the takeover process will be initiated."
 #~ msgstr ""
 #~ "Type: Cible\n"
-#~ "Tux est capable de pirater une machine en un rien de temps. Pour utiliser "
-#~ "cette faculté, c'est bon ca marceh."
+#~ "Tux est capable de pirater une machine en un rien de temps. Pour utiliser cette faculté, c'est bon ca marceh."
 
 #~ msgid "Repair equipment"
 #~ msgstr "Réparer l'équipement"
@@ -1582,16 +1530,11 @@ msgstr "Lorsque attaché à une arme de mêlée, cet objet induis des erreurs da
 #~ msgid "Sanctuary"
 #~ msgstr "Sanctuaire"
 
-#, fuzzy
 #~ msgid ""
 #~ "Effect: Teleport to town or back \n"
-#~ "The art of rapidly moving away from danger is very useful. Even when used "
-#~ "in reverse it has it's uses."
-#~ msgstr ""
-#~ "L'art de fuir rapidement face au danger est très utile. Ce programme sert "
-#~ "même en sens inverse."
+#~ "The art of rapidly moving away from danger is very useful. Even when used in reverse it has it's uses."
+#~ msgstr "L'art de fuir rapidement face au danger est très utile. Ce programme sert même en sens inverse."
 
-#, fuzzy
 #~ msgid "Analyze item"
 #~ msgstr "Analyser l'objet"
 
@@ -1601,9 +1544,7 @@ msgstr "Lorsque attaché à une arme de mêlée, cet objet induis des erreurs da
 #~ msgid "Malformed packet"
 #~ msgstr "Paquet malformé"
 
-#~ msgid ""
-#~ "When computers are presented with the unexpected they can damage "
-#~ "themselves."
+#~ msgid "When computers are presented with the unexpected they can damage themselves."
 #~ msgstr "Présenter de l'inattendu aux ordinateurs peut les endommager."
 
 #~ msgid "Calculate Pi"
@@ -1612,75 +1553,41 @@ msgstr "Lorsque attaché à une arme de mêlée, cet objet induis des erreurs da
 #~ msgid "Blue Screen"
 #~ msgstr "Écran bleu"
 
-#, fuzzy
-#~ msgid ""
-#~ "With a little touch a war machine comes crashing down to a halt. For a "
-#~ "while."
-#~ msgstr ""
-#~ "Une machine de guerre peut crasher jusqu'à l'arrêt avec une simple "
-#~ "pichenette."
+#~ msgid "With a little touch a war machine comes crashing down to a halt. For a while."
+#~ msgstr "Une machine de guerre peut crasher jusqu'à l'arrêt avec une simple pichenette."
 
-#, fuzzy
 #~ msgid "Broadcast Blue Screen"
 #~ msgstr "Emettre un écran bleu"
 
-#, fuzzy
-#~ msgid ""
-#~ "With a little touch a war machine comes crashing down to a halt. For a "
-#~ "while. The radio network is a wonderful invention for the people who like "
-#~ "to blow up a lot of stuff at once."
-#~ msgstr ""
-#~ "Une machine de guerre peut crasher jusqu'à l'arrêt avec une simple "
-#~ "pichenette."
+#~ msgid "With a little touch a war machine comes crashing down to a halt. For a while. The radio network is a wonderful invention for the people who like to blow up a lot of stuff at once."
+#~ msgstr "Une machine de guerre peut crasher jusqu'à l'arrêt avec une simple pichenette."
 
 #~ msgid "Virus"
 #~ msgstr "Virus"
 
-#, fuzzy
 #~ msgid "Broadcast virus"
 #~ msgstr "Emettre un virus"
 
-#~ msgid ""
-#~ "The network is wide and dangerous. Many traps await for the weak and "
-#~ "unprepared."
-#~ msgstr ""
-#~ "Le réseau est large et dangereux. Beaucoup de pièges attendent les "
-#~ "faibles et les gens non préparés."
+#~ msgid "The network is wide and dangerous. Many traps await for the weak and unprepared."
+#~ msgstr "Le réseau est large et dangereux. Beaucoup de pièges attendent les faibles et les gens non préparés."
 
 #~ msgid "Dispel smoke"
 #~ msgstr "Dissiper la fumée"
 
-#, fuzzy
-#~ msgid ""
-#~ "By heating up the chips with a malformed program you can cause them to "
-#~ "release the magic smoke which keeps the bot running. "
-#~ msgstr ""
-#~ "En surchauffant la puce avec un mauvais programme, vous pouvez provoquer "
-#~ "l'émission d'une fumée magique qui gardera le robot en fonctionnement."
+#~ msgid "By heating up the chips with a malformed program you can cause them to release the magic smoke which keeps the bot running. "
+#~ msgstr "En surchauffant la puce avec un mauvais programme, vous pouvez provoquer l'émission d'une fumée magique qui gardera le robot en fonctionnement."
 
 #~ msgid "Killer poke"
 #~ msgstr "Coup fatal"
 
-#, fuzzy
-#~ msgid ""
-#~ "Messing around with the bot's memory can cause it to severly damage "
-#~ "itself, but the damage is greatly variable."
-#~ msgstr ""
-#~ "Mettre en pagaille la mémoire d'un robot peut lui faire causer des "
-#~ "dommages à lui-même, mais l'importance des dommages est grandement "
-#~ "variable."
+#~ msgid "Messing around with the bot's memory can cause it to severly damage itself, but the damage is greatly variable."
+#~ msgstr "Mettre en pagaille la mémoire d'un robot peut lui faire causer des dommages à lui-même, mais l'importance des dommages est grandement variable."
 
 #~ msgid "Plasma discharge"
 #~ msgstr "Décharge de plasma"
 
-#, fuzzy
-#~ msgid ""
-#~ "The overload setting exists for emergencies. The plasma does not "
-#~ "discriminate between bots and humans. Everything is equal to it, even Tux."
-#~ msgstr ""
-#~ "La configuration de la surcharge existe pour les cas d'urgence. Le plasma "
-#~ "ne fait pas de différence entre les robots et les humains. Ils sont tous "
-#~ "égaux devant lui."
+#~ msgid "The overload setting exists for emergencies. The plasma does not discriminate between bots and humans. Everything is equal to it, even Tux."
+#~ msgstr "La configuration de la surcharge existe pour les cas d'urgence. Le plasma ne fait pas de différence entre les robots et les humains. Ils sont tous égaux devant lui."
 
 #~ msgid "Nethack"
 #~ msgstr "Nethack"
@@ -1691,57 +1598,32 @@ msgstr "Lorsque attaché à une arme de mêlée, cet objet induis des erreurs da
 #~ msgid "Reverse-engineer"
 #~ msgstr "Rétroingénierie"
 
-#, fuzzy
-#~ msgid ""
-#~ "There is some dark magic in the art of turning devices or programs inside-"
-#~ "out, picking them appart to learn all their secrets and putting them back "
-#~ "again."
-#~ msgstr ""
-#~ "Il y a quelque magie noire dans la façon d'ouvrir et d'examiner "
-#~ "l'intérieur des robots pour apprendre leurs secrets."
+#~ msgid "There is some dark magic in the art of turning devices or programs inside-out, picking them appart to learn all their secrets and putting them back again."
+#~ msgstr "Il y a quelque magie noire dans la façon d'ouvrir et d'examiner l'intérieur des robots pour apprendre leurs secrets."
 
 #~ msgid "Ricer CFLAGS"
 #~ msgstr "Meilleurs CFLAGS"
 
-#, fuzzy
-#~ msgid ""
-#~ "Optimization is the root of all evil. You can gain some temporary speed "
-#~ "improvements to your system, but in the end you will likely overheat and "
-#~ "cause permanent damage if you are not careful."
-#~ msgstr ""
-#~ "L'optimisation est la racine du mal. Tu peux avoir quelques améliorations "
-#~ "dans ton système pendant un temps, mais à la fin, il est plus probable "
-#~ "que cela cause des dommages permanents."
+#~ msgid "Optimization is the root of all evil. You can gain some temporary speed improvements to your system, but in the end you will likely overheat and cause permanent damage if you are not careful."
+#~ msgstr "L'optimisation est la racine du mal. Tu peux avoir quelques améliorations dans ton système pendant un temps, mais à la fin, il est plus probable que cela cause des dommages permanents."
 
 #~ msgid "Light"
 #~ msgstr "Lumière"
 
-#~ msgid ""
-#~ "This does nothing in this version of freedroidRPG. Let there be light..."
-#~ msgstr ""
-#~ "Ceci n'a pas d'effets dans cette version de freedroidRPG. Que la lumière "
-#~ "soit."
+#~ msgid "This does nothing in this version of freedroidRPG. Let there be light..."
+#~ msgstr "Ceci n'a pas d'effets dans cette version de freedroidRPG. Que la lumière soit."
 
 #~ msgid "Satellite image"
 #~ msgstr "Image satellite"
 
-#~ msgid ""
-#~ "This does nothing in this version of freedroidRPG. Getting a map of an "
-#~ "area is pretty easy when you can look at everything from above."
-#~ msgstr ""
-#~ "Ceci n'a pas d'effets dans cette version de freedroidRPG. Avoir une carte "
-#~ "d'une zone donnée est plus simple quand vous pouvez tout observer à "
-#~ "partir du ciel."
+#~ msgid "This does nothing in this version of freedroidRPG. Getting a map of an area is pretty easy when you can look at everything from above."
+#~ msgstr "Ceci n'a pas d'effets dans cette version de freedroidRPG. Avoir une carte d'une zone donnée est plus simple quand vous pouvez tout observer à partir du ciel."
 
 #~ msgid "Plasma grenade"
 #~ msgstr "Grenade au plasma"
 
-#~ msgid ""
-#~ "This is a bug, report this to the developers, unless you cheated, in "
-#~ "which case you deserve to see this stupid description."
-#~ msgstr ""
-#~ "Ceci est bug. Signalez-le aux développeurs, sauf si vous avez triché, "
-#~ "auquel cas vous méritez de voir cette description stupide."
+#~ msgid "This is a bug, report this to the developers, unless you cheated, in which case you deserve to see this stupid description."
+#~ msgstr "Ceci est bug. Signalez-le aux développeurs, sauf si vous avez triché, auquel cas vous méritez de voir cette description stupide."
 
 #~ msgid "Gas grenade"
 #~ msgstr "Grenade au gaz"
@@ -1749,245 +1631,92 @@ msgstr "Lorsque attaché à une arme de mêlée, cet objet induis des erreurs da
 #~ msgid "EMP grenade"
 #~ msgstr "Grenade IEM"
 
-#, fuzzy
-#~ msgid ""
-#~ "I met a Red Guard named Bender. He poisoned himself with some brain "
-#~ "enlargement pills, which turned out to be highly carcinogenic. The city "
-#~ "doctor will not give him the antidote, so it is up to me to save him."
-#~ msgstr ""
-#~ "J'ai rencontré un garde rouge nommé Bender. Il s'est empoisonné avec des "
-#~ "pilules d'agrandissement du cerveau, qui se sont révélées hautement "
-#~ "cancérigènes. Le docteur de la ville ne veut pas lui donner d'antidote "
-#~ "donc c'est à moi de le sauver."
+#~ msgid "I met a Red Guard named Bender. He poisoned himself with some brain enlargement pills, which turned out to be highly carcinogenic. The city doctor will not give him the antidote, so it is up to me to save him."
+#~ msgstr "J'ai rencontré un garde rouge nommé Bender. Il s'est empoisonné avec des pilules d'agrandissement du cerveau, qui se sont révélées hautement cancérigènes. Le docteur de la ville ne veut pas lui donner d'antidote donc c'est à moi de le sauver."
 
 #~ msgid "The doctor was easily fooled. I have the pills that Bender needs."
-#~ msgstr ""
-#~ "Le docteur était facilement dupe. J'ai les pilules que Bender a besoin."
+#~ msgstr "Le docteur était facilement dupe. J'ai les pilules que Bender a besoin."
 
-#~ msgid ""
-#~ "I killed the doctor. I feel sick. What a disgusting mess. At least I get "
-#~ "to help Bender now."
-#~ msgstr ""
-#~ "J'ai tué le docteur. J'ai mal au cœur. Quel gâchis dégoutant. Au moins, "
-#~ "je vais aider Bender maintenant."
+#~ msgid "I killed the doctor. I feel sick. What a disgusting mess. At least I get to help Bender now."
+#~ msgstr "J'ai tué le docteur. J'ai mal au cœur. Quel gâchis dégoutant. Au moins, je vais aider Bender maintenant."
 
-#~ msgid ""
-#~ "Bender is fine now. He gave me some muscle enlargement pills in return "
-#~ "for my help. Hmm..."
-#~ msgstr ""
-#~ "Bender se sent bien, maintenant. Il m'a donné quelques pilules "
-#~ "d'élargissement des muscles en récompense pour mon aide. Hmmm..."
+#~ msgid "Bender is fine now. He gave me some muscle enlargement pills in return for my help. Hmm..."
+#~ msgstr "Bender se sent bien, maintenant. Il m'a donné quelques pilules d'élargissement des muscles en récompense pour mon aide. Hmmm..."
 
-#, fuzzy
-#~ msgid ""
-#~ "Dixon, the leader of the Red Guard technical division, lost his yellow "
-#~ "toolkit in the city's maintenance tunnels. I am supposed to get it from "
-#~ "there."
-#~ msgstr ""
-#~ "Dixon, le chef de la section technique de la Garde Rouge a perdu sa "
-#~ "caisse à outils jaune dans les tunnels de maintenance de la ville. Je "
-#~ "suis supposé de la récupérer là-bas."
+#~ msgid "Dixon, the leader of the Red Guard technical division, lost his yellow toolkit in the city's maintenance tunnels. I am supposed to get it from there."
+#~ msgstr "Dixon, le chef de la section technique de la Garde Rouge a perdu sa caisse à outils jaune dans les tunnels de maintenance de la ville. Je suis supposé de la récupérer là-bas."
 
-#~ msgid ""
-#~ "The bots in the tunnels might be sentient. I cannot wait to extinguish an "
-#~ "emerging life form. This will be fun."
-#~ msgstr ""
-#~ "Les robots dans les tunnels peuvent être sensibles. Je ne peux pas "
-#~ "attention qu'une forme de vie émerge pour les décimer. Ce sera drôle."
+#~ msgid "The bots in the tunnels might be sentient. I cannot wait to extinguish an emerging life form. This will be fun."
+#~ msgstr "Les robots dans les tunnels peuvent être sensibles. Je ne peux pas attention qu'une forme de vie émerge pour les décimer. Ce sera drôle."
 
-#~ msgid ""
-#~ "I refused to get the toolkit from the bots in the tunnels because I think "
-#~ "they might be sentient. Life is precious and should be preserved."
-#~ msgstr ""
-#~ "J'ai refusé de récupérer la boîte à outils aux robots dans les tunnels "
-#~ "parce que je pense qu'ils peuvent être sensibles. La vie est précieuse et "
-#~ "devrait être préservée."
+#~ msgid "I refused to get the toolkit from the bots in the tunnels because I think they might be sentient. Life is precious and should be preserved."
+#~ msgstr "J'ai refusé de récupérer la boîte à outils aux robots dans les tunnels parce que je pense qu'ils peuvent être sensibles. La vie est précieuse et devrait être préservée."
 
-#~ msgid ""
-#~ "The tunnels bots seem to be working together with Dixon in keeping the "
-#~ "city working. All is well that ends well."
-#~ msgstr ""
-#~ "Les robots des tunnels semblent fonctionner ensemble avec Dixon dans la "
-#~ "préservation du fonctionnement de la ville. Tout est bien qui finit bien."
+#~ msgid "The tunnels bots seem to be working together with Dixon in keeping the city working. All is well that ends well."
+#~ msgstr "Les robots des tunnels semblent fonctionner ensemble avec Dixon dans la préservation du fonctionnement de la ville. Tout est bien qui finit bien."
 
-#, fuzzy
-#~ msgid ""
-#~ "Finally. I am tired, covered in bruises and oil... But I made sure that "
-#~ "the all the bots are dead. It felt great to break their metal bodies and "
-#~ "crush their circuits. Dixon didn't seem too happy about this solution, "
-#~ "but I don't care. It was fun killing the bots. Nothing else matters."
-#~ msgstr ""
-#~ "Enfin. Je suis fatigué, couvert de bleus et d'huile... Mais finalement, "
-#~ "je me suis assuré que les robots ne survivront pas. Je me suis senti bien "
-#~ "en détruisant leurs corps de métal et en broyant leurs circuits.Dixon ne "
-#~ "semble pas vraiment heureux de cette solution, mais je m'en fiche. "
-#~ "C'était amusant de tuer les robots. Je n'aime que ça, en fait."
+#~ msgid "Finally. I am tired, covered in bruises and oil... But I made sure that the all the bots are dead. It felt great to break their metal bodies and crush their circuits. Dixon didn't seem too happy about this solution, but I don't care. It was fun killing the bots. Nothing else matters."
+#~ msgstr "Enfin. Je suis fatigué, couvert de bleus et d'huile... Mais finalement, je me suis assuré que les robots ne survivront pas. Je me suis senti bien en détruisant leurs corps de métal et en broyant leurs circuits.Dixon ne semble pas vraiment heureux de cette solution, mais je m'en fiche. C'était amusant de tuer les robots. Je n'aime que ça, en fait."
 
-#~ msgid ""
-#~ "I gave the toolkit to Dixon. He was very happy to have his autotools "
-#~ "back. I got his helmet as a gift. I guess this is better than nothing."
-#~ msgstr ""
-#~ "J'ai rendu sa boîte à outils, à Dixon. Il était vraiment heureux de "
-#~ "récupérer ses outils. J'ai reçu son casque en récompense. Je pense que "
-#~ "c'est mieux que rien."
+#~ msgid "I gave the toolkit to Dixon. He was very happy to have his autotools back. I got his helmet as a gift. I guess this is better than nothing."
+#~ msgstr "J'ai rendu sa boîte à outils, à Dixon. Il était vraiment heureux de récupérer ses outils. J'ai reçu son casque en récompense. Je pense que c'est mieux que rien."
 
 #~ msgid "I sold the toolkit to Dixon for a nice sum of money. Life is good."
-#~ msgstr ""
-#~ "Je lui ai revendu sa boîte à outils, à Dixon, pour une jolie somme. La "
-#~ "vie est belle."
+#~ msgstr "Je lui ai revendu sa boîte à outils, à Dixon, pour une jolie somme. La vie est belle."
 
 #~ msgid "I sold the toolkit to Dixon for a huge sum of money. Life is great."
-#~ msgstr ""
-#~ "Je lui ai revendu sa boîte à outils, à Dixon pour une très belle somme "
-#~ "d'argent. La vie est superbe."
+#~ msgstr "Je lui ai revendu sa boîte à outils, à Dixon pour une très belle somme d'argent. La vie est superbe."
 
-#, fuzzy
-#~ msgid ""
-#~ "I sold the toolkit to Dixon for a enormous sum of money. Life is truly "
-#~ "grand. But, I better stay away from Dixon for now... He seemed very angry "
-#~ "at me."
-#~ msgstr ""
-#~ "J'ai vendu la boîte à outils à Dixon pour une énorme somme d'argent. La "
-#~ "vie est vraiment grandiose. Je ferais mieux de rester loin de Dixon, "
-#~ "maintenant. Il avait l'air vraiment en colère contre moi."
+#~ msgid "I sold the toolkit to Dixon for a enormous sum of money. Life is truly grand. But, I better stay away from Dixon for now... He seemed very angry at me."
+#~ msgstr "J'ai vendu la boîte à outils à Dixon pour une énorme somme d'argent. La vie est vraiment grandiose. Je ferais mieux de rester loin de Dixon, maintenant. Il avait l'air vraiment en colère contre moi."
 
-#~ msgid ""
-#~ "I am supposed to get some dilithium crystals for that cook. Without them "
-#~ "he cannot cook anything in his macrowave oven. And without his cooking "
-#~ "the whole city is stuck eating army snacks. Many people have committed "
-#~ "suicide because of the horrible food. This madness must stop."
-#~ msgstr ""
-#~ "Je suis supposé récupérer quelques cristaux de dilithium pour ce "
-#~ "cuisinier. Sans eux, il ne peut rien cuisiner dans son four à macro-"
-#~ "ondes. Et sans sa cuisine, toute la ville est obligé de manger des "
-#~ "rations militaires. De nombreuses personnes se sont suicidées à cause de "
-#~ "la nourriture affreuse. Cette folie doit s'arrêter."
+#~ msgid "I am supposed to get some dilithium crystals for that cook. Without them he cannot cook anything in his macrowave oven. And without his cooking the whole city is stuck eating army snacks. Many people have committed suicide because of the horrible food. This madness must stop."
+#~ msgstr "Je suis supposé récupérer quelques cristaux de dilithium pour ce cuisinier. Sans eux, il ne peut rien cuisiner dans son four à macro-ondes. Et sans sa cuisine, toute la ville est obligé de manger des rations militaires. De nombreuses personnes se sont suicidées à cause de la nourriture affreuse. Cette folie doit s'arrêter."
 
-#~ msgid ""
-#~ "I gave him enough dilithium to last him a decade. The evil spectre of "
-#~ "eating army snacks is lifted from the city."
-#~ msgstr ""
-#~ "Je lui ai donné assez de dilithium pour toute une décennie. Le spectre "
-#~ "maléfique des rations de l'armée est chassé de la ville."
+#~ msgid "I gave him enough dilithium to last him a decade. The evil spectre of eating army snacks is lifted from the city."
+#~ msgstr "Je lui ai donné assez de dilithium pour toute une décennie. Le spectre maléfique des rations de l'armée est chassé de la ville."
 
-#~ msgid ""
-#~ "Fighting in the arena is not something I would usually do, but I feel "
-#~ "like doing it for a change. Why not?"
-#~ msgstr ""
-#~ "Me battre dans une arène n'est pas quelque chose que je ferais tous les "
-#~ "jours, mais j'ai envie de changer un peu...."
+#~ msgid "Fighting in the arena is not something I would usually do, but I feel like doing it for a change. Why not?"
+#~ msgstr "Me battre dans une arène n'est pas quelque chose que je ferais tous les jours, mais j'ai envie de changer un peu...."
 
-#, fuzzy
-#~ msgid ""
-#~ "Now that was easy. *Yawn*. I nearly fell asleep. No problem at all, the "
-#~ "bots are dead."
-#~ msgstr ""
-#~ "En fait, c'était facile. Whoaah. Je tombe de sommeil. Ca n'est pas un "
-#~ "problème du tout, maintenant tous les robots sont morts."
+#~ msgid "Now that was easy. *Yawn*. I nearly fell asleep. No problem at all, the bots are dead."
+#~ msgstr "En fait, c'était facile. Whoaah. Je tombe de sommeil. Ca n'est pas un problème du tout, maintenant tous les robots sont morts."
 
-#~ msgid ""
-#~ "I told the arena master to let me into his master arena. He agreed. Now "
-#~ "all that remains to do is to enter the teleport and wait for death "
-#~ "herself to come on her black wings and claim my soul. You know, now that "
-#~ "I think about it... Maybe I should stay out of there?"
-#~ msgstr ""
-#~ "J'ai dit au maître de l'arène de me laisser entrer dans son arène. Il a "
-#~ "été d'accord. Maintenant, tout ce qui reste à faire est d'entrer dans le "
-#~ "téléporteur et d'attendre que la mort elle-même vienne, portée par ses "
-#~ "ailes noires, me réclamer mon âme, Tu sais, maintenant que j'y pense... "
-#~ "Peut-être devrais-je rester en dehors de tout ça ?"
+#~ msgid "I told the arena master to let me into his master arena. He agreed. Now all that remains to do is to enter the teleport and wait for death herself to come on her black wings and claim my soul. You know, now that I think about it... Maybe I should stay out of there?"
+#~ msgstr "J'ai dit au maître de l'arène de me laisser entrer dans son arène. Il a été d'accord. Maintenant, tout ce qui reste à faire est d'entrer dans le téléporteur et d'attendre que la mort elle-même vienne, portée par ses ailes noires, me réclamer mon âme, Tu sais, maintenant que j'y pense... Peut-être devrais-je rester en dehors de tout ça ?"
 
 #~ msgid "I survived the master arena. A miracle. Whew."
 #~ msgstr "J'ai survécu au maître de l'arène. C'est un miracle. Whou."
 
-#~ msgid ""
-#~ "I am supposed to clean out the first level of some warehouse. Sounds easy."
-#~ msgstr ""
-#~ "Je suis censé nettoyer le premier niveau d'un entrepôt. Ca semble facile."
+#~ msgid "I am supposed to clean out the first level of some warehouse. Sounds easy."
+#~ msgstr "Je suis censé nettoyer le premier niveau d'un entrepôt. Ca semble facile."
 
-#, fuzzy
-#~ msgid ""
-#~ "Ouch. It wasn't. At least I am alive, and the warehouse is clear. *Whew*."
-#~ msgstr ""
-#~ "Outch. Ca ne l'était pas. Au moins, je suis vivant et cet entrepôt est "
-#~ "vide. Whou."
+#~ msgid "Ouch. It wasn't. At least I am alive, and the warehouse is clear. *Whew*."
+#~ msgstr "Outch. Ca ne l'était pas. Au moins, je suis vivant et cet entrepôt est vide. Whou."
 
-#, fuzzy
 #~ msgid "And there was light..."
 #~ msgstr "Que la lumière soit..."
 
-#, fuzzy
-#~ msgid ""
-#~ "Kevin has a problem with his energy supply. His bots keep rebooting the "
-#~ "system, and he cannot conduct any experiments with an unstable power "
-#~ "supply. My job is to stabilize the power. I think that implies removing "
-#~ "the stupid bots."
-#~ msgstr ""
-#~ "Kevin a un problème d'approvisionnment en énergie. Ses robots redémarrent "
-#~ "continuellement le système, et il ne peut mener aucune expérience sans un "
-#~ "approvisionnement stable d'énergie. Mon boulot est de stabiliser le "
-#~ "courant. Je pense que ça implique virer ces stupides robots."
+#~ msgid "Kevin has a problem with his energy supply. His bots keep rebooting the system, and he cannot conduct any experiments with an unstable power supply. My job is to stabilize the power. I think that implies removing the stupid bots."
+#~ msgstr "Kevin a un problème d'approvisionnment en énergie. Ses robots redémarrent continuellement le système, et il ne peut mener aucune expérience sans un approvisionnement stable d'énergie. Mon boulot est de stabiliser le courant. Je pense que ça implique virer ces stupides robots."
 
-#, fuzzy
 #~ msgid "Hope everything is back to normal now. I better go check with Kevin."
-#~ msgstr ""
-#~ "Tout est revenu à la normale, maintenant. Kévin peut travaille en paix, "
-#~ "maintenant."
+#~ msgstr "Tout est revenu à la normale, maintenant. Kévin peut travaille en paix, maintenant."
 
-#, fuzzy
-#~ msgid ""
-#~ "Everything *is* back to normal for now, so Kevin doesn't need to spend "
-#~ "all his time monitoring the power levels."
-#~ msgstr ""
-#~ "Tout est revenu à la normale, maintenant. Kévin peut travaille en paix, "
-#~ "maintenant."
+#~ msgid "Everything *is* back to normal for now, so Kevin doesn't need to spend all his time monitoring the power levels."
+#~ msgstr "Tout est revenu à la normale, maintenant. Kévin peut travaille en paix, maintenant."
 
-#~ msgid ""
-#~ "Yes, that was simple. I wish everything else went as smoothly as this one "
-#~ "did..."
-#~ msgstr ""
-#~ "Oui, c'était simple. Je regrette que tout le reste ne soit pas allé sans "
-#~ "à-coups..."
+#~ msgid "Yes, that was simple. I wish everything else went as smoothly as this one did..."
+#~ msgstr "Oui, c'était simple. Je regrette que tout le reste ne soit pas allé sans à-coups..."
 
-#, fuzzy
-#~ msgid ""
-#~ "Spencer has revealed the information from the data cube evaluation to "
-#~ "me.  It seems there is an old military research facility near the town.  "
-#~ "By taking over the control droid, I should be able to control the "
-#~ "disruptor shield at the facility. I could activate it permanently, "
-#~ "thereby locking off the Hell Fortress, and the bots it's producing, "
-#~ "forever. Alternatively, I could disable it, and fight my way through the "
-#~ "Hell Fortress droids until I reach the main control droid and update it, "
-#~ "thereby disabling all bots in the entire area around town in one fell "
-#~ "swoop."
-#~ msgstr ""
-#~ "Spencer m'a transmis les résultats de l'analyse du cube de données. "
-#~ "Apparemment il y a un ancien centre de recherche militaire près de la "
-#~ "colonie. En piratant le droid de contrôle, je pourrai commander le "
-#~ "bouclier disrupteur de l'usine. Je peux choisir de l'activer de manière "
-#~ "permanente, de telle sorte que l'usine (et les robots qu'elle produit) "
-#~ "soit verrouillée à jamais de l'extérieur. Je peux aussi le désactiver, "
-#~ "faire le ménage dans l'usine et mettre à jour le code du droïde de mise à "
-#~ "jour pour désactiver l'ensemble des robots d'un seul coup."
+#~ msgid "Spencer has revealed the information from the data cube evaluation to me.  It seems there is an old military research facility near the town.  By taking over the control droid, I should be able to control the disruptor shield at the facility. I could activate it permanently, thereby locking off the Hell Fortress, and the bots it's producing, forever. Alternatively, I could disable it, and fight my way through the Hell Fortress droids until I reach the main control droid and update it, thereby disabling all bots in the entire area around town in one fell swoop."
+#~ msgstr "Spencer m'a transmis les résultats de l'analyse du cube de données. Apparemment il y a un ancien centre de recherche militaire près de la colonie. En piratant le droid de contrôle, je pourrai commander le bouclier disrupteur de l'usine. Je peux choisir de l'activer de manière permanente, de telle sorte que l'usine (et les robots qu'elle produit) soit verrouillée à jamais de l'extérieur. Je peux aussi le désactiver, faire le ménage dans l'usine et mettre à jour le code du droïde de mise à jour pour désactiver l'ensemble des robots d'un seul coup."
 
-#, fuzzy
-#~ msgid ""
-#~ "I've finally managed to propagate my firmware update. Now, all the "
-#~ "hostile bots are nothing more than pieces of rusty metal."
-#~ msgstr ""
-#~ "J'ai réussi à changer le code de mise à jour. Bientôt les robots vont "
-#~ "télécharger leur correctif journalier et ne seront rien de plus que des "
-#~ "carcasses de métal."
+#~ msgid "I've finally managed to propagate my firmware update. Now, all the hostile bots are nothing more than pieces of rusty metal."
+#~ msgstr "J'ai réussi à changer le code de mise à jour. Bientôt les robots vont télécharger leur correctif journalier et ne seront rien de plus que des carcasses de métal."
 
-#, fuzzy
-#~ msgid ""
-#~ "I've managed to propagate my (slightly modified!) firmware update. Now "
-#~ "the bots using this update server are nothing more than pieces of rusty "
-#~ "metal."
-#~ msgstr ""
-#~ "J'ai réussi à changer le code de mise à jour. Bientôt les robots vont "
-#~ "télécharger leur correctif journalier et ne seront rien de plus que des "
-#~ "carcasses de métal."
+#~ msgid "I've managed to propagate my (slightly modified!) firmware update. Now the bots using this update server are nothing more than pieces of rusty metal."
+#~ msgstr "J'ai réussi à changer le code de mise à jour. Bientôt les robots vont télécharger leur correctif journalier et ne seront rien de plus que des carcasses de métal."
 
 #~ msgid "I am supposed to get some dilithium crystals for that SADD."
 #~ msgstr "Je dois trouver des cristaux de dilithium pour ce SADD."
@@ -1995,233 +1724,107 @@ msgstr "Lorsque attaché à une arme de mêlée, cet objet induis des erreurs da
 #~ msgid "Done. He looks happy."
 #~ msgstr "Fini. Il a l'air content."
 
-#, fuzzy
-#~ msgid ""
-#~ "I have met a girl locked in a secret area. If I manage to disable the "
-#~ "autoguns, she will be able to go to the surface and look at the sun again."
-#~ msgstr ""
-#~ "J'ai rencontré une fille enfermée dans une zone secrète. Si j'arrive à "
-#~ "désactiver les pistolets automatiques, elle pourrait revenir à la "
-#~ "surface, revoir le soleil."
+#~ msgid "I have met a girl locked in a secret area. If I manage to disable the autoguns, she will be able to go to the surface and look at the sun again."
+#~ msgstr "J'ai rencontré une fille enfermée dans une zone secrète. Si j'arrive à désactiver les pistolets automatiques, elle pourrait revenir à la surface, revoir le soleil."
 
-#, fuzzy
 #~ msgid "I have found that SACD and took him over."
 #~ msgstr "J'ai trouvé ce SACD et je l'ai piraté."
 
 #~ msgid "Tania is free now!"
 #~ msgstr "Tania est libre maintenant !"
 
-#, fuzzy
 #~ msgid "Tutorial Hacking"
 #~ msgstr "Piratage"
 
-#, fuzzy
 #~ msgid "Enter master arena"
 #~ msgstr "Grenade au gaz"
 
-#, fuzzy
 #~ msgid "To energy station"
 #~ msgstr "Conteneur d'énergie plasma"
 
-#, fuzzy
 #~ msgid "Exit master arena"
 #~ msgstr "Grenade au gaz"
 
-#, fuzzy
-#~ msgid ""
-#~ "Created by Dr. Masternak to clean up large heaps of rubbish. Its large "
-#~ "scoop is used to collect rubbish. It is then crushed internally."
-#~ msgstr ""
-#~ "Créé par le Docteur Masternak pour éliminer de grandes quantités "
-#~ "d'ordures. Sa large écope est utilisée pour collecter les ordures. Elles "
-#~ "sont ensuite compressées à l'intérieur."
+#~ msgid "Created by Dr. Masternak to clean up large heaps of rubbish. Its large scoop is used to collect rubbish. It is then crushed internally."
+#~ msgstr "Créé par le Docteur Masternak pour éliminer de grandes quantités d'ordures. Sa large écope est utilisée pour collecter les ordures. Elles sont ensuite compressées à l'intérieur."
 
-#, fuzzy
-#~ msgid ""
-#~ "A light duty servant robot. One of the first to use the anti-grav system."
-#~ msgstr ""
-#~ "Un robot serviteur. Un des premiers à utiliser le système anti-gravité."
+#~ msgid "A light duty servant robot. One of the first to use the anti-grav system."
+#~ msgstr "Un robot serviteur. Un des premiers à utiliser le système anti-gravité."
 
-#, fuzzy
 #~ msgid "Cheaper version of the anti-grav servant robot."
 #~ msgstr "La version la moins chère du robot serviteur anti-grav."
 
 #~ msgid "Run away! This bot will kill you!"
 #~ msgstr "Fuyez ! Ce robot va vous tuer"
 
-#, fuzzy
-#~ msgid ""
-#~ "Common device for moving small packages. Clamp is mounted on the lower "
-#~ "body."
-#~ msgstr ""
-#~ "Appareil standard pour le transport de petits paquets. La fixation se "
-#~ "trouve sur le bas du corps."
+#~ msgid "Common device for moving small packages. Clamp is mounted on the lower body."
+#~ msgstr "Appareil standard pour le transport de petits paquets. La fixation se trouve sur le bas du corps."
 
-#, fuzzy
-#~ msgid ""
-#~ "Early type messenger robot. Large wheels impede motion on small craft."
-#~ msgstr ""
-#~ "Un des premiers robots de type messager. Il a des larges roues qui "
-#~ "l'empêche d'être trop secoué."
+#~ msgid "Early type messenger robot. Large wheels impede motion on small craft."
+#~ msgstr "Un des premiers robots de type messager. Il a des larges roues qui l'empêche d'être trop secoué."
 
-#, fuzzy
-#~ msgid ""
-#~ "A slow maintenance robot. Confined to drive maintenance during flight."
-#~ msgstr ""
-#~ "Robot lent de maintenance. Il est exclusivement destiné à la maintenance "
-#~ "pendant le vol."
+#~ msgid "A slow maintenance robot. Confined to drive maintenance during flight."
+#~ msgstr "Robot lent de maintenance. Il est exclusivement destiné à la maintenance pendant le vol."
 
-#, fuzzy
-#~ msgid ""
-#~ "Ship maintenance robot. Fitted with multiple arms to carry out repairs to "
-#~ "the ship efficiently. All craft built after the Jupiter-incident are "
-#~ "supplied with a team of these."
-#~ msgstr ""
-#~ "Robot de maintenance du vaisseau. Il possède de nombreux bras pour "
-#~ "effectuer efficacement les réparations du vaisseau. Toutes les carlingues "
-#~ "construites après l'incident Jupiter sont fournies avec une équipe de "
-#~ "tels robots."
+#~ msgid "Ship maintenance robot. Fitted with multiple arms to carry out repairs to the ship efficiently. All craft built after the Jupiter-incident are supplied with a team of these."
+#~ msgstr "Robot de maintenance du vaisseau. Il possède de nombreux bras pour effectuer efficacement les réparations du vaisseau. Toutes les carlingues construites après l'incident Jupiter sont fournies avec une équipe de tels robots."
 
-#, fuzzy
-#~ msgid ""
-#~ "Slave maintenance droid. Standard version will carry its own toolbox."
-#~ msgstr ""
-#~ "Esclave de maintenance de droïde. La version standard fera attention à sa "
-#~ "boîte à outil."
+#~ msgid "Slave maintenance droid. Standard version will carry its own toolbox."
+#~ msgstr "Esclave de maintenance de droïde. La version standard fera attention à sa boîte à outil."
 
-#, fuzzy
-#~ msgid ""
-#~ "Early crew droid. Able to carry out simple flight checks only. No longer "
-#~ "supplied."
-#~ msgstr ""
-#~ "Un des premiers droïdes d'équipages. Il est seulement capable d'effectuer "
-#~ "les vérifications de base. Son autonomie est réduite."
+#~ msgid "Early crew droid. Able to carry out simple flight checks only. No longer supplied."
+#~ msgstr "Un des premiers droïdes d'équipages. Il est seulement capable d'effectuer les vérifications de base. Son autonomie est réduite."
 
-#, fuzzy
 #~ msgid "A standard crew droid. Supplied with the ship."
 #~ msgstr "Droïde standard d'équipage. Fourni avec le vaisseau."
 
-#, fuzzy
-#~ msgid ""
-#~ "A highly sophisticated device. Able to control the Robo-Freighter on its "
-#~ "own."
-#~ msgstr ""
-#~ "Un périphérique hautement sophistiqué. Capable de contrôler seul le Robo-"
-#~ "Freighter."
+#~ msgid "A highly sophisticated device. Able to control the Robo-Freighter on its own."
+#~ msgstr "Un périphérique hautement sophistiqué. Capable de contrôler seul le Robo-Freighter."
 
-#, fuzzy
-#~ msgid ""
-#~ "A low security sentinel droid. Used to protect areas of the ship from "
-#~ "intruders. A slow but sure device."
-#~ msgstr ""
-#~ "Droïde sentinelle de basse sécurité. Utilisé pour protéger des zones du "
-#~ "vaisseau des intrus. Lent, mais sûr."
+#~ msgid "A low security sentinel droid. Used to protect areas of the ship from intruders. A slow but sure device."
+#~ msgstr "Droïde sentinelle de basse sécurité. Utilisé pour protéger des zones du vaisseau des intrus. Lent, mais sûr."
 
-#, fuzzy
-#~ msgid ""
-#~ "Sophisticated sentinel droid. Only 2000 built by the Nicholson Company. "
-#~ "These are now very rare."
-#~ msgstr ""
-#~ "Droïde sentinelle sophistiqué. Seulement 2000 exemplaires ont été "
-#~ "construits par la Nicholson Company. Ils sont maintenant très rares."
+#~ msgid "Sophisticated sentinel droid. Only 2000 built by the Nicholson Company. These are now very rare."
+#~ msgstr "Droïde sentinelle sophistiqué. Seulement 2000 exemplaires ont été construits par la Nicholson Company. Ils sont maintenant très rares."
 
-#, fuzzy
-#~ msgid ""
-#~ "A low sentinel droid. Lasers are built into the turret. These are mounted "
-#~ "on a small tank body. May be fitted with an auto-cannon on-the Gillen "
-#~ "version."
-#~ msgstr ""
-#~ "Le robot Sentinelle de bas niveau. Des lasers sont intégrés à la "
-#~ "tourelle. Ils sont montés sur la partie principale d'un petit char. Ils "
-#~ "peuvnet être assemblés avec un canon automatique sur la version Gillen."
+#~ msgid "A low sentinel droid. Lasers are built into the turret. These are mounted on a small tank body. May be fitted with an auto-cannon on-the Gillen version."
+#~ msgstr "Le robot Sentinelle de bas niveau. Des lasers sont intégrés à la tourelle. Ils sont montés sur la partie principale d'un petit char. Ils peuvnet être assemblés avec un canon automatique sur la version Gillen."
 
-#, fuzzy
-#~ msgid ""
-#~ "A heavy duty battle droid. Disruptor is built into the head. One of the "
-#~ "first in service with the Military."
-#~ msgstr ""
-#~ "Droïde de combat lourd. Un disrupteur est intégré dans la tête. Un des "
-#~ "premiers en service avec l'armée."
+#~ msgid "A heavy duty battle droid. Disruptor is built into the head. One of the first in service with the Military."
+#~ msgstr "Droïde de combat lourd. Un disrupteur est intégré dans la tête. Un des premiers en service avec l'armée."
 
-#, fuzzy
 #~ msgid "This version is the one mainly used by the military."
 #~ msgstr "Cette version est celle principalement utilisée par les militaires."
 
-#, fuzzy
-#~ msgid ""
-#~ "A very heavy duty battle droid. Only a few have so far entered service. "
-#~ "These are the most powerful battle units ever built."
-#~ msgstr ""
-#~ "Droïde de combat très lourd. Seuls quelques-uns ont été mis en service. "
-#~ "Ce sont les unités combattantes les plus puissantes jamais construites."
+#~ msgid "A very heavy duty battle droid. Only a few have so far entered service. These are the most powerful battle units ever built."
+#~ msgstr "Droïde de combat très lourd. Seuls quelques-uns ont été mis en service. Ce sont les unités combattantes les plus puissantes jamais construites."
 
-#, fuzzy
-#~ msgid ""
-#~ "A very reliable anti-grav unit is fitted into this droid. It will patrol "
-#~ "the ship and eliminate intruders as soon as detected by powerful sensors."
-#~ msgstr ""
-#~ "Une unité anti-gravité très fiable est intégrée dans ce droïde. Il "
-#~ "patrouillera le vaisseau et éliminera les intrus aussitôt qu'ils seront "
-#~ "décelés par de puissants capteurs."
+#~ msgid "A very reliable anti-grav unit is fitted into this droid. It will patrol the ship and eliminate intruders as soon as detected by powerful sensors."
+#~ msgstr "Une unité anti-gravité très fiable est intégrée dans ce droïde. Il patrouillera le vaisseau et éliminera les intrus aussitôt qu'ils seront décelés par de puissants capteurs."
 
-#, fuzzy
-#~ msgid ""
-#~ "Early type anti-grav security droid. Fitted with an over-driven anti-grav "
-#~ "unit. This droid is very fast but is not reliable."
-#~ msgstr ""
-#~ "Le premier modèle de droïde anti-gravité. Equipé d'unités anti-gravité et "
-#~ "d'accélérateur intégrés. Ce droïde est très rapide, mais pas très fiable."
+#~ msgid "Early type anti-grav security droid. Fitted with an over-driven anti-grav unit. This droid is very fast but is not reliable."
+#~ msgstr "Le premier modèle de droïde anti-gravité. Equipé d'unités anti-gravité et d'accélérateur intégrés. Ce droïde est très rapide, mais pas très fiable."
 
-#, fuzzy
-#~ msgid ""
-#~ "This droid was designed from archive data. For some unknown reason it "
-#~ "instils great fear in Human adversaries."
-#~ msgstr ""
-#~ "Ce droïde a été conçu pour l'archivage de données. Pour quelque raison "
-#~ "inconnue, il inculque une grande peur à ses adversaires humains."
+#~ msgid "This droid was designed from archive data. For some unknown reason it instils great fear in Human adversaries."
+#~ msgstr "Ce droïde a été conçu pour l'archivage de données. Pour quelque raison inconnue, il inculque une grande peur à ses adversaires humains."
 
-#, fuzzy
-#~ msgid ""
-#~ "Experimental command cyborg. Fitted with a new type of brain. Mounted on "
-#~ "a security droid anti-grav unit for convenience. warning: the influence "
-#~ "device may not control a primode brain for long."
-#~ msgstr ""
-#~ "Cyborg de commande expérimental. Equipé avec un nouveau type de cerveau. "
-#~ "Monté sur une unité droïde de sécurité anti-grav pour la commodité. "
-#~ "Attention : Des appareils de contrôle ne peuvent pas contrôler un cerveau "
-#~ "de ce type pendant longtemps."
+#~ msgid "Experimental command cyborg. Fitted with a new type of brain. Mounted on a security droid anti-grav unit for convenience. warning: the influence device may not control a primode brain for long."
+#~ msgstr "Cyborg de commande expérimental. Equipé avec un nouveau type de cerveau. Monté sur une unité droïde de sécurité anti-grav pour la commodité. Attention : Des appareils de contrôle ne peuvent pas contrôler un cerveau de ce type pendant longtemps."
 
-#~ msgid ""
-#~ "This is a typical professor/sage character of some older age.  They are "
-#~ "not armed as powerfully as e.g. the red guards."
-#~ msgstr ""
-#~ "C'est un personnage comme un professeur/sage d'un âge respectable. Ils ne "
-#~ "sont pas armés aussi puissamment que les gardes rouges, par exemple."
+#~ msgid "This is a typical professor/sage character of some older age.  They are not armed as powerfully as e.g. the red guards."
+#~ msgstr "C'est un personnage comme un professeur/sage d'un âge respectable. Ils ne sont pas armés aussi puissamment que les gardes rouges, par exemple."
 
-#~ msgid ""
-#~ "This is a typical red (male) guard/fighter character.  They are equipped "
-#~ "with powerful PowerExterminators."
-#~ msgstr ""
-#~ "C'est un personnage comme un garde rouge/combattant. Ils sont équipés "
-#~ "avec de puissants PowerExterminateurs."
+#~ msgid "This is a typical red (male) guard/fighter character.  They are equipped with powerful PowerExterminators."
+#~ msgstr "C'est un personnage comme un garde rouge/combattant. Ils sont équipés avec de puissants PowerExterminateurs."
 
 #~ msgid "This is the hot_mama shopkeeper character model."
-#~ msgstr ""
-#~ "C'est le modèle de personnage hot_mama qui est tenancier de magasin."
+#~ msgstr "C'est le modèle de personnage hot_mama qui est tenancier de magasin."
 
-#~ msgid ""
-#~ "This is the female scientist character model.  They are not armed as "
-#~ "powerfully as e.g. the red guards."
-#~ msgstr ""
-#~ "C'est le modèle de personnage de scientifique femme. Elles ne sont pas "
-#~ "aussi bien armées que les gardes rouges."
+#~ msgid "This is the female scientist character model.  They are not armed as powerfully as e.g. the red guards."
+#~ msgstr "C'est le modèle de personnage de scientifique femme. Elles ne sont pas aussi bien armées que les gardes rouges."
 
-#~ msgid ""
-#~ "This is the brown worker model.  They are not armed as powerfully as e.g. "
-#~ "the red guards."
-#~ msgstr ""
-#~ "C'est le modèle travailleur marron. Ils ne sont pas armés aussi "
-#~ "puissamment que les gardes rouges."
+#~ msgid "This is the brown worker model.  They are not armed as powerfully as e.g. the red guards."
+#~ msgstr "C'est le modèle travailleur marron. Ils ne sont pas armés aussi puissamment que les gardes rouges."
 
 #~ msgid "This is a useless comment. Thanks for your attention."
 #~ msgstr "Ceci est un commentaire inutile. Merci de votre attention."
@@ -2229,13 +1832,8 @@ msgstr "Lorsque attaché à une arme de mêlée, cet objet induis des erreurs da
 #~ msgid "This is the cook."
 #~ msgstr "C'est le cuisinier."
 
-#, fuzzy
-#~ msgid ""
-#~ "This is a typical professor/sage character of some older age. They are "
-#~ "not armed as powerfully as e.g. the red guards."
-#~ msgstr ""
-#~ "C'est un personnage comme un professeur/sage d'un âge respectable. Ils ne "
-#~ "sont pas armés aussi puissamment que les gardes rouges, par exemple."
+#~ msgid "This is a typical professor/sage character of some older age. They are not armed as powerfully as e.g. the red guards."
+#~ msgstr "C'est un personnage comme un professeur/sage d'un âge respectable. Ils ne sont pas armés aussi puissamment que les gardes rouges, par exemple."
 
 #~ msgid "This is a typical sex bomb.  This one is even armed."
 #~ msgstr "C'est une bombe sexuelle typiqye. Elle est même armée."
@@ -2244,8 +1842,7 @@ msgstr "Lorsque attaché à une arme de mêlée, cet objet induis des erreurs da
 #~ msgstr "C'est le barman."
 
 #~ msgid "This is a placeholder for a description. Feel free to help."
-#~ msgstr ""
-#~ "Ici pourrait se trouver une vraie description. N'hésitez pas à aider."
+#~ msgstr "Ici pourrait se trouver une vraie description. N'hésitez pas à aider."
 
 #~ msgid "Droid weaponry - 614,GUA,MUM (Power Exterminator)"
 #~ msgstr "Armement droïde - 614, GUA, MUM (Exterminateur de puissance)"
@@ -2253,177 +1850,75 @@ msgstr "Lorsque attaché à une arme de mêlée, cet objet induis des erreurs da
 #~ msgid "This is one of the most powerful ranged weapons out there."
 #~ msgstr "C'est une des armes les plus puissantes des limites extérieures."
 
-#, fuzzy
 #~ msgid ""
-#~ "This does nothing in this version of freedroidRPG. Optimization is the "
-#~ "root of all evil. You can gain some temporary improvements to your \n"
+#~ "This does nothing in this version of freedroidRPG. Optimization is the root of all evil. You can gain some temporary improvements to your \n"
 #~ "system, but in the end you are only likely to cause permanent damage."
-#~ msgstr ""
-#~ "L'optimisation est la racine du mal. Tu peux avoir quelques améliorations "
-#~ "dans ton système pendant un temps, mais à la fin, il est plus probable "
-#~ "que cela cause des dommages permanents."
+#~ msgstr "L'optimisation est la racine du mal. Tu peux avoir quelques améliorations dans ton système pendant un temps, mais à la fin, il est plus probable que cela cause des dommages permanents."
 
-#, fuzzy
-#~ msgid ""
-#~ "Long reach while remaining maneuverable enough in combat to find the weak "
-#~ "spots in droid armour are the advantages that partially makes up for the "
-#~ "inability of a cutting blade to incur lots of damage on a heavily "
-#~ "protected target. Repeatedly striking at metal quickly damages the blade "
-#~ "though."
-#~ msgstr ""
-#~ "Sa longue portée, ainsi que sa maniabilité, suffisent en combat pour "
-#~ "trouver les points faibles d'une armure de droïde, compensant "
-#~ "partiellement l'incapacité de la lame tranchante à infliger beaucoup de "
-#~ "dégats sur une cible lourdement blindée. Des frappes répétées sur du "
-#~ "métal abîment toutefois rapidement la lame."
+#~ msgid "Long reach while remaining maneuverable enough in combat to find the weak spots in droid armour are the advantages that partially makes up for the inability of a cutting blade to incur lots of damage on a heavily protected target. Repeatedly striking at metal quickly damages the blade though."
+#~ msgstr "Sa longue portée, ainsi que sa maniabilité, suffisent en combat pour trouver les points faibles d'une armure de droïde, compensant partiellement l'incapacité de la lame tranchante à infliger beaucoup de dégats sur une cible lourdement blindée. Des frappes répétées sur du métal abîment toutefois rapidement la lame."
 
-#, fuzzy
-#~ msgid ""
-#~ "The size and kinetic force achievable with this 2 handed sword is enough "
-#~ "to cleave straight through the armour of a low level droid. The strain on "
-#~ "the sword from high impact hits into metall will however require frequent "
-#~ "maintenance to not have it break in half exactly when it's most needed."
-#~ msgstr ""
-#~ "La taille et l'énergie cinétique qui sont permises par cette épée à deux "
-#~ "mains est suffisante pour une franche entaille dans l'armure d'un droïde "
-#~ "de bas niveau. L'effort subit par l'épée, à cause des impacts violents "
-#~ "sur du métal, peut néanmoins nécessiter une maintenance régulière, pour "
-#~ "que l'épée ne se brise pas en deux exactement au moment où vous en avez "
-#~ "le plus besoin."
+#~ msgid "The size and kinetic force achievable with this 2 handed sword is enough to cleave straight through the armour of a low level droid. The strain on the sword from high impact hits into metall will however require frequent maintenance to not have it break in half exactly when it's most needed."
+#~ msgstr "La taille et l'énergie cinétique qui sont permises par cette épée à deux mains est suffisante pour une franche entaille dans l'armure d'un droïde de bas niveau. L'effort subit par l'épée, à cause des impacts violents sur du métal, peut néanmoins nécessiter une maintenance régulière, pour que l'épée ne se brise pas en deux exactement au moment où vous en avez le plus besoin."
 
-#, fuzzy
-#~ msgid ""
-#~ "Quite efficient at separating limbs off even a droid body or digging "
-#~ "through weaker armoured parts to cause massive damage on internal "
-#~ "electronics. But the chain wears out very quickly when used on materials "
-#~ "harder than wood and supply shortages of new chains and other parts makes "
-#~ "it expensive to maintain."
-#~ msgstr ""
-#~ "Très efficace pour séparer les membres, même d'un corps de droïde, ou "
-#~ "transpercer les blindages les plus faibles pour causer de gros dommages "
-#~ "aux composantes internes. Mais la chaîne s'abîme très vite si on "
-#~ "l'utilise sur des matériaux plus durs que le bois, et le manque "
-#~ "d'approvisionnement en nouvelles chaînes, ou autres composantes, la "
-#~ "rendent chère à conserver."
+#~ msgid "Quite efficient at separating limbs off even a droid body or digging through weaker armoured parts to cause massive damage on internal electronics. But the chain wears out very quickly when used on materials harder than wood and supply shortages of new chains and other parts makes it expensive to maintain."
+#~ msgstr "Très efficace pour séparer les membres, même d'un corps de droïde, ou transpercer les blindages les plus faibles pour causer de gros dommages aux composantes internes. Mais la chaîne s'abîme très vite si on l'utilise sur des matériaux plus durs que le bois, et le manque d'approvisionnement en nouvelles chaînes, ou autres composantes, la rendent chère à conserver."
 
-#, fuzzy
-#~ msgid ""
-#~ "A medium sized water pipe from iron can turn into an effective weapon "
-#~ "even vs a metal opponent. While not likely to penetrate the armour of a "
-#~ "bot, the impact force alone can still damage and shake loose circuit "
-#~ "boards and weldings beneath the protective metal layer."
-#~ msgstr ""
-#~ "Une canalisation d'eau de taille moyenne, en acier, peut être transformée "
-#~ "en une arme réelle, même contre un adversaire en métal. Il est improbable "
-#~ "de parvenir à perforer l'armure d'un robot, mais l'onde de choc créée "
-#~ "peut endommager et perturber les circuits et les soudures sous le métal."
+#~ msgid "A medium sized water pipe from iron can turn into an effective weapon even vs a metal opponent. While not likely to penetrate the armour of a bot, the impact force alone can still damage and shake loose circuit boards and weldings beneath the protective metal layer."
+#~ msgstr "Une canalisation d'eau de taille moyenne, en acier, peut être transformée en une arme réelle, même contre un adversaire en métal. Il est improbable de parvenir à perforer l'armure d'un robot, mais l'onde de choc créée peut endommager et perturber les circuits et les soudures sous le métal."
 
-#, fuzzy
-#~ msgid ""
-#~ "The mace proved already on the medieval battlefield that it was good at "
-#~ "crushing even heavily armoured skulls. Unfortunately for the droids this "
-#~ "old knowledge still holds true."
-#~ msgstr ""
-#~ "La massue a déjà prouvé son efficacité sur les champs de bataille "
-#~ "médiévaux, en défonçant des crânes, même lourdement protégés. "
-#~ "Malheureusement pour les droïdes, ce vieux truc fonctionne encore."
+#~ msgid "The mace proved already on the medieval battlefield that it was good at crushing even heavily armoured skulls. Unfortunately for the droids this old knowledge still holds true."
+#~ msgstr "La massue a déjà prouvé son efficacité sur les champs de bataille médiévaux, en défonçant des crânes, même lourdement protégés. Malheureusement pour les droïdes, ce vieux truc fonctionne encore."
 
-#, fuzzy
-#~ msgid ""
-#~ ".22 Long Rifle ammunition used to be a very common ammo for "
-#~ "targetpratice, mainly because it was cheap and gave little recoil. It's "
-#~ "just too weak to penetrate any real droid armour though."
-#~ msgstr ""
-#~ "Les munitions .22 Long Rifle sont très communément employées pour "
-#~ "l'entraînement au tir sur cible, principalement parce que ce n'est pas "
-#~ "cher et donnent un petit recul. Seulement, elles sont trop faibles pour "
-#~ "pénétrer l'armure d'un vrai droïde."
+#~ msgid ".22 Long Rifle ammunition used to be a very common ammo for targetpratice, mainly because it was cheap and gave little recoil. It's just too weak to penetrate any real droid armour though."
+#~ msgstr "Les munitions .22 Long Rifle sont très communément employées pour l'entraînement au tir sur cible, principalement parce que ce n'est pas cher et donnent un petit recul. Seulement, elles sont trop faibles pour pénétrer l'armure d'un vrai droïde."
 
-#, fuzzy
 #~ msgid ""
 #~ "Target: Self\n"
 #~ "I am not the Linarian you are looking for."
 #~ msgstr "Je ne suis pas le Linarien que vous cherchez."
 
-#, fuzzy
 #~ msgid ""
 #~ "Type: Target\n"
-#~ "When computers are presented with the unexpected they can damage "
-#~ "themselves."
+#~ "When computers are presented with the unexpected they can damage themselves."
 #~ msgstr "Présenter de l'inattendu aux ordinateurs peut les endommager."
 
-#, fuzzy
 #~ msgid ""
 #~ "Type: Target\n"
-#~ "It is not a big problem to make a badly designed system to go hunting for "
-#~ "the impossible, causing a performance impact."
-#~ msgstr ""
-#~ "Il n'est pas difficile de faire un système mal conçu avec le but de faire "
-#~ "quelque chose d'impossible en terme de capacité de calcul."
+#~ "It is not a big problem to make a badly designed system to go hunting for the impossible, causing a performance impact."
+#~ msgstr "Il n'est pas difficile de faire un système mal conçu avec le but de faire quelque chose d'impossible en terme de capacité de calcul."
 
-#, fuzzy
 #~ msgid ""
 #~ "Type: Target\n"
-#~ "With a little touch a war machine comes crashing down to a halt. For a "
-#~ "while."
-#~ msgstr ""
-#~ "Une machine de guerre peut crasher jusqu'à l'arrêt avec une simple "
-#~ "pichenette."
+#~ "With a little touch a war machine comes crashing down to a halt. For a while."
+#~ msgstr "Une machine de guerre peut crasher jusqu'à l'arrêt avec une simple pichenette."
 
-#, fuzzy
 #~ msgid ""
 #~ "Target: Target\n"
-#~ "This is not just a firmware upgrade, my dear bot. You are about to find "
-#~ "out what exactly I want to give you."
-#~ msgstr ""
-#~ "Ce n'est pas seulement un mise à jour de micrologiciel, mon cher robot. "
-#~ "Tu es en train d'apprendre exactement ce que je veux que tu apprennes."
+#~ "This is not just a firmware upgrade, my dear bot. You are about to find out what exactly I want to give you."
+#~ msgstr "Ce n'est pas seulement un mise à jour de micrologiciel, mon cher robot. Tu es en train d'apprendre exactement ce que je veux que tu apprennes."
 
-#, fuzzy
 #~ msgid ""
 #~ "Target: Radial wave\n"
-#~ "The network is wide and dangerous. Many traps await for the weak and "
-#~ "unprepared."
-#~ msgstr ""
-#~ "Le réseau est large et dangereux. Beaucoup de pièges attendent les "
-#~ "faibles et les gens non préparés."
+#~ "The network is wide and dangerous. Many traps await for the weak and unprepared."
+#~ msgstr "Le réseau est large et dangereux. Beaucoup de pièges attendent les faibles et les gens non préparés."
 
-#, fuzzy
 #~ msgid ""
 #~ "Type: Target\n"
-#~ "By heating up the chips with a malformed program you can cause them to "
-#~ "release the magic smoke which keeps the bot running. "
-#~ msgstr ""
-#~ "En surchauffant la puce avec un mauvais programme, vous pouvez provoquer "
-#~ "l'émission d'une fumée magique qui gardera le robot en fonctionnement."
+#~ "By heating up the chips with a malformed program you can cause them to release the magic smoke which keeps the bot running. "
+#~ msgstr "En surchauffant la puce avec un mauvais programme, vous pouvez provoquer l'émission d'une fumée magique qui gardera le robot en fonctionnement."
 
-#, fuzzy
 #~ msgid ""
 #~ "Type: Target\n"
-#~ "Messing around with the bot's memory can cause it to severly damage "
-#~ "itself, but the damage is greatly variable."
-#~ msgstr ""
-#~ "Mettre en pagaille la mémoire d'un robot peut lui faire causer des "
-#~ "dommages à lui-même, mais l'importance des dommages est grandement "
-#~ "variable."
+#~ "Messing around with the bot's memory can cause it to severly damage itself, but the damage is greatly variable."
+#~ msgstr "Mettre en pagaille la mémoire d'un robot peut lui faire causer des dommages à lui-même, mais l'importance des dommages est grandement variable."
 
-#, fuzzy
 #~ msgid ""
 #~ "Type: Radial wave\n"
-#~ "The overload setting exists for emergencies. The plasma does not "
-#~ "discriminate between bots and humans. Everything is equal to it, even Tux."
-#~ msgstr ""
-#~ "La configuration de la surcharge existe pour les cas d'urgence. Le plasma "
-#~ "ne fait pas de différence entre les robots et les humains. Ils sont tous "
-#~ "égaux devant lui."
+#~ "The overload setting exists for emergencies. The plasma does not discriminate between bots and humans. Everything is equal to it, even Tux."
+#~ msgstr "La configuration de la surcharge existe pour les cas d'urgence. Le plasma ne fait pas de différence entre les robots et les humains. Ils sont tous égaux devant lui."
 
-#, fuzzy
 #~ msgid ""
 #~ "Type: Projectile\n"
-#~ "The open source game called Nethack is one of the world's greatest "
-#~ "wasters of time. Machines don't care about it, but humans can get sucked "
-#~ "in quite deeply."
-#~ msgstr ""
-#~ "Le jeu open source appelé Nethack est un des plus grands gaspilleurs de "
-#~ "temps du monde. Les machines ne font pas attention à lui, mais les êtres "
-#~ "humains peuvent se faire vraiment entuber profondément."
+#~ "The open source game called Nethack is one of the world's greatest wasters of time. Machines don't care about it, but humans can get sucked in quite deeply."
+#~ msgstr "Le jeu open source appelé Nethack est un des plus grands gaspilleurs de temps du monde. Les machines ne font pas attention à lui, mais les êtres humains peuvent se faire vraiment entuber profondément."
