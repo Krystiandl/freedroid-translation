@@ -21,9 +21,8 @@ msgid "Hello."
 msgstr "Ich grüße Sie!"
 
 #: Template.dialog:39
-#, fuzzy
 msgid "Hi there."
-msgstr "Moin!"
+msgstr "Hallo."
 
 #: Template.dialog:40
 msgid "Well, hello again."
