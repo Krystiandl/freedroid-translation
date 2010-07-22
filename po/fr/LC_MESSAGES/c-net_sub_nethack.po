@@ -61,7 +61,7 @@ msgstr "Magicien"
 
 #: c-net_sub_nethack.dialog:154
 msgid "Choose your race."
-msgstr ""
+msgstr "Choisissez votre race."
 
 #: c-net_sub_nethack.dialog:166 c-net_sub_nethack.dialog:201
 msgid "human"
@@ -81,8 +81,9 @@ msgid "orc"
 msgstr "orc"
 
 #: c-net_sub_nethack.dialog:224
+#, fuzzy
 msgid "Choose your gender."
-msgstr ""
+msgstr "Choisissez votre sexe."
 
 #: c-net_sub_nethack.dialog:233 c-net_sub_nethack.dialog:255
 #: c-net_sub_nethack.dialog:465 c-net_sub_nethack.dialog:576
@@ -100,12 +101,14 @@ msgid "a good"
 msgstr "un bon"
 
 #: c-net_sub_nethack.dialog:271
+#, fuzzy
 msgid "a chaotic"
-msgstr ""
+msgstr "un chaotique"
 
 #: c-net_sub_nethack.dialog:272 c-net_sub_nethack.dialog:569
+#, fuzzy
 msgid "an evil"
-msgstr ""
+msgstr "un maléfique"
 
 #: c-net_sub_nethack.dialog:302
 #, fuzzy
@@ -138,11 +141,11 @@ msgid "The door closes behind you."
 msgstr "La porte se ferme derrière vous."
 
 #: c-net_sub_nethack.dialog:320
+#, fuzzy
 msgid "You find the [b]Amulet of Yendor[/b], and take it and suddenly feel a compulsion to go down, into the depths."
-msgstr ""
+msgstr "Vous trouvez l'[b]Amulette de Yendor[/b], la prenez, et avez soudain envie d'aller vers le bas - dans les profondeurs."
 
 #: c-net_sub_nethack.dialog:321
-#, fuzzy
 msgid " awaits you at the surface"
 msgstr "vous attends à la surface"
 
@@ -161,7 +164,7 @@ msgstr " Vous trouvez une Fausse amulette de Yendor."
 
 #: c-net_sub_nethack.dialog:326
 msgid "You find emptiness."
-msgstr ""
+msgstr "Vous trouvez du vide."
 
 #: c-net_sub_nethack.dialog:326
 msgid "You find an empty room."
@@ -223,15 +226,15 @@ msgstr "Vous êtes au niveau [b]"
 
 #: c-net_sub_nethack.dialog:349
 msgid "You find yourself in a series of passages all alike."
-msgstr ""
+msgstr "Vous vous trouvez dans une série de passages identiques."
 
 #: c-net_sub_nethack.dialog:349
 msgid "You find yourself in an underground office building."
-msgstr ""
+msgstr "Vous vous trouvez dans des bureaux souterrains."
 
 #: c-net_sub_nethack.dialog:349
 msgid "You find yourself in a labyrinth, with 1980's music playing mysteriously."
-msgstr ""
+msgstr "Vous vous trouvez dans un labyrinthe. Vous entendez une mystérieuse musique des années 80."
 
 #: c-net_sub_nethack.dialog:349
 msgid "You find yourself inside a Cretaceous limestone cave."
@@ -255,19 +258,19 @@ msgstr ""
 
 #: c-net_sub_nethack.dialog:349
 msgid "You find yourself in a room filled with rotting corpses."
-msgstr ""
+msgstr "Vous vous trouvez dans une salle remplie de corps fumants."
 
 #: c-net_sub_nethack.dialog:349
 msgid "You find yourself in a goblin village."
-msgstr ""
+msgstr "Vous vous trouvez dans un village gobelin."
 
 #: c-net_sub_nethack.dialog:349
 msgid "You find yourself in an abandoned gold mine."
-msgstr ""
+msgstr "Vous vous trouvez dans une mine d'or abandonnée."
 
 #: c-net_sub_nethack.dialog:349
 msgid "You find yourself. You are in a yoga room."
-msgstr ""
+msgstr "Vous vous trouvez dans une salle de yoga."
 
 #: c-net_sub_nethack.dialog:349
 msgid "You lose yourself in a misty passageway."
@@ -283,7 +286,7 @@ msgstr ""
 
 #: c-net_sub_nethack.dialog:349
 msgid "You find yourself lost in darkness."
-msgstr ""
+msgstr "Vous êtes perdus dans les ténèbres."
 
 #: c-net_sub_nethack.dialog:356
 msgid "angry woodchuck"
@@ -578,18 +581,16 @@ msgid "You go to attack, but then think better."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:415
-#, fuzzy
 msgid "You charge the "
-msgstr " Tu n'es pas un ennemi ?"
+msgstr ""
 
 #: c-net_sub_nethack.dialog:415
 msgid " and strike a mighty blow..."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:415
-#, fuzzy
 msgid "You are puzzeled as to what you plan to attack."
-msgstr " Tu es très calme, en parlant de ta jambe et de l'attaque des robots."
+msgstr ""
 
 #: c-net_sub_nethack.dialog:415
 msgid "You throw a fireball at the "
@@ -744,13 +745,12 @@ msgid "You walk like a duck, quack like a duck and swim like a duck. The "
 msgstr ""
 
 #: c-net_sub_nethack.dialog:451
-#, fuzzy
 msgid " figures you must be a duck."
-msgstr "Je te souhaite bonne chance."
+msgstr ""
 
 #: c-net_sub_nethack.dialog:451
 msgid "You pretend to be a mime."
-msgstr ""
+msgstr "Vous prétendez être un mime."
 
 #: c-net_sub_nethack.dialog:451
 msgid "You pull a rabbit from your tophat."
