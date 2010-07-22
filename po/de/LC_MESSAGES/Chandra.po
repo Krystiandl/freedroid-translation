@@ -29,21 +29,18 @@ msgid "What can you tell me about this place?"
 msgstr "Was können Sie mir über diesen Ort verraten?"
 
 #: Chandra.dialog:50
-#, fuzzy
 msgid "This small town used to be a somewhat successful mining community, exporting rare earth materials and other resources to the rest of the solar system."
-msgstr "Diese kleine Stadt war einst soetwas wie eine erfolgreiche Bergbaugemeinschafft die seltene Erdmaterialien und andere Resourcen and den Rest des Sonnensystems verkaufte."
+msgstr "Diese kleine Stadt war einst soetwas wie eine erfolgreiche Bergbaugemeinschaft die seltene Erdmaterialien und andere Resourcen and den Rest des Sonnensystems verkaufte."
 
 #: Chandra.dialog:51
-#, fuzzy
 msgid "The mines have depleted recently, however. The town was under a threat of bankruptcy. Living here became harder and many left to seek new opportunities elsewhere."
-msgstr "Vor kurzem waren die Minen erschöpft. Die Stadt wurde vor dem Bankrupt bedroht. Das Leben wurde schwieriger und viele verließen den Ort und suchten ihr Glück anderswo."
+msgstr "Doch vor kurzer Zeit erschöpften die Mienen. Die Stadt wurde vor dem Bankrupt bedroht. Das Leben wurde schwieriger und viele verließen den Ort und suchten ihr Glück anderswo."
 
 #: Chandra.dialog:52
 msgid "But now after the Great Assault, the rest of the planet gets bombarded by automated bot ships every now and then, so being down here isn't so bad at all."
 msgstr "Aber nun, nach dem Großen Angriff, wird der Rest des Planeten von Zeit zu Zeit mit automatisierten Robot-Raumschiffen bombardiert - daher ist es eigentlich gar nicht so schlecht, an diesem abgeschiedenen Fleck zu sein."
 
 #: Chandra.dialog:53
-#, fuzzy
 msgid "Even with the Red Guard in charge, I suppose."
 msgstr "Selbst mit der Roten Wache als Federführer, denke ich."
 
@@ -133,19 +130,19 @@ msgstr "Ich weiß ein wenig über die ersten drei Robot-Klassen."
 
 #: Chandra.dialog:95
 msgid "The 100s are cleaning bots of old. Being that, they are quite common. Fortunately for us they aren't as good at killing things as they are at cleaning up the mess afterwards."
-msgstr ""
+msgstr "Die 100er sind alte Aufräumroboter. Daher sind sie auch weit verbreitet. Zum Glück für uns sind sie nicht so gut im Töten, wie sie darin sind, nachher das Durcheinander wieder aufzuräumen."
 
 #: Chandra.dialog:96
 msgid "The 200s are servant bots, designed to come quickly when summoned and be able to lift heavy weights. That makes them more dangerous under most circumstances, so beware of being attacked by more than one at the same time."
-msgstr ""
+msgstr "Die 200er sind Dienstbotenroboter, entworfen um schnell an Ort und Stelle zu sein, wenn sie vorgeladen werden, außerdem können sie schwere Dinge anheben. Das mach sie unter vielen Umständen gefährlicher, pass also auf, dass du nicht von mehr als einem gleichzeitig angegriffen wirst."
 
 #: Chandra.dialog:97
 msgid "Right now, an encounter with a 300 type bot equals death, so try to avoid it. They were messenger bots before the Great Assault, which means they have superb visual sensors and some are very fast."
-msgstr ""
+msgstr "Momentan gleich eine Begegnung mit einem Roboter des Typs 300 dem Tode, also versuche es zu vermeiden. Sie waren Kurierroboter vor dem Großen Angriff, was bedeutet dass sie hervorragende visuelle Sensoren haben und manche von ihnen sehr schnell sind."
 
 #: Chandra.dialog:98
 msgid "There are many more classes out there. The military used bots, of course, and they were used on ships, but I know nothing about those types."
-msgstr ""
+msgstr "Es gibt viele weitere Klassen dort draußen. Roboter für den Militärgebrauch natürlich, diese wurden auf den Schiffen benutzt, leider weiß ich nichts über diese Art von Robotern."
 
 #: Chandra.dialog:103
 msgid "I want to leave this place."
@@ -193,34 +190,31 @@ msgstr "Äh... Würde ich dann nicht noch mehr verprügelt werden? Das wäre dan
 
 #: Chandra.dialog:125
 msgid "Your logic is infallible, Linarian, but you are forgetting one thing: the more you fight, the more experienced you become, and the better at surviving you get."
-msgstr ""
+msgstr "Deine Loglik ist unbestreitbar, Linarianer, aber du vergisst eine Sache: um so mehr du kämpfst, um so erfahrener wirst du und dir wird es auch einfacher fallen, zu überleben."
 
 #: Chandra.dialog:126
 msgid "Also, if you have the money and can find a supplier, it is wise to invest in better equipment - more protective clothing and better weaponry."
-msgstr ""
+msgstr "Wenn du das Geld hast und du einen Zulieferer auftreiben kannst, ist es das beste, in bessere Ausrüstung zu investieren - in besser schützende Kleidung und bessere Waffen."
 
 #: Chandra.dialog:127
-#, fuzzy
 msgid "My advice is to invest in a ranged weapon. While that can create a huge hole in your wallet, it also creates several in the bots, and is better than a huge hole in you."
-msgstr "Mein Rat: investieren Sie in eine weitreichende Waffe. Obwohl so ein großes Loch in Ihrer Geldbörse entstehen kann ist das um einiges besser, als ein großes Loch in Ihnen."
+msgstr "Mein Rat: investieren Sie in eine weitreichende Waffe. Obwohl so ein großes Loch in Ihrer Geldbörse entstehen kann aber auch eins in den Robotern, ist das um einiges besser, als ein großes Loch in Ihnen."
 
 #: Chandra.dialog:128
 msgid "Currently there is a ban on selling such things. The Red Guard wants to be the only ones with good weapons."
 msgstr "Momentan besteht allerdings ein Verbot, solche Dinge zu verkaufen. Die Rote Wache will das alleinige Recht auf den Besitz guter Waffen durchsetzen."
 
 #: Chandra.dialog:129
-#, fuzzy
 msgid "Should you fail to find something decent to shoot or swing with, there are always other options."
 msgstr "Sollten Sie keinen Erfolg haben, einen vernünftigen Schießprügel zu ergattern, gibt es immer noch andere Optionen."
 
 #: Chandra.dialog:130
 msgid "Ewald, the barkeeper, usually sells an assortment of junk, but even he sometimes has something worthwhile on display."
-msgstr ""
+msgstr "Ewald der Bartender verkauft normalerweise nur Ramsch, aber selbst er hat machmal etwas Lohnenswertes in der Auslage. "
 
 #: Chandra.dialog:131
-#, fuzzy
 msgid "There was a person selling grenades, too. Eh... I forgot his name, my memory is not serving me very well today. He's a very mysterious fellow. Perhaps he can help you."
-msgstr "Es gab auch irgendwo eine Person, die Granaten verkauft. Äh... ich habe den Namen vergessen, mein Gedächtnis leistet mir heute keine guten Dienste. Ich bin sicher, dass er Ihnen aushelfen kann."
+msgstr "Es gab auch irgendwo eine Person, die Granaten verkauft. Äh... ich habe den Namen vergessen, mein Gedächtnis leistet mir heute keine guten Dienste. Er ist ein sehr mysteriöser Genosse. Ich bin sicher, dass er Ihnen aushelfen kann."
 
 #: Chandra.dialog:132
 msgid "Other than that, you are on your own."
@@ -235,7 +229,6 @@ msgid "The Red Guard? Unlikely. You'd have to establish a reputation beforehand,
 msgstr "Der Roten Wache? Unwahrscheinlich. Sie müssten sich vorher einen guten Ruf erarbeiten und beweisen, dass Sie Gegenstände reparieren können."
 
 #: Chandra.dialog:140
-#, fuzzy
 msgid "Also, the Red Guard is not a very popular organization, so if you do join them then you can expect to be hated by nearly everyone here."
 msgstr "Natürlich ist die Rote Wache keine besonders beliebte Organisation; daher können Sie damit rechnen, von beinahe allen hier gehasst zu werden, falls Sie dort aufgenommen werden."
 
