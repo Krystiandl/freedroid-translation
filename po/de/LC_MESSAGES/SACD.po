@@ -29,31 +29,30 @@ msgid " Password : "
 msgstr "Passwort :"
 
 #: SACD.dialog:36
-#, fuzzy
 msgid "*******"
 msgstr "*******"
 
 #: SACD.dialog:37
-#, fuzzy
 msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
-msgstr "Letzter Login von /dev/ttyS0 am Sonntag, 23.03.2057. admin@sabwehr: ~ #"
+msgstr "Letzter Login von /dev/ttyS0 am Sonntag, 23.03.2057."
 
 #: SACD.dialog:38
+#, fuzzy
 msgid "Tania's sanitary"
-msgstr ""
+msgstr "Tanias Gesundheit"
 
 #: SACD.dialog:38
+#, fuzzy
 msgid "I have found that SACD and hacked it's system."
-msgstr ""
+msgstr "Ich habe den SACD gefunden und sein System gehackt"
 
 #: SACD.dialog:43 SACD.dialog:56 SACD.dialog:69 SACD.dialog:81
 msgid "admin@sadefence: ~ #"
 msgstr "admin@sadefence: ~ #"
 
 #: SACD.dialog:48
-#, fuzzy
 msgid "/usr/bin/guns --disable"
-msgstr "/usr/bin/guns --ausschalten"
+msgstr "/usr/bin/waffensysteme --ausschalten"
 
 #: SACD.dialog:50
 msgid "Disabling guns..."
@@ -68,7 +67,6 @@ msgid "Guns disabled."
 msgstr "Waffensysteme deaktiviert."
 
 #: SACD.dialog:61
-#, fuzzy
 msgid "/usr/bin/guns --enable"
 msgstr " /usr/bin/waffensysteme --aktivieren"
 
@@ -81,7 +79,6 @@ msgid "Guns enabled."
 msgstr "Waffensysteme aktiviert."
 
 #: SACD.dialog:74
-#, fuzzy
 msgid "/usr/bin/hermodoors --open"
 msgstr " /usr/bin/hermetuer --oeffnen"
 
