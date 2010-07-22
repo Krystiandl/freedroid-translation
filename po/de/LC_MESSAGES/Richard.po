@@ -53,7 +53,6 @@ msgid "Interesting. Let me see this thing. Hmm... Yes, there is quite a lot of d
 msgstr "Interesant. Lass mich mal sehen. Hmm... Ja, da ist in der Tat einiges an Daten drin. Vielleicht können wir Hyra benutzen um die Daten zu verarbeiten."
 
 #: Richard.dialog:64
-#, fuzzy
 msgid "Hey, what do we have here? The data is already prepared for processing by a cluster just like ours. Wow! That's excellent!"
 msgstr "Na, was haben wir denn da? Die Daten sind schon für die Verarbeitung von einem Cluster wie unserem vorbereitet. Hammer! Klasse!"
 
@@ -70,7 +69,6 @@ msgid "Yes, that was simple. I wish everything else went as smoothly as this one
 msgstr "Ja, das war einfach. Ich wünschte, alles wurde so simpel sein..."
 
 #: Richard.dialog:72
-#, fuzzy
 msgid "Hey, did you get something out of that data cube?"
 msgstr "Hey, hat der Datenkubus schon was ausgespuckt?"
 
@@ -80,7 +78,7 @@ msgstr "Klar! Ich sagte doch, Hydra hat noch nie versagt. Ich habe es selbst ent
 
 #: Richard.dialog:75
 msgid "Seems like the disruptor shield which thwarts all our attacks on Hell Fortress can be controlled from somewhere outside, or something like that."
-msgstr ""
+msgstr "Es sieht aus, als könne das Disruptorschild, welches all unseren Angriffen auf die Höllenfestung entgegenwirkt irgendwie von irgendwo außerhalb kontrolliert werden."
 
 #: Richard.dialog:76
 msgid "I was busy servicing one of Hydra's nodes, but I sent the full report to Spencer. He will tell you more."
