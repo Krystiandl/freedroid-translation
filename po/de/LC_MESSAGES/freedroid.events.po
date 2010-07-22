@@ -90,14 +90,12 @@ msgid "Exit Master Arena"
 msgstr "Ausgang Experten-Arena"
 
 #: freedroid.events:291
-#, fuzzy
 msgid "lock player inside firmware room"
 msgstr "verschließe den Spieler im Firmware Raum"
 
 #: freedroid.events:301
-#, fuzzy
 msgid "Open firmware upgrade room"
-msgstr "Öffne der Firmware-Updates-Raum"
+msgstr "Öffne der Firmware-Upgrade Raum"
 
 #: freedroid.events:314
 msgid "FIXME2"
@@ -117,10 +115,9 @@ msgstr "Roter Platz"
 
 #: freedroid.events:373
 msgid "Good, now move to the black grating to the East."
-msgstr ""
+msgstr "Gut, bewege dich jetzt zu der schwarzen Vergitterung nach Osten."
 
 #: freedroid.events:374 freedroid.events:386
-#, fuzzy
 msgid "Quest log updated"
 msgstr "Questlog aktualisiert"
 
@@ -150,11 +147,11 @@ msgstr "Zurück zur Disruptorschild-Kontrolle"
 
 #: freedroid.events:496
 msgid "To Mashine Deck Lower Catacombs"
-msgstr ""
+msgstr "Zu den Katacomben des unteren Maschienendecks"
 
 #: freedroid.events:508
 msgid "Back to Machine Deck Upper Catacombs"
-msgstr ""
+msgstr "Zurück zu den Katacomben des oberen Maschienendecks"
 
 #: freedroid.events:517
 msgid "To Disruptor Mashine Deck"
