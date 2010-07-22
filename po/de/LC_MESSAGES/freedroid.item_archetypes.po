@@ -1162,11 +1162,11 @@ msgstr "Ein Miniaturlaser der von einer Nuklearbatterie betrieben wird. Wenn man
 
 #: freedroid.item_archetypes:4131
 msgid "Exoskeletal Joint"
-msgstr ""
+msgstr "Exoskeletales Gelenk"
 
 #: freedroid.item_archetypes:4140
 msgid "This electromechanical joint helps you to perform physically demanding tasks more easily by amplifying the movements of your body."
-msgstr ""
+msgstr "Dieses elektromechanische Gelenk hilft, physisch belastende Aufgaben einfacher zu erledigen indem es die Bewegungen des Körpers verstärkt."
 
 #: freedroid.item_archetypes:4144
 msgid "Heatsink"
