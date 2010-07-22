@@ -27,13 +27,12 @@ msgid "139 Templar"
 msgstr ""
 
 #: freedroid.droid_archetypes:121
-#, fuzzy
 msgid "Created by Dr. Masternak to clean up large heaps of rubbish. Its large scoop is used to collect rubbish. It is then crushed internally."
-msgstr "Créé par le Docteur Masternak pour éliminer de grandes quantités d'ordures. Sa large écope est utilisée pour collecter les ordures. Elles sont ensuite compressées à l'intérieur."
+msgstr "Créé par le Docteur Masternak pour éliminer de grandes quantités d'ordures. Sa large écope est utilisée pour collecter les ordures. Elles sont ensuite éliminées à l'intérieur."
 
 #: freedroid.droid_archetypes:125
 msgid "247 Banshee"
-msgstr ""
+msgstr "247 Banshee"
 
 #: freedroid.droid_archetypes:149
 msgid "A light duty servant robot. One of the first to use the anti-grav system."
@@ -41,7 +40,7 @@ msgstr "Un robot serviteur léger. Un des premiers à utiliser le système anti-
 
 #: freedroid.droid_archetypes:153
 msgid "249 Chicago"
-msgstr ""
+msgstr "249 Chicago"
 
 #: freedroid.droid_archetypes:177
 msgid "Cheaper version of the anti-grav servant robot."
@@ -57,7 +56,7 @@ msgstr "Fuyez ! Ce robot va vous tuer"
 
 #: freedroid.droid_archetypes:209
 msgid "302 Nemesis"
-msgstr ""
+msgstr "302 Nemesis"
 
 #: freedroid.droid_archetypes:233
 #, fuzzy
@@ -107,7 +106,7 @@ msgstr "Un des premiers droïdes d'équipages. Il est seulement capable d'effect
 
 #: freedroid.droid_archetypes:377
 msgid "571 Apollo"
-msgstr ""
+msgstr "571 Apollo"
 
 #: freedroid.droid_archetypes:401
 msgid "A standard crew droid. Supplied with the ship."
@@ -124,7 +123,7 @@ msgstr "Un périphérique hautement sophistiqué. Capable de contrôler tout seu
 
 #: freedroid.droid_archetypes:433
 msgid "614 Security Bot"
-msgstr ""
+msgstr "614 Droïde de sécurité"
 
 #: freedroid.droid_archetypes:457
 msgid "A low security sentinel droid. Used to protect areas of the ship from intruders. A slow but sure device."
@@ -159,7 +158,7 @@ msgstr "Droïde de combat lourd. Un disrupteur est intégré dans la tête. Un d
 
 #: freedroid.droid_archetypes:545
 msgid "742 Zeus"
-msgstr ""
+msgstr "742 Zeus"
 
 #: freedroid.droid_archetypes:569
 msgid "This version is the one mainly used by the military."
@@ -167,7 +166,7 @@ msgstr "Cette version est celle principalement utilisée par les militaires."
 
 #: freedroid.droid_archetypes:573
 msgid "751 Soviet"
-msgstr ""
+msgstr "751 Soviet"
 
 #: freedroid.droid_archetypes:597
 #, fuzzy
@@ -242,16 +241,15 @@ msgstr "C'est le modèle de personnage de scientifique femme. Elles ne sont pas 
 
 #: freedroid.droid_archetypes:806
 msgid "Mine Worker"
-msgstr ""
+msgstr "Mineur"
 
 #: freedroid.droid_archetypes:825
 msgid "This is the brown worker model.  They are not armed as powerfully as e.g. the red guards."
 msgstr "C'est le modèle travailleur marron. Ils ne sont pas armés aussi puissamment que les gardes rouges."
 
 #: freedroid.droid_archetypes:829
-#, fuzzy
 msgid "Blue Brother"
-msgstr "Écran bleu"
+msgstr "Frère bleu"
 
 #: freedroid.droid_archetypes:848
 msgid "This is a useless comment. Thanks for your attention."
@@ -266,9 +264,8 @@ msgid "This is the cook."
 msgstr "C'est le cuisinier."
 
 #: freedroid.droid_archetypes:876
-#, fuzzy
 msgid "Balding Man"
-msgstr "Flamboyant(e) "
+msgstr ""
 
 #: freedroid.droid_archetypes:895
 #, fuzzy
