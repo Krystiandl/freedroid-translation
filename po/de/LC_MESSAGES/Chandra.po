@@ -242,11 +242,11 @@ msgstr "Welche Robots sind in der 100er Klasse zu finden?"
 
 #: Chandra.dialog:148
 msgid "I know of two types, the 123 and the 139. The former is a simple cleaning bot, and is fairly weak. The latter is a mobile trash compactor. Don't get your flippers get caught in one of those."
-msgstr ""
+msgstr "Ich kenne zwei Klassen, die 123 und 139. Die erstere ist ein einfacher Putzroboter und recht schwach. Der letztere ist eine mobile Müllpresse. Du solltest deine Flossen nicht in so einem verfangen."
 
 #: Chandra.dialog:149
 msgid "I've seen some of those on my way here. They were... Shooting at me."
-msgstr ""
+msgstr "Ich hab einige von denen auf dem Weg hier her gesehen. Sie... haben auf mich geschossen."
 
 #: Chandra.dialog:150
 msgid "Many strange things have happened since the Great Assault."
@@ -270,23 +270,23 @@ msgstr "Welche Bots gibt es in der 200er Klasse?"
 
 #: Chandra.dialog:160
 msgid "In fitting with the lazy nature of humans, there are several servant bots of the 200 class."
-msgstr ""
+msgstr "Im Einklang mit der faulen Natur des Menschen gibt es viele Dienstroboter in der 200er Klasse."
 
 #: Chandra.dialog:161
 msgid "The 247 is often called the 'Banshee'. Being a simple servant robot, it isn't very well equipped to kill, although its arms are quite strong."
-msgstr ""
+msgstr "Der 247 wird oft 'Banshee' genannt. Der ist ein einfacher Dienerroboter, nicht sehr gut zum töten ausgestattet, seine Arme jedoch sind sehr stark."
 
 #: Chandra.dialog:162
 msgid "Also, as I said, the 200s were built to report quickly. The 247 is no exception, and moves faster than some of us can run. As a killer bot, it has a fast rate of attack. It is not something to be trifled with."
-msgstr ""
+msgstr "Wie ich bereits erwähnte, sind die 200er auch erbaut worden, um schnell Bericht zu erstatten. Der 247 ist da keine ausnahme, er bewegt sich schneller, als einige von uns rennen können. Als ein Tötungsroboter hat er eine hohe Angriffsrate. Es ist nichts, womit man gerne getändelt wird."
 
 #: Chandra.dialog:163
 msgid "The 249 is a cheaper version of the Banshee. It uses a tripedal drive instead of anti-gravity propulsion, and is therefore slower. However it is much more dangerous: its machine gun has a very high rate of fire."
-msgstr ""
+msgstr "Der 249 ist die billigere Version des Banshees. Er hat eine dreifüßigen Antrieb anstelle der Anti-Schwerkrafts-Antriebskraft, daher ist er langsamer. Jedoch weitaus gefährlicher. Die Maschinenpistole hat eine sehr hohe Feuerrate."
 
 #: Chandra.dialog:164
 msgid "Machine gun?! But... But it's a servant bot!"
-msgstr ""
+msgstr "Maschienenpistole?! Aber... Aber es ist doch ein Dienerroboter!"
 
 #: Chandra.dialog:165
 msgid "I know, "
@@ -298,15 +298,16 @@ msgstr ". Ich weiß."
 
 #: Chandra.dialog:166
 msgid "Let's see... Oh, there is also the 296, which was used for serving drinks. Ewald once had one of those in his bar."
-msgstr ""
+msgstr "Mal schauen... Oh, es gibt auch noch den 296, er wurde benutzt um Drinks zu servieren. Ewald hatte mal einen von denen in seiner Bar."
 
 #: Chandra.dialog:167
 msgid "Once? What happened to it?"
 msgstr "Damals? Was ist damit passiet?"
 
 #: Chandra.dialog:168
+#, fuzzy
 msgid "No one knows. One day it simply wasn't there. Ewald probably remembers more than I do, though."
-msgstr ""
+msgstr "Eines Tages war es einfach nicht mehr da. Ewald kann sich da bestimmt an mehr erinnern, als ich."
 
 #: Chandra.dialog:174
 msgid "What other bots are out there?"
@@ -314,11 +315,11 @@ msgstr "Welche anderen Typklassen gibts da draußen noch?"
 
 #: Chandra.dialog:176
 msgid "Though I do not know the details, I assure you there are many. Robots and automated machinery served almost every purpose you can imagine, and probably some that you can't."
-msgstr ""
+msgstr "Obwohl ich keine Detail kenne, versichere ich dir, dass es da viele gibt. Roboter und automatisierte Maschienen dienten nahezu jedem Zweck, dan man sich nur vorstellen kann, und bestimmt auch welche, die du dir nicht vorstellen kannst."
 
 #: Chandra.dialog:177
 msgid "They were used by the military, aboard ships, as security droids and more. Right now, however, most of the people who know them up close are pushing up daisies."
-msgstr ""
+msgstr "Sie wurden vom Militär benutzt, an Bord von Schiffen, als Sicherheitsdroiden und noch mehr. Momentan ist es aber eher so, dass die meisten Leute, die die Roboter näher kannten, jetzt die Radischen von unten sehen...."
 
 #: Chandra.dialog:182
 msgid "Thank you for your wise words."
