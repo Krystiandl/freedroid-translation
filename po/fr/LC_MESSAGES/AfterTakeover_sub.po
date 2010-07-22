@@ -12,10 +12,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
-"X-Poedit-Country: FRANCE\n"
 "Language: \n"
-"X-Generator: Launchpad (build Unknown)\n"
 "X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Generator: Launchpad (build Unknown)\n"
 
 #: AfterTakeover_sub.dialog:33
 #, fuzzy
@@ -24,12 +24,11 @@ msgstr ".. type_robot() .."
 
 #: AfterTakeover_sub.dialog:47 AfterTakeover_sub.dialog:50
 msgid "./est_repair.plx"
-msgstr ""
+msgstr "./estimation_reparation.plx"
 
 #: AfterTakeover_sub.dialog:59
-#, fuzzy
 msgid "Repairs on "
-msgstr "Réparation en cours."
+msgstr "Réparation en cours"
 
 #: AfterTakeover_sub.dialog:59
 msgid " will take less than "
@@ -40,8 +39,9 @@ msgid " seconds, "
 msgstr "secondes, "
 
 #: AfterTakeover_sub.dialog:59
+#, fuzzy
 msgid " valuable circuits, and "
-msgstr ""
+msgstr "circuits importants et"
 
 #: AfterTakeover_sub.dialog:59
 msgid " heat."
@@ -52,12 +52,13 @@ msgid "You do not have enough valuable circuits to ensure repair of this "
 msgstr "Vous n'avez pas suffisament de circuits intéressants à disposition pour pouvoir réparer ceci."
 
 #: AfterTakeover_sub.dialog:62 AfterTakeover_sub.dialog:154
+#, fuzzy
 msgid " unit."
-msgstr ""
+msgstr "unité."
 
 #: AfterTakeover_sub.dialog:67
 msgid " is currently undamaged."
-msgstr ""
+msgstr "n'est pas endommagé."
 
 #: AfterTakeover_sub.dialog:74 AfterTakeover_sub.dialog:77
 msgid "./repair.plx"
@@ -293,7 +294,6 @@ msgid "[/b] to [b]"
 msgstr "[/b] pour [b]"
 
 #: AfterTakeover_sub.dialog:172
-#, fuzzy
 msgid "[/b]? [Y/N]"
 msgstr "[/b]? [O/N]"
 
