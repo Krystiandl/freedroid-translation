@@ -12,10 +12,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
-"Language: \n"
-"X-Poedit-Language: French\n"
 "X-Poedit-Country: FRANCE\n"
+"Language: \n"
 "X-Generator: Launchpad (build Unknown)\n"
+"X-Poedit-Language: French\n"
 
 #: TutorialTom.dialog:51
 msgid "Tutorial Tom"
@@ -282,12 +282,11 @@ msgstr ""
 
 #: TutorialTom.dialog:186
 msgid "Perhaps the best thing you can find, though, is armor. At least, given the current situation with the bots, that is."
-msgstr ""
+msgstr "La meilleure chose que tu peux trouver est surement une armure. En tout cas, étant donné la situation actuelle avec les robots, évidemment."
 
 #: TutorialTom.dialog:191
-#, fuzzy
 msgid "Armor? I should know more about this."
-msgstr "Armure? Je veux en savoir plus."
+msgstr "Une armure? Je veux en savoir plus."
 
 #: TutorialTom.dialog:193
 msgid "In the years since you entered stasis, mankind has done much research in the field of robotics."
@@ -324,12 +323,11 @@ msgstr ""
 
 #: TutorialTom.dialog:207
 msgid "Even the best of fighters sometimes get hit by enemy blows. If I were you, I would seriously consider wearing some sort of armor before mixing it up with those bots."
-msgstr ""
+msgstr "Même les meilleurs combattants se font parfois toucher par les coups ennemis. Si j'étais toi, je considérerais sérieusement de porter une armure avant d'aller m'occuper de ces robots."
 
 #: TutorialTom.dialog:208
-#, fuzzy
 msgid "They will help to mitigate some of the damage you take from melee or ranged combat."
-msgstr "Elles vous aideront à contrer une partie des dégats que vous receverez des attaques en mêlée ou en combat à distance."
+msgstr "Elles vous aideront à contrer une partie des dégâts que vous recevrez des attaques en mêlée ou en combat à distance."
 
 #: TutorialTom.dialog:209
 #, fuzzy
