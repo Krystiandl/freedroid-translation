@@ -37,16 +37,14 @@ msgid "There are two kinds or armor, a heavy Red Guard robe and a light version 
 msgstr "Es gibt zwei Arten an Schutzpanzern: die schwere, ultrastabile Wachrüstung und eine leichtere Version der gleichen Ausführung."
 
 #: Lukas.dialog:53
-#, fuzzy
 msgid "But we also trade guns and some ammo."
-msgstr "Aber wir haben auch Knarren und etwas Munition."
+msgstr "Aber wir haben auch Geschütze und etwas Munition."
 
 #: Lukas.dialog:54
 msgid "Now, what will it be?"
 msgstr "Also, was darf's denn sein?"
 
 #: Lukas.dialog:54
-#, fuzzy
 msgid "So, what do you want to buy?"
 msgstr "Also, was darfs sein?"
 
@@ -59,9 +57,8 @@ msgid "Oh, there's always something to do. Don't worry. I'm pretty occupied keep
 msgstr "Ach, es gibt immer genug zu tun, keine Sorge. Ich bin gut damit beschäftigt, alles in Ordnung zu halten."
 
 #: Lukas.dialog:66
-#, fuzzy
 msgid "I'd like to buy an exterminator"
-msgstr "Ich würde gern einen Ausrotter kaufen."
+msgstr "Ich würde gern einen Exterminator kaufen."
 
 #: Lukas.dialog:68
 msgid "Haha, good one."
