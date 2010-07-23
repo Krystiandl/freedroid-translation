@@ -404,19 +404,19 @@ msgstr "Wieviele Diliziumkristalle brauchst du`?"
 
 #: Michelangelo.dialog:257
 msgid "A single small crystal could power my oven for a decade if it is of good quality. But unfortunately my oven requires two to operate correctly. And since it is so dangerous to send anyone to get dilithium, could you get me a spare as well?"
-msgstr ""
+msgstr "Ein einziger kleiner Kristall hoher qualität könnte meinen Ofen für ein Jahrzehnt versorgen. Aber leider brauch mein Ofen zwei davon, um vernünftig zu laufen. Und da es sehr gefährlich ist, jemanden da runter zu schicken, könntest du mir noch einen Ersatzkristall mitbringen?"
 
 #: Michelangelo.dialog:258
 msgid "So you need three dilithium crystals?"
-msgstr ""
+msgstr "Also brauchst du drei Diliziumkristalle?"
 
 #: Michelangelo.dialog:259
 msgid "Yes. Please get me three dilithium crystals."
-msgstr ""
+msgstr "Ja. Bitte besorg mir drei Diliziumkristall."
 
 #: Michelangelo.dialog:261
 msgid "I am supposed to get three dilithium crystals for that cook, Michelangelo. Without them he cannot cook anything in his macrowave oven. And without his cooking the whole city is stuck eating army snacks. Many people have committed suicide because of the horrible food. This madness must stop."
-msgstr ""
+msgstr "Ich soll drei Diliziumkristalle für den Koch, Michelangelo besorgen. Ohne diese kann er nichts in seinem Mikrowellenherd zubereiten. Und ohne seine Kochkunst bleib der ganzen Stadt nichts anderes übrig, als diese Armeerationen herrunterzuwürgen. Viele haben deswegen schon Selbstmord begangen. Dem Wahnsinn muss ein Ende gesetzt werden."
 
 #: Michelangelo.dialog:266
 msgid "What is this 'dilithium'?"
@@ -484,11 +484,11 @@ msgstr "Ich brauche einen von diesen Kristallen wieder, es geht um Leben und Tot
 
 #: Michelangelo.dialog:305
 msgid "I gave you all of the crystals I can spare."
-msgstr ""
+msgstr "Ich hab dir alles an Kristallen gegeben, was ich entbehren konnte."
 
 #: Michelangelo.dialog:312
 msgid "I guess I can spare one of them, since it is an emergency."
-msgstr ""
+msgstr "Ich denke, ich kann einen entbehren, vorallem, da es ein Notfall zu sein scheint."
 
 #: Michelangelo.dialog:315
 msgid "I remembered that I gave Michelangelo three dilithium crystals when he only needed two for his oven. I convinced him it was a life-or-death situation (is the SADD a life-form?) so he returned the spare one to me. Looks like I saved myself a trip back to the old dilithium mine!"
