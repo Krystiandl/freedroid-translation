@@ -68,54 +68,52 @@ msgid "Yes, it would be most kind of you. I don't remember anything."
 msgstr "Ja, das wäre äußerst liebenswürdig. Ich erinnere mich an gar nichts."
 
 #: TutorialTom.dialog:77
+#, fuzzy
 msgid "You Linarians keep a quest [b]Log[/b] where you write down key bits of information."
-msgstr ""
+msgstr "Ihr Linarianer führt ein quest [b]Log[/b] wo ihr Schlüsselinformationen notiert."
 
 #: TutorialTom.dialog:78
 msgid "When you aren't speaking with someone, you can open it up or close it by pressing the [b]Q key[/b]."
-msgstr ""
+msgstr "Wenn du nicht gerade mit jemandem sprichst kann du es aufrufen oder und auch wieder schließen, indem du die [b]Q-Taste[/b] drückst."
 
 #: TutorialTom.dialog:79
 msgid "I'll assign you a new quest, so you can try it out. Once you are done, [b]left click[/b] on me."
-msgstr ""
+msgstr "Ich werde dir eine neue Aufgabe aufgeben, damit du es ausprobieren kannst. Wenn du fertig bist, klicke mich mit der [b]linken Maustaste[/b] an."
 
 #: TutorialTom.dialog:81
 msgid "To talk to someone, left click on them! You can talk to any friendly bot or person. Friendly people and bots have a green bar above them. Press the Q key to open or close the quest log. Left click back on Tutorial Tom to learn more!"
-msgstr ""
+msgstr "Um jemanden anzusprechen, klicke ihn oder sie mit der linken Maustaste an! Du kannst mit jeder beliebigen freundlichen Person oder auch mit freundlichen Roboter sprechen. Freundlich gesinnte Personen oder Roboter haben grüne Balken über ihren Köpfen. Drücke die Q-Taste um den Questlog zu öffenn oder zu schließen. Linksklick auf Tutorial Tom um mehr zu lernen."
 
 #: TutorialTom.dialog:83
 msgid "Press Q for Quests"
-msgstr ""
+msgstr "Drücke Q für Aufgaben"
 
 #: TutorialTom.dialog:89
-#, fuzzy
 msgid "What can you tell me about finding my way in the world?"
-msgstr " Was wissen Sie über diese Kraftpillen?"
+msgstr "Was kannst du mir darüber erzählen, wie ich mich in der Welt zurechtfinden soll?"
 
 #: TutorialTom.dialog:91
-#, fuzzy
 msgid "You Linarians see the world similar to the Heads Up Displays, or [b]HUD[/b], used in computer games."
-msgstr "Wenn ich das richtig verstehe, seht ihr Linarianer die Welt ganz so ähnlich wie durch die in den Computerspielen unserer Vergangenheit verwendeten Head Up Displays."
+msgstr "Wenn ich das richtig verstehe, seht ihr Linarianer die Welt ganz so ähnlich wie durch die in den Computerspielen unserer Vergangenheit verwendeten Head Up Displays, auch [b]HUD[/b] genannt."
 
 #: TutorialTom.dialog:92
-#, fuzzy
 msgid "Linarians, like all birds, have a remarkable internal sense of direction.  Apparently your HUD has a [b]compass[/b], represented by four red arrows in the upper right corner with North marked on it."
-msgstr "Fangen wir mit deinem Kompass an. Linarianer haben einen bemerkenswerten inneren Orientierungssinn, dargestellt durch vier Pfeile in der rechten oberen Ecke deines HUDs."
+msgstr "Linarianer haben, wie alle Vögel, einen bemerkenswerten innere Richtungssinn. Anscheinend hat dein HUD einen [b]Kompass[/b], durch vier rote Pfeile, einer davon mit Norden markiert, repräsentiert wird und sich in der oberen rechten Ecke befindet. "
 
 #: TutorialTom.dialog:93
 msgid "I learned the four red arrows in the upper-right of my HUD is a compass with north marked on it."
-msgstr ""
+msgstr "Ich habe gelernt, dass die vier roten Pfeile in der oberen rechten hälfte des HUDs ein Kompass ist, bei dem der Norden markiert ist."
 
 #: TutorialTom.dialog:94
+#, fuzzy
 msgid "Rumor is there was a device Linarians used to remember every place they had been, called an [b]automap[/b]."
-msgstr ""
+msgstr "Es gibt Gerüchte, dass es ein Gerät gab, mit dem sich Linarianer an alle Orte erinnern, an denen sie einst waren, namens [b]Automap[/b]."
 
 #: TutorialTom.dialog:95
 msgid "Although, you don't currently have such a device, you might find someone with nanotechnology skills to make one."
-msgstr ""
+msgstr "Obwohl du soetwas momentan nicht besitzt, könntest du vielleicht jemanden mit Nanotechnologiekenntnissen auftreiben, der diese Dinger herstellt."
 
 #: TutorialTom.dialog:96
-#, fuzzy
 msgid "I'll keep that in mind."
 msgstr "Ich werde daran denken."
 
@@ -128,21 +126,20 @@ msgid "Ah yes, movement. It's second nature to us humans, but our research with 
 msgstr "Ah ja, Bewegung. Sie ist für uns Menschen selbstverständlich, aber unsere zurückliegenden Forschungen an dir haben gezeigt, dass dein Gehirn eher wie ein Computer zu funktionieren scheint.   "
 
 #: TutorialTom.dialog:104
-#, fuzzy
 msgid "To move somewhere, you first need to determine where you want to go by [b]left clicking[/b] where you want to go on your HUD."
-msgstr "Um eine bestimmte Stelle zu erreichen, musst du zuerst einmal festlegen wohin du gehen willst und dann den Startimpuls geben."
+msgstr "Um eine bestimmte Stelle zu erreichen, musst du zuerst einmal festlegen wohin du gehen willst indem du an die entsprechende Stelle auf dem HUD einen [b]Linksklick[/b] ausführst."
 
 #: TutorialTom.dialog:105
 msgid "If you can go there, you will do so."
-msgstr ""
+msgstr "Wenn der Weg frei ist, wirst du dich dann dort hinbegeben,"
 
 #: TutorialTom.dialog:106
 msgid "Now try to move to the red dot to the north. Then to the black grating to the east, and then talk to me again."
-msgstr ""
+msgstr "Versuch jetzt, zu dem nördlichen roten Punkt zu gehen. Dann zu dem schwarzen Gitter östlich, sprich mich dann nochmal an."
 
 #: TutorialTom.dialog:107
 msgid "I'm supposed to left click anywhere to move to a location. If I can figure out a way, I will move there automatically. Tom wants me to first try to move to the red dot to the North."
-msgstr ""
+msgstr "Ich soll überall da, wo ich hingehen will einen Linksklick ausführen. Wenn ich mir einen Weg ausrechnen kann, werde ich automatisch dort hingehen. Tom möchte, dass ich zuerst zu den roten Punkt im Norden gehen."
 
 #: TutorialTom.dialog:114
 msgid "What else makes me different as a Linarian?"
