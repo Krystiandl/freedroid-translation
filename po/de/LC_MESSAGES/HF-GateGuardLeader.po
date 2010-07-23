@@ -18,7 +18,7 @@ msgstr "Hey, Linarianer, was willst du hier?"
 
 #: HF-GateGuardLeader.dialog:37 HF-GateGuardLeader.dialog:67
 msgid "Opening access to MS Office"
-msgstr ""
+msgstr "Zugang zum MS Büro ermöglichen"
 
 #: HF-GateGuardLeader.dialog:44
 msgid "GET OUT OF HERE YOU IDIOT!"
@@ -29,9 +29,8 @@ msgid "Just taking a look around."
 msgstr "Ich schau mich nur um."
 
 #: HF-GateGuardLeader.dialog:54
-#, fuzzy
 msgid "Oh, look. The bird wants to go for a walk."
-msgstr "Oh, der Vogel möchte auf Wanderschaft."
+msgstr "Oh, schau, der Vogel möchte auf Wanderschaft."
 
 #: HF-GateGuardLeader.dialog:55
 msgid "We don't call this place 'hell' for nothing."
@@ -46,18 +45,16 @@ msgid "I'd like to go through that gate."
 msgstr "Ich würde gerne durch das Tor."
 
 #: HF-GateGuardLeader.dialog:63
-#, fuzzy
 msgid "Are you totally out of your mind?"
 msgstr "Hast du einen Sprung in der Schüssel??"
 
 #: HF-GateGuardLeader.dialog:64
-#, fuzzy
 msgid "There are trillions of millions of quintillions of bots in there!"
 msgstr "Es gibt abertausende Roboter da drin!"
 
 #: HF-GateGuardLeader.dialog:65
 msgid "Besides that, on the other side of the door is a disruptor shield, which we can't control."
-msgstr ""
+msgstr "Außerdem gibt es auf der anderen Seite ein Disruptorschild, was wir nicht kontrolliern können."
 
 #: HF-GateGuardLeader.dialog:66
 msgid "* Throws a stone through the door"
@@ -68,7 +65,6 @@ msgid "* Stone freely flies through the gate and drops on the ground on the othe
 msgstr "*der Stein fliegt durch das Tor und fallt auf der anderen Seite zu Boden"
 
 #: HF-GateGuardLeader.dialog:69
-#, fuzzy
 msgid "SHIT! SHIELD DISABLED! PREPARE FOR BOT ATTACK!"
 msgstr "SCHEIßE! DAS SCHILD IST DEAKTIVERT! BEREITMACHEN FÜR EINEN ROBOBOTERANGRIFF!"
 
@@ -77,7 +73,6 @@ msgid "* Stone disappears leaving a small cloud of dust"
 msgstr "* Stein verscheindet und hinterlässt eine kleine Staubwolke"
 
 #: HF-GateGuardLeader.dialog:73
-#, fuzzy
 msgid "Find a different gate to go through."
 msgstr "Such dir ein anderes Tor zum durchgehen."
 
@@ -97,6 +92,8 @@ msgstr "Geh weg!"
 #: HF-GateGuardLeader.dialog:88
 msgid "Calm down. This is not an attack. I've disabled the shield and I'm going to disable all the bots around! Didn't Spencer inform you?"
 msgstr ""
+"Beruhig dich. Das ist kein Angriff. Ich habe das Schild deaktiviert und ich werde auch all die Roboter da deaktivieren.\r\n"
+"Hat dich Spencer nicht informiert?"
 
 #: HF-GateGuardLeader.dialog:90
 msgid "WHAT?! Not an attack?!"
@@ -107,21 +104,19 @@ msgid "I hope you are telling the truth. One second..."
 msgstr "Ich hoffe, du sagts die Wahrheit. Eine Sekunde..."
 
 #: HF-GateGuardLeader.dialog:92
+#, fuzzy
 msgid "Propagating a faulty firmware"
-msgstr ""
+msgstr "fehlerhafte Firmware verbreiten"
 
 #: HF-GateGuardLeader.dialog:97
-#, fuzzy
 msgid "Nothing from Spencer, ya fat duck. Now leave."
-msgstr "Nichts von Spencer, du fette Ente. Hau ab."
+msgstr "Nichts von Spencer, du fette Ente. Hau ab!"
 
 #: HF-GateGuardLeader.dialog:106
-#, fuzzy
 msgid "Right, there is a message from Spencer, you can enter Hell Fortress. And may the source be with you!"
-msgstr "Ja, da ist eine Nachricht von Spencer, du kannst in die Höllenfestung- Möge die Quelle mit dir sein."
+msgstr "Ja, da ist eine Nachricht von Spencer, du kannst in die Höllenfestung. Und möge die Quelle mit dir sein."
 
 #: HF-GateGuardLeader.dialog:111
-#, fuzzy
 msgid "Relax, I'm leaving."
 msgstr "Entspann dich, ich geh ja schon."
 
