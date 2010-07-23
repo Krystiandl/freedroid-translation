@@ -26,12 +26,10 @@ msgid "North Gate Guard"
 msgstr "Wache des Nordtores"
 
 #: ReturnOfTux.droids:61
-#, fuzzy
 msgid "Gate Guardhouse Guard"
 msgstr "Torwache des Wachhauses"
 
 #: ReturnOfTux.droids:62
-#, fuzzy
 msgid "Town Teleporter Guard"
 msgstr "Stadtteleporter Wache"
 
@@ -42,22 +40,19 @@ msgstr "Mitglied der Roten Wache"
 
 #: ReturnOfTux.droids:64
 msgid "Chandra -- Town Sage"
-msgstr ""
+msgstr "Chandra -- Weise der Stadt"
 
 #: ReturnOfTux.droids:65
-#, fuzzy
 msgid "Medic"
 msgstr "Arzt"
 
 #: ReturnOfTux.droids:66
-#, fuzzy
 msgid "Shopowner"
-msgstr "Ladenbesitzer"
+msgstr "Ladenbesitzer(in)"
 
 #: ReturnOfTux.droids:67
-#, fuzzy
 msgid "COBAL Programmer"
-msgstr "COBAL Programmierer"
+msgstr "COBAL Programmierer(in)"
 
 #: ReturnOfTux.droids:68
 msgid "614 -- North Gate Guard Bot"
@@ -72,12 +67,10 @@ msgid "614 -- East Gate Guard Bot"
 msgstr "614 -- Bewachungsroboter des Osttores"
 
 #: ReturnOfTux.droids:72 ReturnOfTux.droids:73
-#, fuzzy
 msgid "614 -- Patrolling Guard Bot"
 msgstr "614 -- Wachroboterpatrouille"
 
 #: ReturnOfTux.droids:74
-#, fuzzy
 msgid "*nix Admin"
 msgstr "*nix Admin"
 
@@ -90,7 +83,6 @@ msgid "Guy with Hat"
 msgstr "Typ mit Hut"
 
 #: ReturnOfTux.droids:79
-#, fuzzy
 msgid "Sketchy Guy"
 msgstr "Oberflächlicher Typ"
 
@@ -99,7 +91,6 @@ msgid "Mine Worker"
 msgstr "Minenarbeiter"
 
 #: ReturnOfTux.droids:83
-#, fuzzy
 msgid "Spencer -- Leader of the Red Guard"
 msgstr "Spencer -- Anführer der Roten Wache"
 
@@ -121,15 +112,15 @@ msgstr "Peter -- Gefangener Rebell"
 
 #: ReturnOfTux.droids:110
 msgid "Dark Apprentice of MegaSys"
-msgstr ""
+msgstr "Dunkler Lehrling MegaSys'"
 
 #: ReturnOfTux.droids:131
 msgid "DSB Control Terminal Guard"
-msgstr ""
+msgstr "DSB Kontrollterminaldroide"
 
 #: ReturnOfTux.droids:154
 msgid "The Singularity"
-msgstr ""
+msgstr "Die Singularität"
 
 #: ReturnOfTux.droids:173 ReturnOfTux.droids:174
 msgid "Blue Guy"
@@ -166,7 +157,7 @@ msgstr "Gefangener"
 
 #: ReturnOfTux.droids:343 ReturnOfTux.droids:344
 msgid "MSCD - MegaSys Control Droid"
-msgstr ""
+msgstr "MSKD - MegaSys Kontrolldroide"
 
 #: ReturnOfTux.droids:404
 msgid "Race Condition"
@@ -178,7 +169,7 @@ msgstr "Unbestimmte V"
 
 #: ReturnOfTux.droids:406
 msgid "Segmentation Fault"
-msgstr ""
+msgstr "Speicherzugriffsfehler"
 
 #: ReturnOfTux.droids:407
 msgid "Buffer Overflow"
@@ -202,7 +193,7 @@ msgstr ""
 
 #: ReturnOfTux.droids:432
 msgid "MSDD - MegaSys Defence Droid"
-msgstr ""
+msgstr "MDVD - MegaSysverteidigungsroboter"
 
 #: ReturnOfTux.droids:433 ReturnOfTux.droids:434 ReturnOfTux.droids:435
 #: ReturnOfTux.droids:436 ReturnOfTux.droids:437
@@ -211,7 +202,7 @@ msgstr ""
 
 #: ReturnOfTux.droids:438
 msgid "Update Server Guard"
-msgstr ""
+msgstr "Updateserver Wache"
 
 #: ReturnOfTux.droids:468
 msgid "Koan"
@@ -227,10 +218,9 @@ msgstr "Wissenschaftler"
 
 #: ReturnOfTux.droids:482
 msgid "SACD - Secret Area Control Droid"
-msgstr ""
+msgstr "GBWR Geheimbereichwachroboter"
 
 #: ReturnOfTux.droids:486
-#, fuzzy
 msgid "Boris -- scientists leader"
 msgstr "Boris -- Anführer der Wissenschaftler"
 
@@ -239,13 +229,12 @@ msgid "Lina -- librarian"
 msgstr "Lina -- Biblithekarin"
 
 #: ReturnOfTux.droids:494
-#, fuzzy
 msgid "Serge -- storehouse keeper"
 msgstr "Serge -- Warenhausleiter"
 
 #: ReturnOfTux.droids:496 ReturnOfTux.droids:499
 msgid "SADD"
-msgstr ""
+msgstr "SADD"
 
 #: ReturnOfTux.droids:497
 msgid "Ashman"
