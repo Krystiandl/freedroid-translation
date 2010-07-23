@@ -37,12 +37,10 @@ msgid "It was founded by Karl Nicholson, a former Kernel hacker who was not sati
 msgstr "Sie wurden von Karl Nicholson gegründet, einem ehemaligem Kernel Hacker, der nicht mit der Entwicklungen der GPL Lizenz zufrieden war. "
 
 #: 614_cryo.dialog:46
-#, fuzzy
 msgid "Nicholson decided to stick to one GPL version because he saw things getting worse."
-msgstr "Nicholson entschied, an einer e der GPL festzuhalten, weil er sah, wie sich Dinge verschlechterten."
+msgstr "Nicholson entschied, an einer Version der GPL festzuhalten, weil er sah, wie sich Dinge verschlechterten."
 
 #: 614_cryo.dialog:47
-#, fuzzy
 msgid "Others were warned, but nobody listened to Nicholsons announcements."
 msgstr "Die Anderen wurden gewarnt, aber keiner hörte auf Nicholsons Aufrufe."
 
@@ -51,7 +49,6 @@ msgid "He built up a team and developed his own Kernel called 'Nkernel'."
 msgstr "Er schuf ein kleines Team um sich und entwickelte einen eigenen Kernel, liebevoll 'Nkernel' getauft."
 
 #: 614_cryo.dialog:49
-#, fuzzy
 msgid "The Nkernel development team grew fast and technicians started to produce their own droids optimized for the Nkernel."
 msgstr "Das Nkernel Entwicklerteam wuchs schnell an und Techniker begannen, eigene Droiden zu entwerfen, die auf den Nkernel angepasst waren."
 
@@ -60,9 +57,8 @@ msgid "The Team became a company which released their first security droid, the 
 msgstr "Das Team wurde zu einem Unternehmen welches bald seinen ersten Sicherheitsdroiden herausbrachte, der liebevol 610 getauft wurde."
 
 #: 614_cryo.dialog:51
-#, fuzzy
 msgid "I am the 4th generation version of their security droid line."
-msgstr "Ich bin die vierte Generation der Sicherheitslinie."
+msgstr "Ich bin die vierte Generation der Sicherheitsdroidenlinie."
 
 #: 614_cryo.dialog:56
 msgid "Have you detected any hostile bot activity?"
@@ -97,7 +93,6 @@ msgid "Cryo Complex Gates Status: OPEN"
 msgstr ""
 
 #: 614_cryo.dialog:72
-#, fuzzy
 msgid "What can you tell me about the 614 type?"
 msgstr " Was kannst du mir über den Typ 614 sagen? "
 
@@ -110,7 +105,6 @@ msgid "It was mainly used within ships to protect certain areas from intruders."
 msgstr "Er wurde hauptsächlich in Schiffen verwendet, um gewisse Bereiche vor Eindringlingen zu schützen."
 
 #: 614_cryo.dialog:76
-#, fuzzy
 msgid "It is considered an old but reliable device."
 msgstr "Er ist zwar ein altes aber zuverlässiges Gerät."
 
@@ -143,12 +137,10 @@ msgid "None of the bots of this generation were affected by the proceedings that
 msgstr ""
 
 #: 614_cryo.dialog:95
-#, fuzzy
 msgid "Even though discontinued from Nicholson, Inc. long ago, today, some people have picked up the work and are even trying to improve the operating system running on my series."
 msgstr "Obwohl die Produktion meines Typs schon vor langer Zeit von der Firma Nicholson aufgegeben wurde, haben in jüngster Zeit einige Leute die Arbeit daran wieder aufgenommen und man versucht sogar das Betriebssystem der Baureihe zu verbessern."
 
 #: 614_cryo.dialog:96
-#, fuzzy
 msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
 msgstr "Nicht vergessen - kaufen Sie Produkte der Firma Nicholson. Sie sind die besten."
 
