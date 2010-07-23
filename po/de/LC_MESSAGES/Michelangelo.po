@@ -419,16 +419,14 @@ msgid "I am supposed to get three dilithium crystals for that cook, Michelangelo
 msgstr ""
 
 #: Michelangelo.dialog:266
-#, fuzzy
 msgid "What is this 'dilithium'?"
-msgstr " Was ist das, Dilizium?"
+msgstr "Was ist das, Dilizium?"
 
 #: Michelangelo.dialog:268
 msgid "You do not know? I thought Linarians were unmatched in their knowledge of the universe. Anyway..."
 msgstr "Das weißt du nicht? Ich glaubte immer, Linarianer wären unübertroffen in ihrer Kenntnis des Universums. Wie auch immer..."
 
 #: Michelangelo.dialog:269
-#, fuzzy
 msgid "Dilithium is a substance which is usually seen in the form of a small crystal."
 msgstr "Dilizium ist ein Stoff, der für gewöhnlich in Form kleiner, roter Kristalle in Erscheinung tritt. "
 
@@ -437,9 +435,8 @@ msgid "It somehow generates and stores amazing amounts of electricity. I do not 
 msgstr "Irgendwie erzeugt und speichert es erstaunliche Mengen an elektrischer Energie. Einzelheiten sind mir nicht bekannt; ich bin Koch, kein Quantenphysiker."
 
 #: Michelangelo.dialog:275
-#, fuzzy
 msgid "I have an idea. Use fire to cook the food for the city."
-msgstr " Ich habe eine Idee... mach ein Feuer, um die Gerichte für die Siedler zuzubereiten."
+msgstr "Ich habe eine Idee... mach ein Feuer, um die Gerichte für die Stadt zuzubereiten."
 
 #: Michelangelo.dialog:277
 msgid "A nice idea, but there is a couple of major problems with it."
@@ -458,36 +455,32 @@ msgid "Finally, the meal cubes which we have in the freezer are optimized for ma
 msgstr "Zudem sind die Esswürfel, die wir haben, für Makrowellen optimiert. Würde man sie ins Feuer halten, sie würden einfach in Flammen aufgehen, nicht etwa braten."
 
 #: Michelangelo.dialog:281
-#, fuzzy
 msgid "No oven means having to use premacrowaved food."
 msgstr "Kein Ofen heißt: vorgekochtes Essen wird benötigt."
 
 #: Michelangelo.dialog:282
-#, fuzzy
 msgid "And the only such thing around is that abhorrent military sludge."
 msgstr "Und die einzige Nahrung solcher Art hier ist die allseits verabscheute Militär-Pampe."
 
 #: Michelangelo.dialog:287
-#, fuzzy
 msgid "Tell the Red Guard that you need your battery back."
-msgstr " Sag den Jungs von der Roten Wache, dass du deine Batterie wieder zurückhaben willst."
+msgstr "Sag den Jungs von der Roten Wache, dass du deine Batterie wieder zurückhaben willst."
 
 #: Michelangelo.dialog:290
 msgid "They said it was already fed to their reactor as fuel."
 msgstr "Man sagte, mir sie wäre bereits als Brennstoff in den Reaktor gewandert."
 
 #: Michelangelo.dialog:295
-#, fuzzy
 msgid "I need a dilithium crystal."
-msgstr " Ich habe das gewünschte Dilizium."
+msgstr "Ich brauche einen Diliziumkristall"
 
 #: Michelangelo.dialog:297
 msgid "I am already using the ones you got me. They are being used to feed the town."
-msgstr ""
+msgstr "Ich benutze bereits die, die du mir gegeben hast. Sie werden momentan benutzt, um die Stadt zu versorgen."
 
 #: Michelangelo.dialog:303 Michelangelo.dialog:310
 msgid "I need one of the dilithium crystals back, it is a matter of life or death!"
-msgstr ""
+msgstr "Ich brauche einen von diesen Kristallen wieder, es geht um Leben und Tot."
 
 #: Michelangelo.dialog:305
 msgid "I gave you all of the crystals I can spare."
