@@ -146,32 +146,28 @@ msgid "What else makes me different as a Linarian?"
 msgstr "Was macht mich sonst anders, als Linarianer?"
 
 #: TutorialTom.dialog:116
-#, fuzzy
 msgid "As a Linarian, you have some special abilities that no human does: Linarians can translate programming source code into something like magic."
 msgstr "Als Linarianer hast du einige spezielle Fähigkeiten, die kein Mensch besitzt. Im Besonderen scheinst du in der Lage zu sein, Quellcode in so etwas wie Magie umzuwandeln."
 
 #: TutorialTom.dialog:117
-#, fuzzy
 msgid "However, using these [b]Programs[/b], adversely affect your body temperature, which you must regulate."
-msgstr "Die Nutzung dieser Fähigkeiten, durch sogenannte Programme, wirkt sich offenbar auf deine Körpertemperatur aus, welche du regulieren musst."
+msgstr "Die Nutzung dieser Fähigkeiten, durch sogenannte [b]Programme[/b], wirkt sich offenbar auf deine Körpertemperatur aus, welche du regulieren musst."
 
 #: TutorialTom.dialog:118
-#, fuzzy
 msgid "But you normally have a special program called [b]Emergency Shutdown[/b], which freezes your motions for several seconds but significantly cools your body."
-msgstr "Außerdem verfügst du über ein spezielles Programm, genannt 'Notabschaltung', welches deinen Hitzelevel beträchtlich absenkt, wenn auch zu einem gewissen Preis."
+msgstr "Außerdem verfügst du über ein spezielles Programm, genannt [b]Notabschaltung[/b], welches deinen Hitzelevel beträchtlich absenkt, aber jedoch deine Bewegungen für ein paar Sekunden einfriert."
 
 #: TutorialTom.dialog:119
 msgid "This, and the ability to hack bots will soon return once your mind recovers from the stasis."
-msgstr ""
+msgstr "Dies, und die Fähigkeit, Roboter zu hacken sind wieder verfügbar, sobald sich dein Kopf von der Stasis erhohlt hat."
 
 #: TutorialTom.dialog:120
-#, fuzzy
 msgid "Once it does, we'll talk more about programs. You can toggle the [b]Skills/Program menu[/b] by pressing the [b]S key[/b]."
-msgstr "Wir werden uns später noch eingehender mit Programmen befassen. Du kannst aber bereits durch drücken der Taste S auf das Fertigkeiten-Menü zugreifen."
+msgstr "Wir werden uns später noch eingehender mit Programmen befassen. Du kannst aber bereits durch drücken der [b]Taste S[/b] auf das [b]Fertigkeiten-Menü[/b] zugreifen."
 
 #: TutorialTom.dialog:121
 msgid "View the Skills/Program menu by pressing the S key."
-msgstr ""
+msgstr "Schau dir das Fertigkeiten-Menü an, indem du die Taste S drückst."
 
 #: TutorialTom.dialog:126
 msgid "I'm sensing some sort of strange presence in the vicinity."
@@ -183,14 +179,13 @@ msgstr "Ah ja."
 
 #: TutorialTom.dialog:129
 msgid "Linarians seem to [b]detect items[/b] - even through walls - in an augmented reality."
-msgstr ""
+msgstr "Linarianer können [b]Gegenstände entdecken[/b], selbst durch Wände hindurch, mit hilfe einer erweiterten Realität."
 
 #: TutorialTom.dialog:130
 msgid "The [b]Z key[/b] will toggles this augmentation, while the [b]X key[/b] momentarily flashes it."
-msgstr ""
+msgstr "Die [b]Z-Taste[/b] schaltet diese Realität um, während die [b]X-Taste[/b] sie nur zeitweilig aufblitzen lässt."
 
 #: TutorialTom.dialog:131
-#, fuzzy
 msgid "Moving your pointer over an item will tell you more about that item."
 msgstr "Indem der Mauspfeil über einen Gegenstand bewegt wird, kann mehr darüber in Erfahrung gebracht werden."
 
@@ -199,13 +194,13 @@ msgid "On our way to the next stopping point, we'll pass some items on the floor
 msgstr "Auf dem Weg zu unserem nächsten Haltepunkt, werden wir an einigen Teilen auf dem Boden vorbeikommen."
 
 #: TutorialTom.dialog:133
-#, fuzzy
 msgid "Feel free to stop and examine them to get practice."
-msgstr "Bleiben Sie, solange Sie wollen - hier ist es sicher."
+msgstr "Bleiben Sie, solange Sie wollen und untersuchen Sie sie, um etwas Übung zu bekommen."
 
 #: TutorialTom.dialog:134
+#, fuzzy
 msgid "[b]Left clicking[/b] on an item will pick it up and put it in your inventory, toggled by the [b]I key[/b], where you can examine it further."
-msgstr ""
+msgstr "Ein [b]Linksklick[/b] auf einen Gegenstand wird diesen aufheben, und ihn ins Inventar befördern, welchs mit der [b]I-Taste[/b] umgeschaltet wird und eine weitere Untersuchung ermöglicht."
 
 #: TutorialTom.dialog:135
 msgid "Toggle detect items by pressing the Z key, and press X to flash the ability.  To pick up an item, left click on it. To view an item you've picked up, open the inventory by pressing I."
