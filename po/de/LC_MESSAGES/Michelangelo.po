@@ -22,9 +22,8 @@ msgid "Anything but the army snacks, please!"
 msgstr "Alles, außer der Armeeration, bitte!"
 
 #: Michelangelo.dialog:41 Michelangelo.dialog:42 Michelangelo.dialog:315
-#, fuzzy
 msgid "SADD's power supply"
-msgstr " Wie ist es um deine Stromversorgung bestellt?"
+msgstr "SADDs Stromversorgung"
 
 #: Michelangelo.dialog:61
 msgid "Hi! I'm new here."
@@ -60,7 +59,7 @@ msgstr " ann ich hier etwas zu essen kaufen?"
 
 #: Michelangelo.dialog:81
 msgid "Until my next batch of food comes out of the macrowave oven, all I have are the odoriferous military rations."
-msgstr ""
+msgstr "Bis die nächste Essensladung aus dem Mikrowellenofen kommt hab ich nur diese wohlriechenden Militärrationen hier."
 
 #: Michelangelo.dialog:83
 msgid "There is no food here, just the odious military rations."
@@ -95,7 +94,6 @@ msgid "That includes the implied warranty of edibility or fitness for a particul
 msgstr "Dies schließt eine suggerierte Garantie der Essbarkeit oder Eignung für einen besonderen Zweck mit ein. Jegliche Risiken, auch betreffend der Qualität des Produkts, liegen bei Ihnen."
 
 #: Michelangelo.dialog:99
-#, fuzzy
 msgid "Should the army meal model #23 prove poisonous, you agree to cover the cost of keeping you alive by the base medical staff or the costs of your cremation in our nuclear furnaces.'"
 msgstr "Sollte sich die Armee-Mahlzeit Modell #23 als giftig erweisen, erklären Sie sich hiermit bereit, die Kosten für lebenserhaltende Maßnahmen durch das medizinische Personal der Kolonie oder die Kosten Ihrer Einäscherung in unseren atomaren Brennkammern zu tragen.'"
 
@@ -105,15 +103,15 @@ msgstr "Tja, das war alles. Hier ist der Abfall, wie gewünscht. Guten Appetit. 
 
 #: Michelangelo.dialog:105
 msgid "You need to have a full mess kit with a Fork, Mug, and Plate before I can give you any army snacks."
-msgstr ""
+msgstr "Du brauchst ein komplettes Besteck, mit Gabel, Tasse und Teller bevor ich dir die Armeeration austeilen kann."
 
 #: Michelangelo.dialog:105
 msgid "You need a Fork, Plate, and Mug before I can issue any army snacks."
-msgstr ""
+msgstr "Du brauchst eine Gabel, einen Teller und eine Tasse, vorher kann ich die Armeeration nicht austeilen."
 
 #: Michelangelo.dialog:105
 msgid "You need a full mess kit for army snacks."
-msgstr ""
+msgstr "Du braucht ein vollständiges Besteck für die Armeeration."
 
 #: Michelangelo.dialog:110
 msgid "You do not sound happy. What is wrong?"
@@ -128,14 +126,12 @@ msgid "Just look at this stupid town!"
 msgstr "Schau dir nur dieses miese Nest an!"
 
 #: Michelangelo.dialog:114
-#, fuzzy
 msgid "We are constantly pushed around by our 'saviors' the damn Red Guard. I hope they all die from rat bites as soon as possible and go to the deepest hells to boil in lava forever."
-msgstr "Wir werden andauernd von unseren 'Rettern', der verdammten Roten Wache herumkommandiert. Ich hoffe, dass sie alle ganz schnell an Rattenbissen zu Grunde gehen und in der tiefsten Hölle landen, um für immer in heißer Lava zu schmoren!"
+msgstr "Wir werden andauernd von unseren 'Erlösern', der verdammten Roten Wache herumkommandiert. Ich hoffe, dass sie alle ganz schnell an Rattenbissen zu Grunde gehen und in der tiefsten Hölle landen, um für immer in heißer Lava zu schmoren!"
 
 #: Michelangelo.dialog:115
-#, fuzzy
 msgid "And the bots are keeping us busy by murdering, chopping, slicing, cleaving, rending and wounding us. How wonderful."
-msgstr "Und die Robots halten uns auf Trab, indem sie uns töten, zerhacken, aufschlitzen, zerstückeln, zerreißen und verwunden. "
+msgstr "Und die Robots halten uns auf Trab, indem sie uns töten, zerhacken, aufschlitzen, zerstückeln, zerreißen und verwunden. Wunderbar, nich?"
 
 #: Michelangelo.dialog:116
 msgid "The guards gave me a filthy hovel to live in. The walls are so thin that every night I am rocked to sleep by the bots communicating with those beeps and modem sounds."
@@ -150,9 +146,8 @@ msgid "Have I mentioned that the only food that we have is some kind of pestilen
 msgstr "Habe ich schon erwähnt, dass die einzige Nahrung, über die wir verfügen, aus einer Art widerwärtiger Armee-Rationen besteht? Allein durch den Geruch könnte ich kotzen!"
 
 #: Michelangelo.dialog:123
-#, fuzzy
 msgid "Cheer up! All will be fine! Happy days are coming! Hurray!"
-msgstr " Lass dich nicht hängen! Alles wird gut! Bald werden glücklichere Tage anbrechen! Hurra!!"
+msgstr "Lass dich nicht hängen! Alles wird gut! Bald werden glücklichere Tage anbrechen! Hurra!!"
 
 #: Michelangelo.dialog:125
 msgid "..."
@@ -167,9 +162,8 @@ msgid "Get a grip, the situation is bad and there is no use in pretending otherw
 msgstr "Krieg dich wieder ein - die Situation ist übel genug und es bringt nichts so zu tun, als ob es anders wäre!"
 
 #: Michelangelo.dialog:132
-#, fuzzy
 msgid "You are a cook. Stop complaining about the poor food! Make some yourself."
-msgstr " Du bist Koch..! Hör auf herumzulästern wegen dem schlechten Essen. Bereite dir selbst etwas zu."
+msgstr "Du bist Koch..! Hör auf herumzulästern wegen dem schlechten Essen. Bereite selbst etwas zu."
 
 #: Michelangelo.dialog:134
 msgid "I cannot! My beautiful macrowave oven is out of power. The wretched Red Guard took away my uranium battery."
