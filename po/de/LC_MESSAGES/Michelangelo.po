@@ -183,23 +183,23 @@ msgstr "Kann ich schon etwas zu essen bekommen?"
 
 #: Michelangelo.dialog:145
 msgid "Here, try this slice of lemon meringue pie."
-msgstr ""
+msgstr "Hehe, versuch mal diesen Scheibe Zitronenbaiserkuchen."
 
 #: Michelangelo.dialog:147
 msgid "Wait, you don't have a Fork. You need a fork..."
-msgstr ""
+msgstr "Warte, du hast keine Gabel. Du brauchst 'ne Gabel..."
 
 #: Michelangelo.dialog:149
 msgid "It is as if a cloud from heaven was made into a pie."
-msgstr ""
+msgstr "Es ist als wenn die Wolken des Himmels zu kuchen gemacht woren wären."
 
 #: Michelangelo.dialog:153
 msgid "Try this crab cake."
-msgstr ""
+msgstr "Versuch diesen Krabbenkuchen."
 
 #: Michelangelo.dialog:155
 msgid "Where is your Plate and Fork?"
-msgstr ""
+msgstr "Wo sind Teller und Gabel?"
 
 #: Michelangelo.dialog:157
 msgid "Such an intense, delectable, blend of savory spices... it melts in my mouth."
@@ -211,16 +211,15 @@ msgstr ""
 
 #: Michelangelo.dialog:162
 msgid "EGGS!?"
-msgstr ""
+msgstr "EIER!?"
 
 #: Michelangelo.dialog:163
 msgid "Oh, Michelangelo had forgotten..."
-msgstr ""
+msgstr "Oh, Michelangelo vergass..."
 
 #: Michelangelo.dialog:164
-#, fuzzy
 msgid "How about a... yummy army snack instead?"
-msgstr " Ich will ein paar appetitliche Armee-Rationen!"
+msgstr "Wie wäre es... mit ein paar schmackhaften Armeesnacks?"
 
 #: Michelangelo.dialog:167
 msgid "I am in the midst of a culinary masterpiece."
@@ -251,45 +250,40 @@ msgid "I am racked with hunger pains, give me some army snacks!"
 msgstr ""
 
 #: Michelangelo.dialog:183
-#, fuzzy
 msgid "I thought you would have learned by now."
-msgstr "Jaa, ich dachte mir, dass Sie das mögen! Hier ist mehr. Hihi..."
+msgstr "Ich dachte, du hättest dazugelernt."
 
 #: Michelangelo.dialog:184
 msgid "As you wish."
 msgstr "Wie Sie wünschen."
 
 #: Michelangelo.dialog:190
-#, fuzzy
 msgid "Hmm... Crunchy... That is... Oh... No. Ugh. Help."
-msgstr " Hmm... knusprig... das ist... Oh... Nein! Äärrks... Hilfe!!"
+msgstr "Hmm... knusprig... das ist... Oh... Nein! Äärrks... Hilfe!!"
 
 #: Michelangelo.dialog:192
 msgid "Oh yes. You were warned, so don't blame me."
 msgstr "Oh ja! Ich habe dich gewarnt, also gib mir keine Schuld."
 
 #: Michelangelo.dialog:193
-#, fuzzy
 msgid "Bleah! That is not food!"
-msgstr " Wüürrgh!! ... das... das kann niemals ESSEN sein! "
+msgstr "Wüürrgh!! ... das... das kann niemals ESSEN sein! "
 
 #: Michelangelo.dialog:194
 msgid "We already know that. There is nothing else to eat here, so I hope you get used to the taste."
 msgstr "Das wissen wir bereits. Hier gibt es aber nichts anderes - daher hoffe ich, dass du dich an den Geschmack gewöhnst."
 
 #: Michelangelo.dialog:195
-#, fuzzy
 msgid "That thing only looks okay, and has a nice color."
-msgstr "Das Zeug sieht nur so schön aus und hat eine nette Farbe..! *** Text bei Michelangelo statt Tux!"
+msgstr "Das Zeug sieht nur so schön aus und hat eine nette Farbe..!"
 
 #: Michelangelo.dialog:196
 msgid "But as you can see, the color cannot be eaten, only the taste counts."
 msgstr "Aber, wie du siehst, ist Farbe nicht essbar. Nur der Geschmack zählt."
 
 #: Michelangelo.dialog:200
-#, fuzzy
 msgid "I have the dilithium you wanted."
-msgstr " Ich habe das gewünschte Dilizium."
+msgstr "Ich habe das gewünschte Dilizium."
 
 #: Michelangelo.dialog:202
 #, fuzzy
@@ -306,15 +300,13 @@ msgstr "Vielen Dank, Linarianer! Sobald die Nahrungswürfel fertig sind, kann ic
 
 #: Michelangelo.dialog:208
 msgid "I gave the cook, Michelangelo, enough dilithium to last a decade. The evil specter of eating army snacks is lifted from the city."
-msgstr ""
+msgstr "Ich habe dem Koch, Michelangelo, genug Dilizium für das nächste Jahrzehnt gegeben. Der böse Geist des Verzehrens von Armeerationen ist von der Stadt aufgehoben."
 
 #: Michelangelo.dialog:213
-#, fuzzy
 msgid "What was I supposed to do again?"
-msgstr " Was brauchen Sie gleich nochmal?"
+msgstr "Was brauchen Sie gleich nochmal?"
 
 #: Michelangelo.dialog:215
-#, fuzzy
 msgid "Get me three dilithium crystals before the whole stupid town commits mass suicide because of poor food quality."
 msgstr "Besorg mir Dilizium, bevor die ganze dämliche Kolonie Massenselbstmord wegen diesem grauenhaften Fraß begeht!"
 
@@ -323,24 +315,20 @@ msgid "Of course our heinous food might do us in far before that. I swear I saw 
 msgstr "Natürlich könnte der abscheuliche Glibber uns schon viel früher erledigen. Ich schwöre, ich habe ein paar Mal gesehen, wie das Zeug im Dunkeln glühte und wie es sich von meinem Teller davonstehlen wollte..."
 
 #: Michelangelo.dialog:220
-#, fuzzy
 msgid "Where can I find dilithium crystals?"
-msgstr " Wo kann ich solche Kristalle finden?"
+msgstr "Wo kann ich solche Diliziumkristalle finden?"
 
 #: Michelangelo.dialog:222
-#, fuzzy
 msgid "There is an old abandoned dilithium mine is to the east of the town."
-msgstr "Es gibt östlich von hier eine alte Dilizium-Mine. Ich bin mir sicher, dass es dort eine Menge von dem Kram gibt."
+msgstr "Es gibt östlich von hier eine alte Dilizium-Mine. Ich bin mir sicher, dass es dort eine Menge von dem Zeug gibt."
 
 #: Michelangelo.dialog:223
-#, fuzzy
 msgid "Be careful if you go down there!"
-msgstr " Weshalb seid ihr hier draußen?"
+msgstr "Sei vorsichtig, wenn du da runter gehst."
 
 #: Michelangelo.dialog:227
-#, fuzzy
 msgid "Why don't you send someone for the dilithium?"
-msgstr " Warum schickst du niemanden los, um welches zu holen?"
+msgstr "Warum schickst du niemanden nach unten, Dilizium zu besorgen?"
 
 #: Michelangelo.dialog:229 Michelangelo.dialog:289
 msgid "I did."
@@ -355,9 +343,8 @@ msgid "The bots made a bloody mess out of him."
 msgstr "Die Blechfritzen haben Blutsalat aus ihm gemacht."
 
 #: Michelangelo.dialog:236
-#, fuzzy
 msgid "Maybe I can get you some dilithium."
-msgstr " Ich kann dir Dilizium bringen."
+msgstr "Vielleicht kann ich dir Dilizium bringen."
 
 #: Michelangelo.dialog:238
 msgid "Have you gotten overheated, Linarian?"
@@ -372,7 +359,6 @@ msgid "If you want to die just walk into a nuclear reactor or something. So much
 msgstr "Wenn du lebensmüde bist, steig einfach in einen Atomreaktor oder sowas. Das ist um soviel einfacher."
 
 #: Michelangelo.dialog:245
-#, fuzzy
 msgid "Don't worry, I'll be fine."
 msgstr "Machen Sie sich keine Sorgen um mich - alles in Butter."
 
@@ -381,12 +367,10 @@ msgid "Do you know how the bots act? Some want to kill you as soon as possible..
 msgstr "Weißt du, wie Bots handeln? Manche wollen dich so schnell wie möglich killen... andere wollen das Gleiche - nur viel langsamer."
 
 #: Michelangelo.dialog:248
-#, fuzzy
 msgid "I have seen corpses with nearly all of the fingers ripped off. People with eyes drilled out by some big tool."
 msgstr "Ich habe Leichen gesehen, an denen fast alle Finger ausgerissen waren. Menschen, mit durch ein großes Werkzeug herausgebohrten Augen! "
 
 #: Michelangelo.dialog:249
-#, fuzzy
 msgid "I smelled burnt meat and heard the screams of the captives as they were incinerated alive outside the city walls."
 msgstr "Ich roch verbranntes Fleisch und hörte die Schreie der Gefangenen, als sie außerhalb der Stadtmauern lebendig abgefackelt wurden. "
 
@@ -399,9 +383,8 @@ msgid "Feel free to go, Linarian, but make sure to be very dead before they star
 msgstr "Lass dich nicht aufhalten, Linarianer. Aber stell sicher, dass du auch wirklich tot bist, bevor sie anfangen dich umzubringen."
 
 #: Michelangelo.dialog:252
-#, fuzzy
 msgid "Where can I get the crystals?"
-msgstr " Wo kann ich solche Kristalle finden?"
+msgstr "Wo kann ich solche Kristalle finden?"
 
 #: Michelangelo.dialog:253
 msgid "There is an old dilithium mine to the east. I am sure there is lots of that stuff there."
@@ -417,7 +400,7 @@ msgstr "Viel Glück. Versuch, dich nicht umbringen zu lassen!"
 
 #: Michelangelo.dialog:256
 msgid "How many dilithium crystals do you need?"
-msgstr ""
+msgstr "Wieviele Diliziumkristalle brauchst du`?"
 
 #: Michelangelo.dialog:257
 msgid "A single small crystal could power my oven for a decade if it is of good quality. But unfortunately my oven requires two to operate correctly. And since it is so dangerous to send anyone to get dilithium, could you get me a spare as well?"
