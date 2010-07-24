@@ -12,15 +12,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
-"X-Poedit-Country: FRANCE\n"
 "Language: \n"
-"X-Generator: Launchpad (build Unknown)\n"
 "X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Generator: Launchpad (build Unknown)\n"
 
 #: Sorenson.dialog:38
-#, fuzzy
 msgid "Um... Hello?"
-msgstr " Um... Bonjour ?"
+msgstr "Um… Bonjour ?"
 
 #: Sorenson.dialog:39
 msgid "AH! A Visitor! Come in! Come in!"
@@ -39,9 +38,8 @@ msgid "I can help you understand computers... Greater than ever before."
 msgstr "Je peux t'aider à comprendre les ordinateurs... Mieux que jamais avant."
 
 #: Sorenson.dialog:47
-#, fuzzy
 msgid "Who are you?"
-msgstr " Qui êtes vous ?"
+msgstr "Qui êtes vous ?"
 
 #: Sorenson.dialog:49
 msgid "I? Sorenson is a great computer person."
@@ -84,9 +82,8 @@ msgid "The one who speaks to hard drives. The best --"
 msgstr "Le seul qui parle aux disques durs. Le meilleur --"
 
 #: Sorenson.dialog:59
-#, fuzzy
 msgid "I KNOW! I KNOW!"
-msgstr " JE SAIS ! JE SAIS !"
+msgstr "JE SAIS ! JE SAIS !"
 
 #: Sorenson.dialog:60
 msgid "Oh."
@@ -97,7 +94,6 @@ msgid "Sorenson did not tell you most yet."
 msgstr "Sorenson ne t'a encore rien dit."
 
 #: Sorenson.dialog:62
-#, fuzzy
 msgid "She did not tell you she is the great controller of light."
 msgstr "Elle ne t'a pas dit qu'elle est le grand contrôleur de lumière."
 
@@ -122,18 +118,16 @@ msgid "Sorenson -- Mystery coder"
 msgstr "Sorenson -- Codeur Mystérieux"
 
 #: Sorenson.dialog:72
-#, fuzzy
 msgid "Why are you like this? What happened to you?"
-msgstr " Pourquoi est-ce que tu es comme ça ? Qu'est-ce qui t'arrive ?"
+msgstr "Pourquoi est-ce que tu es comme ça ? Qu'est-ce qui t'arrive ?"
 
 #: Sorenson.dialog:74
 msgid "Was learning COBOL. Pain. Torture. Horrible screaming."
 msgstr "J'apprenais le COBOL. Souffrance. Torture. Cris atroces."
 
 #: Sorenson.dialog:75
-#, fuzzy
 msgid "Sorenson asked for help. Many days and nights."
-msgstr "Sorenson demande assistance. Beaucoup de jours et de nuits."
+msgstr "Sorenson a demandé assistance. Pendant de nombreux jours et nuits."
 
 #: Sorenson.dialog:76
 msgid "Light arrived. Light offered help. Sorenson changed."
@@ -144,9 +138,8 @@ msgid "Free person now."
 msgstr "Personne libre maintenant."
 
 #: Sorenson.dialog:82
-#, fuzzy
 msgid "What is this COBOL?"
-msgstr " Qu'est ce que COBOL ?"
+msgstr "Qu'est ce que « COBOL » ?"
 
 #: Sorenson.dialog:84
 msgid "COBOL is the mind-crippler."
@@ -161,12 +154,10 @@ msgid "I see you have a huge source code book collection. Mind if I buy some fro
 msgstr " Je vois que vous avez une collection de livres impressionnante. Que diriez vous si je vous en achetais quelques uns ?"
 
 #: Sorenson.dialog:92
-#, fuzzy
 msgid "Of course not. Trade is good."
-msgstr "Bien sûr. Le commerce est bon."
+msgstr "Bien sûr que non. Le commerce est une bonne chose."
 
 #: Sorenson.dialog:98
-#, fuzzy
 msgid "Can I take a look at your books again?"
 msgstr " Puis-je jeter un coup d'oeil à vos livres à nouveau ?"
 
@@ -203,9 +194,8 @@ msgid "N0! 1n bl00d!"
 msgstr "N0 ! Dans le sang !"
 
 #: Sorenson.dialog:122
-#, fuzzy
 msgid "Um... Your voice sounds strange. Is everything fine?"
-msgstr " Hum... Ta voix a une étrange intonation. Est-ce que tout va bien ?"
+msgstr "Hum... Ta voix a une étrange intonation. Est-ce que tout va bien ?"
 
 #: Sorenson.dialog:124
 msgid "519n 7h3 c0n7r4c7!!!!"
@@ -236,9 +226,8 @@ msgid "I accept the contract, Tux"
 msgstr " J'accepte le contrat, Tux."
 
 #: Sorenson.dialog:158
-#, fuzzy
 msgid "Elbereth"
-msgstr " Elbereth"
+msgstr "Elbereth"
 
 #: Sorenson.dialog:161
 msgid "4444! 17 burn5! 7'm m3171n9!"
@@ -270,23 +259,20 @@ msgstr "N000000000N!!!!!!!"
 
 #: Sorenson.dialog:173 Sorenson.dialog:194 Sorenson.dialog:214
 #: Sorenson.dialog:223
-#, fuzzy
 msgid "COBOL Programmer -- Madly Enraged"
 msgstr "Programmeur COBOL -- Dinguement enragé"
 
 #: Sorenson.dialog:179
-#, fuzzy
 msgid "The great destroyer of evil, the purger of all things foul, the friend of mankind, the third duke of Linarius, esquire, Doctorate of Computer Sciences, high priest of Kernelius, the ray of light in the darkness, the bender of spoons, His Great Magnificence, Tux."
-msgstr " Le grand destructeur de démons, le grand salvateur de toutes les mauvaises choses, l'ami de la sincérité, le troisième duc de Linarius, Diplômé en sciences informatiques, le grand prêtre de Kernelius, le rayon de lumière qui pourfend les ténèbres, le plieur de cuillère télékinétique, Sa Grande Magnificence, Tux."
+msgstr "Le grand destructeur de démons, le grand salvateur des idiots, l'ami du genre humain, le troisième duc de Linarius, Docteur en sciences informatiques, grand prêtre de Kernelius, le rayon de lumière qui pourfend les ténèbres, le plieur de cuillère télékinésique, Sa Grande Magnificence, Tux."
 
 #: Sorenson.dialog:181
 msgid "Huh?"
 msgstr "Hein ?"
 
 #: Sorenson.dialog:182
-#, fuzzy
 msgid "I... Don't feel... good... Blood loss... So... Cold..."
-msgstr " Je... ne me... sens pas bien... Je perd du sang... Si... Froid..."
+msgstr " Je… ne me… sens pas bien… Je perd du sang… Si… Froid…"
 
 #: Sorenson.dialog:183
 msgid "N0! Idi07!"
@@ -317,9 +303,8 @@ msgid "Yes! I am free at last!"
 msgstr "Oui ! Je suis libre !"
 
 #: Sorenson.dialog:202
-#, fuzzy
 msgid "W417... 1 f331... H0rr1b13..."
-msgstr " 4773nds... J3 me s3ns... H0rr1ble..."
+msgstr " 4773nds… J3 me s3ns… H0rr1ble…"
 
 #: Sorenson.dialog:203
 msgid "Yes, fool! You have freed me! I can finally die! Goodbye idiot!"
