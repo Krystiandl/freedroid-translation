@@ -12,14 +12,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
-"X-Poedit-Country: FRANCE\n"
 "Language: \n"
-"X-Generator: Launchpad (build Unknown)\n"
 "X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Generator: Launchpad (build Unknown)\n"
 
 #: Tania.dialog:38 Tania.dialog:41 Tania.dialog:175 Tania.dialog:202
 msgid "Tania's sanitary"
-msgstr ""
+msgstr "Les toilettes de Tania"
 
 #: Tania.dialog:49
 msgid "Um, hi."
@@ -51,11 +51,11 @@ msgstr " Et qui es-tu ?"
 
 #: Tania.dialog:67
 msgid "A figment of my imagination should know my name: Tania."
-msgstr ""
+msgstr "Un produit de mon imagination devrait connaître mon nom : Tania"
 
 #: Tania.dialog:68
 msgid "Tania - lonely scientist"
-msgstr ""
+msgstr "Tania – Scientifique solitaire"
 
 #: Tania.dialog:73
 msgid "Where am I?"
@@ -78,7 +78,6 @@ msgid "It is dark here."
 msgstr "Il fait sombre ici."
 
 #: Tania.dialog:89
-#, fuzzy
 msgid "The main power supply is down, so only the emergency lights work. Peter tried to switch it back on, but he didn't succeed."
 msgstr "L'alimentation principale est morte, donc seules les lumières d'urgence fonctionnent. Peter a essayé de les rallumer, mais il n'a pas réussi."
 
@@ -119,18 +118,16 @@ msgid "If you go further down the corridor, you will find debris and a big stone
 msgstr "Si tu vas plus loin, tu devrais rencontrer quelques gravas et une grosse pierre. C'est sa sépulture."
 
 #: Tania.dialog:114
-#, fuzzy
 msgid "So you are a biologist? Could you heal me?"
-msgstr "Alors tu es un biologiste ? Tu pourrais me soigner ?"
+msgstr "Alors tu es un, biologiste ? Tu pourrais me soigner ?"
 
 #: Tania.dialog:116
 msgid "That would be something different from what I've done in the last months at least. Some entertainment."
 msgstr "Au mois, ça serait différent de ce que j'ai fait pendant les derniers mois. Un peu d'amusement."
 
 #: Tania.dialog:117
-#, fuzzy
 msgid "Let me take a look at that... it's nothing some nanobots couldn't take care of.... You will be all fixed up in a minute."
-msgstr "Laisse moi jeter un oeil... Ce n'est rien que quelques nanobots ne peuvent soigner... Tu seras sur pied dans une minute."
+msgstr "Laisse moi jeter un oeil à ça… Ce n'est rien que quelques nanobots ne peuvent soigner… Tu seras sur pied dans une minute."
 
 #: Tania.dialog:117
 msgid "You are now completely healed. You should take better care of yourself."
@@ -161,16 +158,14 @@ msgid "Do you mean I can go out to the surface?!"
 msgstr "Tu veux dire que je peux atteindre la surface ?"
 
 #: Tania.dialog:139
-#, fuzzy
 msgid "Oh god! I - I told Peter that he chose the wrong place, but he was so stubborn!"
-msgstr "Oh mon dieu ! J'ai dit à Peter qu'il a choisi la mauvaise place, mais il était tellement borné !"
+msgstr "Oh mon dieu ! J-J'ai dit à Peter, qu'il choisissait la mauvaise place, mais il était tellement borné !"
 
 #: Tania.dialog:144
 msgid "Yes, you can get to the surface. But the guns are still on."
 msgstr "Oui, tu peux atteindre la surface. Mais les pistolets y sont encore."
 
 #: Tania.dialog:146
-#, fuzzy
 msgid "All hope is lost! I'm a scientist, not a warrior."
 msgstr "Tous les espoirs sont perdus ! Je suis un scientifique, pas un guerrier."
 
@@ -208,19 +203,16 @@ msgid "Thanks... please be careful. You will not be able to access the control c
 msgstr "Merci, mais sois très prudent. Tu ne seras pas capable d'accéder directement au centre de contrôle. Il est situé derrière une triple porte hermétique. Essaie d'utiliser les tunnels de maintenance."
 
 #: Tania.dialog:175
-#, fuzzy
 msgid "I have met a girl locked in a secret area. If I manage to disable the autoguns, she will be able to go to the surface and look at the sun again."
 msgstr "J'ai rencontré une fille enfermée dans la zone secrète. Si j'arrive à désactiver les autoguns, elle pourra rejoindre la surface et revoir le soleil."
 
 #: Tania.dialog:180
-#, fuzzy
 msgid "Why not just open them? There should be a way of unlocking the base."
-msgstr "Pouquoi ne pas les ouvrir simplement ? Ça devrait être un bon moyen pour déverrouiller la base."
+msgstr "Pouquoi ne pas les ouvrir simplement ? Il devrait y avoir un moyen de déverrouiller la base."
 
 #: Tania.dialog:182
-#, fuzzy
 msgid "To open the door you need to know the password. Only the commander of the area and his deputy knew it. The commander was killed by bots as soon as the assault started, and the deputy was in town, I don't know what happened to him."
-msgstr "Pour ouvrir la porte, tu as besoin de connaître le mot de passe. Seul le commandant de la base et son député le connaisse. Le commandant a été tué par des robots aussitôt après que le grand assaut a commencé, et le député était en ville, je ne sais pas ce qui lui est arrivé."
+msgstr "Pour ouvrir la porte, tu as besoin de connaître le mot de passe. Seul le commandant de la base et son adjoint le connaissent. Le commandant a été tué par des robots aussitôt après que le grand assaut a commencé, et l'adjoint était en ville, je ne sais pas ce qui lui est arrivé."
 
 #: Tania.dialog:187
 msgid "Carpets, sofa, bookshelfs. Where did you get all this?"
@@ -235,12 +227,10 @@ msgid "The sentry guns are off. You can go now!"
 msgstr "Les armes automatiques sont désactivées ! Tu es libre à présent."
 
 #: Tania.dialog:196
-#, fuzzy
 msgid "Thanks, thanks a lot! Now I will be able to see the sun, trees, rivers... I missed those so much!"
-msgstr "Merci, merci beaucoup ! Maintenant je serai capable de voir le soleil, les arbres, les rivières. Je lui ai donc manqué !"
+msgstr "Merci, merci beaucoup ! Maintenant je serai capable de voir le soleil, les arbres, les rivières. Ils m'ont tellement manqué !"
 
 #: Tania.dialog:197
-#, fuzzy
 msgid "I hope these books will help you survive in this world."
 msgstr "J'espère que ces livres t'aideront a survivre dans ce monde."
 
@@ -257,7 +247,6 @@ msgid "Where can I find that SACD?"
 msgstr "Où puis-je trouver ce SACD ?"
 
 #: Tania.dialog:209
-#, fuzzy
 msgid "To the right from the entrance of the area, there is a hall. In the south part of this hall you will find a triple hermetic door. The control center is behind that door. But it is locked, so you will have to find another way there. The cable collectors may help you."
 msgstr "À droite de l'entrée à la zone il se trouve un hall. Dans sa partie sud, il y a une triple porte hermétique. Le centre de contrôle est derrière cette porte. Mais elle est fermée, donc tu devras trouver un autre chemin. Le collecteur de câble peut t'aider."
 
@@ -278,7 +267,6 @@ msgid "That's ok. But please, please, come back. I'm so lonely."
 msgstr "C'est bon. Mais, je t'en supplie, reviens me voir. Je suis si seul."
 
 #: Tania.dialog:222
-#, fuzzy
 msgid "Please come back again and get me out of here."
 msgstr "S'il te plaît, reviens me voir plus tard, tu dois me sortir de là."
 
