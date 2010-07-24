@@ -1,138 +1,154 @@
+# jordi <jordiferren@gmail.com>, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
 "POT-Creation-Date: 2010-07-16 14:05+0000\n"
-"PO-Revision-Date: 2010-06-02 07:42+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2010-07-24 11:06+0200\n"
+"Last-Translator: jordi <jordiferren@gmail.com>\n"
+"Language-Team: freedroid translation\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.5.2\n"
 
 #: Koan.dialog:36
 msgid "So you have come. I knew Duncan would not let me live for too long."
 msgstr ""
+"Así que ya has venido. Sabía que Duncan no me dejaría vivir por mucho "
+"tiempo."
 
 #: Koan.dialog:37
 msgid ""
-"Once I am gone this oasis of peace in the world will dry up and die. A shame."
+"Once I am gone this oasis of peace in the world will dry up and die. A "
+"shame."
 msgstr ""
+"Una vez que he llegado a este oasis de paz en el mundo, se secara y morirá. "
+"Una vergüenza."
 
 #: Koan.dialog:38
 msgid ""
 "I hoped to turn the whole desert into a sanctuary. And now my dream will "
 "never come true."
 msgstr ""
+"Tenia la esperanza de cruzar todo el desierto hacía el santuario. Ahora mi "
+"sueño nunca se hará realidad."
 
 #: Koan.dialog:39
 msgid "Do what you must."
-msgstr ""
+msgstr "Haz lo que debas."
 
 #: Koan.dialog:41
 msgid "It's a pleasure to meet you again."
-msgstr ""
+msgstr "Es un placer hablar contigo de nuevo."
 
 #: Koan.dialog:46
 msgid "With pleasure."
-msgstr ""
+msgstr "Con mucho gusto."
 
 #: Koan.dialog:49 Koan.dialog:60
 msgid "Doing Duncan a favour"
-msgstr ""
+msgstr "Haciendo un favor a Duncan"
 
 #: Koan.dialog:49
 msgid "I took revenge for Duncan by killing Koan."
-msgstr ""
+msgstr "Me vengare por Duncan matando a Koan."
 
 #: Koan.dialog:54
 msgid "No. I have not come here to kill you."
-msgstr ""
+msgstr "No. No he venido aquí para matarte."
 
 #: Koan.dialog:56
 msgid "Thank you."
-msgstr ""
+msgstr "Gracias."
 
 #: Koan.dialog:57
 msgid "Feel free to stay here. There is no danger."
-msgstr ""
+msgstr "Sientete libre de permanecer aquí. No es peligroso."
 
 #: Koan.dialog:58
 msgid ""
 "The water is safe to drink and the fruit from the tree is quite delicious."
 msgstr ""
+"El agua es segura para beber y los frutos del árbol son sencillamente "
+"deliciosos."
 
 #: Koan.dialog:60
 msgid "I met and talked to Koan, but didn't kill him."
-msgstr ""
+msgstr "He conocido y he hablado con Koan, pero no le matare."
 
 #: Koan.dialog:65
 msgid "What is this place? Why is there grass and water under the desert?"
-msgstr ""
+msgstr "¿Que es este sitio? ¿Como es que hay césped y agua debajo del desierto?"
 
 #: Koan.dialog:67
 msgid "Ah, yes. That is my fault, I am afraid."
-msgstr ""
+msgstr "Ah, sí. Es culpa mía, me temo."
 
 #: Koan.dialog:68
 msgid "Wherever I go, life follows me."
-msgstr ""
+msgstr "Donde quiera que voy, la vida me sigue."
 
 #: Koan.dialog:69
 msgid "I thought I could hide from Duncan in this old bunker."
-msgstr ""
+msgstr "Pensé que podría esconderme de Duncan en este viejo búnker."
 
 #: Koan.dialog:70
 msgid "When I woke up the next day, things were as you see them now."
 msgstr ""
+"Cuando me desperté el día siguiente, las cosas estaban como las ves ahora."
 
 #: Koan.dialog:75
 msgid "This was a bunker?"
-msgstr ""
+msgstr "¿Esto era un búnker?"
 
 #: Koan.dialog:77
 msgid "Yes. The place has changed a bit, as you can see."
-msgstr ""
+msgstr "Sí. El sitio ha cambiado un poco, como puedes ver."
 
 #: Koan.dialog:78
 msgid ""
 "I like the way it is right now. The water cools everything down and the "
 "plants give the air a very fresh smell."
 msgstr ""
+"Me gusta tal y como esta ahora. El agua lo refresca todo y las plantas dan "
+"al aire un olor muy fresco."
 
 #: Koan.dialog:79
 msgid ""
 "As soon as I leave, everything will die. I have seen that happen before."
-msgstr ""
+msgstr "Tan pronto como me vaya, todo esto morirá. He visto como pasaba antes."
 
 #: Koan.dialog:80
 msgid ""
 "Because this place is just like a small bit of paradise, I decided to stay "
 "here."
 msgstr ""
+"Como este lugar es como un pequeño trozo de paraíso, he decidido quedarme."
 
 #: Koan.dialog:81
 msgid "I do not want this wonderful bunker to become devoid of life again."
 msgstr ""
+"No quiero que este búnker maravilloso vuelva ha quedarse sin vida de nuevo."
 
 #: Koan.dialog:86
 msgid "Why does Duncan want you dead?"
-msgstr ""
+msgstr "¿Por que quiere Duncan que mueras?"
 
 #: Koan.dialog:88
 msgid "Very simple. He likes destruction, and I am creation."
-msgstr ""
+msgstr "Es muy simple. A el le gusta la destrucción, y yo soy la creación."
 
 #: Koan.dialog:89
 msgid "There is nothing more to it."
-msgstr ""
+msgstr "No hay nada más en eso."
 
 #: Koan.dialog:94
 msgid "I will go now."
-msgstr ""
+msgstr "Debo irme."
 
 #: Koan.dialog:96
 msgid "This place will always wait for you."
-msgstr ""
+msgstr "Este lugar siempre estará esperándote."
