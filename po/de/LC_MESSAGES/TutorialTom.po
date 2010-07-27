@@ -220,19 +220,16 @@ msgid "I just closed your first quest. You can still see what you learned by cli
 msgstr ""
 
 #: TutorialTom.dialog:155
-#, fuzzy
 msgid "I'm eager to learn more."
-msgstr " Ich muss los."
+msgstr "Ich möchte noch mehr lernen."
 
 #: TutorialTom.dialog:157
-#, fuzzy
 msgid "Ok, follow me into the next area."
-msgstr "Gut, folge mir also in den nächsten Bereich."
+msgstr "Gut, folge mir in den nächsten Bereich."
 
 #: TutorialTom.dialog:169
-#, fuzzy
 msgid "What is in that chest?"
-msgstr " Was ist das hier für ein Ort?"
+msgstr "Was befindet sich in der Kiste?"
 
 #: TutorialTom.dialog:171
 msgid "Well, you can interact with several types of objects by simply [b]left clicking[/b] on them."
@@ -250,7 +247,7 @@ msgstr ""
 
 #: TutorialTom.dialog:173
 msgid "I'm supposed to left click on chests to open them up."
-msgstr ""
+msgstr "Ich soll Truhen mit der linken Maustaste anklicken um sie zu öffnen."
 
 #: TutorialTom.dialog:179
 msgid "Some items came out."
