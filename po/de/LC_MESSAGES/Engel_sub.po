@@ -1,3 +1,4 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
@@ -6,20 +7,18 @@ msgstr ""
 "PO-Revision-Date: 2010-04-08 14:10+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
 
 #: Engel_sub.dialog:36
-msgid ""
-"I'm ready. Please show me how to extract bot parts. (cost 50 circuits, 1 "
-"ability point)"
-msgstr ""
+msgid "I'm ready. Please show me how to extract bot parts. (cost 50 circuits, 1 ability point)"
+msgstr "Ich bin bereit. Bitte zeige mir wie man Teile von Robotern herausnimmt."
 
 #: Engel_sub.dialog:55 Engel_sub.dialog:60
 msgid "Hmmm..."
-msgstr ""
+msgstr "Hmmm..."
 
 #: Engel_sub.dialog:56
 msgid "You look green. Toughen up. Get some experience, kill some bots."
@@ -27,119 +26,100 @@ msgstr ""
 
 #: Engel_sub.dialog:57
 msgid "Then we can talk."
-msgstr ""
+msgstr "Dann können wir reden."
 
 #: Engel_sub.dialog:61
 msgid "Kein geld, keine hilfe."
-msgstr ""
+msgstr "No money, no help"
 
 #: Engel_sub.dialog:62
 msgid "Come back with some money."
-msgstr ""
+msgstr "Komm zurück mit etwas Geld."
 
 #: Engel_sub.dialog:79
 msgid "Let us start with entropy inverters. This is quite simple."
-msgstr ""
+msgstr "Lass uns mit Entropie-Umkehrern beginnen. Die sind ziemlich simpel."
 
 #: Engel_sub.dialog:80
 msgid "Just take a hammer and hit the bot sehr hard on the head."
-msgstr ""
+msgstr "Nimm einfach einen Hammer und hau very hart auf den Kopf."
 
 #: Engel_sub.dialog:81
-msgid ""
-"When you have the head open wide, look around for a part which looks like "
-"two circles around a cube. That is what you are looking for."
-msgstr ""
+msgid "When you have the head open wide, look around for a part which looks like two circles around a cube. That is what you are looking for."
+msgstr "Wenn du den Kopf weit geöffnet hast, schau nach einem Teil was so aussieht wie 2 Kreise um einen Würfel. Das ist das wonach du suchst."
 
 #: Engel_sub.dialog:89
 msgid "How about... Plasma transistors? Trivial."
-msgstr ""
+msgstr "WIe wäre es mit... Plasma Transistoren? Trivial."
 
 #: Engel_sub.dialog:90
 msgid "Remove the bot's engine and look around somewhere close to the battery."
-msgstr ""
+msgstr "Entferne den Motor des Roboters und schau an der Batterie."
 
 #: Engel_sub.dialog:91
-msgid ""
-"Plasma transistors are shaped like the letter Y. Just rip them out, it's "
-"safe."
-msgstr ""
+msgid "Plasma transistors are shaped like the letter Y. Just rip them out, it's safe."
+msgstr "Plasma Transistoren sind wie ein Y geformt. Reiß sie einfach aus, es passiert nichts."
 
 #: Engel_sub.dialog:99
 msgid "Hmmm... Ah, gut. Superconductors."
-msgstr ""
+msgstr "Hmmm.... Ah, good. Superleiter."
 
 #: Engel_sub.dialog:100
 msgid "They are relatively easy to get out."
-msgstr ""
+msgstr "Diese sind relativ einfach rauszukriegen."
 
 #: Engel_sub.dialog:101
-msgid ""
-"Look around the electric system. Power coils, capacitors, generators and the "
-"like. Usually there are plenty of sehr gut parts there."
-msgstr ""
+msgid "Look around the electric system. Power coils, capacitors, generators and the like. Usually there are plenty of sehr gut parts there."
+msgstr "Such nach dem elektrischen System. Spulen, Kondensatoren, Generatoren und so weiter. Normalerweise sind dort viele very good Teile dort."
 
 #: Engel_sub.dialog:102
 msgid "Wear rubber gloves. Just in case, you know."
-msgstr ""
+msgstr "Trage Gummihandschuhe. Für alle Fälle, du weißt"
 
 #: Engel_sub.dialog:110
 msgid "I will tell you everything about matter-antimatter converters."
-msgstr ""
+msgstr "Ich erzähle dir alles über Materie-Antimaterie Umwandler."
 
 #: Engel_sub.dialog:111
 msgid "Yes... Converters are a problem."
-msgstr ""
+msgstr "Ja... Umwandler sind ein Problem."
 
 #: Engel_sub.dialog:112
-msgid ""
-"They are easy to find, all you have to do is to get to the engine. But you "
-"must remember something very important:"
-msgstr ""
+msgid "They are easy to find, all you have to do is to get to the engine. But you must remember something very important:"
+msgstr "Sie sind einfach zu finden, alles was du tun musst, ist den Motor zu finden. Aber du musst etwas sehr Wichtiges wissen:"
 
 #: Engel_sub.dialog:113
 msgid "Make sure you turn the converter off before you remove it."
-msgstr ""
+msgstr "Sei sicher, den Umwandler auszustellen, bevor du ihn entfernst."
 
 #: Engel_sub.dialog:114
-msgid ""
-"If you do not do that, you will only succeed in converting yourself to anti-"
-"matter. And as you know, there is no coming back from there."
-msgstr ""
+msgid "If you do not do that, you will only succeed in converting yourself to anti-matter. And as you know, there is no coming back from there."
+msgstr "Wenn du das nicht tust, wird es dir nur gelingen, dich selbst zu Antimaterie umzuwandlen."
 
 #: Engel_sub.dialog:122
 msgid "I will teach you about tachyon converters."
-msgstr ""
+msgstr "Ich werde dir alles über Tachyon Umwandler erzählen."
 
 #: Engel_sub.dialog:123
-msgid ""
-"Tachyons are very interesting particles. Many stories have been told about "
-"them."
-msgstr ""
+msgid "Tachyons are very interesting particles. Many stories have been told about them."
+msgstr "Tachyonen sind sehr interessante Partikel. Viele Geschichten wurden über sie erzählt."
 
 #: Engel_sub.dialog:124
-msgid ""
-"I have no idea why bots have them inside. They are usually not connected to "
-"anything and serve no function."
-msgstr ""
+msgid "I have no idea why bots have them inside. They are usually not connected to anything and serve no function."
+msgstr "Ich habe keine Ahnung, warum die Roboter sie haben. Sie sind normalerweise nicht mit irgendetwas verbunden und haben keine Funktion."
 
 #: Engel_sub.dialog:125
-msgid ""
-"They are usually quite hot when you get them out, but they cool down "
-"quickly, so handling them is not a big deal."
-msgstr ""
+msgid "They are usually quite hot when you get them out, but they cool down quickly, so handling them is not a big deal."
+msgstr "Sie sind normalerweise ziemlich heiß, wenn du sie herausnimmst, aber sie kühlen sich schnell ab, es ist also keine Problem sie anzufassen."
 
 #: Engel_sub.dialog:126
-msgid ""
-"They can be installed just about anywhere, so you have to spend some time "
-"digging through the circuits to find one."
-msgstr ""
+msgid "They can be installed just about anywhere, so you have to spend some time digging through the circuits to find one."
+msgstr "Sie könnten überall installiert sein, also musst du einige Zeit damit verbringen, in den Schaltungen zu suchen, um einen zu finden."
 
 #: Engel_sub.dialog:134
-msgid ""
-"Nein, I told you everything I know about that. No use asking me twice, ja?"
-msgstr ""
+msgid "Nein, I told you everything I know about that. No use asking me twice, ja?"
+msgstr "No, ich habe dir alles gesagt, was ich darüber weiß. Frag mich nicht zweimal, yes?"
 
 #: Engel_sub.dialog:139
 msgid "Maybe another time."
-msgstr ""
+msgstr "Vielleicht ein anderes Mal."
