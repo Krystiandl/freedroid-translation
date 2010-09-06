@@ -1,3 +1,4 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
@@ -6,87 +7,87 @@ msgstr ""
 "PO-Revision-Date: 2010-05-22 20:22+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
-"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: AfterTakeover.dialog:33
 msgid ".. bot_type().."
-msgstr ""
+msgstr ".. bot_type().."
 
 #: AfterTakeover.dialog:34
 msgid "Login : "
-msgstr ""
+msgstr "Login : "
 
 #: AfterTakeover.dialog:35
 msgid "tux"
-msgstr ""
+msgstr "tux"
 
 #: AfterTakeover.dialog:36
 msgid "Password : "
-msgstr ""
+msgstr "Password : "
 
 #: AfterTakeover.dialog:38
 msgid "Last login from dev/ttyS0 on Sun, 23 mar 2057."
-msgstr ""
+msgstr "Ultimo login desde dev/ttyS0 el domingo, 23 mar 2057."
 
 #: AfterTakeover.dialog:39
 msgid "Welcome to [b]"
-msgstr ""
+msgstr "Bienvenido a [b]"
 
 #: AfterTakeover.dialog:41
 msgid "Hardware Check : BOT DAMAGED"
-msgstr ""
+msgstr "Chequeo de Hardware : ARRANQUE DAÑADO"
 
 #: AfterTakeover.dialog:42
 msgid "This "
-msgstr ""
+msgstr "Esta"
 
 #: AfterTakeover.dialog:42
 msgid " unit could need some repair."
-msgstr ""
+msgstr "unidad debe ser reparada."
 
 #: AfterTakeover.dialog:49 AfterTakeover.dialog:52
 msgid "cd repair&settings/"
-msgstr ""
+msgstr "cd repair&settings/"
 
 #: AfterTakeover.dialog:58 AfterTakeover.dialog:61
 msgid "./hold_position.sh"
-msgstr ""
+msgstr "./hold_position.sh"
 
 #: AfterTakeover.dialog:62
 msgid "Holding position."
-msgstr ""
+msgstr "Manteniendo posición."
 
 #: AfterTakeover.dialog:63
 msgid "script V 1.0.2 (c) gnu.org, 2054"
-msgstr ""
+msgstr "script V 1.0.2 (c) gnu.org, 2054"
 
 #: AfterTakeover.dialog:64 AfterTakeover.dialog:93
 msgid "Checking requirements..."
-msgstr ""
+msgstr "Comprobando requisitos..."
 
 #: AfterTakeover.dialog:65
 msgid "Movement unit: Power-down... [Done]."
-msgstr ""
+msgstr "Movimiento de unidad: Apagando... [Done]."
 
 #: AfterTakeover.dialog:66
 msgid "Status: All movement suppressed."
-msgstr ""
+msgstr "Status: Todos los movimientos suprimidos."
 
 #: AfterTakeover.dialog:73 AfterTakeover.dialog:76
 msgid "./follow_me.sh"
-msgstr ""
+msgstr "./follow_me.sh"
 
 #: AfterTakeover.dialog:77
 msgid "Initiating tracking sequence."
-msgstr ""
+msgstr "Iniciando secuencia de seguimiento."
 
 #: AfterTakeover.dialog:78
 msgid "Movement unit: Enabled."
-msgstr ""
+msgstr "Unidad de movimiento: Enabled."
 
 #: AfterTakeover.dialog:79
 msgid "Trying to keep up with "
@@ -161,9 +162,7 @@ msgid "Warning! Cooling subsystems disabled."
 msgstr ""
 
 #: AfterTakeover.dialog:135
-msgid ""
-"Warning! Spontaneous oxidization witH emis$ion of light aND heAt detecteddd "
-"in THE#main| procesIng unit."
+msgid "Warning! Spontaneous oxidization witH emis$ion of light aND heAt detecteddd in THE#main| procesIng unit."
 msgstr ""
 
 #: AfterTakeover.dialog:136
