@@ -91,92 +91,92 @@ msgstr "Unidad de movimiento: Enabled."
 
 #: AfterTakeover.dialog:79
 msgid "Trying to keep up with "
-msgstr ""
+msgstr "Tratando de mantener"
 
 #: AfterTakeover.dialog:79
 msgid " position."
-msgstr ""
+msgstr "posición."
 
 #: AfterTakeover.dialog:80
 msgid "Status: Following "
-msgstr ""
+msgstr "Estado: Siguiendo"
 
 #: AfterTakeover.dialog:87 AfterTakeover.dialog:90 AfterTakeover.dialog:106
 msgid "./move_freely.sh"
-msgstr ""
+msgstr "./move_freely.sh"
 
 #: AfterTakeover.dialog:91
 msgid "Enable movement."
-msgstr ""
+msgstr "Movimiento activado."
 
 #: AfterTakeover.dialog:92
 msgid "script V 1.0.5 (c) gnu.org, 2054"
-msgstr ""
+msgstr "script V 1.0.5 (c) gnu.org, 2054"
 
 #: AfterTakeover.dialog:94
 msgid "Movement unit: Power-up... [Done]."
-msgstr ""
+msgstr "Unidad de movimiento: Power-up... [Done]."
 
 #: AfterTakeover.dialog:95
 msgid "Resuming normal patrol operations... [Done]"
-msgstr ""
+msgstr "Reanudando operaciones normales de patrulla... [Done]"
 
 #: AfterTakeover.dialog:96
 msgid "Status: Patrolling."
-msgstr ""
+msgstr "Status: Patrullando."
 
 #: AfterTakeover.dialog:103
 msgid "./hcf.py"
-msgstr ""
+msgstr "./hcf.py"
 
 #: AfterTakeover.dialog:108
 msgid "Are you really sure you want to destroy "
-msgstr ""
+msgstr "Estas seguro que quieres destruir"
 
 #: AfterTakeover.dialog:108
 msgid "? Y/N"
-msgstr ""
+msgstr "? S/N"
 
 #: AfterTakeover.dialog:114
 msgid "Yes"
-msgstr ""
+msgstr "Si"
 
 #: AfterTakeover.dialog:117
 msgid "Destruction confirmed."
-msgstr ""
+msgstr "Destrucción confirmada"
 
 #: AfterTakeover.dialog:122
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: AfterTakeover.dialog:125
 msgid "Destruction averted."
-msgstr ""
+msgstr "Destrucción abortada."
 
 #: AfterTakeover.dialog:133
 msgid "Executing: Halt and Catch Fire."
-msgstr ""
+msgstr "Ejecutando: Detener y parar el fuego."
 
 #: AfterTakeover.dialog:134
 msgid "Warning! Cooling subsystems disabled."
-msgstr ""
+msgstr "¡Advertencia! subsistemas de refrigeración deshabilitados."
 
 #: AfterTakeover.dialog:135
 msgid "Warning! Spontaneous oxidization witH emis$ion of light aND heAt detecteddd in THE#main| procesIng unit."
-msgstr ""
+msgstr "¡Advertencia! Oxidación espontanea coN emi$iones de luz y calor detectadosss en EL#nucleo| de procesamiento."
 
 #: AfterTakeover.dialog:136
 msgid "WArn|n*! SsTeM=#faiPure%^#n 3 S 1()$++"
-msgstr ""
+msgstr "¿ADv3|n*a! Ffallo=#sIsTeMa%^#n 3 S 1()$++"
 
 #: AfterTakeover.dialog:139
 msgid "Opening access to MS Office"
-msgstr ""
+msgstr "Abriendo Acces del MS Office"
 
 #: AfterTakeover.dialog:141
 msgid "()%#@(% THE BLADE IS YOURS. )##%*&%*!"
-msgstr ""
+msgstr "()%#@(% LA ESPADA ES TUYA. )##%*&%*!"
 
 #: AfterTakeover.dialog:156
 msgid "Closing remote connection..."
-msgstr ""
+msgstr "Cerrando conexión remota..."
