@@ -161,7 +161,7 @@ msgstr "MSKD - MegaSys Kontrolldroide"
 
 #: ReturnOfTux.droids:404
 msgid "Race Condition"
-msgstr ""
+msgstr "Wettlaufsituation"
 
 #: ReturnOfTux.droids:405
 msgid "Undeclared Variable"
@@ -177,7 +177,7 @@ msgstr "Pufferüberlauf"
 
 #: ReturnOfTux.droids:416
 msgid "Melissa.I"
-msgstr ""
+msgstr "Melissa.I"
 
 #: ReturnOfTux.droids:417
 msgid "ILOVEYOU"
@@ -189,7 +189,7 @@ msgstr "W32.DeinUntergang"
 
 #: ReturnOfTux.droids:419
 msgid "CIH.1103"
-msgstr ""
+msgstr "CIH.1103"
 
 #: ReturnOfTux.droids:432
 msgid "MSDD - MegaSys Defence Droid"
@@ -198,7 +198,7 @@ msgstr "MDVD - MegaSysverteidigungsroboter"
 #: ReturnOfTux.droids:433 ReturnOfTux.droids:434 ReturnOfTux.droids:435
 #: ReturnOfTux.droids:436 ReturnOfTux.droids:437
 msgid "TD"
-msgstr ""
+msgstr "TD"
 
 #: ReturnOfTux.droids:438
 msgid "Update Server Guard"
@@ -237,8 +237,9 @@ msgid "SADD"
 msgstr "SADD"
 
 #: ReturnOfTux.droids:497
+#, fuzzy
 msgid "Ashman"
-msgstr ""
+msgstr "Ascheman"
 
 #: ReturnOfTux.droids:498 ReturnOfTux.droids:500 ReturnOfTux.droids:501
 #: ReturnOfTux.droids:502
@@ -250,12 +251,14 @@ msgid "Servant"
 msgstr "Diener"
 
 #: ReturnOfTux.droids:504
+#, fuzzy
 msgid "Criocapsules maintainer"
-msgstr ""
+msgstr "Criokapselbetreuer"
 
 #: ReturnOfTux.droids:505
+#, fuzzy
 msgid "Sanitary technician"
-msgstr ""
+msgstr "Sanitäre Techniker"
 
 #: ReturnOfTux.droids:506
 msgid "Toilet droid"
@@ -283,11 +286,11 @@ msgstr "Ziel"
 
 #: ReturnOfTux.droids:638
 msgid "Bot Factory Gate Guard"
-msgstr ""
+msgstr "Botfabrik Torwache"
 
 #: ReturnOfTux.droids:639
 msgid "Bot Factory Gate Guard Leader"
-msgstr ""
+msgstr "Botfabrik Torwachenanfüher"
 
 #~ msgid "614 -- Kevin's Guard"
 #~ msgstr "Zurück zu Kevins Garten"
