@@ -38,10 +38,9 @@ msgstr "Großartig! Ein Neuer! Willkommen! Willkommen! Ich heiße Skippy und ich
 
 #: Skippy.dialog:51
 msgid "I already saw you coming. Due to my mapping device! It's great stuff!"
-msgstr ""
+msgstr "Ich hab dich schon kommen sehen. Dank meines Kartengerätes. Tolle Sache!"
 
 #: Skippy.dialog:52
-#, fuzzy
 msgid "And as a special favour, I'll sell you a mapping device for half price!"
 msgstr "Und als besonderen Gefallen verkaufe ich dir eine Automap-Einheit zum halben Preis!"
 
@@ -51,47 +50,43 @@ msgstr "Was für ein TOLLES Angebot! Hast du ein Glück!"
 
 #: Skippy.dialog:54
 msgid "Skippy -- Map-Maker Maker"
-msgstr ""
+msgstr "Skippy -- Karten-Macher Macher"
 
 #: Skippy.dialog:59
 msgid "Ok, if I want to buy me one of those mapping pills. How much are they?"
-msgstr ""
+msgstr "Ok, wenn ich mir eine von diesen Kartenpille kaufen will, wieviel kosten die?"
 
 #: Skippy.dialog:61
 msgid "They only cost 50. Special price only for you!"
-msgstr ""
+msgstr "Sie kosten nur 50. Spezieller Preis, nur für dich!"
 
 #: Skippy.dialog:61
 msgid "You're so lucky! I just decided to cut the price in half!"
-msgstr ""
+msgstr "Du hast so ein Glück! Ich hab gerade entschieden den Preis nur für dich um die Hälfte zu senken!"
 
 #: Skippy.dialog:66
-#, fuzzy
 msgid "How do I activate a mapping device?"
-msgstr " Wie aktiviere ich so eine Kartographie-Einheit?"
+msgstr "Wie aktiviere ich so eine Kartographie-Einheit?"
 
 #: Skippy.dialog:68
 msgid "Oh, that's so simple. No need to activate anything at all."
 msgstr "Oh, das ist so einfach! Überhaupt keine Notwendigkeit, irgendwas einzuschalten."
 
 #: Skippy.dialog:69
-#, fuzzy
 msgid "Just swallow the pill and the nanotechnological bots will enter your body."
-msgstr "Setz dir das Ding einfach auf und die Nanobots dringen in deinen Körper ein."
+msgstr "Schluck's einfach und die Nanobots dringen in deinen Körper ein."
 
 #: Skippy.dialog:70
 msgid "They'll merge with your eyes and transmit data to your brain using the optical nerves. Nice, eh?"
 msgstr "Sie werden sich mit deinen Augen verbinden und Daten mit Hilfe der Sehnerven an dein Gehirn weiterleiten. Hübsch, was?"
 
 #: Skippy.dialog:71
-#, fuzzy
 msgid "Everything within 50 meters of you will be displayed on your retinas."
-msgstr "Alles im Umkreis von 7 Metern wird erfasst, gespeichert und bei Bedarf wieder auf deine Retinas projiziert."
+msgstr "Alles im Umkreis von 50 Metern wird erfasst, gespeichert und bei Bedarf wieder auf deine Retinas projiziert."
 
 #: Skippy.dialog:76
-#, fuzzy
 msgid "You said you make these things yourself? How do you do that?"
-msgstr " Sie sagten, Sie machen diese Dinger selbst? Wie stellen Sie das an?"
+msgstr "Sie sagten, Sie machen diese Dinger selbst? Wie stellen Sie das an?"
 
 #: Skippy.dialog:78
 msgid "Oh, I've always been a geek. And I got blueprints from before the Great Assault."
@@ -106,7 +101,6 @@ msgid "The only source of these gizmos is here. It's me!"
 msgstr "Die einzige Quelle für diese kleinen Dingerchen ist hier. Bei mir!"
 
 #: Skippy.dialog:85
-#, fuzzy
 msgid "Nanotechnology? Isn't that dangerous?"
 msgstr " Nanotechnologie? Ist das nicht gefährlich?"
 
@@ -124,25 +118,23 @@ msgstr "Keine Gefahr, dass dein Kopf von einem nanotechnischen Alptraum aufgefre
 
 #: Skippy.dialog:90
 msgid "I've used one myself for many years now: no side effects! It works just as great as on the first day!"
-msgstr ""
+msgstr "Ic benutze selbes eins schon seit vielen Jahren: keine Nebenwirkungen! Es funktioniert wie am ersten Tage!"
 
 #: Skippy.dialog:91
 msgid "Trust me! I'm your best friend and I wouldn't lie to you! Never!"
 msgstr "Vertrau mir! Ich bin dein bester Freund und würde dich nie anlügen! Niemals!"
 
 #: Skippy.dialog:96
-#, fuzzy
 msgid "I don't trust you."
-msgstr " Ich trau Ihnen nicht!"
+msgstr "Ich trau Ihnen nicht!"
 
 #: Skippy.dialog:98
 msgid "WHAT? But I'm your best friend! You must trust me!"
 msgstr "WAS? Aber ich bin dein bester Freund! Du musst mir vertrauen!"
 
 #: Skippy.dialog:103
-#, fuzzy
 msgid "I still do not trust you. You are selling junk to people."
-msgstr " Ich muss garnichts! Sie verkaufen Mist an die Leute."
+msgstr " Ich vertraue ihnn immer noch nicht! Sie verkaufen Mist an die Leute."
 
 #: Skippy.dialog:105
 msgid "WHAT? Fine, you can forget about my great deals now! I don't want to trade with you anymore!"
@@ -154,29 +146,28 @@ msgstr "Ich bin nicht mehr länger dein bester Freund... verschwinde, Dreckskerl
 
 #: Skippy.dialog:113
 msgid "Do you sell anything else?"
-msgstr ""
+msgstr "Verkaufen Sie auch sonst noch was?"
 
 #: Skippy.dialog:115
+#, fuzzy
 msgid "Sure! I also build some electronics devices, depending on what parts I can get my hands on."
-msgstr ""
+msgstr "Klar! Ich baue auch elektronische Geräte, kommt drauf an welche Teile ich in meine Hände bekommen."
 
 #: Skippy.dialog:117
 msgid "Resources are a bit scarce nowdays though."
-msgstr ""
+msgstr "Die Resourcen sind momentan etwas knapp"
 
 #: Skippy.dialog:122
-#, fuzzy
 msgid "Ok, I'll take one."
-msgstr " Na gut, ich werde sie abstellen."
+msgstr " Na gut, ich nehme eins."
 
 #: Skippy.dialog:125
-#, fuzzy
 msgid "Here is your pill."
-msgstr "Bitteschön!"
+msgstr "Bitteschön, die Tablette."
 
 #: Skippy.dialog:126
 msgid "Just swallow it, and it should work."
-msgstr ""
+msgstr "Einfach runterschlucken und es sollte funktionieren."
 
 #: Skippy.dialog:127
 msgid "I give a 30 day warranty and adjustments, in case it doesn't work as expected."
