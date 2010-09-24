@@ -171,7 +171,7 @@ msgstr "Einfach runterschlucken und es sollte funktionieren."
 
 #: Skippy.dialog:127
 msgid "I give a 30 day warranty and adjustments, in case it doesn't work as expected."
-msgstr ""
+msgstr "Ich gebe 30 Tage Garantie und Einstellungsdienstleistung, falls es nicht funktioniert, wie erwartet."
 
 #: Skippy.dialog:129
 #, fuzzy
@@ -180,34 +180,32 @@ msgstr "(Drücke einfach TAB, um die Karte einzublenden.)"
 
 #: Skippy.dialog:131
 msgid "Hey, I'm not a bank!"
-msgstr ""
+msgstr "Hey, ich bin keine Bank!"
 
 #: Skippy.dialog:132
-#, fuzzy
 msgid "Come back when you can afford it."
-msgstr "Komm zurück mit ein wenig Geld."
+msgstr "Komm zurück wenn du es dir leisten kannst."
 
 #: Skippy.dialog:139
 msgid "Nah, don't think so. "
-msgstr ""
+msgstr "Na, das glaube ich nicht."
 
 #: Skippy.dialog:141
+#, fuzzy
 msgid "Your loss."
-msgstr ""
+msgstr "Dein verlust."
 
 #: Skippy.dialog:142
 msgid "Hope you won't get lost and killed out there."
-msgstr ""
+msgstr "Ich hoffe, du verlierst dich da daußen nicht und kommst um."
 
 #: Skippy.dialog:143
-#, fuzzy
 msgid "But don't count on it."
-msgstr " Ich trau Ihnen nicht!"
+msgstr "Aber zähl nicht drauf."
 
 #: Skippy.dialog:148
-#, fuzzy
 msgid "Why are you so friendly?"
-msgstr " Warum sind Sie so freundlich?"
+msgstr "Warum sind Sie so freundlich?"
 
 #: Skippy.dialog:150
 msgid "Because you are my best friend!"
@@ -218,9 +216,8 @@ msgid "I always take good care of my special buddies!"
 msgstr "Ich kümmere mich immer gut um meine ganz speziellen Kumpels!"
 
 #: Skippy.dialog:156
-#, fuzzy
 msgid "You are friendly only to sell me your stuff, aren't you?"
-msgstr " Sie sind nur deshalb so freundlich, um mir diese Dinger anzudrehen, stimmts?"
+msgstr "Sie sind nur deshalb so freundlich, um mir diese Dinger anzudrehen, stimmts?"
 
 #: Skippy.dialog:158
 msgid "No, never! I would never be so shallow!"
