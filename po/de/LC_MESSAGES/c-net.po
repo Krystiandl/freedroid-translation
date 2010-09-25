@@ -21,7 +21,6 @@ msgid " . "
 msgstr "."
 
 #: c-net.dialog:37
-#, fuzzy
 msgid "Welcome to the Community Network."
 msgstr "Wilkommen zum Gemeinschaftsnetzwerk"
 
@@ -31,7 +30,7 @@ msgstr "Einloggen :"
 
 #: c-net.dialog:53
 msgid "First time login detected."
-msgstr ""
+msgstr "Erstlogin vestgestell."
 
 #: c-net.dialog:54
 msgid "Please enter your name"
@@ -48,16 +47,15 @@ msgstr "Bitte geben Sie ein Passwort für ihren persönliche Sitzung als Gast ei
 
 #: c-net.dialog:58
 msgid "Use at least one lower case letter, one upper case letter, one number, and one symbol."
-msgstr ""
+msgstr "Benutzen sie mindestens einen Gro0buchstaben, einen Kleinbuchstaben, eine Zahl und ein Symbol"
 
 #: c-net.dialog:59 c-net.dialog:64 c-net.dialog:77 c-net.dialog:96
 msgid "Password : "
 msgstr "Passwort :"
 
 #: c-net.dialog:67 c-net.dialog:84 c-net.dialog:103 c-net.dialog:122
-#, fuzzy
 msgid "Last login from dev/tty3 on unknown"
-msgstr "Letzter Login von /dev/ttyS0 am Sonntag, 23.03.2057. admin@sabwehr: ~ #"
+msgstr "Letzter Login von /dev/ttyS0 unbekannt. admin@sabwehr: ~ #"
 
 #: c-net.dialog:114
 msgid "Password: "
@@ -69,8 +67,9 @@ msgid "Login incorrect"
 msgstr "Einloggen fehlgeschlagen"
 
 #: c-net.dialog:133
+#, fuzzy
 msgid "Connection to c-net terminated."
-msgstr ""
+msgstr "Verbinden zum c-net fehlgeschlagen."
 
 #: c-net.dialog:163
 msgid "Date unknown"
@@ -78,11 +77,11 @@ msgstr "Datum unbekannt"
 
 #: c-net.dialog:242
 msgid "mountdisk.sh"
-msgstr ""
+msgstr "platteeinbinden.sh"
 
 #: c-net.dialog:245
 msgid "./mountdisk.sh"
-msgstr ""
+msgstr "./platteeinbinden.sh"
 
 #: c-net.dialog:246
 msgid "no disk found"
@@ -90,11 +89,12 @@ msgstr "keine Festplatte gefunden"
 
 #: c-net.dialog:251
 msgid "statistics.pl"
-msgstr ""
+msgstr "statistiken.pl"
 
 #: c-net.dialog:255
+#, fuzzy
 msgid "Corrupted file."
-msgstr ""
+msgstr "Verdorbene Datei."
 
 #: c-net.dialog:256
 msgid "Bot #Dead# Tux #Hacked/Failed#Ratio"
@@ -110,7 +110,7 @@ msgstr ""
 
 #: c-net.dialog:290
 msgid "bomb armed"
-msgstr ""
+msgstr "Bombe schatf"
 
 #: c-net.dialog:296
 msgid "forkBOMB.sh -disarm bomb"
@@ -118,7 +118,7 @@ msgstr ""
 
 #: c-net.dialog:298
 msgid "bomb defused"
-msgstr ""
+msgstr "Bolbe entschärft"
 
 #: c-net.dialog:304
 msgid "forkBOMB.sh -execute"
@@ -134,7 +134,7 @@ msgstr ""
 
 #: c-net.dialog:343
 msgid "global_thermonuclear_war"
-msgstr ""
+msgstr "globaler_thermonuklearer_krieg"
 
 #: c-net.dialog:346
 msgid "./global_thermonuclear_war"
