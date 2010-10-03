@@ -20,7 +20,7 @@ msgstr ""
 #: AfterTakeover_sub.dialog:33
 #, fuzzy
 msgid ".. bot_type().."
-msgstr ".. type_robot() .."
+msgstr ".. bot_type().."
 
 #: AfterTakeover_sub.dialog:47 AfterTakeover_sub.dialog:50
 msgid "./est_repair.plx"
@@ -39,9 +39,8 @@ msgid " seconds, "
 msgstr "secondes, "
 
 #: AfterTakeover_sub.dialog:59
-#, fuzzy
 msgid " valuable circuits, and "
-msgstr "circuits importants et"
+msgstr "circuits vendables, et"
 
 #: AfterTakeover_sub.dialog:59
 msgid " heat."
@@ -113,14 +112,12 @@ msgid "hcf.py will be executed without asking for confirmation."
 msgstr "hcf.py sera exécuté sans demander de confirmation."
 
 #: AfterTakeover_sub.dialog:132 AfterTakeover_sub.dialog:135
-#, fuzzy
 msgid "./hostname"
-msgstr "./nom-hote"
+msgstr "./hostname"
 
 #: AfterTakeover_sub.dialog:136
-#, fuzzy
 msgid "Welcome to the hostname menu."
-msgstr "Bienvenue au menu du nom d'hôte."
+msgstr "Bienvenue au menu hostname."
 
 #: AfterTakeover_sub.dialog:137
 msgid "Version: 0.15.01"
@@ -144,20 +141,22 @@ msgid "New Name: "
 msgstr "Nouveau nom:"
 
 #: AfterTakeover_sub.dialog:151
+#, fuzzy
 msgid "Bald"
-msgstr ""
+msgstr "Lisse"
 
 #: AfterTakeover_sub.dialog:151
+#, fuzzy
 msgid "Chic"
-msgstr ""
+msgstr "Chic"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Fuzzy"
-msgstr ""
+msgstr "Flou"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Fluffy"
-msgstr ""
+msgstr "Duveteux"
 
 #: AfterTakeover_sub.dialog:151
 msgid "Cuddly"
