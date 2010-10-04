@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidRPG 0.10.4cvs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
 "PO-Revision-Date: 2008-11-03 05:44+0000\n"
 "Last-Translator: Christian Widell <Christian_widell@hotmail.com>\n"
 "Language-Team: Swedish\n"
@@ -193,28 +193,11 @@ msgid ""
 "is always active even when not selected."
 msgstr ""
 
-#: freedroid.program_archetypes:227
-msgid "Analyze item"
-msgstr "Analysera föremål"
-
-#: freedroid.program_archetypes:228
-msgid ""
-"NOT IMPLEMENTED YET Current implementation will be removed and possibly "
-"reimplemented for something else due to addon system replacing magic items"
-msgstr ""
-
 #: freedroid.program_archetypes:229
-msgid ""
-"Effect: Identify - There are very few items which have labels on them. "
-"Unless you happen to have an item labeled 'USE ME', you better make sure "
-"what it is before using it..."
-msgstr ""
-
-#: freedroid.program_archetypes:239
 msgid "Nethack"
 msgstr "Nethack"
 
-#: freedroid.program_archetypes:240
+#: freedroid.program_archetypes:230
 #, fuzzy
 msgid ""
 "NOT IMPLEMENTED YET The open source game called Nethack is one of the "
@@ -224,25 +207,25 @@ msgstr ""
 "Open-Source spelet Nethack är ett av världens största slöseri med tid. "
 "Maskiner bryr sig inte om det, men människor kan fastna ganska djupt i det."
 
-#: freedroid.program_archetypes:255
+#: freedroid.program_archetypes:245
 msgid "Reverse-engineer"
 msgstr "Reverse-engineer"
 
-#: freedroid.program_archetypes:256
+#: freedroid.program_archetypes:246
 #, fuzzy
 msgid ""
 "NOT IMPLEMENTED YET There is some dark magic in the art of turning devices "
-"or programs inside-out, picking them appart to learn all their secrets and "
+"or programs inside-out, picking them apart to learn all their secrets and "
 "putting them back again."
 msgstr ""
 "Det är någon mörk magi i konsten att vränga robotar ut och in för att ta "
 "reda på alla deras hemligheter."
 
-#: freedroid.program_archetypes:267
+#: freedroid.program_archetypes:257
 msgid "Ricer CFLAGS"
 msgstr "Ostabila kompilerings flaggor"
 
-#: freedroid.program_archetypes:268
+#: freedroid.program_archetypes:258
 #, fuzzy
 msgid ""
 "NOT IMPLEMENTED YET Optimization is the root of all evil. You can gain some "
@@ -252,23 +235,19 @@ msgstr ""
 "Optimering är roten till all ondska. Du kan temporärt förbättra ditt system, "
 "men i slutändan är det troligt att det orsakar permanenta skador."
 
-#: freedroid.program_archetypes:276
+#: freedroid.program_archetypes:266
 msgid "Light"
 msgstr "Ljus"
 
-#: freedroid.program_archetypes:277
-#, fuzzy
-msgid ""
-"NOT IMPLEMENTED YET This does nothing in this version of freedroidRPG. Let "
-"there be light..."
-msgstr ""
-"Denna gör ingenting i den här versionen av freedroidRPG. Låt ljuset flöda..."
+#: freedroid.program_archetypes:267
+msgid "Let there be light..."
+msgstr "Varde ljus..."
 
-#: freedroid.program_archetypes:286
+#: freedroid.program_archetypes:278
 msgid "Satellite image"
 msgstr "Satellitbild"
 
-#: freedroid.program_archetypes:287
+#: freedroid.program_archetypes:279
 #, fuzzy
 msgid ""
 "NOT IMPLEMENTED YET Getting a map of an area is pretty easy when you can "
@@ -277,12 +256,12 @@ msgstr ""
 "Att få tag på en karta över ett område är rätt lätt när du kan se allting "
 "ovanifrån."
 
-#: freedroid.program_archetypes:295
+#: freedroid.program_archetypes:287
 msgid "Plasma grenade"
 msgstr "Plasmagranat"
 
-#: freedroid.program_archetypes:296 freedroid.program_archetypes:308
-#: freedroid.program_archetypes:320
+#: freedroid.program_archetypes:288 freedroid.program_archetypes:300
+#: freedroid.program_archetypes:312
 #, fuzzy
 msgid ""
 "If you see this in game it is a bug. Please report this to the developers, "
@@ -292,13 +271,24 @@ msgstr ""
 "Det här är en bugg, rapportera detta till utvecklarna, såvida du inte har "
 "fuskat, i vilket fall du förtjänar att se denna dumma beskrivning."
 
-#: freedroid.program_archetypes:307
+#: freedroid.program_archetypes:299
 msgid "Gas grenade"
 msgstr "Gasgranat"
 
-#: freedroid.program_archetypes:319
+#: freedroid.program_archetypes:311
 msgid "EMP grenade"
 msgstr "EMP granat"
+
+#~ msgid "Analyze item"
+#~ msgstr "Analysera föremål"
+
+#, fuzzy
+#~ msgid ""
+#~ "NOT IMPLEMENTED YET This does nothing in this version of freedroidRPG. "
+#~ "Let there be light..."
+#~ msgstr ""
+#~ "Denna gör ingenting i den här versionen av freedroidRPG. Låt ljuset "
+#~ "flöda..."
 
 #~ msgid ""
 #~ "This does nothing in this version of freedroidRPG. Getting a map of an "
@@ -1286,9 +1276,6 @@ msgstr "EMP granat"
 
 #~ msgid "Source Book of Light"
 #~ msgstr "Källbok om Ljus"
-
-#~ msgid "Let there be light..."
-#~ msgstr "Varde ljus..."
 
 #~ msgid "Source Book of Satellite image"
 #~ msgstr "Källbok om Satellitbild"

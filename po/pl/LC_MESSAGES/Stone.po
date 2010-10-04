@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
 "PO-Revision-Date: 2010-07-09 17:28+0100\n"
 "Last-Translator: Angelika Maria Piątkowska <piatkosia.apt@interia.pl>\n"
 "Language-Team: freedroid team\n"
@@ -16,71 +16,71 @@ msgstr ""
 "X-Poedit-Country: POLAND\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
-#: Stone.dialog:46
+#: Stone.dialog:48
 msgid "Hi! I'm new here."
 msgstr "Cześć. Jestem tu nowy."
 
-#: Stone.dialog:48
+#: Stone.dialog:50
 msgid "Welcome to this camp! I'm Ms. Stone. I run this shop."
 msgstr "Witaj w obozie. Jestem Pani Stone. Prowadzę ten sklep."
 
-#: Stone.dialog:49
+#: Stone.dialog:51
 msgid "Stone -- Shopowner"
 msgstr "Stone-- Właścicielka sklepu."
 
-#: Stone.dialog:54
+#: Stone.dialog:58
 msgid "I would like to trade with you."
 msgstr "Chcę z tobą pohandlować."
 
-#: Stone.dialog:56
+#: Stone.dialog:60
 msgid "Good! Here is the selection of items I have for sale."
 msgstr "Dobrze! To jest wybór rzeczy, które mam na sprzedaż."
 
-#: Stone.dialog:62
+#: Stone.dialog:66
 msgid "Swords, clubs and maces? What is this? I want guns!"
 msgstr "Miecze, pałki i maczugi? Co to jest? Potrzebuję broni palnej."
 
-#: Stone.dialog:64
+#: Stone.dialog:68
 msgid ""
 "Sorry, this is all we have for now. The Red Guard took away all of our "
 "poppers."
 msgstr "Wybacz, to wszystko co mam. Czerwona Gwardia wszystko skonfiskowała."
 
-#: Stone.dialog:65
+#: Stone.dialog:69
 msgid "For our own good. Of course."
 msgstr "Dla naszego własnego dobra. Oczywiście."
 
-#: Stone.dialog:71
+#: Stone.dialog:75
 msgid "What can you tell me about the guards here?"
 msgstr "Co możesz mi powiedzieć o gwardii?"
 
-#: Stone.dialog:73
+#: Stone.dialog:77
 msgid "Ah, the Red Guard."
 msgstr "A, Czerwona Gwardia."
 
-#: Stone.dialog:74
+#: Stone.dialog:78
 msgid "Stranger, best if you don't ask such questions."
 msgstr "Obcy, lepiej dla ciebie jak nie będziesz zadawał takich pytań."
 
-#: Stone.dialog:75
+#: Stone.dialog:79
 msgid "They keep us alive and safe from the bots, but..."
 msgstr "Trzymają nas przy życiu i chronią przed botami ale..."
 
-#: Stone.dialog:80
+#: Stone.dialog:84
 msgid "But...?"
 msgstr "Ale...?"
 
-#: Stone.dialog:82
+#: Stone.dialog:86
 msgid "They run the city with strict laws and demand total obedience."
 msgstr "Wprowadzili ostre prawa i domagają się bezwzględnego posłuszeństwa."
 
-#: Stone.dialog:83
+#: Stone.dialog:87
 msgid "We all need to obey their rules. We need to work hard or they hurt us."
 msgstr ""
 "Wszyscy musimy przestrzegać ich zasad. Musimy ciężko pracować, jak nie, to "
 "nas krzywdzą."
 
-#: Stone.dialog:84
+#: Stone.dialog:88
 msgid ""
 "I guess I should not complain. The bots are far worse than the guards can "
 "be, but..."
@@ -88,7 +88,7 @@ msgstr ""
 "Chyba nie powinienem narzekać. Boty są o wiele gorsze niż strażnicy mogą być "
 "ale..."
 
-#: Stone.dialog:85
+#: Stone.dialog:89
 msgid ""
 "Sucked dry by a bloodthirsty regime over many years or just sliced into bits "
 "by our former servants..."
@@ -96,23 +96,23 @@ msgstr ""
 "Wysysani przez krwożerczy system przez wiele lat albo pokrojeni na kawałki "
 "przez byłych pracowników..."
 
-#: Stone.dialog:86
+#: Stone.dialog:90
 msgid "... What's the difference?"
 msgstr "... Co za różnica."
 
-#: Stone.dialog:91
+#: Stone.dialog:95
 msgid "If things are so bad right now, why don't you leave?"
 msgstr "Jeśli jest tak źle, czemu nie wyjedxiesz?"
 
-#: Stone.dialog:98
+#: Stone.dialog:102
 msgid "If things are so bad right now, why --"
 msgstr "Jeśli jest tak źle, czemu --"
 
-#: Stone.dialog:100
+#: Stone.dialog:104
 msgid "I don't want to hear this jabberwocky."
 msgstr "Nie chcę słuchać tego bełkotu."
 
-#: Stone.dialog:101
+#: Stone.dialog:105
 msgid ""
 "A hint, Linarian: We don't have much, but we're alive and we'd rather stay "
 "that way."
@@ -120,19 +120,19 @@ msgstr ""
 "Podpowiedź, Linarianinie: Nie mamy zbyt wiele, ale żyjemy i wolimy się tego "
 "trzymać."
 
-#: Stone.dialog:102
+#: Stone.dialog:106
 msgid "If you want to start a revolution, you're on your own."
 msgstr "Jeśli chcesz rozpocząć rewolucję, zrobisz to na własną rękę."
 
-#: Stone.dialog:106
+#: Stone.dialog:110
 msgid "How is your business going?"
 msgstr "Jak ci interes idzie?"
 
-#: Stone.dialog:109
+#: Stone.dialog:113
 msgid "Thanks to you I have a chance now."
 msgstr "Dzięki tobie mam teraz szansę."
 
-#: Stone.dialog:110
+#: Stone.dialog:114
 msgid ""
 "Ha! It's time to show the world that Lily Stone is not going down without "
 "putting up a damn good fight."
@@ -140,11 +140,11 @@ msgstr ""
 "Ha! Czas pokazać światu że Lily Stone nie upada bez podniesienia się "
 "cholernie dobrą walką."
 
-#: Stone.dialog:112
+#: Stone.dialog:116
 msgid "I'll be finished in about a week."
 msgstr "Skończę za około tydzień."
 
-#: Stone.dialog:113
+#: Stone.dialog:117
 msgid ""
 "The Stone family always bought cheap and sold at a low profit. The times "
 "have changed, but not my prices."
@@ -152,7 +152,7 @@ msgstr ""
 "Rodzina Stone zawsze kupowała tanio i sprzedawała z niskim zyskiem. Czas to "
 "zmienić, ale nie moją ceną."
 
-#: Stone.dialog:114
+#: Stone.dialog:118
 msgid ""
 "The new taxes, the worldwide economic collapse and other factors are slowly "
 "murdering the family store."
@@ -160,11 +160,11 @@ msgstr ""
 "Nowe podatki, ogólnoświatowe załamanie gospodarki i inne czynniki powoli "
 "mordują rodzinny sklep."
 
-#: Stone.dialog:121
+#: Stone.dialog:125
 msgid "Can I help you somehow Ms. Stone?"
 msgstr "Mogę w czymś pomódz Pani Stone?"
 
-#: Stone.dialog:123
+#: Stone.dialog:127
 msgid ""
 "No, there's nothing that can be done anymore. I don't have enough money to "
 "lift the shop from the downward spiral."
@@ -172,19 +172,19 @@ msgstr ""
 "Nie, nie ma nic  więcej do zrobienia. Nie mam tyle pieniędzy by wyrwać sklep "
 "z dołka."
 
-#: Stone.dialog:124
+#: Stone.dialog:128
 msgid "I'd need thousands to just survive the month."
 msgstr "Potrzebuję tysięcy by przetrwać tylko ten miesiąc."
 
-#: Stone.dialog:125
+#: Stone.dialog:129
 msgid "The shop is dying, and there's nothing either of us can do about it."
 msgstr "Sklep umiera, i nic nie możemy na to poradzić."
 
-#: Stone.dialog:130
+#: Stone.dialog:134
 msgid "Maybe there is still hope, Ms. Stone. How much exactly do you need?"
 msgstr "Może jeszcze jest nadzieja, Pani Stone. Ile dokładnie pani potrzebuje?"
 
-#: Stone.dialog:132
+#: Stone.dialog:136
 msgid ""
 "I couldn't get myself to look at my finance logs for a while now. I guess "
 "about two thousand circuits."
@@ -192,11 +192,11 @@ msgstr ""
 "Nie mogę się dostać do moich logów finansowych. Myślę że około dwa tysiące  "
 "circuits."
 
-#: Stone.dialog:134 Stone.dialog:180 Stone.dialog:190 Stone.dialog:203
+#: Stone.dialog:138 Stone.dialog:184 Stone.dialog:194 Stone.dialog:207
 msgid "Saving the shop"
 msgstr "Ocalenie sklepu."
 
-#: Stone.dialog:134
+#: Stone.dialog:138
 msgid ""
 "Ms. Stone can't afford to pay her taxes, and it looks like the family "
 "business will be going under soon. She needs 2000 in cash to stay afloat. I "
@@ -206,31 +206,31 @@ msgstr ""
 "problemy finansowe. Potrzebuje dwóch tysięcy by stanąć na nogi. Spróbuję jej "
 "pomóc."
 
-#: Stone.dialog:140
+#: Stone.dialog:144
 msgid "A pity that nothing can be done about your store."
 msgstr "Szkoda, że nic nie można zrobić w sprawie twojego sklepu."
 
-#: Stone.dialog:142
+#: Stone.dialog:146
 msgid "Yes. A tradition of six generations will die with this shop..."
 msgstr "Tak. Tradycja sześciu pololeń umiera z tym sklepem."
 
-#: Stone.dialog:143
+#: Stone.dialog:147
 msgid "I guess it just had to happen one day..."
 msgstr "Myślę, że pewnego dnia to się stanie..."
 
-#: Stone.dialog:148
+#: Stone.dialog:152
 msgid "I have the money you need Ms. Stone. You can have it."
 msgstr "Mam pieniądze których pani potrzebuje. Może pani je wziąć."
 
-#: Stone.dialog:150
+#: Stone.dialog:154
 msgid "Is... Is this a joke? So much money? And you just give it to me?"
 msgstr "To... To jest żart? Tyle pieniędzy? I ty mi je po prostu dajesz?"
 
-#: Stone.dialog:151
+#: Stone.dialog:155
 msgid "Thank you! Thank you! Thank you! Savior!"
 msgstr "Dzięki! Dzięki! Dzięki! Wybawicielu!"
 
-#: Stone.dialog:152
+#: Stone.dialog:156
 msgid ""
 "But this isn't fair to you. The Stones are a family of fair merchants and I "
 "intend to uphold that tradition."
@@ -238,7 +238,7 @@ msgstr ""
 "Ale to nie fair z twojej strony. Stoens'owie to rodzina uczciwych kupców i "
 "ja kontynuuję tę tradycję."
 
-#: Stone.dialog:153
+#: Stone.dialog:157
 msgid ""
 "I need 1,547 circuits to get through the month. I will accept only that and "
 "not a transistor more."
@@ -246,41 +246,41 @@ msgstr ""
 "Potrzebuję 1,547 circuits by przetrwać ten miesiąc. Zgodzę się tylko na tyle "
 "i nie więcej."
 
-#: Stone.dialog:155
+#: Stone.dialog:159
 msgid "Now it's fair. Thank you."
 msgstr "Teraz jest ok. Dzięki."
 
-#: Stone.dialog:156
+#: Stone.dialog:160
 msgid "You've given me a bit of hope.. "
 msgstr "Dałeś mi trochę nadzieji."
 
-#: Stone.dialog:157
+#: Stone.dialog:161
 #, fuzzy
 msgid "Wait a second... I think I recognize you..."
 msgstr "Czekaj sekundkę... Myślę nad wyrazem uznania...."
 
-#: Stone.dialog:158
+#: Stone.dialog:162
 msgid "You are "
 msgstr "Jesteś"
 
-#: Stone.dialog:158
+#: Stone.dialog:162
 msgid ", aren't you..."
 msgstr ", nie jesteś..."
 
-#: Stone.dialog:159
+#: Stone.dialog:163
 msgid "The hero..."
 msgstr "Bohaterem..."
 
-#: Stone.dialog:163
+#: Stone.dialog:167
 #, fuzzy
 msgid "Hold on a minute, you are still a bit short on money."
 msgstr "Usiądź na chwilę, nadal potrzebujesz trochę pieniądzy."
 
-#: Stone.dialog:164
+#: Stone.dialog:168
 msgid "Please return with the full amount if you want to help."
 msgstr "Wróć z dokładną wysokością, jeśli potrzebujesz pomocy."
 
-#: Stone.dialog:165
+#: Stone.dialog:169
 #, fuzzy
 msgid ""
 "Otherwise you're throwing good money after bad, and I couldn't let you do "
@@ -289,11 +289,11 @@ msgstr ""
 "W przeciwnym razie wyrzucasz dobre pieniądze w błoto , i nie będę mógł tego "
 "zrobić."
 
-#: Stone.dialog:171
+#: Stone.dialog:175
 msgid "Yes, its me."
 msgstr "Tak, to ja"
 
-#: Stone.dialog:173
+#: Stone.dialog:177
 msgid ""
 "I thought so. My grandfather used to tell me stories about you. He said you "
 "would come here in a time of despair."
@@ -301,15 +301,15 @@ msgstr ""
 "Tak myślę. Mój dziadek opowiedział mi historię o tobie. Powiedział, że "
 "przyjdziesz tu w ciężkich czasach."
 
-#: Stone.dialog:174
+#: Stone.dialog:178
 msgid "And here you are."
 msgstr "I jesteś tu."
 
-#: Stone.dialog:175
+#: Stone.dialog:179
 msgid "I hope your arrival changes the tide of this war..."
 msgstr "Mam nadzieję że twoje przybycie zmieni falę tej wojny..."
 
-#: Stone.dialog:176
+#: Stone.dialog:180
 msgid ""
 "I have something here for you. I managed to hide this Shotgun from the Red "
 "Guard."
@@ -317,7 +317,7 @@ msgstr ""
 "Mam tu coś dla ciebie. Udało mi się ukryć tego shotguna przed Czerwoną "
 "Gwardią."
 
-#: Stone.dialog:177
+#: Stone.dialog:181
 msgid ""
 "It used to belong to my grandfather, so it's very dear to me, but I'm sure "
 "he would have like you to have it on your journey to save us all."
@@ -325,7 +325,7 @@ msgstr ""
 "Należał do mojego dziadka, więc jest dla mnie bardzo cenny, ale jestem pewna "
 "że trzymał go dla ciebie, byś miał go w drodze do ocalenia nas wszystkich."
 
-#: Stone.dialog:178
+#: Stone.dialog:182
 msgid ""
 "Tux, if you ever find out who started the Great Assault... GIVE THEM A KICK "
 "IN THE ASS, FROM LILY STONE!!!"
@@ -333,7 +333,7 @@ msgstr ""
 "Tux, jeżeli kiedykolwiek dowiesz się kto rozzpoczął Wielką Walkę.... SKOP MU "
 "DUPĘ OD LILY STONE!!!"
 
-#: Stone.dialog:180
+#: Stone.dialog:184
 msgid ""
 "Ms. Stone was really grateful for my help. She took only what she needed "
 "from me, and still rewarded me with a shotgun she had been hiding from the "
@@ -343,19 +343,19 @@ msgstr ""
 "tyle, ile potrzebowała i wynagrodziła mnie shutgunem, który ukrywała przed "
 "Czerwoną Gwardią."
 
-#: Stone.dialog:186
+#: Stone.dialog:190
 msgid "It's not important who I am."
 msgstr "Nieważne kim jestem."
 
-#: Stone.dialog:188
+#: Stone.dialog:192
 msgid "If you want to remain a stranger, I will respect your wishes."
 msgstr "Jeśli chcesz pozostać obcy, uszanuję to."
 
-#: Stone.dialog:189
+#: Stone.dialog:193
 msgid "So be it."
 msgstr "Tak będzie."
 
-#: Stone.dialog:190
+#: Stone.dialog:194
 msgid ""
 "Ms. Stone was really grateful for my help. She took only what she needed "
 "from me."
@@ -363,33 +363,45 @@ msgstr ""
 "Pani Stone była naprawdę zadowolona z mojej pomocy. Wzięła ode mnie tylko "
 "tyle, ile potrzebowała."
 
-#: Stone.dialog:196
+#: Stone.dialog:200
 msgid "Ha ha ha, You fell for it! You get nothing from me! Hahahahah!"
 msgstr "Ha ha ha , wpadłeś na to!!! Nic ci nie dam!  Hahahahah!"
 
-#: Stone.dialog:198
+#: Stone.dialog:202
 msgid "You... monster..."
 msgstr "Ty... potworze..."
 
-#: Stone.dialog:199
+#: Stone.dialog:203
 msgid "No one makes fun of Lily Stone's family store!"
 msgstr "Nikt nie będzie sobie robił żartów ze sklepu rodzinnego Lily Stone!"
 
-#: Stone.dialog:200
+#: Stone.dialog:204
 msgid "Say your prayers, you oversized duck!!!"
 msgstr "Gadaj te swoje modlitwy, ty przerośnięta kaczko!!!"
 
-#: Stone.dialog:202
+#: Stone.dialog:206
 msgid "Stone -- Bird Hunting"
 msgstr ""
 
-#: Stone.dialog:203
+#: Stone.dialog:207
 msgid ""
 "I tricked that Ms. Stone into believing I was going to help her out. It was "
 "funny to see her get angry."
 msgstr ""
 "Pani Stone uwierzyła, że chcę jej pomóc. Było zabawne zobaczyć jej złość."
 
-#: Stone.dialog:209
+#: Stone.dialog:213
 msgid "See you later."
 msgstr "Do zobaczenia."
+
+#: Stone.dialog:215
+msgid "Have a nice day!"
+msgstr ""
+
+#: Stone.dialog:215
+msgid "Take care that you don't void any warranties."
+msgstr ""
+
+#: Stone.dialog:215
+msgid "Please come back if you have any questions regarding any goods."
+msgstr ""

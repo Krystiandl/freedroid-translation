@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
 "PO-Revision-Date: 2008-12-16 05:43+0000\n"
 "Last-Translator: Dmitry Tumaikin <nevly@mail.ru>\n"
 "Language-Team: Russian\n"
@@ -203,8 +203,9 @@ msgid "There is something you must know."
 msgstr "Ты должен кое-что знать."
 
 #: Duncan.dialog:144
+#, fuzzy
 msgid ""
-"There are not too many bots in the desert, but they are undefeatable. It is "
+"There are not too many bots in the desert, but they are invincible. It is "
 "best to avoid them."
 msgstr ""
 "В пустыне не так много ботов, но они непобедимы. Лучше всего их избегать."
@@ -214,7 +215,7 @@ msgid "I will be waiting here for your return."
 msgstr "Я буду ждать твоего возвращения."
 
 #: Duncan.dialog:146 Duncan.dialog:188 Duncan.dialog:238 Duncan.dialog:249
-msgid "Doing Duncan a favour"
+msgid "Doing Duncan a favor"
 msgstr ""
 
 #: Duncan.dialog:146
@@ -448,30 +449,30 @@ msgstr ""
 msgid "And neither do I."
 msgstr "И у меня тоже нет."
 
-#: Duncan.dialog:283 Duncan.dialog:301 Duncan.dialog:303
-msgid "See you later."
-msgstr "Увидимся позже."
-
-#: Duncan.dialog:285 Duncan.dialog:293
+#: Duncan.dialog:286 Duncan.dialog:295
 msgid "I wish you cold winds."
 msgstr "Желаю тебе прохладных крыльев."
 
-#: Duncan.dialog:286
+#: Duncan.dialog:287
 msgid ""
 "Huh? How do you know the Linarian farewell? No one around here knows it."
 msgstr ""
 
-#: Duncan.dialog:287
+#: Duncan.dialog:288
 msgid "I read many books on Linarians. That is all."
 msgstr "Я прочёл много книг о линарианцах. Вот и всё."
 
-#: Duncan.dialog:288
+#: Duncan.dialog:289
 msgid "Nothing more and nothing less."
 msgstr "Ничего более и ничего менее."
 
-#: Duncan.dialog:295
+#: Duncan.dialog:297
 msgid "May the ice bring you wisdom."
 msgstr "Пусть лёд дарует тебе мудрость."
+
+#: Duncan.dialog:302 Duncan.dialog:308
+msgid "See you later."
+msgstr "Увидимся позже."
 
 #~ msgid "Go0d. H3re is th3 con7ract. S1gn it!"
 #~ msgstr "Х0р0w0. 80т к0н7рАк7. п0DпiсbI8Аi!"

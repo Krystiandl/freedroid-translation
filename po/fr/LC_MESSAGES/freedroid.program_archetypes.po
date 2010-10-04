@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_data\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
 "PO-Revision-Date: 2008-09-26 18:23+0200\n"
 "Last-Translator: \n"
 "Language-Team: <en@li.org>\n"
@@ -237,32 +237,11 @@ msgstr ""
 "partie en intéressante en tombe. Cette compétence est active même quand elle "
 "n'est pas sélectionnée. "
 
-#: freedroid.program_archetypes:227
-msgid "Analyze item"
-msgstr "Analyser l'objet"
-
-#: freedroid.program_archetypes:228
-msgid ""
-"NOT IMPLEMENTED YET Current implementation will be removed and possibly "
-"reimplemented for something else due to addon system replacing magic items"
-msgstr ""
-
 #: freedroid.program_archetypes:229
-#, fuzzy
-msgid ""
-"Effect: Identify - There are very few items which have labels on them. "
-"Unless you happen to have an item labeled 'USE ME', you better make sure "
-"what it is before using it..."
-msgstr ""
-"Il y a très peu d'objets avec une étiquette dessus. À moins d'avoir une "
-"étiquette « UTILISEZ-MOI » sur un objet, vous feriez mieux d'être sûr de "
-"savoir ce que c'est avant de l'utiliser."
-
-#: freedroid.program_archetypes:239
 msgid "Nethack"
 msgstr "Nethack"
 
-#: freedroid.program_archetypes:240
+#: freedroid.program_archetypes:230
 #, fuzzy
 msgid ""
 "NOT IMPLEMENTED YET The open source game called Nethack is one of the "
@@ -273,25 +252,25 @@ msgstr ""
 "temps du monde. Les machines ne font pas attention à lui, mais les êtres "
 "humains peuvent se faire vraiment entuber profondément."
 
-#: freedroid.program_archetypes:255
+#: freedroid.program_archetypes:245
 msgid "Reverse-engineer"
 msgstr "Rétroingénierie"
 
-#: freedroid.program_archetypes:256
+#: freedroid.program_archetypes:246
 #, fuzzy
 msgid ""
 "NOT IMPLEMENTED YET There is some dark magic in the art of turning devices "
-"or programs inside-out, picking them appart to learn all their secrets and "
+"or programs inside-out, picking them apart to learn all their secrets and "
 "putting them back again."
 msgstr ""
 "Il y a quelque magie noire dans la façon d'ouvrir et d'examiner l'intérieur "
 "des robots pour apprendre leurs secrets."
 
-#: freedroid.program_archetypes:267
+#: freedroid.program_archetypes:257
 msgid "Ricer CFLAGS"
 msgstr "Meilleurs CFLAGS"
 
-#: freedroid.program_archetypes:268
+#: freedroid.program_archetypes:258
 #, fuzzy
 msgid ""
 "NOT IMPLEMENTED YET Optimization is the root of all evil. You can gain some "
@@ -302,24 +281,19 @@ msgstr ""
 "dans ton système pendant un temps, mais à la fin, il est plus probable que "
 "cela cause des dommages permanents."
 
-#: freedroid.program_archetypes:276
+#: freedroid.program_archetypes:266
 msgid "Light"
 msgstr "Lumière"
 
-#: freedroid.program_archetypes:277
-#, fuzzy
-msgid ""
-"NOT IMPLEMENTED YET This does nothing in this version of freedroidRPG. Let "
-"there be light..."
-msgstr ""
-"Ceci n'a pas d'effets dans cette version de freedroidRPG. Que la lumière "
-"soit."
+#: freedroid.program_archetypes:267
+msgid "Let there be light..."
+msgstr "Que la lumière soit..."
 
-#: freedroid.program_archetypes:286
+#: freedroid.program_archetypes:278
 msgid "Satellite image"
 msgstr "Image satellite"
 
-#: freedroid.program_archetypes:287
+#: freedroid.program_archetypes:279
 #, fuzzy
 msgid ""
 "NOT IMPLEMENTED YET Getting a map of an area is pretty easy when you can "
@@ -328,12 +302,12 @@ msgstr ""
 "Obtenir une carte d'une zone est très facile quand vous pouvez regarder au-"
 "dessus de tout."
 
-#: freedroid.program_archetypes:295
+#: freedroid.program_archetypes:287
 msgid "Plasma grenade"
 msgstr "Grenade au plasma"
 
-#: freedroid.program_archetypes:296 freedroid.program_archetypes:308
-#: freedroid.program_archetypes:320
+#: freedroid.program_archetypes:288 freedroid.program_archetypes:300
+#: freedroid.program_archetypes:312
 #, fuzzy
 msgid ""
 "If you see this in game it is a bug. Please report this to the developers, "
@@ -343,13 +317,34 @@ msgstr ""
 "Ceci est bug. Signalez-le aux développeurs, sauf si vous avez triché, auquel "
 "cas vous méritez de voir cette description stupide."
 
-#: freedroid.program_archetypes:307
+#: freedroid.program_archetypes:299
 msgid "Gas grenade"
 msgstr "Grenade au gaz"
 
-#: freedroid.program_archetypes:319
+#: freedroid.program_archetypes:311
 msgid "EMP grenade"
 msgstr "Grenade IEM"
+
+#~ msgid "Analyze item"
+#~ msgstr "Analyser l'objet"
+
+#, fuzzy
+#~ msgid ""
+#~ "Effect: Identify - There are very few items which have labels on them. "
+#~ "Unless you happen to have an item labeled 'USE ME', you better make sure "
+#~ "what it is before using it..."
+#~ msgstr ""
+#~ "Il y a très peu d'objets avec une étiquette dessus. À moins d'avoir une "
+#~ "étiquette « UTILISEZ-MOI » sur un objet, vous feriez mieux d'être sûr de "
+#~ "savoir ce que c'est avant de l'utiliser."
+
+#, fuzzy
+#~ msgid ""
+#~ "NOT IMPLEMENTED YET This does nothing in this version of freedroidRPG. "
+#~ "Let there be light..."
+#~ msgstr ""
+#~ "Ceci n'a pas d'effets dans cette version de freedroidRPG. Que la lumière "
+#~ "soit."
 
 #~ msgid ""
 #~ "This does nothing in this version of freedroidRPG. Getting a map of an "
@@ -1472,9 +1467,6 @@ msgstr "Grenade IEM"
 
 #~ msgid "Source Book of Light"
 #~ msgstr "Live Source de la Lumière"
-
-#~ msgid "Let there be light..."
-#~ msgstr "Que la lumière soit..."
 
 #~ msgid "Source Book of Satellite image"
 #~ msgstr "Livre Source de l'Imagerie Satellite"

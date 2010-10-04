@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidRPG 0.10.4cvs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
 "PO-Revision-Date: 2009-01-01 21:28+0000\n"
 "Last-Translator: Alex Mr.Brightside Demurine <extrimall90@mail.ru>\n"
 "Language-Team: Russian\n"
@@ -196,33 +196,11 @@ msgstr ""
 "убили. Есть шанс что из каждого бота выпадет часть. Это умение всегда "
 "активно даже когда не выбрано."
 
-#: freedroid.program_archetypes:227
-msgid "Analyze item"
-msgstr "Анализировать предмет"
-
-#: freedroid.program_archetypes:228
-msgid ""
-"NOT IMPLEMENTED YET Current implementation will be removed and possibly "
-"reimplemented for something else due to addon system replacing magic items"
-msgstr ""
-
 #: freedroid.program_archetypes:229
-#, fuzzy
-msgid ""
-"Effect: Identify - There are very few items which have labels on them. "
-"Unless you happen to have an item labeled 'USE ME', you better make sure "
-"what it is before using it..."
-msgstr ""
-"Эффект: Идентификация.\n"
-"На самом деле не так уж много предметов с надписью на них. Пока у вас есть "
-"предмет с надписью \"ИСПОЛЬЗУЙ МЕНЯ!\", вам лучше убедиться что это, перед "
-"тем как использовать это..."
-
-#: freedroid.program_archetypes:239
 msgid "Nethack"
 msgstr "Нетхак"
 
-#: freedroid.program_archetypes:240
+#: freedroid.program_archetypes:230
 #, fuzzy
 msgid ""
 "NOT IMPLEMENTED YET The open source game called Nethack is one of the "
@@ -233,25 +211,25 @@ msgstr ""
 "пожерателей времени. Машины не беспокоятся о ней, но людей она может втянуть "
 "довольно сильно."
 
-#: freedroid.program_archetypes:255
+#: freedroid.program_archetypes:245
 msgid "Reverse-engineer"
 msgstr "Резерс-инжинер"
 
-#: freedroid.program_archetypes:256
+#: freedroid.program_archetypes:246
 #, fuzzy
 msgid ""
 "NOT IMPLEMENTED YET There is some dark magic in the art of turning devices "
-"or programs inside-out, picking them appart to learn all their secrets and "
+"or programs inside-out, picking them apart to learn all their secrets and "
 "putting them back again."
 msgstr ""
 "Это тёмная магия поможет вам вывернуть мозги ботов наизнанку и узнать все их "
 "тайны."
 
-#: freedroid.program_archetypes:267
+#: freedroid.program_archetypes:257
 msgid "Ricer CFLAGS"
 msgstr "Гонщик CFLAGS"
 
-#: freedroid.program_archetypes:268
+#: freedroid.program_archetypes:258
 #, fuzzy
 msgid ""
 "NOT IMPLEMENTED YET Optimization is the root of all evil. You can gain some "
@@ -261,34 +239,31 @@ msgstr ""
 "Оптимизация это корень зла. Вы можете получить временное преимущество, но в "
 "конце концов это нанесёт вам непоправимый урон!"
 
-#: freedroid.program_archetypes:276
+#: freedroid.program_archetypes:266
 msgid "Light"
 msgstr "Легкий"
 
-#: freedroid.program_archetypes:277
-#, fuzzy
-msgid ""
-"NOT IMPLEMENTED YET This does nothing in this version of freedroidRPG. Let "
-"there be light..."
-msgstr "Это ничего не делает в данной версии freedroidRPG. Да будет свет..."
+#: freedroid.program_archetypes:267
+msgid "Let there be light..."
+msgstr "Да будет свет!"
 
-#: freedroid.program_archetypes:286
+#: freedroid.program_archetypes:278
 msgid "Satellite image"
 msgstr "Спутниковый снимок"
 
-#: freedroid.program_archetypes:287
+#: freedroid.program_archetypes:279
 #, fuzzy
 msgid ""
 "NOT IMPLEMENTED YET Getting a map of an area is pretty easy when you can "
 "look at everything from above."
 msgstr "Получить карту области очень просто, если посмотреть на неё сверху."
 
-#: freedroid.program_archetypes:295
+#: freedroid.program_archetypes:287
 msgid "Plasma grenade"
 msgstr "Плазменная пушка"
 
-#: freedroid.program_archetypes:296 freedroid.program_archetypes:308
-#: freedroid.program_archetypes:320
+#: freedroid.program_archetypes:288 freedroid.program_archetypes:300
+#: freedroid.program_archetypes:312
 #, fuzzy
 msgid ""
 "If you see this in game it is a bug. Please report this to the developers, "
@@ -298,13 +273,33 @@ msgstr ""
 "Это ошибка. Сообщите нам об этом, если вы не чители, что бы увидеть это "
 "дурацкое сообщение."
 
-#: freedroid.program_archetypes:307
+#: freedroid.program_archetypes:299
 msgid "Gas grenade"
 msgstr "Газовая пушка"
 
-#: freedroid.program_archetypes:319
+#: freedroid.program_archetypes:311
 msgid "EMP grenade"
 msgstr "EMP пушка"
+
+#~ msgid "Analyze item"
+#~ msgstr "Анализировать предмет"
+
+#, fuzzy
+#~ msgid ""
+#~ "Effect: Identify - There are very few items which have labels on them. "
+#~ "Unless you happen to have an item labeled 'USE ME', you better make sure "
+#~ "what it is before using it..."
+#~ msgstr ""
+#~ "Эффект: Идентификация.\n"
+#~ "На самом деле не так уж много предметов с надписью на них. Пока у вас "
+#~ "есть предмет с надписью \"ИСПОЛЬЗУЙ МЕНЯ!\", вам лучше убедиться что это, "
+#~ "перед тем как использовать это..."
+
+#, fuzzy
+#~ msgid ""
+#~ "NOT IMPLEMENTED YET This does nothing in this version of freedroidRPG. "
+#~ "Let there be light..."
+#~ msgstr "Это ничего не делает в данной версии freedroidRPG. Да будет свет..."
 
 #~ msgid ""
 #~ "This does nothing in this version of freedroidRPG. Getting a map of an "
@@ -1250,9 +1245,6 @@ msgstr "EMP пушка"
 
 #~ msgid "Source Book of Light"
 #~ msgstr "Исходный код Света"
-
-#~ msgid "Let there be light..."
-#~ msgstr "Да будет свет!"
 
 #~ msgid "Source Book of Satellite image"
 #~ msgstr "Исходный код Спутникового снимка"

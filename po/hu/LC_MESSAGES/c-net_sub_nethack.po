@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
 "PO-Revision-Date: 2010-05-28 07:42+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
@@ -68,7 +68,7 @@ msgid "elf"
 msgstr "elf"
 
 #: c-net_sub_nethack.dialog:178 c-net_sub_nethack.dialog:211
-#: c-net_sub_nethack.dialog:389
+#: c-net_sub_nethack.dialog:396
 msgid "gnome"
 msgstr "gnóm"
 
@@ -81,17 +81,17 @@ msgid "Choose your gender."
 msgstr ""
 
 #: c-net_sub_nethack.dialog:233 c-net_sub_nethack.dialog:255
-#: c-net_sub_nethack.dialog:465 c-net_sub_nethack.dialog:576
+#: c-net_sub_nethack.dialog:472 c-net_sub_nethack.dialog:583
 msgid "male"
 msgstr "férfi"
 
 #: c-net_sub_nethack.dialog:239 c-net_sub_nethack.dialog:258
-#: c-net_sub_nethack.dialog:404 c-net_sub_nethack.dialog:457
-#: c-net_sub_nethack.dialog:576 c-net_sub_nethack.dialog:603
+#: c-net_sub_nethack.dialog:411 c-net_sub_nethack.dialog:464
+#: c-net_sub_nethack.dialog:583 c-net_sub_nethack.dialog:610
 msgid "female"
 msgstr "nő"
 
-#: c-net_sub_nethack.dialog:270 c-net_sub_nethack.dialog:565
+#: c-net_sub_nethack.dialog:270 c-net_sub_nethack.dialog:572
 msgid "a good"
 msgstr ""
 
@@ -99,7 +99,7 @@ msgstr ""
 msgid "a chaotic"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:272 c-net_sub_nethack.dialog:569
+#: c-net_sub_nethack.dialog:272 c-net_sub_nethack.dialog:576
 msgid "an evil"
 msgstr ""
 
@@ -285,1119 +285,1119 @@ msgstr ""
 msgid "You find yourself lost in darkness."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:356
+#: c-net_sub_nethack.dialog:363
 msgid "angry woodchuck"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:356
+#: c-net_sub_nethack.dialog:363
 msgid "platypus"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:356
+#: c-net_sub_nethack.dialog:363
 msgid "duck"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:356
+#: c-net_sub_nethack.dialog:363
 msgid "puffin"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:356
+#: c-net_sub_nethack.dialog:363
 msgid "superintellegent slime mold"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:356
+#: c-net_sub_nethack.dialog:363
 msgid "internet oracle"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:362
+#: c-net_sub_nethack.dialog:369
 msgid "dragon"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:362
+#: c-net_sub_nethack.dialog:369
 msgid "dwarf"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:362
+#: c-net_sub_nethack.dialog:369
 msgid "basilisk"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:362
+#: c-net_sub_nethack.dialog:369
 msgid "penguin"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:362
+#: c-net_sub_nethack.dialog:369
 msgid "grue"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:368
+#: c-net_sub_nethack.dialog:375
 msgid "balrog"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:368
+#: c-net_sub_nethack.dialog:375
 msgid "daemon"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:368
+#: c-net_sub_nethack.dialog:375
 msgid "demagogue"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:368
+#: c-net_sub_nethack.dialog:375
 msgid "ex-girlfriend"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:368
+#: c-net_sub_nethack.dialog:375
 msgid "jabberwock"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:368
+#: c-net_sub_nethack.dialog:375
 msgid "ringwrath"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:374
+#: c-net_sub_nethack.dialog:381
 msgid "clippy"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:374
+#: c-net_sub_nethack.dialog:381
 msgid "ghoul"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:374
+#: c-net_sub_nethack.dialog:381
 msgid "ninja"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:374
+#: c-net_sub_nethack.dialog:381
 msgid "sober pirate"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:374
+#: c-net_sub_nethack.dialog:381
 msgid "cockatrice"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:374
+#: c-net_sub_nethack.dialog:381
 msgid "chickatrice"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:374
+#: c-net_sub_nethack.dialog:381
 msgid "mind flayer"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:374
+#: c-net_sub_nethack.dialog:381
 msgid "marilith"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:374
+#: c-net_sub_nethack.dialog:381
 msgid "vrock"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:374
+#: c-net_sub_nethack.dialog:381
 msgid "nalfeshnee"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:380
+#: c-net_sub_nethack.dialog:387
 msgid "politician"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:380
+#: c-net_sub_nethack.dialog:387
 msgid "gremlin"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:380
+#: c-net_sub_nethack.dialog:387
 msgid "incubus"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:380
+#: c-net_sub_nethack.dialog:387
 msgid "succubus"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:380
+#: c-net_sub_nethack.dialog:387
 msgid "awkward turtle"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:380
+#: c-net_sub_nethack.dialog:387
 msgid "minotaur"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:380
+#: c-net_sub_nethack.dialog:387
 msgid "goblin"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:380
+#: c-net_sub_nethack.dialog:387
 msgid "shade"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:380
+#: c-net_sub_nethack.dialog:387
 msgid "drunk pirate"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:385
+#: c-net_sub_nethack.dialog:392
 msgid "darkness"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:385
+#: c-net_sub_nethack.dialog:392
 msgid "nothing"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:385
+#: c-net_sub_nethack.dialog:392
 msgid "air"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:385
+#: c-net_sub_nethack.dialog:392
 msgid "steam"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:385
+#: c-net_sub_nethack.dialog:392
 msgid "shadow"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:385
+#: c-net_sub_nethack.dialog:392
 msgid "chair"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:385
+#: c-net_sub_nethack.dialog:392
 msgid "pet rock"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:385
+#: c-net_sub_nethack.dialog:392
 msgid "bag of bones"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:385
+#: c-net_sub_nethack.dialog:392
 msgid "inanimate carbon rod"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:385
+#: c-net_sub_nethack.dialog:392
 msgid "mirage"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:385
+#: c-net_sub_nethack.dialog:392
 msgid "hyperintelligent shade of blue"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:389
+#: c-net_sub_nethack.dialog:396
 msgid "woodchuck"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:389
+#: c-net_sub_nethack.dialog:396
 msgid "MS employee"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:389
+#: c-net_sub_nethack.dialog:396
 msgid "rooster"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:389
+#: c-net_sub_nethack.dialog:396
 msgid "lawyer"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:389
+#: c-net_sub_nethack.dialog:396
 msgid "wraith"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:395
+#: c-net_sub_nethack.dialog:402
 msgid "bureaucrat"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:395
+#: c-net_sub_nethack.dialog:402
 msgid "snail"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:395
+#: c-net_sub_nethack.dialog:402
 msgid "bannana slug"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:400
+#: c-net_sub_nethack.dialog:407
 msgid "A wild [b]"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:400
+#: c-net_sub_nethack.dialog:407
 msgid "[/b] appears!"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:400
+#: c-net_sub_nethack.dialog:407
 msgid "You notice a [b]"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:400
+#: c-net_sub_nethack.dialog:407
 msgid "[/b] in front of you."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:400
+#: c-net_sub_nethack.dialog:407
 msgid "You turn around and see a [b]"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:400
+#: c-net_sub_nethack.dialog:407
 msgid "[/b] right behind you!"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:400
+#: c-net_sub_nethack.dialog:407
 msgid "A [b]"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:400
+#: c-net_sub_nethack.dialog:407
 msgid "[/b] jumps out in front of you!"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:400
+#: c-net_sub_nethack.dialog:407
 msgid "You sneek up upon a [b]"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:402 c-net_sub_nethack.dialog:485
-#: c-net_sub_nethack.dialog:490 c-net_sub_nethack.dialog:497
-#: c-net_sub_nethack.dialog:518 c-net_sub_nethack.dialog:597
+#: c-net_sub_nethack.dialog:409 c-net_sub_nethack.dialog:492
+#: c-net_sub_nethack.dialog:497 c-net_sub_nethack.dialog:504
+#: c-net_sub_nethack.dialog:525 c-net_sub_nethack.dialog:604
 msgid "Your stats are: [b]"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:402 c-net_sub_nethack.dialog:485
-#: c-net_sub_nethack.dialog:490 c-net_sub_nethack.dialog:497
-#: c-net_sub_nethack.dialog:518 c-net_sub_nethack.dialog:597
+#: c-net_sub_nethack.dialog:409 c-net_sub_nethack.dialog:492
+#: c-net_sub_nethack.dialog:497 c-net_sub_nethack.dialog:504
+#: c-net_sub_nethack.dialog:525 c-net_sub_nethack.dialog:604
 msgid "[/b] attack/armor, [b]"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:402 c-net_sub_nethack.dialog:485
-#: c-net_sub_nethack.dialog:490 c-net_sub_nethack.dialog:497
-#: c-net_sub_nethack.dialog:518 c-net_sub_nethack.dialog:597
+#: c-net_sub_nethack.dialog:409 c-net_sub_nethack.dialog:492
+#: c-net_sub_nethack.dialog:497 c-net_sub_nethack.dialog:504
+#: c-net_sub_nethack.dialog:525 c-net_sub_nethack.dialog:604
 msgid "[/b] tricks, and [b]"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:402 c-net_sub_nethack.dialog:485
-#: c-net_sub_nethack.dialog:490 c-net_sub_nethack.dialog:497
-#: c-net_sub_nethack.dialog:518 c-net_sub_nethack.dialog:597
+#: c-net_sub_nethack.dialog:409 c-net_sub_nethack.dialog:492
+#: c-net_sub_nethack.dialog:497 c-net_sub_nethack.dialog:504
+#: c-net_sub_nethack.dialog:525 c-net_sub_nethack.dialog:604
 msgid "[/b] health."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:412
+#: c-net_sub_nethack.dialog:419
 msgid "Attack"
 msgstr "Támad"
 
-#: c-net_sub_nethack.dialog:415
+#: c-net_sub_nethack.dialog:422
 msgid "You attack the inaimate "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:415
+#: c-net_sub_nethack.dialog:422
 msgid "You go to attack, but then think better."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:415
+#: c-net_sub_nethack.dialog:422
 msgid "You charge the "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:415
+#: c-net_sub_nethack.dialog:422
 msgid " and strike a mighty blow..."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:415
+#: c-net_sub_nethack.dialog:422
 msgid "You are puzzeled as to what you plan to attack."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:415
+#: c-net_sub_nethack.dialog:422
 msgid "You throw a fireball at the "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:415
+#: c-net_sub_nethack.dialog:422
 msgid ". It is super effective!"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:415
+#: c-net_sub_nethack.dialog:422
 msgid "You attack the "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:420
+#: c-net_sub_nethack.dialog:427
 msgid "Your fireball hits the "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:420
+#: c-net_sub_nethack.dialog:427
 msgid " causing "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:420 c-net_sub_nethack.dialog:584
+#: c-net_sub_nethack.dialog:427 c-net_sub_nethack.dialog:591
 msgid " damage."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:420
+#: c-net_sub_nethack.dialog:427
 msgid "A bolt from your crossbow hits the "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:420
+#: c-net_sub_nethack.dialog:427
 msgid "Your credit card causes a massive papercut of "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:420
+#: c-net_sub_nethack.dialog:427
 msgid "You freeze the middle of the "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:420
+#: c-net_sub_nethack.dialog:427
 msgid "Your fist of wrath smites the "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:420
+#: c-net_sub_nethack.dialog:427
 msgid " causing internal bleeding and "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:420
+#: c-net_sub_nethack.dialog:427
 msgid "You throw your bola at the "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:420
+#: c-net_sub_nethack.dialog:427
 msgid ", causing it to trip and take "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:423
+#: c-net_sub_nethack.dialog:430
 msgid "Your arrow misses the "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:423
+#: c-net_sub_nethack.dialog:430
 msgid "Blow after blow is rained down upon the "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:423
+#: c-net_sub_nethack.dialog:430
 msgid " but they all miss."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:423
+#: c-net_sub_nethack.dialog:430
 msgid "Your sword glances off the magical aura of the "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:423
+#: c-net_sub_nethack.dialog:430
 msgid "Your really awesome attack took too long to power up, and the "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:423
+#: c-net_sub_nethack.dialog:430
 msgid " moved."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:429
+#: c-net_sub_nethack.dialog:436
 msgid "Run"
 msgstr "Fut"
 
-#: c-net_sub_nethack.dialog:434 c-net_sub_nethack.dialog:438
+#: c-net_sub_nethack.dialog:441 c-net_sub_nethack.dialog:445
 msgid "You escape!"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:434 c-net_sub_nethack.dialog:438
+#: c-net_sub_nethack.dialog:441 c-net_sub_nethack.dialog:445
 msgid "You run away!"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:434 c-net_sub_nethack.dialog:438
+#: c-net_sub_nethack.dialog:441 c-net_sub_nethack.dialog:445
 msgid "You chicken out!"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:441 c-net_sub_nethack.dialog:454
-#: c-net_sub_nethack.dialog:464 c-net_sub_nethack.dialog:470
-#: c-net_sub_nethack.dialog:546 c-net_sub_nethack.dialog:584
+#: c-net_sub_nethack.dialog:448 c-net_sub_nethack.dialog:461
+#: c-net_sub_nethack.dialog:471 c-net_sub_nethack.dialog:477
+#: c-net_sub_nethack.dialog:553 c-net_sub_nethack.dialog:591
 msgid "The "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:441
+#: c-net_sub_nethack.dialog:448
 msgid " throws a bola at you, tripping you and stopping your escape"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:441
+#: c-net_sub_nethack.dialog:448
 msgid "You stand there like a deer in the headlights."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:441
+#: c-net_sub_nethack.dialog:448
 msgid "You try to go, but the "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:441
+#: c-net_sub_nethack.dialog:448
 msgid " grabs you."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:441
+#: c-net_sub_nethack.dialog:448
 msgid " strikes you with fear, and you cannot move."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:441
+#: c-net_sub_nethack.dialog:448
 msgid " tackles you and pins you to the floor."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:441
+#: c-net_sub_nethack.dialog:448
 msgid "You go to run, but you trip over your shoelace."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:446
+#: c-net_sub_nethack.dialog:453
 msgid "Trick"
 msgstr "Rászed"
 
-#: c-net_sub_nethack.dialog:451
+#: c-net_sub_nethack.dialog:458
 msgid "You toss a rock. The sound distracts the "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:451
+#: c-net_sub_nethack.dialog:458
 msgid "You toss a smoke-bomb and escape."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:451
+#: c-net_sub_nethack.dialog:458
 msgid ""
 "You stumble over a rock, creating a chain of reactions, ending in the tunnel "
 "collapsing on the "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:451
+#: c-net_sub_nethack.dialog:458
 msgid "You stab yourself with a fake dagger and pretend to be dead."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:451
+#: c-net_sub_nethack.dialog:458
 msgid "You walk like a duck, quack like a duck and swim like a duck. The "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:451
+#: c-net_sub_nethack.dialog:458
 msgid " figures you must be a duck."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:451
+#: c-net_sub_nethack.dialog:458
 msgid "You pretend to be a mime."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:451
+#: c-net_sub_nethack.dialog:458
 msgid "You pull a rabbit from your tophat."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:454
+#: c-net_sub_nethack.dialog:461
 msgid " is not impressed by your tricks."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:454
+#: c-net_sub_nethack.dialog:461
 msgid " has seen this one before, and is not impressed."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:454
+#: c-net_sub_nethack.dialog:461
 msgid "You try to act like a duck, but "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:454
+#: c-net_sub_nethack.dialog:461
 msgid " has an elephant and a lighter, and you don't want to be the punchline."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:454
+#: c-net_sub_nethack.dialog:461
 msgid " sees your trick, and shows you an even better one."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:458
+#: c-net_sub_nethack.dialog:465
 msgid ""
 "Not having any tricks left, you resort to you trying your feminine wiles."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:461
+#: c-net_sub_nethack.dialog:468
 msgid "You succeed getting past the "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:461
+#: c-net_sub_nethack.dialog:468
 msgid "You distract the "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:461
+#: c-net_sub_nethack.dialog:468
 msgid " long enough to escape."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:461
+#: c-net_sub_nethack.dialog:468
 msgid ""
 "Your plight is noticed by a hero, who valiantly rescues you from the "
 "dasterdly "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:464
+#: c-net_sub_nethack.dialog:471
 msgid " casts change gender on you."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:464
+#: c-net_sub_nethack.dialog:471
 msgid " curses you."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:464
+#: c-net_sub_nethack.dialog:471
 msgid " casts a polymorph spell."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:464
+#: c-net_sub_nethack.dialog:471
 msgid "The Random Number God stikes you, changing your gender."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:466 c-net_sub_nethack.dialog:578
+#: c-net_sub_nethack.dialog:473 c-net_sub_nethack.dialog:585
 msgid "You are now "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:470
+#: c-net_sub_nethack.dialog:477
 msgid " notes your physique, but has too high of an IQ to be impressed."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:470
+#: c-net_sub_nethack.dialog:477
 msgid " might be more malleable if you were in better health."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:478
+#: c-net_sub_nethack.dialog:485
 msgid "Pray"
 msgstr "Imádkozik"
 
-#: c-net_sub_nethack.dialog:482 c-net_sub_nethack.dialog:487
+#: c-net_sub_nethack.dialog:489 c-net_sub_nethack.dialog:494
 msgid "Your goddess "
 msgstr "Az istennőd"
 
-#: c-net_sub_nethack.dialog:482
+#: c-net_sub_nethack.dialog:489
 msgid " comes to your aid and gives you strength."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:487
+#: c-net_sub_nethack.dialog:494
 msgid " comes to your aid and teaches you a new trick."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:492
+#: c-net_sub_nethack.dialog:499
 msgid "Your enemy "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:492
+#: c-net_sub_nethack.dialog:499
 msgid " bestows some burdens upon you."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:492
+#: c-net_sub_nethack.dialog:499
 msgid " overhears your prayers and curses you."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:492
+#: c-net_sub_nethack.dialog:499
 msgid "While you were praying a leprechaun stole your sword."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:492
+#: c-net_sub_nethack.dialog:499
 msgid ""
 "While you were praying a hermit crab moved into your helmet. It's his now."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:499 c-net_sub_nethack.dialog:508
+#: c-net_sub_nethack.dialog:506 c-net_sub_nethack.dialog:515
 msgid "Nothing happens."
 msgstr "Nem történik semmi."
 
-#: c-net_sub_nethack.dialog:499
+#: c-net_sub_nethack.dialog:506
 msgid " can't take your prayers right now, please leave a message..."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:499 c-net_sub_nethack.dialog:508
+#: c-net_sub_nethack.dialog:506 c-net_sub_nethack.dialog:515
 #, fuzzy
 msgid "Twice nothing happens."
 msgstr "Nem történik semmi."
 
-#: c-net_sub_nethack.dialog:499
+#: c-net_sub_nethack.dialog:506
 msgid " left her cellphone at home today."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:499
+#: c-net_sub_nethack.dialog:506
 msgid "Something, somewhere else happened."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:499
+#: c-net_sub_nethack.dialog:506
 msgid "The Random Number God is not swayed by your petty prayers."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:505
+#: c-net_sub_nethack.dialog:512
 msgid "Xyzzy"
 msgstr "Xyzzy"
 
-#: c-net_sub_nethack.dialog:508
+#: c-net_sub_nethack.dialog:515
 #, fuzzy
 msgid "Surprisingly, nothing happens."
 msgstr "Nem történik semmi."
 
-#: c-net_sub_nethack.dialog:508
+#: c-net_sub_nethack.dialog:515
 msgid "You are shocked, SHOCKED, to find nothing happens."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:508
+#: c-net_sub_nethack.dialog:515
 msgid "Time was frozen then unfrozen but for you, nothing happens."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:508
+#: c-net_sub_nethack.dialog:515
 #, fuzzy
 msgid "Unexpecedly, nothing happens."
 msgstr "Nem történik semmi."
 
-#: c-net_sub_nethack.dialog:508
+#: c-net_sub_nethack.dialog:515
 msgid "You wait for a moment, then, suddenly, nothing happens."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:510
+#: c-net_sub_nethack.dialog:517
 msgid "You take a short nap."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:510
+#: c-net_sub_nethack.dialog:517
 msgid "You meditate."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:510
+#: c-net_sub_nethack.dialog:517
 msgid "You check your e-mail."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:510
+#: c-net_sub_nethack.dialog:517
 msgid "You sip a cup of late-afternoon tea in quiet retrospection."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:510
+#: c-net_sub_nethack.dialog:517
 msgid "You take a power nap."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:510
+#: c-net_sub_nethack.dialog:517
 msgid "You take a long nap."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:510
+#: c-net_sub_nethack.dialog:517
 msgid "You take a cat nap."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:517
+#: c-net_sub_nethack.dialog:524
 msgid "You feel refreshed."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:524
+#: c-net_sub_nethack.dialog:531
 msgid "Suddenly you find yourself teleported to the next level."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:524
+#: c-net_sub_nethack.dialog:531
 msgid "Everything goes black."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:524
+#: c-net_sub_nethack.dialog:531
 msgid "Everything goes white."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:524
+#: c-net_sub_nethack.dialog:531
 msgid "Suddenly, there is nothing."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:524
+#: c-net_sub_nethack.dialog:531
 #, fuzzy
 msgid "Surprisingly, something happens."
 msgstr "Nem történik semmi."
 
-#: c-net_sub_nethack.dialog:524
+#: c-net_sub_nethack.dialog:531
 msgid "Everything goes cold and dark."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:524
+#: c-net_sub_nethack.dialog:531
 msgid "You feel a sharp pain in your neck, and everything goes blue."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:546
+#: c-net_sub_nethack.dialog:553
 msgid " passed out."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:546
+#: c-net_sub_nethack.dialog:553
 msgid " suddenly is gone."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:546
+#: c-net_sub_nethack.dialog:553
 msgid " ran away."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:546
+#: c-net_sub_nethack.dialog:553
 msgid "You push the "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:546
+#: c-net_sub_nethack.dialog:553
 msgid " off a convenient cliff."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:550
+#: c-net_sub_nethack.dialog:557
 msgid "You find prayer beads invoking the goodwill of the Random Number God."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:550
+#: c-net_sub_nethack.dialog:557
 msgid "You find a lightning rod."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:550
+#: c-net_sub_nethack.dialog:557
 msgid "You find a sword of greater death."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:550
+#: c-net_sub_nethack.dialog:557
 msgid "You find a vorpal dagger."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:550
+#: c-net_sub_nethack.dialog:557
 msgid "You find a breast plate of awesome."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:550
+#: c-net_sub_nethack.dialog:557
 msgid "You find a spell of doom."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:550
+#: c-net_sub_nethack.dialog:557
 msgid "You find a helmet of fire."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:550
+#: c-net_sub_nethack.dialog:557
 msgid "You find a left boot of anit-fungus."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:550
+#: c-net_sub_nethack.dialog:557
 msgid "You find a right boot of speed."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:550
+#: c-net_sub_nethack.dialog:557
 msgid "You find a shank."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:550
+#: c-net_sub_nethack.dialog:557
 msgid "You find a kevlar vest."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:550
+#: c-net_sub_nethack.dialog:557
 msgid "You find a Hawaiian t-shirt."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:550
+#: c-net_sub_nethack.dialog:557
 msgid "You find an credit card."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:550
+#: c-net_sub_nethack.dialog:557
 msgid "You find a sharpened pencil."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:550
+#: c-net_sub_nethack.dialog:557
 msgid "You find a broken glass bottle."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:550
+#: c-net_sub_nethack.dialog:557
 msgid "You find a 'weapon'."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:553
+#: c-net_sub_nethack.dialog:560
 msgid "You find a bandage and put it on."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:553
+#: c-net_sub_nethack.dialog:560
 msgid "A nurse patches some of your wounds."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:553
+#: c-net_sub_nethack.dialog:560
 msgid "You drink a bottle of greater healing."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:553
+#: c-net_sub_nethack.dialog:560
 msgid " sends some salve to sooth your wounds."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:553
+#: c-net_sub_nethack.dialog:560
 msgid "You find an aloe vera plant."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:553
+#: c-net_sub_nethack.dialog:560
 msgid "You apply some sunscreen from your backpack."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:553
+#: c-net_sub_nethack.dialog:560
 msgid "You decide that you are healthier than you thought."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:555
+#: c-net_sub_nethack.dialog:562
 msgid "Your health improves."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:555
+#: c-net_sub_nethack.dialog:562
 msgid "You feel more vigorous."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:555
+#: c-net_sub_nethack.dialog:562
 msgid "Your arm spontaneously regenerates."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:555
+#: c-net_sub_nethack.dialog:562
 msgid "Your leg grows back."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:555
+#: c-net_sub_nethack.dialog:562
 msgid "Your acne clears up."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:555
+#: c-net_sub_nethack.dialog:562
 msgid "You stop hemorrhaging blood."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:557
+#: c-net_sub_nethack.dialog:564
 msgid "You find a tophat with a rabbit."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:557
+#: c-net_sub_nethack.dialog:564
 msgid "You find a deck of cards."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:557
+#: c-net_sub_nethack.dialog:564
 msgid "You find a coin with two heads."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:557
+#: c-net_sub_nethack.dialog:564
 msgid "You find a stick with two snakes wrapped around it."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:557
+#: c-net_sub_nethack.dialog:564
 msgid "You find a magic wand."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:557
+#: c-net_sub_nethack.dialog:564
 msgid "You find a skipping stone."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:557
+#: c-net_sub_nethack.dialog:564
 msgid "You find a trick dagger."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:563
+#: c-net_sub_nethack.dialog:570
 msgid "You reform your wicked ways, and join the side of good."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:564 c-net_sub_nethack.dialog:568
+#: c-net_sub_nethack.dialog:571 c-net_sub_nethack.dialog:575
 msgid " is unhappy about this."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:564
+#: c-net_sub_nethack.dialog:571
 msgid " likes this."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:567
+#: c-net_sub_nethack.dialog:574
 msgid "The urge to sin fills you, you now are evil!"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:568
+#: c-net_sub_nethack.dialog:575
 msgid " is happy about this."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:571
+#: c-net_sub_nethack.dialog:578
 msgid ""
 "You decide good and evil are too two sides of the same coin, so you take the "
 "coin."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:572
+#: c-net_sub_nethack.dialog:579
 msgid "a neutral"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:573
+#: c-net_sub_nethack.dialog:580
 msgid "Both "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:573
+#: c-net_sub_nethack.dialog:580
 msgid " and "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:573
+#: c-net_sub_nethack.dialog:580
 msgid " don't know how to feel about this."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:575
+#: c-net_sub_nethack.dialog:582
 msgid "You put on a tarnished belt, and you feel something strange happen."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:575
+#: c-net_sub_nethack.dialog:582
 msgid "You have been cursed."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:575
+#: c-net_sub_nethack.dialog:582
 msgid "You have been blessed."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:575
+#: c-net_sub_nethack.dialog:582
 msgid "You drink from a sparkling well, and something weird happens."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:575
+#: c-net_sub_nethack.dialog:582
 msgid "You try on the shiny necklace you find."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:584
+#: c-net_sub_nethack.dialog:591
 msgid "The devious "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:584
+#: c-net_sub_nethack.dialog:591
 msgid " stabs you, causing "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:584
+#: c-net_sub_nethack.dialog:591
 msgid "You suffer "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:584
+#: c-net_sub_nethack.dialog:591
 msgid " damage as the "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:584
+#: c-net_sub_nethack.dialog:591
 msgid " tosses you up into the air like a ragdoll."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:584
+#: c-net_sub_nethack.dialog:591
 msgid " breathes fire at you, burning your map and causing "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:584
+#: c-net_sub_nethack.dialog:591
 msgid " throws an exploding bananna at you, but you duck, so it only causes "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:584
+#: c-net_sub_nethack.dialog:591
 msgid " hits you with its best shot, causing "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:584
+#: c-net_sub_nethack.dialog:591
 msgid " hits you against the wall, causing "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:584
+#: c-net_sub_nethack.dialog:591
 msgid " of hurt."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:584
+#: c-net_sub_nethack.dialog:591
 msgid " snipes you with an arrow causing "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:584
+#: c-net_sub_nethack.dialog:591
 msgid " bites you causing "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:587
+#: c-net_sub_nethack.dialog:594
 msgid "You doge a blow from the "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:587
+#: c-net_sub_nethack.dialog:594
 msgid " trys to hit you, but misses."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:587
+#: c-net_sub_nethack.dialog:594
 msgid " blow hits your cap of cool, causing no damage."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:587
+#: c-net_sub_nethack.dialog:594
 msgid " pokes you really hard. You are annoyed."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:587
+#: c-net_sub_nethack.dialog:594
 msgid " takes a swing at you, but can't reach you from there."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:593
+#: c-net_sub_nethack.dialog:600
 msgid "You died."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:593
+#: c-net_sub_nethack.dialog:600
 msgid "A Valkyrie carries you off to Valhalla."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:593
+#: c-net_sub_nethack.dialog:600
 msgid ""
 "Hermes, with Death and Sleep, asks if you've seen his Caduceus anywhere, and "
 "then brings you to the river Leith."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:593
+#: c-net_sub_nethack.dialog:600
 msgid ""
 "Your soul finds itself traveling along the path of the moon, far away from "
 "your broken body."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:593
+#: c-net_sub_nethack.dialog:600
 msgid ""
 "You are fully one with everything. Your battered body no longer concerns you."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:593
+#: c-net_sub_nethack.dialog:600
 msgid "You failed to enlist the Random Number God to your side. You died."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:594
+#: c-net_sub_nethack.dialog:601
 msgid "Game over."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:604
+#: c-net_sub_nethack.dialog:611
 msgid "> "
 msgstr ">"
 
-#: c-net_sub_nethack.dialog:616 c-net_sub_nethack.dialog:619
+#: c-net_sub_nethack.dialog:623 c-net_sub_nethack.dialog:626
 msgid "You come to the end of level "
 msgstr ""
 
-#: c-net_sub_nethack.dialog:616
+#: c-net_sub_nethack.dialog:623
 msgid ""
 " and the [b]Amulet of Yendor[/b] compels you down, deeper into the depths."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:619
+#: c-net_sub_nethack.dialog:626
 msgid " and see a way up and a way down. Which do you choose?"
 msgstr ""
 
-#: c-net_sub_nethack.dialog:627
+#: c-net_sub_nethack.dialog:634
 msgid "Go Up"
 msgstr "Menj Felfelé"
 
-#: c-net_sub_nethack.dialog:629
+#: c-net_sub_nethack.dialog:636
 msgid "You climb up the ladder with care."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:629
+#: c-net_sub_nethack.dialog:636
 msgid "You shimmy up the crevasse."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:629
+#: c-net_sub_nethack.dialog:636
 msgid "You ascend the Gothic staircase."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:629
+#: c-net_sub_nethack.dialog:636
 msgid "You untie the balloon."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:629
+#: c-net_sub_nethack.dialog:636
 msgid "You wave your arms vigorously and slowly levitate up."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:629
+#: c-net_sub_nethack.dialog:636
 msgid "You grab a nice rope someone left, and climb up it."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:629
+#: c-net_sub_nethack.dialog:636
 msgid "Using magic, you cut foot and handholds into the rock, and use them."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:629
+#: c-net_sub_nethack.dialog:636
 msgid ""
 "Reaching a state of total ONE-ness with the world, you break your earthly "
 "bonds, and rise upwards."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:629
+#: c-net_sub_nethack.dialog:636
 msgid "You climb the cliff-face."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:629
+#: c-net_sub_nethack.dialog:636
 msgid "You jump up, and pull yourself up to the next level."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:635
+#: c-net_sub_nethack.dialog:642
 msgid "Go Down"
 msgstr "Menj Lefelé"
 
-#: c-net_sub_nethack.dialog:637
+#: c-net_sub_nethack.dialog:644
 msgid "You rappel down the pit to the level below."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:637
+#: c-net_sub_nethack.dialog:644
 msgid "You lower yourself using footholds cut long ago into the living earth."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:637
+#: c-net_sub_nethack.dialog:644
 msgid "You take the staircase down to the lower level."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:637
+#: c-net_sub_nethack.dialog:644
 msgid ""
 "By playing with the levers before you, you teleport into the depths below."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:637
+#: c-net_sub_nethack.dialog:644
 msgid ""
 "You take out a shovel and start digging. Eventually you hit rock bottom."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:637
+#: c-net_sub_nethack.dialog:644
 msgid "You carefully climb down the ladder."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:637
+#: c-net_sub_nethack.dialog:644
 msgid "You jump into the darkness and land in the depths."
 msgstr ""
 
-#: c-net_sub_nethack.dialog:653
+#: c-net_sub_nethack.dialog:660
 msgid "End Game"
 msgstr "Játék Vége"
 

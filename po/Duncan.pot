@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-07-16 14:05+0000\n"
-"PO-Revision-Date: 2010-07-16 14:05+0000\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"PO-Revision-Date: 2010-10-04 18:58+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -183,8 +183,8 @@ msgstr ""
 
 #: ./Duncan.dialog:144
 msgid ""
-"There are not too many bots in the desert, but they are undefeatable. It is be"
-"st to avoid them."
+"There are not too many bots in the desert, but they are invincible. It is best"
+" to avoid them."
 msgstr ""
 
 #: ./Duncan.dialog:145
@@ -195,7 +195,7 @@ msgstr ""
 #: ./Duncan.dialog:188
 #: ./Duncan.dialog:238
 #: ./Duncan.dialog:249
-msgid "Doing Duncan a favour"
+msgid "Doing Duncan a favor"
 msgstr ""
 
 #: ./Duncan.dialog:146
@@ -416,30 +416,29 @@ msgstr ""
 msgid "And neither do I."
 msgstr ""
 
-#: ./Duncan.dialog:283
-#: ./Duncan.dialog:301
-#: ./Duncan.dialog:303
-msgid "See you later."
-msgstr ""
-
-#: ./Duncan.dialog:285
-#: ./Duncan.dialog:293
+#: ./Duncan.dialog:286
+#: ./Duncan.dialog:295
 msgid "I wish you cold winds."
 msgstr ""
 
-#: ./Duncan.dialog:286
+#: ./Duncan.dialog:287
 msgid "Huh? How do you know the Linarian farewell? No one around here knows it."
 msgstr ""
 
-#: ./Duncan.dialog:287
+#: ./Duncan.dialog:288
 msgid "I read many books on Linarians. That is all."
 msgstr ""
 
-#: ./Duncan.dialog:288
+#: ./Duncan.dialog:289
 msgid "Nothing more and nothing less."
 msgstr ""
 
-#: ./Duncan.dialog:295
+#: ./Duncan.dialog:297
 msgid "May the ice bring you wisdom."
+msgstr ""
+
+#: ./Duncan.dialog:302
+#: ./Duncan.dialog:308
+msgid "See you later."
 msgstr ""
 

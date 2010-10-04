@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-07-16 14:05+0000\n"
-"PO-Revision-Date: 2010-07-16 14:05+0000\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"PO-Revision-Date: 2010-10-04 18:58+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -56,8 +56,8 @@ msgstr ""
 
 #: ./Town-614.dialog:49
 msgid ""
-"The Team became a company which released their first security droid, the 610 L"
-"ovely."
+"The team became a company which released their first security droid, called 61"
+"0"
 msgstr ""
 
 #: ./Town-614.dialog:50

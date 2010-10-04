@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
 "PO-Revision-Date: 2010-04-24 11:46+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -12,139 +12,139 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: Tybalt.dialog:41
+#: Tybalt.dialog:46
 msgid "Hi! I'm new here."
 msgstr ""
 
-#: Tybalt.dialog:43
+#: Tybalt.dialog:48
 msgid ""
 "Hello. I'm Tybalt. I'm guarding the town citadel gate. Only authorized "
 "personnel are permitted."
 msgstr ""
 
-#: Tybalt.dialog:44
+#: Tybalt.dialog:49
 msgid "Tybalt -- Citadel Gate Guard"
 msgstr ""
 
-#: Tybalt.dialog:49
+#: Tybalt.dialog:54
 msgid "Why is this gate locked most of the time?"
 msgstr ""
 
-#: Tybalt.dialog:51
+#: Tybalt.dialog:56
 msgid ""
 "It's locked so no one can sneak inside while I'm not looking. That's why."
 msgstr ""
 
-#: Tybalt.dialog:56
+#: Tybalt.dialog:61
 msgid "I want to get into the citadel."
 msgstr ""
 
-#: Tybalt.dialog:59
+#: Tybalt.dialog:64
 msgid ""
 "Of course. Guard members are always authorized to enter the town citadel. "
 "The gate is open. Enjoy your stay."
 msgstr ""
 
-#: Tybalt.dialog:62
+#: Tybalt.dialog:67
 msgid ""
 "Sorry pal, but I don't think so. Only authorized personnel are permitted and "
 "that means members of the Red Guard."
 msgstr ""
 
-#: Tybalt.dialog:63
+#: Tybalt.dialog:68
 msgid "Talk to Spencer if you have any business inside. I cannot let you pass."
 msgstr ""
 
-#: Tybalt.dialog:71
+#: Tybalt.dialog:76
 msgid ""
 "So why is it you keep the citadel locked? Is there anything secret in there?"
 msgstr ""
 
-#: Tybalt.dialog:73
+#: Tybalt.dialog:78
 msgid ""
 "We need to protect our equipment and documents, because lives depend on it."
 msgstr ""
 
-#: Tybalt.dialog:74
+#: Tybalt.dialog:79
 msgid "Also, we don't have to answer questions."
 msgstr ""
 
-#: Tybalt.dialog:81
+#: Tybalt.dialog:86
 msgid "I have a lot of money for you."
 msgstr ""
 
-#: Tybalt.dialog:83
+#: Tybalt.dialog:88
 msgid "Fascinating. Can I have a hundred please?"
 msgstr ""
 
-#: Tybalt.dialog:88
+#: Tybalt.dialog:93
 msgid "Erm... I don't have that much."
 msgstr ""
 
-#: Tybalt.dialog:90
+#: Tybalt.dialog:95
 msgid "Well, too bad."
 msgstr ""
 
-#: Tybalt.dialog:95
+#: Tybalt.dialog:100
 msgid "Here you go."
 msgstr ""
 
-#: Tybalt.dialog:98
+#: Tybalt.dialog:103
 msgid "Thank you."
 msgstr ""
 
-#: Tybalt.dialog:102
+#: Tybalt.dialog:107
 msgid "That is not a hundred."
 msgstr ""
 
-#: Tybalt.dialog:102
+#: Tybalt.dialog:107
 msgid "Um, count that again."
 msgstr ""
 
-#: Tybalt.dialog:102
+#: Tybalt.dialog:107
 msgid "Talk to me when you have a bit more."
 msgstr ""
 
-#: Tybalt.dialog:108
+#: Tybalt.dialog:113
 msgid "Ok, now please open the door for me."
 msgstr ""
 
-#: Tybalt.dialog:110
+#: Tybalt.dialog:115
 msgid "What door?"
 msgstr ""
 
-#: Tybalt.dialog:111
+#: Tybalt.dialog:116
 msgid "The door to the citadel!"
 msgstr ""
 
-#: Tybalt.dialog:112
+#: Tybalt.dialog:117
 msgid "But you are not a member of the Red Guard."
 msgstr ""
 
-#: Tybalt.dialog:113
+#: Tybalt.dialog:118
 msgid "You cannot come in."
 msgstr ""
 
-#: Tybalt.dialog:114
+#: Tybalt.dialog:119
 msgid "I paid you!"
 msgstr ""
 
-#: Tybalt.dialog:115
+#: Tybalt.dialog:120
 msgid "Really? I don't remember that."
 msgstr ""
 
-#: Tybalt.dialog:116
+#: Tybalt.dialog:121
 msgid "I want my money back."
 msgstr ""
 
-#: Tybalt.dialog:117
+#: Tybalt.dialog:122
 msgid "What money?"
 msgstr ""
 
-#: Tybalt.dialog:122
+#: Tybalt.dialog:127
 msgid "See you later."
 msgstr ""
 
-#: Tybalt.dialog:124
+#: Tybalt.dialog:129
 msgid "Good riddance."
 msgstr ""

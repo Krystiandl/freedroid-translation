@@ -48,8 +48,8 @@ msgstr ""
 
 #: 614_cryo.dialog:50
 msgid ""
-"The Team became a company which released their first security droid, the 610 "
-"Lovely."
+"The team became a company which released their first security droid, called "
+"610."
 msgstr ""
 
 #: 614_cryo.dialog:51

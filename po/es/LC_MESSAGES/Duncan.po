@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
 "PO-Revision-Date: 2010-06-02 07:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -203,8 +203,9 @@ msgid "There is something you must know."
 msgstr "Hay algo que debes saber."
 
 #: Duncan.dialog:144
+#, fuzzy
 msgid ""
-"There are not too many bots in the desert, but they are undefeatable. It is "
+"There are not too many bots in the desert, but they are invincible. It is "
 "best to avoid them."
 msgstr ""
 "No hay muchos robots en el desierto, pero son invencibles. Lo mejor es "
@@ -215,7 +216,8 @@ msgid "I will be waiting here for your return."
 msgstr "Te estaré esperando aquí cuando vuelvas."
 
 #: Duncan.dialog:146 Duncan.dialog:188 Duncan.dialog:238 Duncan.dialog:249
-msgid "Doing Duncan a favour"
+#, fuzzy
+msgid "Doing Duncan a favor"
 msgstr "Haciendo un favor a Duncan"
 
 #: Duncan.dialog:146
@@ -461,27 +463,27 @@ msgstr "No tengo secretos."
 msgid "And neither do I."
 msgstr "Yo tampoco."
 
-#: Duncan.dialog:283 Duncan.dialog:301 Duncan.dialog:303
-msgid "See you later."
-msgstr "Nos vemos luego."
-
-#: Duncan.dialog:285 Duncan.dialog:293
+#: Duncan.dialog:286 Duncan.dialog:295
 msgid "I wish you cold winds."
 msgstr "Te deseo vientos frescos."
 
-#: Duncan.dialog:286
+#: Duncan.dialog:287
 msgid ""
 "Huh? How do you know the Linarian farewell? No one around here knows it."
 msgstr "¿Huh? ¿Como conoces el saludo Linariano? Nadie de por aquí lo conoce."
 
-#: Duncan.dialog:287
+#: Duncan.dialog:288
 msgid "I read many books on Linarians. That is all."
 msgstr "He leido muchos libro sobre Linarianos. Eso es todo."
 
-#: Duncan.dialog:288
+#: Duncan.dialog:289
 msgid "Nothing more and nothing less."
 msgstr "Nada mas ni nada menos."
 
-#: Duncan.dialog:295
+#: Duncan.dialog:297
 msgid "May the ice bring you wisdom."
 msgstr "Que el hielo te traiga el saber."
+
+#: Duncan.dialog:302 Duncan.dialog:308
+msgid "See you later."
+msgstr "Nos vemos luego."

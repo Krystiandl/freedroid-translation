@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
 "PO-Revision-Date: 2010-07-07 13:49+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: Tybalt.dialog:41
+#: Tybalt.dialog:46
 msgid "Hi! I'm new here."
 msgstr "Helló! Új vagyok errefelé."
 
-#: Tybalt.dialog:43
+#: Tybalt.dialog:48
 msgid ""
 "Hello. I'm Tybalt. I'm guarding the town citadel gate. Only authorized "
 "personnel are permitted."
@@ -24,24 +24,24 @@ msgstr ""
 "Üdv. Tybalt vagyok. Én őrzöm a fellegvár kapuját. Csak az engedéllyel "
 "rendelkezők léphetnek be."
 
-#: Tybalt.dialog:44
+#: Tybalt.dialog:49
 msgid "Tybalt -- Citadel Gate Guard"
 msgstr "Tybalt -- Fellegvár Kapu Őr"
 
-#: Tybalt.dialog:49
+#: Tybalt.dialog:54
 msgid "Why is this gate locked most of the time?"
 msgstr "Miért tartjátok zárva ezt a kaput?"
 
-#: Tybalt.dialog:51
+#: Tybalt.dialog:56
 msgid ""
 "It's locked so no one can sneak inside while I'm not looking. That's why."
 msgstr "Mert így senki sem tud besurranni, mikor nem figyelek. Ezért."
 
-#: Tybalt.dialog:56
+#: Tybalt.dialog:61
 msgid "I want to get into the citadel."
 msgstr "Be akarok menni a fellegvárba."
 
-#: Tybalt.dialog:59
+#: Tybalt.dialog:64
 msgid ""
 "Of course. Guard members are always authorized to enter the town citadel. "
 "The gate is open. Enjoy your stay."
@@ -49,7 +49,7 @@ msgstr ""
 "Természetesen. Az Őrség tagjai bármikor bemehetnek a főhadiszállásra. A kapu "
 "nyitva előtted. Jó szórakozást."
 
-#: Tybalt.dialog:62
+#: Tybalt.dialog:67
 msgid ""
 "Sorry pal, but I don't think so. Only authorized personnel are permitted and "
 "that means members of the Red Guard."
@@ -57,103 +57,103 @@ msgstr ""
 "Sajnálom, haver, de nem fog menni. Csak engedéllyel rendelkezők mehetnek be, "
 "ami a Vörös Őrséget jelenti."
 
-#: Tybalt.dialog:63
+#: Tybalt.dialog:68
 msgid "Talk to Spencer if you have any business inside. I cannot let you pass."
 msgstr "Beszélj Spencerrel, ha dolgod lenne bent. Én nem engedlek be."
 
-#: Tybalt.dialog:71
+#: Tybalt.dialog:76
 msgid ""
 "So why is it you keep the citadel locked? Is there anything secret in there?"
 msgstr ""
 "És miért tartjátok folyamatosan zárva a fellegvárat? Van ott valami titkotok?"
 
-#: Tybalt.dialog:73
+#: Tybalt.dialog:78
 msgid ""
 "We need to protect our equipment and documents, because lives depend on it."
 msgstr ""
 "Meg kell védenünk a felszerelésünket és a dokumentumainkat, mert az életünk "
 "múlik rajta."
 
-#: Tybalt.dialog:74
+#: Tybalt.dialog:79
 msgid "Also, we don't have to answer questions."
 msgstr "Ja, és nem kell mindenféle kérdésre válaszolnunk."
 
-#: Tybalt.dialog:81
+#: Tybalt.dialog:86
 msgid "I have a lot of money for you."
 msgstr "Van számodra egy rakás pénzem."
 
-#: Tybalt.dialog:83
+#: Tybalt.dialog:88
 msgid "Fascinating. Can I have a hundred please?"
 msgstr "Érdekfeszítő. Adnál százat, kérlek?"
 
-#: Tybalt.dialog:88
+#: Tybalt.dialog:93
 msgid "Erm... I don't have that much."
 msgstr "Őööö... Annyi nincs."
 
-#: Tybalt.dialog:90
+#: Tybalt.dialog:95
 msgid "Well, too bad."
 msgstr "Hát, az gond."
 
-#: Tybalt.dialog:95
+#: Tybalt.dialog:100
 msgid "Here you go."
 msgstr "Tessék."
 
-#: Tybalt.dialog:98
+#: Tybalt.dialog:103
 msgid "Thank you."
 msgstr "Köszönöm."
 
-#: Tybalt.dialog:102
+#: Tybalt.dialog:107
 msgid "That is not a hundred."
 msgstr "Ez nincs egészen száz."
 
-#: Tybalt.dialog:102
+#: Tybalt.dialog:107
 msgid "Um, count that again."
 msgstr "Uhh, számold meg újra."
 
-#: Tybalt.dialog:102
+#: Tybalt.dialog:107
 msgid "Talk to me when you have a bit more."
 msgstr "Akkor beszéljünk legközelebb, ha több lesz nálad."
 
-#: Tybalt.dialog:108
+#: Tybalt.dialog:113
 msgid "Ok, now please open the door for me."
 msgstr "Oké, akkor most légyszíves nyisd ki az ajtót."
 
-#: Tybalt.dialog:110
+#: Tybalt.dialog:115
 msgid "What door?"
 msgstr "Milyen ajtót?"
 
-#: Tybalt.dialog:111
+#: Tybalt.dialog:116
 msgid "The door to the citadel!"
 msgstr "A fellegvár ajtaját!"
 
-#: Tybalt.dialog:112
+#: Tybalt.dialog:117
 msgid "But you are not a member of the Red Guard."
 msgstr "De nem vagy a Vörös Őrség tagja."
 
-#: Tybalt.dialog:113
+#: Tybalt.dialog:118
 msgid "You cannot come in."
 msgstr "Nem mehetsz be."
 
-#: Tybalt.dialog:114
+#: Tybalt.dialog:119
 msgid "I paid you!"
 msgstr "Fizettem neked!"
 
-#: Tybalt.dialog:115
+#: Tybalt.dialog:120
 msgid "Really? I don't remember that."
 msgstr "Tényleg? Én nem emlékszem."
 
-#: Tybalt.dialog:116
+#: Tybalt.dialog:121
 msgid "I want my money back."
 msgstr "Vissza akarom kapni a pénzem."
 
-#: Tybalt.dialog:117
+#: Tybalt.dialog:122
 msgid "What money?"
 msgstr "Milyen pénzed?"
 
-#: Tybalt.dialog:122
+#: Tybalt.dialog:127
 msgid "See you later."
 msgstr "Majd még találkozunk."
 
-#: Tybalt.dialog:124
+#: Tybalt.dialog:129
 msgid "Good riddance."
 msgstr "Minden jót."

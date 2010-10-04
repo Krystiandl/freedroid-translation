@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
 "PO-Revision-Date: 2010-06-02 07:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -17,7 +17,7 @@ msgstr ""
 msgid "Anything but the army snacks, please!"
 msgstr ""
 
-#: Michelangelo.dialog:41 Michelangelo.dialog:42 Michelangelo.dialog:315
+#: Michelangelo.dialog:41 Michelangelo.dialog:42 Michelangelo.dialog:325
 msgid "SADD's power supply"
 msgstr ""
 
@@ -215,7 +215,7 @@ msgid "Here, try this slice of lemon meringue pie."
 msgstr ""
 
 #: Michelangelo.dialog:147
-msgid "Wait, you don't have a Fork. You need a fork..."
+msgid "Wait, you don't have a fork. You need a fork..."
 msgstr ""
 
 #: Michelangelo.dialog:149
@@ -227,7 +227,7 @@ msgid "Try this crab cake."
 msgstr ""
 
 #: Michelangelo.dialog:155
-msgid "Where is your Plate and Fork?"
+msgid "Where is your plate and fork?"
 msgstr ""
 
 #: Michelangelo.dialog:157
@@ -236,7 +236,7 @@ msgid ""
 msgstr ""
 
 #: Michelangelo.dialog:161
-msgid "May I interest you in some Eggs Sardou?"
+msgid "May I interest you in some eggs sardou?"
 msgstr ""
 
 #: Michelangelo.dialog:162
@@ -377,7 +377,7 @@ msgstr ""
 msgid "Why don't you send someone for the dilithium?"
 msgstr ""
 
-#: Michelangelo.dialog:229 Michelangelo.dialog:289
+#: Michelangelo.dialog:229 Michelangelo.dialog:298
 msgid "I did."
 msgstr ""
 
@@ -552,32 +552,56 @@ msgid "Tell the Red Guard that you need your battery back."
 msgstr ""
 
 #: Michelangelo.dialog:290
-msgid "They said it was already fed to their reactor as fuel."
+msgid "Well, you ARE the red guard"
+msgstr ""
+
+#: Michelangelo.dialog:291
+msgid "Why can't you just talk to Spencer?"
+msgstr ""
+
+#: Michelangelo.dialog:292
+msgid "I want my battery back!"
+msgstr ""
+
+#: Michelangelo.dialog:293
+msgid "Umm... I guess you have a point there."
+msgstr ""
+
+#: Michelangelo.dialog:294
+msgid "But sorry, I don't think there is anything I can do right now,"
 msgstr ""
 
 #: Michelangelo.dialog:295
+msgid "Talk to Spencer yourself."
+msgstr ""
+
+#: Michelangelo.dialog:299
+msgid "They said it was already fed to their reactor as fuel."
+msgstr ""
+
+#: Michelangelo.dialog:305
 msgid "I need a dilithium crystal."
 msgstr ""
 
-#: Michelangelo.dialog:297
+#: Michelangelo.dialog:307
 msgid ""
 "I am already using the ones you got me. They are being used to feed the town."
 msgstr ""
 
-#: Michelangelo.dialog:303 Michelangelo.dialog:310
+#: Michelangelo.dialog:313 Michelangelo.dialog:320
 msgid ""
 "I need one of the dilithium crystals back, it is a matter of life or death!"
 msgstr ""
 
-#: Michelangelo.dialog:305
+#: Michelangelo.dialog:315
 msgid "I gave you all of the crystals I can spare."
 msgstr ""
 
-#: Michelangelo.dialog:312
+#: Michelangelo.dialog:322
 msgid "I guess I can spare one of them, since it is an emergency."
 msgstr ""
 
-#: Michelangelo.dialog:315
+#: Michelangelo.dialog:325
 msgid ""
 "I remembered that I gave Michelangelo three dilithium crystals when he only "
 "needed two for his oven. I convinced him it was a life-or-death situation "
@@ -585,10 +609,10 @@ msgid ""
 "saved myself a trip back to the old dilithium mine!"
 msgstr ""
 
-#: Michelangelo.dialog:320
+#: Michelangelo.dialog:330
 msgid "I'll be going then."
 msgstr ""
 
-#: Michelangelo.dialog:322
+#: Michelangelo.dialog:332
 msgid "See you later."
 msgstr ""

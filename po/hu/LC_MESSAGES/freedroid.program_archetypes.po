@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
 "PO-Revision-Date: 2010-07-06 14:14+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
@@ -218,33 +218,11 @@ msgstr ""
 "hasznosítható. Ez a képesség folyamatosan aktív, nincs szükség a "
 "kiválasztására."
 
-#: freedroid.program_archetypes:227
-msgid "Analyze item"
-msgstr "Tárgy vizsgálata"
-
-#: freedroid.program_archetypes:228
-msgid ""
-"NOT IMPLEMENTED YET Current implementation will be removed and possibly "
-"reimplemented for something else due to addon system replacing magic items"
-msgstr ""
-"EZ MÉG NEM BIZTOS A jelenlegi leírás el lesz távolítva, és átalakul valami "
-"mássá, ha a helyettesítő mágikus eszközök beillesztésre kerülnek"
-
 #: freedroid.program_archetypes:229
-msgid ""
-"Effect: Identify - There are very few items which have labels on them. "
-"Unless you happen to have an item labeled 'USE ME', you better make sure "
-"what it is before using it..."
-msgstr ""
-"Hatása: Azonosítás -Nagyon kevés felcímkézett eszköz létezik. Hacsak nem "
-"találsz valamit, amire 'HASZNÁLJ FEL' címke van ragasztva, jobb, ha "
-"azonosítod, mielőtt a kezedbe vennéd..."
-
-#: freedroid.program_archetypes:239
 msgid "Nethack"
 msgstr "Nethack"
 
-#: freedroid.program_archetypes:240
+#: freedroid.program_archetypes:230
 msgid ""
 "NOT IMPLEMENTED YET The open source game called Nethack is one of the "
 "world's greatest wasters of time. Machines don't care about it, but humans "
@@ -254,24 +232,25 @@ msgstr ""
 "módja. A gépek nem foglalkoznak vele, ám az emberek gyorsan képesek túl "
 "mélyen belebonyolódni."
 
-#: freedroid.program_archetypes:255
+#: freedroid.program_archetypes:245
 msgid "Reverse-engineer"
 msgstr "Visszatervezés"
 
-#: freedroid.program_archetypes:256
+#: freedroid.program_archetypes:246
+#, fuzzy
 msgid ""
 "NOT IMPLEMENTED YET There is some dark magic in the art of turning devices "
-"or programs inside-out, picking them appart to learn all their secrets and "
+"or programs inside-out, picking them apart to learn all their secrets and "
 "putting them back again."
 msgstr ""
 "EZ MÉG NEM BIZTOS Van némi feketemágia a botok kifordításának tudományában. "
 "Fordítsd ki és fürkészd ki minden titkukat."
 
-#: freedroid.program_archetypes:267
+#: freedroid.program_archetypes:257
 msgid "Ricer CFLAGS"
 msgstr "CFLAGS rendezés"
 
-#: freedroid.program_archetypes:268
+#: freedroid.program_archetypes:258
 msgid ""
 "NOT IMPLEMENTED YET Optimization is the root of all evil. You can gain some "
 "temporary speed improvements to your system, but in the end you will likely "
@@ -281,23 +260,19 @@ msgstr ""
 "ideiglenes rendszerteljesítményt, de vigyázz, mert könnyen túlmelegedéssel "
 "végződhet, és maradandó sérülést szenvedhetsz."
 
-#: freedroid.program_archetypes:276
+#: freedroid.program_archetypes:266
 msgid "Light"
 msgstr "Fény"
 
-#: freedroid.program_archetypes:277
-msgid ""
-"NOT IMPLEMENTED YET This does nothing in this version of freedroidRPG. Let "
-"there be light..."
+#: freedroid.program_archetypes:267
+msgid "Let there be light..."
 msgstr ""
-"EZ MÉG NEM BIZTOS A Freedroid RPG e verziójában nem csinál semmit. S lőn "
-"világosság..."
 
-#: freedroid.program_archetypes:286
+#: freedroid.program_archetypes:278
 msgid "Satellite image"
 msgstr "Műholdkép"
 
-#: freedroid.program_archetypes:287
+#: freedroid.program_archetypes:279
 msgid ""
 "NOT IMPLEMENTED YET Getting a map of an area is pretty easy when you can "
 "look at everything from above."
@@ -305,12 +280,12 @@ msgstr ""
 "EZ MÉG NEM BIZTOS A Freedroid RPG e verziójában nem csinál semmit. Könnyű "
 "egy fentről készült térképen megnézni, mi hol található."
 
-#: freedroid.program_archetypes:295
+#: freedroid.program_archetypes:287
 msgid "Plasma grenade"
 msgstr "Plazma gránát"
 
-#: freedroid.program_archetypes:296 freedroid.program_archetypes:308
-#: freedroid.program_archetypes:320
+#: freedroid.program_archetypes:288 freedroid.program_archetypes:300
+#: freedroid.program_archetypes:312
 msgid ""
 "If you see this in game it is a bug. Please report this to the developers, "
 "unless you cheated, in which case you deserve to see this silly nonsense "
@@ -319,10 +294,36 @@ msgstr ""
 "Ez egy bug, jelentsd a fejlesztőknek. Ám ha cheateltél, akkor is előjöhet ez "
 "a hülye magyarázat."
 
-#: freedroid.program_archetypes:307
+#: freedroid.program_archetypes:299
 msgid "Gas grenade"
 msgstr "Gáz gránát"
 
-#: freedroid.program_archetypes:319
+#: freedroid.program_archetypes:311
 msgid "EMP grenade"
 msgstr "EMP gránát"
+
+#~ msgid "Analyze item"
+#~ msgstr "Tárgy vizsgálata"
+
+#~ msgid ""
+#~ "NOT IMPLEMENTED YET Current implementation will be removed and possibly "
+#~ "reimplemented for something else due to addon system replacing magic items"
+#~ msgstr ""
+#~ "EZ MÉG NEM BIZTOS A jelenlegi leírás el lesz távolítva, és átalakul "
+#~ "valami mássá, ha a helyettesítő mágikus eszközök beillesztésre kerülnek"
+
+#~ msgid ""
+#~ "Effect: Identify - There are very few items which have labels on them. "
+#~ "Unless you happen to have an item labeled 'USE ME', you better make sure "
+#~ "what it is before using it..."
+#~ msgstr ""
+#~ "Hatása: Azonosítás -Nagyon kevés felcímkézett eszköz létezik. Hacsak nem "
+#~ "találsz valamit, amire 'HASZNÁLJ FEL' címke van ragasztva, jobb, ha "
+#~ "azonosítod, mielőtt a kezedbe vennéd..."
+
+#~ msgid ""
+#~ "NOT IMPLEMENTED YET This does nothing in this version of freedroidRPG. "
+#~ "Let there be light..."
+#~ msgstr ""
+#~ "EZ MÉG NEM BIZTOS A Freedroid RPG e verziójában nem csinál semmit. S lőn "
+#~ "világosság..."

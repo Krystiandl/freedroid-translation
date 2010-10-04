@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
 "PO-Revision-Date: 2010-07-08 14:21+0100\n"
 "Last-Translator: Angelika Maria Piątkowska <piatkosia.apt@interia.pl>\n"
 "Language-Team: freedroid team\n"
@@ -16,67 +16,71 @@ msgstr ""
 "X-Poedit-Country: POLAND\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
-#: addon_specs.lua:2
+#: addon_specs.lua:65
 #, fuzzy
 msgid "Linarian power crank"
 msgstr "Linarian maniak mocy"
 
-#: addon_specs.lua:10
-msgid "Tungsten Spikes"
+#: addon_specs.lua:74
+msgid "Tungsten spikes"
 msgstr ""
 
-#: addon_specs.lua:18
-msgid "Tinfoil Patch"
+#: addon_specs.lua:83
+msgid "Tinfoil patch"
 msgstr ""
 
-#: addon_specs.lua:26
+#: addon_specs.lua:92
 msgid "Laser sight"
 msgstr ""
 
-#: addon_specs.lua:34
-msgid "Exoskeletal Joint"
+#: addon_specs.lua:101
+msgid "Exoskeletal joint"
 msgstr ""
 
-#: addon_specs.lua:42
+#: addon_specs.lua:110
 msgid "Heatsink"
 msgstr ""
 
-#: addon_specs.lua:50
-msgid "Peltier Element"
+#: addon_specs.lua:119
+msgid "Peltier element"
 msgstr ""
 
-#: addon_specs.lua:58
-msgid "Heat Buffer"
+#: addon_specs.lua:128
+msgid "Steel mesh"
 msgstr ""
 
-#: addon_specs.lua:66
-msgid "Steel Mesh"
+#: addon_specs.lua:137
+msgid "Shock discharger"
 msgstr ""
 
-#: addon_specs.lua:74
-msgid "Shock Discharger"
-msgstr ""
-
-#: addon_specs.lua:82
+#: addon_specs.lua:146
 msgid "Silencer"
 msgstr ""
 
-#: addon_specs.lua:90
+#: addon_specs.lua:155
 msgid "Coprocessor"
 msgstr ""
 
-#: addon_specs.lua:97
+#: addon_specs.lua:163
 msgid "Pedometer"
 msgstr ""
 
-#: addon_specs.lua:105
-msgid "Foot Warmer"
+#: addon_specs.lua:172
+msgid "Foot warmer"
 msgstr ""
 
-#: addon_specs.lua:113
-msgid "Circuit Jammer"
+#: addon_specs.lua:181
+msgid "Circuit jammer"
 msgstr ""
 
-#: addon_specs.lua:121
-msgid "Sensor Disruptor"
+#: addon_specs.lua:190
+msgid "Sensor disruptor"
+msgstr ""
+
+#: addon_specs.lua:199
+msgid "Headlamp"
+msgstr ""
+
+#: addon_specs.lua:208
+msgid "Brain stimulator"
 msgstr ""

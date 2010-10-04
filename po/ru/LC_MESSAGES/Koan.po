@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
 "PO-Revision-Date: 2008-12-16 05:43+0000\n"
 "Last-Translator: Dmitry Tumaikin <nevly@mail.ru>\n"
 "Language-Team: Russian\n"
@@ -45,7 +45,7 @@ msgid "With pleasure."
 msgstr ""
 
 #: Koan.dialog:49 Koan.dialog:60
-msgid "Doing Duncan a favour"
+msgid "Doing Duncan a favor"
 msgstr ""
 
 #: Koan.dialog:49

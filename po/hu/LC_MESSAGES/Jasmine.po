@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
 "PO-Revision-Date: 2010-07-06 14:22+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
@@ -12,128 +12,128 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: Jasmine.dialog:44
+#: Jasmine.dialog:42
 msgid "Hi! I'm new here."
 msgstr "Helló! Új vagyok itt."
 
-#: Jasmine.dialog:46
+#: Jasmine.dialog:44
 msgid "Yes. Hello. What do you want?"
 msgstr "Igen. Helló. Mit akarsz?"
 
-#: Jasmine.dialog:51
+#: Jasmine.dialog:49
 msgid "Who are you?"
 msgstr "Ki vagy te?"
 
-#: Jasmine.dialog:53
+#: Jasmine.dialog:51
 msgid "People call me Jasmine..."
 msgstr "Az emberek Jasmine-nak hívnak..."
 
-#: Jasmine.dialog:54
+#: Jasmine.dialog:52
 msgid "That is not my real name, but it will do for now."
 msgstr "Ez nem az igazi nevem, de megteszi."
 
-#: Jasmine.dialog:55
+#: Jasmine.dialog:53
 msgid "Jasmine"
 msgstr "Jasmine"
 
-#: Jasmine.dialog:60
+#: Jasmine.dialog:58
 msgid "What are you doing in Kevin's place?"
 msgstr "Mit csinálsz Kevin lakhelyén?"
 
-#: Jasmine.dialog:62
+#: Jasmine.dialog:60
 msgid "I live with him, stupid."
 msgstr "Hülye. Vele élek."
 
-#: Jasmine.dialog:63
+#: Jasmine.dialog:61
 msgid "I like him. He... He is very much like me."
 msgstr "Kedvelem. És ő... ő is nagyon kedvel engem."
 
-#: Jasmine.dialog:64
+#: Jasmine.dialog:62
 msgid "Jasmine --- Girlfriend of a true Hacker"
 msgstr "Jasmine -- Egy igazi Hacker barátnője"
 
-#: Jasmine.dialog:69
+#: Jasmine.dialog:67
 msgid "How are you?"
 msgstr "Hogy vagy?"
 
-#: Jasmine.dialog:71
+#: Jasmine.dialog:69
 msgid "Shitty. Now leave me alone."
 msgstr "Szarul. Most hagyj magamra."
 
-#: Jasmine.dialog:76
+#: Jasmine.dialog:74
 msgid "Why does such a nice lady act so harshly? Can't we all just get along?"
 msgstr ""
 "Miért beszél egy ilyen szép nő ilyen csúnyán? Nem beszélgethetünk nyugodtan "
 "tovább?"
 
-#: Jasmine.dialog:78
+#: Jasmine.dialog:76
 msgid "No."
 msgstr "Nem."
 
-#: Jasmine.dialog:83
+#: Jasmine.dialog:81
 msgid "What are you up to?"
 msgstr "Mit csinálsz itt?"
 
-#: Jasmine.dialog:85
+#: Jasmine.dialog:83
 msgid "Nothing. Quit asking questions."
 msgstr "Semmit. Ne kérdezősködj."
 
-#: Jasmine.dialog:86
+#: Jasmine.dialog:84
 msgid "Don't bore me."
 msgstr "Ne fárassz már."
 
-#: Jasmine.dialog:91
+#: Jasmine.dialog:89
 msgid "You are the most beautiful human I have ever seen."
 msgstr "Te vagy a legszebb humanoid, akit valaha láttam."
 
-#: Jasmine.dialog:93
+#: Jasmine.dialog:91
 msgid "And you are at least a quarter wrong."
 msgstr "Te meg egy kicsit tévedsz."
 
-#: Jasmine.dialog:94
+#: Jasmine.dialog:92
 msgid "Now, please get out of my sight."
 msgstr "És most, légyszíves tűnj a szemem elől."
 
-#: Jasmine.dialog:99
+#: Jasmine.dialog:97
 msgid "Will you marry me?"
 msgstr "Hozzám jössz feleségül?"
 
-#: Jasmine.dialog:101
+#: Jasmine.dialog:99
 msgid "Forget it."
 msgstr "Felejtsd el."
 
-#: Jasmine.dialog:106 Jasmine.dialog:120
+#: Jasmine.dialog:104
 msgid "See you later."
 msgstr "Majd még találkozunk."
 
-#: Jasmine.dialog:108
+#: Jasmine.dialog:112
 msgid "Yeah. Whatever."
 msgstr "Ja, persze."
 
-#: Jasmine.dialog:122
+#: Jasmine.dialog:115
 msgid "Yeah. Wha -- SIGSEGV."
 msgstr "Ja. Köcsö -- SIGSEGV."
 
-#: Jasmine.dialog:123
+#: Jasmine.dialog:116
 msgid "Segmentation fault."
 msgstr "Szegmentációs hiba."
 
-#: Jasmine.dialog:124
+#: Jasmine.dialog:117
 msgid "Huh?"
 msgstr "Mia...?"
 
-#: Jasmine.dialog:125
+#: Jasmine.dialog:118
 msgid "Traceback printed to stdout."
 msgstr "Visszajelzés stdout-ra nyomtatva."
 
-#: Jasmine.dialog:126
+#: Jasmine.dialog:119
 msgid "Kernel panic in module: Jasmine"
 msgstr "Kernel pacic a Jasmine modulban"
 
-#: Jasmine.dialog:127
+#: Jasmine.dialog:120
 msgid "Buffer overrun in anger.c:1532"
 msgstr "Puffer túlcsordulás a .c:1532 -ban."
 
-#: Jasmine.dialog:128
+#: Jasmine.dialog:121
 msgid "Core dumped. System halted."
 msgstr "Mag lefagyott. Rendszer leállt."

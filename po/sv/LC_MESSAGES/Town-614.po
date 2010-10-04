@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroid\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
 "PO-Revision-Date: 2008-10-28 08:03+0000\n"
 "Last-Translator: Christian Widell <Christian_widell@hotmail.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
@@ -67,8 +67,8 @@ msgstr ""
 
 #: Town-614.dialog:49
 msgid ""
-"The Team became a company which released their first security droid, the 610 "
-"Lovely."
+"The team became a company which released their first security droid, called "
+"610"
 msgstr ""
 
 #: Town-614.dialog:50

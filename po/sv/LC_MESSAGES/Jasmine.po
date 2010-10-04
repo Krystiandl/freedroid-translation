@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroid\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
 "PO-Revision-Date: 2008-10-28 08:03+0000\n"
 "Last-Translator: Christian Widell <Christian_widell@hotmail.com>\n"
 "Language-Team: Swedish <sv@li.org>\n"
@@ -18,128 +18,128 @@ msgstr ""
 "X-Launchpad-Export-Date: 2009-01-11 17:40+0000\n"
 "X-Generator: Launchpad (build Unknown)\n"
 
-#: Jasmine.dialog:44
+#: Jasmine.dialog:42
 msgid "Hi! I'm new here."
 msgstr ""
 
-#: Jasmine.dialog:46
+#: Jasmine.dialog:44
 msgid "Yes. Hello. What do you want?"
 msgstr "Ja. Hallå. Vad vill du?"
 
-#: Jasmine.dialog:51
+#: Jasmine.dialog:49
 msgid "Who are you?"
 msgstr ""
 
-#: Jasmine.dialog:53
+#: Jasmine.dialog:51
 msgid "People call me Jasmine..."
 msgstr "Alla kallar mig Jasmine..."
 
-#: Jasmine.dialog:54
+#: Jasmine.dialog:52
 msgid "That is not my real name, but it will do for now."
 msgstr "Det är inte mitt riktiga namn, men det duger för tillfället."
 
-#: Jasmine.dialog:55
+#: Jasmine.dialog:53
 msgid "Jasmine"
 msgstr ""
 
-#: Jasmine.dialog:60
+#: Jasmine.dialog:58
 msgid "What are you doing in Kevin's place?"
 msgstr ""
 
-#: Jasmine.dialog:62
+#: Jasmine.dialog:60
 msgid "I live with him, stupid."
 msgstr "Jag bor här med honom, tönt."
 
-#: Jasmine.dialog:63
+#: Jasmine.dialog:61
 msgid "I like him. He... He is very much like me."
 msgstr "Jag tycker om honom. Han... Han är väldigt like mig."
 
-#: Jasmine.dialog:64
+#: Jasmine.dialog:62
 msgid "Jasmine --- Girlfriend of a true Hacker"
 msgstr ""
 
-#: Jasmine.dialog:69
+#: Jasmine.dialog:67
 msgid "How are you?"
 msgstr ""
 
-#: Jasmine.dialog:71
+#: Jasmine.dialog:69
 msgid "Shitty. Now leave me alone."
 msgstr "Dåligt. Låt mig vara!"
 
-#: Jasmine.dialog:76
+#: Jasmine.dialog:74
 msgid "Why does such a nice lady act so harshly? Can't we all just get along?"
 msgstr ""
 
-#: Jasmine.dialog:78
+#: Jasmine.dialog:76
 msgid "No."
 msgstr "Nej."
 
-#: Jasmine.dialog:83
+#: Jasmine.dialog:81
 msgid "What are you up to?"
 msgstr ""
 
-#: Jasmine.dialog:85
+#: Jasmine.dialog:83
 msgid "Nothing. Quit asking questions."
 msgstr "Ingenting. Sluta fråga!"
 
-#: Jasmine.dialog:86
+#: Jasmine.dialog:84
 msgid "Don't bore me."
 msgstr "Tråka inte ut mig."
 
-#: Jasmine.dialog:91
+#: Jasmine.dialog:89
 msgid "You are the most beautiful human I have ever seen."
 msgstr ""
 
-#: Jasmine.dialog:93
+#: Jasmine.dialog:91
 #, fuzzy
 msgid "And you are at least a quarter wrong."
 msgstr "Du har till minst en fjärdedel fel."
 
-#: Jasmine.dialog:94
+#: Jasmine.dialog:92
 msgid "Now, please get out of my sight."
 msgstr "Kan du då äntligen försvinna ur min åsyn?"
 
-#: Jasmine.dialog:99
+#: Jasmine.dialog:97
 msgid "Will you marry me?"
 msgstr ""
 
-#: Jasmine.dialog:101
+#: Jasmine.dialog:99
 msgid "Forget it."
 msgstr "Glöm det."
 
-#: Jasmine.dialog:106 Jasmine.dialog:120
+#: Jasmine.dialog:104
 msgid "See you later."
 msgstr "Vi ses senare."
 
-#: Jasmine.dialog:108
+#: Jasmine.dialog:112
 msgid "Yeah. Whatever."
 msgstr ""
 
-#: Jasmine.dialog:122
+#: Jasmine.dialog:115
 msgid "Yeah. Wha -- SIGSEGV."
 msgstr ""
 
-#: Jasmine.dialog:123
+#: Jasmine.dialog:116
 msgid "Segmentation fault."
 msgstr ""
 
-#: Jasmine.dialog:124
+#: Jasmine.dialog:117
 msgid "Huh?"
 msgstr ""
 
-#: Jasmine.dialog:125
+#: Jasmine.dialog:118
 msgid "Traceback printed to stdout."
 msgstr ""
 
-#: Jasmine.dialog:126
+#: Jasmine.dialog:119
 msgid "Kernel panic in module: Jasmine"
 msgstr ""
 
-#: Jasmine.dialog:127
+#: Jasmine.dialog:120
 msgid "Buffer overrun in anger.c:1532"
 msgstr ""
 
-#: Jasmine.dialog:128
+#: Jasmine.dialog:121
 msgid "Core dumped. System halted."
 msgstr ""
 

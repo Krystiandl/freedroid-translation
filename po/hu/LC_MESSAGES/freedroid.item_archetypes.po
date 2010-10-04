@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
 "PO-Revision-Date: 2010-07-06 14:09+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
@@ -560,9 +560,10 @@ msgid "Laser power pack"
 msgstr "Lézer energia pack"
 
 #: freedroid.item_archetypes:1693
+#, fuzzy
 msgid ""
-"Energy crystal load for laser weapons and other powertools. Each round fired "
-"consumes a load within the crystal."
+"Energy crystal load for laser weapons and other power tools. Each round "
+"fired consumes a load within the crystal."
 msgstr ""
 "Energiakristály töltet a lézerfegyverekhez, és egyéb eszközökhöz. Minden "
 "lövés adott mennyiségű töltést használ fela kristályból."
@@ -595,10 +596,11 @@ msgid "Laser Pulse Rifle"
 msgstr "Lézer Impulzus Karabély"
 
 #: freedroid.item_archetypes:1787
+#, fuzzy
 msgid ""
 "The pulse laser technology, allowing for many repeated short bursts without "
 "the weapon overheating, makes this quite a useful weapon. The damage from "
-"each shot is noticably less than from a Laser rifle, but the firing rate "
+"each shot is noticeably less than from a Laser rifle, but the firing rate "
 "more than makes up for it."
 msgstr ""
 "Az impulzuslézer technológia lehetővé teszi a gyors sorozatok lövését "
@@ -897,7 +899,10 @@ msgid "Normal Jacket"
 msgstr "Normál Mellény"
 
 #: freedroid.item_archetypes:2895
-msgid "Does a decent job of protection. I guess. Maybe. I'm not sure."
+#, fuzzy
+msgid ""
+"This piece of clothing made out of Synthex(TM) does a decent job of "
+"protection. I guess. Maybe. I'm not sure."
 msgstr "Talán véd valamicskét. Azt hiszem. Talán. Nem vagyok benne túl biztos."
 
 #: freedroid.item_archetypes:2899
@@ -913,15 +918,21 @@ msgid "Protective Jacket"
 msgstr "Védőmellény"
 
 #: freedroid.item_archetypes:2937
-msgid "Very strong for its size, does a good job of absorbing basic blows."
-msgstr "Méretéhez képest nagyon erős, az általános találatoktól remekül véd."
+msgid ""
+"Very strong for its size, this jacket made out of Shootex(TM) does a good "
+"job of absorbing basic blows. It is suitable for all kinds of extreme "
+"sports, such as climbing, rafting, bunjee-jumping, fencening and even racing."
+msgstr ""
 
 #: freedroid.item_archetypes:2941
 msgid "Red Guard's Light Robe"
 msgstr "A Vörös Őrség Könnyű Testpáncélja"
 
 #: freedroid.item_archetypes:2956
-msgid "Tough as nails and able to withstand most blows."
+#, fuzzy
+msgid ""
+"The universal riot gear of the Red Guard. Tough as nails and able to "
+"withstand most blows."
 msgstr "Könnyen használható, és a legtöbb találatnak ellenáll."
 
 #: freedroid.item_archetypes:2960
@@ -975,9 +986,10 @@ msgid "Heavy Shield"
 msgstr "Nehéz Pajzs"
 
 #: freedroid.item_archetypes:3058
+#, fuzzy
 msgid ""
-"A medium sized, lightweight and pretty straightforward shield. Provides "
-"decent protection."
+"A medium sized, reinforced shield. Heavier than a standard shield, but "
+"should last longer. Provides decent protection."
 msgstr ""
 "Közepes méretű, könnyű súlyú, jól használható pajzs. Tűrhető védelmet nyújt."
 
@@ -1042,9 +1054,11 @@ msgid "Battle Helmet"
 msgstr "Csatasisak"
 
 #: freedroid.item_archetypes:3179
+#, fuzzy
 msgid ""
-"Now this is head protection. Feel safe with sturdy iron protecting your "
-"head. Not as comfortable as other hats."
+"Now this is head protection. Feel safe with sturdy Resosteel(TM) protecting "
+"your head. Not as comfortable as other hats but the precious content stays "
+"safe."
 msgstr ""
 "Na, ez már fejvédő. A fejed ebben biztonságban van, bár nem olyan kényelmes, "
 "mint más kalapok."
@@ -1110,18 +1124,10 @@ msgstr ""
 "mindenképp szükséged van."
 
 #: freedroid.item_archetypes:3301
-msgid "Source Book of Analyze item"
-msgstr "Az Eszközanalizálás Forráskódja"
-
-#: freedroid.item_archetypes:3311
-msgid "A book explaining the basics of item analysis."
-msgstr "Az eszkötök és tárgyak vizsgálatának alapjai."
-
-#: freedroid.item_archetypes:3317
 msgid "Source Book of Sanctuary"
 msgstr "A Menedék Forráskódja"
 
-#: freedroid.item_archetypes:3327
+#: freedroid.item_archetypes:3311
 msgid ""
 "The art of rapidly moving away from danger is very useful. Even when used in "
 "reverse, it has its uses."
@@ -1129,21 +1135,21 @@ msgstr ""
 "A veszélyzóna azonnali elhagyásának művészete nagyon hasznos. Visszafelé "
 "használva méginkább."
 
-#: freedroid.item_archetypes:3333
+#: freedroid.item_archetypes:3317
 msgid "Source Book of Malformed packet"
 msgstr "A Törött Csomagok Forráskódja"
 
-#: freedroid.item_archetypes:3343
+#: freedroid.item_archetypes:3327
 msgid ""
 "When computers are presented with the unexpected, they can damage themselves."
 msgstr ""
 "Ha a számítógépek nem várt dolgokkal találkoznak, könnyen megsérülhetnek."
 
-#: freedroid.item_archetypes:3349
+#: freedroid.item_archetypes:3333
 msgid "Source Book of Calculate Pi"
 msgstr "A Pí Számításának Forráskódja"
 
-#: freedroid.item_archetypes:3359
+#: freedroid.item_archetypes:3343
 msgid ""
 "It is not a big problem to make a badly designed system to go hunting for "
 "the impossible, causing a performance impact."
@@ -1151,54 +1157,54 @@ msgstr ""
 "Nem nagy dolog egy rossz tervezésű rendszert lehetetlen feladatra rávenni, "
 "ezáltal okozva teljesítményromlást."
 
-#: freedroid.item_archetypes:3365
+#: freedroid.item_archetypes:3349
 msgid "Source Book of Blue Screen"
 msgstr "A Kék Halál Forráskódja"
 
-#: freedroid.item_archetypes:3375 freedroid.item_archetypes:3391
+#: freedroid.item_archetypes:3359 freedroid.item_archetypes:3375
 msgid ""
 "With a little touch a war machine comes crashing to a halt. For a while."
 msgstr "Egy kis érintéstől lefagyhat a hadigépezet. Egy ideig."
 
-#: freedroid.item_archetypes:3381
+#: freedroid.item_archetypes:3365
 msgid "Source Book of Broadcast Blue Screen"
 msgstr "A Kék Halál Megosztásának Forráskódja"
 
-#: freedroid.item_archetypes:3397
+#: freedroid.item_archetypes:3381
 msgid "Source Book of Invisibility"
 msgstr "A Láthatatlanság Forráskódja"
 
-#: freedroid.item_archetypes:3407
+#: freedroid.item_archetypes:3391
 msgid "I am not the Linarian you are looking for."
 msgstr "Nem én vagyok az a Lináriai, akit te keresel."
 
-#: freedroid.item_archetypes:3413
+#: freedroid.item_archetypes:3397
 msgid "Source Book of Virus"
 msgstr "A Vírus Forráskódja"
 
-#: freedroid.item_archetypes:3423
+#: freedroid.item_archetypes:3407
 msgid ""
 "This is not just a firmware upgrade, my dear bot. You are about to find out "
 "what exactly I want to give you."
 msgstr ""
 "Ez nem csak egy firmware frissítés, kicsi robot. Nézd csak, mit hoztam neked."
 
-#: freedroid.item_archetypes:3429
+#: freedroid.item_archetypes:3413
 msgid "Source Book of Broadcast virus"
 msgstr "A Vírus Megosztás Forráskódja"
 
-#: freedroid.item_archetypes:3439
+#: freedroid.item_archetypes:3423
 msgid ""
 "The network is wide and dangerous. Many traps await the weak and unprepared."
 msgstr ""
 "A hálózat nagy és veszélyes. Sok veszély fenyegeti a gyengéket és "
 "készületleneket."
 
-#: freedroid.item_archetypes:3445
+#: freedroid.item_archetypes:3429
 msgid "Source Book of Dispel smoke"
 msgstr "A Füst Kivétel Forráskódja"
 
-#: freedroid.item_archetypes:3455
+#: freedroid.item_archetypes:3439
 msgid ""
 "By heating up the chips with a malformed program, you can cause them to "
 "release the magic smoke which keeps the bot running."
@@ -1206,17 +1212,27 @@ msgstr ""
 "A bot processzorok is füsttel működnek. Ha kijön belőlük a füst, nem "
 "működnek tovább."
 
-#: freedroid.item_archetypes:3461
+#: freedroid.item_archetypes:3445
 msgid "Source Book of Killer poke"
 msgstr "A Gyilkos poke Forráskódja"
 
-#: freedroid.item_archetypes:3471
+#: freedroid.item_archetypes:3455
 msgid ""
 "Messing around with the bot's memory can cause it to damage itself, but the "
 "damage is greatly variable."
 msgstr ""
 "A bot memória adatainak összekeverése sérülést okozhat, de a sérülés mértéke "
 "erősen változó."
+
+#: freedroid.item_archetypes:3461
+msgid "Reparation manual"
+msgstr ""
+
+#: freedroid.item_archetypes:3471
+msgid ""
+"This manual will help you fix a broken dishwasher, a car, or a gun. The "
+"covers does not mention anything about breaking robots however."
+msgstr ""
 
 #: freedroid.item_archetypes:3477
 msgid "Source Book of Plasma discharge"
@@ -1658,10 +1674,22 @@ msgstr ""
 "eszköztáradban, és akkor csak egy helyet foglalnak el."
 
 #: freedroid.item_archetypes:4041
+#, fuzzy
+msgid "Data cube"
+msgstr "Kevin Adatkockája"
+
+#: freedroid.item_archetypes:4052
+msgid ""
+"This was the most common form of portable information storage used on Earth "
+"until the Great Assault, its three-dimensional memory capable of storing up "
+"to 2 terabytes and compatible with most of the hardware on the planet."
+msgstr ""
+
+#: freedroid.item_archetypes:4056
 msgid "Kevin's Data Cube"
 msgstr "Kevin Adatkockája"
 
-#: freedroid.item_archetypes:4050
+#: freedroid.item_archetypes:4065
 msgid ""
 "This data cube contains confidential government data on the installations "
 "around the town. Kevin hopes that when the data is evaluated properly, a way "
@@ -1677,11 +1705,11 @@ msgstr ""
 "beszélik, hogy a Vörös Ősrég által birtokolt infrastruktúra alkalmas lenne "
 "erre."
 
-#: freedroid.item_archetypes:4054
+#: freedroid.item_archetypes:4069
 msgid "Pandora's Cube"
 msgstr "Pandora Kockája"
 
-#: freedroid.item_archetypes:4065
+#: freedroid.item_archetypes:4080
 msgid ""
 "This is heavy. Cannot the end of the world come in a smaller package? It "
 "would be a great time for Duncan to explain a few things..."
@@ -1689,159 +1717,193 @@ msgstr ""
 "Nehéz ügy. Nem jöhetne a világvége ennél kisebb csomagolásban? Jó lenne, ha "
 "Duncan kitalálna erre valamit..."
 
-#: freedroid.item_archetypes:4077
+#: freedroid.item_archetypes:4084
+msgid "Rubber duck"
+msgstr ""
+
+#: freedroid.item_archetypes:4095
+msgid ""
+"It appears that humans enjoy bathing with squeaky little pieces of plastic "
+"shaped like waterfowl. As a penguinoid, you should probably be disturbed, "
+"but you have to admit this thing is actually quite adorable."
+msgstr ""
+
+#: freedroid.item_archetypes:4106
 msgid "Linarian power crank"
 msgstr "Lináriai erő cucc"
 
-#: freedroid.item_archetypes:4086
+#: freedroid.item_archetypes:4115
 msgid "This mechanical crank pumps up your muscles."
 msgstr ""
 
-#: freedroid.item_archetypes:4090
-msgid "Tungsten Spikes"
+#: freedroid.item_archetypes:4119
+msgid "Tungsten spikes"
 msgstr ""
 
-#: freedroid.item_archetypes:4099
+#: freedroid.item_archetypes:4128
 msgid ""
 "These spikes offer a simple and affordable solution to increasing the damage "
 "you can cause with your melee weapon."
 msgstr ""
 
-#: freedroid.item_archetypes:4103
-msgid "Tinfoil Patch"
+#: freedroid.item_archetypes:4132
+msgid "Tinfoil patch"
 msgstr ""
 
-#: freedroid.item_archetypes:4112
+#: freedroid.item_archetypes:4143
 msgid ""
 "When attached to your armor, this patch of tinfoil allows you to stay cooler "
 "by reducing the amount of electromagnetic radiation that your body absorbs."
 msgstr ""
 
-#: freedroid.item_archetypes:4116
+#: freedroid.item_archetypes:4147
 #, fuzzy
 msgid "Laser sight"
 msgstr "Lézerbot"
 
-#: freedroid.item_archetypes:4127
+#: freedroid.item_archetypes:4158
 msgid ""
 "A miniaturised laser powered by a nuclear battery. When attached parallel to "
 "the barrel of a gun, it makes a little red dot on the target and helps with "
 "aiming."
 msgstr ""
 
-#: freedroid.item_archetypes:4131
-msgid "Exoskeletal Joint"
+#: freedroid.item_archetypes:4162
+msgid "Exoskeletal joint"
 msgstr ""
 
-#: freedroid.item_archetypes:4140
+#: freedroid.item_archetypes:4171
 msgid ""
 "This electromechanical joint helps you to perform physically demanding tasks "
 "more easily by amplifying the movements of your body."
 msgstr ""
 
-#: freedroid.item_archetypes:4144
+#: freedroid.item_archetypes:4175
 msgid "Heatsink"
 msgstr ""
 
-#: freedroid.item_archetypes:4153
-msgid "This heatsink add-on increases your cooling rate slightly."
+#: freedroid.item_archetypes:4186
+msgid ""
+"A simple heatsink add-on that keeps you cooler by dissipating heat from your "
+"armor."
 msgstr ""
 
-#: freedroid.item_archetypes:4157
+#: freedroid.item_archetypes:4190
 #, fuzzy
-msgid "Peltier Element"
+msgid "Peltier element"
 msgstr "Étrendkiegészítő"
 
-#: freedroid.item_archetypes:4166
-msgid "This thermoelectric device increases your cooling rate."
+#: freedroid.item_archetypes:4199
+msgid "A thermoelectric device that increases your cooling rate."
 msgstr ""
 
-#: freedroid.item_archetypes:4170
-msgid "Heat Buffer"
+#: freedroid.item_archetypes:4203
+msgid "Steel mesh"
 msgstr ""
 
-#: freedroid.item_archetypes:4179
+#: freedroid.item_archetypes:4212
 msgid ""
-"This item absorbs some of the heat your body generates, making you heat "
-"slower."
+"A sturdy metal mesh that provides an extra protective layer to your armor."
 msgstr ""
 
-#: freedroid.item_archetypes:4183
-msgid "Steel Mesh"
+#: freedroid.item_archetypes:4216
+msgid "Shock discharger"
 msgstr ""
 
-#: freedroid.item_archetypes:4192
-msgid "This item adds an extra protective layer to your armor."
-msgstr ""
-
-#: freedroid.item_archetypes:4196
-msgid "Shock Discharger"
-msgstr ""
-
-#: freedroid.item_archetypes:4205
+#: freedroid.item_archetypes:4225
 msgid ""
-"When installed to a melee weapon, this item gives a small electric shock to "
-"enemies you hit."
+"When installed to a melee weapon, this nifty device gives a small electric "
+"shock to enemies you hit."
 msgstr ""
 
-#: freedroid.item_archetypes:4209
+#: freedroid.item_archetypes:4229
 msgid "Silencer"
 msgstr ""
 
-#: freedroid.item_archetypes:4218
+#: freedroid.item_archetypes:4238
 msgid ""
 "Allowing you to catch yours enemies by surprise, this silencer helps you to "
 "do more damage in ranged combat."
 msgstr ""
 
-#: freedroid.item_archetypes:4222
+#: freedroid.item_archetypes:4242
 msgid "Coprocessor"
 msgstr ""
 
-#: freedroid.item_archetypes:4231
+#: freedroid.item_archetypes:4251
 msgid ""
 "By speeding up your computations, this chip helps you to excel in many "
 "activities."
 msgstr ""
 
-#: freedroid.item_archetypes:4235
+#: freedroid.item_archetypes:4255
 msgid "Pedometer"
 msgstr ""
 
-#: freedroid.item_archetypes:4244
+#: freedroid.item_archetypes:4264
 msgid ""
-"This device helps you to move dexterously by giving feedback on your "
-"movements."
+"A device that helps you to move dexterously by giving feedback on your foot "
+"movement."
 msgstr ""
 
-#: freedroid.item_archetypes:4248
-msgid "Foot Warmer"
+#: freedroid.item_archetypes:4268
+msgid "Foot warmer"
 msgstr ""
 
-#: freedroid.item_archetypes:4257
+#: freedroid.item_archetypes:4277
 msgid "This item helps you to be more comfortable in your shoes."
 msgstr ""
 
-#: freedroid.item_archetypes:4261
-msgid "Circuit Jammer"
+#: freedroid.item_archetypes:4281
+msgid "Circuit jammer"
 msgstr ""
 
-#: freedroid.item_archetypes:4270
+#: freedroid.item_archetypes:4290
 msgid ""
 "This item improves your melee weapon by blasting the enemies you hit with an "
 "electromagnetic pulse. The pulse is powerful enough to temporarily shut down "
 "the circuits of the attacked bot."
 msgstr ""
 
-#: freedroid.item_archetypes:4274
-msgid "Sensor Disruptor"
+#: freedroid.item_archetypes:4294
+msgid "Sensor disruptor"
 msgstr ""
 
-#: freedroid.item_archetypes:4283
+#: freedroid.item_archetypes:4303
 msgid ""
 "When attached to a melee weapon, this item induces errors to the sensors of "
 "the bots you attack, causing them to slow down momentarily."
 msgstr ""
+
+#: freedroid.item_archetypes:4307
+msgid "Headlamp"
+msgstr ""
+
+#: freedroid.item_archetypes:4316
+msgid ""
+"When fastened to your helmet, this lamp allows you to see better in dark "
+"environments."
+msgstr ""
+
+#: freedroid.item_archetypes:4320
+msgid "Brain stimulator"
+msgstr ""
+
+#: freedroid.item_archetypes:4329
+msgid ""
+"A chip that allows you to learn faster by providing additional feedback on "
+"your actions."
+msgstr ""
+
+#~ msgid "Very strong for its size, does a good job of absorbing basic blows."
+#~ msgstr ""
+#~ "Méretéhez képest nagyon erős, az általános találatoktól remekül véd."
+
+#~ msgid "Source Book of Analyze item"
+#~ msgstr "Az Eszközanalizálás Forráskódja"
+
+#~ msgid "A book explaining the basics of item analysis."
+#~ msgstr "Az eszkötök és tárgyak vizsgálatának alapjai."
 
 #~ msgid "Identification Script"
 #~ msgstr "Azonosító Szkript"

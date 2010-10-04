@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-07-16 14:05+0000\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
 "PO-Revision-Date: 2010-07-07 11:37+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
@@ -17,7 +17,7 @@ msgstr ""
 msgid "Anything but the army snacks, please!"
 msgstr "Bármit, csak katonai kaját ne, légyszíves!"
 
-#: Michelangelo.dialog:41 Michelangelo.dialog:42 Michelangelo.dialog:315
+#: Michelangelo.dialog:41 Michelangelo.dialog:42 Michelangelo.dialog:325
 msgid "SADD's power supply"
 msgstr "SADD energiaellátása"
 
@@ -248,7 +248,8 @@ msgid "Here, try this slice of lemon meringue pie."
 msgstr "Tessék, kóstold meg ezt a citromos sütit."
 
 #: Michelangelo.dialog:147
-msgid "Wait, you don't have a Fork. You need a fork..."
+#, fuzzy
+msgid "Wait, you don't have a fork. You need a fork..."
 msgstr "Várj, nincs villád. Szükséged lesz egy villára..."
 
 #: Michelangelo.dialog:149
@@ -260,7 +261,8 @@ msgid "Try this crab cake."
 msgstr "Kóstold meg a rákos sütit."
 
 #: Michelangelo.dialog:155
-msgid "Where is your Plate and Fork?"
+#, fuzzy
+msgid "Where is your plate and fork?"
 msgstr "Hol van a tányérod és a villád?"
 
 #: Michelangelo.dialog:157
@@ -269,7 +271,8 @@ msgid ""
 msgstr "Intenzív, és nagyon finom, pikáns íze van... elolvad a számban."
 
 #: Michelangelo.dialog:161
-msgid "May I interest you in some Eggs Sardou?"
+#, fuzzy
+msgid "May I interest you in some eggs sardou?"
 msgstr "Érdekelne egy kis tojás Sardou?"
 
 #: Michelangelo.dialog:162
@@ -426,7 +429,7 @@ msgstr "Légy óvatos, ha lemész oda."
 msgid "Why don't you send someone for the dilithium?"
 msgstr "Miért nem küldesz el valakit dilítiumért?"
 
-#: Michelangelo.dialog:229 Michelangelo.dialog:289
+#: Michelangelo.dialog:229 Michelangelo.dialog:298
 msgid "I did."
 msgstr "Küldtem."
 
@@ -634,34 +637,59 @@ msgid "Tell the Red Guard that you need your battery back."
 msgstr "Szólj a Vörös Őröknek, hogy szükséged van az energiaforrásodra."
 
 #: Michelangelo.dialog:290
+msgid "Well, you ARE the red guard"
+msgstr ""
+
+#: Michelangelo.dialog:291
+msgid "Why can't you just talk to Spencer?"
+msgstr ""
+
+#: Michelangelo.dialog:292
+#, fuzzy
+msgid "I want my battery back!"
+msgstr "Kérek egy kis fincsi baka kaját."
+
+#: Michelangelo.dialog:293
+msgid "Umm... I guess you have a point there."
+msgstr ""
+
+#: Michelangelo.dialog:294
+msgid "But sorry, I don't think there is anything I can do right now,"
+msgstr ""
+
+#: Michelangelo.dialog:295
+msgid "Talk to Spencer yourself."
+msgstr ""
+
+#: Michelangelo.dialog:299
 msgid "They said it was already fed to their reactor as fuel."
 msgstr "Azt mondták, hogy már régen elhasználták a reaktorukban üzemanyagként."
 
-#: Michelangelo.dialog:295
+#: Michelangelo.dialog:305
 msgid "I need a dilithium crystal."
 msgstr "Dilítium kristályra van szükségem."
 
-#: Michelangelo.dialog:297
+#: Michelangelo.dialog:307
 msgid ""
 "I am already using the ones you got me. They are being used to feed the town."
 msgstr ""
 "Már használom azokat, amiket hoztál. Azok segítségével etetem a várost."
 
-#: Michelangelo.dialog:303 Michelangelo.dialog:310
+#: Michelangelo.dialog:313 Michelangelo.dialog:320
 msgid ""
 "I need one of the dilithium crystals back, it is a matter of life or death!"
 msgstr ""
 "Egyet vissza kellene adnod belőle, mert egy életforma túlélése múlik rajta!"
 
-#: Michelangelo.dialog:305
+#: Michelangelo.dialog:315
 msgid "I gave you all of the crystals I can spare."
 msgstr "Már minden tartalék kristályomat neked adtam."
 
-#: Michelangelo.dialog:312
+#: Michelangelo.dialog:322
 msgid "I guess I can spare one of them, since it is an emergency."
 msgstr "Talán egyet tudok nélkülözni, amíg nincs vészhelyzet."
 
-#: Michelangelo.dialog:315
+#: Michelangelo.dialog:325
 msgid ""
 "I remembered that I gave Michelangelo three dilithium crystals when he only "
 "needed two for his oven. I convinced him it was a life-or-death situation "
@@ -673,10 +701,10 @@ msgstr ""
 "kérdés (már ha SADD egy életforma), ezért visszaadta a tartalék kristályát. "
 "Úgy tűnik, megspóroltam egy újabb utat a régi dilítium bányába!"
 
-#: Michelangelo.dialog:320
+#: Michelangelo.dialog:330
 msgid "I'll be going then."
 msgstr "Most megyek."
 
-#: Michelangelo.dialog:322
+#: Michelangelo.dialog:332
 msgid "See you later."
 msgstr "Majd még találkozunk."
