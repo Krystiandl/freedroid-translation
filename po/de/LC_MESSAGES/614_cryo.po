@@ -22,7 +22,7 @@ msgstr "Ich bin ein 614 Sicherheitsbot, einst einers der meistverkauften Produkt
 
 #: 614_cryo.dialog:37
 msgid "614 -- Cryo Lab Guard Bot"
-msgstr ""
+msgstr "614 - Kryo Lab Wachbot"
 
 #: 614_cryo.dialog:42
 msgid "What can you tell me about the Nicholson company?"
@@ -66,31 +66,31 @@ msgstr "Hast du Feindaktivitäten feststellen können?"
 
 #: 614_cryo.dialog:58
 msgid "Order Received. Initiating proximity energy level scan..."
-msgstr ""
+msgstr "Befehle erhalten. Initiieren Energieniveau-Scrian in der Umgebung..."
 
 #: 614_cryo.dialog:59
 msgid "***** Proximity Scan Results *****"
-msgstr ""
+msgstr "***** Umgebungs-Scan-Ergebnisse ***** "
 
 #: 614_cryo.dialog:60
 msgid "Hostile Numeric Presence: HIGH"
-msgstr ""
+msgstr "Zählenmäßige Präsenz des Feindes: HOCH"
 
 #: 614_cryo.dialog:61
 msgid "Enemy Energy Levels: LOW"
-msgstr ""
+msgstr "Gegnerische Energielevel: NIEDRIG"
 
 #: 614_cryo.dialog:62
 msgid "Threat Degree Analysis: MODERATE"
-msgstr ""
+msgstr "Bedrohungsgradanalyse: MODERAT"
 
 #: 614_cryo.dialog:64
 msgid "Cryo Complex Gates Status: CLOSED"
-msgstr ""
+msgstr "Kryo-Komplex Torstatus: GESCHLOSSEN"
 
 #: 614_cryo.dialog:66
 msgid "Cryo Complex Gates Status: OPEN"
-msgstr ""
+msgstr "Kryo-Komplex Torstatus: GEÖFFNET"
 
 #: 614_cryo.dialog:72
 msgid "What can you tell me about the 614 type?"
@@ -121,8 +121,9 @@ msgid "Primary objective: Protect the living beings inside this complex from att
 msgstr "Mein Befehl lautet, die Lebewesen in dieser Niederlassung vor den Angriffen feindlicher Roboter zu schützen."
 
 #: 614_cryo.dialog:85
+#, fuzzy
 msgid "Secondary objective: Protect facility by locking outer gates if Threat Degree Analysis: HIGH."
-msgstr ""
+msgstr "Zweitbefehl: Schütze die Fabrik duch schließen der Tore wenn die Bedrohungsanalyse ist: HOCH."
 
 #: 614_cryo.dialog:91
 msgid "Why are you not hostile as are all the other bots?"
@@ -130,11 +131,11 @@ msgstr "Weshalb bist du nicht, wie all die anderen Robots, feindlich gesinnt?"
 
 #: 614_cryo.dialog:93
 msgid "I belong to a an older generation of bots, running a custom-made security guard operating system."
-msgstr ""
+msgstr "Ich gehöre zu einer älteren Generation von Bots, auf welchen ein maßgeschneidertes Überwachungsbetriebssystem läuft."
 
 #: 614_cryo.dialog:94
 msgid "None of the bots of this generation were affected by the proceedings that led to bots attacking, generally known as the Great Assault."
-msgstr ""
+msgstr "Keiner der Bots dieser Generation waren von dem Vorgängen, welche die Bot zum Angriff brachten, was allgemein als der Große Angriff bekannt ist, in Mitleidenschaft zogen."
 
 #: 614_cryo.dialog:95
 msgid "Even though discontinued from Nicholson, Inc. long ago, today, some people have picked up the work and are even trying to improve the operating system running on my series."

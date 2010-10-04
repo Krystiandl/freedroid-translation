@@ -12,10 +12,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
-"X-Poedit-Country: FRANCE\n"
 "Language: \n"
-"X-Generator: Launchpad (build Unknown)\n"
 "X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Generator: Launchpad (build Unknown)\n"
 
 #: TutorialTom.dialog:51
 msgid "Tutorial Tom"
@@ -314,12 +314,13 @@ msgid "How does wearing clothes and holding shields help me?"
 msgstr "Dans quelle mesure porter des vêtements ou tenir un bouclier m'aide ?"
 
 #: TutorialTom.dialog:204
+#, fuzzy
 msgid "Well, it can help you avoid indecent exposure charges."
-msgstr ""
+msgstr "Hé bien, ca pourrais t'éviter certain problèmes..."
 
 #: TutorialTom.dialog:206
 msgid "But all jokes aside, the bots will not mess around."
-msgstr ""
+msgstr "Mais blagues à part, les robots ne sont pas là pour s'amuser."
 
 #: TutorialTom.dialog:207
 msgid "Even the best of fighters sometimes get hit by enemy blows. If I were you, I would seriously consider wearing some sort of armor before mixing it up with those bots."
@@ -613,7 +614,7 @@ msgstr "D'accord. J'ai déverrouillé la porte menant au premier robot. Occupe t
 
 #: TutorialTom.dialog:326
 msgid "I'm also giving you some health drinks. Feel free to use them, though I can heal you if you need it."
-msgstr ""
+msgstr "Je te donne aussi des potions de soin. Utilise les si tu veux, mais je peux te soigner si tu as besoin."
 
 #: TutorialTom.dialog:327
 #, fuzzy
@@ -630,7 +631,7 @@ msgstr "Reviens et parle moi une fois que tu as récupéré l'Inverseur d'Entrop
 
 #: TutorialTom.dialog:332
 msgid "I'm going to fight my first bot! To start melee combat left click on the bot. Tom wants the Entropy Inverter from the bot after I've defeated it, so I should pick that up."
-msgstr ""
+msgstr "Je vais combattre mon premier robot! Pour démarrer un combat en mélée, il faut faire un clic gauche sur le robot. Tom veut l'Inverseur d'Entropie du robot une fois que je l'aura vaincu, donc je ferais bien de le ramasser."
 
 #: TutorialTom.dialog:338
 msgid "Can you heal me?"
@@ -650,8 +651,9 @@ msgid "I've beaten the first bot."
 msgstr "Je me suis occupé du premier robot."
 
 #: TutorialTom.dialog:349
+#, fuzzy
 msgid "So you have. Well done."
-msgstr ""
+msgstr "Alors tu as réussi. Bien joué."
 
 #: TutorialTom.dialog:350
 msgid "I'll trade you this wrench for it. I think you'll find it handy."
@@ -659,31 +661,32 @@ msgstr ""
 
 #: TutorialTom.dialog:351
 msgid "Now would be an appropriate time to mention bot parts, I guess."
-msgstr ""
+msgstr "Maintenant je suppose que c'est le moment approprié pour parler des composants de robots."
 
 #: TutorialTom.dialog:352
 msgid "Certain parts in the bots are extra valuable. You can sell them at stores for cash."
-msgstr ""
+msgstr "Certaines composants de robots peuvent se vendre dans les magasins à très bon prix."
 
 #: TutorialTom.dialog:353
+#, fuzzy
 msgid "If you can learn to extract these parts, it can help improve your lot in the world."
-msgstr ""
+msgstr "Si tu peux apprendre à extraire ces composants, ça va vraiment te faciliter la tâche."
 
 #: TutorialTom.dialog:354
 msgid "Hopefully, you can find someone to teach you."
-msgstr ""
+msgstr "Heureusement, tu peux trouver quelqu'un qui te l'apprendra."
 
 #: TutorialTom.dialog:357
 msgid "I brought the entropy inverter to Tom and he gave me my first weapon: a Big wrench. I should equip it."
-msgstr ""
+msgstr "J'ai ramené l'Inverseur d'Entropie à Tom, et il m'a donné ma première arme : une gross clef. Je devrais l'équiper."
 
 #: TutorialTom.dialog:360
 msgid "Trying to cheat your way through the tutorial doesn't bode well for your chances in the real world."
-msgstr ""
+msgstr "Essayer de tricher dans le tutorial n'augmente pas tes chances de survie dans le monde réel."
 
 #: TutorialTom.dialog:361
 msgid "I'll need proof that you've beaten the first bot."
-msgstr ""
+msgstr "Je vais avoir besoin de preuve que tu as battu le premier robot."
 
 #: TutorialTom.dialog:362
 msgid "Don't come back without the [b]Entropy Inverter[/b] it was carrying."
@@ -694,215 +697,225 @@ msgid "You mentioned another bot?"
 msgstr "Vous avez parlé d'un autre robot ?"
 
 #: TutorialTom.dialog:370
+#, fuzzy
 msgid "That's correct. The second bot is a lot more dangerous, and you're not likely to make much headway against it with your fists."
-msgstr ""
+msgstr "C'est vrai, le second robot est beaucoup plus dangereux et tu ne vas pas pouvoir le frapper fort avec juste tes poings."
 
 #: TutorialTom.dialog:371
 msgid "Lucky for you, there's another dimension to melee combat."
-msgstr ""
+msgstr "Heureusement pour toi, il y a une autre dimension dans le combat en mêlée."
 
 #: TutorialTom.dialog:372
 msgid "Fighting bots with your fists is fine, but there are a number of items you can use for melee."
-msgstr ""
+msgstr "Combattre les robots avec tes poings est une bonne idée, mais il y a plein d'objets que tu peux utiliser comme arme."
 
 #: TutorialTom.dialog:373
 msgid "There are several traditional weapons in the world such as swords or light sabers that can be used against the bots."
-msgstr ""
+msgstr "Il y a quelques armes traditionnelles telles que des épées ou des sabres lasers qui peuvent être utilisés contre les robots."
 
 #: TutorialTom.dialog:374
+#, fuzzy
 msgid "However, more common items you encounter everyday can often be used to bash or pry at droid armor."
-msgstr ""
+msgstr "Cependant des objets que l'on voit tous les jours peuvent souvent être utilisés pour défoncer une armure de droïde. "
 
 #: TutorialTom.dialog:375
+#, fuzzy
 msgid "For example, that wrench I just gave you will increase the damage you do, and should let you best the next bot."
-msgstr ""
+msgstr "Par exemple cette clef que je viens de te donner, elle augmentera beaucoup les dégâts que tu fais, et devrais ainsi te permettre de battre le prochain robot."
 
 #: TutorialTom.dialog:380
-#, fuzzy
 msgid "I'm ready to take the next bot on."
-msgstr " J'aimerai entrer dans la ville."
+msgstr "Je suis prêt à m'occuper du prochain robot."
 
 #: TutorialTom.dialog:382
 msgid "I certainly hope so. I will heal you before you go to the next room."
-msgstr ""
+msgstr "J'espère bien. Je vais te soigner avant que tu rejoignes la prochaine salle."
 
 #: TutorialTom.dialog:383
 msgid "I'm also giving you another healing drink, just in case."
-msgstr ""
+msgstr "Je te donne aussi une autre potion de soin, au cas où."
 
 #: TutorialTom.dialog:384
 msgid "A 247 is nothing to trifle with, so I'm giving you a shield in the hopes that it'll help keep you alive."
-msgstr ""
+msgstr "Un 247 ne rigole pas, donc je vais aussi te donner un bouclier en espérant qu'il te gardera vivant."
 
 #: TutorialTom.dialog:385
 msgid "Finally, I'm giving you couple of somewhat experimental pills that will temporarily increase your strength and dexterity, respectively."
-msgstr ""
+msgstr "Et pour finir je te donne quelques pilules expérimentales, qui devraient augmenter temporairement ta force et ta dextérité."
 
 #: TutorialTom.dialog:386
 msgid "Use them in the same way you would use a health drink."
-msgstr ""
+msgstr "Utilise les de là même façon que tu utiliserais une potion de soin."
 
 #: TutorialTom.dialog:387
 msgid "If I were you, I would think about using your repair equipment program on your armor and that wrench before you go into the room."
-msgstr ""
+msgstr "Si j'étais toi, j'utiliserais mon programme de réparation d'équipement sur l'armure et la clef avant d'aller dans la prochaine salle."
 
 #: TutorialTom.dialog:388
+#, fuzzy
 msgid "You'll also need to equip them. I won't do that for you."
-msgstr ""
+msgstr "Tu dois aussi les équiper toi même."
 
 #: TutorialTom.dialog:389
 msgid "Like the last bot, this one will be carrying an item. Bring me the [b]Tachyon Condensator[/b] it is carrying to continue."
 msgstr ""
+"Tout comme le robot précédent, celui là transporte un objet. \r\n"
+"Ramène moi le [b]Condensateur de Tachyons[/b] qu'il a pour continuer."
 
 #: TutorialTom.dialog:390
 msgid "I've unlocked the door. Good luck, and talk to me when you have the Tachyon Condensator."
-msgstr ""
+msgstr "J'ai débloqué la porte. Bonne chance, et re-parle moi quand tu auras le Condensateur de Tachyons."
 
 #: TutorialTom.dialog:402
 msgid "I've beaten the second bot."
-msgstr ""
+msgstr "J'ai battu le second robot."
 
 #: TutorialTom.dialog:405
 msgid "Very good! You've completed your melee training."
-msgstr ""
+msgstr "Très bien! Tu as terminé l'entrainement de mêlée."
 
 #: TutorialTom.dialog:406
 msgid "These skills will serve you well in the future."
-msgstr ""
+msgstr "Ces compétences t'aiderons bien dans le futur."
 
 #: TutorialTom.dialog:407
 msgid "As a reward, I'm trading you a .22 Automatic pistol for that Tachyon Condensator."
-msgstr ""
+msgstr "En récompense, je te donne un Pistolet automatique calibre .22 pour ce Condensateur de Tachyons."
 
 #: TutorialTom.dialog:408
 msgid "Talk to me when you're ready to move on to the next part of the tutorial."
-msgstr ""
+msgstr "Parle moi quand tu es prêt à passer à la prochaine partie du tutoriel."
 
 #: TutorialTom.dialog:415
 msgid "You didn't bring back the Tachyon Condensator. You'll need to bring it back before we can continue."
-msgstr ""
+msgstr "Tu n'as pas amené le Condensateur de Tachyons. Tu dois le ramener avant que nous puissions continuer."
 
 #: TutorialTom.dialog:416
+#, fuzzy
 msgid "I'll go ahead and heal you. If your weapon or armor are in bad shape, perhaps you should repair them before going back in there."
-msgstr ""
+msgstr "Je vais y aller et te soigner. Si tes armes et armures sont en mauvais état, tu devrais penser à les réparer avant de retourner là ba."
 
 #: TutorialTom.dialog:417
-#, fuzzy
 msgid "Don't come back without the [b]Tachyon Condensator[/b]."
-msgstr "Ne reviens jamais. Je te déteste."
+msgstr "Ne reviens pas sans le [b]Condensateur de Tachyons[/b]"
 
 #: TutorialTom.dialog:424 TutorialTom.dialog:532
-#, fuzzy
 msgid "I'm ready to move on."
-msgstr " Je dois y aller maintenant."
+msgstr "Je suis prêt à continuer."
 
 #: TutorialTom.dialog:427
+#, fuzzy
 msgid "I decided to move on and go to the shooting tutorial."
-msgstr ""
+msgstr "J'ai décidé de continuer et aller au tutoriel de tir."
 
 #: TutorialTom.dialog:430
 msgid "I'll bet you're itching to try that pistol out on some bots."
-msgstr ""
+msgstr "Je suis sur que tu as très envie d'essayer ce pistolet sur quelques robots."
 
 #: TutorialTom.dialog:431
 msgid "Our next destination is the ranged combat training area, so you're in luck."
-msgstr ""
+msgstr "Et notre prochaine destination est la zone d'entrainement de combat à distance, donc tu as de la chance."
 
 #: TutorialTom.dialog:433
 msgid "I'll unlock the door to the south. Follow the corridor east to the shooting range."
-msgstr ""
+msgstr "Je vais débloquer la porte au sud. Suis le couloir est jusqu'au champ de tir."
 
 #: TutorialTom.dialog:440
+#, fuzzy
 msgid "Ranged weaponry seems safer than getting up close and personal."
-msgstr ""
+msgstr "Utiliser de l'armement à distance semble moins dangereux que de s'approcher."
 
 #: TutorialTom.dialog:442
-#, fuzzy
 msgid "Well, Linarian, most of the time, it is."
-msgstr "Oh, Linarien, tu es trop drôle."
+msgstr "Hé bien, Linarien, la plus part du temps, ça l'est."
 
 #: TutorialTom.dialog:443
 msgid "There are some bots with ranged weaponry, but we don't have any of those in captivity."
-msgstr ""
+msgstr "Il y a certains robots avec de l'armement à distance, mais nous n'en avons aucun en captivité."
 
 #: TutorialTom.dialog:444 TutorialTom.dialog:474 TutorialTom.dialog:497
 #: TutorialTom.dialog:516 TutorialTom.dialog:522 TutorialTom.dialog:550
 #: TutorialTom.dialog:559 TutorialTom.dialog:566
+#, fuzzy
 msgid "Tutorial Shooting"
-msgstr ""
+msgstr "Tutoriel de tir"
 
 #: TutorialTom.dialog:444
 msgid "I am learning about how to use ranged weapons."
-msgstr ""
+msgstr "J'apprends comment utiliser des armes à distance."
 
 #: TutorialTom.dialog:449
-#, fuzzy
 msgid "So what can you tell me about guns?"
-msgstr " Que pouvez vous me dire à propos des gardes ici ?"
+msgstr "Donc qu'est ce que vous pouvez me dire à propos des pistolets ?"
 
 #: TutorialTom.dialog:451
+#, fuzzy
 msgid "The basic idea behind ranged weaponry is to hurt or kill an enemy without having to come in swinging range."
-msgstr ""
+msgstr "L'idée de base derrière le combat à distance est de blesser ou tuer un ennemi sans devoir venir à portée d'attaque en mêlée."
 
 #: TutorialTom.dialog:452
 msgid "There are three basic ways to do this: traditional firearms, lasers, and plasma weapons."
-msgstr ""
+msgstr "Il y a trois types d'armes à distance : les armes à feu traditionnelles, les lasers, et les armes à plasma."
 
 #: TutorialTom.dialog:453
 msgid "Traditional firearms are things that go bang. A small explosion accelerates the ammunition towards the target at a high velocity, causing injury."
-msgstr ""
+msgstr "Les armes traditionnelles sont les trucs qui font BANG. Une petite explosion accélère un projectile à très haute vitesse, blessant sa cible."
 
 #: TutorialTom.dialog:454
 msgid "Lasers use an intensified beam of light to burn through the intended victim. These operate on replaceable charge packs."
-msgstr ""
+msgstr "Les lasers utilisent un intense faisceau lumineux pour brûler la victime. Ils fonctionnent avec des packs de recharge remplaçables."
 
 #: TutorialTom.dialog:455
+#, fuzzy
 msgid "Plasma weapons use superheated ionized gas to burn the target. The gas comes in loadable canisters."
-msgstr ""
+msgstr "Les armes à plasma utilisent du gas ionisé super-chaud pour brûler sa cible. Le gas est chargé en capsules."
 
 #: TutorialTom.dialog:456
 msgid "Most other ranged weapons are variations of these three. We have a few in storage for training purposes."
-msgstr ""
+msgstr "La plus part des autres armes à distance sont des variations de ces trois là. Nous en avons quelques unes en stockage pour l'entraînement."
 
 #: TutorialTom.dialog:461
 msgid "So how do I use guns?"
-msgstr ""
+msgstr "Donc, comment est ce que j'utilise ces armes?"
 
 #: TutorialTom.dialog:463
 msgid "Well, firing is pretty simple. First, equip a ranged weapon that you have ammunition for."
-msgstr ""
+msgstr "Hé bien, tirer est plutôt simple. D'abord, équipes une arme à distance pour laquelle tu as des munitions."
 
 #: TutorialTom.dialog:464
 msgid "Next, simply [b]left click[/b] on your target, and you'll begin firing."
-msgstr ""
+msgstr "Ensuite, fait un [b]clic gauche[/b] sur ta cible et tu vas commencer à tirer."
 
 #: TutorialTom.dialog:465
 msgid "Alternatively, you can fire a single shot using the [b]Fire Weapon[/b] program, and [b]right clicking[/b] on the enemy."
-msgstr ""
+msgstr "Tu peux aussi tirer une seule fois avec le programme [b]Tirer Arme[/b] et en faisant un [b]clic droit[/b] sur l'ennemi."
 
 #: TutorialTom.dialog:466
 msgid "That is the best way if you are trying to conserve precious ammo with high rate of fire guns."
-msgstr ""
+msgstr "C'est le mieux à faire si tu essayes de conserver ces précieuses munitions, surtout avec des armes à haute cadence de tir."
 
 #: TutorialTom.dialog:467
+#, fuzzy
 msgid "There are a couple of new tricks with ranged weapons. If you want to [b]move while firing[/b]: hold [b]shift[/b] and [b]left click[/b] your desired position."
 msgstr ""
+"Il y a de nouveaux trucs qui viennent avec le combat à distance. \r\n"
+"Si tu veux [b]te déplacer en tirant[/b], tu dois garder [b]maj[/b] enfoncé et faire un [b]clic gauche[/b] sur l'endroit où se déplacer."
 
 #: TutorialTom.dialog:468
 msgid "If you'd rather stay in place: Hold [b]A[/b], then [b]left click[/b] your target."
-msgstr ""
+msgstr "Si tu préfères rester sur place, maintiens le bouton [b]A[/b] puis fait un [b]clic gauche[/b] sur ta cible."
 
 #: TutorialTom.dialog:469
 msgid "When your weapon runs out of ammo during combat, it will try to automatically reload if you have extra ammunition for it."
-msgstr ""
+msgstr "Si ton arme est à court de munitions durant le combat, elle se rechargera automatiquement si tu as des munitions pour."
 
 #: TutorialTom.dialog:470
 msgid "Sometimes, you will need or want to manually reload. You can do this by pressing the [b]R key[/b]."
-msgstr ""
+msgstr "Quelques fois tu aura peut-être besoin de recharger manuellement. Tu peux le faire en appuyant sur la [b]touche R[/b]."
 
 #: TutorialTom.dialog:471
 msgid "If you are reloading, or you are out of ammo, the small message screen at the bottom of your HUD will tell you what type of ammo to get."
-msgstr ""
+msgstr "Si tu recharges et n'as plus de munition, un petit message en bas de l'interface te dira quel type de munition il te faut."
 
 #: TutorialTom.dialog:474
 msgid "If I have equipped a ranged weapon and I left click on an enemy, I will begin firing upon it until my gun is empty, and automatically reload. But if I want to fire a single shot, I need to also equip the Fire Weapon program, and then right click. To move while firing, I have to shift + left click to where I want to go. Also, if I want to manually reload I have to press the R key. The small message screen at the bottom of my HUD will tell me if I'm reloading or out of ammunition."
@@ -910,7 +923,7 @@ msgstr ""
 
 #: TutorialTom.dialog:480
 msgid "I think I understand how to use guns now."
-msgstr ""
+msgstr "Je crois que je comprends mieux comment utiliser les armes à distance."
 
 #: TutorialTom.dialog:482
 msgid "In that case, I'll let you in to the armory. There are some crates and chests in there with weapons and ammunition."
@@ -929,9 +942,8 @@ msgid "Here's my personal .22 Automatic pistol. It's not much as guns go, but it
 msgstr ""
 
 #: TutorialTom.dialog:490
-#, fuzzy
 msgid "Here is some more ammunition for it"
-msgstr "Il n'y a rien de plus là dedans."
+msgstr "Voilà quelques munitions pour l'utiliser."
 
 #: TutorialTom.dialog:493
 msgid "You'll no doubt get more mileage out of the plasma pistol, though. Or any other gun, for that matter."
@@ -947,23 +959,23 @@ msgstr ""
 
 #: TutorialTom.dialog:496
 msgid "Once you've gotten rid of them all, we can move on."
-msgstr ""
+msgstr "Une fois que tu te sera débarrassé d'eux, nous pourrons continuer."
 
 #: TutorialTom.dialog:497
 msgid "Tutorial Tom wants me to shoot those bots."
-msgstr ""
+msgstr "Tom Tutorial veut que je tire sur ces robots."
 
 #: TutorialTom.dialog:507
 msgid "I ran out of ammo. Can I have some more?"
-msgstr ""
+msgstr "Je n'ai plus de munitions. Pourrais-je en avoir d'autres ?"
 
 #: TutorialTom.dialog:509
 msgid "Check the storage room to the west for more guns and ammo."
-msgstr ""
+msgstr "Va voir dans la salle de stockage à l'ouest pour récupérer plus d'armes et munitions."
 
 #: TutorialTom.dialog:514
 msgid "I killed all the bots."
-msgstr ""
+msgstr "Je me suis occupé de tous les robots."
 
 #: TutorialTom.dialog:517
 #, fuzzy

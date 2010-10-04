@@ -13,10 +13,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
-"Language: \n"
-"X-Poedit-Language: French\n"
 "X-Poedit-Country: FRANCE\n"
+"Language: \n"
 "X-Generator: Launchpad (build Unknown)\n"
+"X-Poedit-Language: French\n"
 
 #: c-net_sub_nethack.dialog:35
 msgid "nethack"
@@ -35,7 +35,6 @@ msgid "no"
 msgstr "non"
 
 #: c-net_sub_nethack.dialog:81
-#, fuzzy
 msgid "Choose your job."
 msgstr "Choisissez votre métier."
 
@@ -81,7 +80,6 @@ msgid "orc"
 msgstr "orc"
 
 #: c-net_sub_nethack.dialog:224
-#, fuzzy
 msgid "Choose your gender."
 msgstr "Choisissez votre sexe."
 
@@ -101,19 +99,16 @@ msgid "a good"
 msgstr "un bon"
 
 #: c-net_sub_nethack.dialog:271
-#, fuzzy
 msgid "a chaotic"
 msgstr "un chaotique"
 
 #: c-net_sub_nethack.dialog:272 c-net_sub_nethack.dialog:569
-#, fuzzy
 msgid "an evil"
 msgstr "un maléfique"
 
 #: c-net_sub_nethack.dialog:302
-#, fuzzy
 msgid "Hello, welcome to NetHack! You are "
-msgstr "Bonjour et bienvenu dans NetHack! Vous êtes un "
+msgstr "Bonjour et bienvenu dans NetHack! Vous êtes "
 
 #: c-net_sub_nethack.dialog:303
 msgid "Your goddess, [b]"
@@ -128,9 +123,8 @@ msgid "[/b] has hidden at the bottom of this dungeon."
 msgstr "[/b] à caché au fond de ce donjon."
 
 #: c-net_sub_nethack.dialog:304
-#, fuzzy
 msgid "Return with the [b]Amulet of Yendor[/b], and you shall be rewarded!"
-msgstr "Revenez avec l' Amulette de Yendor, et vous serez récompensé!"
+msgstr "Revenez avec l'[b] Amulette de Yendor[/b], et vous serez récompensé!"
 
 #: c-net_sub_nethack.dialog:305
 msgid "You are all alone on the surface. There is a stairway down."
@@ -141,16 +135,14 @@ msgid "The door closes behind you."
 msgstr "La porte se ferme derrière vous."
 
 #: c-net_sub_nethack.dialog:320
-#, fuzzy
 msgid "You find the [b]Amulet of Yendor[/b], and take it and suddenly feel a compulsion to go down, into the depths."
-msgstr "Vous trouvez l'[b]Amulette de Yendor[/b], la prenez, et avez soudain envie d'aller vers le bas - dans les profondeurs."
+msgstr "Vous trouvez l'[b]Amulette de Yendor[/b], la prenez, et avez soudain envie d'aller vers le bas, dans les profondeurs."
 
 #: c-net_sub_nethack.dialog:321
 msgid " awaits you at the surface"
 msgstr "vous attends à la surface"
 
 #: c-net_sub_nethack.dialog:323
-#, fuzzy
 msgid "There is only an exit into the depths."
 msgstr "La seule sortie est dans les profondeurs."
 
@@ -172,14 +164,13 @@ msgstr "Vous trouvez une salle vide."
 
 #: c-net_sub_nethack.dialog:333
 msgid "You drink from the spring at the entrance to the cave."
-msgstr ""
+msgstr "Vous buvez de la source à l'entrée de la cave."
 
 #: c-net_sub_nethack.dialog:333
 msgid "You make a quick trip to the hospital."
 msgstr "Vous faites un rapide passage à l'hôpital"
 
 #: c-net_sub_nethack.dialog:335
-#, fuzzy
 msgid " looks at you with impatience and points you back to the entrance of the dungeon."
 msgstr "vous regarde avec impatience et vous montre l'entrée du donjon."
 
@@ -189,11 +180,11 @@ msgstr "Vous trouvez votre déesse, "
 
 #: c-net_sub_nethack.dialog:335
 msgid ", at lunch. She points back the way you came."
-msgstr ""
+msgstr ", au déjeuner. Elle vous montre le chemin du retour."
 
 #: c-net_sub_nethack.dialog:335
 msgid "You come up and nearly catch "
-msgstr ""
+msgstr "Tu viens et tu l'attrapes presque"
 
 #: c-net_sub_nethack.dialog:335
 msgid " bathing. You quickly head back the way you came."
@@ -216,7 +207,6 @@ msgid "You ascended a "
 msgstr ""
 
 #: c-net_sub_nethack.dialog:341
-#, fuzzy
 msgid " in Nethack!"
 msgstr "dans Nethack!"
 
@@ -238,7 +228,7 @@ msgstr "Vous vous trouvez dans un labyrinthe. Vous entendez une mystérieuse mus
 
 #: c-net_sub_nethack.dialog:349
 msgid "You find yourself inside a Cretaceous limestone cave."
-msgstr ""
+msgstr "Vous vous retrouvez dans une cave boueuse du crétacé."
 
 #: c-net_sub_nethack.dialog:349
 msgid "You find yourself in an abandoned coal mine."
@@ -250,11 +240,11 @@ msgstr "Vous vous trouvez dans une salle inondée."
 
 #: c-net_sub_nethack.dialog:349
 msgid "You find yourself in a passage filled with bones from the ancient past."
-msgstr ""
+msgstr "Vous vous retrouvez dans un passage, rempli d'os des temps anciens."
 
 #: c-net_sub_nethack.dialog:349
 msgid "You find yourself in a room filled with fresh bones."
-msgstr ""
+msgstr "Vous vous trouvez dans une chambre remplie d'ossements frais."
 
 #: c-net_sub_nethack.dialog:349
 msgid "You find yourself in a room filled with rotting corpses."
@@ -274,11 +264,11 @@ msgstr "Vous vous trouvez dans une salle de yoga."
 
 #: c-net_sub_nethack.dialog:349
 msgid "You lose yourself in a misty passageway."
-msgstr ""
+msgstr "Vous vous perdez dans un passage brumeux."
 
 #: c-net_sub_nethack.dialog:349
 msgid "You find yourself in a room filled with blinking lights."
-msgstr ""
+msgstr "Vous vous trouvez dans une chambre remplie de lumières aveuglantes."
 
 #: c-net_sub_nethack.dialog:349
 msgid "You find youself in a lava tube."
@@ -626,7 +616,7 @@ msgstr ""
 
 #: c-net_sub_nethack.dialog:420
 msgid "You freeze the middle of the "
-msgstr ""
+msgstr "Vous gelez le milieu du"
 
 #: c-net_sub_nethack.dialog:420
 msgid "Your fist of wrath smites the "

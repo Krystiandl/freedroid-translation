@@ -220,19 +220,16 @@ msgid "I just closed your first quest. You can still see what you learned by cli
 msgstr ""
 
 #: TutorialTom.dialog:155
-#, fuzzy
 msgid "I'm eager to learn more."
-msgstr " Ich muss los."
+msgstr "Ich möchte noch mehr lernen."
 
 #: TutorialTom.dialog:157
-#, fuzzy
 msgid "Ok, follow me into the next area."
-msgstr "Gut, folge mir also in den nächsten Bereich."
+msgstr "Gut, folge mir in den nächsten Bereich."
 
 #: TutorialTom.dialog:169
-#, fuzzy
 msgid "What is in that chest?"
-msgstr " Was ist das hier für ein Ort?"
+msgstr "Was befindet sich in der Kiste?"
 
 #: TutorialTom.dialog:171
 msgid "Well, you can interact with several types of objects by simply [b]left clicking[/b] on them."
@@ -246,11 +243,11 @@ msgstr ""
 #: TutorialTom.dialog:332 TutorialTom.dialog:357 TutorialTom.dialog:426
 #: TutorialTom.dialog:427
 msgid "Tutorial Melee"
-msgstr ""
+msgstr "Einführung Nahkampf"
 
 #: TutorialTom.dialog:173
 msgid "I'm supposed to left click on chests to open them up."
-msgstr ""
+msgstr "Ich soll Truhen mit der linken Maustaste anklicken um sie zu öffnen."
 
 #: TutorialTom.dialog:179
 msgid "Some items came out."
@@ -380,12 +377,10 @@ msgid "If you don't unequip an item in poor or critical condition it may be ruin
 msgstr "Wenn ein solches Teil dann nicht ins Inventar zurückgelegt wird, besteht die Gefahr, dass es ruiniert wird."
 
 #: TutorialTom.dialog:232
-#, fuzzy
 msgid "There are three things you can do when an item reaches critical condition:"
 msgstr "Es gibt drei Möglichkeiten, wenn ein Gegenstand einen bedenklichen Zustand erreicht hat."
 
 #: TutorialTom.dialog:233
-#, fuzzy
 msgid "First, you can sell or discard the item."
 msgstr "Die erste ist, das Teil zu verkaufen oder wegzuwerfen."
 
@@ -409,8 +404,9 @@ msgid "Well, I can think of a few reasons."
 msgstr "Tja, dann kann ich das Tor nicht öffnen."
 
 #: TutorialTom.dialog:243
+#, fuzzy
 msgid "You might not have enough room in your inventory for an item you need more, or can sell for more."
-msgstr ""
+msgstr "Es kann sein, dass du nicht mehr genug Freiraum in deinem Inventar für einen Gegenstand, der eigendlich mehr benötigt, hast, oder das du für mehr verkaufen kannst."
 
 #: TutorialTom.dialog:244
 msgid "If an item is close to being destroyed, you might also consider dropping it."
@@ -418,11 +414,12 @@ msgstr "Wenn etwas kurz davor ist, auseinanderzufallen, könntest du ebenfalls i
 
 #: TutorialTom.dialog:245
 msgid "And finally some items give negative status effects, and aren't worth selling."
-msgstr ""
+msgstr "Es gibt auch Gegenstände, die sich negativ auf dich auswirken, solche solltest du nicht kaufen."
 
 #: TutorialTom.dialog:246
+#, fuzzy
 msgid "Armor or weapons may affect you in different ways."
-msgstr ""
+msgstr "Rüstung und Waffen können sich in vieler verschiedener Weise auswirken."
 
 #: TutorialTom.dialog:247
 #, fuzzy
@@ -430,13 +427,12 @@ msgid "Some will help you out, for example by increasing your cooling rate or in
 msgstr "Einige werden dich unterstützen, beispielsweise, indem sie deine Kühlungsrate oder Geschicklichkeit erhöhen. Die Auswirkung spezialisierter Nanobots."
 
 #: TutorialTom.dialog:252
-#, fuzzy
 msgid "Repair equipment program? How do I use that?"
 msgstr "Reparatur-Fertigkeiten? Wie setzte ich sie ein?"
 
 #: TutorialTom.dialog:254
 msgid "Perhaps I should start by explaining programs in general."
-msgstr ""
+msgstr "Vieleicht sollte ich anfangen, allgemein Programme zu erklären."
 
 #: TutorialTom.dialog:255
 msgid "To use a program, select it through your HUD (remember the [b]S key[/b] toggles your [b]Skills/Program menu[/b])."

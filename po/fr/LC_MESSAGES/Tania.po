@@ -174,9 +174,8 @@ msgid "It is strange to see a girl in such a beautiful dress here."
 msgstr "C'est étrange de voir une fille dans une si jolie robe ici."
 
 #: Tania.dialog:153
-#, fuzzy
 msgid "I'm going to spend all my life here! So forgive me some little indulgences."
-msgstr "Je vais passer toute ma vie ici ! Donc pardonne moi pour ces petits détails."
+msgstr "Je vais passer toute ma vie ici ! Donc fais moi quelques indulgences."
 
 #: Tania.dialog:158
 msgid "Maybe is it possible to disable the guns?"
