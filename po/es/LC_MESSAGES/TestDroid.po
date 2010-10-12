@@ -1,3 +1,4 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
@@ -6,18 +7,16 @@ msgstr ""
 "PO-Revision-Date: 2010-06-02 07:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
-"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: TestDroid.dialog:41
-msgid ""
-"This is a MegaSys test bot, running a very basic version of their OS. I can "
-"do nothing with this bot, because it doesn't know how to do anything."
-msgstr ""
+msgid "This is a MegaSys test bot, running a very basic version of their OS. I can do nothing with this bot, because it doesn't know how to do anything."
+msgstr "Este es un robot de test MegaSys, que corre con una versión básica de su Sistema Operativo. No puedo hacer nada con este robot, ya que no sabe hacer nada."
 
 #: TestDroid.dialog:47
 msgid "logout"
-msgstr ""
+msgstr "saliendo"
