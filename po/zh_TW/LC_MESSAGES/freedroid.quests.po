@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"PO-Revision-Date: 2010-10-04 18:58+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: freedroid.quests:36
+msgid "Bender's problem"
+msgstr ""
+
+#: freedroid.quests:43
+msgid "The yellow toolkit"
+msgstr ""
+
+#: freedroid.quests:50
+msgid "Anything but the army snacks, please!"
+msgstr ""
+
+#: freedroid.quests:57
+msgid "Novice Arena"
+msgstr ""
+
+#: freedroid.quests:61
+msgid "Novice arena cleared!"
+msgstr ""
+
+#: freedroid.quests:62 freedroid.quests:75 freedroid.quests:96
+msgid "Level cleared!"
+msgstr ""
+
+#: freedroid.quests:70
+msgid "Time to say goodnight"
+msgstr ""
+
+#: freedroid.quests:74
+msgid "Master arena cleared. Good job, man."
+msgstr ""
+
+#: freedroid.quests:83
+msgid "Opening a can of bots..."
+msgstr ""
+
+#: freedroid.quests:91
+msgid "And there was light..."
+msgstr ""
+
+#: freedroid.quests:95
+msgid "All hostiles on level disabled."
+msgstr ""
+
+#: freedroid.quests:105
+msgid "A kingdom for a cluster!"
+msgstr ""
+
+#: freedroid.quests:112
+msgid "Opening access to MS Office"
+msgstr ""
+
+#: freedroid.quests:123
+msgid "Propagating a faulty firmware"
+msgstr ""
+
+#: freedroid.quests:130
+msgid "SADD's power supply"
+msgstr ""
+
+#: freedroid.quests:137
+msgid "Tania's sanitary"
+msgstr ""
+
+#: freedroid.quests:144
+msgid "Saving the shop"
+msgstr ""
+
+#: freedroid.quests:151
+msgid "Doing Duncan a favor"
+msgstr ""
+
+#: freedroid.quests:158
+msgid "Tutorial Movement"
+msgstr ""
+
+#: freedroid.quests:165
+msgid "Tutorial Melee"
+msgstr ""
+
+#: freedroid.quests:168
+msgid "Melee droids destroyed!"
+msgstr ""
+
+#: freedroid.quests:176
+msgid "Tutorial Shooting"
+msgstr ""
+
+#: freedroid.quests:179
+msgid "Shooting range cleared!"
+msgstr ""
+
+#: freedroid.quests:187
+msgid "Tutorial Hacking"
+msgstr ""
+
+#: freedroid.quests:190
+msgid "Hacking area cleared!"
+msgstr ""
+
+#: freedroid.quests:198
+msgid "A strange guy stealing from town"
+msgstr ""
+
+#: freedroid.quests:207
+msgid "Deliverance"
+msgstr ""
+
+#: freedroid.quests:214
+msgid "Tutorial Upgrading Items"
+msgstr ""
+
+#: freedroid.quests:216
+msgid "Tutorial Upgrading Items finished!"
+msgstr ""

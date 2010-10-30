@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"PO-Revision-Date: 2010-10-04 18:58+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Terminal.dialog:38
+msgid "Welcome to this terminal."
+msgstr ""
+
+#: Terminal.dialog:40
+msgid "Hello."
+msgstr ""
+
+#: Terminal.dialog:40
+msgid "Hi there."
+msgstr ""
+
+#: Terminal.dialog:41
+msgid "Well, hello again."
+msgstr ""
+
+#: Terminal.dialog:41
+msgid "Hello hello."
+msgstr ""
+
+#: Terminal.dialog:41
+msgid "Welcome back."
+msgstr ""
+
+#: Terminal.dialog:47
+msgid "help"
+msgstr ""
+
+#: Terminal.dialog:49
+msgid "Available commands: logout"
+msgstr ""
+
+#: Terminal.dialog:53
+msgid "logout"
+msgstr ""
+
+#: Terminal.dialog:55
+msgid "Goodbye"
+msgstr ""

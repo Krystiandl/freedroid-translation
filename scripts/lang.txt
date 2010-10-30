@@ -1,1 +1,1 @@
-ar  bn  el  fr  de  ru  sv  hu  es pl
+ar  bn  el  fr  de  ru  sv  hu  es pl zh_TW

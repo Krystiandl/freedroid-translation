@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"PO-Revision-Date: 2010-10-04 18:58+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: DSB-PowerControlGate1.dialog:37
+msgid "Login : "
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:38
+msgid "admin"
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:39
+msgid "Password : "
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:40
+msgid "*******"
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:41
+msgid "Login failed. Entering as Guest"
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:42
+msgid " "
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:43
+msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:53
+msgid "GAME BUG. PLEASE REPORT."
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:59
+msgid "open gate"
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:62 DSB-PowerControlGate1.dialog:66
+#: DSB-PowerControlGate1.dialog:80
+msgid "Gate status: CLOSED"
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:63
+msgid "Security Access to this area not granted."
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:64
+msgid ""
+"Contact personnel in Machine Deck Control Room if you believe this to be in "
+"error."
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:67
+msgid "Access granted. Opening gate ..."
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:68 DSB-PowerControlGate1.dialog:78
+msgid "Gate status: OPEN"
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:76
+msgid "close gate"
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:79
+msgid "Access granted. Closing gate ..."
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:87
+msgid "Debug: give cookie"
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:91
+msgid "Cookie cheated"
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:93
+msgid "Cookie already cheated"
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:99
+msgid "logout"
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:101
+msgid "Exiting"
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:102
+msgid "Have a nice day."
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:102
+msgid "Have a wonderful day."
+msgstr ""
+
+#: DSB-PowerControlGate1.dialog:102
+msgid "Hope your day will be most productive."
+msgstr ""

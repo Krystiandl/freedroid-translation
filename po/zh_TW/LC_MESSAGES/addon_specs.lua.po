@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"PO-Revision-Date: 2010-10-04 18:58+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: addon_specs.lua:65
+msgid "Linarian power crank"
+msgstr ""
+
+#: addon_specs.lua:74
+msgid "Tungsten spikes"
+msgstr ""
+
+#: addon_specs.lua:83
+msgid "Tinfoil patch"
+msgstr ""
+
+#: addon_specs.lua:92
+msgid "Laser sight"
+msgstr ""
+
+#: addon_specs.lua:101
+msgid "Exoskeletal joint"
+msgstr ""
+
+#: addon_specs.lua:110
+msgid "Heatsink"
+msgstr ""
+
+#: addon_specs.lua:119
+msgid "Peltier element"
+msgstr ""
+
+#: addon_specs.lua:128
+msgid "Steel mesh"
+msgstr ""
+
+#: addon_specs.lua:137
+msgid "Shock discharger"
+msgstr ""
+
+#: addon_specs.lua:146
+msgid "Silencer"
+msgstr ""
+
+#: addon_specs.lua:155
+msgid "Coprocessor"
+msgstr ""
+
+#: addon_specs.lua:163
+msgid "Pedometer"
+msgstr ""
+
+#: addon_specs.lua:172
+msgid "Foot warmer"
+msgstr ""
+
+#: addon_specs.lua:181
+msgid "Circuit jammer"
+msgstr ""
+
+#: addon_specs.lua:190
+msgid "Sensor disruptor"
+msgstr ""
+
+#: addon_specs.lua:199
+msgid "Headlamp"
+msgstr ""
+
+#: addon_specs.lua:208
+msgid "Brain stimulator"
+msgstr ""
