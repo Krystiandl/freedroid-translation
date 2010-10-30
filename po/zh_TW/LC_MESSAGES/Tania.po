@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"PO-Revision-Date: 2010-10-04 18:58+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Tania.dialog:38 Tania.dialog:41 Tania.dialog:175 Tania.dialog:202
+msgid "Tania's sanitary"
+msgstr ""
+
+#: Tania.dialog:49
+msgid "Um, hi."
+msgstr ""
+
+#: Tania.dialog:51
+msgid "Oh! It happened! I have been waiting for you for 3226 hours!"
+msgstr ""
+
+#: Tania.dialog:56
+msgid "You knew I would come?"
+msgstr ""
+
+#: Tania.dialog:58
+msgid "Of course, my little imaginary friend!"
+msgstr ""
+
+#: Tania.dialog:63
+msgid "Imaginary?! I am as real as you are."
+msgstr ""
+
+#: Tania.dialog:65
+msgid ""
+"This place is locked. Hermetically sealed and guarded by bots. So you can't "
+"possibly be anything more than the product of my imagination."
+msgstr ""
+
+#: Tania.dialog:66
+msgid "But who are you?"
+msgstr ""
+
+#: Tania.dialog:67
+msgid "A figment of my imagination should know my name: Tania."
+msgstr ""
+
+#: Tania.dialog:68
+msgid "Tania - lonely scientist"
+msgstr ""
+
+#: Tania.dialog:73
+msgid "Where am I?"
+msgstr ""
+
+#: Tania.dialog:75
+msgid ""
+"In a prison, a luxurious prison. I am feeling quite lonely, as you can see. "
+"Big room, plenty of food, a waterfall behind the window..."
+msgstr ""
+
+#: Tania.dialog:80
+msgid ""
+"All I see through the window are ray emitters. And we are below ground "
+"level.."
+msgstr ""
+
+#: Tania.dialog:82
+msgid ""
+"Yes, I know. But I so badly want to see sun, rivers, trees... there "
+"definitely is waterfall behind them!"
+msgstr ""
+
+#: Tania.dialog:87
+msgid "It is dark here."
+msgstr ""
+
+#: Tania.dialog:89
+msgid ""
+"The main power supply is down, so only the emergency lights work. Peter "
+"tried to switch it back on, but he didn't succeed."
+msgstr ""
+
+#: Tania.dialog:94
+msgid "This place doesn't look like a prison."
+msgstr ""
+
+#: Tania.dialog:96
+msgid ""
+"In the past it was a secret lab. You heard about those strength pills? They "
+"were invented here. Other pills too, but I was working on the strength ones."
+msgstr ""
+
+#: Tania.dialog:101
+msgid "Can you give me some pills then?"
+msgstr ""
+
+#: Tania.dialog:103
+msgid "No, Peter ate them all. That killed him."
+msgstr ""
+
+#: Tania.dialog:104 Tania.dialog:108
+msgid "*cries*"
+msgstr ""
+
+#: Tania.dialog:105
+msgid "They say that strength pills are absolutely safe!"
+msgstr ""
+
+#: Tania.dialog:106
+msgid ""
+"They are like money. Having money is good, but if you have too much, you can "
+"decide that you can do anything."
+msgstr ""
+
+#: Tania.dialog:107
+msgid ""
+"Peter became not very strong, but very-very-very strong. He thought he could "
+"make an exit with his bare hands."
+msgstr ""
+
+#: Tania.dialog:109
+msgid ""
+"If you go further down the corridor, you will find debris and a big stone. "
+"That is his grave."
+msgstr ""
+
+#: Tania.dialog:114
+msgid "So you are a biologist? Could you heal me?"
+msgstr ""
+
+#: Tania.dialog:116
+msgid ""
+"That would be something different from what I've done in the last months at "
+"least. Some entertainment."
+msgstr ""
+
+#: Tania.dialog:117
+msgid ""
+"Let me take a look at that... it's nothing some nanobots couldn't take care "
+"of.... You will be all fixed up in a minute."
+msgstr ""
+
+#: Tania.dialog:117
+msgid "You are now completely healed. You should take better care of yourself."
+msgstr ""
+
+#: Tania.dialog:122
+msgid "You loved him?"
+msgstr ""
+
+#: Tania.dialog:124
+msgid "I still do."
+msgstr ""
+
+#: Tania.dialog:129
+msgid "But why not go out through the door?"
+msgstr ""
+
+#: Tania.dialog:131
+msgid ""
+"It is locked and very reliable. Even a tank would not be able to smash it! "
+"And if a door was broken, SADDs would attack, that's their program."
+msgstr ""
+
+#: Tania.dialog:136
+msgid "Autoguns have made a hole in the wall. I came through this hole."
+msgstr ""
+
+#: Tania.dialog:138
+msgid "Do you mean I can go out to the surface?!"
+msgstr ""
+
+#: Tania.dialog:139
+msgid ""
+"Oh god! I - I told Peter that he chose the wrong place, but he was so "
+"stubborn!"
+msgstr ""
+
+#: Tania.dialog:144
+msgid "Yes, you can get to the surface. But the guns are still on."
+msgstr ""
+
+#: Tania.dialog:146
+msgid "All hope is lost! I'm a scientist, not a warrior."
+msgstr ""
+
+#: Tania.dialog:151
+msgid "It is strange to see a girl in such a beautiful dress here."
+msgstr ""
+
+#: Tania.dialog:153
+msgid ""
+"I'm going to spend all my life here! So forgive me some little indulgences."
+msgstr ""
+
+#: Tania.dialog:158
+msgid "Maybe is it possible to disable the guns?"
+msgstr ""
+
+#: Tania.dialog:160
+msgid ""
+"Theoretically yes, but in practice I'm not sure you would be able to do that."
+msgstr ""
+
+#: Tania.dialog:165
+msgid "How can I disable the guns?"
+msgstr ""
+
+#: Tania.dialog:167
+msgid ""
+"Somewhere in a distant part of the lab should be an SACD - Secret Area "
+"Control Droid. It controls all the defense systems in the base. If you "
+"manage to persuade it, you would be able to control the base. However, it's "
+"very hard to find and get to the SACD."
+msgstr ""
+
+#: Tania.dialog:172
+msgid "I will disable the guns for you."
+msgstr ""
+
+#: Tania.dialog:174
+msgid ""
+"Thanks... please be careful. You will not be able to access the control "
+"center directly, it is behind a triple hermetic door. Try using the service "
+"tunnels."
+msgstr ""
+
+#: Tania.dialog:175
+msgid ""
+"I have met a girl locked in a secret area. If I manage to disable the "
+"autoguns, she will be able to go to the surface and look at the sun again."
+msgstr ""
+
+#: Tania.dialog:180
+msgid "Why not just open them? There should be a way of unlocking the base."
+msgstr ""
+
+#: Tania.dialog:182
+msgid ""
+"To open the door you need to know the password. Only the commander of the "
+"area and his deputy knew it. The commander was killed by bots as soon as the "
+"assault started, and the deputy was in town, I don't know what happened to "
+"him."
+msgstr ""
+
+#: Tania.dialog:187
+msgid "Carpets, sofa, bookshelfs. Where did you get all this?"
+msgstr ""
+
+#: Tania.dialog:189
+msgid ""
+"Peter did all he could to make this room comfortable. The sofa and armchair "
+"are from the commanders cabinet, the books are from the lounge..."
+msgstr ""
+
+#: Tania.dialog:194
+msgid "The sentry guns are off. You can go now!"
+msgstr ""
+
+#: Tania.dialog:196
+msgid ""
+"Thanks, thanks a lot! Now I will be able to see the sun, trees, rivers... I "
+"missed those so much!"
+msgstr ""
+
+#: Tania.dialog:197
+msgid "I hope these books will help you survive in this world."
+msgstr ""
+
+#: Tania.dialog:198
+msgid "Tania is now free!"
+msgstr ""
+
+#: Tania.dialog:202
+msgid "Tania is free now, I got some books as reward."
+msgstr ""
+
+#: Tania.dialog:207
+msgid "Where can I find that SACD?"
+msgstr ""
+
+#: Tania.dialog:209
+msgid ""
+"To the right from the entrance of the area, there is a hall. In the south "
+"part of this hall you will find a triple hermetic door. The control center "
+"is behind that door. But it is locked, so you will have to find another way "
+"there. The cable collectors may help you."
+msgstr ""
+
+#: Tania.dialog:213
+msgid "Are you staying here? I can help you get to the town."
+msgstr ""
+
+#: Tania.dialog:215
+msgid "No, thanks. I don't want to go far from Peter."
+msgstr ""
+
+#: Tania.dialog:220
+msgid "I think I have to go."
+msgstr ""
+
+#: Tania.dialog:222
+msgid "That's ok. But please, please, come back. I'm so lonely."
+msgstr ""
+
+#: Tania.dialog:222
+msgid "Please come back again and get me out of here."
+msgstr ""

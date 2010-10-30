@@ -1,0 +1,162 @@
+#: Cryo-Terminal.dialog:36
+msgid "Welcome to [b]Cryogenic Solutions[/b]!"
+msgstr ""
+
+#: Cryo-Terminal.dialog:37
+msgid "We freeze you today, so you can see tomorrow!"
+msgstr ""
+
+#: Cryo-Terminal.dialog:37 Cryo-Terminal.dialog:58
+msgid "Take the fast trip to the future with Cryogenic Solutions!"
+msgstr ""
+
+#: Cryo-Terminal.dialog:38
+msgid "Please make your selection to learn more!"
+msgstr ""
+
+#: Cryo-Terminal.dialog:45
+msgid "Admin mode."
+msgstr ""
+
+#: Cryo-Terminal.dialog:54
+msgid "about"
+msgstr ""
+
+#: Cryo-Terminal.dialog:56
+msgid "Cryogenic Solutions is a full service cryogenic company."
+msgstr ""
+
+#: Cryo-Terminal.dialog:57
+msgid ""
+"We provide not only full cryostasis, but post-stasis reintegration into the "
+"world of tomorrow!"
+msgstr ""
+
+#: Cryo-Terminal.dialog:59
+msgid "Cryogenic Solutions, since "
+msgstr ""
+
+#: Cryo-Terminal.dialog:59
+msgid ", is the name people trust in cryogenics!"
+msgstr ""
+
+#: Cryo-Terminal.dialog:65 Cryo-Terminal.dialog:68
+msgid "appointments and visiting hours"
+msgstr ""
+
+#: Cryo-Terminal.dialog:69
+msgid "Cryogenic Solutions operates 24 hours a day every day of the year."
+msgstr ""
+
+#: Cryo-Terminal.dialog:70
+msgid "However for the safety of our clients, visiting hours are restricted."
+msgstr ""
+
+#: Cryo-Terminal.dialog:71
+msgid ""
+"Visiting hours for family and friends are by appointment only [b]Monday-"
+"Thursday 10:00-14:00[/b]."
+msgstr ""
+
+#: Cryo-Terminal.dialog:72
+msgid ""
+"Prospective clients are welcome to make appointments from [b]15:00-17:00 "
+"Fridays[/b]."
+msgstr ""
+
+#: Cryo-Terminal.dialog:78 Cryo-Terminal.dialog:81
+msgid "pricing"
+msgstr ""
+
+#: Cryo-Terminal.dialog:82
+msgid "Seeing the distant future is priceless."
+msgstr ""
+
+#: Cryo-Terminal.dialog:83
+msgid ""
+"But we here at Cryogenic Solutions understand that you and your loved ones "
+"have a budget. So we offer a wide range of products to make your trip to the "
+"future affordable."
+msgstr ""
+
+#: Cryo-Terminal.dialog:84
+msgid "Make an appointment today!"
+msgstr ""
+
+#: Cryo-Terminal.dialog:90 Cryo-Terminal.dialog:93
+msgid "advantages"
+msgstr ""
+
+#: Cryo-Terminal.dialog:94
+msgid "Are you looking to experience a whole new reality?"
+msgstr ""
+
+#: Cryo-Terminal.dialog:95
+msgid "Or are you interested in finding out what happens?"
+msgstr ""
+
+#: Cryo-Terminal.dialog:96
+msgid "Or maybe you want to see what compounded interest can do for you?"
+msgstr ""
+
+#: Cryo-Terminal.dialog:97
+msgid ""
+"These are just some of the many advantages of taking the fast trip to the "
+"future with Cryogenic Solutions!"
+msgstr ""
+
+#: Cryo-Terminal.dialog:108
+msgid "Enter command code"
+msgstr ""
+
+#: Cryo-Terminal.dialog:111
+msgid "Unlocked. Entering admin mode..."
+msgstr ""
+
+#: Cryo-Terminal.dialog:118
+msgid "guest mode"
+msgstr ""
+
+#: Cryo-Terminal.dialog:122
+msgid "Entering user mode..."
+msgstr ""
+
+#: Cryo-Terminal.dialog:129
+msgid "gate status"
+msgstr ""
+
+#: Cryo-Terminal.dialog:132 Cryo-Terminal.dialog:162
+msgid "Cryo Complex Gates status: CLOSED"
+msgstr ""
+
+#: Cryo-Terminal.dialog:135 Cryo-Terminal.dialog:149
+msgid "Cryo Complex Gates status: OPEN"
+msgstr ""
+
+#: Cryo-Terminal.dialog:138
+msgid "GAME BUG. PLEASE REPORT."
+msgstr ""
+
+#: Cryo-Terminal.dialog:144 Cryo-Terminal.dialog:147
+msgid "open gates"
+msgstr ""
+
+#: Cryo-Terminal.dialog:148
+msgid "Access granted. Opening gates ..."
+msgstr ""
+
+#: Cryo-Terminal.dialog:157 Cryo-Terminal.dialog:160
+msgid "close gates"
+msgstr ""
+
+#: Cryo-Terminal.dialog:161
+msgid "Access granted. Closing gates ..."
+msgstr ""
+
+#: Cryo-Terminal.dialog:170 Cryo-Terminal.dialog:173
+msgid "leave"
+msgstr ""
+
+#: Cryo-Terminal.dialog:174
+msgid "Exiting Session"
+msgstr ""

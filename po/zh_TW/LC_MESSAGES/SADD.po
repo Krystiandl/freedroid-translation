@@ -1,0 +1,410 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"PO-Revision-Date: 2010-10-04 18:58+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: SADD.dialog:38
+msgid ""
+"Your bio checksum does not trigger a match in staff database. Please show "
+"proper credentials or leave the premises at once."
+msgstr ""
+
+#: SADD.dialog:40 SADD.dialog:41 SADD.dialog:192 SADD.dialog:207
+#: SADD.dialog:229
+msgid "SADD's power supply"
+msgstr ""
+
+#: SADD.dialog:55
+msgid "Who are you and what are you doing?"
+msgstr ""
+
+#: SADD.dialog:57
+msgid "I am a SADD - Secret Area Defence Droid."
+msgstr ""
+
+#: SADD.dialog:58
+msgid "SADD - Secret Area Defence Droid"
+msgstr ""
+
+#: SADD.dialog:59 SADD.dialog:127
+msgid "PRIMARY TARGET 1: do not let unauthorized people in."
+msgstr ""
+
+#: SADD.dialog:60 SADD.dialog:128 SADD.dialog:132
+msgid "PRIMARY TARGET 2: authorized personnel must have access to the zone."
+msgstr ""
+
+#: SADD.dialog:61 SADD.dialog:69 SADD.dialog:129
+msgid "SECONDARY TARGET: prevent secret information leakage"
+msgstr ""
+
+#: SADD.dialog:67
+msgid "What is this place?"
+msgstr ""
+
+#: SADD.dialog:70
+msgid "*INFO* secret information theft attempt detected"
+msgstr ""
+
+#: SADD.dialog:71
+msgid "Go away. You are not allowed to be here!"
+msgstr ""
+
+#: SADD.dialog:77
+msgid "Why are you not hostile?"
+msgstr ""
+
+#: SADD.dialog:79
+msgid "Hostile? What do you mean?"
+msgstr ""
+
+#: SADD.dialog:80
+msgid "I mean, you are not attacking me... Don't you kill like other bots?"
+msgstr ""
+
+#: SADD.dialog:81
+msgid ""
+"I do! I do! I kill humans, bots, linarians and even dogs, cats and other "
+"animals! I would kill anybody!"
+msgstr ""
+
+#: SADD.dialog:82
+msgid "Em.. Anybody who would try to get in, of course."
+msgstr ""
+
+#: SADD.dialog:88
+msgid "What about the Great Assault?"
+msgstr ""
+
+#: SADD.dialog:90
+msgid "For security reasons, SADDs are not equipped with wireless modules."
+msgstr ""
+
+#: SADD.dialog:91
+msgid ""
+"I know only that I have to be recharged, checked and have my firmware "
+"updated every 3 months."
+msgstr ""
+
+#: SADD.dialog:92
+msgid "When does your last maintenance date back to?"
+msgstr ""
+
+#: SADD.dialog:93
+msgid ""
+"One year and a half ago. My accumulator is nearly empty, so I'm going to "
+"halt soon. Gates will become unguarded..."
+msgstr ""
+
+#: SADD.dialog:94
+msgid "*INFO* secret information theft detected!"
+msgstr ""
+
+#: SADD.dialog:95
+msgid "*INFO* information classified as critical!"
+msgstr ""
+
+#: SADD.dialog:96
+msgid "*INFO* locking zone!"
+msgstr ""
+
+#: SADD.dialog:105
+msgid "What have you done?! How am I supposed to get out of here?"
+msgstr ""
+
+#: SADD.dialog:107
+msgid "You are not. You have secret information, so I won't let you out."
+msgstr ""
+
+#: SADD.dialog:108
+msgid "Why not kill me immediately?"
+msgstr ""
+
+#: SADD.dialog:109
+msgid ""
+"And stand here alone until I die? While you are here I can speak with you. "
+"Oh, I haven't spoken to anybody for a looong time!"
+msgstr ""
+
+#: SADD.dialog:115
+msgid ""
+"I'm thirsty and hungry. I will die within days, and you will not have an "
+"interlocutor any more!"
+msgstr ""
+
+#: SADD.dialog:117
+msgid "My power supply will deplete earlier."
+msgstr ""
+
+#: SADD.dialog:122
+msgid "You speak almost like a human..."
+msgstr ""
+
+#: SADD.dialog:124
+msgid "Maybe I'm almost like a human?"
+msgstr ""
+
+#: SADD.dialog:125
+msgid ""
+"Anyway, that's none of your business. Soon I'll be dead. You will be too, "
+"and nobody will enter this place ever again!"
+msgstr ""
+
+#: SADD.dialog:126
+msgid "What are your orders again?"
+msgstr ""
+
+#: SADD.dialog:130
+msgid "Why do you ask?"
+msgstr ""
+
+#: SADD.dialog:131
+msgid "Tell me your second order once more..."
+msgstr ""
+
+#: SADD.dialog:133
+msgid "Yes, it will be violated. But first order has higher priority."
+msgstr ""
+
+#: SADD.dialog:134
+msgid "So you can disobey your orders?"
+msgstr ""
+
+#: SADD.dialog:135
+msgid ""
+"I've already disobeyed them, when I told you what I shouldn't have. That's "
+"because of my human nature."
+msgstr ""
+
+#: SADD.dialog:141
+msgid "Then please, break the rules, disable the guns and let me go."
+msgstr ""
+
+#: SADD.dialog:143
+msgid "No way. I'm a computer, I can't break rules."
+msgstr ""
+
+#: SADD.dialog:144
+msgid "And what about your human nature?"
+msgstr ""
+
+#: SADD.dialog:145
+msgid "Human? I said human? I'm a computer!"
+msgstr ""
+
+#: SADD.dialog:146
+msgid "OK, I'm almost a computer."
+msgstr ""
+
+#: SADD.dialog:147 SADD.dialog:163
+msgid "Almost a computer? What does that mean?"
+msgstr ""
+
+#: SADD.dialog:148
+msgid ""
+"It means what it means! Nothing more, nothing less! Shut up, little piece of "
+"biomass!"
+msgstr ""
+
+#: SADD.dialog:155
+msgid ""
+"I suggest a deal. You let me out, I bring you dilithium crystals. It will "
+"save both of us."
+msgstr ""
+
+#: SADD.dialog:157
+msgid "Why would I trust you?"
+msgstr ""
+
+#: SADD.dialog:165
+msgid ""
+"When I say SHUT UP, you MUST shut up! Try this, worthless grain of the "
+"universe!"
+msgstr ""
+
+#: SADD.dialog:166
+msgid "SADD -- Exterminate Mode"
+msgstr ""
+
+#: SADD.dialog:171
+msgid "You must promise me a significant reward."
+msgstr ""
+
+#: SADD.dialog:173
+msgid ""
+"Damn. Ok, I'll give you a super exterminator if you give me dilithium "
+"cristals."
+msgstr ""
+
+#: SADD.dialog:180
+msgid ""
+"It seems that you are sentinent, that you are a form of life. I must help "
+"any form of life."
+msgstr ""
+
+#: SADD.dialog:182
+msgid "Thanks a lot for your warm words. I think I can trust you."
+msgstr ""
+
+#: SADD.dialog:188
+msgid "So disable the guns, please."
+msgstr ""
+
+#: SADD.dialog:190
+msgid "Go, and bring dilithium. I badly need it."
+msgstr ""
+
+#: SADD.dialog:192
+msgid "I am supposed to get some dilithium crystals for that SADD."
+msgstr ""
+
+#: SADD.dialog:199 SADD.dialog:220
+msgid "I have the crystals! They were difficult to find."
+msgstr ""
+
+#: SADD.dialog:201
+msgid ""
+"Good. I've opened the depot door for you. Take your super exterminator and "
+"GET OUT of here!"
+msgstr ""
+
+#: SADD.dialog:203 SADD.dialog:224
+msgid "Restored SADD's power supply"
+msgstr ""
+
+#: SADD.dialog:207 SADD.dialog:229
+msgid "I managed to restore the SADD's power supply."
+msgstr ""
+
+#: SADD.dialog:212
+msgid "How is your power supply?"
+msgstr ""
+
+#: SADD.dialog:214
+msgid "Bad. Get the crystals. Remember, you promised!"
+msgstr ""
+
+#: SADD.dialog:222
+msgid ""
+"Great! Thanks. I've opened some doors for you. I hope you will find "
+"something interesting there. That's all I can do for you."
+msgstr ""
+
+#: SADD.dialog:234
+msgid "You call this a super exterminator?"
+msgstr ""
+
+#: SADD.dialog:236
+msgid "I do. Now please leave this place before I terminate you."
+msgstr ""
+
+#: SADD.dialog:237
+msgid "This is rubbish! Nobody can use this damned gun!"
+msgstr ""
+
+#: SADD.dialog:238
+msgid "The door is still open. You can put it back and go. Quick."
+msgstr ""
+
+#: SADD.dialog:239
+msgid ""
+"Give me a real gun, dude! Immediately! I have brought you what you wanted, "
+"now give me my reward!"
+msgstr ""
+
+#: SADD.dialog:240
+msgid ""
+"You can go standing on your feet, that's your reward. And DON'T TRY MY "
+"PATIENCE!"
+msgstr ""
+
+#: SADD.dialog:241
+msgid "I'll kill you if you don't give me my gun!"
+msgstr ""
+
+#: SADD.dialog:242
+msgid ""
+"You are welcome. But you would never get out of here, my death won't help "
+"you."
+msgstr ""
+
+#: SADD.dialog:252
+msgid "And what about your directives, especially the second?"
+msgstr ""
+
+#: SADD.dialog:254
+msgid "Now I have time. When you die, I'll disable guns."
+msgstr ""
+
+#: SADD.dialog:259
+msgid "Please forgive me!"
+msgstr ""
+
+#: SADD.dialog:261
+msgid "Too late. I'm watching this great show now."
+msgstr ""
+
+#: SADD.dialog:262 SADD.dialog:263
+msgid "It is called..."
+msgstr ""
+
+#: SADD.dialog:264
+msgid "CONDEMNED TO DEATH!"
+msgstr ""
+
+#: SADD.dialog:269
+msgid "Please, disable the guns!"
+msgstr ""
+
+#: SADD.dialog:271
+msgid "Ok, I'll disable them."
+msgstr ""
+
+#: SADD.dialog:272
+msgid "I just need to make some preparations. You will have to wait..."
+msgstr ""
+
+#: SADD.dialog:273
+msgid "...for your death!"
+msgstr ""
+
+#: SADD.dialog:278
+msgid "Erm... hi!"
+msgstr ""
+
+#: SADD.dialog:280
+msgid "Hi. Thanks for the help."
+msgstr ""
+
+#: SADD.dialog:281
+msgid "Will you let me inside the base?"
+msgstr ""
+
+#: SADD.dialog:282
+msgid "I'm sorry "
+msgstr ""
+
+#: SADD.dialog:282
+msgid ", I'm afraid I can't do that."
+msgstr ""
+
+#: SADD.dialog:283
+msgid ""
+"Nice try, though. I may owe you, but I can't let you in. You must leave."
+msgstr ""
+
+#: SADD.dialog:290
+msgid "I'd better get out of here..."
+msgstr ""
+
+#: SADD.dialog:292
+msgid "Exactly."
+msgstr ""

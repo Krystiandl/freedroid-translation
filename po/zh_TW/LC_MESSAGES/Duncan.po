@@ -1,0 +1,441 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"PO-Revision-Date: 2010-10-04 18:58+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Duncan.dialog:53
+msgid "Hi... Erm... Who are you?"
+msgstr ""
+
+#: Duncan.dialog:55
+msgid "Duncan McNamara, The Red Guard's resident bomb maker, at your service."
+msgstr ""
+
+#: Duncan.dialog:56 Duncan.dialog:261
+msgid "Duncan -- Bombmaker"
+msgstr ""
+
+#: Duncan.dialog:61
+msgid "I would like to buy a bomb."
+msgstr ""
+
+#: Duncan.dialog:63
+msgid "Yes. I am sure we can arrange something. Take a look."
+msgstr ""
+
+#: Duncan.dialog:63
+msgid "Sure. These are my offers today."
+msgstr ""
+
+#: Duncan.dialog:69
+msgid "I see only grenades. Do you have something bigger?"
+msgstr ""
+
+#: Duncan.dialog:71
+msgid "My deepest apologies, I do not."
+msgstr ""
+
+#: Duncan.dialog:72
+msgid "The Red Guard prohibits the sales of extremely destructive munitions."
+msgstr ""
+
+#: Duncan.dialog:73
+msgid "It is not yet the time for the fall of their rule, so I remain loyal."
+msgstr ""
+
+#: Duncan.dialog:78
+msgid ""
+"The fall of the Red Guard? I am going to report that you are preparing a "
+"revolution!"
+msgstr ""
+
+#: Duncan.dialog:80
+msgid "My word against yours. If you wish to try it, please, be my guest."
+msgstr ""
+
+#: Duncan.dialog:81
+msgid ""
+"I am not preparing anything. I am just stating what I see as inevitable in "
+"the future."
+msgstr ""
+
+#: Duncan.dialog:82
+msgid ""
+"I have taken part in many conflicts and I have seen how governments collapse."
+msgstr ""
+
+#: Duncan.dialog:83
+msgid "As soon as the war is over, the Red Guard will disband."
+msgstr ""
+
+#: Duncan.dialog:84
+msgid ""
+"Of course, I am making the assumption of victory, which is highly unlikely "
+"with the current state of affairs."
+msgstr ""
+
+#: Duncan.dialog:89
+msgid "The fall of the Red Guard? Tell me more about it."
+msgstr ""
+
+#: Duncan.dialog:91
+msgid ""
+"It is not the time to speak of such things yet. Come another day, and we "
+"shall talk about it in more detail."
+msgstr ""
+
+#: Duncan.dialog:92
+msgid ""
+"The Red Guard can have their great laser beams and plasma cannons... But "
+"nothing can save them."
+msgstr ""
+
+#: Duncan.dialog:97
+msgid "I want to buy some grenades."
+msgstr ""
+
+#: Duncan.dialog:99
+msgid "Certainly."
+msgstr ""
+
+#: Duncan.dialog:99
+msgid "Sure."
+msgstr ""
+
+#: Duncan.dialog:99
+msgid "With pleasure I am showing you my offers."
+msgstr ""
+
+#: Duncan.dialog:104
+msgid "What kind of grenade is the best?"
+msgstr ""
+
+#: Duncan.dialog:106
+msgid "You get what you pay for."
+msgstr ""
+
+#: Duncan.dialog:111
+msgid "How did you get into making explosives?"
+msgstr ""
+
+#: Duncan.dialog:113
+msgid "Twenty years ago there was a conflict."
+msgstr ""
+
+#: Duncan.dialog:114
+msgid "A grenade I threw destroyed a being which killed many of... my people."
+msgstr ""
+
+#: Duncan.dialog:115
+msgid "Now I make more to smash the destroyers."
+msgstr ""
+
+#: Duncan.dialog:123
+msgid "Ah. Welcome again Linarian."
+msgstr ""
+
+#: Duncan.dialog:124
+msgid "I have a little request for you."
+msgstr ""
+
+#: Duncan.dialog:125
+msgid "I know someone who needs to be taught a lesson."
+msgstr ""
+
+#: Duncan.dialog:126
+msgid "Interested?"
+msgstr ""
+
+#: Duncan.dialog:131
+msgid "Tell me more."
+msgstr ""
+
+#: Duncan.dialog:133
+msgid "Ah, excellent."
+msgstr ""
+
+#: Duncan.dialog:134
+msgid "A... friend of mine, Koan, stole something of great value to me."
+msgstr ""
+
+#: Duncan.dialog:135
+msgid "He is hiding somewhere in the desert, I don't know exactly where."
+msgstr ""
+
+#: Duncan.dialog:140
+msgid "I will get your property back."
+msgstr ""
+
+#: Duncan.dialog:142
+msgid "Excellent. I am pleased to hear this."
+msgstr ""
+
+#: Duncan.dialog:143
+msgid "There is something you must know."
+msgstr ""
+
+#: Duncan.dialog:144
+msgid ""
+"There are not too many bots in the desert, but they are invincible. It is "
+"best to avoid them."
+msgstr ""
+
+#: Duncan.dialog:145
+msgid "I will be waiting here for your return."
+msgstr ""
+
+#: Duncan.dialog:146 Duncan.dialog:188 Duncan.dialog:238 Duncan.dialog:249
+msgid "Doing Duncan a favor"
+msgstr ""
+
+#: Duncan.dialog:146
+msgid "Find Koan in the desert."
+msgstr ""
+
+#: Duncan.dialog:147
+msgid "That is all I need to know. I will find Koan."
+msgstr ""
+
+#: Duncan.dialog:148
+msgid "Only time will tell."
+msgstr ""
+
+#: Duncan.dialog:149
+msgid ""
+"In any case, I'll let the Red Guard know to open the western gate to the "
+"desert."
+msgstr ""
+
+#: Duncan.dialog:150
+msgid "Good luck!"
+msgstr ""
+
+#: Duncan.dialog:156
+msgid "What are those bots?"
+msgstr ""
+
+#: Duncan.dialog:158
+msgid "We call them 'Harvester'."
+msgstr ""
+
+#: Duncan.dialog:159
+msgid "They were designed to chop down trees in the mountains."
+msgstr ""
+
+#: Duncan.dialog:160
+msgid "Now they chop down people."
+msgstr ""
+
+#: Duncan.dialog:161
+msgid ""
+"Their only weak point is their security system. But no one has managed to "
+"stay alive long enough to hack them."
+msgstr ""
+
+#: Duncan.dialog:166
+msgid "What is it that he took from you?"
+msgstr ""
+
+#: Duncan.dialog:168
+msgid "A cube. Trust me, you can't miss it."
+msgstr ""
+
+#: Duncan.dialog:173
+msgid "No, I don't find bloodshed a pleasurable activity."
+msgstr ""
+
+#: Duncan.dialog:175
+msgid "That is fine. I will find someone else."
+msgstr ""
+
+#: Duncan.dialog:183
+msgid "So... Any news on the Koan matter?"
+msgstr ""
+
+#: Duncan.dialog:186
+msgid ""
+"I could not find him anywhere in the desert. I don't think he is there "
+"anymore."
+msgstr ""
+
+#: Duncan.dialog:187
+msgid "I see."
+msgstr ""
+
+#: Duncan.dialog:188
+msgid "I lied to Duncan about not finding Koan."
+msgstr ""
+
+#: Duncan.dialog:198
+msgid "Yeah. I got him. I think this is your cube."
+msgstr ""
+
+#: Duncan.dialog:200
+msgid "Yes. I appreciate your help."
+msgstr ""
+
+#: Duncan.dialog:206
+msgid ""
+"Yeah, I got him. Now, what is this big cube that you had me carry all the "
+"way here?"
+msgstr ""
+
+#: Duncan.dialog:208
+msgid "Just a memento from a friend."
+msgstr ""
+
+#: Duncan.dialog:209
+msgid ""
+"A little more than a portable end of the world, which I am looking forward "
+"to disassembling and learning its secrets."
+msgstr ""
+
+#: Duncan.dialog:210
+msgid "Nothing that important."
+msgstr ""
+
+#: Duncan.dialog:215
+msgid ""
+"A 'few' bots? The place was crawling with Harvesters! I nearly got killed!"
+msgstr ""
+
+#: Duncan.dialog:217
+msgid ""
+"There were only one hundred and twenty bots in the entire desert region. "
+"This hardly qualifies as many, considering the size of the area."
+msgstr ""
+
+#: Duncan.dialog:218
+msgid ""
+"What? You know exactly how many bots were in the desert? Without being "
+"there? I don't like this."
+msgstr ""
+
+#: Duncan.dialog:219
+msgid "I just know a lot of things. You do not need to worry about it."
+msgstr ""
+
+#: Duncan.dialog:220
+msgid "I don't like this at all. I'm getting out of here."
+msgstr ""
+
+#: Duncan.dialog:221
+msgid "As you wish."
+msgstr ""
+
+#: Duncan.dialog:227
+msgid ""
+"Hey, that is really neat. Here is your cube. Enjoy disassembling it and have "
+"fun with it."
+msgstr ""
+
+#: Duncan.dialog:229
+msgid "I will."
+msgstr ""
+
+#: Duncan.dialog:235
+msgid "WHAT? No way I am giving you a doomsday device! Forget about it."
+msgstr ""
+
+#: Duncan.dialog:237
+msgid "I understand. So be it."
+msgstr ""
+
+#: Duncan.dialog:238
+msgid ""
+"No way am I giving Duncan that cube thingie. Who knows what he would do with "
+"it."
+msgstr ""
+
+#: Duncan.dialog:249
+msgid "I gave Duncan the cube thingie. It feels nice to help people."
+msgstr ""
+
+#: Duncan.dialog:254
+msgid "I feel you are... Different."
+msgstr ""
+
+#: Duncan.dialog:256
+msgid "What a great way to start a conversation."
+msgstr ""
+
+#: Duncan.dialog:257
+msgid "Yes, that is true. I am not who I seem to be."
+msgstr ""
+
+#: Duncan.dialog:258
+msgid "But then again, neither are you, so my thoughts are we are even."
+msgstr ""
+
+#: Duncan.dialog:259
+msgid "What do you mean? I am "
+msgstr ""
+
+#: Duncan.dialog:259
+msgid " and not anyone else."
+msgstr ""
+
+#: Duncan.dialog:260
+msgid "And I am Duncan McNamara, the maker of grenades and nothing else."
+msgstr ""
+
+#: Duncan.dialog:262
+msgid "I believe the topic is thoroughly exhausted now."
+msgstr ""
+
+#: Duncan.dialog:267
+msgid "Tell me who you are. I need to know."
+msgstr ""
+
+#: Duncan.dialog:269
+msgid "Twenty years ago, the people were kinder to each other."
+msgstr ""
+
+#: Duncan.dialog:270
+msgid "I suggest you be kind to me as well, and I will be kind to you."
+msgstr ""
+
+#: Duncan.dialog:271
+msgid "That way I get to keep my secret, and you get to keep yours."
+msgstr ""
+
+#: Duncan.dialog:276
+msgid "I don't have any secrets."
+msgstr ""
+
+#: Duncan.dialog:278
+msgid "And neither do I."
+msgstr ""
+
+#: Duncan.dialog:286 Duncan.dialog:295
+msgid "I wish you cold winds."
+msgstr ""
+
+#: Duncan.dialog:287
+msgid ""
+"Huh? How do you know the Linarian farewell? No one around here knows it."
+msgstr ""
+
+#: Duncan.dialog:288
+msgid "I read many books on Linarians. That is all."
+msgstr ""
+
+#: Duncan.dialog:289
+msgid "Nothing more and nothing less."
+msgstr ""
+
+#: Duncan.dialog:297
+msgid "May the ice bring you wisdom."
+msgstr ""
+
+#: Duncan.dialog:302 Duncan.dialog:308
+msgid "See you later."
+msgstr ""

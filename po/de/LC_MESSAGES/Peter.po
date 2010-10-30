@@ -1,0 +1,59 @@
+#: Peter.dialog:39
+msgid "Hello."
+msgstr ""
+
+#: Peter.dialog:39
+msgid "Hi there."
+msgstr ""
+
+#: Peter.dialog:40
+msgid "Well, hello again."
+msgstr ""
+
+#: Peter.dialog:40
+msgid "Hello hello."
+msgstr ""
+
+#: Peter.dialog:40
+msgid "Welcome back."
+msgstr ""
+
+#: Peter.dialog:46
+msgid "Why are you here?"
+msgstr ""
+
+#: Peter.dialog:48
+msgid "I'm a political prisoner."
+msgstr ""
+
+#: Peter.dialog:49
+msgid "Those red fascists put me here."
+msgstr ""
+
+#: Peter.dialog:50
+msgid ""
+"And I guess you are a fascists too, as only Red Guard members are allowed in "
+"here."
+msgstr ""
+
+#: Peter.dialog:55
+msgid "What is a fascist?"
+msgstr ""
+
+#: Peter.dialog:58
+msgid "What is ..."
+msgstr ""
+
+#: Peter.dialog:59
+msgid ""
+"LALALALALA - I'm not hearing you. I have my fingers in my ears and just go - "
+"LALALALALA"
+msgstr ""
+
+#: Peter.dialog:63
+msgid "Talk to you later."
+msgstr ""
+
+#: Peter.dialog:65
+msgid "Not in your life, Fascist!"
+msgstr ""

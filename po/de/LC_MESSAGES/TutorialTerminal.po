@@ -1,0 +1,43 @@
+#: TutorialTerminal.dialog:39
+msgid "Entering as Guest"
+msgstr ""
+
+#: TutorialTerminal.dialog:41
+msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
+msgstr ""
+
+#: TutorialTerminal.dialog:45 TutorialTerminal.dialog:74
+msgid "Gate status: CLOSED"
+msgstr ""
+
+#: TutorialTerminal.dialog:48 TutorialTerminal.dialog:62
+msgid "Gate status: OPEN"
+msgstr ""
+
+#: TutorialTerminal.dialog:51
+msgid "GAME BUG. PLEASE REPORT."
+msgstr ""
+
+#: TutorialTerminal.dialog:57 TutorialTerminal.dialog:60
+msgid "open gate"
+msgstr ""
+
+#: TutorialTerminal.dialog:61
+msgid "Access granted. Opening gate ..."
+msgstr ""
+
+#: TutorialTerminal.dialog:69 TutorialTerminal.dialog:72
+msgid "close gate"
+msgstr ""
+
+#: TutorialTerminal.dialog:73
+msgid "Access granted. Closing gate ..."
+msgstr ""
+
+#: TutorialTerminal.dialog:81 TutorialTerminal.dialog:84
+msgid "logout"
+msgstr ""
+
+#: TutorialTerminal.dialog:85
+msgid "Exiting"
+msgstr ""

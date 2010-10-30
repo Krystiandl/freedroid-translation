@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"PO-Revision-Date: 2010-10-04 18:58+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Iris.dialog:39
+msgid "Hello."
+msgstr ""
+
+#: Iris.dialog:39
+msgid "Hi there."
+msgstr ""
+
+#: Iris.dialog:40
+msgid "Well, hello again."
+msgstr ""
+
+#: Iris.dialog:40
+msgid "Hello hello."
+msgstr ""
+
+#: Iris.dialog:40
+msgid "Welcome back."
+msgstr ""
+
+#: Iris.dialog:46
+msgid "Who are you?"
+msgstr ""
+
+#: Iris.dialog:48
+msgid "I'm Iris"
+msgstr ""
+
+#: Iris.dialog:49
+msgid "Iris"
+msgstr ""
+
+#: Iris.dialog:54
+msgid "What are you doing here?"
+msgstr ""
+
+#: Iris.dialog:56
+msgid "None of your business!"
+msgstr ""
+
+#: Iris.dialog:61
+msgid "See you later."
+msgstr ""
+
+#: Iris.dialog:63
+msgid "In your dreams, Pinguin!"
+msgstr ""

@@ -1,0 +1,39 @@
+#: Terminal.dialog:38
+msgid "Welcome to this terminal."
+msgstr ""
+
+#: Terminal.dialog:40
+msgid "Hello."
+msgstr ""
+
+#: Terminal.dialog:40
+msgid "Hi there."
+msgstr ""
+
+#: Terminal.dialog:41
+msgid "Well, hello again."
+msgstr ""
+
+#: Terminal.dialog:41
+msgid "Hello hello."
+msgstr ""
+
+#: Terminal.dialog:41
+msgid "Welcome back."
+msgstr ""
+
+#: Terminal.dialog:47
+msgid "help"
+msgstr ""
+
+#: Terminal.dialog:49
+msgid "Available commands: logout"
+msgstr ""
+
+#: Terminal.dialog:53
+msgid "logout"
+msgstr ""
+
+#: Terminal.dialog:55
+msgid "Goodbye"
+msgstr ""

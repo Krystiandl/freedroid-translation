@@ -1,0 +1,11 @@
+#: script_helpers.lua:132
+msgid "New Quest assigned."
+msgstr ""
+
+#: script_helpers.lua:138
+msgid "Quest log updated."
+msgstr ""
+
+#: script_helpers.lua:144
+msgid "Quest completed."
+msgstr ""

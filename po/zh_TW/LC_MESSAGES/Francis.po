@@ -1,0 +1,553 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"PO-Revision-Date: 2010-10-04 18:58+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Francis.dialog:44
+msgid "Welcome back "
+msgstr ""
+
+#: Francis.dialog:45
+msgid "I joined the Red Guard."
+msgstr ""
+
+#: Francis.dialog:46
+msgid "Congratulations are in order, I guess."
+msgstr ""
+
+#: Francis.dialog:47
+msgid "I worked hard to join."
+msgstr ""
+
+#: Francis.dialog:48
+msgid ""
+"Linarian, don't forget your special gifts and how you can change things."
+msgstr ""
+
+#: Francis.dialog:49
+msgid "Life's busy as a Red Guard member."
+msgstr ""
+
+#: Francis.dialog:50
+msgid "I can imagine that."
+msgstr ""
+
+#: Francis.dialog:51
+msgid "But always remember who you are."
+msgstr ""
+
+#: Francis.dialog:53
+msgid "Oh, thank heavens! You are still alive. Maybe all hope is not lost."
+msgstr ""
+
+#: Francis.dialog:59
+msgid "Who am I?"
+msgstr ""
+
+#: Francis.dialog:61
+msgid "Oh dear. This is not good. Not good."
+msgstr ""
+
+#: Francis.dialog:62
+msgid ""
+"*sigh* Long stasis sleep can cause neurological damage and impact the "
+"memory. Looks like that is what happened here."
+msgstr ""
+
+#: Francis.dialog:63
+msgid ""
+"It will all come back to you in a few hours, but I guess I will make it "
+"easier for you if I say what I know."
+msgstr ""
+
+#: Francis.dialog:64
+msgid ""
+"You are a Linarian, a species not native to this planet. Twenty of you "
+"arrived here close to a century ago."
+msgstr ""
+
+#: Francis.dialog:65
+msgid ""
+"There was a... misunderstanding of some sort and humans welcomed your "
+"expedition with blaster fire. A terrible mistake on our part."
+msgstr ""
+
+#: Francis.dialog:66
+msgid "A few of you survived the slaughter and went into hiding and obscurity."
+msgstr ""
+
+#: Francis.dialog:67
+msgid ""
+"During that time Linarians became known as helpers and heroes. Of course now "
+"most people think it all was just a fairy tale."
+msgstr ""
+
+#: Francis.dialog:68
+msgid "If the computer is not lying, then your name is "
+msgstr ""
+
+#: Francis.dialog:73
+msgid "How did the war start?"
+msgstr ""
+
+#: Francis.dialog:75
+msgid "It is a long story. It all happened five months ago."
+msgstr ""
+
+#: Francis.dialog:76
+msgid ""
+"I was at a protest against MegaSys, a computer company. They killed free "
+"software by finding a loophole in the GPL3.14 licence. It all became their "
+"property. Bastards."
+msgstr ""
+
+#: Francis.dialog:77
+msgid ""
+"Lots of people were angry about this. Protests and riots spread in waves all "
+"around the world."
+msgstr ""
+
+#: Francis.dialog:78
+msgid ""
+"When the police bots approached at dawn, we thought that they were going to "
+"simply disperse the crowds. Instead, they started killing us."
+msgstr ""
+
+#: Francis.dialog:79
+msgid ""
+"I broke into a parked hover car and used it to escape. The sight from the "
+"air was horrible."
+msgstr ""
+
+#: Francis.dialog:80
+msgid ""
+"The city was full of flames, flashes of gunfire and screaming people. That "
+"image still does not let me sleep at night."
+msgstr ""
+
+#: Francis.dialog:81
+msgid "First we made them, and then they unmade us. How ironic."
+msgstr ""
+
+#: Francis.dialog:86
+msgid "What happened then?"
+msgstr ""
+
+#: Francis.dialog:88
+msgid "I got shot down and I crashed a few kilometers away from here."
+msgstr ""
+
+#: Francis.dialog:89
+msgid ""
+"Later I learned that the bots started attacking all around the globe. The "
+"journalists called it 'The Great Assault'. The name stuck."
+msgstr ""
+
+#: Francis.dialog:90
+msgid ""
+"Then the bots started jamming our broadcasts and long distance communication "
+"became impossible. I have no idea what happened in the world after that. We "
+"are cut off."
+msgstr ""
+
+#: Francis.dialog:91
+msgid "For all I know the war might be already over."
+msgstr ""
+
+#: Francis.dialog:96
+msgid "Where am I?"
+msgstr ""
+
+#: Francis.dialog:98
+msgid ""
+"The locals call this place the popsicle storage, because of all the people "
+"lying here frozen in cryogenic sleep. All were frozen down before the Great "
+"Assault."
+msgstr ""
+
+#: Francis.dialog:99
+msgid ""
+"This facility is located not too far away from a mining town where we have "
+"made a stand against the damn contraptions. However, I'm alone here with "
+"only one droid for security."
+msgstr ""
+
+#: Francis.dialog:100
+msgid ""
+"There are just too few humans alive and awake to allow us to properly "
+"protect this place, and nobody else is foolish enough to stay out here alone."
+msgstr ""
+
+#: Francis.dialog:101
+msgid ""
+"I try to do my best to make sure nothing goes bad here and all these people "
+"die. Luckily, the outer gates of this place are quite sturdy."
+msgstr ""
+
+#: Francis.dialog:106
+msgid "Why did the Linarians come to this world?"
+msgstr ""
+
+#: Francis.dialog:108
+msgid ""
+"The planet you mean? No one knows that. None of you ever said anything about "
+"it."
+msgstr ""
+
+#: Francis.dialog:109
+msgid "Sorry, I cannot help you with that."
+msgstr ""
+
+#: Francis.dialog:114
+msgid "Where in the void is this world?"
+msgstr ""
+
+#: Francis.dialog:116
+msgid "I guess you mean in the universe?"
+msgstr ""
+
+#: Francis.dialog:117
+msgid "Yes, I think that is your name for it."
+msgstr ""
+
+#: Francis.dialog:118
+msgid ""
+"Well, we are in a barred spiral galaxy, twenty-six thousand light years away "
+"from the galactic core."
+msgstr ""
+
+#: Francis.dialog:119
+msgid ""
+"The galactic radius is 43,000 light years and the circumference is estimated "
+"at 270,000 light years."
+msgstr ""
+
+#: Francis.dialog:120
+msgid ""
+"This is a planetary system of ten planets, and we are presently located on "
+"the third one from our star, Sun."
+msgstr ""
+
+#: Francis.dialog:121
+msgid ""
+"I am not an astronomer, so I could be wrong. I am too tired to keep track of "
+"what is a planet and what is just an oversized rock."
+msgstr ""
+
+#: Francis.dialog:122
+msgid "This could be just about anywhere. Your description is too ambiguous."
+msgstr ""
+
+#: Francis.dialog:123
+msgid ""
+"Sorry, star sciences are my weak point. Maybe someone in the town might know "
+"something more."
+msgstr ""
+
+#: Francis.dialog:128
+msgid "Who are you? What is going on?"
+msgstr ""
+
+#: Francis.dialog:130
+msgid "I guess I will start with myself."
+msgstr ""
+
+#: Francis.dialog:131
+msgid ""
+"Francis. Dr. Francis Spark. I used to be a teacher at a small university "
+"before all hell broke loose."
+msgstr ""
+
+#: Francis.dialog:132
+msgid "Dr. Francis - Cryogenicist"
+msgstr ""
+
+#: Francis.dialog:133
+msgid ""
+"Currently, there is a war raging all around the globe. Humans are fighting "
+"against bots."
+msgstr ""
+
+#: Francis.dialog:134
+msgid "And it looks like we are losing the war."
+msgstr ""
+
+#: Francis.dialog:139
+msgid ""
+"I feel terrible... Was I asleep? I remember nightmares. A meteor shower "
+"striking a planet full of life and killing everything on it..."
+msgstr ""
+
+#: Francis.dialog:141
+msgid ""
+"This is normal. You were in stasis sleep for over 70 years. Stasis is not "
+"too kind on the mind. Your strange dreams will keep recurring for several "
+"years."
+msgstr ""
+
+#: Francis.dialog:142
+msgid ""
+"Whatever the reason was for putting yourself through this, it must have been "
+"a damn good one."
+msgstr ""
+
+#: Francis.dialog:143
+msgid ""
+"You are lucky that I found you and woke you up. A few more decades in there "
+"and you would end up insane."
+msgstr ""
+
+#: Francis.dialog:148
+msgid "Tell me more about the town you mentioned."
+msgstr ""
+
+#: Francis.dialog:150
+msgid "It is a small mining community of no more than 500 inhabitants..."
+msgstr ""
+
+#: Francis.dialog:151
+msgid ""
+"It was a stroke of luck that it did not get destroyed by the bots. Because "
+"of poor funding, the city could not afford new models."
+msgstr ""
+
+#: Francis.dialog:152
+msgid ""
+"All they had at the time of the bot attack were the 614 battle bot "
+"platforms. They were running an old operating system and were not affected "
+"by whatever caused the other bots to go crazy."
+msgstr ""
+
+#: Francis.dialog:153
+msgid ""
+"Right now the place is protected by the Red Guard, a bunch of volunteers. I "
+"cannot say I agree with their methods."
+msgstr ""
+
+#: Francis.dialog:154
+msgid ""
+"However, I must admit that being a prisoner of a walled town looks pretty "
+"good compared to the alternative of being eviscerated alive."
+msgstr ""
+
+#: Francis.dialog:159
+msgid "Why did the bots attack?"
+msgstr ""
+
+#: Francis.dialog:161
+msgid "We don't really know the reason for this insanity. However..."
+msgstr ""
+
+#: Francis.dialog:162
+msgid ""
+"All of the attacking bots are using a MegaSys operating system, so we think "
+"they are responsible."
+msgstr ""
+
+#: Francis.dialog:163
+msgid "Not surprisingly, the bastards deny everything."
+msgstr ""
+
+#: Francis.dialog:164
+msgid ""
+"Of course, because nearly every single bot in the world runs on that junk, "
+"the situation does not look pretty."
+msgstr ""
+
+#: Francis.dialog:169
+msgid "I also heard a voice... Someone calling himself Dvorak... "
+msgstr ""
+
+#: Francis.dialog:171
+msgid "Relax. Everything will be fine in a few hours."
+msgstr ""
+
+#: Francis.dialog:172
+msgid "This is perfectly normal."
+msgstr ""
+
+#: Francis.dialog:177
+msgid "Why not wake up all these people and attack the bots?"
+msgstr ""
+
+#: Francis.dialog:179
+msgid ""
+"Well, some have a disease that can't be cured yet. Some are just old and "
+"want to be woken up when technology can give them an extended life. Some "
+"have other reasons."
+msgstr ""
+
+#: Francis.dialog:180
+msgid ""
+"But suffice it to say, most of these people are not really good at fighting. "
+"Besides, we don't have enough weapons to mount a full scale counter attack "
+"at present."
+msgstr ""
+
+#: Francis.dialog:181
+msgid ""
+"And an even bigger problem would be to feed everyone. Our food resources are "
+"quite scarce. So for now they are better off sleeping."
+msgstr ""
+
+#: Francis.dialog:186
+msgid "Can you tell me how to get to town?"
+msgstr ""
+
+#: Francis.dialog:188
+msgid ""
+"Sure. You just need to follow the road outside to the east. After the "
+"bridge, turn right and continue to follow the road and you will soon be "
+"outside of the town main gate."
+msgstr ""
+
+#: Francis.dialog:189
+msgid ""
+"If you run across too many bots, you can try to circle around them. But "
+"avoid getting too far off the road, so you don't get lost. It's very "
+"dangerous out there."
+msgstr ""
+
+#: Francis.dialog:190
+msgid ""
+"Once in town you will be able to purchase or trade a few more items for "
+"protection at Ms. Stone's shop just inside the town gate."
+msgstr ""
+
+#: Francis.dialog:195
+msgid "How do I get out from here?"
+msgstr ""
+
+#: Francis.dialog:197
+msgid ""
+"Oh, just take the small door and corridor out to the waiting room. And from "
+"there you can get out through the customer entrance."
+msgstr ""
+
+#: Francis.dialog:198
+msgid ""
+"I keep the back entrance, close to my sleeping quarters, locked at all times "
+"for safety reasons. Better safe than sorry."
+msgstr ""
+
+#: Francis.dialog:203
+msgid ""
+"It cannot be true. One company cannot control all of the bot software on a "
+"whole world."
+msgstr ""
+
+#: Francis.dialog:205
+msgid ""
+"It can. They got close to a monopoly 30 years ago, but their last "
+"competitor, the open source community, was defeated by them about a year ago."
+msgstr ""
+
+#: Francis.dialog:206
+msgid ""
+"Since then all of the newly made bots have been made with MegaSys firmware "
+"burnt into their circuits."
+msgstr ""
+
+#: Francis.dialog:211
+msgid "Why did you wake me up?"
+msgstr ""
+
+#: Francis.dialog:213
+msgid ""
+"The situation at the town is not good. The walls are crumbling and we have "
+"lost a lot of good people."
+msgstr ""
+
+#: Francis.dialog:214
+msgid ""
+"I heard the Linarians have a special gift for computers and can hack them "
+"just by thinking about it."
+msgstr ""
+
+#: Francis.dialog:215
+msgid ""
+"Even if this is only partly true, we need it. The situation is quite ugly."
+msgstr ""
+
+#: Francis.dialog:216
+msgid "We need you."
+msgstr ""
+
+#: Francis.dialog:221
+msgid "Where are all my things?"
+msgstr ""
+
+#: Francis.dialog:223
+msgid "I already took out your chest with personal belongings from storage."
+msgstr ""
+
+#: Francis.dialog:224
+msgid "It is standing there next to the door."
+msgstr ""
+
+#: Francis.dialog:225
+msgid "Is that it?"
+msgstr ""
+
+#: Francis.dialog:226
+msgid "That is all the records show you had with you when your were frozen."
+msgstr ""
+
+#: Francis.dialog:227
+msgid ""
+"There are also some references to a bank account of yours, but as you "
+"probably understand, there is no working banking system presently."
+msgstr ""
+
+#: Francis.dialog:232
+msgid "The 614 bot said he might shutdown the outside gate!"
+msgstr ""
+
+#: Francis.dialog:235
+msgid ""
+"Oh. You'll need to put the cryogenic terminals into admin mode to access the "
+"gate controls."
+msgstr ""
+
+#: Francis.dialog:236
+msgid "How do I do that?"
+msgstr ""
+
+#: Francis.dialog:237
+msgid ""
+"You press star-pound-zero-six-pound and then enter the free-speech number."
+msgstr ""
+
+#: Francis.dialog:238
+msgid "It is kind of long, so I'll write it down for you."
+msgstr ""
+
+#: Francis.dialog:239
+msgid ""
+"If the 614 bot locks the gate, it is for a good reason. Lock the gate behind "
+"you!"
+msgstr ""
+
+#: Francis.dialog:244
+msgid "Thanks for the help. I'll be going now."
+msgstr ""
+
+#: Francis.dialog:246
+msgid ""
+"I am glad I could help you. You should be careful around here. Best head "
+"straight for our town."
+msgstr ""
+
+#: Francis.dialog:247
+msgid ""
+"Remember to not veer too far off the path, or your quest could be over "
+"before it begins."
+msgstr ""
