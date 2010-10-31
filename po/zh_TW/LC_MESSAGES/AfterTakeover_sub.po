@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-10-04 18:58+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: AfterTakeover_sub.dialog:33
-msgid ".. bot_type().."
+msgid "@hacked_"
 msgstr ""
 
 #: AfterTakeover_sub.dialog:47 AfterTakeover_sub.dialog:50

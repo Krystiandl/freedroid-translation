@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-07-06 13:29+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
@@ -24,130 +24,197 @@ msgstr "Újonc Aréna"
 msgid "To Master Arena"
 msgstr "Mester Aréna"
 
-#: freedroid.events:49
+#: freedroid.events:46
+msgid "Escort Tux N"
+msgstr ""
+
+#: freedroid.events:57
+msgid "Escort Tux N2"
+msgstr ""
+
+#: freedroid.events:68
+msgid "Escort Tux N3"
+msgstr ""
+
+#: freedroid.events:79
+msgid "Escort Tux N4"
+msgstr ""
+
+#: freedroid.events:90
+msgid "Escort Tux N-e1"
+msgstr ""
+
+#: freedroid.events:101
+msgid "Escort Tux N-e2"
+msgstr ""
+
+#: freedroid.events:112
+msgid "Escort Tux N-e3"
+msgstr ""
+
+#: freedroid.events:123
+msgid "Escort Tux N-e4"
+msgstr ""
+
+#: freedroid.events:134
+msgid "Tania Escort W-1"
+msgstr ""
+
+#: freedroid.events:138 freedroid.events:150 freedroid.events:162
+#: freedroid.events:494 freedroid.events:498
+msgid "Tania's Escape"
+msgstr ""
+
+#: freedroid.events:146
+msgid "Tania Escort W-2"
+msgstr ""
+
+#: freedroid.events:158
+msgid "Tania Escort W-3"
+msgstr ""
+
+#: freedroid.events:173
 msgid "Exit Warehouse"
 msgstr "Raktár kijárat"
 
-#: freedroid.events:58
+#: freedroid.events:182
 msgid "To Warehouse Level 2"
 msgstr "Raktár 2. szint"
 
-#: freedroid.events:70
+#: freedroid.events:194
 msgid "To Warehouse Level 1"
 msgstr "Raktár 1. szint"
 
-#: freedroid.events:82
+#: freedroid.events:206
 msgid "Back to Kevin's Garden"
 msgstr "Vissza Kevin Kertjébe"
 
-#: freedroid.events:91
+#: freedroid.events:215
 msgid "To Energy Station"
 msgstr "Erőmű"
 
-#: freedroid.events:103
+#: freedroid.events:227
 msgid "Back to Lower Catacombs"
 msgstr "Vissza az Alsóbb Katakombákhoz"
 
-#: freedroid.events:115
+#: freedroid.events:239
 msgid "Way to Disruptor Machine Deck"
 msgstr "Út a Disruptor Gépházba"
 
-#: freedroid.events:127
+#: freedroid.events:251
 msgid "Back to Town"
 msgstr "Vissza a Városba"
 
-#: freedroid.events:143
+#: freedroid.events:267
 msgid "Enter Warehouse"
 msgstr "Raktár Bejárat"
 
-#: freedroid.events:155
+#: freedroid.events:279
 msgid "Down into Crystal Caves"
 msgstr "Lejárat a Kristály Barlangba"
 
-#: freedroid.events:195
+#: freedroid.events:319
 msgid "To Kevin's Underground Station"
 msgstr "Kevin Földalatti Állomása"
 
-#: freedroid.events:207
+#: freedroid.events:331
 msgid "To Underground Station"
 msgstr "Földalatti Állomás"
 
-#: freedroid.events:243
+#: freedroid.events:367
 msgid "Hatch with broken ladder"
 msgstr "Nyílás egy törött létrával"
 
-#: freedroid.events:267
+#: freedroid.events:391
 msgid "Exit Novice Arena"
 msgstr "Újonc Aréna Kijárat"
 
-#: freedroid.events:279
+#: freedroid.events:403
 msgid "Exit Master Arena"
 msgstr "Mester Aréna Kijárat"
 
-#: freedroid.events:291
+#: freedroid.events:415
 msgid "lock player inside firmware room"
 msgstr "játékos bezárása a firmware szobába"
 
-#: freedroid.events:301
+#: freedroid.events:425
 msgid "Open firmware upgrade room"
 msgstr "Firmware upgrade szoba nyitása"
 
-#: freedroid.events:314
+#: freedroid.events:438
 msgid "FIXME2"
 msgstr "FIXME2"
 
-#: freedroid.events:327
+#: freedroid.events:451
 msgid "Exit Crystal Caves"
 msgstr "Kristály Barlang Kijárat"
 
-#: freedroid.events:339 freedroid.events:351
+#: freedroid.events:463 freedroid.events:475 freedroid.events:490
 msgid "Back to the Desert"
 msgstr "Vissza a Sivatagba"
 
-#: freedroid.events:367
+#: freedroid.events:479
+msgid "SADD's power supply"
+msgstr ""
+
+#: freedroid.events:498
+msgid ""
+"Tania has made it to the surface for the first time in a very long time."
+msgstr ""
+
+#: freedroid.events:505 freedroid.events:514
+msgid "To the Secret Area Service Tunnels"
+msgstr ""
+
+#: freedroid.events:526 freedroid.events:535
+#, fuzzy
+msgid "Back to the Secret Area"
+msgstr "Vissza a Sivatagba"
+
+#: freedroid.events:547
 msgid "Red Square"
 msgstr "Vörös Tér"
 
-#: freedroid.events:373
+#: freedroid.events:553
 msgid "Good, now move to the black grating to the East."
 msgstr "Rendben, most menj vissza a fekete kínhoz Kelet felé."
 
-#: freedroid.events:374 freedroid.events:386
+#: freedroid.events:554 freedroid.events:566
 msgid "Quest log updated"
 msgstr "Küldetés lista frissítve"
 
-#: freedroid.events:380
+#: freedroid.events:560
 msgid "Black Dot"
 msgstr "Fekete Pont"
 
-#: freedroid.events:385
+#: freedroid.events:565
 msgid "Good, now talk to Tutorial Tom again."
 msgstr "Rendben, beszélj újra Tutorial Tommal."
 
-#: freedroid.events:395
+#: freedroid.events:575
 msgid "To a Forgotten Bunker"
 msgstr "Elfelejtett Bunker"
 
-#: freedroid.events:411
+#: freedroid.events:591
 msgid "Unknown place"
 msgstr "Ismeretlen hely"
 
-#: freedroid.events:431
+#: freedroid.events:611
 msgid "Hidden way out"
 msgstr "Rerjett út kifelé"
 
-#: freedroid.events:487
+#: freedroid.events:667
 msgid "Back to Disruptor Shield Control"
 msgstr "Vissza a Disruptor Pajzs Kontrollterembe"
 
-#: freedroid.events:496
+#: freedroid.events:676
 msgid "To Mashine Deck Lower Catacombs"
 msgstr "Az Alsóbb Katakombák Gépháza"
 
-#: freedroid.events:508
+#: freedroid.events:688
 msgid "Back to Machine Deck Upper Catacombs"
 msgstr "Vissza a Felsőbb Katakombák Gépházába"
 
-#: freedroid.events:517
+#: freedroid.events:697
 msgid "To Disruptor Mashine Deck"
 msgstr "Disruptor Gépház"

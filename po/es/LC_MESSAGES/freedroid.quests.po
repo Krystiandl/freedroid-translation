@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-06-02 07:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -76,54 +76,88 @@ msgstr ""
 msgid "Tania's sanitary"
 msgstr ""
 
-#: freedroid.quests:144
-msgid "Saving the shop"
+#: freedroid.quests:144 freedroid.quests:151 freedroid.quests:153
+#: freedroid.quests:156
+msgid "Tania's Escape"
+msgstr ""
+
+#: freedroid.quests:148 freedroid.quests:149
+msgid "Tania died!"
 msgstr ""
 
 #: freedroid.quests:151
+msgid ""
+"Tania died before escaping her underground bunker. I was unable to protect "
+"her."
+msgstr ""
+
+#: freedroid.quests:153
+msgid ""
+"Tania died in the desert while trying to make it to the town. I was unable "
+"to protect her."
+msgstr ""
+
+#: freedroid.quests:156
+msgid ""
+"Tania died while trying to make it to the town. I was unable to protect her."
+msgstr ""
+
+#: freedroid.quests:159
+msgid "Tania made it to the town!"
+msgstr ""
+
+#: freedroid.quests:160
+msgid "Tania successfully made it to the town!"
+msgstr ""
+
+#: freedroid.quests:170
+msgid "Saving the shop"
+msgstr ""
+
+#: freedroid.quests:177
 msgid "Doing Duncan a favor"
 msgstr ""
 
-#: freedroid.quests:158
+#: freedroid.quests:184
 msgid "Tutorial Movement"
 msgstr ""
 
-#: freedroid.quests:165
+#: freedroid.quests:191
 msgid "Tutorial Melee"
 msgstr ""
 
-#: freedroid.quests:168
+#: freedroid.quests:194
 msgid "Melee droids destroyed!"
 msgstr ""
 
-#: freedroid.quests:176
+#: freedroid.quests:202
 msgid "Tutorial Shooting"
 msgstr ""
 
-#: freedroid.quests:179
+#: freedroid.quests:205
 msgid "Shooting range cleared!"
 msgstr ""
 
-#: freedroid.quests:187
+#: freedroid.quests:213
 msgid "Tutorial Hacking"
 msgstr ""
 
-#: freedroid.quests:190
+#: freedroid.quests:216
 msgid "Hacking area cleared!"
 msgstr ""
 
-#: freedroid.quests:198
+#: freedroid.quests:224
 msgid "A strange guy stealing from town"
 msgstr ""
 
-#: freedroid.quests:207
+#: freedroid.quests:233
 msgid "Deliverance"
 msgstr ""
 
-#: freedroid.quests:214
+#: freedroid.quests:240
 msgid "Tutorial Upgrading Items"
 msgstr ""
 
-#: freedroid.quests:216
+#: freedroid.quests:242
 msgid "Tutorial Upgrading Items finished!"
 msgstr ""

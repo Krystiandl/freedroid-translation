@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2008-12-16 05:43+0000\n"
 "Last-Translator: Dmitry Tumaikin <nevly@mail.ru>\n"
 "Language-Team: Russian\n"
@@ -24,7 +24,7 @@ msgid "Duncan McNamara, The Red Guard's resident bomb maker, at your service."
 msgstr ""
 "Дункан МакНамара, здешний поставщик бомб Красной Гвардии, к вашим услугам."
 
-#: Duncan.dialog:56 Duncan.dialog:261
+#: Duncan.dialog:56 Duncan.dialog:263
 msgid "Duncan -- Bombmaker"
 msgstr ""
 
@@ -41,35 +41,35 @@ msgstr "О, да. Я уверен, мы сможем подобрать что-�
 msgid "Sure. These are my offers today."
 msgstr "Конечно. Вот что у меня сейчас есть."
 
-#: Duncan.dialog:69
+#: Duncan.dialog:71
 msgid "I see only grenades. Do you have something bigger?"
 msgstr ""
 
-#: Duncan.dialog:71
+#: Duncan.dialog:73
 msgid "My deepest apologies, I do not."
 msgstr "Мои глубочайшие извинения, но больше ничего предложить не могу."
 
-#: Duncan.dialog:72
+#: Duncan.dialog:74
 msgid "The Red Guard prohibits the sales of extremely destructive munitions."
 msgstr "Красная Гвардия запрещает продажи самых разрушительных средств."
 
-#: Duncan.dialog:73
+#: Duncan.dialog:75
 msgid "It is not yet the time for the fall of their rule, so I remain loyal."
 msgstr "Пока не придёт время падения их власти, я буду лоялен."
 
-#: Duncan.dialog:78
+#: Duncan.dialog:80
 msgid ""
 "The fall of the Red Guard? I am going to report that you are preparing a "
 "revolution!"
 msgstr ""
 
-#: Duncan.dialog:80
+#: Duncan.dialog:82
 msgid "My word against yours. If you wish to try it, please, be my guest."
 msgstr ""
 "Тогда получится моё слово против твоего. Если хочешь попробовать - "
 "пожалуйста."
 
-#: Duncan.dialog:81
+#: Duncan.dialog:83
 msgid ""
 "I am not preparing anything. I am just stating what I see as inevitable in "
 "the future."
@@ -77,18 +77,18 @@ msgstr ""
 "Я не готовлю ничего такого. Просто я констатирую то, что вижу и определяю "
 "наиболее вероятные пути развития будущего."
 
-#: Duncan.dialog:82
+#: Duncan.dialog:84
 msgid ""
 "I have taken part in many conflicts and I have seen how governments collapse."
 msgstr ""
 "Я принимал участие во многих конфликтах и видел, как свергаются "
 "правительства."
 
-#: Duncan.dialog:83
+#: Duncan.dialog:85
 msgid "As soon as the war is over, the Red Guard will disband."
 msgstr "Как только война закончится, Красная Гвардия будет распущена."
 
-#: Duncan.dialog:84
+#: Duncan.dialog:86
 msgid ""
 "Of course, I am making the assumption of victory, which is highly unlikely "
 "with the current state of affairs."
@@ -96,11 +96,11 @@ msgstr ""
 "Конечно, я делаю предположение о победе, которая крайне нежелательна при "
 "текушем положении дел."
 
-#: Duncan.dialog:89
+#: Duncan.dialog:91
 msgid "The fall of the Red Guard? Tell me more about it."
 msgstr ""
 
-#: Duncan.dialog:91
+#: Duncan.dialog:93
 msgid ""
 "It is not the time to speak of such things yet. Come another day, and we "
 "shall talk about it in more detail."
@@ -108,7 +108,7 @@ msgstr ""
 "Не пришло ещё время говорить о таких вещах. Приходи как-нибудь потом и мы "
 "поговорим об этом более детально."
 
-#: Duncan.dialog:92
+#: Duncan.dialog:94
 msgid ""
 "The Red Guard can have their great laser beams and plasma cannons... But "
 "nothing can save them."
@@ -116,93 +116,93 @@ msgstr ""
 "Пусть у Красной Гвардии будут их великолепные лазерные лучи и плазменные "
 "орудия... Но их ничто не спасёт."
 
-#: Duncan.dialog:97
+#: Duncan.dialog:99
 msgid "I want to buy some grenades."
 msgstr ""
 
-#: Duncan.dialog:99
+#: Duncan.dialog:101
 msgid "Certainly."
 msgstr "О, конечно.."
 
-#: Duncan.dialog:99
+#: Duncan.dialog:101
 msgid "Sure."
 msgstr "Конечно."
 
-#: Duncan.dialog:99
+#: Duncan.dialog:101
 msgid "With pleasure I am showing you my offers."
 msgstr ""
 
-#: Duncan.dialog:104
+#: Duncan.dialog:106
 msgid "What kind of grenade is the best?"
 msgstr ""
 
-#: Duncan.dialog:106
+#: Duncan.dialog:108
 msgid "You get what you pay for."
 msgstr "Мощность прямо пропорциональна цене."
 
-#: Duncan.dialog:111
+#: Duncan.dialog:113
 msgid "How did you get into making explosives?"
 msgstr ""
 
-#: Duncan.dialog:113
+#: Duncan.dialog:115
 msgid "Twenty years ago there was a conflict."
 msgstr "Двадцать лет назад был один конфликт."
 
-#: Duncan.dialog:114
+#: Duncan.dialog:116
 msgid "A grenade I threw destroyed a being which killed many of... my people."
 msgstr ""
 "Я метнул гранату, которая уничтожила одну тварь, которая убила многих... "
 "моих людей."
 
-#: Duncan.dialog:115
+#: Duncan.dialog:117
 msgid "Now I make more to smash the destroyers."
 msgstr "Вот теперь я и делаю гранаты, чтоб сокрушать уничтожающих."
 
-#: Duncan.dialog:123
+#: Duncan.dialog:125
 msgid "Ah. Welcome again Linarian."
 msgstr "Аха! Добро пожаловать снова, линарианец."
 
-#: Duncan.dialog:124
+#: Duncan.dialog:126
 msgid "I have a little request for you."
 msgstr "У мя к тебе есть небольшой вопросец."
 
-#: Duncan.dialog:125
+#: Duncan.dialog:127
 msgid "I know someone who needs to be taught a lesson."
 msgstr "Я знаю кое-кого, кому нужно преподать урок."
 
-#: Duncan.dialog:126
+#: Duncan.dialog:128
 msgid "Interested?"
 msgstr "Интересуешься?"
 
-#: Duncan.dialog:131
+#: Duncan.dialog:133
 msgid "Tell me more."
 msgstr ""
 
-#: Duncan.dialog:133
+#: Duncan.dialog:135
 msgid "Ah, excellent."
 msgstr "О, отлично."
 
-#: Duncan.dialog:134
+#: Duncan.dialog:136
 msgid "A... friend of mine, Koan, stole something of great value to me."
 msgstr "Эм... мой друг, Коан, украл у меня одну очень ценную вещь."
 
-#: Duncan.dialog:135
+#: Duncan.dialog:137
 msgid "He is hiding somewhere in the desert, I don't know exactly where."
 msgstr "Он прячется где-то в пустыне, я не знаю где именно."
 
-#: Duncan.dialog:140
+#: Duncan.dialog:142
 msgid "I will get your property back."
 msgstr ""
 
-#: Duncan.dialog:142
+#: Duncan.dialog:144
 msgid "Excellent. I am pleased to hear this."
 msgstr "Отлично. Я рад это слышать."
 
-#: Duncan.dialog:143
+#: Duncan.dialog:145
 msgid "There is something you must know."
 msgstr "Ты должен кое-что знать."
 
-#: Duncan.dialog:144
+#: Duncan.dialog:146
 #, fuzzy
 msgid ""
 "There are not too many bots in the desert, but they are invincible. It is "
@@ -210,55 +210,55 @@ msgid ""
 msgstr ""
 "В пустыне не так много ботов, но они непобедимы. Лучше всего их избегать."
 
-#: Duncan.dialog:145
+#: Duncan.dialog:147
 msgid "I will be waiting here for your return."
 msgstr "Я буду ждать твоего возвращения."
 
-#: Duncan.dialog:146 Duncan.dialog:188 Duncan.dialog:238 Duncan.dialog:249
+#: Duncan.dialog:148 Duncan.dialog:190 Duncan.dialog:240 Duncan.dialog:251
 msgid "Doing Duncan a favor"
 msgstr ""
 
-#: Duncan.dialog:146
+#: Duncan.dialog:148
 msgid "Find Koan in the desert."
 msgstr ""
 
-#: Duncan.dialog:147
+#: Duncan.dialog:149
 msgid "That is all I need to know. I will find Koan."
 msgstr ""
 
-#: Duncan.dialog:148
+#: Duncan.dialog:150
 msgid "Only time will tell."
 msgstr "Только время покажет, насколько ты прав."
 
-#: Duncan.dialog:149
+#: Duncan.dialog:151
 msgid ""
 "In any case, I'll let the Red Guard know to open the western gate to the "
 "desert."
 msgstr ""
 
-#: Duncan.dialog:150
+#: Duncan.dialog:152
 #, fuzzy
 msgid "Good luck!"
 msgstr "Удачи"
 
-#: Duncan.dialog:156
+#: Duncan.dialog:158
 msgid "What are those bots?"
 msgstr ""
 
-#: Duncan.dialog:158
+#: Duncan.dialog:160
 #, fuzzy
 msgid "We call them 'Harvester'."
 msgstr "Мы называем их 'Лесопилками'."
 
-#: Duncan.dialog:159
+#: Duncan.dialog:161
 msgid "They were designed to chop down trees in the mountains."
 msgstr "Их сконструировали, чтобы они рубили деревья в горах."
 
-#: Duncan.dialog:160
+#: Duncan.dialog:162
 msgid "Now they chop down people."
 msgstr "Теперь они рубят людей."
 
-#: Duncan.dialog:161
+#: Duncan.dialog:163
 #, fuzzy
 msgid ""
 "Their only weak point is their security system. But no one has managed to "
@@ -267,62 +267,62 @@ msgstr ""
 "У них только одна слабая сторона - их система безопасности. Но пока никто не "
 "смог оставаться в живых достаточно долго, чтобы взломать их."
 
-#: Duncan.dialog:166
+#: Duncan.dialog:168
 #, fuzzy
 msgid "What is it that he took from you?"
 msgstr "ЧТО?! Что это ты такое хочешь сказать?"
 
-#: Duncan.dialog:168
+#: Duncan.dialog:170
 #, fuzzy
 msgid "A cube. Trust me, you can't miss it."
 msgstr "Куб. Ты не сможешь его не заметить, поверь мне."
 
-#: Duncan.dialog:173
+#: Duncan.dialog:175
 msgid "No, I don't find bloodshed a pleasurable activity."
 msgstr ""
 
-#: Duncan.dialog:175
+#: Duncan.dialog:177
 msgid "That is fine. I will find someone else."
 msgstr "Ничего, я найду кого-нибудь еще."
 
-#: Duncan.dialog:183
+#: Duncan.dialog:185
 msgid "So... Any news on the Koan matter?"
 msgstr "Ну что... Есть какие-нибудь новости о Коане?"
 
-#: Duncan.dialog:186
+#: Duncan.dialog:188
 msgid ""
 "I could not find him anywhere in the desert. I don't think he is there "
 "anymore."
 msgstr ""
 
-#: Duncan.dialog:187
+#: Duncan.dialog:189
 msgid "I see."
 msgstr "Понятно."
 
-#: Duncan.dialog:188
+#: Duncan.dialog:190
 msgid "I lied to Duncan about not finding Koan."
 msgstr ""
 
-#: Duncan.dialog:198
+#: Duncan.dialog:200
 msgid "Yeah. I got him. I think this is your cube."
 msgstr ""
 
-#: Duncan.dialog:200
+#: Duncan.dialog:202
 msgid "Yes. I appreciate your help."
 msgstr "Да. Я очень ценю твою помощь."
 
-#: Duncan.dialog:206
+#: Duncan.dialog:208
 msgid ""
 "Yeah, I got him. Now, what is this big cube that you had me carry all the "
 "way here?"
 msgstr ""
 
-#: Duncan.dialog:208
+#: Duncan.dialog:210
 #, fuzzy
 msgid "Just a memento from a friend."
 msgstr "Всего лишь памятка о друге."
 
-#: Duncan.dialog:209
+#: Duncan.dialog:211
 msgid ""
 "A little more than a portable end of the world, which I am looking forward "
 "to disassembling and learning its secrets."
@@ -330,147 +330,147 @@ msgstr ""
 "Немножко больше, чем переноской конец света, который я собираюсь разобрать и "
 "узнать его секреты."
 
-#: Duncan.dialog:210
+#: Duncan.dialog:212
 msgid "Nothing that important."
 msgstr "Ничего особенного."
 
-#: Duncan.dialog:215
+#: Duncan.dialog:217
 msgid ""
 "A 'few' bots? The place was crawling with Harvesters! I nearly got killed!"
 msgstr ""
 
-#: Duncan.dialog:217
+#: Duncan.dialog:219
 #, fuzzy
 msgid ""
 "There were only one hundred and twenty bots in the entire desert region. "
 "This hardly qualifies as many, considering the size of the area."
 msgstr "Да там всего-то сорок ботов. По-моему это немного."
 
-#: Duncan.dialog:218
+#: Duncan.dialog:220
 msgid ""
 "What? You know exactly how many bots were in the desert? Without being "
 "there? I don't like this."
 msgstr ""
 
-#: Duncan.dialog:219
+#: Duncan.dialog:221
 msgid "I just know a lot of things. You do not need to worry about it."
 msgstr "Я много чего знаю. И тебе не следует волноваться по этому поводу."
 
-#: Duncan.dialog:220
+#: Duncan.dialog:222
 msgid "I don't like this at all. I'm getting out of here."
 msgstr ""
 
-#: Duncan.dialog:221
+#: Duncan.dialog:223
 msgid "As you wish."
 msgstr "Как тебе будет угодно."
 
-#: Duncan.dialog:227
+#: Duncan.dialog:229
 msgid ""
 "Hey, that is really neat. Here is your cube. Enjoy disassembling it and have "
 "fun with it."
 msgstr ""
 
-#: Duncan.dialog:229
+#: Duncan.dialog:231
 msgid "I will."
 msgstr "Конечно повеселюсь."
 
-#: Duncan.dialog:235
+#: Duncan.dialog:237
 msgid "WHAT? No way I am giving you a doomsday device! Forget about it."
 msgstr ""
 
-#: Duncan.dialog:237
+#: Duncan.dialog:239
 msgid "I understand. So be it."
 msgstr "Я понимаю. Да будет так."
 
-#: Duncan.dialog:238
+#: Duncan.dialog:240
 msgid ""
 "No way am I giving Duncan that cube thingie. Who knows what he would do with "
 "it."
 msgstr ""
 
-#: Duncan.dialog:249
+#: Duncan.dialog:251
 msgid "I gave Duncan the cube thingie. It feels nice to help people."
 msgstr ""
 
-#: Duncan.dialog:254
+#: Duncan.dialog:256
 msgid "I feel you are... Different."
 msgstr ""
 
-#: Duncan.dialog:256
+#: Duncan.dialog:258
 msgid "What a great way to start a conversation."
 msgstr "Великолепный способ завязать беседу."
 
-#: Duncan.dialog:257
+#: Duncan.dialog:259
 msgid "Yes, that is true. I am not who I seem to be."
 msgstr "Да, это так. Я не тот, кем я кажусь."
 
-#: Duncan.dialog:258
+#: Duncan.dialog:260
 msgid "But then again, neither are you, so my thoughts are we are even."
 msgstr "Но, опять же, и ты не тот, кто ты есть. Думаю, у нас много общего."
 
-#: Duncan.dialog:259
+#: Duncan.dialog:261
 #, fuzzy
 msgid "What do you mean? I am "
 msgstr "А что ты хотел бы получить?"
 
-#: Duncan.dialog:259
+#: Duncan.dialog:261
 msgid " and not anyone else."
 msgstr ""
 
-#: Duncan.dialog:260
+#: Duncan.dialog:262
 msgid "And I am Duncan McNamara, the maker of grenades and nothing else."
 msgstr "А я Дункан МакНамара, изготовитель гранат и ничего больше."
 
-#: Duncan.dialog:262
+#: Duncan.dialog:264
 msgid "I believe the topic is thoroughly exhausted now."
 msgstr "Думаю, тема полностью исчерпана."
 
-#: Duncan.dialog:267
+#: Duncan.dialog:269
 msgid "Tell me who you are. I need to know."
 msgstr ""
 
-#: Duncan.dialog:269
+#: Duncan.dialog:271
 msgid "Twenty years ago, the people were kinder to each other."
 msgstr "Двадцать лет назад люди были более вежливы друг к другу."
 
-#: Duncan.dialog:270
+#: Duncan.dialog:272
 msgid "I suggest you be kind to me as well, and I will be kind to you."
 msgstr "Я полагаю, ты будешь вежлив со мной, а я буду вежлив с тобой."
 
-#: Duncan.dialog:271
+#: Duncan.dialog:273
 msgid "That way I get to keep my secret, and you get to keep yours."
 msgstr "Это позволит каждому из нас сохранить свои секреты."
 
-#: Duncan.dialog:276
+#: Duncan.dialog:278
 msgid "I don't have any secrets."
 msgstr ""
 
-#: Duncan.dialog:278
+#: Duncan.dialog:280
 msgid "And neither do I."
 msgstr "И у меня тоже нет."
 
-#: Duncan.dialog:286 Duncan.dialog:295
+#: Duncan.dialog:288 Duncan.dialog:297
 msgid "I wish you cold winds."
 msgstr "Желаю тебе прохладных крыльев."
 
-#: Duncan.dialog:287
+#: Duncan.dialog:289
 msgid ""
 "Huh? How do you know the Linarian farewell? No one around here knows it."
 msgstr ""
 
-#: Duncan.dialog:288
+#: Duncan.dialog:290
 msgid "I read many books on Linarians. That is all."
 msgstr "Я прочёл много книг о линарианцах. Вот и всё."
 
-#: Duncan.dialog:289
+#: Duncan.dialog:291
 msgid "Nothing more and nothing less."
 msgstr "Ничего более и ничего менее."
 
-#: Duncan.dialog:297
+#: Duncan.dialog:299
 msgid "May the ice bring you wisdom."
 msgstr "Пусть лёд дарует тебе мудрость."
 
-#: Duncan.dialog:302 Duncan.dialog:308
+#: Duncan.dialog:304 Duncan.dialog:310
 msgid "See you later."
 msgstr "Увидимся позже."
 

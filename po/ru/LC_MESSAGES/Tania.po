@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2008-12-16 05:43+0000\n"
 "Last-Translator: Dmitry Tumaikin <nevly@mail.ru>\n"
 "Language-Team: Russian\n"
@@ -15,32 +15,107 @@ msgstr ""
 "X-Launchpad-Export-Date: 2009-01-11 17:40+0000\n"
 "X-Generator: Launchpad (build Unknown)\n"
 
-#: Tania.dialog:38 Tania.dialog:41 Tania.dialog:175 Tania.dialog:202
+#: Tania.dialog:39 Tania.dialog:59 Tania.dialog:64 Tania.dialog:76
+#: Tania.dialog:292 Tania.dialog:354 Tania.dialog:368 Tania.dialog:389
+#: Tania.dialog:397 Tania.dialog:538
+msgid "Tania's Escape"
+msgstr ""
+
+#: Tania.dialog:42
+msgid "I long to see the surface."
+msgstr ""
+
+#: Tania.dialog:42
+msgid "You are the most interesting hallucination yet."
+msgstr ""
+
+#: Tania.dialog:47
+msgid "It is so very bright and hot out here."
+msgstr ""
+
+#: Tania.dialog:52
+msgid "Are we there yet?"
+msgstr ""
+
+#: Tania.dialog:52
+msgid "How much longer?"
+msgstr ""
+
+#: Tania.dialog:59
+msgid ""
+"Pendragon just stopped Tania and I at the city gate. Apparently he won't let "
+"her in, unless Spencer gives the go-ahead."
+msgstr ""
+
+#: Tania.dialog:60
+msgid "It is OK. I'll wait here at the gate."
+msgstr ""
+
+#: Tania.dialog:65
+#, fuzzy
+msgid "What is the news?"
+msgstr "...Ведь нет особой разницы ? "
+
+#: Tania.dialog:66
+msgid "I talked to Spencer, and he said you were welcome to enter the town."
+msgstr ""
+
+#: Tania.dialog:67
+msgid "That is great news!"
+msgstr ""
+
+#: Tania.dialog:69
+msgid "He said you must first get checked out by Doc Moore though."
+msgstr ""
+
+#: Tania.dialog:72
+msgid "He said you are free to go where you like."
+msgstr ""
+
+#: Tania.dialog:76
+msgid ""
+"I successfully brought Tania safely to the town. I hope she likes it here."
+msgstr ""
+
+#: Tania.dialog:82
+msgid "I have good news: the doctor says I'm healthy!"
+msgstr ""
+
+#: Tania.dialog:83
+#, fuzzy
+msgid "Where should I go?"
+msgstr "Где я?"
+
+#: Tania.dialog:84
+msgid "Anything but the army snacks, please!"
+msgstr ""
+
+#: Tania.dialog:92 Tania.dialog:95 Tania.dialog:238 Tania.dialog:265
 msgid "Tania's sanitary"
 msgstr ""
 
-#: Tania.dialog:49
+#: Tania.dialog:103
 #, fuzzy
 msgid "Um, hi."
 msgstr "Ээ, привет."
 
-#: Tania.dialog:51
+#: Tania.dialog:105
 msgid "Oh! It happened! I have been waiting for you for 3226 hours!"
 msgstr "О! Наконец-то! Я ждала тебя 3226 часов?"
 
-#: Tania.dialog:56
+#: Tania.dialog:110
 msgid "You knew I would come?"
 msgstr "Ты знала, что я прийду?"
 
-#: Tania.dialog:58
+#: Tania.dialog:112
 msgid "Of course, my little imaginary friend!"
 msgstr "Ну конечно, мой маленький воображаемый друг!"
 
-#: Tania.dialog:63
+#: Tania.dialog:117
 msgid "Imaginary?! I am as real as you are."
 msgstr "Воображаемый?! Да я такой же реальный, как и ты."
 
-#: Tania.dialog:65
+#: Tania.dialog:119
 #, fuzzy
 msgid ""
 "This place is locked. Hermetically sealed and guarded by bots. So you can't "
@@ -49,23 +124,23 @@ msgstr ""
 "Это помещение закрыто, герметично законсервированно и охраняется роботами. "
 "Так что ты не можешь быть ничем иным, кроме как продуктом моего воображения."
 
-#: Tania.dialog:66
+#: Tania.dialog:120
 msgid "But who are you?"
 msgstr ""
 
-#: Tania.dialog:67
+#: Tania.dialog:121
 msgid "A figment of my imagination should know my name: Tania."
 msgstr ""
 
-#: Tania.dialog:68
+#: Tania.dialog:122
 msgid "Tania - lonely scientist"
 msgstr ""
 
-#: Tania.dialog:73
+#: Tania.dialog:127
 msgid "Where am I?"
 msgstr "Где я?"
 
-#: Tania.dialog:75
+#: Tania.dialog:129
 msgid ""
 "In a prison, a luxurious prison. I am feeling quite lonely, as you can see. "
 "Big room, plenty of food, a waterfall behind the window..."
@@ -73,13 +148,13 @@ msgstr ""
 "В тюрьме, в роскошной тюрьме. Мне тут несколько одиноко, как ты наверное "
 "заметил. Большая комната, много еды, водопад за окном..."
 
-#: Tania.dialog:80
+#: Tania.dialog:134
 msgid ""
 "All I see through the window are ray emitters. And we are below ground "
 "level.."
 msgstr "За окном только излучатели, да и вообще, мы находимся под землей..."
 
-#: Tania.dialog:82
+#: Tania.dialog:136
 msgid ""
 "Yes, I know. But I so badly want to see sun, rivers, trees... there "
 "definitely is waterfall behind them!"
@@ -87,11 +162,11 @@ msgstr ""
 "Да, я знаю. Но я так хочу снова увидеть солнце, рки, деревья... так что за "
 "окном наверняка водопад!"
 
-#: Tania.dialog:87
+#: Tania.dialog:141
 msgid "It is dark here."
 msgstr "Тут довольно темно."
 
-#: Tania.dialog:89
+#: Tania.dialog:143
 #, fuzzy
 msgid ""
 "The main power supply is down, so only the emergency lights work. Peter "
@@ -100,11 +175,11 @@ msgstr ""
 "Основной источник питания отключен, так что я живу при аварийном освещении. "
 "Петя пытался включить питание, но у него ничего не получилось."
 
-#: Tania.dialog:94
+#: Tania.dialog:148
 msgid "This place doesn't look like a prison."
 msgstr "Я бы не сказал, что это место походит на тюрьму."
 
-#: Tania.dialog:96
+#: Tania.dialog:150
 #, fuzzy
 msgid ""
 "In the past it was a secret lab. You heard about those strength pills? They "
@@ -114,23 +189,23 @@ msgstr ""
 "силы? Их изобрели тут. И другие таблетки тоже, но я работала именно над "
 "усиливающими."
 
-#: Tania.dialog:101
+#: Tania.dialog:155
 msgid "Can you give me some pills then?"
 msgstr "Может ты мне дашь несколько штук?"
 
-#: Tania.dialog:103
+#: Tania.dialog:157
 msgid "No, Peter ate them all. That killed him."
 msgstr "Нет, Петр их все съел. И это его погубило."
 
-#: Tania.dialog:104 Tania.dialog:108
+#: Tania.dialog:158 Tania.dialog:162
 msgid "*cries*"
 msgstr "*плачет*"
 
-#: Tania.dialog:105
+#: Tania.dialog:159
 msgid "They say that strength pills are absolutely safe!"
 msgstr "А говорят, что усиливающие таблетки абсолютно безопасны!"
 
-#: Tania.dialog:106
+#: Tania.dialog:160
 msgid ""
 "They are like money. Having money is good, but if you have too much, you can "
 "decide that you can do anything."
@@ -138,7 +213,7 @@ msgstr ""
 "Они как деньги. Если у тебя есть деньги - то это хорошо, но если у тебя их "
 "слишком ного, ты можешь решить, что все дозволено."
 
-#: Tania.dialog:107
+#: Tania.dialog:161
 msgid ""
 "Peter became not very strong, but very-very-very strong. He thought he could "
 "make an exit with his bare hands."
@@ -146,7 +221,7 @@ msgstr ""
 "Петя стал не просто сильным, а очень-очень-очень сильным. Он думал, что "
 "сможет прокопать выход голыми руками."
 
-#: Tania.dialog:109
+#: Tania.dialog:163
 msgid ""
 "If you go further down the corridor, you will find debris and a big stone. "
 "That is his grave."
@@ -154,11 +229,11 @@ msgstr ""
 "Если пойдешь дальше по коридору, то наткнёшься на завал и большой камень "
 "перед ним. Это его могила."
 
-#: Tania.dialog:114
+#: Tania.dialog:168
 msgid "So you are a biologist? Could you heal me?"
 msgstr "Так ты биолог? Ты бы не могла меня полечить?"
 
-#: Tania.dialog:116
+#: Tania.dialog:170
 #, fuzzy
 msgid ""
 "That would be something different from what I've done in the last months at "
@@ -167,7 +242,7 @@ msgstr ""
 "Чтож, по крайней мере это будет что-то новенькое за последние месяцы, своего "
 "рода развлечение."
 
-#: Tania.dialog:117
+#: Tania.dialog:171
 #, fuzzy
 msgid ""
 "Let me take a look at that... it's nothing some nanobots couldn't take care "
@@ -176,23 +251,23 @@ msgstr ""
 "Дай-ка посмотреть... ничего такого, с чем бы не справились наноботы... Через "
 "митуту будешь как огурчик."
 
-#: Tania.dialog:117
+#: Tania.dialog:171
 msgid "You are now completely healed. You should take better care of yourself."
 msgstr ""
 
-#: Tania.dialog:122
+#: Tania.dialog:176
 msgid "You loved him?"
 msgstr "Ты его любила?"
 
-#: Tania.dialog:124
+#: Tania.dialog:178
 msgid "I still do."
 msgstr "Я все еще его люблю."
 
-#: Tania.dialog:129
+#: Tania.dialog:183
 msgid "But why not go out through the door?"
 msgstr "Но почему бы не выйти через дверь?"
 
-#: Tania.dialog:131
+#: Tania.dialog:185
 #, fuzzy
 msgid ""
 "It is locked and very reliable. Even a tank would not be able to smash it! "
@@ -201,16 +276,16 @@ msgstr ""
 "Она закрыта и очень надежна. Даже танк не смог бы пробить её! Кроме того, "
 "если сломать дверь, ДЗСО атакует тебя, у него такая программа."
 
-#: Tania.dialog:136
+#: Tania.dialog:190
 msgid "Autoguns have made a hole in the wall. I came through this hole."
 msgstr "Автопушки пробили дырку в стене. Я вошел через неё."
 
-#: Tania.dialog:138
+#: Tania.dialog:192
 #, fuzzy
 msgid "Do you mean I can go out to the surface?!"
 msgstr "Ты хочешь сказать, что я могу выбраться на поверхность?!"
 
-#: Tania.dialog:139
+#: Tania.dialog:193
 #, fuzzy
 msgid ""
 "Oh god! I - I told Peter that he chose the wrong place, but he was so "
@@ -219,60 +294,64 @@ msgstr ""
 "Боже! Я же говорила Пете, что он не там копает, но он был настолько в себе "
 "уверен!"
 
-#: Tania.dialog:144
+#: Tania.dialog:198
 msgid "Yes, you can get to the surface. But the guns are still on."
 msgstr ""
 "Да, ты можешь выйти на поверхность. Но есть одно но: пушки все еще работают."
 
-#: Tania.dialog:146
+#: Tania.dialog:200
 #, fuzzy
 msgid "All hope is lost! I'm a scientist, not a warrior."
 msgstr "Все надежды тщетны! Я ученый, а не воин."
 
-#: Tania.dialog:151
+#: Tania.dialog:206
+msgid "SADD -- Exterminate Mode"
+msgstr ""
+
+#: Tania.dialog:214
 msgid "It is strange to see a girl in such a beautiful dress here."
 msgstr "Я очень удивился, увидев здесь девушку втаком красивом платье."
 
-#: Tania.dialog:153
+#: Tania.dialog:216
 #, fuzzy
 msgid ""
 "I'm going to spend all my life here! So forgive me some little indulgences."
 msgstr ""
 "Я останусь здесь до конца веков! Так что прости мне маленькие слабости."
 
-#: Tania.dialog:158
+#: Tania.dialog:221
 msgid "Maybe is it possible to disable the guns?"
 msgstr "Может быть можно как-то отключить пушки?"
 
-#: Tania.dialog:160
+#: Tania.dialog:223
 msgid ""
 "Theoretically yes, but in practice I'm not sure you would be able to do that."
 msgstr ""
 "Теоретически - да. Но практически я сильно сомневаюсь, что у тебя это "
 "получится."
 
-#: Tania.dialog:165
+#: Tania.dialog:228
 msgid "How can I disable the guns?"
 msgstr "Как их отключить?"
 
-#: Tania.dialog:167
+#: Tania.dialog:230
 #, fuzzy
 msgid ""
 "Somewhere in a distant part of the lab should be an SACD - Secret Area "
-"Control Droid. It controls all the defense systems in the base. If you "
-"manage to persuade it, you would be able to control the base. However, it's "
+"Control Datacenter. It controls all the defense systems in the base. If you "
+"manage to get to it, you would be able to control the base. However, it's "
 "very hard to find and get to the SACD."
 msgstr ""
 "Где-то в отделённой части лаборатории должен быть ДКСО - дроид контроля "
 "секретных сооружений. Он управляет обороной базы. Если тебе удастся его "
 "уболтать, то ты сможешь управлять базой. Но его довольно сложно найти."
 
-#: Tania.dialog:172
+#: Tania.dialog:235
 #, fuzzy
 msgid "I will disable the guns for you."
 msgstr "Для тебя я отключу пушки."
 
-#: Tania.dialog:174
+#: Tania.dialog:237
 msgid ""
 "Thanks... please be careful. You will not be able to access the control "
 "center directly, it is behind a triple hermetic door. Try using the service "
@@ -282,20 +361,20 @@ msgstr ""
 "удастся, он за тройными герметичными дверьми. Попробуй воспользоваться "
 "служебными тонелями."
 
-#: Tania.dialog:175
+#: Tania.dialog:238
 msgid ""
 "I have met a girl locked in a secret area. If I manage to disable the "
 "autoguns, she will be able to go to the surface and look at the sun again."
 msgstr ""
 
-#: Tania.dialog:180
+#: Tania.dialog:243
 #, fuzzy
 msgid "Why not just open them? There should be a way of unlocking the base."
 msgstr ""
 "Но почему бы просто не открыть их? Должен же быть какой-то способ "
 "разблокировать базу."
 
-#: Tania.dialog:182
+#: Tania.dialog:245
 #, fuzzy
 msgid ""
 "To open the door you need to know the password. Only the commander of the "
@@ -307,11 +386,11 @@ msgstr ""
 "заместитель знали пароль. Начальника убили боты в самом начале атаки, а его "
 "заместитель был в городе, я не знаю, что с ним случилось."
 
-#: Tania.dialog:187
+#: Tania.dialog:250
 msgid "Carpets, sofa, bookshelfs. Where did you get all this?"
 msgstr "Ковры, диван, книжные полки. Откуда все это?"
 
-#: Tania.dialog:189
+#: Tania.dialog:252
 #, fuzzy
 msgid ""
 "Peter did all he could to make this room comfortable. The sofa and armchair "
@@ -320,11 +399,11 @@ msgstr ""
 "Петя сделал все, что мог, чтобы сделать эту комнату удобной. Диван и кресла "
 "он притащил из комнатя командира, книги из комнаты отдыха..."
 
-#: Tania.dialog:194
+#: Tania.dialog:257
 msgid "The sentry guns are off. You can go now!"
 msgstr "Защитные пушки отключены. Ты можешь идти!"
 
-#: Tania.dialog:196
+#: Tania.dialog:259
 #, fuzzy
 msgid ""
 "Thanks, thanks a lot! Now I will be able to see the sun, trees, rivers... I "
@@ -333,23 +412,23 @@ msgstr ""
 "Спасибо, спасибо огромное! Теперь я смогу наконец увидеть солнце, деревья, "
 "реки. Я так по ним скучала!"
 
-#: Tania.dialog:197
+#: Tania.dialog:260
 msgid "I hope these books will help you survive in this world."
 msgstr "Надеюсь эти книги помогут тебе выжить в этом мире."
 
-#: Tania.dialog:198
+#: Tania.dialog:261
 msgid "Tania is now free!"
 msgstr ""
 
-#: Tania.dialog:202
+#: Tania.dialog:265
 msgid "Tania is free now, I got some books as reward."
 msgstr ""
 
-#: Tania.dialog:207
+#: Tania.dialog:270
 msgid "Where can I find that SACD?"
 msgstr "Где мне искать ДКСО?"
 
-#: Tania.dialog:209
+#: Tania.dialog:272
 #, fuzzy
 msgid ""
 "To the right from the entrance of the area, there is a hall. In the south "
@@ -361,23 +440,282 @@ msgstr ""
 "секретных сооружений. Он управляет обороной базы. Если тебе удастся его "
 "уболтать, то ты сможешь управлять базой. Но его довольно сложно найти."
 
-#: Tania.dialog:213
+#: Tania.dialog:276
 msgid "Are you staying here? I can help you get to the town."
 msgstr "Ты остаёшься здесь? Я могу проводить тебя догорода."
 
-#: Tania.dialog:215
+#: Tania.dialog:278
 msgid "No, thanks. I don't want to go far from Peter."
 msgstr "Нет, спасибо. Я не хочу уходить далеко от Петра."
 
-#: Tania.dialog:220
+#: Tania.dialog:284
+msgid "I'm not ready to escort you to the town."
+msgstr ""
+
+#: Tania.dialog:290
+#, fuzzy
+msgid "I'm ready to escort you to the town."
+msgstr "Я хотел бы забраться в шахту."
+
+#: Tania.dialog:292
+msgid ""
+"I have agreed to escort Tania to the town. Once I'm there I'll introduce her "
+"to Spencer."
+msgstr ""
+
+#: Tania.dialog:299
+msgid "It isn't all like this, the town is very nice."
+msgstr ""
+
+#: Tania.dialog:305
+msgid "I got lost in this desert once."
+msgstr ""
+
+#: Tania.dialog:311
+msgid "It must be hard adjusting to the bright sunlight."
+msgstr ""
+
+#: Tania.dialog:313
+#, fuzzy
+msgid "I was underground for so long."
+msgstr "Подземная арена."
+
+#: Tania.dialog:314
+msgid "It is all so bright on my eyes."
+msgstr ""
+
+#: Tania.dialog:323
+msgid "Bottled ice"
+msgstr ""
+
+#: Tania.dialog:327
+msgid "Industrial coolant"
+msgstr ""
+
+#: Tania.dialog:331
+msgid "Liquid nitrogen"
+msgstr ""
+
+#: Tania.dialog:335
+msgid "Barf's Energy Drink"
+msgstr ""
+
+#: Tania.dialog:340
+msgid "I hope we get there soon. I'm very thirsty."
+msgstr ""
+
+#: Tania.dialog:348
+msgid "Would you like some bottled ice?"
+msgstr ""
+
+#: Tania.dialog:350 Tania.dialog:385
+#, fuzzy
+msgid "Thank you very much."
+msgstr "Спасибо."
+
+#: Tania.dialog:351
+msgid "I feel very refreshed!"
+msgstr ""
+
+#: Tania.dialog:354
+msgid ""
+"Tania wasn't prepared for the desert heat. I gave her some bottled ice, and "
+"she looked much more healthy."
+msgstr ""
+
+#: Tania.dialog:359
+msgid "I have some industrial coolant you could have."
+msgstr ""
+
+#: Tania.dialog:361 Tania.dialog:378
+msgid "I can't drink this."
+msgstr ""
+
+#: Tania.dialog:363
+msgid "I've seen the town bartender put it in drinks."
+msgstr ""
+
+#: Tania.dialog:364
+#, fuzzy
+msgid "I guess I'll give it a try then."
+msgstr "Думаю, я начну с себя."
+
+#: Tania.dialog:367
+msgid "I feel very cold, but better."
+msgstr ""
+
+#: Tania.dialog:368
+msgid ""
+"Tania wasn't prepared for the desert heat. I gave her some Industrial "
+"coolant. At first she was hesitant, but she tried it."
+msgstr ""
+
+#: Tania.dialog:376
+msgid "Can I offer you some liquid nitrogen?"
+msgstr ""
+
+#: Tania.dialog:383
+msgid "You could have a bottle of Barf's Energy Drink if you are thirsty?"
+msgstr ""
+
+#: Tania.dialog:386
+msgid "I feel very energetic!"
+msgstr ""
+
+#: Tania.dialog:389
+msgid ""
+"Tania wasn't prepared for the desert heat. I gave her a bottle of Barf's "
+"Energy Drink. After downing it in a couple seconds, she looked much more "
+"energetic!"
+msgstr ""
+
+#: Tania.dialog:394
+msgid "Sorry, I have nothing to offer you."
+msgstr ""
+
+#: Tania.dialog:396
+msgid "I feel very ill."
+msgstr ""
+
+#: Tania.dialog:397
+msgid ""
+"Tania wasn't prepared for the desert heat, but I decided not to share any of "
+"my liquids with her."
+msgstr ""
+
+#: Tania.dialog:411
+msgid "I feel a little faint, but I think I will survive."
+msgstr ""
+
+#: Tania.dialog:423
+msgid "I've am injured!"
+msgstr ""
+
+#: Tania.dialog:426
+msgid "I've am badly injured!"
+msgstr ""
+
+#: Tania.dialog:429
+msgid "I've am seriously injured!"
+msgstr ""
+
+#: Tania.dialog:433
+msgid "Doc-in-a-can"
+msgstr ""
+
+#: Tania.dialog:436
+msgid "Antibiotic"
+msgstr ""
+
+#: Tania.dialog:439
+msgid "Diet supplement"
+msgstr ""
+
+#: Tania.dialog:446
+#, fuzzy
+msgid "There is nothing I can do about your injuries right now."
+msgstr "Ты должен кое-что знать."
+
+#: Tania.dialog:448
+msgid "I hope we get to the town soon."
+msgstr ""
+
+#: Tania.dialog:453
+msgid "Here, take this Diet supplement."
+msgstr ""
+
+#: Tania.dialog:455
+#, fuzzy
+msgid "I feel better now."
+msgstr "Вот. Здесь всё.Here."
+
+#: Tania.dialog:462
+msgid "I'm proscribing you some antibiotics."
+msgstr ""
+
+#: Tania.dialog:464
+msgid "I feel much better."
+msgstr ""
+
+#: Tania.dialog:471
+msgid "I have a Doc-in-a-can. It should heal you right up."
+msgstr ""
+
+#: Tania.dialog:473
+msgid "I feel fit as new!"
+msgstr ""
+
+#: Tania.dialog:480
+msgid ""
+"I think you would enjoy some of Michelangelo's cooking at the restaurant."
+msgstr ""
+
+#: Tania.dialog:484
+msgid "It has been so long since I've had a nice meal."
+msgstr ""
+
+#: Tania.dialog:489
+msgid "You might try the bar. But stay away from the food. It is horrible."
+msgstr ""
+
+#: Tania.dialog:493
+msgid "I really miss good food, especially lemon meringue pie."
+msgstr ""
+
+#: Tania.dialog:494
+#, fuzzy
+msgid "Oh well."
+msgstr "Мне хреново."
+
+#: Tania.dialog:500
 msgid "I think I have to go."
 msgstr "Кажется мне пора."
 
-#: Tania.dialog:222
+#: Tania.dialog:507 Tania.dialog:541
+#, fuzzy
+msgid "Follow me to the Surface!"
+msgstr "Ты хочешь сказать, что я могу выбраться на поверхность?!"
+
+#: Tania.dialog:514 Tania.dialog:543
+msgid "Follow me to the Town!"
+msgstr ""
+
+#: Tania.dialog:521 Tania.dialog:546
+msgid "Wait here."
+msgstr ""
+
+#: Tania.dialog:528 Tania.dialog:549
+msgid "See you later."
+msgstr "Увидимся позже."
+
+#: Tania.dialog:544
+msgid "Lead on, my little penguin."
+msgstr ""
+
+#: Tania.dialog:547
+#, fuzzy
+msgid "OK. But please, come back soon."
+msgstr "Ладно. Но, пожалуйста, пожалуйста, приходи еще. Я так одинока."
+
+#: Tania.dialog:550
+msgid "Please be safe!"
+msgstr ""
+
+#: Tania.dialog:550
+#, fuzzy
+msgid "Thanks again."
+msgstr "Спасибо, чувак!"
+
+#: Tania.dialog:550
+#, fuzzy
+msgid "Please come back again, my little penguin."
+msgstr "Пожалуйста приходи еще, Линарин. Нам с тобой надо поговорить."
+
+#: Tania.dialog:553
 msgid "That's ok. But please, please, come back. I'm so lonely."
 msgstr "Ладно. Но, пожалуйста, пожалуйста, приходи еще. Я так одинока."
 
-#: Tania.dialog:222
+#: Tania.dialog:553
 #, fuzzy
 msgid "Please come back again and get me out of here."
 msgstr "Пожалуйста приходи еще, Линарин. Нам с тобой надо поговорить."
@@ -557,9 +895,6 @@ msgstr "Пожалуйста приходи еще, Линарин. Нам с т
 #~ msgid "And neither do I."
 #~ msgstr "И у меня тоже нет."
 
-#~ msgid "See you later."
-#~ msgstr "Увидимся позже."
-
 #~ msgid "I wish you cold winds."
 #~ msgstr "Желаю тебе прохладных крыльев."
 
@@ -574,9 +909,6 @@ msgstr "Пожалуйста приходи еще, Линарин. Нам с т
 
 #~ msgid "Good day. I am Bruce."
 #~ msgstr "Добрый день. Я Брюс."
-
-#~ msgid "I am unwell."
-#~ msgstr "Мне хреново."
 
 #~ msgid "I am very tired, but otherwise well."
 #~ msgstr "Очень устал, а в остальном - нормально."
@@ -878,9 +1210,6 @@ msgstr "Пожалуйста приходи еще, Линарин. Нам с т
 #~ "Now, take this as a reward. And you can be sure that I'll vote for you if "
 #~ "you seek membership in the Red Guard!"
 #~ msgstr "Я точняк за тебя если надумаешь записаться в Красную Гвардию!"
-
-#~ msgid "Thanks, man!"
-#~ msgstr "Спасибо, чувак!"
 
 #~ msgid "WHAT? Did you just say I'm stupid?"
 #~ msgstr "ЧЁ-Ё-Ё?! Ты кого тупым назвал?"
@@ -1413,10 +1742,6 @@ msgstr "Пожалуйста приходи еще, Линарин. Нам с т
 #~ "будет сложно."
 
 #, fuzzy
-#~ msgid "There, all better."
-#~ msgstr "Вот. Здесь всё.Here."
-
-#, fuzzy
 #~ msgid "Don't come back without the Tachyon Condensator."
 #~ msgstr "Лучше уж никогда. Я тебя ненавижу."
 
@@ -1702,9 +2027,6 @@ msgstr "Пожалуйста приходи еще, Линарин. Нам с т
 #~ msgstr ""
 #~ "Я не астроном и могу ошибаться. Но мне надоело постоянно следить за "
 #~ "мнениями о том, что считать планетой, а что гигантским камнем."
-
-#~ msgid "I guess I will start with myself."
-#~ msgstr "Думаю, я начну с себя."
 
 #~ msgid ""
 #~ "Francis. Francis Spark. I used to be a teacher at a small university "
@@ -3983,10 +4305,6 @@ msgstr "Пожалуйста приходи еще, Линарин. Нам с т
 #~ "просто быть разорванным на куски бывшими слугами... "
 
 #, fuzzy
-#~ msgid "... What's the difference?"
-#~ msgstr "...Ведь нет особой разницы ? "
-
-#, fuzzy
 #~ msgid "I don't want to hear this jabberwocky."
 #~ msgstr "Я не хочу слушать эту трепотню. "
 
@@ -4158,9 +4476,6 @@ msgstr "Пожалуйста приходи еще, Линарин. Нам с т
 
 #~ msgid "Excellent. I am pleased to hear this."
 #~ msgstr "Отлично. Я рад это слышать."
-
-#~ msgid "There is something you must know."
-#~ msgstr "Ты должен кое-что знать."
 
 #~ msgid ""
 #~ "There are not too many bots in the desert, but they are undefeatable. It "
@@ -4752,9 +5067,6 @@ msgstr "Пожалуйста приходи еще, Линарин. Нам с т
 #~ msgid "YOU MAY PASS."
 #~ msgstr "ВЫ МОЖЕТЕ ПРОЙТИ."
 
-#~ msgid "Thank you."
-#~ msgstr "Спасибо."
-
 #~ msgid "ERROR: REASON INVALID."
 #~ msgstr "ОШИБКА: ПРИЧИНА НЕВЕРНА."
 
@@ -5100,9 +5412,6 @@ msgstr "Пожалуйста приходи еще, Линарин. Нам с т
 
 #~ msgid "Butch... The arena master."
 #~ msgstr "Батч... Хозяин арены."
-
-#~ msgid "The underground arena."
-#~ msgstr "Подземная арена."
 
 #~ msgid "Wanna fight?"
 #~ msgstr "Сразиться не желаешь?"
@@ -6122,9 +6431,6 @@ msgstr "Пожалуйста приходи еще, Линарин. Нам с т
 #~ msgid "Ok!  But don't make any trouble!  Or you'll be in trouble!"
 #~ msgstr ""
 #~ "О'кей, только не создавай проблем. Иначе проблемы будут у тебя самого!"
-
-#~ msgid "I'd like to get into the mine."
-#~ msgstr "Я хотел бы забраться в шахту."
 
 #~ msgid "I'm here to make an end to your mining business."
 #~ msgstr "Я тут чтоб положить конец твоему горняцкому делу."

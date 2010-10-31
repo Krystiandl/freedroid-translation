@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -43,8 +43,8 @@ msgid "Tania's sanitary"
 msgstr "Toilettes de Tania"
 
 #: SACD.dialog:38
-msgid "I have found that SACD and hacked it's system."
-msgstr "J'ai trouvé ce SACD est je suis rentré dans son système."
+msgid "I have found the Secret Area Control Datacenter."
+msgstr ""
 
 #: SACD.dialog:43 SACD.dialog:56 SACD.dialog:69 SACD.dialog:81
 msgid "admin@sadefence: ~ #"
@@ -99,32 +99,30 @@ msgid "An error occured while opening doors."
 msgstr "Une erreur est survenue à l'ouverture des portes"
 
 #: SACD.dialog:85
-msgid "./hcf.py"
-msgstr " ./hcf.py"
-
-#: SACD.dialog:87
-msgid "Executing: Halt and Catch Fire."
-msgstr "Exécution : Arrêt et Autodestruction"
-
-#: SACD.dialog:88
-msgid "Cooling subsystems disabled."
-msgstr "Sous-systèmes de refroidissement désactivés."
-
-#: SACD.dialog:89
-msgid ""
-"Warning! Spontaneous oxidization witH emis$ion of light aND heAt detecteddd "
-"in THE#main| procesIng unit,"
-msgstr ""
-"Attention ! Oxydation spontanée aveC émis$ion de lumière ET de chAleur "
-"détectéeee dans L'#Unité| de cAlcUl pRinc1pale,"
-
-#: SACD.dialog:90
-msgid "SsTeM=#faiPure%^#n 3 S 1()$++"
-msgstr "SsTeM=#faiPure%^#n 3 S 1()$++"
-
-#: SACD.dialog:96
 msgid "logout"
 msgstr " Déconnection"
+
+#~ msgid "I have found that SACD and hacked it's system."
+#~ msgstr "J'ai trouvé ce SACD est je suis rentré dans son système."
+
+#~ msgid "./hcf.py"
+#~ msgstr " ./hcf.py"
+
+#~ msgid "Executing: Halt and Catch Fire."
+#~ msgstr "Exécution : Arrêt et Autodestruction"
+
+#~ msgid "Cooling subsystems disabled."
+#~ msgstr "Sous-systèmes de refroidissement désactivés."
+
+#~ msgid ""
+#~ "Warning! Spontaneous oxidization witH emis$ion of light aND heAt "
+#~ "detecteddd in THE#main| procesIng unit,"
+#~ msgstr ""
+#~ "Attention ! Oxydation spontanée aveC émis$ion de lumière ET de chAleur "
+#~ "détectéeee dans L'#Unité| de cAlcUl pRinc1pale,"
+
+#~ msgid "SsTeM=#faiPure%^#n 3 S 1()$++"
+#~ msgstr "SsTeM=#faiPure%^#n 3 S 1()$++"
 
 #~ msgid "Sure. I'll sign it."
 #~ msgstr " Certainement. Je le signerai."

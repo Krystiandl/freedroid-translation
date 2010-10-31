@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-04-24 11:46+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -87,50 +87,50 @@ msgstr ""
 msgid "And you are at least a quarter wrong."
 msgstr ""
 
-#: Jasmine.dialog:92
+#: Jasmine.dialog:93
 msgid "Now, please get out of my sight."
 msgstr ""
 
-#: Jasmine.dialog:97
+#: Jasmine.dialog:98
 msgid "Will you marry me?"
 msgstr ""
 
-#: Jasmine.dialog:99
+#: Jasmine.dialog:100
 msgid "Forget it."
 msgstr ""
 
-#: Jasmine.dialog:104
+#: Jasmine.dialog:105
 msgid "See you later."
 msgstr ""
 
-#: Jasmine.dialog:112
+#: Jasmine.dialog:113
 msgid "Yeah. Whatever."
 msgstr ""
 
-#: Jasmine.dialog:115
+#: Jasmine.dialog:116
 msgid "Yeah. Wha -- SIGSEGV."
 msgstr ""
 
-#: Jasmine.dialog:116
+#: Jasmine.dialog:117
 msgid "Segmentation fault."
 msgstr ""
 
-#: Jasmine.dialog:117
+#: Jasmine.dialog:118
 msgid "Huh?"
 msgstr ""
 
-#: Jasmine.dialog:118
+#: Jasmine.dialog:119
 msgid "Traceback printed to stdout."
 msgstr ""
 
-#: Jasmine.dialog:119
+#: Jasmine.dialog:120
 msgid "Kernel panic in module: Jasmine"
 msgstr ""
 
-#: Jasmine.dialog:120
+#: Jasmine.dialog:121
 msgid "Buffer overrun in anger.c:1532"
 msgstr ""
 
-#: Jasmine.dialog:121
+#: Jasmine.dialog:122
 msgid "Core dumped. System halted."
 msgstr ""

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -54,8 +54,8 @@ msgstr ""
 "utiliser Kevin et ses connaissances ici, avec ses ordinateurs, plutôt que "
 "lorsqu'il sera détenu dans une cellule en ville."
 
-#: Kevin.dialog:44 Kevin.dialog:45 Kevin.dialog:49 Kevin.dialog:80
-#: Kevin.dialog:192 Kevin.dialog:193 Kevin.dialog:200
+#: Kevin.dialog:44 Kevin.dialog:45 Kevin.dialog:49 Kevin.dialog:81
+#: Kevin.dialog:193 Kevin.dialog:194 Kevin.dialog:201
 msgid "And there was light..."
 msgstr "Et la lumière fût…"
 
@@ -76,36 +76,40 @@ msgstr ""
 "ça ? Ils vous ont torturé ?"
 
 #: Kevin.dialog:64
-msgid "Hi. I haven't slept for a few weeks, so I'm just a little bit tired."
+msgid ""
+"Hi. I haven't eaten and slept very much in the last time so I'm a little "
+"hungry and may appear a little tired."
 msgstr ""
-"Salut. Ça fait quelques semaines que je n'ai pas dormi, je suis seulement un "
-"peu fatigué."
 
 #: Kevin.dialog:65
+msgid "One of the side effects of always deleting all cookies."
+msgstr ""
+
+#: Kevin.dialog:66
 msgid "Don't worry about me. I'll be fine."
 msgstr "Ne t'en fais pas pour moi. Je vais bien."
 
-#: Kevin.dialog:66
+#: Kevin.dialog:67
 msgid "I'm Kevin, a computer security expert."
 msgstr "Je m'appelle Kevin, je suis expert en sécurité informatique."
 
-#: Kevin.dialog:67
+#: Kevin.dialog:68
 msgid "In other words: You are a hacker."
 msgstr " Autrement dit : tu es un hacker."
 
-#: Kevin.dialog:68
+#: Kevin.dialog:69
 msgid "Eh... I guess you could put it that way, yes."
 msgstr "Eh bien... Je suppose que tu peux le dire comme ça, oui."
 
-#: Kevin.dialog:69
+#: Kevin.dialog:70
 msgid "Kevin --- Hacker"
 msgstr "Kevin – Hacker"
 
-#: Kevin.dialog:74
+#: Kevin.dialog:75
 msgid "I'll see after the energy supply now."
 msgstr " Je m'en vais à la recherche de la source d'énergie."
 
-#: Kevin.dialog:76
+#: Kevin.dialog:77
 msgid ""
 "That's great. You can't miss it. It's not hard to find. Enter my garden and "
 "find the lower station entrance there."
@@ -113,7 +117,7 @@ msgstr ""
 "C'est super. Tu ne peux pas la rater. Ce n'est pas difficile à trouver. Va "
 "dans mon jardin, tu y trouveras l'entrée de la station souterraine."
 
-#: Kevin.dialog:77
+#: Kevin.dialog:78
 msgid ""
 "It would be best not to bother with the resistance on the first level. You "
 "only need to take care of the energy supply. And that's on the SECOND level."
@@ -121,7 +125,7 @@ msgstr ""
 "Ne t'occupe pas des robots du premier sous-sol. Il faut uniquement que tu "
 "t'occupes de la source d'énergie, qui se trouve au DEUXIÈME sous-sol."
 
-#: Kevin.dialog:78
+#: Kevin.dialog:79
 msgid ""
 "I hope you have a laser pistol or something like that, the bots there will "
 "rip you apart if you try to approach them."
@@ -129,14 +133,14 @@ msgstr ""
 "J'espère pour toi que tu as un pistolet laser, ou quelque chose comme ça. "
 "Les robots te pulvériserons si tu les approches."
 
-#: Kevin.dialog:79
+#: Kevin.dialog:80
 msgid ""
 "Best make it quick. I'm already sick of stabilizing the stupid power grid."
 msgstr ""
 "Fais au plus vite. Je me sens déjà mal de stabiliser ce stupide réseau "
 "énergétique."
 
-#: Kevin.dialog:80
+#: Kevin.dialog:81
 msgid ""
 "The entrance is in Kevins garden. According to Kevin I also don't need to "
 "bother with bots on the first level, just go straight for the second level."
@@ -145,7 +149,7 @@ msgstr ""
 "m'ennuyer avec les robots du premier niveau, juste d'aller tout droit vers "
 "le second niveau."
 
-#: Kevin.dialog:85
+#: Kevin.dialog:86
 msgid ""
 "I'm sorry, but I don't think there's anything I could do about that energy "
 "supply."
@@ -153,19 +157,19 @@ msgstr ""
 " Je suis désolé, mais je ne crois pas qu'il y ait quoi que ce soit que je "
 "puisse faire à propos de l'approvisionnement en énergie."
 
-#: Kevin.dialog:87
+#: Kevin.dialog:88
 msgid "Too bad. Now get out of my sight."
 msgstr "Dommage. Maintenant, hors de ma vue."
 
-#: Kevin.dialog:92
+#: Kevin.dialog:93
 msgid "About that project you said you have running..."
 msgstr "À propos de ce projet que tu disais avoir en cours..."
 
-#: Kevin.dialog:94 Kevin.dialog:109 Kevin.dialog:118
+#: Kevin.dialog:95 Kevin.dialog:110 Kevin.dialog:119
 msgid "A kingdom for a cluster!"
 msgstr "Un royaume pour un cluster !"
 
-#: Kevin.dialog:95
+#: Kevin.dialog:96
 msgid ""
 "I've already received the results from the evaluation of my data in the "
 "cluster. Good work."
@@ -173,7 +177,7 @@ msgstr ""
 "J'ai déjà reçu les résultats de l'analyse de mes données au cluster. Bon "
 "travail."
 
-#: Kevin.dialog:97
+#: Kevin.dialog:98
 msgid ""
 "Yes, since the energy supply has been constant, results were much better. "
 "I've achieved my goal."
@@ -181,7 +185,7 @@ msgstr ""
 "Oui, étant donné que l'approvisionnement en énergie est resté régulier, les "
 "résultats ont été bien meilleurs. J'ai pu parvenir à mon but."
 
-#: Kevin.dialog:98
+#: Kevin.dialog:99
 msgid ""
 "I've obtained secret data on the town surroundings. We'll need a big "
 "computer cluster to evaluate it properly."
@@ -190,7 +194,7 @@ msgstr ""
 "allons avoir besoin d'un important cluster d'ordinateurs pour les analyser "
 "correctement."
 
-#: Kevin.dialog:99
+#: Kevin.dialog:100
 msgid ""
 "Once we've evaluated the data, we might find a way to secure the town and "
 "ensure our survival. But it's too early to tell yet."
@@ -200,7 +204,7 @@ msgstr ""
 "\r\n"
 "Mais il est trop tôt pour se prononcer pour l'instant."
 
-#: Kevin.dialog:100
+#: Kevin.dialog:101
 msgid ""
 "If I only had a suitable cluster. Then we could start data evaluation right "
 "away."
@@ -208,12 +212,12 @@ msgstr ""
 "Si seulement j'avais un cluster satisfaisant, je pourrais commencer "
 "l'analyse des données sur le champ..."
 
-#: Kevin.dialog:107
+#: Kevin.dialog:108
 msgid "Maybe I can help somehow to find a suitable cluster."
 msgstr ""
 " Peut-être puis-je t'être utile dans la recherche d'un cluster adéquat."
 
-#: Kevin.dialog:110
+#: Kevin.dialog:111
 msgid ""
 "You've already agreed to take my data cube to the cluster. I have no "
 "influence on this matter anymore."
@@ -221,7 +225,7 @@ msgstr ""
 "Tu as déjà donné ton accord pour apporter mon cube de données au cluster. Je "
 "ne peux rien faire de plus avec ce truc."
 
-#: Kevin.dialog:111
+#: Kevin.dialog:112
 msgid ""
 "The fate of the town now rests in your hands. Take the data cube I gave you "
 "to the cluster. Only there can the data be evaluated properly."
@@ -230,7 +234,7 @@ msgstr ""
 "cluster. C'est le seul endroit où l'on pourra analyser les données "
 "correctement."
 
-#: Kevin.dialog:113
+#: Kevin.dialog:114
 msgid ""
 "That would be great of course. I know that the old town is maintaining a "
 "suitable information infrastructure and has had a proper cluster running for "
@@ -240,7 +244,7 @@ msgstr ""
 "infrastructure de stockage d'informations fonctionnelle, et un cluster "
 "approprié, depuis quelques temps maintenant."
 
-#: Kevin.dialog:114
+#: Kevin.dialog:115
 msgid ""
 "The only problem is, I can't go back to town. They would probably kill me "
 "because of... a misunderstanding."
@@ -248,7 +252,7 @@ msgstr ""
 "Le seul problème, c'est que je ne peux pas retourner à la ville. À cause "
 "d'un vieux différent, je risque d'être tué."
 
-#: Kevin.dialog:115
+#: Kevin.dialog:116
 msgid ""
 "Also, the cluster is inside of the guard citadel. I hear that only members "
 "of the Red Guard are allowed to enter the complex."
@@ -257,7 +261,7 @@ msgstr ""
 "On m'a dit que seuls les membres de la Garde Rouge ont le droit de pénétrer "
 "dans le complexe."
 
-#: Kevin.dialog:116
+#: Kevin.dialog:117
 msgid ""
 "But maybe you can arrange that somehow. For me it would be impossible, "
 "because of my reputation."
@@ -265,7 +269,7 @@ msgstr ""
 "Mais peut-être peux-tu te débrouiller. Pour moi c'est impossible, à cause de "
 "ma mauvaise réputation."
 
-#: Kevin.dialog:117
+#: Kevin.dialog:118
 msgid ""
 "I'll give you the data cube. Take it to the computer cluster administration "
 "people. They will know what to do. And don't mention me there."
@@ -274,7 +278,7 @@ msgstr ""
 "l'administration du cluster. Ils sauront quoi en faire. Et ne mentionne pas "
 "mon nom."
 
-#: Kevin.dialog:118
+#: Kevin.dialog:119
 msgid ""
 "Kevin gave me a cube full of some kind of data. I am supposed to take it to "
 "a computer cluster for analysis. Ought to be simple."
@@ -282,31 +286,31 @@ msgstr ""
 "Kevin m'a donné un cube plein de données. Je suis supposé l'amener à un "
 "cluster d'ordinateurs, pour être analysé. Ça devrait être simple."
 
-#: Kevin.dialog:125
+#: Kevin.dialog:126
 msgid "How about some reward for securing your energy supply area?"
 msgstr ""
 " Et si vous me donniez une récompense pour avoir nettoyé la source d'énergie "
 "de tous ces robots ?"
 
-#: Kevin.dialog:128
+#: Kevin.dialog:129
 msgid "I've already rewarded you for that. Don't steal my time. I'm busy."
 msgstr ""
 "Je t'ai déjà récompensé pour ça. Ne me fais pas perdre mon temps, je suis "
 "occupé."
 
-#: Kevin.dialog:128
+#: Kevin.dialog:129
 msgid "I am not as confused as you think. Go away now."
 msgstr "Je ne suis pas aussi confus que tu le penses. Disparais maintenant."
 
-#: Kevin.dialog:130
+#: Kevin.dialog:131
 msgid "What do you want?"
 msgstr "Qu'est-ce que tu veux?"
 
-#: Kevin.dialog:137
+#: Kevin.dialog:138
 msgid "I want to become a hacker."
 msgstr " Je veux devenir un hacker."
 
-#: Kevin.dialog:139
+#: Kevin.dialog:140
 msgid ""
 "Your desire for information amuses me. Your wish will be granted. I will "
 "teach you how to improve your skill in designing hacking programs."
@@ -315,7 +319,7 @@ msgstr ""
 "souhait. Je vais t'enseigner comment améliorer tes performances en concevant "
 "des programmes de piratage."
 
-#: Kevin.dialog:140
+#: Kevin.dialog:141
 msgid ""
 "You must know that hacking is an art. It is easy to chop your enemy to bits "
 "with an axe or shred it to atoms with a grenade... But hacking requires "
@@ -325,7 +329,7 @@ msgstr ""
 "en morceau avec une épée ou de le désintégrer avec une grenade... Mais le "
 "hack nécessite des compétences."
 
-#: Kevin.dialog:141
+#: Kevin.dialog:142
 msgid ""
 "Look at this terminal... I am connected to a remote system. A fool would "
 "just launch a thousand attacks, but a skilled intruder stops and thinks."
@@ -334,7 +338,7 @@ msgstr ""
 "inconscient va simplement lancer une centaine d'attaques en même temps, mais "
 "un intrus compétent va s'arrêter et réfléchir."
 
-#: Kevin.dialog:142
+#: Kevin.dialog:143
 msgid ""
 "You must know when to hack and when not to hack. You must attack when the "
 "enemy is unprepared for you."
@@ -342,7 +346,7 @@ msgstr ""
 "Tu dois savoir quand tu peux hacker et quand ne pas hacker. Tu dois attaquer "
 "quand l'ennemi ne s'y attend pas."
 
-#: Kevin.dialog:143
+#: Kevin.dialog:144
 msgid ""
 "Now watch. Observe carefully. See how I enter the system... Yes. Watch the "
 "connection glowing, burning like a bright star..."
@@ -351,7 +355,7 @@ msgstr ""
 "le système... Oui. Regarde la connexion étincelle, brûle comme une étoile de "
 "forte magnitude..."
 
-#: Kevin.dialog:144
+#: Kevin.dialog:145
 msgid ""
 "...only to die seconds after, as the system far away collapses under it's "
 "own weight... It's done."
@@ -359,7 +363,7 @@ msgstr ""
 "...seulement quelques secondes après, lorsque le système s'écroule sous son "
 "propre poids... C'est terminé."
 
-#: Kevin.dialog:145
+#: Kevin.dialog:146
 msgid ""
 "That is all I want to show you for now. Maybe later I will teach you "
 "something else."
@@ -367,67 +371,67 @@ msgstr ""
 "C'est tout ce que je te montrerai pour aujourd'hui. Peut être que plus tard "
 "je t'enseignerai d'autres choses."
 
-#: Kevin.dialog:153
+#: Kevin.dialog:154
 msgid "I don't want any reward. Just gratitude."
 msgstr " Je ne cherche pas de récompense. Seulement de la gratitude."
 
-#: Kevin.dialog:155
+#: Kevin.dialog:156
 msgid ""
 "Of course you can have that. There, I'm most grateful to you. That should do."
 msgstr ""
 "Naturellement tu peux le prendre. Je te suis très reconnaissant. Ça te "
 "revient."
 
-#: Kevin.dialog:163
+#: Kevin.dialog:164
 msgid "I want money."
 msgstr " Je veux de l'argent."
 
-#: Kevin.dialog:165
+#: Kevin.dialog:166
 msgid "Eh... Here, take these 900 circuits. That should be enough."
 msgstr "Hé... Tiens, prends ces 900 circuits. Ça devrait être suffisant."
 
-#: Kevin.dialog:173
+#: Kevin.dialog:174
 msgid "Jasmine just blew up."
 msgstr "Jasmine vient d'exploser."
 
-#: Kevin.dialog:175
+#: Kevin.dialog:176
 msgid "Oh. Right."
 msgstr "Ah. D'accord."
 
-#: Kevin.dialog:176
+#: Kevin.dialog:177
 msgid "Well, thanks for telling me."
 msgstr "Eh bien merci de m'avoir prévenu."
 
-#: Kevin.dialog:177
+#: Kevin.dialog:178
 msgid "Back to the drawing board, I guess..."
 msgstr "Je crois que ça signifie un retour à l'évaluation ..."
 
-#: Kevin.dialog:183
+#: Kevin.dialog:184
 msgid "I thought you would be more worried about her death."
 msgstr ""
 "Je pensais que tu serais plus inquiété que ça par l'annonce de sa mort."
 
-#: Kevin.dialog:185
+#: Kevin.dialog:186
 msgid "Why? I have backups from last Friday. No reason to worry at all."
 msgstr ""
 "Pourquoi ? J'ai des sauvegardes de vendredi dernier. Il n'y a aucune raison "
 "de s'inquiéter."
 
-#: Kevin.dialog:186
+#: Kevin.dialog:187
 msgid "It will be a while till I get her together again, but she will be fine."
 msgstr ""
 "ça prendra un peu de temps avant que je puisse les rassembler à nouveau, "
 "mais tout ira bien."
 
-#: Kevin.dialog:190
+#: Kevin.dialog:191
 msgid "What can you teach me about hacking?"
 msgstr "Que pouvez-vous m'apprendre à propos du hacking ?"
 
-#: Kevin.dialog:194
+#: Kevin.dialog:195
 msgid "Not now, I'm busy."
 msgstr "Pas maintenant, je suis occupé."
 
-#: Kevin.dialog:195
+#: Kevin.dialog:196
 msgid ""
 "I've got an important research project going on. In fact this project might "
 "be crucial to the survival of the whole town."
@@ -435,7 +439,7 @@ msgstr ""
 "Je suis sur un projet de recherche important, en ce moment. C'est peut-être "
 "la survie de l'intégralité de la colonie qui en dépend."
 
-#: Kevin.dialog:196
+#: Kevin.dialog:197
 msgid ""
 "There is tremendous importance in it. But the project is in danger. There "
 "are some maintenance bots down at the energy source."
@@ -443,7 +447,7 @@ msgstr ""
 "Il a une importance capitale. Mais ce projet est en danger : il y a quelques "
 "robots de maintenance en bas, à la source d'énergie."
 
-#: Kevin.dialog:197
+#: Kevin.dialog:198
 msgid ""
 "They are trying to 'maintain' machines by rebooting them all the time. This "
 "must stop, but I can't leave this place."
@@ -451,7 +455,7 @@ msgstr ""
 "Il essaient de faire la 'maintenance' des machines en les redémarrant sans "
 "cesse. Il faut que cela cesse, mais je ne peux pas quitter cet endroit."
 
-#: Kevin.dialog:198
+#: Kevin.dialog:199
 msgid ""
 "I must balance the remaining power in such a way that my project can "
 "continue uninterrupted."
@@ -459,7 +463,7 @@ msgstr ""
 "Je dois équilibrer l'énergie qui reste de telle sorte que mon projet puisse "
 "continuer de fonctionner sans interruption."
 
-#: Kevin.dialog:199
+#: Kevin.dialog:200
 msgid ""
 "Now, if you go down there and make the power flow stable, then I'll find the "
 "time to teach you something."
@@ -467,7 +471,7 @@ msgstr ""
 "Alors, si tu descends là-bas et que tu stabilises le flux d'énergie, "
 "j'aurais le temps de t'apprendre quelques trucs."
 
-#: Kevin.dialog:200
+#: Kevin.dialog:201
 msgid ""
 "Kevin has a problem with his energy supply. His bots keep rebooting the "
 "system, and he cannot conduct any experiments with an unstable power supply. "
@@ -479,7 +483,7 @@ msgstr ""
 "une alimentation en énergie instable. Mon travail est de stabiliser la "
 "puissance. Je pense que cela implique de supprimer tous ces robots stupides."
 
-#: Kevin.dialog:203
+#: Kevin.dialog:204
 msgid ""
 "As I've told you, I cannot teach you anything right now. I don't have the "
 "time."
@@ -487,7 +491,7 @@ msgstr ""
 "Comme je te l'ai déjà dit, je ne peux rien t'enseigner pour le moment. Je "
 "n'ai pas le temps."
 
-#: Kevin.dialog:204
+#: Kevin.dialog:205
 msgid ""
 "I must see that the flaky energy stream is distributed in such a way that my "
 "research project can continue."
@@ -495,7 +499,7 @@ msgstr ""
 "Je dois faire en sorte que le flux énergétique soit bien réparti, pour que "
 "mon projet de recherche puisse continuer."
 
-#: Kevin.dialog:205
+#: Kevin.dialog:206
 msgid ""
 "If you get rid of the maintenance bots on the second underground level of "
 "this station, I will find the time to teach you something."
@@ -503,37 +507,37 @@ msgstr ""
 "Si tu te débarrasses des robots de maintenance dans le deuxième sous-sol de "
 "cette station, je prendrais le temps de t'apprendre quelques trucs."
 
-#: Kevin.dialog:208
+#: Kevin.dialog:209
 msgid "I can teach you everything. For a price of course."
 msgstr ""
 "Je peux t'apprendre tout ce que tu veux. Pour une certaine somme évidemment."
 
-#: Kevin.dialog:209
+#: Kevin.dialog:210
 msgid "Three hundred per lesson, up front."
 msgstr "Trois cent par cours."
 
-#: Kevin.dialog:210
+#: Kevin.dialog:211
 msgid "Still interested?"
 msgstr "Toujours intéressé ? "
 
-#: Kevin.dialog:220
+#: Kevin.dialog:221
 msgid "Sorry, there is no human alive that could give you further training."
 msgstr ""
 "Désolé, il n'y a pas d'humain vivant qui pourrait te donner d'avantage de "
 "connaissances."
 
-#: Kevin.dialog:227
+#: Kevin.dialog:228
 msgid "Improve Hacking Program (cost 300 circuits, 2 training points)"
 msgstr ""
 " Étudier le piratage des ordinateurs (coûte 300 circuits, donne 5 points de "
 "compétence)"
 
-#: Kevin.dialog:230 Kevin.dialog:244 Kevin.dialog:257 Kevin.dialog:270
-#: Kevin.dialog:283 Kevin.dialog:296 Kevin.dialog:309 Kevin.dialog:322
+#: Kevin.dialog:231 Kevin.dialog:245 Kevin.dialog:258 Kevin.dialog:271
+#: Kevin.dialog:284 Kevin.dialog:297 Kevin.dialog:310 Kevin.dialog:323
 msgid "Yes, please teach me."
 msgstr "Oui, enseigne moi."
 
-#: Kevin.dialog:232
+#: Kevin.dialog:233
 msgid ""
 "Good. The most important thing about hacking is to understand the nature of "
 "the machine you want to hack."
@@ -541,7 +545,7 @@ msgstr ""
 "Bien. La chose la plus importante à propos du hack est de comprendre la "
 "nature de la machine que tu veux hacker."
 
-#: Kevin.dialog:233
+#: Kevin.dialog:234
 msgid ""
 "Once you have figured out what the creators of the system were thinking when "
 "setting it up, you'll also know how to best hack it."
@@ -549,63 +553,63 @@ msgstr ""
 "Une fois que tu te te seras représenté ce que les créateurs de la machine "
 "ont voulu faire, tu sauras également quel est le meilleur moyen de la hacker."
 
-#: Kevin.dialog:234
+#: Kevin.dialog:235
 msgid ""
 "Now I see the feature set of your hacking program has already improved a lot."
 msgstr "Je vois que tes connaissances en hacking ont déjà beaucoup augmenté."
 
-#: Kevin.dialog:241
+#: Kevin.dialog:242
 msgid "Improve Hacking Program (cost 300 circuits, 4 training points)"
 msgstr ""
 "Étudier le piratage des ordinateurs (coûte 300 circuits, donne 4 points de "
 "compétence)"
 
-#: Kevin.dialog:246 Kevin.dialog:259 Kevin.dialog:272 Kevin.dialog:285
-#: Kevin.dialog:298 Kevin.dialog:311 Kevin.dialog:324
+#: Kevin.dialog:247 Kevin.dialog:260 Kevin.dialog:273 Kevin.dialog:286
+#: Kevin.dialog:299 Kevin.dialog:312 Kevin.dialog:325
 msgid "blabla"
 msgstr "blabla"
 
-#: Kevin.dialog:254
+#: Kevin.dialog:255
 msgid "Improve Hacking Program (cost 300 circuits, 6 training points)"
 msgstr ""
 "Amélioration des programmes de hack (coûte 300 circuits, donne 6 points de "
 "compétence)"
 
-#: Kevin.dialog:267
+#: Kevin.dialog:268
 msgid "Improve Hacking Program (cost 300 circuits, 8 training points)"
 msgstr ""
 " Étudier le piratage des ordinateurs (coûte 300 circuits, donne 8 points de "
 "compétence)"
 
-#: Kevin.dialog:280
+#: Kevin.dialog:281
 msgid "Improve Hacking Program (cost 300 circuits, 10 training points)"
 msgstr ""
 "Étudier le piratage des ordinateurs (coûte 300 circuits, donne 10 points de "
 "compétence)"
 
-#: Kevin.dialog:293
+#: Kevin.dialog:294
 msgid "Improve Hacking Program (cost 300 circuits, 12 training points)"
 msgstr ""
 "Étudier le piratage des ordinateurs (coûte 300 circuits, donne 5 points de "
 "compétence)"
 
-#: Kevin.dialog:306
+#: Kevin.dialog:307
 msgid "Improve Hacking Program (cost 300 circuits, 14 training points)"
 msgstr ""
 "Améliorer le piratage des ordinateurs (coûte 300 circuits, donne 14 points "
 "de compétence)"
 
-#: Kevin.dialog:319
+#: Kevin.dialog:320
 msgid "Improve Hacking Program (cost 300 circuits, 16 training points)"
 msgstr ""
 "Étudier le piratage des ordinateurs (coûte 300 circuits, donne 12 points de "
 "compétence)"
 
-#: Kevin.dialog:336
+#: Kevin.dialog:337
 msgid "Hold on, I don't seem to have that much money right now."
 msgstr "Attends, on dirait que je n'ai pas assez d'argent pour le moment."
 
-#: Kevin.dialog:337
+#: Kevin.dialog:338
 msgid ""
 "This is embarrasing. I will come back when I have the amount of valuable "
 "circuits you desire."
@@ -613,16 +617,16 @@ msgstr ""
 "C'est embarrassant. Je reviendrai lorsque j'aurai la bonne quantité de "
 "circuits."
 
-#: Kevin.dialog:339
+#: Kevin.dialog:340
 msgid "Ok, come back when you can afford to pay me if you are interested."
 msgstr ""
 "D'accord, reviens quand tu pourras me payer, si tu es toujours intéressé."
 
-#: Kevin.dialog:340
+#: Kevin.dialog:341
 msgid "Please don't bother me if you can't pay me."
 msgstr "Je t'en pris, ne m'ennuie pas si tu ne peux me payer."
 
-#: Kevin.dialog:341
+#: Kevin.dialog:342
 msgid ""
 "You don't have enough money! I cannot afford to just give away training for "
 "free."
@@ -630,15 +634,15 @@ msgstr ""
 "Tu n'as pas assez d'argent ! Je ne peux pas te donner un entraînement "
 "gratuitement."
 
-#: Kevin.dialog:342
+#: Kevin.dialog:343
 msgid "Come back when you have enough circuits."
 msgstr "Reviens quand tu auras suffisamment de circuits."
 
-#: Kevin.dialog:343
+#: Kevin.dialog:344
 msgid "So come back when you have some valuables."
 msgstr "Reviens lorsque tu auras quelque argent."
 
-#: Kevin.dialog:350
+#: Kevin.dialog:351
 msgid ""
 "Sorry, my memory databank is filled to the brim right now. Can't learn more "
 "until I get some more experience."
@@ -646,7 +650,7 @@ msgstr ""
 "Désolé, ma mémoire est entièrement remplie. Je ne peux rien apprendre de "
 "mieux tant que je n'ai pas plus d'expérience."
 
-#: Kevin.dialog:352
+#: Kevin.dialog:353
 msgid ""
 "You Linarians are funny creatures. Come back later when you feel ready if "
 "you please."
@@ -654,7 +658,7 @@ msgstr ""
 "Vous, les linariens, sont de drôles de créatures. Reviens plus tard quand tu "
 "te sens prêt, si tu veux."
 
-#: Kevin.dialog:353
+#: Kevin.dialog:354
 msgid ""
 "I cannot teach you when you have no training points. Come back when you are "
 "more prepared."
@@ -662,19 +666,19 @@ msgstr ""
 "Je ne peux t'enseigner quoi que ce soit si tu n'a pas gagné de points "
 "d'entraînement. Reviens quand tu seras prêts."
 
-#: Kevin.dialog:354
+#: Kevin.dialog:355
 msgid "You are not ready. Go kill some bots and come back."
 msgstr "Tu n'es pas prêt. Tue quelques robots, et reviens après."
 
-#: Kevin.dialog:355
+#: Kevin.dialog:356
 msgid "Come back when you are mentally ready to learn."
 msgstr "Reviens quand tu seras mentalement prêt à apprendre."
 
-#: Kevin.dialog:356
+#: Kevin.dialog:357
 msgid "Come back after some more practice in the field."
 msgstr "Reviens après avoir pratiqué un peu sur le champ de bataille."
 
-#: Kevin.dialog:357
+#: Kevin.dialog:358
 msgid ""
 "Waving those circuits in front of me when you are too unfocused to train "
 "won't help. I can take your money, but you won't learn anything."
@@ -683,7 +687,7 @@ msgstr ""
 "l'entraînement ne t'aidera pas. Je peux prendre ton argent, mais tu "
 "n'apprendras rien."
 
-#: Kevin.dialog:358
+#: Kevin.dialog:359
 msgid ""
 "Yeah, I don't think you have enough experience for this. Come back here "
 "after you see some more action."
@@ -691,22 +695,22 @@ msgstr ""
 "Exactement, je pense que tu n'as pas assez d'expérience pour ça. Reviens ici "
 "quand tu auras vu un peu plus d'action."
 
-#: Kevin.dialog:359
+#: Kevin.dialog:360
 msgid "Then come back when you have a real will to learn."
 msgstr "Reviens lorsque tu voudras vraiment apprendre."
 
-#: Kevin.dialog:360
+#: Kevin.dialog:361
 msgid ""
 "You don't have enough experience. Come here after you see some more action."
 msgstr ""
 "Tu n'as pas assez d'expérience. Reviens ici quand tu auras vu un peu plus de "
 "combats."
 
-#: Kevin.dialog:364
+#: Kevin.dialog:365
 msgid "I'll be off then."
 msgstr " Eh bien je m'en vais alors."
 
-#: Kevin.dialog:366
+#: Kevin.dialog:367
 msgid ""
 "Be careful. The bots are in a foul mood today. Very easy to get killed. Very "
 "easy."
@@ -714,13 +718,18 @@ msgstr ""
 "Fais attention, les robots sont de mauvaise humeur aujourd'hui. On se fait "
 "facilement tuer. Très facilement."
 
-#: Kevin.dialog:366
+#: Kevin.dialog:367
 msgid "If you need to contact me, my number is 127.0.0.1"
 msgstr "Si tu dois me contacter, mon numéro est le 127.0.0.1"
 
-#: Kevin.dialog:366
+#: Kevin.dialog:367
 msgid "Keep your system up to date, Linarian."
 msgstr "Garde ton système à jour, Linarien."
+
+#~ msgid "Hi. I haven't slept for a few weeks, so I'm just a little bit tired."
+#~ msgstr ""
+#~ "Salut. Ça fait quelques semaines que je n'ai pas dormi, je suis seulement "
+#~ "un peu fatigué."
 
 #~ msgid "Sure. I'll sign it."
 #~ msgstr " Certainement. Je le signerai."

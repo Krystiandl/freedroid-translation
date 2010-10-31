@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-05-22 20:22+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -14,16 +14,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: AfterTakeover.dialog:33
-msgid ".. bot_type().."
-msgstr ".. bot_type().."
+msgid "@hacked_"
+msgstr ""
 
 #: AfterTakeover.dialog:34
 msgid "Login : "
 msgstr "Login : "
-
-#: AfterTakeover.dialog:35
-msgid "tux"
-msgstr "tux"
 
 #: AfterTakeover.dialog:36
 msgid "Password : "
@@ -184,3 +180,9 @@ msgstr "()%#@(% LA ESPADA ES TUYA. )##%*&%*!"
 #: AfterTakeover.dialog:156
 msgid "Closing remote connection..."
 msgstr "Cerrando conexión remota..."
+
+#~ msgid ".. bot_type().."
+#~ msgstr ".. bot_type().."
+
+#~ msgid "tux"
+#~ msgstr "tux"

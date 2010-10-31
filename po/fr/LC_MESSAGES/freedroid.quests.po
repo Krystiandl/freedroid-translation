@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_data\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2008-09-26 18:23+0200\n"
 "Last-Translator: \n"
 "Language-Team: <en@li.org>\n"
@@ -78,57 +78,93 @@ msgstr "Alimentation en énergie de SADD"
 msgid "Tania's sanitary"
 msgstr "Les toilettes de Tania"
 
-#: freedroid.quests:144
+#: freedroid.quests:144 freedroid.quests:151 freedroid.quests:153
+#: freedroid.quests:156
+#, fuzzy
+msgid "Tania's Escape"
+msgstr "Les toilettes de Tania"
+
+#: freedroid.quests:148 freedroid.quests:149
+#, fuzzy
+msgid "Tania died!"
+msgstr "Tania est libre maintenant !"
+
+#: freedroid.quests:151
+msgid ""
+"Tania died before escaping her underground bunker. I was unable to protect "
+"her."
+msgstr ""
+
+#: freedroid.quests:153
+msgid ""
+"Tania died in the desert while trying to make it to the town. I was unable "
+"to protect her."
+msgstr ""
+
+#: freedroid.quests:156
+msgid ""
+"Tania died while trying to make it to the town. I was unable to protect her."
+msgstr ""
+
+#: freedroid.quests:159
+msgid "Tania made it to the town!"
+msgstr ""
+
+#: freedroid.quests:160
+msgid "Tania successfully made it to the town!"
+msgstr ""
+
+#: freedroid.quests:170
 msgid "Saving the shop"
 msgstr "Sauver le magasin"
 
-#: freedroid.quests:151
+#: freedroid.quests:177
 #, fuzzy
 msgid "Doing Duncan a favor"
 msgstr "Faire une faveur à Duncan"
 
-#: freedroid.quests:158
+#: freedroid.quests:184
 msgid "Tutorial Movement"
 msgstr "Un cours sure les déplacements."
 
-#: freedroid.quests:165
+#: freedroid.quests:191
 msgid "Tutorial Melee"
 msgstr "Un cours sur le combat de mêlée."
 
-#: freedroid.quests:168
+#: freedroid.quests:194
 msgid "Melee droids destroyed!"
 msgstr "Droïde en combat de mêlée détruits."
 
-#: freedroid.quests:176
+#: freedroid.quests:202
 msgid "Tutorial Shooting"
 msgstr "Un cours pratique de tir"
 
-#: freedroid.quests:179
+#: freedroid.quests:205
 msgid "Shooting range cleared!"
 msgstr "Fenêtre de tir nettoyée !"
 
-#: freedroid.quests:187
+#: freedroid.quests:213
 msgid "Tutorial Hacking"
 msgstr "Un cours pratique de piratage"
 
-#: freedroid.quests:190
+#: freedroid.quests:216
 msgid "Hacking area cleared!"
 msgstr "Aire de piratage nettoyée !"
 
-#: freedroid.quests:198
+#: freedroid.quests:224
 msgid "A strange guy stealing from town"
 msgstr "Un étrange voleur dans la ville"
 
-#: freedroid.quests:207
+#: freedroid.quests:233
 msgid "Deliverance"
 msgstr ""
 
-#: freedroid.quests:214
+#: freedroid.quests:240
 #, fuzzy
 msgid "Tutorial Upgrading Items"
 msgstr "Un cours pratique de piratage"
 
-#: freedroid.quests:216
+#: freedroid.quests:242
 msgid "Tutorial Upgrading Items finished!"
 msgstr ""
 
@@ -2004,9 +2040,6 @@ msgstr ""
 
 #~ msgid "I have found that SACD and took him over."
 #~ msgstr "J'ai trouvé ce SACD et je l'ai piraté."
-
-#~ msgid "Tania is free now!"
-#~ msgstr "Tania est libre maintenant !"
 
 #~ msgid "Enter master arena"
 #~ msgstr "Grenade au gaz"

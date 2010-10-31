@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-07-05 14:52+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
@@ -257,7 +257,8 @@ msgid "The master arena is clear."
 msgstr "A mester aréna tiszta."
 
 #: Butch.dialog:166
-msgid "What!? Impossible! No one ever survives the second arena!"
+#, fuzzy
+msgid "What!? Impossible! No one ever survived the second arena!"
 msgstr "Micsoda!? Lehetetlen! Senki sem élte még túl a mester arénát!"
 
 #: Butch.dialog:167

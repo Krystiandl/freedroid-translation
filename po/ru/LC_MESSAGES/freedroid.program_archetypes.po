@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidRPG 0.10.4cvs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2009-01-01 21:28+0000\n"
 "Last-Translator: Alex Mr.Brightside Demurine <extrimall90@mail.ru>\n"
 "Language-Team: Russian\n"
@@ -164,10 +164,13 @@ msgid "Killer poke"
 msgstr "Смертельний удар"
 
 #: freedroid.program_archetypes:188
+#, fuzzy
 msgid ""
-"Messing around with the bot's memory can cause it to severly damage itself, "
+"Messing around with the bot's memory can cause it to severely damage itself, "
 "but the damage is greatly variable."
 msgstr ""
+"Ошибки в памяти бота могут заставить его повреждать самого себя, но урон "
+"очень изменчив."
 
 #: freedroid.program_archetypes:202
 msgid "Plasma discharge"
@@ -1218,13 +1221,6 @@ msgstr "EMP пушка"
 
 #~ msgid "Source Book of Killer poke"
 #~ msgstr "Исходный код Убивающего пакета"
-
-#~ msgid ""
-#~ "Messing around with the bot's memory can cause it to damage itself, but "
-#~ "the damage is greatly variable."
-#~ msgstr ""
-#~ "Ошибки в памяти бота могут заставить его повреждать самого себя, но урон "
-#~ "очень изменчив."
 
 #~ msgid "Source Book of Nethack"
 #~ msgstr "Исходная книга Nethack"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
-"PO-Revision-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
+"PO-Revision-Date: 2010-10-31 08:30+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -11,15 +11,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ./AfterTakeover.dialog:33
-msgid ".. bot_type().."
+msgid "@hacked_"
 msgstr ""
 
 #: ./AfterTakeover.dialog:34
 msgid "Login : "
-msgstr ""
-
-#: ./AfterTakeover.dialog:35
-msgid "tux"
 msgstr ""
 
 #: ./AfterTakeover.dialog:36

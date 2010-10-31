@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-07-08 02:18+0100\n"
 "Last-Translator: Angelika Maria Piątkowska <piatkosia.apt@interia.pl>\n"
 "Language-Team: Freedroid Team\n"
@@ -16,14 +16,14 @@ msgstr ""
 "X-Poedit-Country: POLAND\n"
 "X-Poedit-SourceCharset: utf-8\n"
 
-#: script_helpers.lua:132
+#: script_helpers.lua:135
 msgid "New Quest assigned."
 msgstr "Przydzielono nowe zadanie."
 
-#: script_helpers.lua:138
+#: script_helpers.lua:141
 msgid "Quest log updated."
 msgstr "Zadanie zaktualizowane"
 
-#: script_helpers.lua:144
+#: script_helpers.lua:147
 msgid "Quest completed."
 msgstr "Zadania wykonane."

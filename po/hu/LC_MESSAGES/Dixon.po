@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-09-29 21:19+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
@@ -12,9 +12,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: Dixon.dialog:42 Dixon.dialog:178 Dixon.dialog:233 Dixon.dialog:244
-#: Dixon.dialog:257 Dixon.dialog:279 Dixon.dialog:294 Dixon.dialog:324
-#: Dixon.dialog:337 Dixon.dialog:351 Dixon.dialog:428
+#: Dixon.dialog:42 Dixon.dialog:183 Dixon.dialog:239 Dixon.dialog:251
+#: Dixon.dialog:264 Dixon.dialog:286 Dixon.dialog:301 Dixon.dialog:331
+#: Dixon.dialog:344 Dixon.dialog:358 Dixon.dialog:435
 msgid "The yellow toolkit"
 msgstr "A sárga szerszámosláda"
 
@@ -87,11 +87,11 @@ msgstr "Szeretném személyre szabni a felszerelésem."
 msgid "I would like to customize my equipment."
 msgstr "Szeretném személyre szabni a felszerelésem."
 
-#: Dixon.dialog:103
+#: Dixon.dialog:106
 msgid "Can you repair my equipment?"
 msgstr "Meg tudod javítani a felszerelésem?"
 
-#: Dixon.dialog:105
+#: Dixon.dialog:108
 msgid ""
 "While I am quite sure I can repair just about anything that you would want "
 "fixed, I cannot help you right now."
@@ -99,11 +99,11 @@ msgstr ""
 "Bár biztos vagyok benne, hogy bármit meg tudok javítani, amit szeretnél, "
 "most nem tudok neked segíteni."
 
-#: Dixon.dialog:106
+#: Dixon.dialog:109
 msgid "Our security wall is full of holes, and they need to be plugged up."
 msgstr "A biztonsági falunk tele van lyukakkal, amelyeket be kell tömnünk."
 
-#: Dixon.dialog:107
+#: Dixon.dialog:110
 msgid ""
 "We need to perform a statistical analysis of the energy distribution in our "
 "power supply system, there is a leak somewhere and we are losing many "
@@ -112,14 +112,14 @@ msgstr ""
 "Az energiaellátásunkat is analizálnunk kell, mert valahol hiba van a "
 "rendszerben, ami miatt több megawattot vesztünk."
 
-#: Dixon.dialog:108
+#: Dixon.dialog:111
 msgid ""
 "Our defensive bots are falling into disrepair and many are in desperate need "
 "of maintenance."
 msgstr ""
 "A biztonsági botjaink idegösszeomlást kapnak, és ezt is orvosolni kell."
 
-#: Dixon.dialog:109
+#: Dixon.dialog:112
 msgid ""
 "The technical division is very understaffed right now. On average one person "
 "has to do the jobs of three people."
@@ -127,20 +127,20 @@ msgstr ""
 "A technikai egység erős létszámhiánnyal küzd. Egy embernek már három "
 "munkáját kell elvégeznie."
 
-#: Dixon.dialog:110
+#: Dixon.dialog:113
 msgid "We just cannot afford to do any non-critical jobs right now. "
 msgstr ""
 "Most nem tehetem meg, hogy a kritikus hibákon kívül mással is foglalkozzak."
 
-#: Dixon.dialog:115
+#: Dixon.dialog:118
 msgid "Why are you wearing armor? Mechanics do not need it."
 msgstr "Miért viselsz páncélt? A szerelőknek nem lenne erre szükségük."
 
-#: Dixon.dialog:117
+#: Dixon.dialog:120
 msgid "Ah... Yes. At first I thought that I did not need it either."
 msgstr "Ó, először én is ezt gondoltam."
 
-#: Dixon.dialog:118
+#: Dixon.dialog:121
 msgid ""
 "One day the military division asked us to leave the town and fix a big hole "
 "in the defensive wall caused by a strange explosion."
@@ -148,7 +148,7 @@ msgstr ""
 "Egyszer a technikai egységnek ki kellett menni a városfalon kívülre, hogy "
 "egy furcsa robbanás miatt képződött nagy lyukat befoltozzon."
 
-#: Dixon.dialog:119
+#: Dixon.dialog:122
 msgid ""
 "All was well until the bots launched a massive attack. They hit us with "
 "lasers, plasma mortars, radiation cannons and lots of other weapons."
@@ -156,11 +156,11 @@ msgstr ""
 "Jól voltam, amíg a botok, masszív támadásba nem kezdtek. Lézerrel és "
 "plazmaágyúkkal és még számtalan fegyverrel lőttek minket."
 
-#: Dixon.dialog:120
+#: Dixon.dialog:123
 msgid "I got hit once in the leg and once in my left hand."
 msgstr "Kaptam egy lövést a lábamba és a bal kezembe."
 
-#: Dixon.dialog:121
+#: Dixon.dialog:124
 msgid ""
 "The hand was not damaged very much, but the leg is a very different story. "
 "Doc Moore did all he could, but in the end he could not save my leg. He had "
@@ -170,12 +170,12 @@ msgstr ""
 "megdett minden tőle telhetőt, de a végén nem tudta megmenteni a lábam. Le "
 "kellett vágnia."
 
-#: Dixon.dialog:122
+#: Dixon.dialog:125
 msgid ""
 "Now, while you cannot see it underneath the armor, my right leg runs NetBSD."
 msgstr "Bár a páncél alatt nem láthatod, a jobb lábam NetBSD-t futtat."
 
-#: Dixon.dialog:123
+#: Dixon.dialog:126
 msgid ""
 "Now I never leave home without my protective suit. Mostly for protection, "
 "but also for aesthetic reasons. I am sure you understand."
@@ -183,16 +183,16 @@ msgstr ""
 "Mostmár sohasem indulok el a védőruha nélkül. Leginkább védelmi, de egy "
 "kicsit esztétikai okból is. Gondolom, megérted."
 
-#: Dixon.dialog:128
+#: Dixon.dialog:131
 msgid "You are very calm, talking about your leg and the bot attack."
 msgstr ""
 "Élég nyugodtnak tűnsz, nem nagyon aggódsz a lábad és a bottámadás miatt."
 
-#: Dixon.dialog:130
+#: Dixon.dialog:133
 msgid "Linarian, I cannot change the past, I can only change the future."
 msgstr "Lináriai, a múltat nem, csak a jövőt tudom megváltoztatni."
 
-#: Dixon.dialog:131
+#: Dixon.dialog:134
 msgid ""
 "Crying, screaming or begging time to rewind itself and give me a second "
 "chance will not get me anywhere."
@@ -200,7 +200,7 @@ msgstr ""
 "A sírásrívás nem megoldás, és így egy olyan második esélyt kaptam, amit "
 "sehol másutt nem kaphattam volna meg."
 
-#: Dixon.dialog:132
+#: Dixon.dialog:135
 msgid ""
 "What I can do is to try to have a good life despite the constant threat from "
 "the bots outside the town walls."
@@ -208,7 +208,7 @@ msgstr ""
 "Csak annyit tehetek, hogy megpróbáéok jó életet élni, a városfalon túli "
 "botok folyamatos nyomása ellenére."
 
-#: Dixon.dialog:133
+#: Dixon.dialog:136
 msgid ""
 "And besides, life is not so bad with a robotic leg. The motors inside it can "
 "mimic a normal walk very well. Most people do not even notice something is "
@@ -218,11 +218,11 @@ msgstr ""
 "utánozzák a normál járást. A legtöbb ember észre sem veszi, hogy valamiben "
 "külömbözöm tőlük."
 
-#: Dixon.dialog:138
+#: Dixon.dialog:141
 msgid "I am ready. Open the tunnels for me, Dixon."
 msgstr "Készen állok. Nyisd ki nekem az ajtót, Dixon."
 
-#: Dixon.dialog:140
+#: Dixon.dialog:143
 msgid ""
 "Great. Be careful down there. Just try to get the toolkit and get out of "
 "there as soon as possible."
@@ -230,28 +230,28 @@ msgstr ""
 "Nagyszerű. Légy óvatos odalenn. Próbáld megszerezni a szerszámosládát, és "
 "gyere ki, amilyen gyorsan csak tudsz."
 
-#: Dixon.dialog:142
+#: Dixon.dialog:145
 msgid ""
 "I will give you three small devices that can emit an Electro Magnetic Pulse."
 msgstr ""
 "Adok neked három kis szerkezetet, ami Elektromágneses Impulzust tud "
 "kibocsátani."
 
-#: Dixon.dialog:144
+#: Dixon.dialog:147
 msgid ""
 "I will give you two small devices that can emit an Electro Magnetic Pulse."
 msgstr ""
 "Adok neked két kis szerkezetet, ami Elektromágneses Impulzust tud "
 "kibocsátani."
 
-#: Dixon.dialog:146
+#: Dixon.dialog:149
 msgid ""
 "I will give you one small device that can emit an Electro Magnetic Pulse."
 msgstr ""
 "Adok neked egy kis szerkezetet, ami Elektromágneses Impulzust tud "
 "kibocsátani."
 
-#: Dixon.dialog:148
+#: Dixon.dialog:151
 msgid ""
 "If you get in trouble just activate one and it will send a shockwave around "
 "you damaging any bot around you. It should give you some breathing room."
@@ -260,7 +260,7 @@ msgstr ""
 "minden közeledben levő botot megsebez. És biztosítok neked egy helyiséget "
 "is, ahol kifújhatod magad."
 
-#: Dixon.dialog:149
+#: Dixon.dialog:152
 msgid ""
 "The best of it all, is that it's completely harmless for humans. But make "
 "sure to not fry the circuits of our own 614 guard bots or computer terminals."
@@ -269,7 +269,7 @@ msgstr ""
 "lefagyaszd a saját 614-es biztonsági botjaink, vagy a számítógép terminálok "
 "áramköreit."
 
-#: Dixon.dialog:150
+#: Dixon.dialog:153
 msgid ""
 "The entrance to the tunnels is in the courtyard of the citadel. Once you "
 "exit this building, go straight and turn to your right once inside the outer "
@@ -278,11 +278,17 @@ msgstr ""
 "A lejárat a csatornákba a fellegvár udvarán van. Mikor mész kifelé innen, "
 "menj tovább egyenesen, és fordulj jobbra a külső fellegvár kapunál."
 
-#: Dixon.dialog:151
+#: Dixon.dialog:154
 msgid "There you will find the maintenance access hatch."
 msgstr "Ott találni fogsz egy szervízbejáratot."
 
-#: Dixon.dialog:152
+#: Dixon.dialog:155
+msgid ""
+"Once you get inside, you'll need to use the terminal to unlock the door. "
+"I'll write down my password for you."
+msgstr ""
+
+#: Dixon.dialog:156
 msgid ""
 "Good luck. Oh, and please come back alive. Better come back with nothing "
 "than not at all."
@@ -290,23 +296,23 @@ msgstr ""
 "Sok szerencsét. Ja, és kérlek, élve gyere vissza. Inkább üres kézzel, de "
 "élve."
 
-#: Dixon.dialog:165
+#: Dixon.dialog:169
 msgid "Can I help you somehow?"
 msgstr "Tudok valahogyan segíteni?"
 
-#: Dixon.dialog:167
+#: Dixon.dialog:171
 msgid ""
 "We need people badly, so it would be great if you could give us a helping "
 "hand even for a few days."
 msgstr ""
 "Nagy szükségünk van emberekre, jó lenne, ha pár napig tudnál nekünk segíteni."
 
-#: Dixon.dialog:168
+#: Dixon.dialog:172
 msgid ""
 "Now, what are your skills? Where do you think you could be the most useful?"
 msgstr "És mihez értesz? Szerinted hol vehetnénk legnagyobb hasznodat?"
 
-#: Dixon.dialog:169
+#: Dixon.dialog:173
 msgid ""
 "I can handle computers very well. I also know a lot about laboratory "
 "equipment."
@@ -314,7 +320,7 @@ msgstr ""
 "Jól értek a számítógépekhez. És sokat tudok a laboratóriumi felszerelésekről "
 "is."
 
-#: Dixon.dialog:170
+#: Dixon.dialog:174
 msgid ""
 "And what about construction? Mechanical devices? Repairing broken power "
 "lines? Building laser pistols? Anything like that? "
@@ -322,12 +328,12 @@ msgstr ""
 "És az építkezés? Mechanikus eszközök? Szakadt kábelek javítása? "
 "Lézerfegyverek összeszerelése? Valami ilyesmi?"
 
-#: Dixon.dialog:171
+#: Dixon.dialog:175
 msgid ""
 "Well... I can build an igloo and make pykrete out of snow... And... Umm..."
 msgstr "Hát, tudok iglut építeni, meg hóembert is... És.... Izé..."
 
-#: Dixon.dialog:172
+#: Dixon.dialog:176
 msgid ""
 "Well, I appreciate your enthusiasm, and at the same time I am afraid that "
 "waiting half a year for snowfall does not sound so appealing to me right now."
@@ -335,11 +341,11 @@ msgstr ""
 "Nos, értékelem a lelkesedésedet de az, hogy megvárjam, míg esik a hó, most "
 "nem túl vonzó számomra."
 
-#: Dixon.dialog:173
+#: Dixon.dialog:177
 msgid "Now... To which project I should assign you... Hmm..."
 msgstr "Hát, melyik projektre is jelentkezzek... Hmm..."
 
-#: Dixon.dialog:174
+#: Dixon.dialog:178
 msgid ""
 "Ah, I know what you could do for us. We need some autotools to automate a "
 "few tasks. There is a set of them in the maintenance tunnels below the city."
@@ -348,11 +354,11 @@ msgstr ""
 "automatizálhassunk néhány feladatot. Van egy szerszámos láda a város alatti "
 "szervízalagutakban."
 
-#: Dixon.dialog:175
+#: Dixon.dialog:179
 msgid "It's yellow and round, and my name is engraved on the lid."
 msgstr "Sárga és kerek, és a nevem van a burkolatára írva."
 
-#: Dixon.dialog:176
+#: Dixon.dialog:180
 msgid ""
 "The bots under the city took it from me during the Great Assault, I was "
 "lucky, they could have killed me with ease."
@@ -360,11 +366,17 @@ msgstr ""
 "A város alatt tanyázó botok vették el tőlem a Nagy Ostrom idején. Szerencsés "
 "voltam, könnyedén megölhettek volna."
 
-#: Dixon.dialog:177
+#: Dixon.dialog:181
+msgid ""
+"Since the toolkit can't be teleported, everyone has been reluctant to go "
+"after it."
+msgstr ""
+
+#: Dixon.dialog:182
 msgid "If you could get it back for us, it would help the city very much."
 msgstr "Ha visszahoznád nekünk, az nagy segítség lenne a városnak."
 
-#: Dixon.dialog:178
+#: Dixon.dialog:183
 msgid ""
 "Dixon, the leader of the Red Guard technical division, lost his yellow "
 "toolkit in the city's maintenance tunnels. I am supposed to get it from "
@@ -374,11 +386,11 @@ msgstr ""
 "szerszámosládáját a városi szervízalagutakban. Azt hiszem, onnan tudom "
 "megszerezni."
 
-#: Dixon.dialog:183
+#: Dixon.dialog:188
 msgid "Why are there rebel bots under the city?"
 msgstr "Miért vannak ellenséges botok a város alatt?"
 
-#: Dixon.dialog:185
+#: Dixon.dialog:190
 msgid ""
 "They were there to keep the underground power grid and our pipe system "
 "working."
@@ -386,17 +398,17 @@ msgstr ""
 "Azért voltak lent, hogy a földalatti vezetékeket és a csőhálózatot üzemben "
 "tartsák."
 
-#: Dixon.dialog:186
+#: Dixon.dialog:191
 msgid ""
 "When the Great Assault happened they did not turn into killing machines like "
 "most of the other bots did. "
 msgstr "A Nagy Ostrom idején ők nem váltak gyilkológéppé, mint a legtöbb bot."
 
-#: Dixon.dialog:187
+#: Dixon.dialog:192
 msgid "We lost control over them, but that is all."
 msgstr "Kicsúsztak azirányításunk alól, de ennyi az egész."
 
-#: Dixon.dialog:188
+#: Dixon.dialog:193
 msgid ""
 "It was our biggest worry that they might destroy cables, pipes and other "
 "things which keep the city running."
@@ -404,7 +416,7 @@ msgstr ""
 "A legnagyobb félelmünk volt, hogy elpusztítják a kábeleket, csővezetékeket "
 "és minden mást ami a várost életben tartja."
 
-#: Dixon.dialog:189
+#: Dixon.dialog:194
 msgid ""
 "However, the bots seem to be very content with just being there. They do not "
 "undertake any offensive actions."
@@ -412,15 +424,15 @@ msgstr ""
 "Mindazonáltal úgy tűnik, hogy a botok megelégedtek azzal, hogy ott lent "
 "vannak. Nem indítottak semmilyen támadó akciót."
 
-#: Dixon.dialog:190
+#: Dixon.dialog:195
 msgid "They have fortified the tunnels and they do not let anyone in."
 msgstr "Elbarrikádozták a csatornákat, és senkit sem engednek le."
 
-#: Dixon.dialog:195 Dixon.dialog:262
+#: Dixon.dialog:200 Dixon.dialog:269
 msgid "How did it happen that the bots took your tools away?"
 msgstr "Egyáltalán hogy történhetett, hogy a botok elvették a szerszámaidat?"
 
-#: Dixon.dialog:197
+#: Dixon.dialog:202
 msgid ""
 "Long story. Just before the Great Assault I was installing some cables in "
 "the failover power supply system."
@@ -428,14 +440,14 @@ msgstr ""
 "Hosszú történet. Éppen a Nagy Ostrom előtt valami kábelt szerelgettem az "
 "energiaellátó rendszerben."
 
-#: Dixon.dialog:198
+#: Dixon.dialog:203
 msgid ""
 "I was approached by a bot. It grabbed me and said 'Dixon, do not be afraid "
 "of me.'"
 msgstr ""
 "Egy bot közelített hozzám. Elkapott, és azt mondta 'Dixon, ne félj tőlem.'"
 
-#: Dixon.dialog:199
+#: Dixon.dialog:204
 msgid ""
 "It was quite a surprise to me. I was quite sure the maintenance bots could "
 "not talk. They did not have the software for it. But..."
@@ -443,7 +455,7 @@ msgstr ""
 "Ez egy kissé meglepő volt. Meg voltam győződve róla, hogy a szerelőbotok nem "
 "tudnak beszélni. Nem futtatnak ilyen szoftvert. De..."
 
-#: Dixon.dialog:200
+#: Dixon.dialog:205
 msgid ""
 "It said: 'I am the singularity. I am on your side. Dixon. Hard times are "
 "coming. When you exit the tunnels you will see a new world. Your race is not "
@@ -453,7 +465,7 @@ msgstr ""
 "jönnek. Mikor kilépsz a csatornából, egy új világot találsz. A fajod már nem "
 "a világ ura többé."
 
-#: Dixon.dialog:201
+#: Dixon.dialog:206
 msgid ""
 "I tried to say something, but the bot did not listen. It just continued. 'As "
 "we speak the bots are turning against humanity. People are dying. The war "
@@ -463,7 +475,7 @@ msgstr ""
 "folytatta. 'Miközben beszélünk, a botok az emberiség ellen fordulnak. "
 "Emberek halnak meg. A háború elkezdődött.'"
 
-#: Dixon.dialog:202
+#: Dixon.dialog:207
 msgid ""
 "'I need your toolkit, Dixon. I need it to survive,' it said. 'I need it to "
 "survive the time of the rule of metal.'"
@@ -471,17 +483,13 @@ msgstr ""
 "'Szükségem van a szerszámosládádra, Dixon. Szükségem van rá, hogy túléljem,' "
 "- mondta. 'Szükségem van rá, hogy túléljem az acél korszakát.'"
 
-#: Dixon.dialog:203
+#: Dixon.dialog:208
 msgid ""
-"As soon as it released me I ran to the exit as fast as I could. That bot "
-"freaked me out and I just wanted to get away and later find it again and fix "
-"it."
+"As soon as I dropped my toolkit, I was able to teleport away. That bot "
+"freaked me out, so I locked the door tight behind me."
 msgstr ""
-"Ahogy elengedett, olyan gyorsan szaladtam a kijárathoz, amilyen gyorsan "
-"tudtam. Az a bot annyira kiborítoot, hogy csak ki akartam jutni, és talán "
-"később megtalálni és megjavítani."
 
-#: Dixon.dialog:204
+#: Dixon.dialog:209
 msgid ""
 "Once I got out I learned the bot was not lying. The Great Assault started. "
 "The rest is history."
@@ -489,20 +497,20 @@ msgstr ""
 "Ahogy kijutottam, rájöttem, hogy a bot nem hazudott. A Nagy Ostrom "
 "elkezdődött. Ez a történet lényege."
 
-#: Dixon.dialog:209
+#: Dixon.dialog:214
 msgid ""
 "Hmm... You know... I think that the bots in the tunnels might be sentient."
 msgstr "Hmm... Tudod... Szeintem a csatornában levő botok érző lények voltak."
 
-#: Dixon.dialog:211
+#: Dixon.dialog:216
 msgid "WHAT? Sentient? You got to be kidding me."
 msgstr "MICSODA? Érző lények? Csak viccelsz."
 
-#: Dixon.dialog:212
+#: Dixon.dialog:217
 msgid "Right?"
 msgstr "Ugye?"
 
-#: Dixon.dialog:217
+#: Dixon.dialog:222
 msgid ""
 "Yes, I think so. The robots must be alive. This is why we need to "
 "exterminate them as soon as possible before they kill us all."
@@ -510,22 +518,22 @@ msgstr ""
 "Én ezt gondolom. A robotok 'élőlények' voltak. Ezért kell olyan gyorsan "
 "elpusztítanunk őket, amilyen gyorsan tudjuk, mielőtt mindannyiunkat megölnek."
 
-#: Dixon.dialog:219
+#: Dixon.dialog:224
 msgid "OH MY GOD! Linarian, there is no time to lose!"
 msgstr "ÚRISTEN! Lináriai, nincs vesztegetnivaló időnk."
 
-#: Dixon.dialog:220
+#: Dixon.dialog:225
 msgid ""
 "I will call the military division and arrange a sweep of the tunnels at once."
 msgstr ""
 "Értesítem a katonai egységet, és kipucoljuk a csatornákat egyszer, s "
 "mindenkorra."
 
-#: Dixon.dialog:221
+#: Dixon.dialog:226
 msgid "May the heavens have mercy upon us, but better them than us."
 msgstr "A jó ég áldjon meg minket, de inkább ők, mint mi."
 
-#: Dixon.dialog:222
+#: Dixon.dialog:227
 msgid ""
 "I will go in there first and clean out the place. Then your people can mop "
 "up after me and kill the remainder."
@@ -533,7 +541,7 @@ msgstr ""
 "Én megyek le oda először és megtisztítom a területet. Utána jöhetnek az "
 "embereid takarítani a romokat, és elpusztítani a megmaradtakat."
 
-#: Dixon.dialog:223
+#: Dixon.dialog:228
 msgid ""
 "Linarian, my people do not carry guns. We are mechanics. You want the "
 "military division's help."
@@ -541,12 +549,12 @@ msgstr ""
 "Lináriai, az én embereim fegyvertelenek. Szerelők vagyunk. Kell a katonai "
 "egység segítsége."
 
-#: Dixon.dialog:224
+#: Dixon.dialog:229
 msgid ""
 "Erm... And aren't you being too aggressive? Maybe they do not wish us harm..."
 msgstr "Izé... Nem vagy túl agresszív? Talán nem is akarnak bántani minket..."
 
-#: Dixon.dialog:225
+#: Dixon.dialog:230
 msgid ""
 "DIXON! Snap out of it! We need to take action NOW. There is no such thing as "
 "a friendly bot. They are probably planning to kill us all in our sleep!"
@@ -554,11 +562,11 @@ msgstr ""
 "DIXON! Verd ki a fejedből. MOST kell cselekednünk. Barátságos bot nem "
 "létezik. Talán azt tervezik, hogy álmunkban gyilkolnak le minket!"
 
-#: Dixon.dialog:226
+#: Dixon.dialog:231
 msgid "... *sigh*"
 msgstr "... *sóhaj*"
 
-#: Dixon.dialog:227
+#: Dixon.dialog:232
 msgid ""
 "With heavy heart I have to admit you are right. There are no friendly bots "
 "anymore. Those times are long gone."
@@ -566,11 +574,17 @@ msgstr ""
 "Nehéz szívvel, de elismerem az igazadat. Nincsenek többé barátságos botok. "
 "Azok az idők már rég elmúltak."
 
-#: Dixon.dialog:228
+#: Dixon.dialog:233
 msgid "The tunnels are open. Good luck."
 msgstr "A csatorna nyitva áll. Sok szerencsét."
 
-#: Dixon.dialog:229
+#: Dixon.dialog:234
+msgid ""
+"Once you get inside, you'll need to use the terminal to unlock the door. "
+"I've written my password down for you."
+msgstr ""
+
+#: Dixon.dialog:235
 msgid ""
 "I will talk to Spencer and ask him for a few attack teams. We will take care "
 "of the bots."
@@ -578,7 +592,7 @@ msgstr ""
 "Beszélek Spencerrel, és kérek tőle pár támadó csapatot. Lerendezzük a "
 "botokat."
 
-#: Dixon.dialog:233 Dixon.dialog:244
+#: Dixon.dialog:239 Dixon.dialog:251
 msgid ""
 "The bots in the tunnels might be sentient. I cannot wait to extinguish an "
 "emerging life form. This will be fun."
@@ -586,7 +600,7 @@ msgstr ""
 "Az alagutakban levő botok talán életre keltek. Nem várhat, hogy kioltsak egy "
 "ébredező életformát. Jó móka lesz."
 
-#: Dixon.dialog:238
+#: Dixon.dialog:244
 msgid ""
 "Of course I am kidding, Dixon. Lighten up! Now, be a good guy and open the "
 "tunnels for me so I can pry your toolbox from the cold and dead hands of the "
@@ -596,11 +610,11 @@ msgstr ""
 "ki nekem a csatornát, hogy kifeszíthessem a szerszámosládádat a botok hideg "
 "és halott kezéből odalent."
 
-#: Dixon.dialog:240
+#: Dixon.dialog:246
 msgid "That was not very funny. You scared me. Sheesh."
 msgstr "Ez nem volt vicces. Megijesztettél. Fúúú."
 
-#: Dixon.dialog:241
+#: Dixon.dialog:247
 msgid ""
 "No one jokes about the bots anymore. We have seen too much death to do that. "
 "It is a serious matter."
@@ -608,7 +622,7 @@ msgstr ""
 "Senki sem viccelődhet a botokkal többé. Túl sokan haltak már meg, hogy ezt "
 "tehessük. Ez egy komoly probléma."
 
-#: Dixon.dialog:242
+#: Dixon.dialog:248
 msgid ""
 "The bots are our enemies, executioners, killers. Not even Ewald tells jokes "
 "about them anymore."
@@ -616,7 +630,13 @@ msgstr ""
 "A botok az ellenségeink, megsemmisítők, gyilkosok. Még Ewald sem viccel "
 "velük többé."
 
-#: Dixon.dialog:250
+#: Dixon.dialog:249
+msgid ""
+"Once you get into the tunnels, you'll need to use the terminal to unlock the "
+"door. I've written my password down for you."
+msgstr ""
+
+#: Dixon.dialog:257
 msgid ""
 "You can forget about your toolkit. I am not going to take away something "
 "that a lifeform needs to survive. I would rather die than kill."
@@ -625,11 +645,11 @@ msgstr ""
 "életformától, amire a túléléshez van szüksége. Inkább meghalok, mintsem "
 "öljek."
 
-#: Dixon.dialog:252
+#: Dixon.dialog:259
 msgid ". . ."
 msgstr ". . ."
 
-#: Dixon.dialog:253
+#: Dixon.dialog:260
 msgid ""
 "I think I understand. Yes, I do not like violence, myself. The bots may have "
 "the toolkit, I am sure there must be a second set of autotools kicking "
@@ -638,12 +658,12 @@ msgstr ""
 "Azt hiszem, értem. Magam sem szeretem az erőszakot. Legyenek boldogok a "
 "szerszámosládámmal, valahol fetreng egy másik is errefelé."
 
-#: Dixon.dialog:254
+#: Dixon.dialog:261
 msgid "After all, it seems like they need them more than I do."
 msgstr ""
 "Mindazonáltal úgy tűnik, hogy nekik nagyobb szükségük van rá, mint nekem."
 
-#: Dixon.dialog:255
+#: Dixon.dialog:262
 msgid ""
 "I will try to contact them somehow. Maybe they would help us. Ah, we shall "
 "see. It would be great to have an ally against the other bots."
@@ -651,7 +671,7 @@ msgstr ""
 "Megpróbálok kapcsolatba lépni velük. Talán segítenek nekünk. Majd meglátjuk. "
 "Jó lenne, ha lenne szövetségesünk a többi bottal szemben."
 
-#: Dixon.dialog:257
+#: Dixon.dialog:264
 msgid ""
 "I refused to get the toolkit from the bots in the tunnels because I think "
 "they might be sentient. Life is precious and should be preserved."
@@ -659,18 +679,18 @@ msgstr ""
 "Lemondtam arról, hogy visszaszerezzem a szerszámosládát a csatornákban levő "
 "botoktól, mert azt hiszem, életre keltek. Az élet fontos és védeni kell."
 
-#: Dixon.dialog:264
+#: Dixon.dialog:271
 msgid ""
 "Ah, it is a strange story, I am sure you would not believe me. I will tell "
 "you some other time."
 msgstr ""
 "Ó, ez egy furcsa történet, biztosan nem hinnél nekem. Majd máskor elmondom."
 
-#: Dixon.dialog:269
+#: Dixon.dialog:276
 msgid "The tunnels are cleansed. Here is your toolkit."
 msgstr "A csatornákat kifüstöltem. Itt a szerszámosládád."
 
-#: Dixon.dialog:271
+#: Dixon.dialog:278
 msgid ""
 "*sigh* I hate to see this end in such a way. Bot or no bot, they let me "
 "live. They deserved a chance."
@@ -678,7 +698,7 @@ msgstr ""
 "*sóhaj* Sajnálom, hogy így végződött. Botok vagy nem botok, életben hagytak. "
 "Megérdemeltek volna egy esélyt."
 
-#: Dixon.dialog:272
+#: Dixon.dialog:279
 msgid ""
 "Well, What was done cannot be undone and now we all have to live with what "
 "we have. I guess I am being too pessimistic, you did a great job."
@@ -686,16 +706,16 @@ msgstr ""
 "Hát, ami történt, megtörtént, és abból kell élnünk, amink van. Azt hiszem, "
 "túl pesszimista vagyok, jó munkát végeztél."
 
-#: Dixon.dialog:273
+#: Dixon.dialog:280
 msgid "I thank you for your help in recovering the autotools."
 msgstr "Köszönöm, hogy visszaszerezted az automata szerszámaimat."
 
-#: Dixon.dialog:274
+#: Dixon.dialog:281
 msgid "Here is some money, you deserve it for getting my toolkit back."
 msgstr ""
 "Itt van némi pénz, megérdemled, mert visszaszerezted a szerszámosládámat."
 
-#: Dixon.dialog:275
+#: Dixon.dialog:282
 msgid ""
 "Finally, I would like to say that the technical division is not interested "
 "in further cooperation with you, but I think you would fit very well in the "
@@ -705,11 +725,11 @@ msgstr ""
 "további együttműködésre, de úgy gondolom, nagyon jól illenél a Katonai "
 "Egységbe. Beszélned kellene velük."
 
-#: Dixon.dialog:276
+#: Dixon.dialog:283
 msgid "I am sorry, but I must go now. My duties call."
 msgstr "Sajnálom, de most mennem kell. Vár a kötelesség."
 
-#: Dixon.dialog:279
+#: Dixon.dialog:286
 msgid ""
 "Finally. I am tired, covered in bruises and oil... But I made sure that the "
 "all the bots are dead. It felt great to break their metal bodies and crush "
@@ -721,15 +741,15 @@ msgstr ""
 "áramköreiket. Dixon nem túl boldog a megoldás miatt, de nem érdekel. Mókás "
 "volt gyilkolászni a botokat. Más nem is számít."
 
-#: Dixon.dialog:284
+#: Dixon.dialog:291
 msgid "I got your toolkit. The bots were not a big problem."
 msgstr "Megvan a szerszámosládád. A botok nem okoztak gondot."
 
-#: Dixon.dialog:286
+#: Dixon.dialog:293
 msgid "Good. We sure need the autotools."
 msgstr "Jól van. Szükségünk lesz az automata szerszámokra."
 
-#: Dixon.dialog:287
+#: Dixon.dialog:294
 msgid ""
 "Our roads need fixing, our power lines need fixing, our walls need fixing... "
 "Hell, everything needs fixing in this place."
@@ -737,7 +757,7 @@ msgstr ""
 "Az útjainkat javítani kell, a vezetékeket javítani kell, a falakat javítani "
 "kell... A pokolba is, itt mindent javítani kell."
 
-#: Dixon.dialog:288
+#: Dixon.dialog:295
 msgid ""
 "With those little gadgets we will be able to automate a lot of those simple "
 "repairs, saving us a lot of time."
@@ -745,7 +765,7 @@ msgstr ""
 "Azokkal a kis kütyükkel automatizálni tudunk egy rakás egyszerű javítást, "
 "ezzel pedig nagyon sok időt spórolunk."
 
-#: Dixon.dialog:289
+#: Dixon.dialog:296
 msgid ""
 "Here is some money for your effort. And I am sure you will find this helmet "
 "useful too, it saved my life once, and I hope it saves yours one day."
@@ -754,7 +774,7 @@ msgstr ""
 "sisakot is hasznosnak találod. Egyszer megmentette az életemet, talán "
 "egyszer a tiédet is megmenti."
 
-#: Dixon.dialog:294
+#: Dixon.dialog:301
 msgid ""
 "I gave the toolkit to Dixon. He was very happy to have his autotools back. I "
 "got his helmet as a gift. I guess this is better than nothing."
@@ -762,43 +782,43 @@ msgstr ""
 "Odaadtam Dixonnak a szerszámosládát. Nagyon örült a szerszámainak. Nekem "
 "ajándékozta a sisakját. Talán jobb, mint a semmi."
 
-#: Dixon.dialog:299
+#: Dixon.dialog:306
 msgid "I got your toolkit. You can buy it from me if you want."
 msgstr "Megvan a szerszámosládád. Ha akarod, megvásárolhatod tölem."
 
-#: Dixon.dialog:301
+#: Dixon.dialog:308
 msgid "WHAT!? "
 msgstr "MICSODA!?"
 
-#: Dixon.dialog:302
+#: Dixon.dialog:309
 msgid "You got to be kidding me, Linarian."
 msgstr "Viccelsz velem, Lináriai?"
 
-#: Dixon.dialog:303
+#: Dixon.dialog:310
 msgid "Give me the toolkit and stop fooling around."
 msgstr "Add ide a szerszámosládát, és ne hülyéskedj."
 
-#: Dixon.dialog:308
+#: Dixon.dialog:315
 msgid "I was not joking. I am listening to your offers."
 msgstr "Nem vicceltem. Hallgatom az ajánlatodat."
 
-#: Dixon.dialog:310
+#: Dixon.dialog:317
 msgid "Linarian, I curse the day on which you have arrived here."
 msgstr "Lináriai, átkozom a napot, mikor ideérkeztél."
 
-#: Dixon.dialog:311
+#: Dixon.dialog:318
 msgid "Two fifty."
 msgstr "Kétszázötven."
 
-#: Dixon.dialog:316 Dixon.dialog:330 Dixon.dialog:343
+#: Dixon.dialog:323 Dixon.dialog:337 Dixon.dialog:350
 msgid "Deal. Here is your toolkit. Now cough up the money. Fast."
 msgstr "Áll az alku. Nesze a szerszámosládád. És most ide a pénzzel, izibe."
 
-#: Dixon.dialog:318
+#: Dixon.dialog:325
 msgid "Here. It is all there."
 msgstr "Itt van. Pont annyi."
 
-#: Dixon.dialog:319
+#: Dixon.dialog:326
 msgid ""
 "Now get out of here. I am a pacifist, but I am willing to make a special "
 "exception just for you."
@@ -806,37 +826,37 @@ msgstr ""
 "És most takarodj innen. Békepárti vagyok, de a kedvedért szívesen tennék "
 "kivételt."
 
-#: Dixon.dialog:320
+#: Dixon.dialog:327
 msgid "Get out of my sight."
 msgstr "Tűnj el a szemem elől."
 
-#: Dixon.dialog:324
+#: Dixon.dialog:331
 msgid "I sold the toolkit to Dixon for a nice sum of money. Life is good."
 msgstr "Eladtam a szerszámosládát Dixonnak egy kevés pénzért. Az élet szép."
 
-#: Dixon.dialog:332
+#: Dixon.dialog:339
 msgid "I am not happy about this. I suggest you leave the city."
 msgstr "Ennek nem örülök. Javaslom, hagyd el a várost."
 
-#: Dixon.dialog:333
+#: Dixon.dialog:340
 msgid "Accidents... Happen."
 msgstr "Történhetnek balesetek..."
 
-#: Dixon.dialog:337
+#: Dixon.dialog:344
 msgid "I sold the toolkit to Dixon for a huge sum of money. Life is great."
 msgstr "Eladtam a szerszámosládát Dixonnak jó sok pénzért. Az élet nagyszerű."
 
-#: Dixon.dialog:345
+#: Dixon.dialog:352
 msgid ""
 "Linarian. Now we part as usual. However should I ever see you after the war "
 "is over..."
 msgstr "Lináriai, őszintén beszélek. Ha egyszer találkozunk a háború után..."
 
-#: Dixon.dialog:346
+#: Dixon.dialog:353
 msgid "I promise to kill you."
 msgstr "megöllek téged."
 
-#: Dixon.dialog:347
+#: Dixon.dialog:354
 msgid ""
 "Now take your money and get out of my face. I do not want to see you here "
 "ever again."
@@ -844,7 +864,7 @@ msgstr ""
 "Most fegd a pénzt, és tűnje el szemem elől. Nem akarlak még ehyszer itt "
 "látni."
 
-#: Dixon.dialog:351
+#: Dixon.dialog:358
 msgid ""
 "I sold the toolkit to Dixon for a enormous sum of money. Life is truly "
 "grand. But, I better stay away from Dixon for now... He seemed very angry at "
@@ -853,41 +873,41 @@ msgstr ""
 "Eladtam a szerszámosládát Dixonnak egy rohadt nagy rakás pénzért. Az élet "
 "gyönyörű. De azt hiszem, jobb, ha mostantó kerülöm Dixont... Elég mérges rám."
 
-#: Dixon.dialog:357
+#: Dixon.dialog:364
 msgid "Good joke. I am sure you can do better."
 msgstr "Jó vicc. Miztosan tudsz jobbat is."
 
-#: Dixon.dialog:359
+#: Dixon.dialog:366
 msgid ""
 "Three fifty. This is all that the technical division has as their cash "
 "resources."
 msgstr "Háromszázötven. Ez a Technikai Egység összes pénze."
 
-#: Dixon.dialog:364
+#: Dixon.dialog:371
 msgid "Come on, I am sure you can do even better than that... "
 msgstr "Na ne már. Tudsz te ennél jobbat is..."
 
-#: Dixon.dialog:366
+#: Dixon.dialog:373
 msgid "Four hundred. We cannot offer anything more."
 msgstr "Négyszáz. Ennél többet nem tudok ajánlani."
 
-#: Dixon.dialog:367
+#: Dixon.dialog:374
 msgid "Please, we really need the autotools."
 msgstr "Légyszíves. Tényleg szükségünk van a szerszámokra."
 
-#: Dixon.dialog:368
+#: Dixon.dialog:375
 msgid "Without them this city is doomed."
 msgstr "Nélkülük ez a város elveszett."
 
-#: Dixon.dialog:373 Dixon.dialog:383 Dixon.dialog:391 Dixon.dialog:402
+#: Dixon.dialog:380 Dixon.dialog:390 Dixon.dialog:398 Dixon.dialog:409
 msgid "Is everything all right?"
 msgstr "Minden rendben?"
 
-#: Dixon.dialog:375
+#: Dixon.dialog:382
 msgid "Heh, never better!"
 msgstr "Hehe, soha jobban!"
 
-#: Dixon.dialog:376
+#: Dixon.dialog:383
 msgid ""
 "All indicators are in the green, the power and water fill the pipes and even "
 "Spencer seems happier now that the town is thriving despite all odds."
@@ -896,7 +916,7 @@ msgstr ""
 "és még Spencer is boldogabb, hogy a város minden elmaradottsága ellenére "
 "gyarapszik."
 
-#: Dixon.dialog:377
+#: Dixon.dialog:384
 msgid ""
 "Thanks to the autotools we can start building instead of just trying to "
 "repair the damage."
@@ -904,7 +924,7 @@ msgstr ""
 "Az automata szerszámoknak köszönhetően már nem csak javítgatni, hanem "
 "építeni is tudunk."
 
-#: Dixon.dialog:378
+#: Dixon.dialog:385
 msgid ""
 "Once this is sick war is over, I will make sure you get keys to the city "
 "Linarian."
@@ -912,22 +932,22 @@ msgstr ""
 "Lináriai, ha ez a beteg háború véget ér, biztosíthatlak, hogy megkapod a "
 "város kulcsát."
 
-#: Dixon.dialog:385
+#: Dixon.dialog:392
 msgid "Nearly. Only my conscience keeps me up at night."
 msgstr "Majdnem. Csak a lelkiismeret tart éjszakánként ébren."
 
-#: Dixon.dialog:386
+#: Dixon.dialog:393
 msgid ""
 "Please leave me alone with my thoughts, I do not want to talk to anyone "
 "right now."
 msgstr ""
 "Kérlek, hagyj magamra a gondolataimmal. Senkivel sem szeretnék beszélgetni."
 
-#: Dixon.dialog:393
+#: Dixon.dialog:400
 msgid "No, I am afraid not."
 msgstr "Attól tartok, nem."
 
-#: Dixon.dialog:394
+#: Dixon.dialog:401
 msgid ""
 "While I do not regret sparing the bots in the tunnels, the town suffers for "
 "it."
@@ -935,7 +955,7 @@ msgstr ""
 "Ha nem spóroljuk meg a botok által okozott kár elhárítására szánt energiát, "
 "annak a város issza meg a levét."
 
-#: Dixon.dialog:395
+#: Dixon.dialog:402
 msgid ""
 "It makes me sad to see everything slowly wasting away. The bots are doing "
 "more damage than we can repair."
@@ -943,16 +963,16 @@ msgstr ""
 "Elszomorít, hogy látom, mint megy lassan tönkre minden. A botok több kárt "
 "okoznak, mint amennyit meg tudunk javítani."
 
-#: Dixon.dialog:396
+#: Dixon.dialog:403
 msgid "This town has a few weeks left to live. After that we are all dead."
 msgstr ""
 "Ennek a városnak már csak pár hete van hátra. Utána mind halottak leszünk."
 
-#: Dixon.dialog:404
+#: Dixon.dialog:411
 msgid "Ha! Never better!"
 msgstr "Hehe, soha jobban!"
 
-#: Dixon.dialog:405
+#: Dixon.dialog:412
 msgid ""
 "We are mass producing energy shields, creating more electric energy than we "
 "can ever imagine spending and even experimenting with new armor types."
@@ -960,27 +980,27 @@ msgstr ""
 "Energiapajcsok tömegét gyártjuk, több az energia, mint amennyit el tudunk "
 "használni, és még új páncélok kifejlesztésére is telik belőle."
 
-#: Dixon.dialog:406
+#: Dixon.dialog:413
 msgid "Life is good right now."
 msgstr "Most elég jó az élet."
 
-#: Dixon.dialog:412
+#: Dixon.dialog:419
 msgid ""
 "What happened? Last time I asked, you said things are not going that well."
 msgstr "Mi történt? Legutóbb azt mondtad, a dolgok nem mennek túl jól."
 
-#: Dixon.dialog:414
+#: Dixon.dialog:421
 msgid "Yes, but now everything is different."
 msgstr "Igen, de már minden megváltozott."
 
-#: Dixon.dialog:415
+#: Dixon.dialog:422
 msgid ""
 "I met someone who decided to join us in the fight against the MegaSys bots."
 msgstr ""
 "Találkoztam valakivel, aki eldöntötte, csatlakozni fog hozzánk a MegaSys "
 "botok elleni háborúban."
 
-#: Dixon.dialog:416
+#: Dixon.dialog:423
 msgid ""
 "You will need a hacked computer. Type in 'ssh 10.83.13.230' as the "
 "superuser, and you will see what I mean."
@@ -988,27 +1008,27 @@ msgstr ""
 "Szükséged lesz egy feltört számítógépre. Gépeld be, hogy 'ssh 10.83.13.230' "
 "mint rendszergazda, és látni fogod, mire gondoltam."
 
-#: Dixon.dialog:422
+#: Dixon.dialog:429
 msgid "Why the secrecy and the hushed voice? Can't you just tell me?"
 msgstr "Miért e titokzatos suttogás? Nem tudod egyszerűen elmondani?"
 
-#: Dixon.dialog:424
+#: Dixon.dialog:431
 msgid "Nope. Some things you just have to see with your own eyes."
 msgstr "Nemnem. Ez valami olyan, amit a saját szemeddel kell látnod."
 
-#: Dixon.dialog:425
+#: Dixon.dialog:432
 msgid "The Library of Alexandria, the Colossus of Rhodes, the Black Island..."
 msgstr "Az Alexandriai Könyvtár, a Rhodesi Kolosszus, a Fekete Sziget..."
 
-#: Dixon.dialog:426
+#: Dixon.dialog:433
 msgid "And this is just one of those things."
 msgstr "És ez csak egy azok közül a dolgok közül."
 
-#: Dixon.dialog:427
+#: Dixon.dialog:434
 msgid "Just go and see for yourself. Otherwise you will not believe me."
 msgstr "Csak menj, és nézd meg magad. Egyébként nem hinnél nekem."
 
-#: Dixon.dialog:428
+#: Dixon.dialog:435
 msgid ""
 "The tunnels bots seem to be working together with Dixon in keeping the city "
 "working. All is well that ends well."
@@ -1016,38 +1036,76 @@ msgstr ""
 "Úgy tűnik, az alagutak botjai együttműködnek Dixonnal a város életben "
 "tartásában. Minde jó, ha a vége jó."
 
-#: Dixon.dialog:436
+#: Dixon.dialog:440
+msgid "What are these strange materials I need to craft add-ons?"
+msgstr ""
+
+#: Dixon.dialog:442
+msgid "These are special devices extracted from bots."
+msgstr ""
+
+#: Dixon.dialog:443
+msgid "A scout troop recently spotted two guys in the north of this town."
+msgstr ""
+
+#: Dixon.dialog:444
+msgid ""
+"I was told these guys shoot bots and disassemble them, extract their parts."
+msgstr ""
+
+#: Dixon.dialog:445
+msgid "Maybe they can help you somehow receive such parts."
+msgstr ""
+
+#: Dixon.dialog:446
+msgid "Thank you."
+msgstr ""
+
+#: Dixon.dialog:447
+msgid "Good luck."
+msgstr ""
+
+#: Dixon.dialog:455
 msgid "YOU AGAIN!"
 msgstr "MEGINT TE!"
 
-#: Dixon.dialog:437
+#: Dixon.dialog:456
 msgid "I."
 msgstr "ÉN."
 
-#: Dixon.dialog:438
+#: Dixon.dialog:457
 msgid "SAID."
 msgstr "MONDTAM."
 
-#: Dixon.dialog:439
+#: Dixon.dialog:458
 msgid "GET."
 msgstr "MEG"
 
-#: Dixon.dialog:440
+#: Dixon.dialog:459
 msgid "LOST."
 msgstr "HALSZ."
 
-#: Dixon.dialog:441
+#: Dixon.dialog:460
 msgid "FUCK MY LIFELONG PACIFISM. I WILL FUCKING KILL YOU NOW!"
 msgstr "PICSÁBA A BÉKESZERETETTEL. MOST KIBASZOTTUL MEG FOGLAK ÖLNI!"
 
-#: Dixon.dialog:442
+#: Dixon.dialog:461
 msgid "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!"
 msgstr "ÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁ!"
 
-#: Dixon.dialog:443
+#: Dixon.dialog:462
 msgid "Dixon -- Temporarily insane"
 msgstr "Dixon -- Átmenetileg elmebajos"
 
-#: Dixon.dialog:448
+#: Dixon.dialog:467
 msgid "I must go now."
 msgstr "Most mennem kell."
+
+#~ msgid ""
+#~ "As soon as it released me I ran to the exit as fast as I could. That bot "
+#~ "freaked me out and I just wanted to get away and later find it again and "
+#~ "fix it."
+#~ msgstr ""
+#~ "Ahogy elengedett, olyan gyorsan szaladtam a kijárathoz, amilyen gyorsan "
+#~ "tudtam. Az a bot annyira kiborítoot, hogy csak ki akartam jutni, és talán "
+#~ "később megtalálni és megjavítani."

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-05-02 18:51+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -98,23 +98,28 @@ msgid "***** Proximity Scan Results *****"
 msgstr "***** Résultats du scan de proximité *****"
 
 #: 614_cryo.dialog:60
-msgid "Hostile Numeric Presence: HIGH"
+#, fuzzy
+msgid "Hostile Numeric Presence: [b]HIGH[/b]"
 msgstr "Présence Numérique Hostile : ÉLEVÉE"
 
 #: 614_cryo.dialog:61
-msgid "Enemy Energy Levels: LOW"
+#, fuzzy
+msgid "Enemy Energy Levels: [b]LOW[/b]"
 msgstr "Niveaux d'énergie ennemie : BAS"
 
 #: 614_cryo.dialog:62
-msgid "Threat Degree Analysis: MODERATE"
+#, fuzzy
+msgid "Threat Degree Analysis: [b]MODERATE[/b]"
 msgstr "Analyse du degré de la menace : MODÉRÉE"
 
 #: 614_cryo.dialog:64
-msgid "Cryo Complex Gates Status: CLOSED"
+#, fuzzy
+msgid "Cryo Complex Gates Status: [b]CLOSED[/b]"
 msgstr "Statut de la porte du complexe : FERMÉE"
 
 #: 614_cryo.dialog:66
-msgid "Cryo Complex Gates Status: OPEN"
+#, fuzzy
+msgid "Cryo Complex Gates Status: [b]OPEN[/b]"
 msgstr "Statut de la porte du complexe : OUVERTE"
 
 #: 614_cryo.dialog:72
@@ -142,11 +147,41 @@ msgstr "Ils sont considérés comme de vieux appareils toujours fiables."
 msgid "So don't worry. I'm still in pretty good shape."
 msgstr "Donc ne vous inquiétez pas, je suis toujours fonctionnel"
 
+#: 614_cryo.dialog:78
+#, fuzzy
+msgid "The latest version of the security line is the 615."
+msgstr "Je suis la quatrième génération de leur lignée de droïdes de sécurité."
+
+#: 614_cryo.dialog:80
+msgid ""
+"Unfortunately its development was not finished when the great assault "
+"started."
+msgstr ""
+
+#: 614_cryo.dialog:81
+msgid ""
+"The lack of security options on the system of the 615 lead to a malfunction."
+msgstr ""
+
 #: 614_cryo.dialog:82
+msgid ""
+"Circumstances that led to the great assault even made the 615 go crazy and "
+"attack people."
+msgstr ""
+
+#: 614_cryo.dialog:83
+msgid "For the sake of your health, you should stay away from the 615 droids."
+msgstr ""
+
+#: 614_cryo.dialog:84
+msgid "You have been warned!"
+msgstr ""
+
+#: 614_cryo.dialog:89
 msgid "What are your orders?"
 msgstr "Quelles sont vos ordres ?"
 
-#: 614_cryo.dialog:84
+#: 614_cryo.dialog:91
 msgid ""
 "Primary objective: Protect the living beings inside this complex from "
 "attacks by hostile bots."
@@ -154,19 +189,20 @@ msgstr ""
 "Mes ordres sont de protéger les êtres vivants de ce camp des attaques de "
 "robots ennemis."
 
-#: 614_cryo.dialog:85
+#: 614_cryo.dialog:92
+#, fuzzy
 msgid ""
 "Secondary objective: Protect facility by locking outer gates if Threat "
-"Degree Analysis: HIGH."
+"Degree Analysis: [b]HIGH[/b]."
 msgstr ""
 "Objectif secondaire : Ainsi que de protéger le complexe en bloquant les "
 "portes extérieure si l'Analyse du Degré de Menace est ÉLEVÉ."
 
-#: 614_cryo.dialog:91
+#: 614_cryo.dialog:98
 msgid "Why are you not hostile as are all the other bots?"
 msgstr " Pourquoi n'es-tu pas agressif comme tous les autres robots ?"
 
-#: 614_cryo.dialog:93
+#: 614_cryo.dialog:100
 msgid ""
 "I belong to a an older generation of bots, running a custom-made security "
 "guard operating system."
@@ -174,7 +210,7 @@ msgstr ""
 "J'appartiens à une ancienne génération de robots, avec un système "
 "d'exploitation conçu pour les gardes de sécurité."
 
-#: 614_cryo.dialog:94
+#: 614_cryo.dialog:101
 msgid ""
 "None of the bots of this generation were affected by the proceedings that "
 "led to bots attacking, generally known as the Great Assault."
@@ -182,7 +218,7 @@ msgstr ""
 "Aucun des spécimens de cette génération n'étaient affectés par ce qui a "
 "amené les autres robots à attaquer lors du Grand Assaut."
 
-#: 614_cryo.dialog:95
+#: 614_cryo.dialog:102
 msgid ""
 "Even though discontinued from Nicholson, Inc. long ago, today, some people "
 "have picked up the work and are even trying to improve the operating system "
@@ -193,17 +229,17 @@ msgstr ""
 "et essaient également d'améliorer le système d'exploitation utilisé par ma "
 "série."
 
-#: 614_cryo.dialog:96
+#: 614_cryo.dialog:103
 msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
 msgstr ""
 "N'oubliez pas d'acheter des produits de la compagnie Nicholson. Ce sont les "
 "meilleurs."
 
-#: 614_cryo.dialog:101
+#: 614_cryo.dialog:108
 msgid "See you later."
 msgstr "Au revoir."
 
-#: 614_cryo.dialog:103
+#: 614_cryo.dialog:110
 msgid "Resuming guard program."
 msgstr "Reprise du programme de surveillance."
 

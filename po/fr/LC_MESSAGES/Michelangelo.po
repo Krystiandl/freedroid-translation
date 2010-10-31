@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -18,11 +18,11 @@ msgstr ""
 "X-Generator: Launchpad (build Unknown)\n"
 
 #: Michelangelo.dialog:38 Michelangelo.dialog:39 Michelangelo.dialog:80
-#: Michelangelo.dialog:208 Michelangelo.dialog:261
+#: Michelangelo.dialog:212 Michelangelo.dialog:265
 msgid "Anything but the army snacks, please!"
 msgstr "Tout mais pas les rations militaires !"
 
-#: Michelangelo.dialog:41 Michelangelo.dialog:42 Michelangelo.dialog:325
+#: Michelangelo.dialog:41 Michelangelo.dialog:42 Michelangelo.dialog:329
 msgid "SADD's power supply"
 msgstr "Alimentation en énergie de SADD"
 
@@ -160,15 +160,21 @@ msgstr "Tu as besoin de la vaisselle militaire pour les rations de l'armée."
 msgid "You do not sound happy. What is wrong?"
 msgstr "Tu n'as pas l'air très heureux. Qu'est-ce qui ne va pas?"
 
-#: Michelangelo.dialog:112
+#: Michelangelo.dialog:113
+msgid ""
+"I am very happy! The red guard are making us so secure, it is great to live "
+"here with them taking care of us!"
+msgstr ""
+
+#: Michelangelo.dialog:115
 msgid "EVERYTHING!"
 msgstr "TOUT !"
 
-#: Michelangelo.dialog:113
+#: Michelangelo.dialog:116
 msgid "Just look at this stupid town!"
 msgstr "Regarde seulement cette ville idiote!"
 
-#: Michelangelo.dialog:114
+#: Michelangelo.dialog:117
 msgid ""
 "We are constantly pushed around by our 'saviors' the damn Red Guard. I hope "
 "they all die from rat bites as soon as possible and go to the deepest hells "
@@ -178,7 +184,7 @@ msgstr ""
 "Rouge. J'espère qu'ils mourront tous de maladie et s'en iront dans les "
 "profondeurs des enfers bouillir à jamais dans la lave."
 
-#: Michelangelo.dialog:115
+#: Michelangelo.dialog:118
 msgid ""
 "And the bots are keeping us busy by murdering, chopping, slicing, cleaving, "
 "rending and wounding us. How wonderful."
@@ -186,7 +192,7 @@ msgstr ""
 "Et les robots ne nous laissent pas de répit en passant leur temps à nous "
 "assassiner, découper, trancher, briser, ravager et détruire. Génial. "
 
-#: Michelangelo.dialog:116
+#: Michelangelo.dialog:119
 msgid ""
 "The guards gave me a filthy hovel to live in. The walls are so thin that "
 "every night I am rocked to sleep by the bots communicating with those beeps "
@@ -196,7 +202,7 @@ msgstr ""
 "minces, que chaque nuit, je suis réveillé par les communications des robots, "
 "avec ces bips et ces bruits de modem incessants."
 
-#: Michelangelo.dialog:117
+#: Michelangelo.dialog:120
 msgid ""
 "It sounds like they are singing something. Every night they start their "
 "song... I cannot sleep thanks to that electric chorus."
@@ -204,7 +210,7 @@ msgstr ""
 "C'est comme une chanson. Chaque nuit, ils recommencent... Je ne peux pas "
 "dormir à cause de leur chorale électrique."
 
-#: Michelangelo.dialog:118
+#: Michelangelo.dialog:121
 msgid ""
 "Have I mentioned that the only food that we have is some kind of "
 "pestilential military ration? The smell alone is making me want to vomit."
@@ -212,35 +218,35 @@ msgstr ""
 "Ai-je mentionné que la seule nourriture que nous avons est un genre de "
 "ration militaire pestilentielle ? Rien que l'odeur me donne envie de vomir."
 
-#: Michelangelo.dialog:123
+#: Michelangelo.dialog:127
 msgid "Cheer up! All will be fine! Happy days are coming! Hurray!"
 msgstr "Réjouis toi ! Tout ira bien ! Les jours heureux arrivent ! Hourra !"
 
-#: Michelangelo.dialog:125
+#: Michelangelo.dialog:129
 msgid "..."
 msgstr "..."
 
-#: Michelangelo.dialog:126
+#: Michelangelo.dialog:130
 msgid "Linarian, have you been gorging on psychoactive pills or something?"
 msgstr ""
 "Linarien, est ce que tu as avalé des substances psychoactives ou quelque "
 "chose dans le genre ?"
 
-#: Michelangelo.dialog:127
+#: Michelangelo.dialog:131
 msgid ""
 "Get a grip, the situation is bad and there is no use in pretending otherwise."
 msgstr ""
 "Reprends toi, la situation est mauvaise et il n'est pas possible d'envisager "
 "autre chose."
 
-#: Michelangelo.dialog:132
+#: Michelangelo.dialog:136
 msgid ""
 "You are a cook. Stop complaining about the poor food! Make some yourself."
 msgstr ""
 "Tu es un cuisinier. Arrête de te plaindre à propos de la nourriture "
 "médiocre ! Fais quelque chose par toi même."
 
-#: Michelangelo.dialog:134
+#: Michelangelo.dialog:138
 msgid ""
 "I cannot! My beautiful macrowave oven is out of power. The wretched Red "
 "Guard took away my uranium battery."
@@ -248,81 +254,81 @@ msgstr ""
 "Je ne peux pas. Mon beau four à macro-ondes n'a plus de batteries. "
 "L'affreuse Garde Rouge m'a pris ma pile à uranium."
 
-#: Michelangelo.dialog:135
+#: Michelangelo.dialog:139
 msgid "I wish I could kill them all with my bare hands. They deserve it."
 msgstr "J'aimerais pouvoir tous les tuer de mes mains nues. Ils le méritent."
 
-#: Michelangelo.dialog:136
+#: Michelangelo.dialog:140
 msgid "If only I had some dilithium to use as a backup power source..."
 msgstr ""
 "Si seulement j'avais un peu de dilithium pour l'utiliser comme batterie de "
 "secours..."
 
-#: Michelangelo.dialog:141
+#: Michelangelo.dialog:145
 msgid "Got any food yet?"
 msgstr "Tu as quelque chose à manger ?"
 
-#: Michelangelo.dialog:145
+#: Michelangelo.dialog:149
 msgid "Here, try this slice of lemon meringue pie."
 msgstr "Ici, essaie cette tranche de tarte meringuée au citron."
 
-#: Michelangelo.dialog:147
+#: Michelangelo.dialog:151
 #, fuzzy
 msgid "Wait, you don't have a fork. You need a fork..."
 msgstr "Attends, tu n'as pas de fourchette. Tu as besoin d'une fourchette…"
 
-#: Michelangelo.dialog:149
+#: Michelangelo.dialog:153
 msgid "It is as if a cloud from heaven was made into a pie."
 msgstr "C'est comme si un nuage du paradis c'était transformé en tarte."
 
-#: Michelangelo.dialog:153
+#: Michelangelo.dialog:157
 msgid "Try this crab cake."
 msgstr "Essaie ce gâteau au crabe."
 
-#: Michelangelo.dialog:155
+#: Michelangelo.dialog:159
 #, fuzzy
 msgid "Where is your plate and fork?"
 msgstr "Où sont ton assiette et ta fourchette ?"
 
-#: Michelangelo.dialog:157
+#: Michelangelo.dialog:161
 msgid ""
 "Such an intense, delectable, blend of savory spices... it melts in my mouth."
 msgstr ""
 "Un mélange tellement intense, délectable, d'épices savoureuses. Ça se "
 "mélange dans ma bouche."
 
-#: Michelangelo.dialog:161
+#: Michelangelo.dialog:165
 #, fuzzy
 msgid "May I interest you in some eggs sardou?"
 msgstr "Est-ce que tu es intéressé par quelques œufs sur le plat ?"
 
-#: Michelangelo.dialog:162
+#: Michelangelo.dialog:166
 msgid "EGGS!?"
 msgstr "Des ŒUFS ! ?"
 
-#: Michelangelo.dialog:163
+#: Michelangelo.dialog:167
 msgid "Oh, Michelangelo had forgotten..."
 msgstr "Oh, Michelangelo a oublié…"
 
-#: Michelangelo.dialog:164
+#: Michelangelo.dialog:168
 msgid "How about a... yummy army snack instead?"
 msgstr "Et à propos de ces… alléchantes rations militaires à la place ?"
 
-#: Michelangelo.dialog:167
+#: Michelangelo.dialog:171
 msgid "I am in the midst of a culinary masterpiece."
 msgstr "Je suis au milieu d'un chef d'œuvre culinaire."
 
-#: Michelangelo.dialog:168
+#: Michelangelo.dialog:172
 msgid "I cannot rush art for I am an artist!"
 msgstr "Je ne peux pas me dépécher pour l'art, je suis un artiste !"
 
-#: Michelangelo.dialog:171
+#: Michelangelo.dialog:175
 msgid "I had prepared some delicacies, but the ravenous Red Guard ate it all."
 msgstr ""
 "J'avais préparé quelques mets délicats, mais la vorace Garde Rouge a tout "
 "mangé."
 
-#: Michelangelo.dialog:172
+#: Michelangelo.dialog:176
 msgid ""
 "Not a big loss, I have a second batch of food cubes in the oven and they "
 "will be ready shortly."
@@ -330,7 +336,7 @@ msgstr ""
 "Ce n'est pas une grande perte, j'ai un second carton de cubes nutritifs dans "
 "le four et ils seront bientôt prêts."
 
-#: Michelangelo.dialog:173
+#: Michelangelo.dialog:177
 msgid ""
 "I think the mood in the town will improve once the cooking master "
 "Michelangelo gets to work. Ha!"
@@ -338,7 +344,7 @@ msgstr ""
 "Je pense que l'ambiance en ville va s'améliorer une fois que le maître "
 "cuisinier Michelangelo va se mettre au travail. Ha !"
 
-#: Michelangelo.dialog:174
+#: Michelangelo.dialog:178
 msgid ""
 "But if you are really hungry, I still have some of those disgusting army "
 "snacks."
@@ -346,33 +352,33 @@ msgstr ""
 "Mais si tu as vraiment faim, j'ai encore  quelques unes de ces rations "
 "militaires peu ragoûtantes."
 
-#: Michelangelo.dialog:181
+#: Michelangelo.dialog:185
 msgid "I am racked with hunger pains, give me some army snacks!"
 msgstr ""
 "Je suis terriblement angoissé par les douleurs de la faim, donne moi "
 "quelques rations militaires."
 
-#: Michelangelo.dialog:183
+#: Michelangelo.dialog:187
 msgid "I thought you would have learned by now."
 msgstr "Je pensais que tu le savais déjà maintenant."
 
-#: Michelangelo.dialog:184
+#: Michelangelo.dialog:188
 msgid "As you wish."
 msgstr "Comme tu veux."
 
-#: Michelangelo.dialog:190
+#: Michelangelo.dialog:194
 msgid "Hmm... Crunchy... That is... Oh... No. Ugh. Help."
 msgstr "Hmm... Croustillant... C'est... Oh... Non. Argh. Au secours."
 
-#: Michelangelo.dialog:192
+#: Michelangelo.dialog:196
 msgid "Oh yes. You were warned, so don't blame me."
 msgstr "Oh oui. Je t'avais prévenu, ne m'en veux pas."
 
-#: Michelangelo.dialog:193
+#: Michelangelo.dialog:197
 msgid "Bleah! That is not food!"
 msgstr "Berk ! Ce n'est pas de la nourriture ! "
 
-#: Michelangelo.dialog:194
+#: Michelangelo.dialog:198
 msgid ""
 "We already know that. There is nothing else to eat here, so I hope you get "
 "used to the taste."
@@ -380,21 +386,21 @@ msgstr ""
 "Nous savons déjà ça. Il n'y a rien d'autre à manger ici, donc j'espère que "
 "tu t'habitueras au goût."
 
-#: Michelangelo.dialog:195
+#: Michelangelo.dialog:199
 msgid "That thing only looks okay, and has a nice color."
 msgstr "Cette chose a un bel aspect et une jolie couleur."
 
-#: Michelangelo.dialog:196
+#: Michelangelo.dialog:200
 msgid "But as you can see, the color cannot be eaten, only the taste counts."
 msgstr ""
 "Mais comme tu peux le voir, la couleur ne peut pas être mangée, seul l'arôme "
 "compte."
 
-#: Michelangelo.dialog:200
+#: Michelangelo.dialog:204
 msgid "I have the dilithium you wanted."
 msgstr " J'ai le dilithium que tu voulais."
 
-#: Michelangelo.dialog:202
+#: Michelangelo.dialog:206
 msgid ""
 "Really? I thought you were dead, but not only did you come back alive, you "
 "also brought some power crystals for my trusty oven."
@@ -403,11 +409,11 @@ msgstr ""
 "me rapportes également quelques cristaux de puissance pour réparer mon "
 "précieux four."
 
-#: Michelangelo.dialog:203
+#: Michelangelo.dialog:207
 msgid "I will start cooking at once."
 msgstr "Je vais commencer à cuisiner dans un instant."
 
-#: Michelangelo.dialog:204
+#: Michelangelo.dialog:208
 msgid ""
 "Thank you, Linarian. As soon as the food cubes are ready I will be able to "
 "give them away to the hungry people."
@@ -415,7 +421,7 @@ msgstr ""
 "Merci, Linarien. Dès que les cubes seront prêts je pourrai les donner aux "
 "gens affamés."
 
-#: Michelangelo.dialog:208
+#: Michelangelo.dialog:212
 msgid ""
 "I gave the cook, Michelangelo, enough dilithium to last a decade. The evil "
 "specter of eating army snacks is lifted from the city."
@@ -424,11 +430,11 @@ msgstr ""
 "une décade. Le spectre démoniaque du rationnement militaire est en train de "
 "quitter la ville."
 
-#: Michelangelo.dialog:213
+#: Michelangelo.dialog:217
 msgid "What was I supposed to do again?"
 msgstr " Qu'est ce que j'étais supposé faire, déjà ?"
 
-#: Michelangelo.dialog:215
+#: Michelangelo.dialog:219
 msgid ""
 "Get me three dilithium crystals before the whole stupid town commits mass "
 "suicide because of poor food quality."
@@ -436,7 +442,7 @@ msgstr ""
 "Rapporte moi trois cristaux de dilithium avant que cette stupide colonie ne "
 "fasse un suicide collectif à cause de la mauvaise qualité de la nourriture."
 
-#: Michelangelo.dialog:216
+#: Michelangelo.dialog:220
 msgid ""
 "Of course our heinous food might do us in far before that. I swear I saw "
 "that stuff glow it the dark and try to sneak away from my plate a few times."
@@ -445,28 +451,28 @@ msgstr ""
 "Je jure l'avoir vue briller dans le noir et essayer de s'échapper de mon "
 "assiette quelques fois."
 
-#: Michelangelo.dialog:220
+#: Michelangelo.dialog:224
 msgid "Where can I find dilithium crystals?"
 msgstr " Où est-ce que je peux trouver la mine de cristaux ?"
 
-#: Michelangelo.dialog:222
+#: Michelangelo.dialog:226
 msgid "There is an old abandoned dilithium mine is to the east of the town."
 msgstr "Il y une vieille mine abandonnée de dilithium à l'est."
 
-#: Michelangelo.dialog:223
+#: Michelangelo.dialog:227
 msgid "Be careful if you go down there!"
 msgstr "Fais attention si tu descends là-bas !"
 
-#: Michelangelo.dialog:227
+#: Michelangelo.dialog:231
 msgid "Why don't you send someone for the dilithium?"
 msgstr ""
 "Pourquoi est-ce que tu n'envoies pas quelqu'un te chercher du dilithium?"
 
-#: Michelangelo.dialog:229 Michelangelo.dialog:298
+#: Michelangelo.dialog:233 Michelangelo.dialog:302
 msgid "I did."
 msgstr "Oui."
 
-#: Michelangelo.dialog:230
+#: Michelangelo.dialog:234
 msgid ""
 "Yesterday a guard patrol found a few tiny bits of him and lots of dried "
 "blood."
@@ -474,19 +480,19 @@ msgstr ""
 "Hier, une patrouille de garde a trouvé quelques petits morceaux de lui et "
 "beaucoup de sang séché."
 
-#: Michelangelo.dialog:231
+#: Michelangelo.dialog:235
 msgid "The bots made a bloody mess out of him."
 msgstr "Les robots l'ont vraiment écharpé."
 
-#: Michelangelo.dialog:236
+#: Michelangelo.dialog:240
 msgid "Maybe I can get you some dilithium."
 msgstr "Je peux peut être t'obtenir un peu de dilithium."
 
-#: Michelangelo.dialog:238
+#: Michelangelo.dialog:242
 msgid "Have you gotten overheated, Linarian?"
 msgstr "Est-ce que tu es en surchauffe, Linarien ?"
 
-#: Michelangelo.dialog:239
+#: Michelangelo.dialog:243
 msgid ""
 "Look, there are dozens of ways you can kill yourself, and most hurt less "
 "than being killed by a bot."
@@ -494,7 +500,7 @@ msgstr ""
 "Écoute, des moyens de te suicider, il y en a des dizaines, et la plupart "
 "font moins mal que d'être tué par un robot."
 
-#: Michelangelo.dialog:240
+#: Michelangelo.dialog:244
 msgid ""
 "If you want to die just walk into a nuclear reactor or something. So much "
 "simpler."
@@ -502,11 +508,11 @@ msgstr ""
 "Si tu veux mourir, va marcher dans un réacteur nucléaire ou quelque chose "
 "comme ça. C'est tellement plus simple."
 
-#: Michelangelo.dialog:245
+#: Michelangelo.dialog:249
 msgid "Don't worry, I'll be fine."
 msgstr "Ne t'en fais pas pour moi, tout va très bien se passer."
 
-#: Michelangelo.dialog:247
+#: Michelangelo.dialog:251
 msgid ""
 "Do you know how the bots act? Some want to kill you as soon as possible... "
 "Others want to do the same, but slowly."
@@ -514,7 +520,7 @@ msgstr ""
 "Est-ce que tu sais comment les robots agissent? Certains veulent te tuer dès "
 "que possible... D'autres veulent faire la même chose, mais plus lentement."
 
-#: Michelangelo.dialog:248
+#: Michelangelo.dialog:252
 msgid ""
 "I have seen corpses with nearly all of the fingers ripped off. People with "
 "eyes drilled out by some big tool."
@@ -522,7 +528,7 @@ msgstr ""
 "J'ai vu des cadavres dont tous les doigts avaient été arrachés, des gens "
 "avec les yeux percés par quelque outil monstrueux. "
 
-#: Michelangelo.dialog:249
+#: Michelangelo.dialog:253
 msgid ""
 "I smelled burnt meat and heard the screams of the captives as they were "
 "incinerated alive outside the city walls."
@@ -530,14 +536,14 @@ msgstr ""
 "J'ai senti l'odeur de viande grillée et entendu les cris des captifs tandis "
 "qu'ils étaient incinérés vivants à l'extérieur des murailles de la cité. "
 
-#: Michelangelo.dialog:250
+#: Michelangelo.dialog:254
 msgid ""
 "The bots know no mercy. They cannot even define it, damn scrap metal fiends."
 msgstr ""
 "Les robots ne connaissent pas la pitié. Ils ne peuvent même pas la définir, "
 "ces démoniaques engins métalliques."
 
-#: Michelangelo.dialog:251
+#: Michelangelo.dialog:255
 msgid ""
 "Feel free to go, Linarian, but make sure to be very dead before they start "
 "killing you."
@@ -545,11 +551,11 @@ msgstr ""
 "Vas y si tu le veux vraiment, Linarien, mais assure toi d'être bien mort "
 "avant qu'ils ne commencent à te tuer."
 
-#: Michelangelo.dialog:252
+#: Michelangelo.dialog:256
 msgid "Where can I get the crystals?"
 msgstr " Où est-ce que je peux trouver des cristaux ?"
 
-#: Michelangelo.dialog:253
+#: Michelangelo.dialog:257
 msgid ""
 "There is an old dilithium mine to the east. I am sure there is lots of that "
 "stuff there."
@@ -557,19 +563,19 @@ msgstr ""
 "Il y une vieille mine de dilithium à l'est. Je suis certain qu'il y a "
 "beaucoup de ces trucs là bas."
 
-#: Michelangelo.dialog:254
+#: Michelangelo.dialog:258
 msgid "I will talk to the guards, they will open the eastern gate for you."
 msgstr "Je parlerai aux gardes, ils ouvriront la porte est pour toi."
 
-#: Michelangelo.dialog:255
+#: Michelangelo.dialog:259
 msgid "Good luck. Try not to get yourself killed."
 msgstr "Bonne chance. Essaie de ne pas te faire tuer."
 
-#: Michelangelo.dialog:256
+#: Michelangelo.dialog:260
 msgid "How many dilithium crystals do you need?"
 msgstr "De combien de cristaux de dilithium as-tu besoin ?"
 
-#: Michelangelo.dialog:257
+#: Michelangelo.dialog:261
 msgid ""
 "A single small crystal could power my oven for a decade if it is of good "
 "quality. But unfortunately my oven requires two to operate correctly. And "
@@ -581,15 +587,15 @@ msgstr ""
 "fonctionner correctement. Et comme c'est dangereux d'envoyer quelqu'un "
 "chercher le dilithium, est-ce que tu pourrais m'en prendre un de plus ?"
 
-#: Michelangelo.dialog:258
+#: Michelangelo.dialog:262
 msgid "So you need three dilithium crystals?"
 msgstr "Donc tu as besoin de trois cristaux de dilithium ?"
 
-#: Michelangelo.dialog:259
+#: Michelangelo.dialog:263
 msgid "Yes. Please get me three dilithium crystals."
 msgstr "Oui. S'il te plaît, rapporte moi trois cristaux de dilithium."
 
-#: Michelangelo.dialog:261
+#: Michelangelo.dialog:265
 msgid ""
 "I am supposed to get three dilithium crystals for that cook, Michelangelo. "
 "Without them he cannot cook anything in his macrowave oven. And without his "
@@ -602,11 +608,11 @@ msgstr ""
 "militaires. La plupart des gens se sont suicidés à cause d'une nourriture "
 "infâme. Cette folie doit cesser."
 
-#: Michelangelo.dialog:266
+#: Michelangelo.dialog:270
 msgid "What is this 'dilithium'?"
 msgstr " Qu'est ce que le « dilithium » ?"
 
-#: Michelangelo.dialog:268
+#: Michelangelo.dialog:272
 msgid ""
 "You do not know? I thought Linarians were unmatched in their knowledge of "
 "the universe. Anyway..."
@@ -614,7 +620,7 @@ msgstr ""
 "Tu ne le sais pas ? Je pensais que les Linariens étaient imbattables dans "
 "leur connaissance de l'univers. De toutes façons..."
 
-#: Michelangelo.dialog:269
+#: Michelangelo.dialog:273
 msgid ""
 "Dilithium is a substance which is usually seen in the form of a small "
 "crystal."
@@ -622,7 +628,7 @@ msgstr ""
 "Le dilithium est une substance qui se présente habituellement sous la forme "
 "d'un petit cristal. "
 
-#: Michelangelo.dialog:270
+#: Michelangelo.dialog:274
 msgid ""
 "It somehow generates and stores amazing amounts of electricity. I do not "
 "know the details. I'm a cook, not a quantum scientist."
@@ -630,15 +636,15 @@ msgstr ""
 "Il génère et stocke une quantité incroyable d'énergie. Je ne connais pas les "
 "détails. Je suis un cuisinier, pas un expert en physique quantique."
 
-#: Michelangelo.dialog:275
+#: Michelangelo.dialog:279
 msgid "I have an idea. Use fire to cook the food for the city."
 msgstr " J'ai une idée. Utiliser le feu pour cuire la nourriture de la cité."
 
-#: Michelangelo.dialog:277
+#: Michelangelo.dialog:281
 msgid "A nice idea, but there is a couple of major problems with it."
 msgstr "Une idée sympa, mais il y deux gros problèmes avec ça."
 
-#: Michelangelo.dialog:278
+#: Michelangelo.dialog:282
 msgid ""
 "We are a town of 450 hungry people. It would need to be a very big fire to "
 "supply heat for all of the meals."
@@ -646,7 +652,7 @@ msgstr ""
 "Nous sommes une ville de 450 personnes affamées. Ça nécessiterait un très "
 "grand feu pour cuire toute la nourriture."
 
-#: Michelangelo.dialog:279
+#: Michelangelo.dialog:283
 msgid ""
 "There is nothing to burn inside the city. If you want you can go and try to "
 "chop some trees in the region to the north, but odds are the bots will chop "
@@ -657,7 +663,7 @@ msgstr ""
 "risquent de te découper avant que tu ais eu le temps de balancer un seul "
 "coup de hache."
 
-#: Michelangelo.dialog:280
+#: Michelangelo.dialog:284
 msgid ""
 "Finally, the meal cubes which we have in the freezer are optimized for "
 "macrowaves. If we stick them in a fire they will combust and not cook."
@@ -666,83 +672,83 @@ msgstr ""
 "pour les macro-ondes. Si nous les mettions au feu ils brûleraient et ne "
 "cuiraient pas."
 
-#: Michelangelo.dialog:281
+#: Michelangelo.dialog:285
 msgid "No oven means having to use premacrowaved food."
 msgstr ""
 "Pas de four signifie que tu es obligé d'utiliser la nourriture précuite pour "
 "le four macro-ondes."
 
-#: Michelangelo.dialog:282
+#: Michelangelo.dialog:286
 msgid "And the only such thing around is that abhorrent military sludge."
 msgstr ""
 "Et le seul truc de ce genre par ici est l'exécrable ration militaire marron."
 
-#: Michelangelo.dialog:287
+#: Michelangelo.dialog:291
 msgid "Tell the Red Guard that you need your battery back."
 msgstr "Dis à la Garde Rouge que tu as besoin de ta batterie."
 
-#: Michelangelo.dialog:290
+#: Michelangelo.dialog:294
 msgid "Well, you ARE the red guard"
 msgstr ""
 
-#: Michelangelo.dialog:291
+#: Michelangelo.dialog:295
 msgid "Why can't you just talk to Spencer?"
 msgstr ""
 
-#: Michelangelo.dialog:292
+#: Michelangelo.dialog:296
 #, fuzzy
 msgid "I want my battery back!"
 msgstr " Rends moi mon argent."
 
-#: Michelangelo.dialog:293
+#: Michelangelo.dialog:297
 #, fuzzy
 msgid "Umm... I guess you have a point there."
 msgstr "Je suppose que vous voulez dire dans l'univers ?"
 
-#: Michelangelo.dialog:294
+#: Michelangelo.dialog:298
 #, fuzzy
 msgid "But sorry, I don't think there is anything I can do right now,"
 msgstr ""
 " Je suis désolé, mais je ne crois pas qu'il y ait quoi que ce soit que je "
 "puisse faire à propos de l'approvisionnement en énergie."
 
-#: Michelangelo.dialog:295
+#: Michelangelo.dialog:299
 msgid "Talk to Spencer yourself."
 msgstr ""
 
-#: Michelangelo.dialog:299
+#: Michelangelo.dialog:303
 msgid "They said it was already fed to their reactor as fuel."
 msgstr ""
 "Ils ont dit qu'ils s'en étaient déjà servi comme carburant pour leur "
 "réacteur."
 
-#: Michelangelo.dialog:305
+#: Michelangelo.dialog:309
 msgid "I need a dilithium crystal."
 msgstr "J'ai le dilithium que tu voulais."
 
-#: Michelangelo.dialog:307
+#: Michelangelo.dialog:311
 msgid ""
 "I am already using the ones you got me. They are being used to feed the town."
 msgstr ""
 "Je suis déjà en train d'utiliser ceux que tu m'as donné. Ils sont utilisé "
 "pour alimenter la ville."
 
-#: Michelangelo.dialog:313 Michelangelo.dialog:320
+#: Michelangelo.dialog:317 Michelangelo.dialog:324
 msgid ""
 "I need one of the dilithium crystals back, it is a matter of life or death!"
 msgstr ""
 "J'ai besoin de récupérer un de ces cristaux de dilithium, c'est un problème "
 "de vie ou de mort."
 
-#: Michelangelo.dialog:315
+#: Michelangelo.dialog:319
 msgid "I gave you all of the crystals I can spare."
 msgstr "Je t'ai donné tous les cristaux que j'ai pu conserver."
 
-#: Michelangelo.dialog:322
+#: Michelangelo.dialog:326
 msgid "I guess I can spare one of them, since it is an emergency."
 msgstr "Je suppose que je peux t'en donner un, puisque c'est une urgence."
 
-#: Michelangelo.dialog:325
+#: Michelangelo.dialog:329
 msgid ""
 "I remembered that I gave Michelangelo three dilithium crystals when he only "
 "needed two for his oven. I convinced him it was a life-or-death situation "
@@ -755,11 +761,11 @@ msgstr ""
 "donc il m'en a rendu un. On dirait que je me suis épargné un voyage retour à "
 "la mine de dilithium !"
 
-#: Michelangelo.dialog:330
+#: Michelangelo.dialog:334
 msgid "I'll be going then."
 msgstr "Alors j'y vais."
 
-#: Michelangelo.dialog:332
+#: Michelangelo.dialog:336
 msgid "See you later."
 msgstr "À plus tard."
 

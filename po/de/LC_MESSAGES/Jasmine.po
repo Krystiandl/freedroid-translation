@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2009-02-22 23:51+0100\n"
 "Last-Translator: barbatrix <blue.bits@arcor.de>\n"
 "Language-Team: Deutsch\n"
@@ -94,51 +94,51 @@ msgstr "Du bist das schönste menschliche Wesen, das ich je gesehen habe..."
 msgid "And you are at least a quarter wrong."
 msgstr "Und du liegst mindestens zur Hälfte falsch."
 
-#: Jasmine.dialog:92
+#: Jasmine.dialog:93
 msgid "Now, please get out of my sight."
 msgstr "Und jetzt, geh mir aus den Augen..!"
 
-#: Jasmine.dialog:97
+#: Jasmine.dialog:98
 msgid "Will you marry me?"
 msgstr "Wirst du mich heiraten?"
 
-#: Jasmine.dialog:99
+#: Jasmine.dialog:100
 msgid "Forget it."
 msgstr "Bist du noch bei Trost??"
 
-#: Jasmine.dialog:104
+#: Jasmine.dialog:105
 msgid "See you later."
 msgstr "Ciao."
 
-#: Jasmine.dialog:112
+#: Jasmine.dialog:113
 msgid "Yeah. Whatever."
 msgstr "*Gähn* wie auch immer..."
 
-#: Jasmine.dialog:115
+#: Jasmine.dialog:116
 msgid "Yeah. Wha -- SIGSEGV."
 msgstr "Jetzt... hau endlich...[!] --  *SIGSEGV*"
 
-#: Jasmine.dialog:116
+#: Jasmine.dialog:117
 msgid "Segmentation fault."
 msgstr "-- ERROR: *segmentations-fehler*..."
 
-#: Jasmine.dialog:117
+#: Jasmine.dialog:118
 msgid "Huh?"
 msgstr "Häh?"
 
-#: Jasmine.dialog:118
+#: Jasmine.dialog:119
 msgid "Traceback printed to stdout."
 msgstr "-- AUTODIAGNOSE: *ergebnis gespeichert in stdout*..."
 
-#: Jasmine.dialog:119
+#: Jasmine.dialog:120
 msgid "Kernel panic in module: Jasmine"
 msgstr "Kernel panic im Modul: Jasmine"
 
-#: Jasmine.dialog:120
+#: Jasmine.dialog:121
 msgid "Buffer overrun in anger.c:1532"
 msgstr "-- SPEICHER-ÜBERLAUF IN *aerger.c :1532*..."
 
-#: Jasmine.dialog:121
+#: Jasmine.dialog:122
 msgid "Core dumped. System halted."
 msgstr "-- KERN FIXIERT - SYSTEM ANGEHALTEN..."
 

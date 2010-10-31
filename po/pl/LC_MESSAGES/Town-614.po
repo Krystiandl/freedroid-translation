@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-07-09 14:49+0100\n"
 "Last-Translator: Angelika Maria Piątkowska <piatkosia.apt@interia.pl>\n"
 "Language-Team: freedroid team\n"
@@ -113,26 +113,56 @@ msgstr "Jest uważany za stare, ale niezawodne urządzenie."
 msgid "So don't worry. I'm still in pretty good shape."
 msgstr "Więc nie przejmuj się. Mam jeszcze całkiem niezły kształt."
 
+#: Town-614.dialog:68
+#, fuzzy
+msgid "The latest version of the security line is the 615."
+msgstr "Jestem 4 generacją wersji tej linii botów bezpieczeństwa."
+
+#: Town-614.dialog:70
+msgid ""
+"Unfortunately its development was not finished when the great assault "
+"started."
+msgstr ""
+
+#: Town-614.dialog:71
+msgid ""
+"The lack of security options on the system of the 615 lead to a malfunction."
+msgstr ""
+
 #: Town-614.dialog:72
+msgid ""
+"Circumstances that led to the great assault even made the 615 go crazy and "
+"attack people."
+msgstr ""
+
+#: Town-614.dialog:73
+msgid "For the sake of your health, you should stay away from the 615 droids."
+msgstr ""
+
+#: Town-614.dialog:74
+msgid "You have been warned!"
+msgstr ""
+
+#: Town-614.dialog:79
 msgid "What are your orders?"
 msgstr "Co leży w twoim obowiązku??"
 
-#: Town-614.dialog:74
+#: Town-614.dialog:81
 msgid ""
 "My orders are to protect the living beings in this camp from attacks by "
 "hostile bots."
 msgstr ""
 "Moim obowiązkiem jest ochrona ludzi w obozie przed atakiem wrogich botów."
 
-#: Town-614.dialog:75
+#: Town-614.dialog:82
 msgid "This has top priority. There are no other priorities."
 msgstr "To jest najwyższy priorytet. Nie mamy innych priorytetów."
 
-#: Town-614.dialog:80
+#: Town-614.dialog:87
 msgid "Why are you not hostile, as are all the other bots?"
 msgstr "Czemu nie jesteś tak wrogi jak wszystkie pozostałe boty?"
 
-#: Town-614.dialog:82
+#: Town-614.dialog:89
 msgid ""
 "I belong to a an older generation of bots, running a custom-made security "
 "guard operating system."
@@ -140,7 +170,7 @@ msgstr ""
 "Należę do starszej generacji botów, działam pod kontrolą zamówionego przez "
 "gwardię bezpieczeństwa systemie operacyjnym."
 
-#: Town-614.dialog:83
+#: Town-614.dialog:90
 msgid ""
 "None of the bots of this generation were affected by the proceedings that "
 "led to bots attacking, generally known as the Great Assault."
@@ -148,7 +178,7 @@ msgstr ""
 "Żaden bot tej generacji nie był wyczulony na procedury co prowadziło do "
 "ataku botów, ogólnie znanym jako Wielki Atak"
 
-#: Town-614.dialog:84
+#: Town-614.dialog:91
 msgid ""
 "Even though discontinued by the Nicholson, Inc. long ago, today, some people "
 "have picked up the work and are even trying to improve the operating system "
@@ -158,14 +188,14 @@ msgstr ""
 "ludzie zabrali się do pracy i jeszcze próbowali poprawić system operacyjny "
 "chodzący na mojej serii."
 
-#: Town-614.dialog:85
+#: Town-614.dialog:92
 msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
 msgstr "Nie zapomnij kupić produktów firmy Nicholson, Inc.. Są najlepsi."
 
-#: Town-614.dialog:90
+#: Town-614.dialog:97
 msgid "See you later."
 msgstr "Do zobaczenia później"
 
-#: Town-614.dialog:92
+#: Town-614.dialog:99
 msgid "Resuming guard program."
 msgstr "Wznowienie programu straży"

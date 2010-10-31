@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-07-07 12:21+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
@@ -37,8 +37,8 @@ msgid "Tania's sanitary"
 msgstr "Tania magánya"
 
 #: SACD.dialog:38
-msgid "I have found that SACD and hacked it's system."
-msgstr "Megtaláltam a SACD-et és feltörtem a rendszerét."
+msgid "I have found the Secret Area Control Datacenter."
+msgstr ""
 
 #: SACD.dialog:43 SACD.dialog:56 SACD.dialog:69 SACD.dialog:81
 msgid "admin@sadefence: ~ #"
@@ -93,29 +93,27 @@ msgid "An error occured while opening doors."
 msgstr "A kapuk nyitása során hiba következett be."
 
 #: SACD.dialog:85
-msgid "./hcf.py"
-msgstr "./lmgy.py"
-
-#: SACD.dialog:87
-msgid "Executing: Halt and Catch Fire."
-msgstr "Futtatás: Leállás és Meggyulladás"
-
-#: SACD.dialog:88
-msgid "Cooling subsystems disabled."
-msgstr "Alrendszerek hűtése felfüggesztve."
-
-#: SACD.dialog:89
-msgid ""
-"Warning! Spontaneous oxidization witH emis$ion of light aND heAt detecteddd "
-"in THE#main| procesIng unit,"
-msgstr ""
-"Figyelem! Spontán oxidáció indult hŐ é$ fÉnY kIbocs@t@s mElLeTt a fŐ "
-"pR0cesssssszzzzzz0R 1ségbEn,"
-
-#: SACD.dialog:90
-msgid "SsTeM=#faiPure%^#n 3 S 1()$++"
-msgstr "RrndszEr>Le@lL@s%^#n 3 S 1()$++"
-
-#: SACD.dialog:96
 msgid "logout"
 msgstr "kijelentkezés"
+
+#~ msgid "I have found that SACD and hacked it's system."
+#~ msgstr "Megtaláltam a SACD-et és feltörtem a rendszerét."
+
+#~ msgid "./hcf.py"
+#~ msgstr "./lmgy.py"
+
+#~ msgid "Executing: Halt and Catch Fire."
+#~ msgstr "Futtatás: Leállás és Meggyulladás"
+
+#~ msgid "Cooling subsystems disabled."
+#~ msgstr "Alrendszerek hűtése felfüggesztve."
+
+#~ msgid ""
+#~ "Warning! Spontaneous oxidization witH emis$ion of light aND heAt "
+#~ "detecteddd in THE#main| procesIng unit,"
+#~ msgstr ""
+#~ "Figyelem! Spontán oxidáció indult hŐ é$ fÉnY kIbocs@t@s mElLeTt a fŐ "
+#~ "pR0cesssssszzzzzz0R 1ségbEn,"
+
+#~ msgid "SsTeM=#faiPure%^#n 3 S 1()$++"
+#~ msgstr "RrndszEr>Le@lL@s%^#n 3 S 1()$++"

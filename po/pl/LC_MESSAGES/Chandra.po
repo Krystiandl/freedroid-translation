@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-07-08 14:01+0100\n"
 "Last-Translator: Angelika Maria Piątkowska <piatkosia.apt@interia.pl>\n"
 "Language-Team: none\n"
@@ -144,9 +144,10 @@ msgid "What do you know about the hostile bots?"
 msgstr "Co wiesz o wrogich botach?"
 
 #: Chandra.dialog:85
+#, fuzzy
 msgid ""
 "The phenomenon of hostile bots has occupied my mind for quite some time. "
-"There are some strange irrationalities in this behaviour, that I cannot "
+"There are some strange irrationalities in this behavior, that I cannot "
 "explain."
 msgstr "Fenomenem wrogich botów jest"
 

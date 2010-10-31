@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -70,9 +70,14 @@ msgstr ""
 "La  version du firmware actuellement en usage est v. 5.0.8+worldto-nogpl"
 
 #: HF-FirmwareUpdateServer.dialog:70
-msgid "Currently deployed firmware is v. 5.0.8+tuxwashere+gpl"
+#, fuzzy
+msgid "Currently deployed firmware is v. 5.0.8+"
 msgstr ""
-"La version du firmware actuellement en usage est v. 5.0.8+tuxwashere+gpl"
+"La  version du firmware actuellement en usage est v. 5.0.8+worldto-nogpl"
+
+#: HF-FirmwareUpdateServer.dialog:70
+msgid "washere+gpl"
+msgstr ""
 
 #: HF-FirmwareUpdateServer.dialog:76
 msgid "Propagate firmware update"
@@ -109,6 +114,10 @@ msgstr ""
 #: HF-FirmwareUpdateServer.dialog:89
 msgid "Logout"
 msgstr "Se déconnecter"
+
+#~ msgid "Currently deployed firmware is v. 5.0.8+tuxwashere+gpl"
+#~ msgstr ""
+#~ "La version du firmware actuellement en usage est v. 5.0.8+tuxwashere+gpl"
 
 #~ msgid "..."
 #~ msgstr "..."

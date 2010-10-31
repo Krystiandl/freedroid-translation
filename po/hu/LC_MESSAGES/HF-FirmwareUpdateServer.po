@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-07-06 14:20+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
@@ -61,8 +61,13 @@ msgid "Currently deployed firmware is v. 5.0.8+worldto-nogpl."
 msgstr "A jelenleg telepített firmware v. 5.0.8+worldto-nogpl."
 
 #: HF-FirmwareUpdateServer.dialog:70
-msgid "Currently deployed firmware is v. 5.0.8+tuxwashere+gpl"
-msgstr "A jelenleg telepített firmware v. 5.0.8+tuxwashere+gpl"
+#, fuzzy
+msgid "Currently deployed firmware is v. 5.0.8+"
+msgstr "A jelenleg telepített firmware v. 5.0.8+worldto-nogpl."
+
+#: HF-FirmwareUpdateServer.dialog:70
+msgid "washere+gpl"
+msgstr ""
 
 #: HF-FirmwareUpdateServer.dialog:76
 msgid "Propagate firmware update"
@@ -98,6 +103,9 @@ msgstr ""
 #: HF-FirmwareUpdateServer.dialog:89
 msgid "Logout"
 msgstr "Kijelentkezés"
+
+#~ msgid "Currently deployed firmware is v. 5.0.8+tuxwashere+gpl"
+#~ msgstr "A jelenleg telepített firmware v. 5.0.8+tuxwashere+gpl"
 
 #~ msgid "..."
 #~ msgstr "..."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-07-08 14:45+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
@@ -337,7 +337,7 @@ msgstr ""
 
 #: TutorialTom.dialog:173 TutorialTom.dialog:262 TutorialTom.dialog:317
 #: TutorialTom.dialog:332 TutorialTom.dialog:357 TutorialTom.dialog:426
-#: TutorialTom.dialog:427
+#: TutorialTom.dialog:427 TutorialTom.dialog:862
 msgid "Tutorial Melee"
 msgstr ""
 
@@ -845,7 +845,7 @@ msgstr ""
 #, fuzzy
 msgid ""
 "At the bottom of your HUD, you'll notice your item access belt. Small items "
-"can go here and be used by pressing the numbers [b]0[/b] through [b]8[/b]."
+"can go here and be used by pressing the numbers [b]0[/b] through [b]9[/b]."
 msgstr ""
 "A képernyőd alján egy eszköztartó övet láthatsz. Kisebb tárgyakat tehetsz "
 "ide, és használhatod őket az 1 től 9 ig terjedő gombok megnyomásával."
@@ -1153,7 +1153,7 @@ msgstr ""
 msgid "Don't come back without the [b]Tachyon Condensator[/b]."
 msgstr "Ne gyere vissza a Tachyon Kondenzátor nélkül."
 
-#: TutorialTom.dialog:424 TutorialTom.dialog:532
+#: TutorialTom.dialog:424 TutorialTom.dialog:544
 msgid "I'm ready to move on."
 msgstr "Készen állok az indulásra."
 
@@ -1194,8 +1194,8 @@ msgstr ""
 "sem."
 
 #: TutorialTom.dialog:444 TutorialTom.dialog:474 TutorialTom.dialog:497
-#: TutorialTom.dialog:516 TutorialTom.dialog:522 TutorialTom.dialog:550
-#: TutorialTom.dialog:559 TutorialTom.dialog:566
+#: TutorialTom.dialog:516 TutorialTom.dialog:522 TutorialTom.dialog:562
+#: TutorialTom.dialog:571 TutorialTom.dialog:578
 msgid "Tutorial Shooting"
 msgstr ""
 
@@ -1461,7 +1461,15 @@ msgstr "Nem érdekel, ha nem tetszik, és kérlek ne akarj átverni."
 msgid "I don't have verified kills on all those bots."
 msgstr "Nem ölted meg az összes botot, ezért még nem megyünk tovább."
 
-#: TutorialTom.dialog:537 TutorialTom.dialog:553
+#: TutorialTom.dialog:532
+msgid "I would like a few more bots to shoot at."
+msgstr ""
+
+#: TutorialTom.dialog:534
+msgid "Ok, I'll create some more droids."
+msgstr ""
+
+#: TutorialTom.dialog:549 TutorialTom.dialog:565
 msgid ""
 "I'll need you to surrender your guns. Unequip them all, then talk to me "
 "again."
@@ -1469,7 +1477,7 @@ msgstr ""
 "Át kell adnod a fegyvereidet. Tedd vissza őket a felszerelésedbe, és "
 "beszéljünk megint."
 
-#: TutorialTom.dialog:538 TutorialTom.dialog:554
+#: TutorialTom.dialog:550 TutorialTom.dialog:566
 msgid ""
 "You will need to have the guns in your inventory to give them to me, so if "
 "you dropped them, please go get them."
@@ -1477,24 +1485,24 @@ msgstr ""
 "A fegyfereknek a felszerelésedben kell lenniük, hogy vissza tudd adni, "
 "szóval, ha eldobtad őket, akkor szedd össze megint."
 
-#: TutorialTom.dialog:539 TutorialTom.dialog:555
+#: TutorialTom.dialog:551 TutorialTom.dialog:567
 msgid ""
 "That includes the laser and plasma pistols in the storage room to the west."
 msgstr "Vannak lézer és plazma fegyverek is a raktárban, nyugat felé."
 
-#: TutorialTom.dialog:545
+#: TutorialTom.dialog:557
 msgid "I'd rather just move on to the next section of the tutorial."
 msgstr "Csak tovább szeretnék menni a kiképzés következő állomására."
 
-#: TutorialTom.dialog:547
+#: TutorialTom.dialog:559
 msgid "As you wish, Linarian."
 msgstr "Ahogy kívánod, Lináriai."
 
-#: TutorialTom.dialog:550 TutorialTom.dialog:559
+#: TutorialTom.dialog:562 TutorialTom.dialog:571
 msgid "I decided not to finish the shooting tutorial."
 msgstr ""
 
-#: TutorialTom.dialog:562
+#: TutorialTom.dialog:574
 #, fuzzy
 msgid ""
 "I'll need you to surrender your .22 pistol. Unequip it, then talk to me "
@@ -1503,23 +1511,23 @@ msgstr ""
 "Át kell adnod a fegyvereidet. Tedd vissza őket a felszerelésedbe, és "
 "beszéljünk megint."
 
-#: TutorialTom.dialog:566
+#: TutorialTom.dialog:578
 msgid "I decided not to do the shooting tutorial."
 msgstr ""
 
-#: TutorialTom.dialog:578
+#: TutorialTom.dialog:590
 msgid "Thank you, Linarian. We'll now move on to hacking."
 msgstr "Köszönöm, Lináriai. Most megyünk hackelni."
 
-#: TutorialTom.dialog:585
+#: TutorialTom.dialog:597
 msgid "Why are we stopping?"
 msgstr "Miért álltunk meg?"
 
-#: TutorialTom.dialog:587
+#: TutorialTom.dialog:599
 msgid "You've done well so far, Linarian. Let's take a little break."
 msgstr "Eddig jól teljesítettél, Lináriai. Tartsunk egy kis szünetet."
 
-#: TutorialTom.dialog:588
+#: TutorialTom.dialog:600
 msgid ""
 "Once you get out into the real world, you'll find that your current "
 "abilities aren't always enough to survive."
@@ -1527,7 +1535,7 @@ msgstr ""
 "Ha kimész a való világba, rájössz, hogy a megszerzett képességek nem mindig "
 "elégségesek a túléléshez."
 
-#: TutorialTom.dialog:589
+#: TutorialTom.dialog:601
 msgid ""
 "As you achieve combat experience, you'll be able to apply it to better "
 "yourself."
@@ -1535,7 +1543,7 @@ msgstr ""
 "Ahogy szerzel némi harci tapasztalati pontot, azt felhasználhatod, hogy "
 "fejleszd magad."
 
-#: TutorialTom.dialog:590
+#: TutorialTom.dialog:602
 #, fuzzy
 msgid ""
 "As with most things, you view this as a panel in your HUD. Press the [b]C key"
@@ -1544,7 +1552,7 @@ msgstr ""
 "Mint sok egyebet, ezt is láthatod a képernyődön. Nyomd meg a C gombot a "
 "Karakter panelhez."
 
-#: TutorialTom.dialog:591
+#: TutorialTom.dialog:603
 msgid ""
 "Once you've gained enough experience, you'll level up. This will "
 "automatically improve some of your statistics."
@@ -1552,7 +1560,7 @@ msgstr ""
 "Ha elég tapasztalatot szerzel, szintet ugrasz. Ez automatikusan növeli "
 "néhány statisztikádat."
 
-#: TutorialTom.dialog:592
+#: TutorialTom.dialog:604
 msgid ""
 "You'll also be given 5 points to spend however you choose in three different "
 "areas. Characteristics, Skills and Programs."
@@ -1560,14 +1568,14 @@ msgstr ""
 "Kapsz még 5 pontot is, amelyet három különböző területre használhatsz fel: "
 "Karakter, Képesség és Programok."
 
-#: TutorialTom.dialog:593
+#: TutorialTom.dialog:605
 #, fuzzy
 msgid ""
 "[b]Strength[/b] governs the amount of damage you do with each hit in melee "
 "combat."
 msgstr "Az erő növeli a közelharcban bevitt találatok sebzését."
 
-#: TutorialTom.dialog:594
+#: TutorialTom.dialog:606
 #, fuzzy
 msgid ""
 "[b]Dexterity[/b] controls your hit rate, or how likely you are to hit the "
@@ -1577,7 +1585,7 @@ msgstr ""
 "az ellenséget. Ugyancsak meghatározza, hogy mennyire vagy képes kitérni a "
 "támadás elől."
 
-#: TutorialTom.dialog:595
+#: TutorialTom.dialog:607
 #, fuzzy
 msgid ""
 "[b]Cooling[/b] is your processors cooling. or heat resilience, and "
@@ -1586,7 +1594,7 @@ msgstr ""
 "A CPU a processzorod hűtése, azaz hőmérséklettűrése, amely meghatározza a "
 "számítási teljesítményedet, amit túlmelegedés nélkül bírsz."
 
-#: TutorialTom.dialog:596
+#: TutorialTom.dialog:608
 #, fuzzy
 msgid ""
 "Finally, among your main characteristics, [b]Physique[/b] determines how "
@@ -1595,7 +1603,7 @@ msgstr ""
 "És végül az életfunkció karakterisztikád, az életerő mutatja meg az "
 "egészségedet."
 
-#: TutorialTom.dialog:597
+#: TutorialTom.dialog:609
 #, fuzzy
 msgid ""
 "They are general [b]Melee[/b] and [b]Ranged[/b] fighting skills, both of "
@@ -1605,7 +1613,7 @@ msgstr ""
 "Van az általános Közelharc és Tűzharc képesség, amelyek növekedésével "
 "növekszik a találataid sebzése és a sebessége."
 
-#: TutorialTom.dialog:598
+#: TutorialTom.dialog:610
 #, fuzzy
 msgid ""
 "You also have the [b]Programming[/b] skill, which essentially is about "
@@ -1614,7 +1622,7 @@ msgstr ""
 "Van Programozói képesség, amely a programozás, mint nagyon nagy hőkibocsátó "
 "tevékenységet teszi hatékonyabbá, hogy kevesebb hő szabaduljon fel."
 
-#: TutorialTom.dialog:599
+#: TutorialTom.dialog:611
 msgid ""
 "Apart from this, a few programs require a teacher and training points to "
 "improve."
@@ -1622,7 +1630,7 @@ msgstr ""
 "Ezeken kívül van pár program, aminek fejlesztéséhez tanítómesterre és "
 "képességpontokra lesz szükséged."
 
-#: TutorialTom.dialog:600
+#: TutorialTom.dialog:612
 #, fuzzy
 msgid ""
 "[b]Extract Bot Parts[/b] is a special passive skill that will allow you to "
@@ -1633,103 +1641,103 @@ msgstr ""
 "működik, biztosítva, hogy a 'hűvösre tett' botokból kinyert alkatrészeket "
 "eladhasd a piacon."
 
-#: TutorialTom.dialog:601
+#: TutorialTom.dialog:613
 msgid "A good technician is able to make use of that parts."
 msgstr ""
 
-#: TutorialTom.dialog:602
+#: TutorialTom.dialog:614
 msgid ""
 "He can create, let's say, an add-on and, after doing some modifications to "
 "the item, attach this add-on."
 msgstr ""
 
-#: TutorialTom.dialog:603
+#: TutorialTom.dialog:615
 msgid "This way an upgraded item is created."
 msgstr ""
 
-#: TutorialTom.dialog:604 TutorialTom.dialog:624 TutorialTom.dialog:625
-#: TutorialTom.dialog:781 TutorialTom.dialog:793
+#: TutorialTom.dialog:616 TutorialTom.dialog:636 TutorialTom.dialog:637
+#: TutorialTom.dialog:793 TutorialTom.dialog:805
 msgid "Tutorial Upgrading Items"
 msgstr ""
 
-#: TutorialTom.dialog:604
+#: TutorialTom.dialog:616
 msgid ""
 "There is a way to upgrade items if I meet a good technician. It sounds "
 "useful, maybe I should learn more about this."
 msgstr ""
 
-#: TutorialTom.dialog:605
+#: TutorialTom.dialog:617
 #, fuzzy
 msgid ""
 "The [b]Hacking[/b] program we will speak a bit more of in a little while."
 msgstr "A Feltörő programról pedig mindjárt szólok bővebben is."
 
-#: TutorialTom.dialog:610
+#: TutorialTom.dialog:622
 msgid "I'll have to keep that in mind."
 msgstr "Ezt majd észben tartom."
 
-#: TutorialTom.dialog:612
+#: TutorialTom.dialog:624
 msgid "Well, how about you try it out?"
 msgstr "Szóval, ki szeretnéd próbálni?"
 
-#: TutorialTom.dialog:613
+#: TutorialTom.dialog:625
 msgid ""
 "I'll give you some points to spend, and you can distribute them as you like."
 msgstr "Adok neked pár képességpontot és úgy osztod el, ahogyan akarod."
 
-#: TutorialTom.dialog:614
+#: TutorialTom.dialog:626
 #, fuzzy
 msgid ""
 "Since you'll be hacking up ahead, you should probably use a few of them on "
 "[b]Cooling[/b]."
 msgstr "Mivel a hackelés még előtted áll, talán felhasznál párat a CPU-ra."
 
-#: TutorialTom.dialog:615
+#: TutorialTom.dialog:627
 msgid "But, again, that's your choice."
 msgstr "De még egyszer, ez a te döntésed."
 
-#: TutorialTom.dialog:622
+#: TutorialTom.dialog:634
 msgid "Alright, I'm ready to go hack some bots."
 msgstr "Rendben, készen állok pár bot hackelésére."
 
-#: TutorialTom.dialog:625
+#: TutorialTom.dialog:637
 msgid "I decided that I don't need to know how to upgrade items."
 msgstr ""
 
-#: TutorialTom.dialog:627
+#: TutorialTom.dialog:639
 #, fuzzy
 msgid "First, you'll need to unlock the door."
 msgstr "De először oda kell adnod a fegyvereidet."
 
-#: TutorialTom.dialog:628
+#: TutorialTom.dialog:640
 msgid "See that [b]Terminal[/b] to the left?"
 msgstr ""
 
-#: TutorialTom.dialog:629
+#: TutorialTom.dialog:641
 msgid ""
 "You will need to login, by left clicking on it, and then select unlock door."
 msgstr ""
 
-#: TutorialTom.dialog:630
+#: TutorialTom.dialog:642
 msgid "Terminals act very similar to hacked bots."
 msgstr ""
 
-#: TutorialTom.dialog:631 TutorialTom.dialog:664 TutorialTom.dialog:728
-#: TutorialTom.dialog:739 TutorialTom.dialog:746
+#: TutorialTom.dialog:643 TutorialTom.dialog:676 TutorialTom.dialog:740
+#: TutorialTom.dialog:751 TutorialTom.dialog:758
 msgid "Tutorial Hacking"
 msgstr ""
 
-#: TutorialTom.dialog:631
+#: TutorialTom.dialog:643
 msgid ""
 "I need to login to the Terminal by left clicking on it. Then I'll unlock the "
 "door, so I can go hack some bots!"
 msgstr ""
 
-#: TutorialTom.dialog:637
+#: TutorialTom.dialog:649
 msgid "So how does this work?"
 msgstr "Szóval, hogy működik?"
 
-#: TutorialTom.dialog:639
+#: TutorialTom.dialog:651
 msgid ""
 "We talked about programs before. Now, we're going to focus on hacking "
 "programs in particular."
@@ -1737,7 +1745,7 @@ msgstr ""
 "Beszéltünk nemrég a programokról. Most a feltörő programokra fogunk "
 "koncentrálni."
 
-#: TutorialTom.dialog:640
+#: TutorialTom.dialog:652
 msgid ""
 "As I mentioned before, your brain works in a way remarkably similar to a "
 "central processing unit."
@@ -1745,7 +1753,7 @@ msgstr ""
 "Ahogy nemrég említettem, az agyad egy számítógép processzorához hasonlatosan "
 "működik."
 
-#: TutorialTom.dialog:641
+#: TutorialTom.dialog:653
 msgid ""
 "In many ways, you interact with the world around you as a virtual "
 "environment."
@@ -1753,7 +1761,7 @@ msgstr ""
 "Különböző módokon lépsz kapcsolatba a téged körülvevő világgal, amit "
 "virtuális környezetként kezelsz."
 
-#: TutorialTom.dialog:642
+#: TutorialTom.dialog:654
 msgid ""
 "You seem to have access to an API that isn't exposed to humans. You can "
 "interact with the environment in ways we only dream of."
@@ -1761,11 +1769,11 @@ msgstr ""
 "Oly módon csatlakozol a kezelőfelülethez, ami az embereknek nem adatott meg. "
 "Úgy tudsz tevékenykedni a környezetedben, amiről az emberek csak álmodnak."
 
-#: TutorialTom.dialog:643
+#: TutorialTom.dialog:655
 msgid "Because of this, you can run various programs on the bots."
 msgstr "Emiatt képes vagy többféle programot futtatni a botokon."
 
-#: TutorialTom.dialog:644
+#: TutorialTom.dialog:656
 msgid ""
 "You can attempt to take them over, or monkey with their programming, or even "
 "cause them to damage themselves."
@@ -1773,31 +1781,31 @@ msgstr ""
 "Át tudod venni felettük az uralmat, megkutyulhatod a programjukat, vagy "
 "elérheted, hogy kárt tegyenek magukban."
 
-#: TutorialTom.dialog:645
+#: TutorialTom.dialog:657
 msgid ""
 "Likewise, there are certain programs that affect you or items around you."
 msgstr ""
 "Szóval, van pár program, ami vagy rád hat, vagy a körülötted levő dolgokra."
 
-#: TutorialTom.dialog:650
+#: TutorialTom.dialog:662
 msgid "Tell me about taking bots over."
 msgstr "Mesélj nekem a botok feltöréséről."
 
-#: TutorialTom.dialog:652
+#: TutorialTom.dialog:664
 msgid ""
 "I'm afraid that you will have to experience it for yourself to really "
 "understand."
 msgstr ""
 "Attól tartok, hogy önállóan kell megtapasztalnod, hogy igazán megértsd."
 
-#: TutorialTom.dialog:653
+#: TutorialTom.dialog:665
 msgid ""
 "However, you did leave yourself instructions before you went into stasis "
 "sleep."
 msgstr ""
 "Mindazonáltal hagytál magadnak útmutatókat mielőtt sztázisalvásba mentél."
 
-#: TutorialTom.dialog:654
+#: TutorialTom.dialog:666
 #, fuzzy
 msgid ""
 "Taking over a bot comes in the form of a game or competition placing you "
@@ -1806,7 +1814,7 @@ msgstr ""
 "A feltörés, vagy hackelés egy játék, vagy inkább vetélkedő helyzetbe tesz "
 "téged a bottal szemben."
 
-#: TutorialTom.dialog:655
+#: TutorialTom.dialog:667
 #, fuzzy
 msgid ""
 "You initiate it by selecting the [b]Hacking[/b] program, then [b]right-"
@@ -1815,7 +1823,7 @@ msgstr ""
 "A Hacker program futtatásával indíthatod a folyamatot, majd kattints az "
 "ellenséges botra."
 
-#: TutorialTom.dialog:656
+#: TutorialTom.dialog:668
 msgid ""
 "The field of play is split into two sides, one green, one maroon, "
 "representing circuit boards."
@@ -1823,7 +1831,7 @@ msgstr ""
 "A játékmező két oldalra oszlik, egy zöld és egy sárgás, és ezek áramköröket "
 "szimbolizálnak."
 
-#: TutorialTom.dialog:657
+#: TutorialTom.dialog:669
 msgid ""
 "In the center of the field is a column of boxes known as logic cores. These "
 "cores have wires attached to them from both circuit boards."
@@ -1831,7 +1839,7 @@ msgstr ""
 "A mező közepén egy kockákból álló oszlop van, mint a logikai magok. Ezek a "
 "magok vezetékekkel csatlakoznak a két oldalhoz."
 
-#: TutorialTom.dialog:658
+#: TutorialTom.dialog:670
 msgid ""
 "Your objective is to activate as many cores in your chosen color as possible "
 "at the end of each round."
@@ -1839,7 +1847,7 @@ msgstr ""
 "A feladatod az, hogy az általad választott színűre aktiválj annyi ilyen "
 "magot amennyit csak tudsz."
 
-#: TutorialTom.dialog:659
+#: TutorialTom.dialog:671
 msgid ""
 "This is accomplished by selecting a wire with the up or down buttons, then "
 "pressing spacebar to activate that core."
@@ -1847,7 +1855,7 @@ msgstr ""
 "Ezt úgy tudod kivitelezni, hogy a fel - le gombok segítségével kiválasztod a "
 "vezetéket, majd megnyomod a szóköz gombot az aktiválásához."
 
-#: TutorialTom.dialog:660
+#: TutorialTom.dialog:672
 msgid ""
 "You will be given about 10 seconds initially to select which color you want "
 "with spacebar."
@@ -1855,7 +1863,7 @@ msgstr ""
 "Kapsz körülbelül 10 másodpercet, hogy kiválaszd a színedet a jobb - bal "
 "gombbal, majd a szőközzel rögzítsd."
 
-#: TutorialTom.dialog:661
+#: TutorialTom.dialog:673
 msgid ""
 "At that point, you have 10 more seconds in which to activate more cores than "
 "the bot."
@@ -1863,27 +1871,27 @@ msgstr ""
 "Ettől a pillanattól van további 10 másodperced, hogy több magot aktiválj, "
 "mint a bot."
 
-#: TutorialTom.dialog:662
+#: TutorialTom.dialog:674
 msgid ""
 "You have a limited number of charges, 3 by default, so choose your targets "
 "carefully."
 msgstr "Korlátozott számú, kezdetben 3 lehetőséged van, ezért dönts okosan."
 
-#: TutorialTom.dialog:663
+#: TutorialTom.dialog:675
 msgid "I can tell you about some more advanced techniques, if you'd like."
 msgstr "Mondhatok pár magasabb szintű technikát, ha szeretnéd."
 
-#: TutorialTom.dialog:664
+#: TutorialTom.dialog:676
 msgid ""
 "Apparently in order to hack, all I have to do is select the Hacking program, "
 "right click a bot, and play a little game. I've got this!"
 msgstr ""
 
-#: TutorialTom.dialog:669
+#: TutorialTom.dialog:681
 msgid "What was that about activating more cores than the bot?"
 msgstr "Mi van, ha több magot aktiválok, mint a bot?"
 
-#: TutorialTom.dialog:671
+#: TutorialTom.dialog:683
 msgid ""
 "Ah, yes. While you are busy trying to take the bot over, it will be busy "
 "trying to stop you."
@@ -1891,14 +1899,14 @@ msgstr ""
 "Ó, igen. Mialatt te azzal küzdesz, hogy feltörd a botot, ő azzal fog "
 "küzdeni, hogy megakadályozzon."
 
-#: TutorialTom.dialog:672
+#: TutorialTom.dialog:684
 msgid ""
 "The truth is, if the bot programming was perfect, it would be almost "
 "impossible to defeat."
 msgstr ""
 "Az az igazság, hogy ha a bot programja jó, akkor szinte lehetetlen feltörni."
 
-#: TutorialTom.dialog:673
+#: TutorialTom.dialog:685
 msgid ""
 "Fortunately for you, software bugs do indeed exist, and therefore some cores "
 "will be on your side from the beginning."
@@ -1906,7 +1914,7 @@ msgstr ""
 "Szerencsédre a szoftver bugok ott is léteznek, és emiatt némelyik már a "
 "kezdetektől a te dolgodat könnyíti."
 
-#: TutorialTom.dialog:674
+#: TutorialTom.dialog:686
 msgid ""
 "Likewise, the bots only have a limited number of charges. Occasionally, they "
 "will have more than you, but that is a risk you have to take."
@@ -1914,7 +1922,7 @@ msgstr ""
 "A botoknak ugyancsak limitált számú próbálkozása van. Néha több, mint neked, "
 "de az a kockázatot be kell vállalnod."
 
-#: TutorialTom.dialog:675
+#: TutorialTom.dialog:687
 msgid ""
 "Because you are initiating the attack, you do get to choose your side, which "
 "can let you handicap the bot greatly if used wisely."
@@ -1922,11 +1930,11 @@ msgstr ""
 "Mivel te indítod a támadást, te választhatod ki az oldalt, és ez nagyban "
 "növelheti az esélyeidet, ha okosan választasz."
 
-#: TutorialTom.dialog:680
+#: TutorialTom.dialog:692
 msgid "Tell me about more advanced techniques."
 msgstr "Mondj pár komolyabb technikát."
 
-#: TutorialTom.dialog:682
+#: TutorialTom.dialog:694
 msgid ""
 "Each charge will activate and remain active for a certain amount of time. "
 "This will let you take over a core that a bot just took over."
@@ -1934,7 +1942,7 @@ msgstr ""
 "Minden választás egy töltetet indít útjára, amely bizonyos ideig aktív. Ez "
 "esélyt ad, hogy átvedd azt a magot is, amelyet a bot már aktivált."
 
-#: TutorialTom.dialog:683
+#: TutorialTom.dialog:695
 msgid ""
 "Sometimes, the bots will already have charges on the wires. When you "
 "activate one of these, it will increase the time that wire is activated for."
@@ -1942,7 +1950,7 @@ msgstr ""
 "Néha, a bot már tartalmaz ilyen töltetet a vezetéken. Ha egy ilyet "
 "aktiválsz, az megnöveli a vezeték aktivitásának időtartamát."
 
-#: TutorialTom.dialog:684
+#: TutorialTom.dialog:696
 msgid ""
 "The bot can use this trick to, so it may be wise to give up a heavily "
 "guarded wire for an easier target."
@@ -1950,7 +1958,7 @@ msgstr ""
 "A bot is kihasználja ugyanezt, tehát néha jobb feladni a jól védezz "
 "vezetéket egy könnyebb célpontért."
 
-#: TutorialTom.dialog:685
+#: TutorialTom.dialog:697
 msgid ""
 "The wiring inside the bots sometimes contain splitters. These can be used in "
 "two ways."
@@ -1958,7 +1966,7 @@ msgstr ""
 "A botban levő vezetékek néha elágazást is tartalmaznak. Ezeket kétféleképpen "
 "használhatod."
 
-#: TutorialTom.dialog:686
+#: TutorialTom.dialog:698
 msgid ""
 "A 2-to-1 splitter is undesirable. This requires two charges to activate one "
 "core, halving your efficiency."
@@ -1966,14 +1974,14 @@ msgstr ""
 "A 2-ről 1-re osztó nem jó választás. Két töltet kell, hogy a végén egy magot "
 "aktiválhass, megfelezve ezzel a hatékonyságodat."
 
-#: TutorialTom.dialog:687
+#: TutorialTom.dialog:699
 msgid ""
 "A 1-to-2 splitter, however, will activate two nodes for the price of one "
 "charge."
 msgstr ""
 "Az 1-ről a 2-re osztó pedig egy töltettel kettő magot is képes aktiválni."
 
-#: TutorialTom.dialog:688
+#: TutorialTom.dialog:700
 msgid ""
 "Sometimes these splitters will be stacked. Tracing the route ahead of time "
 "will be crucial to your tactical success."
@@ -1981,7 +1989,7 @@ msgstr ""
 "Néha ezek az elosztók kombinálódnak. A töltet útjának gyors felmérése "
 "kritikus lehet a siker szempontjából."
 
-#: TutorialTom.dialog:689
+#: TutorialTom.dialog:701
 msgid ""
 "Ideally, you want to stick your opponent with 2-to-1 splitters, while you "
 "have 1-to-2 splitters at your disposal."
@@ -1989,7 +1997,7 @@ msgstr ""
 "A legideálisabb, ha az ellenfelednek 2-ről 1-re osztói vannak, míg a te "
 "oldaladon 1-ről a 2-re osztók találhatók."
 
-#: TutorialTom.dialog:690
+#: TutorialTom.dialog:702
 msgid ""
 "Finally, remember that patience is often a virtue. Taking over all cores "
 "early on only to lose them later can be a crushing blow."
@@ -1997,39 +2005,39 @@ msgstr ""
 "És végül, a türelem hasznodra válhat. Gyorsan megjelölni a magokat, hogy "
 "azután gyorsan el is veszd őket, bizony roszzul végződhet."
 
-#: TutorialTom.dialog:695
+#: TutorialTom.dialog:707
 msgid "I'm ready to try hacking bots."
 msgstr "Készen állok, hogy kipróbáljam a bothackelést."
 
-#: TutorialTom.dialog:697
+#: TutorialTom.dialog:709
 msgid "I certainly hope so."
 msgstr "Remélem is."
 
-#: TutorialTom.dialog:698
+#: TutorialTom.dialog:710
 msgid "I should, however, take the time to tell you a few more things."
 msgstr "Mindazonáltal el kell mondanom neked még pár dolgot."
 
-#: TutorialTom.dialog:699
+#: TutorialTom.dialog:711
 msgid "Hacking, like most other programs, incurs a cost to you."
 msgstr "A hackelésnek, mint a legtöbb programnak, ára van."
 
-#: TutorialTom.dialog:700
+#: TutorialTom.dialog:712
 msgid "Processing programs seems to heat up your brain."
 msgstr "A programok futtatása hőt termel az agyadban."
 
-#: TutorialTom.dialog:701
+#: TutorialTom.dialog:713
 msgid ""
 "You seem to be able to handle quite a bit of heat, but you have your limits."
 msgstr "Úgy tűnik bizonyos mennyiségű hőt tudsz kezelni, de vannak határaid."
 
-#: TutorialTom.dialog:702
+#: TutorialTom.dialog:714
 msgid ""
 "If you accumulate too much heat, you will automatically shut down in order "
 "to cool off."
 msgstr ""
 "Ha túl sok hőt generálsz, automatikusan lekapcsolsz, hogy lehűtsd magad."
 
-#: TutorialTom.dialog:703
+#: TutorialTom.dialog:715
 msgid ""
 "Over time, the heat will seep away from your body naturally. However, there "
 "are ways to speed up the process."
@@ -2037,7 +2045,7 @@ msgstr ""
 "Idővel természetes módon is leadod a hőt, ám a hűtésnek van pár gyorsabb "
 "módja is."
 
-#: TutorialTom.dialog:704
+#: TutorialTom.dialog:716
 msgid ""
 "If you can find them, cooling drinks will quickly relieve your thermal "
 "discomfort, in much the same way healing drinks help your health."
@@ -2045,7 +2053,7 @@ msgstr ""
 "Ha találsz hűtőitalt, akkor az gyorsan helyreállítja a hőérzetedet, hasonló "
 "módon, mint a gyógyital az egészségedet."
 
-#: TutorialTom.dialog:705
+#: TutorialTom.dialog:717
 #, fuzzy
 msgid ""
 "Remember you also have a special program called [b]Emergency Shutdown[/b] "
@@ -2056,15 +2064,15 @@ msgstr ""
 "Van egy különleges programod is, a Vészleállítás, amely drasztikusan "
 "csökkenti a hőmérsékletedet, ám nem kerül semmibe."
 
-#: TutorialTom.dialog:706
+#: TutorialTom.dialog:718
 msgid "I take it that was a joke also?"
 msgstr "Ez most vicc volt?"
 
-#: TutorialTom.dialog:707
+#: TutorialTom.dialog:719
 msgid "Quite."
 msgstr "Nem igazán."
 
-#: TutorialTom.dialog:708
+#: TutorialTom.dialog:720
 msgid ""
 "In addition to hacking, you have the ability to execute arbitrary code on "
 "bots."
@@ -2072,7 +2080,7 @@ msgstr ""
 "A hackelés képességén kívül, tudsz futtatni különböző előre megírt kódokat "
 "is a botokon."
 
-#: TutorialTom.dialog:709
+#: TutorialTom.dialog:721
 msgid ""
 "These scripts and programs can be learned through reading source code books. "
 "To read a book, right-click on it in inventory."
@@ -2080,7 +2088,7 @@ msgstr ""
 "Ezeket a szkripteket és programokat forráskód-könyvekből tanulhatod meg. A "
 "könyvek elolvasásához klikkelj rajtuk jobbal a felszerelésedben."
 
-#: TutorialTom.dialog:710
+#: TutorialTom.dialog:722
 msgid ""
 "You should have recovered your hacking ability by now, and I'll give you a "
 "couple of source code books as well."
@@ -2088,15 +2096,15 @@ msgstr ""
 "Most már újra birtokában vagy a hackelés képességének, ezért adok neked pár "
 "forráskód-könyvet."
 
-#: TutorialTom.dialog:715
+#: TutorialTom.dialog:727
 msgid "Thanks. I'm ready now."
 msgstr "Köszönöm. Készen állok."
 
-#: TutorialTom.dialog:717
+#: TutorialTom.dialog:729
 msgid "We have several bots behind that fence for you to practice on."
 msgstr "Van néhány bot a kerítés túloldalán, amiken gyakorolhatsz."
 
-#: TutorialTom.dialog:718
+#: TutorialTom.dialog:730
 msgid ""
 "Take them over, then talk to me when they're all dead, and we'll be done "
 "with the tutorial."
@@ -2104,76 +2112,76 @@ msgstr ""
 "Törd fel őket, és beszéljünk, miután mind meghalt. Utána befejezzük a "
 "kiképzést."
 
-#: TutorialTom.dialog:719
+#: TutorialTom.dialog:731
 msgid "If you need more help, don't hesitate to ask."
 msgstr "Ha további segítség kell, ne habozz kérdezni."
 
-#: TutorialTom.dialog:720
+#: TutorialTom.dialog:732
 msgid ""
 "Oh, and Linarian... If you fail when hacking, you'll receive an electrical "
 "shock."
 msgstr ""
 "Ó, Lináriai... Ha nem sikerül a feltörés, akkor egy elekrtosokkot kapsz."
 
-#: TutorialTom.dialog:721
+#: TutorialTom.dialog:733
 msgid "It shouldn't kill you, but you need to be aware of it nonetheless."
 msgstr "Nem öl meg, de kellemetlenül fog érinteni."
 
-#: TutorialTom.dialog:728
+#: TutorialTom.dialog:740
 msgid ""
 "Tutorial Tom wants me to hack those bots. The only thing I need to worry "
 "about is overheating. But if I get too hot I can always try the Emergency "
 "shutdown program."
 msgstr ""
 
-#: TutorialTom.dialog:736
+#: TutorialTom.dialog:748
 msgid "I'm finished. I'm ready to move on."
 msgstr "Befejeztem. Mehetünk tovább."
 
-#: TutorialTom.dialog:740
+#: TutorialTom.dialog:752
 msgid "The bots aren't dead, Linarian."
 msgstr "Nem minden bot halt meg, Lináriai."
 
-#: TutorialTom.dialog:741
+#: TutorialTom.dialog:753
 msgid "Come back and talk to me after they are."
 msgstr "Gyere vissza, ha már mind működésképtelen."
 
-#: TutorialTom.dialog:742
+#: TutorialTom.dialog:754
 #, fuzzy
 msgid ""
 "If you're having trouble, you might try the [b]Malformed Packet[/b] program."
 msgstr "Ha bajba kerülsz, használd a Törött Adatcsomag programot."
 
-#: TutorialTom.dialog:744
+#: TutorialTom.dialog:756
 msgid "Well done! That concludes our tutorial."
 msgstr "Jó munka! Ez felteszi az ire a pontot."
 
-#: TutorialTom.dialog:746
+#: TutorialTom.dialog:758
 msgid "Well, it took a lot of work, but I showed those bots who's boss."
 msgstr ""
 
-#: TutorialTom.dialog:749
+#: TutorialTom.dialog:761
 msgid "Now, there's one last thing you should know."
 msgstr "És most egy utolsó dolog, amit tudnod kell."
 
-#: TutorialTom.dialog:750
+#: TutorialTom.dialog:762
 msgid "You Linarians can apparently withdraw from our world temporarily."
 msgstr "Ti Lináriaiak időlegesen ki tudjátok vonni magatokat a létezésből."
 
-#: TutorialTom.dialog:751
+#: TutorialTom.dialog:763
 msgid "Time stops, and everything freezes in place."
 msgstr "Az idő megáll, minden mozdulatlanná dermed."
 
-#: TutorialTom.dialog:752
+#: TutorialTom.dialog:764
 #, fuzzy
 msgid "This can be accomplished by using the [b]Esc key[/b]."
 msgstr "Ez az Esc gomb megnyomásával érhető el."
 
-#: TutorialTom.dialog:754
+#: TutorialTom.dialog:766
 msgid "Your final task is to leave us using this menu."
 msgstr "Az utolsó feladatod, hogy e menü segítségével elhagyd a kiképzést."
 
-#: TutorialTom.dialog:755
+#: TutorialTom.dialog:767
 msgid ""
 "I'm afraid there's nothing more I can teach you. I wish you good luck, "
 "Linarian."
@@ -2181,19 +2189,19 @@ msgstr ""
 "Attól tartok, semmi mást nem tudok tanítani neked. Sok szerencsét kívánok "
 "Lináriai."
 
-#: TutorialTom.dialog:756
+#: TutorialTom.dialog:768
 msgid "You'll need it if our world is to survive."
 msgstr "Szükséged lesz rá, mint ahogy a világunknak is."
 
-#: TutorialTom.dialog:763
+#: TutorialTom.dialog:775
 msgid "Tell me again about take over, I'm not sure I got it all."
 msgstr "Beszélj megint a feltörésről, nem vagyok még biztos magamban."
 
-#: TutorialTom.dialog:765
+#: TutorialTom.dialog:777
 msgid "Tell me exactly what part you want me to explain again."
 msgstr "Mondd el pontosan, hogy melyik részét magyarázzam el megint."
 
-#: TutorialTom.dialog:766
+#: TutorialTom.dialog:778
 msgid ""
 "But things will be much clearer once you try for yourself than when I try to "
 "explain."
@@ -2201,52 +2209,52 @@ msgstr ""
 "Sokkal tisztább lesz minden, ha magad is kipróbálod, és nem csak én "
 "magyarázom el."
 
-#: TutorialTom.dialog:767
+#: TutorialTom.dialog:779
 msgid "Use your experience as notes, and all should be clear."
 msgstr "Használd fel a tapasztalataidat, és minden tisztább lesz."
 
-#: TutorialTom.dialog:772
+#: TutorialTom.dialog:784
 #, fuzzy
 msgid "Can you tell me more about upgrading items?"
 msgstr "Elmondod, hogyan harcoljak a botokkal?"
 
-#: TutorialTom.dialog:774
+#: TutorialTom.dialog:786
 msgid ""
 "You can upgrade most weapons and clothings. First you'll need some materials "
 "to craft add-ons."
 msgstr ""
 
-#: TutorialTom.dialog:775
+#: TutorialTom.dialog:787
 msgid ""
 "Parts needed for this process can be extracted from bots. You'll have to "
 "learn how to do it."
 msgstr ""
 
-#: TutorialTom.dialog:776
+#: TutorialTom.dialog:788
 msgid ""
 "When you have enough materials, you can craft an add-on. Make sure the add-"
 "on is suitable for your equipment."
 msgstr ""
 
-#: TutorialTom.dialog:777
+#: TutorialTom.dialog:789
 msgid ""
 "After this, you have to make a socket in your equipment so you can plug the "
 "add-on."
 msgstr ""
 
-#: TutorialTom.dialog:778
+#: TutorialTom.dialog:790
 msgid "That's the theory. Simple, isn't it?"
 msgstr ""
 
-#: TutorialTom.dialog:779
+#: TutorialTom.dialog:791
 msgid "I'll give you some materials now and let you craft an add-on."
 msgstr ""
 
-#: TutorialTom.dialog:780
+#: TutorialTom.dialog:792
 msgid "Pay attention to the type of the socket the add-on needs."
 msgstr ""
 
-#: TutorialTom.dialog:781
+#: TutorialTom.dialog:793
 msgid ""
 "Before crafting an add-on I have to get some materials. The best way is to "
 "extract them from the bots, using Extract Bot Parts skill. Each add-on "
@@ -2255,88 +2263,150 @@ msgid ""
 "or plug them."
 msgstr ""
 
-#: TutorialTom.dialog:789
+#: TutorialTom.dialog:801
 msgid ""
 "Now you'll need to pay some more money in order to make a socket and plug-in "
 "the add-on. Here, take some."
 msgstr ""
 
-#: TutorialTom.dialog:791
+#: TutorialTom.dialog:803
 msgid ""
 "Choose an item and add an appropriate socket by clicking ''+'' on the right "
 "of the item. Then attach the add-on to this item and confirm your choice."
 msgstr ""
 
-#: TutorialTom.dialog:793
+#: TutorialTom.dialog:805
 msgid "Maybe I need some time to practice this, but I got the basics."
 msgstr ""
 
-#: TutorialTom.dialog:798
+#: TutorialTom.dialog:810
 msgid "I wasted my materials on the add-on I didn't need. Can you give more?"
 msgstr ""
 
-#: TutorialTom.dialog:800
+#: TutorialTom.dialog:812
 msgid ""
 "Yes, but only this time. I'll give you some money too. Just be more careful "
 "in the future and make wise choices."
 msgstr ""
 
-#: TutorialTom.dialog:801
+#: TutorialTom.dialog:813
 msgid "Reality is not as generous as I am."
 msgstr ""
 
-#: TutorialTom.dialog:808
+#: TutorialTom.dialog:820
 msgid "Thank you."
 msgstr ""
 
-#: TutorialTom.dialog:809
+#: TutorialTom.dialog:821
 msgid "Think carefully before you make your next add-on."
 msgstr ""
 
-#: TutorialTom.dialog:814
+#: TutorialTom.dialog:826
 msgid "Upgrading items is still too complex for me. Can you explain it again?"
 msgstr ""
 
-#: TutorialTom.dialog:816
+#: TutorialTom.dialog:828
 msgid ""
 "First step is finding materials. They may be extracted from bots, but you'll "
 "have to learn how to do it."
 msgstr ""
 
-#: TutorialTom.dialog:817
+#: TutorialTom.dialog:829
 msgid ""
 "Those materials can be used in crafting add-ons. Make sure the add-on will "
 "fit your equipment. Also, remember the type of the socket your add-on needs."
 msgstr ""
 
-#: TutorialTom.dialog:818
+#: TutorialTom.dialog:830
 msgid "I gave you materials. Let's craft an add-on now."
 msgstr ""
 
-#: TutorialTom.dialog:820
+#: TutorialTom.dialog:832
 msgid ""
 "All you have to do now is to choose a suitable item and add a socket by "
 "clicking ''+'' on the right of the chosen item."
 msgstr ""
 
-#: TutorialTom.dialog:821
+#: TutorialTom.dialog:833
 msgid "Remember you pay for both adding a socket and plugging an add-on."
 msgstr ""
 
-#: TutorialTom.dialog:822
+#: TutorialTom.dialog:834
 #, fuzzy
 msgid "Let's try it, shall we?"
 msgstr "Tehát kezdjük az alapokkal, rendben?"
 
-#: TutorialTom.dialog:824
+#: TutorialTom.dialog:836
 msgid "I hope it's clear now."
 msgstr ""
 
-#: TutorialTom.dialog:829
+#: TutorialTom.dialog:841
+#, fuzzy
+msgid "I'd like to skip to a later section of the Tutorial."
+msgstr "Csak tovább szeretnék menni a kiképzés következő állomására."
+
+#: TutorialTom.dialog:843
+msgid "OK, what would you like to learn about?"
+msgstr ""
+
+#: TutorialTom.dialog:848
+msgid "Chests and Armor"
+msgstr ""
+
+#: TutorialTom.dialog:850
+msgid "OK, I'll take us to the Chest."
+msgstr ""
+
+#: TutorialTom.dialog:857
+msgid "Melee Combat"
+msgstr ""
+
+#: TutorialTom.dialog:859
+msgid "OK, I'll take us to the melee arena and give you some armor."
+msgstr ""
+
+#: TutorialTom.dialog:871
+msgid "Ranged Combat"
+msgstr ""
+
+#: TutorialTom.dialog:873
+msgid ""
+"OK, I'll take us to the shooting range and give you some armor and a weapon."
+msgstr ""
+
+#: TutorialTom.dialog:885
+msgid "Abilities"
+msgstr ""
+
+#: TutorialTom.dialog:887
+msgid "OK, I'll take us there and give you some armor and a weapon."
+msgstr ""
+
+#: TutorialTom.dialog:899
+msgid "Upgrading Items & Terminals"
+msgstr ""
+
+#: TutorialTom.dialog:901
+msgid ""
+"OK, I'll take us there and give you some armor and a weapon to work with."
+msgstr ""
+
+#: TutorialTom.dialog:913
+#, fuzzy
+msgid "Hacking Bots"
+msgstr "bot_hackelés"
+
+#: TutorialTom.dialog:915
+msgid ""
+"OK, I'll take us to the hacking area. Also I'll give you some XP so you can "
+"improve your cooling."
+msgstr ""
+
+#: TutorialTom.dialog:923
 msgid "Let me take a short break and practice on my own for a while."
 msgstr "Hadd tartsak egy kis szünetet és gyakoroljak önállóan."
 
-#: TutorialTom.dialog:831
+#: TutorialTom.dialog:925
 msgid ""
 "Ok, I'll be around if you need any more questions answered. Don't hesitate "
 "to ask."
@@ -2540,6 +2610,3 @@ msgstr "Rendben. A közelben leszek, ha kérdésed lenne. Ne habozz kérdezni."
 #~ msgstr ""
 #~ "Ha ezt használod akkor megbénulsz néhány másodpercre, mialatt csirke... "
 #~ "ööö, pingvinkrémet csinálhatnak belőled."
-
-#~ msgid "hacking_bots"
-#~ msgstr "bot_hackelés"

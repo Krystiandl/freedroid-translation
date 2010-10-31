@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-07-05 13:34+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
@@ -97,23 +97,28 @@ msgid "***** Proximity Scan Results *****"
 msgstr "*****Ellenség Scan Eredménye*****"
 
 #: 614_cryo.dialog:60
-msgid "Hostile Numeric Presence: HIGH"
+#, fuzzy
+msgid "Hostile Numeric Presence: [b]HIGH[/b]"
 msgstr "Ellenséges Jelenlét Száma: MAGAS"
 
 #: 614_cryo.dialog:61
-msgid "Enemy Energy Levels: LOW"
+#, fuzzy
+msgid "Enemy Energy Levels: [b]LOW[/b]"
 msgstr "Ellenséges Energia Szint: ALACSONY"
 
 #: 614_cryo.dialog:62
-msgid "Threat Degree Analysis: MODERATE"
+#, fuzzy
+msgid "Threat Degree Analysis: [b]MODERATE[/b]"
 msgstr "Fenyegetettségi Szint: KÖZEPES"
 
 #: 614_cryo.dialog:64
-msgid "Cryo Complex Gates Status: CLOSED"
+#, fuzzy
+msgid "Cryo Complex Gates Status: [b]CLOSED[/b]"
 msgstr "Krio Komplexum Kapuk Állapota: NYITVA"
 
 #: 614_cryo.dialog:66
-msgid "Cryo Complex Gates Status: OPEN"
+#, fuzzy
+msgid "Cryo Complex Gates Status: [b]OPEN[/b]"
 msgstr "Krio Komplexum Kapuk Állapota: NYITVA"
 
 #: 614_cryo.dialog:72
@@ -139,11 +144,41 @@ msgstr "Meglehetősen idejétmúlt, de megbízható egység."
 msgid "So don't worry. I'm still in pretty good shape."
 msgstr "Tehát ne aggódj. Még mindíg elég jó állapotban vagyok."
 
+#: 614_cryo.dialog:78
+#, fuzzy
+msgid "The latest version of the security line is the 615."
+msgstr "Én a biztonsági droid széria negyedik generációs verziója vagyok."
+
+#: 614_cryo.dialog:80
+msgid ""
+"Unfortunately its development was not finished when the great assault "
+"started."
+msgstr ""
+
+#: 614_cryo.dialog:81
+msgid ""
+"The lack of security options on the system of the 615 lead to a malfunction."
+msgstr ""
+
 #: 614_cryo.dialog:82
+msgid ""
+"Circumstances that led to the great assault even made the 615 go crazy and "
+"attack people."
+msgstr ""
+
+#: 614_cryo.dialog:83
+msgid "For the sake of your health, you should stay away from the 615 droids."
+msgstr ""
+
+#: 614_cryo.dialog:84
+msgid "You have been warned!"
+msgstr ""
+
+#: 614_cryo.dialog:89
 msgid "What are your orders?"
 msgstr "Milyen utasításokat követsz?"
 
-#: 614_cryo.dialog:84
+#: 614_cryo.dialog:91
 msgid ""
 "Primary objective: Protect the living beings inside this complex from "
 "attacks by hostile bots."
@@ -151,19 +186,20 @@ msgstr ""
 "Elsődleges feladat: Az élőlények védelme az ellenséges droidoktól a "
 "komplexumon belül."
 
-#: 614_cryo.dialog:85
+#: 614_cryo.dialog:92
+#, fuzzy
 msgid ""
 "Secondary objective: Protect facility by locking outer gates if Threat "
-"Degree Analysis: HIGH."
+"Degree Analysis: [b]HIGH[/b]."
 msgstr ""
 "Másodlagos feladat: A létesítmény védelme a külső kapuk lezárásával, ha a "
 "Fenyegetettségi Szint: MAGAS"
 
-#: 614_cryo.dialog:91
+#: 614_cryo.dialog:98
 msgid "Why are you not hostile as are all the other bots?"
 msgstr "Miért nem vagy ellenséges, mint a többi bot?"
 
-#: 614_cryo.dialog:93
+#: 614_cryo.dialog:100
 msgid ""
 "I belong to a an older generation of bots, running a custom-made security "
 "guard operating system."
@@ -171,7 +207,7 @@ msgstr ""
 "Egy régebbi botgenerációhoz tartozom, amely egy kölönlegesen fejlesztett "
 "őrző-védő operációs rendszert futtat."
 
-#: 614_cryo.dialog:94
+#: 614_cryo.dialog:101
 msgid ""
 "None of the bots of this generation were affected by the proceedings that "
 "led to bots attacking, generally known as the Great Assault."
@@ -180,7 +216,7 @@ msgstr ""
 "droidok ellenségessé válásához vezetett, amit mindenki csak a Nagy "
 "Ostromként emleget."
 
-#: 614_cryo.dialog:95
+#: 614_cryo.dialog:102
 msgid ""
 "Even though discontinued from Nicholson, Inc. long ago, today, some people "
 "have picked up the work and are even trying to improve the operating system "
@@ -190,15 +226,15 @@ msgstr ""
 "folytatta a munkát, megpróbálva növelni az operációs rendszer hatékonyságát, "
 "amelyet a szériám futtat."
 
-#: 614_cryo.dialog:96
+#: 614_cryo.dialog:103
 msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
 msgstr ""
 "Ne felejts el a Nicholson vállalat termékeiből vásárolni. Ők a legjobbak."
 
-#: 614_cryo.dialog:101
+#: 614_cryo.dialog:108
 msgid "See you later."
 msgstr "Később találkozunk. Viszlát!"
 
-#: 614_cryo.dialog:103
+#: 614_cryo.dialog:110
 msgid "Resuming guard program."
 msgstr "Örző-Védő Program folytatása."

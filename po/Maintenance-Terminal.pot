@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
+"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ./Maintenance-Terminal.dialog:37
+msgid "Login : "
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:39
+msgid "Password : "
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:41
+msgid "Hello, Dave."
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:42
+msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:48
+msgid "sys_status --all"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:53
+msgid "Detecting connected devices..."
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:54
+msgid "Found 03 connected auto-guns."
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:55
+msgid "Found 01 connected gate."
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:56
+msgid "Anomalies detected."
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:61
+msgid "Gun 01 status: ENABLED"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:62
+msgid "Gun 02 status: ENABLED"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:63
+msgid "Gun 03 status: ENABLED"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:70
+msgid "Gun 01 status: DISABLED"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:71
+msgid "Gun 02 status: DISABLED"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:72
+msgid "Gun 03 status: DISABLED"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:77
+msgid "Access Gate status: OPEN"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:80
+msgid "Access Gate status: CLOSED"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:88
+msgid "disable guns"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:90
+msgid "I'm sorry. I'm afraid I can't let you do that."
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:95
+msgid "sudo enable guns"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:97
+#: ./Maintenance-Terminal.dialog:133
+#: ./Maintenance-Terminal.dialog:159
+msgid "[sudo] password for dixon: "
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:99
+msgid "Enabling gun 01 ..."
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:101
+msgid "Enabling gun 02 ..."
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:103
+msgid "Enabling gun 03 ..."
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:105
+#: ./Maintenance-Terminal.dialog:115
+#: ./Maintenance-Terminal.dialog:125
+#: ./Maintenance-Terminal.dialog:174
+msgid "SUCCESS"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:111
+msgid "close access gate"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:113
+msgid "Closing Access Gate ..."
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:121
+msgid "open access gate"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:123
+msgid "Opening Access Gate ..."
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:131
+#: ./Maintenance-Terminal.dialog:157
+msgid "sudo disable guns"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:135
+msgid "Would you like a sandwich with that?"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:141
+msgid "yes"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:143
+msgid "Now how would I make one of those?"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:143
+msgid "Sudo doesn't give you magic powers."
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:149
+msgid "no"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:151
+msgid "Good choice."
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:165
+msgid "BUG, REPORT ME! Maintenance-Terminal node11 -- Disable Guns"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:168
+msgid "Disabling gun 01 ..."
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:170
+msgid "Disabling gun 02 ..."
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:172
+msgid "Disabling gun 03 ..."
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:180
+msgid "logout"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:182
+msgid "Exiting"
+msgstr ""
+
+#: ./Maintenance-Terminal.dialog:183
+msgid "Goodbye Dave."
+msgstr ""
+

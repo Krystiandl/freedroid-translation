@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidRPG 0.10.4cvs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2008-11-03 05:44+0000\n"
 "Last-Translator: Christian Widell <Christian_widell@hotmail.com>\n"
 "Language-Team: Swedish\n"
@@ -164,10 +164,13 @@ msgid "Killer poke"
 msgstr "Skada minneskretsar"
 
 #: freedroid.program_archetypes:188
+#, fuzzy
 msgid ""
-"Messing around with the bot's memory can cause it to severly damage itself, "
+"Messing around with the bot's memory can cause it to severely damage itself, "
 "but the damage is greatly variable."
 msgstr ""
+"Att röra om i boten's minne kan få den att skada sig själv, men skadan kan "
+"variera mycket."
 
 #: freedroid.program_archetypes:202
 msgid "Plasma discharge"
@@ -1254,13 +1257,6 @@ msgstr "EMP granat"
 
 #~ msgid "Source Book of Killer poke"
 #~ msgstr "Källbok om Minnesförstöring"
-
-#~ msgid ""
-#~ "Messing around with the bot's memory can cause it to damage itself, but "
-#~ "the damage is greatly variable."
-#~ msgstr ""
-#~ "Att röra om i boten's minne kan få den att skada sig själv, men skadan "
-#~ "kan variera mycket."
 
 #~ msgid "Source Book of Nethack"
 #~ msgstr "Källbok om Nethack"

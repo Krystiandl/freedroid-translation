@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
-"PO-Revision-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
+"PO-Revision-Date: 2010-10-31 08:30+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -152,8 +152,8 @@ msgstr ""
 
 #: ./freedroid.program_archetypes:188
 msgid ""
-"Messing around with the bot's memory can cause it to severly damage itself, bu"
-"t the damage is greatly variable."
+"Messing around with the bot's memory can cause it to severely damage itself, b"
+"ut the damage is greatly variable."
 msgstr ""
 
 #: ./freedroid.program_archetypes:202

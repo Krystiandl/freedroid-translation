@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-06-02 07:42+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -37,7 +37,7 @@ msgid "Tania's sanitary"
 msgstr ""
 
 #: SACD.dialog:38
-msgid "I have found that SACD and hacked it's system."
+msgid "I have found the Secret Area Control Datacenter."
 msgstr ""
 
 #: SACD.dialog:43 SACD.dialog:56 SACD.dialog:69 SACD.dialog:81
@@ -93,27 +93,5 @@ msgid "An error occured while opening doors."
 msgstr ""
 
 #: SACD.dialog:85
-msgid "./hcf.py"
-msgstr ""
-
-#: SACD.dialog:87
-msgid "Executing: Halt and Catch Fire."
-msgstr ""
-
-#: SACD.dialog:88
-msgid "Cooling subsystems disabled."
-msgstr ""
-
-#: SACD.dialog:89
-msgid ""
-"Warning! Spontaneous oxidization witH emis$ion of light aND heAt detecteddd "
-"in THE#main| procesIng unit,"
-msgstr ""
-
-#: SACD.dialog:90
-msgid "SsTeM=#faiPure%^#n 3 S 1()$++"
-msgstr ""
-
-#: SACD.dialog:96
 msgid "logout"
 msgstr ""

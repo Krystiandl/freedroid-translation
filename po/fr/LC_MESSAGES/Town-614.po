@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -120,11 +120,42 @@ msgstr "Ils sont considérés comme un matériel ancien mais très fiable."
 msgid "So don't worry. I'm still in pretty good shape."
 msgstr "Ne vous inquiétez donc pas. Je suis encore en très bon état."
 
+#: Town-614.dialog:68
+#, fuzzy
+msgid "The latest version of the security line is the 615."
+msgstr ""
+"J'appartiens à la 4ème génération de leur lignée de droïdes de sécurité."
+
+#: Town-614.dialog:70
+msgid ""
+"Unfortunately its development was not finished when the great assault "
+"started."
+msgstr ""
+
+#: Town-614.dialog:71
+msgid ""
+"The lack of security options on the system of the 615 lead to a malfunction."
+msgstr ""
+
 #: Town-614.dialog:72
+msgid ""
+"Circumstances that led to the great assault even made the 615 go crazy and "
+"attack people."
+msgstr ""
+
+#: Town-614.dialog:73
+msgid "For the sake of your health, you should stay away from the 615 droids."
+msgstr ""
+
+#: Town-614.dialog:74
+msgid "You have been warned!"
+msgstr ""
+
+#: Town-614.dialog:79
 msgid "What are your orders?"
 msgstr " Quels sont tes directives ?"
 
-#: Town-614.dialog:74
+#: Town-614.dialog:81
 msgid ""
 "My orders are to protect the living beings in this camp from attacks by "
 "hostile bots."
@@ -132,16 +163,16 @@ msgstr ""
 "Mes ordres sont de protéger les êtres vivants de ce camp des attaques de "
 "robots ennemis."
 
-#: Town-614.dialog:75
+#: Town-614.dialog:82
 msgid "This has top priority. There are no other priorities."
 msgstr "C'est la priorité la plus élevée. Il n'y a pas d'autre priorité."
 
-#: Town-614.dialog:80
+#: Town-614.dialog:87
 msgid "Why are you not hostile, as are all the other bots?"
 msgstr ""
 " Pourquoi n'es-tu pas agressif, comme les sont tous les autres robots ?"
 
-#: Town-614.dialog:82
+#: Town-614.dialog:89
 msgid ""
 "I belong to a an older generation of bots, running a custom-made security "
 "guard operating system."
@@ -149,7 +180,7 @@ msgstr ""
 "Je suis issu d'une ancienne génération de robots, je fonctionne à partir "
 "d'un système d'exploitation spécialement conçu pour les gardes de sécurité."
 
-#: Town-614.dialog:83
+#: Town-614.dialog:90
 msgid ""
 "None of the bots of this generation were affected by the proceedings that "
 "led to bots attacking, generally known as the Great Assault."
@@ -157,7 +188,7 @@ msgstr ""
 "Aucun des robots de cette série n'étaient affectés par les processus qui ont "
 "conduit l'attaque des robots, plus connue sous le nom du Grand Assaut."
 
-#: Town-614.dialog:84
+#: Town-614.dialog:91
 msgid ""
 "Even though discontinued by the Nicholson, Inc. long ago, today, some people "
 "have picked up the work and are even trying to improve the operating system "
@@ -167,17 +198,17 @@ msgstr ""
 "longtemps, aujourd'hui, certaines personnes ont repris le flambeau et "
 "essaient même d'améliorer le système d'exploitation utilisé par ma série."
 
-#: Town-614.dialog:85
+#: Town-614.dialog:92
 msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
 msgstr ""
 "N'oubliez pas d'acheter des produits de la Compagnie Nicholson. Ce sont les "
 "meilleurs."
 
-#: Town-614.dialog:90
+#: Town-614.dialog:97
 msgid "See you later."
 msgstr "À plus tard."
 
-#: Town-614.dialog:92
+#: Town-614.dialog:99
 msgid "Resuming guard program."
 msgstr " Retour au programme de surveillance."
 
