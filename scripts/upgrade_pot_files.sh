@@ -5,6 +5,9 @@
 # update the pot files for any msg string in the dialogs directory
 
 # go in the dialogs directory
+
+echo Update all the pot files using the dialogs/*.dialog files
+echo and the map/* files
 cd ${HOME}/src/freedroid-translation/dialogs ;
 
 for i in *.dialog ; do  # update the pot files
