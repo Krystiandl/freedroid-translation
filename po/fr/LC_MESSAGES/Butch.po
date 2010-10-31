@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-07-09 11:00+0200\n"
 "Last-Translator: David Kremer <david.kremer.dk@gmail.com>\n"
 "Language-Team: French <kde-i18n-doc@kde.org>\n"
@@ -272,7 +272,8 @@ msgid "The master arena is clear."
 msgstr "L'arène « expert » est nettoyée."
 
 #: Butch.dialog:166
-msgid "What!? Impossible! No one ever survives the second arena!"
+#, fuzzy
+msgid "What!? Impossible! No one ever survived the second arena!"
 msgstr "Quoi !? Impossible ! Personne n'a jamais survécu à la seconde arène !"
 
 #: Butch.dialog:167

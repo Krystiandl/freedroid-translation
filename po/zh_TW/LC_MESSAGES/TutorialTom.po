@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-10-04 18:58+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -293,7 +293,7 @@ msgstr ""
 
 #: TutorialTom.dialog:173 TutorialTom.dialog:262 TutorialTom.dialog:317
 #: TutorialTom.dialog:332 TutorialTom.dialog:357 TutorialTom.dialog:426
-#: TutorialTom.dialog:427
+#: TutorialTom.dialog:427 TutorialTom.dialog:862
 msgid "Tutorial Melee"
 msgstr ""
 
@@ -710,7 +710,7 @@ msgstr ""
 #: TutorialTom.dialog:313
 msgid ""
 "At the bottom of your HUD, you'll notice your item access belt. Small items "
-"can go here and be used by pressing the numbers [b]0[/b] through [b]8[/b]."
+"can go here and be used by pressing the numbers [b]0[/b] through [b]9[/b]."
 msgstr ""
 
 #: TutorialTom.dialog:314
@@ -970,7 +970,7 @@ msgstr ""
 msgid "Don't come back without the [b]Tachyon Condensator[/b]."
 msgstr ""
 
-#: TutorialTom.dialog:424 TutorialTom.dialog:532
+#: TutorialTom.dialog:424 TutorialTom.dialog:544
 msgid "I'm ready to move on."
 msgstr ""
 
@@ -1008,8 +1008,8 @@ msgid ""
 msgstr ""
 
 #: TutorialTom.dialog:444 TutorialTom.dialog:474 TutorialTom.dialog:497
-#: TutorialTom.dialog:516 TutorialTom.dialog:522 TutorialTom.dialog:550
-#: TutorialTom.dialog:559 TutorialTom.dialog:566
+#: TutorialTom.dialog:516 TutorialTom.dialog:522 TutorialTom.dialog:562
+#: TutorialTom.dialog:571 TutorialTom.dialog:578
 msgid "Tutorial Shooting"
 msgstr ""
 
@@ -1228,485 +1228,493 @@ msgstr ""
 msgid "I don't have verified kills on all those bots."
 msgstr ""
 
-#: TutorialTom.dialog:537 TutorialTom.dialog:553
+#: TutorialTom.dialog:532
+msgid "I would like a few more bots to shoot at."
+msgstr ""
+
+#: TutorialTom.dialog:534
+msgid "Ok, I'll create some more droids."
+msgstr ""
+
+#: TutorialTom.dialog:549 TutorialTom.dialog:565
 msgid ""
 "I'll need you to surrender your guns. Unequip them all, then talk to me "
 "again."
 msgstr ""
 
-#: TutorialTom.dialog:538 TutorialTom.dialog:554
+#: TutorialTom.dialog:550 TutorialTom.dialog:566
 msgid ""
 "You will need to have the guns in your inventory to give them to me, so if "
 "you dropped them, please go get them."
 msgstr ""
 
-#: TutorialTom.dialog:539 TutorialTom.dialog:555
+#: TutorialTom.dialog:551 TutorialTom.dialog:567
 msgid ""
 "That includes the laser and plasma pistols in the storage room to the west."
 msgstr ""
 
-#: TutorialTom.dialog:545
+#: TutorialTom.dialog:557
 msgid "I'd rather just move on to the next section of the tutorial."
 msgstr ""
 
-#: TutorialTom.dialog:547
+#: TutorialTom.dialog:559
 msgid "As you wish, Linarian."
 msgstr ""
 
-#: TutorialTom.dialog:550 TutorialTom.dialog:559
+#: TutorialTom.dialog:562 TutorialTom.dialog:571
 msgid "I decided not to finish the shooting tutorial."
 msgstr ""
 
-#: TutorialTom.dialog:562
+#: TutorialTom.dialog:574
 msgid ""
 "I'll need you to surrender your .22 pistol. Unequip it, then talk to me "
 "again."
 msgstr ""
 
-#: TutorialTom.dialog:566
+#: TutorialTom.dialog:578
 msgid "I decided not to do the shooting tutorial."
 msgstr ""
 
-#: TutorialTom.dialog:578
+#: TutorialTom.dialog:590
 msgid "Thank you, Linarian. We'll now move on to hacking."
 msgstr ""
 
-#: TutorialTom.dialog:585
+#: TutorialTom.dialog:597
 msgid "Why are we stopping?"
 msgstr ""
 
-#: TutorialTom.dialog:587
+#: TutorialTom.dialog:599
 msgid "You've done well so far, Linarian. Let's take a little break."
 msgstr ""
 
-#: TutorialTom.dialog:588
+#: TutorialTom.dialog:600
 msgid ""
 "Once you get out into the real world, you'll find that your current "
 "abilities aren't always enough to survive."
 msgstr ""
 
-#: TutorialTom.dialog:589
+#: TutorialTom.dialog:601
 msgid ""
 "As you achieve combat experience, you'll be able to apply it to better "
 "yourself."
 msgstr ""
 
-#: TutorialTom.dialog:590
+#: TutorialTom.dialog:602
 msgid ""
 "As with most things, you view this as a panel in your HUD. Press the [b]C key"
 "[/b] to open the [b]Character panel[/b]."
 msgstr ""
 
-#: TutorialTom.dialog:591
+#: TutorialTom.dialog:603
 msgid ""
 "Once you've gained enough experience, you'll level up. This will "
 "automatically improve some of your statistics."
 msgstr ""
 
-#: TutorialTom.dialog:592
+#: TutorialTom.dialog:604
 msgid ""
 "You'll also be given 5 points to spend however you choose in three different "
 "areas. Characteristics, Skills and Programs."
 msgstr ""
 
-#: TutorialTom.dialog:593
+#: TutorialTom.dialog:605
 msgid ""
 "[b]Strength[/b] governs the amount of damage you do with each hit in melee "
 "combat."
 msgstr ""
 
-#: TutorialTom.dialog:594
+#: TutorialTom.dialog:606
 msgid ""
 "[b]Dexterity[/b] controls your hit rate, or how likely you are to hit the "
 "enemy. It also determines how likely you are to dodge a hit from them."
 msgstr ""
 
-#: TutorialTom.dialog:595
+#: TutorialTom.dialog:607
 msgid ""
 "[b]Cooling[/b] is your processors cooling. or heat resilience, and "
 "determines how much you can process before your system starts overheating."
 msgstr ""
 
-#: TutorialTom.dialog:596
+#: TutorialTom.dialog:608
 msgid ""
 "Finally, among your main characteristics, [b]Physique[/b] determines how "
 "much health you have."
 msgstr ""
 
-#: TutorialTom.dialog:597
+#: TutorialTom.dialog:609
 msgid ""
 "They are general [b]Melee[/b] and [b]Ranged[/b] fighting skills, both of "
 "which increase the damage you inflict and how fast you attack as you improve "
 "them."
 msgstr ""
 
-#: TutorialTom.dialog:598
+#: TutorialTom.dialog:610
 msgid ""
 "You also have the [b]Programming[/b] skill, which essentially is about "
 "programming in an energy efficient manner so programs cause less heat."
 msgstr ""
 
-#: TutorialTom.dialog:599
+#: TutorialTom.dialog:611
 msgid ""
 "Apart from this, a few programs require a teacher and training points to "
 "improve."
 msgstr ""
 
-#: TutorialTom.dialog:600
+#: TutorialTom.dialog:612
 msgid ""
 "[b]Extract Bot Parts[/b] is a special passive skill that will allow you to "
 "salvage parts from bots you 'retire', which you can trade for money in the "
 "town."
 msgstr ""
 
-#: TutorialTom.dialog:601
+#: TutorialTom.dialog:613
 msgid "A good technician is able to make use of that parts."
 msgstr ""
 
-#: TutorialTom.dialog:602
+#: TutorialTom.dialog:614
 msgid ""
 "He can create, let's say, an add-on and, after doing some modifications to "
 "the item, attach this add-on."
 msgstr ""
 
-#: TutorialTom.dialog:603
+#: TutorialTom.dialog:615
 msgid "This way an upgraded item is created."
 msgstr ""
 
-#: TutorialTom.dialog:604 TutorialTom.dialog:624 TutorialTom.dialog:625
-#: TutorialTom.dialog:781 TutorialTom.dialog:793
+#: TutorialTom.dialog:616 TutorialTom.dialog:636 TutorialTom.dialog:637
+#: TutorialTom.dialog:793 TutorialTom.dialog:805
 msgid "Tutorial Upgrading Items"
 msgstr ""
 
-#: TutorialTom.dialog:604
+#: TutorialTom.dialog:616
 msgid ""
 "There is a way to upgrade items if I meet a good technician. It sounds "
 "useful, maybe I should learn more about this."
 msgstr ""
 
-#: TutorialTom.dialog:605
+#: TutorialTom.dialog:617
 msgid ""
 "The [b]Hacking[/b] program we will speak a bit more of in a little while."
 msgstr ""
 
-#: TutorialTom.dialog:610
+#: TutorialTom.dialog:622
 msgid "I'll have to keep that in mind."
 msgstr ""
 
-#: TutorialTom.dialog:612
+#: TutorialTom.dialog:624
 msgid "Well, how about you try it out?"
 msgstr ""
 
-#: TutorialTom.dialog:613
+#: TutorialTom.dialog:625
 msgid ""
 "I'll give you some points to spend, and you can distribute them as you like."
 msgstr ""
 
-#: TutorialTom.dialog:614
+#: TutorialTom.dialog:626
 msgid ""
 "Since you'll be hacking up ahead, you should probably use a few of them on "
 "[b]Cooling[/b]."
 msgstr ""
 
-#: TutorialTom.dialog:615
+#: TutorialTom.dialog:627
 msgid "But, again, that's your choice."
 msgstr ""
 
-#: TutorialTom.dialog:622
+#: TutorialTom.dialog:634
 msgid "Alright, I'm ready to go hack some bots."
 msgstr ""
 
-#: TutorialTom.dialog:625
+#: TutorialTom.dialog:637
 msgid "I decided that I don't need to know how to upgrade items."
 msgstr ""
 
-#: TutorialTom.dialog:627
+#: TutorialTom.dialog:639
 msgid "First, you'll need to unlock the door."
 msgstr ""
 
-#: TutorialTom.dialog:628
+#: TutorialTom.dialog:640
 msgid "See that [b]Terminal[/b] to the left?"
 msgstr ""
 
-#: TutorialTom.dialog:629
+#: TutorialTom.dialog:641
 msgid ""
 "You will need to login, by left clicking on it, and then select unlock door."
 msgstr ""
 
-#: TutorialTom.dialog:630
+#: TutorialTom.dialog:642
 msgid "Terminals act very similar to hacked bots."
 msgstr ""
 
-#: TutorialTom.dialog:631 TutorialTom.dialog:664 TutorialTom.dialog:728
-#: TutorialTom.dialog:739 TutorialTom.dialog:746
+#: TutorialTom.dialog:643 TutorialTom.dialog:676 TutorialTom.dialog:740
+#: TutorialTom.dialog:751 TutorialTom.dialog:758
 msgid "Tutorial Hacking"
 msgstr ""
 
-#: TutorialTom.dialog:631
+#: TutorialTom.dialog:643
 msgid ""
 "I need to login to the Terminal by left clicking on it. Then I'll unlock the "
 "door, so I can go hack some bots!"
 msgstr ""
 
-#: TutorialTom.dialog:637
+#: TutorialTom.dialog:649
 msgid "So how does this work?"
 msgstr ""
 
-#: TutorialTom.dialog:639
+#: TutorialTom.dialog:651
 msgid ""
 "We talked about programs before. Now, we're going to focus on hacking "
 "programs in particular."
 msgstr ""
 
-#: TutorialTom.dialog:640
+#: TutorialTom.dialog:652
 msgid ""
 "As I mentioned before, your brain works in a way remarkably similar to a "
 "central processing unit."
 msgstr ""
 
-#: TutorialTom.dialog:641
+#: TutorialTom.dialog:653
 msgid ""
 "In many ways, you interact with the world around you as a virtual "
 "environment."
 msgstr ""
 
-#: TutorialTom.dialog:642
+#: TutorialTom.dialog:654
 msgid ""
 "You seem to have access to an API that isn't exposed to humans. You can "
 "interact with the environment in ways we only dream of."
 msgstr ""
 
-#: TutorialTom.dialog:643
+#: TutorialTom.dialog:655
 msgid "Because of this, you can run various programs on the bots."
 msgstr ""
 
-#: TutorialTom.dialog:644
+#: TutorialTom.dialog:656
 msgid ""
 "You can attempt to take them over, or monkey with their programming, or even "
 "cause them to damage themselves."
 msgstr ""
 
-#: TutorialTom.dialog:645
+#: TutorialTom.dialog:657
 msgid ""
 "Likewise, there are certain programs that affect you or items around you."
 msgstr ""
 
-#: TutorialTom.dialog:650
+#: TutorialTom.dialog:662
 msgid "Tell me about taking bots over."
 msgstr ""
 
-#: TutorialTom.dialog:652
+#: TutorialTom.dialog:664
 msgid ""
 "I'm afraid that you will have to experience it for yourself to really "
 "understand."
 msgstr ""
 
-#: TutorialTom.dialog:653
+#: TutorialTom.dialog:665
 msgid ""
 "However, you did leave yourself instructions before you went into stasis "
 "sleep."
 msgstr ""
 
-#: TutorialTom.dialog:654
+#: TutorialTom.dialog:666
 msgid ""
 "Taking over a bot comes in the form of a game or competition placing you "
 "against the bot."
 msgstr ""
 
-#: TutorialTom.dialog:655
+#: TutorialTom.dialog:667
 msgid ""
 "You initiate it by selecting the [b]Hacking[/b] program, then [b]right-"
 "clicking[/b] on a hostile bot."
 msgstr ""
 
-#: TutorialTom.dialog:656
+#: TutorialTom.dialog:668
 msgid ""
 "The field of play is split into two sides, one green, one maroon, "
 "representing circuit boards."
 msgstr ""
 
-#: TutorialTom.dialog:657
+#: TutorialTom.dialog:669
 msgid ""
 "In the center of the field is a column of boxes known as logic cores. These "
 "cores have wires attached to them from both circuit boards."
 msgstr ""
 
-#: TutorialTom.dialog:658
+#: TutorialTom.dialog:670
 msgid ""
 "Your objective is to activate as many cores in your chosen color as possible "
 "at the end of each round."
 msgstr ""
 
-#: TutorialTom.dialog:659
+#: TutorialTom.dialog:671
 msgid ""
 "This is accomplished by selecting a wire with the up or down buttons, then "
 "pressing spacebar to activate that core."
 msgstr ""
 
-#: TutorialTom.dialog:660
+#: TutorialTom.dialog:672
 msgid ""
 "You will be given about 10 seconds initially to select which color you want "
 "with spacebar."
 msgstr ""
 
-#: TutorialTom.dialog:661
+#: TutorialTom.dialog:673
 msgid ""
 "At that point, you have 10 more seconds in which to activate more cores than "
 "the bot."
 msgstr ""
 
-#: TutorialTom.dialog:662
+#: TutorialTom.dialog:674
 msgid ""
 "You have a limited number of charges, 3 by default, so choose your targets "
 "carefully."
 msgstr ""
 
-#: TutorialTom.dialog:663
+#: TutorialTom.dialog:675
 msgid "I can tell you about some more advanced techniques, if you'd like."
 msgstr ""
 
-#: TutorialTom.dialog:664
+#: TutorialTom.dialog:676
 msgid ""
 "Apparently in order to hack, all I have to do is select the Hacking program, "
 "right click a bot, and play a little game. I've got this!"
 msgstr ""
 
-#: TutorialTom.dialog:669
+#: TutorialTom.dialog:681
 msgid "What was that about activating more cores than the bot?"
 msgstr ""
 
-#: TutorialTom.dialog:671
+#: TutorialTom.dialog:683
 msgid ""
 "Ah, yes. While you are busy trying to take the bot over, it will be busy "
 "trying to stop you."
 msgstr ""
 
-#: TutorialTom.dialog:672
+#: TutorialTom.dialog:684
 msgid ""
 "The truth is, if the bot programming was perfect, it would be almost "
 "impossible to defeat."
 msgstr ""
 
-#: TutorialTom.dialog:673
+#: TutorialTom.dialog:685
 msgid ""
 "Fortunately for you, software bugs do indeed exist, and therefore some cores "
 "will be on your side from the beginning."
 msgstr ""
 
-#: TutorialTom.dialog:674
+#: TutorialTom.dialog:686
 msgid ""
 "Likewise, the bots only have a limited number of charges. Occasionally, they "
 "will have more than you, but that is a risk you have to take."
 msgstr ""
 
-#: TutorialTom.dialog:675
+#: TutorialTom.dialog:687
 msgid ""
 "Because you are initiating the attack, you do get to choose your side, which "
 "can let you handicap the bot greatly if used wisely."
 msgstr ""
 
-#: TutorialTom.dialog:680
+#: TutorialTom.dialog:692
 msgid "Tell me about more advanced techniques."
 msgstr ""
 
-#: TutorialTom.dialog:682
+#: TutorialTom.dialog:694
 msgid ""
 "Each charge will activate and remain active for a certain amount of time. "
 "This will let you take over a core that a bot just took over."
 msgstr ""
 
-#: TutorialTom.dialog:683
+#: TutorialTom.dialog:695
 msgid ""
 "Sometimes, the bots will already have charges on the wires. When you "
 "activate one of these, it will increase the time that wire is activated for."
 msgstr ""
 
-#: TutorialTom.dialog:684
+#: TutorialTom.dialog:696
 msgid ""
 "The bot can use this trick to, so it may be wise to give up a heavily "
 "guarded wire for an easier target."
 msgstr ""
 
-#: TutorialTom.dialog:685
+#: TutorialTom.dialog:697
 msgid ""
 "The wiring inside the bots sometimes contain splitters. These can be used in "
 "two ways."
 msgstr ""
 
-#: TutorialTom.dialog:686
+#: TutorialTom.dialog:698
 msgid ""
 "A 2-to-1 splitter is undesirable. This requires two charges to activate one "
 "core, halving your efficiency."
 msgstr ""
 
-#: TutorialTom.dialog:687
+#: TutorialTom.dialog:699
 msgid ""
 "A 1-to-2 splitter, however, will activate two nodes for the price of one "
 "charge."
 msgstr ""
 
-#: TutorialTom.dialog:688
+#: TutorialTom.dialog:700
 msgid ""
 "Sometimes these splitters will be stacked. Tracing the route ahead of time "
 "will be crucial to your tactical success."
 msgstr ""
 
-#: TutorialTom.dialog:689
+#: TutorialTom.dialog:701
 msgid ""
 "Ideally, you want to stick your opponent with 2-to-1 splitters, while you "
 "have 1-to-2 splitters at your disposal."
 msgstr ""
 
-#: TutorialTom.dialog:690
+#: TutorialTom.dialog:702
 msgid ""
 "Finally, remember that patience is often a virtue. Taking over all cores "
 "early on only to lose them later can be a crushing blow."
 msgstr ""
 
-#: TutorialTom.dialog:695
+#: TutorialTom.dialog:707
 msgid "I'm ready to try hacking bots."
 msgstr ""
 
-#: TutorialTom.dialog:697
+#: TutorialTom.dialog:709
 msgid "I certainly hope so."
 msgstr ""
 
-#: TutorialTom.dialog:698
+#: TutorialTom.dialog:710
 msgid "I should, however, take the time to tell you a few more things."
 msgstr ""
 
-#: TutorialTom.dialog:699
+#: TutorialTom.dialog:711
 msgid "Hacking, like most other programs, incurs a cost to you."
 msgstr ""
 
-#: TutorialTom.dialog:700
+#: TutorialTom.dialog:712
 msgid "Processing programs seems to heat up your brain."
 msgstr ""
 
-#: TutorialTom.dialog:701
+#: TutorialTom.dialog:713
 msgid ""
 "You seem to be able to handle quite a bit of heat, but you have your limits."
 msgstr ""
 
-#: TutorialTom.dialog:702
+#: TutorialTom.dialog:714
 msgid ""
 "If you accumulate too much heat, you will automatically shut down in order "
 "to cool off."
 msgstr ""
 
-#: TutorialTom.dialog:703
+#: TutorialTom.dialog:715
 msgid ""
 "Over time, the heat will seep away from your body naturally. However, there "
 "are ways to speed up the process."
 msgstr ""
 
-#: TutorialTom.dialog:704
+#: TutorialTom.dialog:716
 msgid ""
 "If you can find them, cooling drinks will quickly relieve your thermal "
 "discomfort, in much the same way healing drinks help your health."
 msgstr ""
 
-#: TutorialTom.dialog:705
+#: TutorialTom.dialog:717
 msgid ""
 "Remember you also have a special program called [b]Emergency Shutdown[/b] "
 "that will lower your heat level drastically. Unfortunately using Emergency "
@@ -1714,181 +1722,181 @@ msgid ""
 "makes you a sitting duck... er, penguin."
 msgstr ""
 
-#: TutorialTom.dialog:706
+#: TutorialTom.dialog:718
 msgid "I take it that was a joke also?"
 msgstr ""
 
-#: TutorialTom.dialog:707
+#: TutorialTom.dialog:719
 msgid "Quite."
 msgstr ""
 
-#: TutorialTom.dialog:708
+#: TutorialTom.dialog:720
 msgid ""
 "In addition to hacking, you have the ability to execute arbitrary code on "
 "bots."
 msgstr ""
 
-#: TutorialTom.dialog:709
+#: TutorialTom.dialog:721
 msgid ""
 "These scripts and programs can be learned through reading source code books. "
 "To read a book, right-click on it in inventory."
 msgstr ""
 
-#: TutorialTom.dialog:710
+#: TutorialTom.dialog:722
 msgid ""
 "You should have recovered your hacking ability by now, and I'll give you a "
 "couple of source code books as well."
 msgstr ""
 
-#: TutorialTom.dialog:715
+#: TutorialTom.dialog:727
 msgid "Thanks. I'm ready now."
 msgstr ""
 
-#: TutorialTom.dialog:717
+#: TutorialTom.dialog:729
 msgid "We have several bots behind that fence for you to practice on."
 msgstr ""
 
-#: TutorialTom.dialog:718
+#: TutorialTom.dialog:730
 msgid ""
 "Take them over, then talk to me when they're all dead, and we'll be done "
 "with the tutorial."
 msgstr ""
 
-#: TutorialTom.dialog:719
+#: TutorialTom.dialog:731
 msgid "If you need more help, don't hesitate to ask."
 msgstr ""
 
-#: TutorialTom.dialog:720
+#: TutorialTom.dialog:732
 msgid ""
 "Oh, and Linarian... If you fail when hacking, you'll receive an electrical "
 "shock."
 msgstr ""
 
-#: TutorialTom.dialog:721
+#: TutorialTom.dialog:733
 msgid "It shouldn't kill you, but you need to be aware of it nonetheless."
 msgstr ""
 
-#: TutorialTom.dialog:728
+#: TutorialTom.dialog:740
 msgid ""
 "Tutorial Tom wants me to hack those bots. The only thing I need to worry "
 "about is overheating. But if I get too hot I can always try the Emergency "
 "shutdown program."
 msgstr ""
 
-#: TutorialTom.dialog:736
+#: TutorialTom.dialog:748
 msgid "I'm finished. I'm ready to move on."
 msgstr ""
 
-#: TutorialTom.dialog:740
+#: TutorialTom.dialog:752
 msgid "The bots aren't dead, Linarian."
 msgstr ""
 
-#: TutorialTom.dialog:741
+#: TutorialTom.dialog:753
 msgid "Come back and talk to me after they are."
 msgstr ""
 
-#: TutorialTom.dialog:742
+#: TutorialTom.dialog:754
 msgid ""
 "If you're having trouble, you might try the [b]Malformed Packet[/b] program."
 msgstr ""
 
-#: TutorialTom.dialog:744
+#: TutorialTom.dialog:756
 msgid "Well done! That concludes our tutorial."
 msgstr ""
 
-#: TutorialTom.dialog:746
+#: TutorialTom.dialog:758
 msgid "Well, it took a lot of work, but I showed those bots who's boss."
 msgstr ""
 
-#: TutorialTom.dialog:749
+#: TutorialTom.dialog:761
 msgid "Now, there's one last thing you should know."
 msgstr ""
 
-#: TutorialTom.dialog:750
+#: TutorialTom.dialog:762
 msgid "You Linarians can apparently withdraw from our world temporarily."
 msgstr ""
 
-#: TutorialTom.dialog:751
+#: TutorialTom.dialog:763
 msgid "Time stops, and everything freezes in place."
 msgstr ""
 
-#: TutorialTom.dialog:752
+#: TutorialTom.dialog:764
 msgid "This can be accomplished by using the [b]Esc key[/b]."
 msgstr ""
 
-#: TutorialTom.dialog:754
+#: TutorialTom.dialog:766
 msgid "Your final task is to leave us using this menu."
 msgstr ""
 
-#: TutorialTom.dialog:755
+#: TutorialTom.dialog:767
 msgid ""
 "I'm afraid there's nothing more I can teach you. I wish you good luck, "
 "Linarian."
 msgstr ""
 
-#: TutorialTom.dialog:756
+#: TutorialTom.dialog:768
 msgid "You'll need it if our world is to survive."
 msgstr ""
 
-#: TutorialTom.dialog:763
+#: TutorialTom.dialog:775
 msgid "Tell me again about take over, I'm not sure I got it all."
 msgstr ""
 
-#: TutorialTom.dialog:765
+#: TutorialTom.dialog:777
 msgid "Tell me exactly what part you want me to explain again."
 msgstr ""
 
-#: TutorialTom.dialog:766
+#: TutorialTom.dialog:778
 msgid ""
 "But things will be much clearer once you try for yourself than when I try to "
 "explain."
 msgstr ""
 
-#: TutorialTom.dialog:767
+#: TutorialTom.dialog:779
 msgid "Use your experience as notes, and all should be clear."
 msgstr ""
 
-#: TutorialTom.dialog:772
+#: TutorialTom.dialog:784
 msgid "Can you tell me more about upgrading items?"
 msgstr ""
 
-#: TutorialTom.dialog:774
+#: TutorialTom.dialog:786
 msgid ""
 "You can upgrade most weapons and clothings. First you'll need some materials "
 "to craft add-ons."
 msgstr ""
 
-#: TutorialTom.dialog:775
+#: TutorialTom.dialog:787
 msgid ""
 "Parts needed for this process can be extracted from bots. You'll have to "
 "learn how to do it."
 msgstr ""
 
-#: TutorialTom.dialog:776
+#: TutorialTom.dialog:788
 msgid ""
 "When you have enough materials, you can craft an add-on. Make sure the add-"
 "on is suitable for your equipment."
 msgstr ""
 
-#: TutorialTom.dialog:777
+#: TutorialTom.dialog:789
 msgid ""
 "After this, you have to make a socket in your equipment so you can plug the "
 "add-on."
 msgstr ""
 
-#: TutorialTom.dialog:778
+#: TutorialTom.dialog:790
 msgid "That's the theory. Simple, isn't it?"
 msgstr ""
 
-#: TutorialTom.dialog:779
+#: TutorialTom.dialog:791
 msgid "I'll give you some materials now and let you craft an add-on."
 msgstr ""
 
-#: TutorialTom.dialog:780
+#: TutorialTom.dialog:792
 msgid "Pay attention to the type of the socket the add-on needs."
 msgstr ""
 
-#: TutorialTom.dialog:781
+#: TutorialTom.dialog:793
 msgid ""
 "Before crafting an add-on I have to get some materials. The best way is to "
 "extract them from the bots, using Extract Bot Parts skill. Each add-on "
@@ -1897,87 +1905,147 @@ msgid ""
 "or plug them."
 msgstr ""
 
-#: TutorialTom.dialog:789
+#: TutorialTom.dialog:801
 msgid ""
 "Now you'll need to pay some more money in order to make a socket and plug-in "
 "the add-on. Here, take some."
 msgstr ""
 
-#: TutorialTom.dialog:791
+#: TutorialTom.dialog:803
 msgid ""
 "Choose an item and add an appropriate socket by clicking ''+'' on the right "
 "of the item. Then attach the add-on to this item and confirm your choice."
 msgstr ""
 
-#: TutorialTom.dialog:793
+#: TutorialTom.dialog:805
 msgid "Maybe I need some time to practice this, but I got the basics."
 msgstr ""
 
-#: TutorialTom.dialog:798
+#: TutorialTom.dialog:810
 msgid "I wasted my materials on the add-on I didn't need. Can you give more?"
 msgstr ""
 
-#: TutorialTom.dialog:800
+#: TutorialTom.dialog:812
 msgid ""
 "Yes, but only this time. I'll give you some money too. Just be more careful "
 "in the future and make wise choices."
 msgstr ""
 
-#: TutorialTom.dialog:801
+#: TutorialTom.dialog:813
 msgid "Reality is not as generous as I am."
 msgstr ""
 
-#: TutorialTom.dialog:808
+#: TutorialTom.dialog:820
 msgid "Thank you."
 msgstr ""
 
-#: TutorialTom.dialog:809
+#: TutorialTom.dialog:821
 msgid "Think carefully before you make your next add-on."
 msgstr ""
 
-#: TutorialTom.dialog:814
+#: TutorialTom.dialog:826
 msgid "Upgrading items is still too complex for me. Can you explain it again?"
 msgstr ""
 
-#: TutorialTom.dialog:816
+#: TutorialTom.dialog:828
 msgid ""
 "First step is finding materials. They may be extracted from bots, but you'll "
 "have to learn how to do it."
 msgstr ""
 
-#: TutorialTom.dialog:817
+#: TutorialTom.dialog:829
 msgid ""
 "Those materials can be used in crafting add-ons. Make sure the add-on will "
 "fit your equipment. Also, remember the type of the socket your add-on needs."
 msgstr ""
 
-#: TutorialTom.dialog:818
+#: TutorialTom.dialog:830
 msgid "I gave you materials. Let's craft an add-on now."
 msgstr ""
 
-#: TutorialTom.dialog:820
+#: TutorialTom.dialog:832
 msgid ""
 "All you have to do now is to choose a suitable item and add a socket by "
 "clicking ''+'' on the right of the chosen item."
 msgstr ""
 
-#: TutorialTom.dialog:821
+#: TutorialTom.dialog:833
 msgid "Remember you pay for both adding a socket and plugging an add-on."
 msgstr ""
 
-#: TutorialTom.dialog:822
+#: TutorialTom.dialog:834
 msgid "Let's try it, shall we?"
 msgstr ""
 
-#: TutorialTom.dialog:824
+#: TutorialTom.dialog:836
 msgid "I hope it's clear now."
 msgstr ""
 
-#: TutorialTom.dialog:829
+#: TutorialTom.dialog:841
+msgid "I'd like to skip to a later section of the Tutorial."
+msgstr ""
+
+#: TutorialTom.dialog:843
+msgid "OK, what would you like to learn about?"
+msgstr ""
+
+#: TutorialTom.dialog:848
+msgid "Chests and Armor"
+msgstr ""
+
+#: TutorialTom.dialog:850
+msgid "OK, I'll take us to the Chest."
+msgstr ""
+
+#: TutorialTom.dialog:857
+msgid "Melee Combat"
+msgstr ""
+
+#: TutorialTom.dialog:859
+msgid "OK, I'll take us to the melee arena and give you some armor."
+msgstr ""
+
+#: TutorialTom.dialog:871
+msgid "Ranged Combat"
+msgstr ""
+
+#: TutorialTom.dialog:873
+msgid ""
+"OK, I'll take us to the shooting range and give you some armor and a weapon."
+msgstr ""
+
+#: TutorialTom.dialog:885
+msgid "Abilities"
+msgstr ""
+
+#: TutorialTom.dialog:887
+msgid "OK, I'll take us there and give you some armor and a weapon."
+msgstr ""
+
+#: TutorialTom.dialog:899
+msgid "Upgrading Items & Terminals"
+msgstr ""
+
+#: TutorialTom.dialog:901
+msgid ""
+"OK, I'll take us there and give you some armor and a weapon to work with."
+msgstr ""
+
+#: TutorialTom.dialog:913
+msgid "Hacking Bots"
+msgstr ""
+
+#: TutorialTom.dialog:915
+msgid ""
+"OK, I'll take us to the hacking area. Also I'll give you some XP so you can "
+"improve your cooling."
+msgstr ""
+
+#: TutorialTom.dialog:923
 msgid "Let me take a short break and practice on my own for a while."
 msgstr ""
 
-#: TutorialTom.dialog:831
+#: TutorialTom.dialog:925
 msgid ""
 "Ok, I'll be around if you need any more questions answered. Don't hesitate "
 "to ask."

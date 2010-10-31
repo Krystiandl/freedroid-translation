@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -18,9 +18,8 @@ msgstr ""
 "X-Generator: Launchpad (build Unknown)\n"
 
 #: AfterTakeover_sub.dialog:33
-#, fuzzy
-msgid ".. bot_type().."
-msgstr ".. bot_type().."
+msgid "@hacked_"
+msgstr ""
 
 #: AfterTakeover_sub.dialog:47 AfterTakeover_sub.dialog:50
 msgid "./est_repair.plx"
@@ -314,6 +313,10 @@ msgstr "unité est désormais désignée: [b]"
 #: AfterTakeover_sub.dialog:202
 msgid "cd .."
 msgstr "cd. . ."
+
+#, fuzzy
+#~ msgid ".. bot_type().."
+#~ msgstr ".. bot_type().."
 
 #~ msgid "Closing remote connection..."
 #~ msgstr "Fermeture de la connexion distante."

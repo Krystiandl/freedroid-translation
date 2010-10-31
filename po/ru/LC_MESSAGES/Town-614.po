@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2008-12-16 05:43+0000\n"
 "Last-Translator: Dmitry Tumaikin <nevly@mail.ru>\n"
 "Language-Team: Russian\n"
@@ -105,25 +105,55 @@ msgstr "Считается старым, но надёжным устройст�
 msgid "So don't worry. I'm still in pretty good shape."
 msgstr "Так что не беспокойся. Я всё ещё в достаточно хорошей форме."
 
+#: Town-614.dialog:68
+msgid "The latest version of the security line is the 615."
+msgstr ""
+
+#: Town-614.dialog:70
+msgid ""
+"Unfortunately its development was not finished when the great assault "
+"started."
+msgstr ""
+
+#: Town-614.dialog:71
+msgid ""
+"The lack of security options on the system of the 615 lead to a malfunction."
+msgstr ""
+
 #: Town-614.dialog:72
-msgid "What are your orders?"
+msgid ""
+"Circumstances that led to the great assault even made the 615 go crazy and "
+"attack people."
+msgstr ""
+
+#: Town-614.dialog:73
+msgid "For the sake of your health, you should stay away from the 615 droids."
 msgstr ""
 
 #: Town-614.dialog:74
+#, fuzzy
+msgid "You have been warned!"
+msgstr "Ты уж приготовься"
+
+#: Town-614.dialog:79
+msgid "What are your orders?"
+msgstr ""
+
+#: Town-614.dialog:81
 msgid ""
 "My orders are to protect the living beings in this camp from attacks by "
 "hostile bots."
 msgstr "Мне приказано защищать жителей лагеря от аттак вражеских роботов."
 
-#: Town-614.dialog:75
+#: Town-614.dialog:82
 msgid "This has top priority. There are no other priorities."
 msgstr "Этот приказ имеет наивысший приоритет. Другие приоритеты отсутствуют."
 
-#: Town-614.dialog:80
+#: Town-614.dialog:87
 msgid "Why are you not hostile, as are all the other bots?"
 msgstr ""
 
-#: Town-614.dialog:82
+#: Town-614.dialog:89
 msgid ""
 "I belong to a an older generation of bots, running a custom-made security "
 "guard operating system."
@@ -131,7 +161,7 @@ msgstr ""
 "Я принадлежу к более старому поколению роботов, работающим под управлением "
 "специально спроектированной защищённой операционной системы."
 
-#: Town-614.dialog:83
+#: Town-614.dialog:90
 msgid ""
 "None of the bots of this generation were affected by the proceedings that "
 "led to bots attacking, generally known as the Great Assault."
@@ -139,7 +169,7 @@ msgstr ""
 "Ни один из роботов этого поколения не попал под влияние тех событий, которые "
 "заставляют роботов атаковать, более известных как Великое Восстание."
 
-#: Town-614.dialog:84
+#: Town-614.dialog:91
 #, fuzzy
 msgid ""
 "Even though discontinued by the Nicholson, Inc. long ago, today, some people "
@@ -149,17 +179,17 @@ msgstr ""
 "Даже несмотря на то, что компании Николсона давно уже нет, некоторые люди "
 "продолжают работу и даже пытаются улучшить нашу операционную систему."
 
-#: Town-614.dialog:85
+#: Town-614.dialog:92
 #, fuzzy
 msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
 msgstr ""
 "Не забудь купить что-нибудь из продукции компании Николсона. Они лучшие."
 
-#: Town-614.dialog:90
+#: Town-614.dialog:97
 msgid "See you later."
 msgstr "Увидимся позже."
 
-#: Town-614.dialog:92
+#: Town-614.dialog:99
 #, fuzzy
 msgid "Resuming guard program."
 msgstr " Восстановление охранной программы."
@@ -3120,9 +3150,6 @@ msgstr " Восстановление охранной программы."
 
 #~ msgid "Good luck."
 #~ msgstr "Удачи"
-
-#~ msgid "You had better be ready."
-#~ msgstr "Ты уж приготовься"
 
 #~ msgid "Hey! I'm Ewald. I'm a bartender."
 #~ msgstr "Эй! Я Эвальд. Я бармен."

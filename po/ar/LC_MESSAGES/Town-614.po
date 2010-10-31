@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-04-24 11:46+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -94,51 +94,80 @@ msgstr ""
 msgid "So don't worry. I'm still in pretty good shape."
 msgstr ""
 
+#: Town-614.dialog:68
+msgid "The latest version of the security line is the 615."
+msgstr ""
+
+#: Town-614.dialog:70
+msgid ""
+"Unfortunately its development was not finished when the great assault "
+"started."
+msgstr ""
+
+#: Town-614.dialog:71
+msgid ""
+"The lack of security options on the system of the 615 lead to a malfunction."
+msgstr ""
+
 #: Town-614.dialog:72
-msgid "What are your orders?"
+msgid ""
+"Circumstances that led to the great assault even made the 615 go crazy and "
+"attack people."
+msgstr ""
+
+#: Town-614.dialog:73
+msgid "For the sake of your health, you should stay away from the 615 droids."
 msgstr ""
 
 #: Town-614.dialog:74
+msgid "You have been warned!"
+msgstr ""
+
+#: Town-614.dialog:79
+msgid "What are your orders?"
+msgstr ""
+
+#: Town-614.dialog:81
 msgid ""
 "My orders are to protect the living beings in this camp from attacks by "
 "hostile bots."
 msgstr ""
 
-#: Town-614.dialog:75
+#: Town-614.dialog:82
 msgid "This has top priority. There are no other priorities."
 msgstr ""
 
-#: Town-614.dialog:80
+#: Town-614.dialog:87
 msgid "Why are you not hostile, as are all the other bots?"
 msgstr ""
 
-#: Town-614.dialog:82
+#: Town-614.dialog:89
 msgid ""
 "I belong to a an older generation of bots, running a custom-made security "
 "guard operating system."
 msgstr ""
 
-#: Town-614.dialog:83
+#: Town-614.dialog:90
 msgid ""
 "None of the bots of this generation were affected by the proceedings that "
 "led to bots attacking, generally known as the Great Assault."
 msgstr ""
 
-#: Town-614.dialog:84
+#: Town-614.dialog:91
 msgid ""
 "Even though discontinued by the Nicholson, Inc. long ago, today, some people "
 "have picked up the work and are even trying to improve the operating system "
 "running on my series."
 msgstr ""
 
-#: Town-614.dialog:85
+#: Town-614.dialog:92
 msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
 msgstr ""
 
-#: Town-614.dialog:90
+#: Town-614.dialog:97
 msgid "See you later."
 msgstr ""
 
-#: Town-614.dialog:92
+#: Town-614.dialog:99
 msgid "Resuming guard program."
 msgstr ""

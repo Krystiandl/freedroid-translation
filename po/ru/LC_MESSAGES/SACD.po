@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2008-12-16 05:43+0000\n"
 "Last-Translator: Dmitry Tumaikin <nevly@mail.ru>\n"
 "Language-Team: Russian\n"
@@ -43,7 +43,7 @@ msgid "Tania's sanitary"
 msgstr ""
 
 #: SACD.dialog:38
-msgid "I have found that SACD and hacked it's system."
+msgid "I have found the Secret Area Control Datacenter."
 msgstr ""
 
 #: SACD.dialog:43 SACD.dialog:56 SACD.dialog:69 SACD.dialog:81
@@ -99,32 +99,24 @@ msgid "An error occured while opening doors."
 msgstr "При открытии дверей произошла ошибка."
 
 #: SACD.dialog:85
-msgid "./hcf.py"
-msgstr ""
-
-#: SACD.dialog:87
-msgid "Executing: Halt and Catch Fire."
-msgstr "Выполняю: Завершить Работу и Загореться."
-
-#: SACD.dialog:88
-msgid "Cooling subsystems disabled."
-msgstr "Система охлаждения отключена."
-
-#: SACD.dialog:89
-msgid ""
-"Warning! Spontaneous oxidization witH emis$ion of light aND heAt detecteddd "
-"in THE#main| procesIng unit,"
-msgstr ""
-"Внимание! Обнаружено спонтанное окисление, сопровождающееся и$лy4ением света "
-"N тЕпл@"
-
-#: SACD.dialog:90
-msgid "SsTeM=#faiPure%^#n 3 S 1()$++"
-msgstr "ВНим|н*! СсТем=#ошБка%^#n 3 S 1()$++"
-
-#: SACD.dialog:96
 msgid "logout"
 msgstr ""
+
+#~ msgid "Executing: Halt and Catch Fire."
+#~ msgstr "Выполняю: Завершить Работу и Загореться."
+
+#~ msgid "Cooling subsystems disabled."
+#~ msgstr "Система охлаждения отключена."
+
+#~ msgid ""
+#~ "Warning! Spontaneous oxidization witH emis$ion of light aND heAt "
+#~ "detecteddd in THE#main| procesIng unit,"
+#~ msgstr ""
+#~ "Внимание! Обнаружено спонтанное окисление, сопровождающееся и$лy4ением "
+#~ "света N тЕпл@"
+
+#~ msgid "SsTeM=#faiPure%^#n 3 S 1()$++"
+#~ msgstr "ВНим|н*! СсТем=#ошБка%^#n 3 S 1()$++"
 
 #~ msgid "Go0d. H3re is th3 con7ract. S1gn it!"
 #~ msgstr "Х0р0w0. 80т к0н7рАк7. п0DпiсbI8Аi!"

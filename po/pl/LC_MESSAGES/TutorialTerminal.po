@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-07-08 02:38+0100\n"
 "Last-Translator: Angelika Maria Piątkowska <piatkosia.apt@interia.pl>\n"
 "Language-Team: freedroid team\n"
@@ -24,15 +24,15 @@ msgstr "Wejdź jako gość"
 msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
 msgstr "ostatnie logowanie z /dev/ttyS0 w niedzielę, 23 mar 2057."
 
-#: TutorialTerminal.dialog:45 TutorialTerminal.dialog:74
+#: TutorialTerminal.dialog:44 TutorialTerminal.dialog:74
 msgid "Gate status: CLOSED"
 msgstr "Status bramy: ZAMKNIĘTA"
 
-#: TutorialTerminal.dialog:48 TutorialTerminal.dialog:62
+#: TutorialTerminal.dialog:47 TutorialTerminal.dialog:62
 msgid "Gate status: OPEN"
 msgstr "Status bramy: OTWARTA"
 
-#: TutorialTerminal.dialog:51
+#: TutorialTerminal.dialog:50
 msgid "GAME BUG. PLEASE REPORT."
 msgstr "BUG GRY. ZŁÓŻ RAPORT"
 

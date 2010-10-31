@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
-"PO-Revision-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
+"PO-Revision-Date: 2010-10-31 08:30+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -14,93 +14,93 @@ msgstr ""
 msgid "Hey you! Linarian! What do you want here?"
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:37
+#: ./Town-NorthGateGuard.dialog:38
 msgid "Can I ask you something?"
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:39
+#: ./Town-NorthGateGuard.dialog:40
 msgid "Yes, Loon."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:41
+#: ./Town-NorthGateGuard.dialog:42
 msgid "You can ask, but don't expect a reply."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:42
+#: ./Town-NorthGateGuard.dialog:43
 msgid ""
 "I'm guarding this gate, and if I get distracted the bots might overrun this to"
 "wn and kill everybody in it."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:47
+#: ./Town-NorthGateGuard.dialog:48
 msgid "Just taking a look around."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:49
+#: ./Town-NorthGateGuard.dialog:50
 msgid "Oh, great. Another curious one."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:50
+#: ./Town-NorthGateGuard.dialog:51
 msgid ""
 "About a week ago I let in a stranger who also said he was just taking a look a"
 "round. I never saw him again. And he wont be getting back in either, that's fo"
 "r sure."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:55
+#: ./Town-NorthGateGuard.dialog:56
 msgid "I'd like to get into town."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:57
+#: ./Town-NorthGateGuard.dialog:58
 msgid "Funny, exactly the same could be said about all of the crazy bots out there."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:58
+#: ./Town-NorthGateGuard.dialog:59
 msgid ""
 "Not to mention that weird guy that came by last week. The only place in town h"
 "e is going next time is straight into a holding cell."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:63
+#: ./Town-NorthGateGuard.dialog:64
 msgid "I'm here to assassinate your leader and you won't stop me!"
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:65
+#: ./Town-NorthGateGuard.dialog:66
 msgid "Ok, Linarian! You asked for it!"
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:66
-#: ./Town-NorthGateGuard.dialog:146
+#: ./Town-NorthGateGuard.dialog:67
+#: ./Town-NorthGateGuard.dialog:147
 msgid "Open fire!"
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:77
+#: ./Town-NorthGateGuard.dialog:78
 msgid "Oh? Who was he? And Why?"
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:79
+#: ./Town-NorthGateGuard.dialog:80
 msgid "Heh, you sure are a curious little bird, in more than one way I might say."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:80
+#: ./Town-NorthGateGuard.dialog:81
 msgid ""
 "On the day he visited all our computers went insane, 20 bags of food rations v"
 "anished from our storage and one of our bots was stolen."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:81
+#: ./Town-NorthGateGuard.dialog:82
 msgid ""
 "I think that damn freak lives somewhere to the east. I would love to get my ha"
 "nds on him and beat the life out of him. Slowly."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:83
-#: ./Town-NorthGateGuard.dialog:85
-#: ./Town-NorthGateGuard.dialog:88
+#: ./Town-NorthGateGuard.dialog:84
+#: ./Town-NorthGateGuard.dialog:86
+#: ./Town-NorthGateGuard.dialog:89
 msgid "A strange guy stealing from town"
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:83
+#: ./Town-NorthGateGuard.dialog:84
 msgid ""
 "The guard in charge at the entrance of the town mentioned that somebody sneake"
 "d into town recently, and stole food and hardware. I might want to find out wh"
@@ -110,7 +110,7 @@ msgid ""
 "ise."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:85
+#: ./Town-NorthGateGuard.dialog:86
 msgid ""
 "Ooops, the guard must be talking about Kevin. I'll better not mention I know h"
 "im and where he lives or I might find myself in a holding cell or being forced"
@@ -118,194 +118,194 @@ msgid ""
 "n got that 614 bot from."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:88
+#: ./Town-NorthGateGuard.dialog:89
 msgid ""
 "Though I probably should ask Kevin some day what he was doing with the town co"
 "mputers."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:90
+#: ./Town-NorthGateGuard.dialog:91
 msgid "In any case..."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:92
+#: ./Town-NorthGateGuard.dialog:93
 msgid ""
 "I'll let you in, but be warned: one false move and we all have flightless wate"
 "rfowl for dinner. I hope I am making myself clear?"
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:93
+#: ./Town-NorthGateGuard.dialog:94
 msgid ""
 "Linarian, I will let you in. Do something stupid, and you aren't coming out. G"
 "ot it?"
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:98
+#: ./Town-NorthGateGuard.dialog:99
 msgid "Yes. I understand."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:100
+#: ./Town-NorthGateGuard.dialog:101
 msgid "State your name Linarian."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:101
-#: ./Town-NorthGateGuard.dialog:132
+#: ./Town-NorthGateGuard.dialog:102
+#: ./Town-NorthGateGuard.dialog:133
 msgid "My name is "
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:102
+#: ./Town-NorthGateGuard.dialog:103
 msgid "You may now enter "
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:102
+#: ./Town-NorthGateGuard.dialog:103
 msgid ". But we'll be watching you. I'll let the others know you've arrived."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:109
+#: ./Town-NorthGateGuard.dialog:110
 msgid "No. Not at all. Your mother dresses you funny."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:111
+#: ./Town-NorthGateGuard.dialog:112
 msgid "What did you say you oversized duck?"
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:119
+#: ./Town-NorthGateGuard.dialog:120
 msgid "Let me get back to you on that one."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:121
+#: ./Town-NorthGateGuard.dialog:122
 msgid "Well you aren't going anywhere. I'm watching you."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:126
+#: ./Town-NorthGateGuard.dialog:127
 msgid ""
 "... I was only wondering who you were, and why you were wearing such a bright "
 "scarlet outfit."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:128
+#: ./Town-NorthGateGuard.dialog:129
 msgid "My apologies, Linarian. You are new here, and do not know."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:129
+#: ./Town-NorthGateGuard.dialog:130
 msgid ""
 "The red outfit indicates that I am of the Red Guard. We are the defenders of t"
 "he town and impose the law."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:130
+#: ./Town-NorthGateGuard.dialog:131
 msgid ""
 "With the continued bot attacks, and the grumbling townsfolk, all of us are a l"
 "ittle on edge."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:131
+#: ./Town-NorthGateGuard.dialog:132
 msgid "Tell me your name, and then you may pass."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:133
+#: ./Town-NorthGateGuard.dialog:134
 msgid "You may enter."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:143
+#: ./Town-NorthGateGuard.dialog:144
 msgid "I said: YOUR MOTHER DRESSES YOU FUNNY."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:145
+#: ./Town-NorthGateGuard.dialog:146
 msgid "Nobody says things about my mother. Forget you, Linarian!"
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:153
+#: ./Town-NorthGateGuard.dialog:154
 msgid "I said: THIS PLACE LOOKS CLASSY."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:155
+#: ./Town-NorthGateGuard.dialog:156
 msgid "Sure you said that."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:160
+#: ./Town-NorthGateGuard.dialog:161
 msgid "Please don't hurt me."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:162
+#: ./Town-NorthGateGuard.dialog:163
 msgid ""
 "How about I punch you until you spit out your name, and get out of here and we"
 " call it even?"
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:163
+#: ./Town-NorthGateGuard.dialog:164
 msgid "OW"
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:164
+#: ./Town-NorthGateGuard.dialog:165
 msgid "Your name?"
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:166
+#: ./Town-NorthGateGuard.dialog:167
 msgid "OW. That HURT!"
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:167
+#: ./Town-NorthGateGuard.dialog:168
 msgid "Get out of here. The Doc is the third door on the right along the main path."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:181
+#: ./Town-NorthGateGuard.dialog:182
 msgid "I want to talk to your manager, moron."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:183
+#: ./Town-NorthGateGuard.dialog:184
 msgid "I'll be happy to send you his way, but I need your name before I let you in."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:184
+#: ./Town-NorthGateGuard.dialog:185
 msgid "".. get_player_name() .."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:185
+#: ./Town-NorthGateGuard.dialog:186
 msgid "Talk to Spencer. His office is straight ahead. You can't miss it."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:186
+#: ./Town-NorthGateGuard.dialog:187
 msgid "Now stop bothering me! You crazy loon."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:197
+#: ./Town-NorthGateGuard.dialog:198
 msgid "That is exactly what I said."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:199
+#: ./Town-NorthGateGuard.dialog:200
 msgid "You are as out of your mind as that Sorenson lady."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:200
+#: ./Town-NorthGateGuard.dialog:201
 msgid "But I guess she's already here, so it doesn't matter if we have another loon."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:201
+#: ./Town-NorthGateGuard.dialog:202
 msgid "I'm a Linarian, not a loon. "
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:201
+#: ./Town-NorthGateGuard.dialog:202
 msgid " the Linarian."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:202
+#: ./Town-NorthGateGuard.dialog:203
 msgid "Get out of here "
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:202
+#: ./Town-NorthGateGuard.dialog:203
 msgid ", the loon, and stop bothering me."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:212
+#: ./Town-NorthGateGuard.dialog:213
 msgid "I'll be going then."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:214
+#: ./Town-NorthGateGuard.dialog:215
 msgid "Mhmmm."
 msgstr ""
 
-#: ./Town-NorthGateGuard.dialog:217
+#: ./Town-NorthGateGuard.dialog:218
 msgid "... the Loon"
 msgstr ""
 

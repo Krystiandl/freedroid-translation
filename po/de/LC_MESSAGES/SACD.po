@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2009-02-22 23:51+0100\n"
 "Last-Translator: barbatrix <blue.bits@arcor.de>\n"
 "Language-Team: Deutsch\n"
@@ -42,9 +42,8 @@ msgid "Tania's sanitary"
 msgstr "Tanias Gesundheit"
 
 #: SACD.dialog:38
-#, fuzzy
-msgid "I have found that SACD and hacked it's system."
-msgstr "Ich habe den SACD gefunden und sein System gehackt"
+msgid "I have found the Secret Area Control Datacenter."
+msgstr ""
 
 #: SACD.dialog:43 SACD.dialog:56 SACD.dialog:69 SACD.dialog:81
 msgid "admin@sadefence: ~ #"
@@ -99,32 +98,31 @@ msgid "An error occured while opening doors."
 msgstr "Fehler beim Öffnen der Tür."
 
 #: SACD.dialog:85
-msgid "./hcf.py"
-msgstr " ./hff.py"
-
-#: SACD.dialog:87
-msgid "Executing: Halt and Catch Fire."
-msgstr "Führe aus: Halten und Feuer fangen."
-
-#: SACD.dialog:88
-msgid "Cooling subsystems disabled."
-msgstr "Kühlungs-Untersysteme abgeschaltet."
-
-#: SACD.dialog:89
-msgid ""
-"Warning! Spontaneous oxidization witH emis$ion of light aND heAt detecteddd "
-"in THE#main| procesIng unit,"
-msgstr ""
-"Warnung! Spontane Verbrennung miT Emis$ion von Licht uND HitZe in "
-"DER#HauPt§rechEn-3iNheit ffe$sTGestT3llt,"
-
-#: SACD.dialog:90
-msgid "SsTeM=#faiPure%^#n 3 S 1()$++"
-msgstr "SsYTeM=#feH1er%^#n 3 S 1()$++"
-
-#: SACD.dialog:96
 msgid "logout"
 msgstr "ausloggen"
+
+#, fuzzy
+#~ msgid "I have found that SACD and hacked it's system."
+#~ msgstr "Ich habe den SACD gefunden und sein System gehackt"
+
+#~ msgid "./hcf.py"
+#~ msgstr " ./hff.py"
+
+#~ msgid "Executing: Halt and Catch Fire."
+#~ msgstr "Führe aus: Halten und Feuer fangen."
+
+#~ msgid "Cooling subsystems disabled."
+#~ msgstr "Kühlungs-Untersysteme abgeschaltet."
+
+#~ msgid ""
+#~ "Warning! Spontaneous oxidization witH emis$ion of light aND heAt "
+#~ "detecteddd in THE#main| procesIng unit,"
+#~ msgstr ""
+#~ "Warnung! Spontane Verbrennung miT Emis$ion von Licht uND HitZe in "
+#~ "DER#HauPt§rechEn-3iNheit ffe$sTGestT3llt,"
+
+#~ msgid "SsTeM=#faiPure%^#n 3 S 1()$++"
+#~ msgstr "SsYTeM=#feH1er%^#n 3 S 1()$++"
 
 #~ msgid "Hi! I'm new here."
 #~ msgstr " Hallo, ich bin neu hier..."

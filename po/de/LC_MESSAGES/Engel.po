@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-04-08 14:10+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -29,31 +29,36 @@ msgstr ""
 msgid "Engel -- Hunter"
 msgstr "Angle -- Jäger"
 
-#: Engel.dialog:50
+#: Engel.dialog:46
+#, fuzzy
+msgid "Geist -- Hunter"
+msgstr "Angle -- Jäger"
+
+#: Engel.dialog:51
 msgid "What are you doing here?"
 msgstr "Was macht ihr hier?"
 
-#: Engel.dialog:52
+#: Engel.dialog:53
 msgid "Revenge."
 msgstr "Rache."
 
-#: Engel.dialog:53
+#: Engel.dialog:54
 msgid "The bots have killed our mother. Now we kill them."
 msgstr "Die Bots töteten unsere Mutter. Jetzt töten wir sie."
 
-#: Engel.dialog:54
+#: Engel.dialog:55
 msgid "No mercy. We hunt them."
 msgstr "Keine Gnade. Wir jagen sie."
 
-#: Engel.dialog:59
+#: Engel.dialog:60
 msgid "Can I help you somehow?"
 msgstr "Kann ich irgendwie helfen?"
 
-#: Engel.dialog:61
+#: Engel.dialog:62
 msgid "Nein. Let us die as warriors. That is all we ask for."
 msgstr "No. Lass und als krieger sterben. Das ist alles, was wir wollen."
 
-#: Engel.dialog:66
+#: Engel.dialog:67
 msgid ""
 "If you keep standing here more bots will come and they will kill you. Go "
 "somewhere safe, and set up defense there."
@@ -61,49 +66,49 @@ msgstr ""
 "Wenn ihr hier so stehen bleibt, werden noch mehr Roboter kommen und sie "
 "werden euch töten. Geht irgendwo hin, wo es sicher ist, und verteidigt euch."
 
-#: Engel.dialog:74
+#: Engel.dialog:75
 msgid "If you keep standing here more bots will come and --"
 msgstr "Wenn ihr hier so stehen bleibt, werden noch mehr Roboter kommen und --"
 
-#: Engel.dialog:76
+#: Engel.dialog:77
 msgid "Sehr gut. Let them come. We are ready."
 msgstr "Very good. Lasst sie kommen. Wir sind bereit."
 
-#: Engel.dialog:77
+#: Engel.dialog:78
 msgid "What a beautiful day. Yes."
 msgstr "Was für ein wundervoller Tag. Ja."
 
-#: Engel.dialog:82
+#: Engel.dialog:83
 msgid "You are insane. Get out of here while you still can."
 msgstr "Ihr seit wahnsinnig. Haut ab solange ihr könnt."
 
-#: Engel.dialog:84
+#: Engel.dialog:85
 msgid "No."
 msgstr "Nein."
 
-#: Engel.dialog:85
+#: Engel.dialog:86
 msgid "Every day since the mess started I come here to fight the bots."
 msgstr ""
 "Jeden Tag, seit dem das Chaos losbrach komme ich hier her und bekämpfe "
 "Roboter."
 
-#: Engel.dialog:86
+#: Engel.dialog:87
 msgid "Today will be no different."
 msgstr "Diesen Tag wird es nicht anders sein."
 
-#: Engel.dialog:87
+#: Engel.dialog:88
 msgid "Do not try to stop us. We have our rifles loaded."
 msgstr "Versuch nicht und aufzuhalten. Unsere Gewehre sind geladen."
 
-#: Engel.dialog:92
+#: Engel.dialog:93
 msgid "Where can I get some help?"
 msgstr "Wo kann ich hier Hilfe bekommen?"
 
-#: Engel.dialog:94
+#: Engel.dialog:95
 msgid "Nowhere. This is the end of the world. There is no help."
 msgstr "Nirgends. Dies ist das Ende der Welt. Es gibt keine Hilfe."
 
-#: Engel.dialog:95
+#: Engel.dialog:96
 msgid ""
 "There is a city a bit south from here, but if I were you, I would not go "
 "there."
@@ -111,70 +116,70 @@ msgstr ""
 "Es gibt eine Stadt, leicht südlich von hier, aber wenn ich du wäre, würd ich "
 "dort nicht hingehen."
 
-#: Engel.dialog:96
+#: Engel.dialog:97
 msgid ""
 "The Rot Guard is the ruler there, and cruelty is their solution to "
 "everything."
 msgstr ""
 "Die Red Wache ist da der Machthaber, ihre einzige Lösung ist Grausamkeit."
 
-#: Engel.dialog:97
+#: Engel.dialog:98
 msgid "Real freedom is really dead."
 msgstr "Echte Freiheit ist echter Tot."
 
-#: Engel.dialog:102
+#: Engel.dialog:103
 msgid "You guys are totally nuts. Get a life."
 msgstr "Ihr Typen seit total durchgeknallt. Hab ihr kein Leben?"
 
-#: Engel.dialog:110
+#: Engel.dialog:111
 msgid "You guys are tota --"
 msgstr "Ihr Typen seit tota --"
 
-#: Engel.dialog:112
+#: Engel.dialog:113
 msgid "WHAT?! What is it that you want to say?"
 msgstr "WAS? Was wolltest du gerade sagen?"
 
-#: Engel.dialog:113
+#: Engel.dialog:114
 msgid "Erm... I --"
 msgstr "Ähm... Ich..."
 
-#: Engel.dialog:114
+#: Engel.dialog:115
 msgid "WHAT!? SPIT IT OUT!"
 msgstr "WAS!? SPUCKS AUS!"
 
-#: Engel.dialog:115
+#: Engel.dialog:116
 msgid ""
 "Er... You guys are really great and I admire your bravery in the face of "
 "certain death."
 msgstr ""
 "Ähm, ihr seit echt toll und ich bewundere euren Mut im angesicht des Todes."
 
-#: Engel.dialog:116
+#: Engel.dialog:117
 msgid "Donnerwetter, you are a funny one."
 msgstr "Gosh! Du bist witzig."
 
-#: Engel.dialog:117
+#: Engel.dialog:118
 msgid "I hope that one day we shall meet again, maybe in a better time."
 msgstr ""
 "Ich hoffe, wir treffen uns eines Tages wieder, vielleicht in besseren Zeiten."
 
-#: Engel.dialog:118
+#: Engel.dialog:119
 msgid "Maybe then you will tell us other gut jokes that you know."
 msgstr "Vielleicht kannst du uns dann ja noch weitere gute Witze erzählen."
 
-#: Engel.dialog:119
+#: Engel.dialog:120
 msgid "Maybe one day..."
 msgstr "Vielleicht, eines Tages..."
 
-#: Engel.dialog:124
+#: Engel.dialog:125
 msgid "What did you use to do before you became a hunter?"
 msgstr "Was habt ihr gemacht, bevor ihr Jäger wurdet?"
 
-#: Engel.dialog:126
+#: Engel.dialog:127
 msgid "I was a bot constructor. Built the killers of my mother."
 msgstr "Ich war Roboterkonstrukteur. Baute die Mörder meine Mutter."
 
-#: Engel.dialog:127
+#: Engel.dialog:128
 msgid ""
 "Now I sell the parts that I remove from the bots to buy more ammunition and "
 "food."
@@ -182,34 +187,34 @@ msgstr ""
 "Heute verkaufe ich die Teile, die ich aus ihnen ausbaue für Munition und "
 "etwas Zuessen."
 
-#: Engel.dialog:132
+#: Engel.dialog:133
 msgid "I want to know how to extract modules from the bots."
 msgstr "Ich möchte wissen, wie man Module aus Robotern entfernt."
 
-#: Engel.dialog:134
+#: Engel.dialog:138
 msgid "Yes."
 msgstr "Ja."
 
-#: Engel.dialog:135
+#: Engel.dialog:139
 msgid "I will sell the information for a lot of Schaltkreise."
 msgstr "Ich werde diese Information für viele Circuits verkaufen."
 
-#: Engel.dialog:136
+#: Engel.dialog:140
 msgid "Interested?"
 msgstr "Interessiert?"
 
-#: Engel.dialog:141
+#: Engel.dialog:145
 msgid "Can I join your hunt?"
 msgstr "Kann ich eurer Jagt beitreten?"
 
-#: Engel.dialog:143
+#: Engel.dialog:147
 msgid "Nein. Our problem. Our hunt."
 msgstr "No. Unser Problem. Unsere Jagt."
 
-#: Engel.dialog:148
+#: Engel.dialog:152
 msgid "I'll be going then."
 msgstr "Ich geh dann mal."
 
-#: Engel.dialog:150
+#: Engel.dialog:154
 msgid "Goodbye and viel Gluck."
 msgstr "Auf wiedersehen und viel Luck."

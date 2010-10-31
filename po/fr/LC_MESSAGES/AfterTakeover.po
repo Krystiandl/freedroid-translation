@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-06-23 09:49+0200\n"
 "Last-Translator: David Kremer <david.kremer.dk@gmail.com>\n"
 "Language-Team: French <kde-i18n-doc@kde.org>\n"
@@ -19,16 +19,12 @@ msgstr ""
 "X-Generator: Lokalize 1.0\n"
 
 #: AfterTakeover.dialog:33
-msgid ".. bot_type().."
-msgstr ".. bot_type() .."
+msgid "@hacked_"
+msgstr ""
 
 #: AfterTakeover.dialog:34
 msgid "Login : "
 msgstr "Login:"
-
-#: AfterTakeover.dialog:35
-msgid "tux"
-msgstr "tux"
 
 #: AfterTakeover.dialog:36
 msgid "Password : "
@@ -189,6 +185,12 @@ msgstr "()%#@(% CETTE ÉPÉE EST VOTRE. )##%*&%*!"
 #: AfterTakeover.dialog:156
 msgid "Closing remote connection..."
 msgstr "Fermeture de la connexion..."
+
+#~ msgid ".. bot_type().."
+#~ msgstr ".. bot_type() .."
+
+#~ msgid "tux"
+#~ msgstr "tux"
 
 #~ msgid "*******"
 #~ msgstr "*******"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2008-09-12 20:51+0000\n"
 "Last-Translator: Arthur Huillet <arthur.huillet@free.fr>\n"
 "Language-Team: <en@li.org>\n"
@@ -17,23 +17,23 @@ msgstr ""
 "X-Generator: Launchpad (build Unknown)\n"
 "X-Poedit-Language: French\n"
 
-#: Spencer.dialog:38
+#: Spencer.dialog:40
 msgid "Greetings fellow Red Guard member."
 msgstr "Salutations compagnon de la Garde rouge."
 
-#: Spencer.dialog:42 Spencer.dialog:46 Spencer.dialog:235
+#: Spencer.dialog:48 Spencer.dialog:52 Spencer.dialog:241
 msgid "Opening access to MS Office"
 msgstr "Ouverture de l'accès au bureau MS"
 
-#: Spencer.dialog:43
+#: Spencer.dialog:49
 msgid "A kingdom for a cluster!"
 msgstr "Un royaume pour un cluster !"
 
-#: Spencer.dialog:51
+#: Spencer.dialog:57
 msgid "Hi! I'm new here."
 msgstr " Bonjour ! Je suis nouveau ici."
 
-#: Spencer.dialog:53
+#: Spencer.dialog:59
 msgid ""
 "I'm Spencer. I'm the leader of the Red Guard. Is there anything I can help "
 "you with?"
@@ -41,26 +41,26 @@ msgstr ""
 "Mon nom est Spencer. Je suis le chef de la Garde rouge. En quoi puis-je "
 "t'aider ?"
 
-#: Spencer.dialog:58
+#: Spencer.dialog:64
 msgid "I want to join the Red Guard."
 msgstr " Je veux faire partie de la Garde rouge."
 
-#: Spencer.dialog:60
+#: Spencer.dialog:66
 msgid "Hmm... Really? Well, you cannot join just like that, you know..."
 msgstr ""
 "Mmmm... Vraiment ? Eh bien, ce n'est pas aussi simple que ça, vois tu..."
 
-#: Spencer.dialog:61
+#: Spencer.dialog:67
 msgid "You must prove that you would make a good new member."
 msgstr ""
 "Tu dois d'abord prouver que tu pourras faire un bon élément au sein de la "
 "Garde."
 
-#: Spencer.dialog:66
+#: Spencer.dialog:72
 msgid "I really want to become a member."
 msgstr " J'ai vraiment envie de devenir un membre de la Garde Rouge."
 
-#: Spencer.dialog:68
+#: Spencer.dialog:74
 msgid ""
 "This is not so easy. First you must establish a reputation around here. Ask "
 "around, talk to people and build your reputation."
@@ -69,7 +69,7 @@ msgstr ""
 "réputation dans les parages. Pour cela, tu dois parler, poser des questions "
 "aux gens des alentours."
 
-#: Spencer.dialog:69
+#: Spencer.dialog:75
 msgid ""
 "Once you're a known character around here, we might let you join the ranks "
 "of the Guard."
@@ -77,30 +77,30 @@ msgstr ""
 "Quand tu seras quelqu'un de connu, nous te laisserons peut-être rejoindre "
 "les rangs de la Garde."
 
-#: Spencer.dialog:74
+#: Spencer.dialog:80
 msgid "How about some circuits instead?"
 msgstr " Et si je te payais ?"
 
-#: Spencer.dialog:76
+#: Spencer.dialog:82
 msgid "For 15 million circuits, no less, hehe."
 msgstr "Pour 15 millions de circuits, pas moins, hé hé."
 
-#: Spencer.dialog:82
+#: Spencer.dialog:88
 msgid "But I don't have that many circuits!"
 msgstr "Mais je n'ai pas autant de circuit !"
 
-#: Spencer.dialog:84
+#: Spencer.dialog:90
 msgid "That much I can tell."
 msgstr "Autant que je peux dire."
 
-#: Spencer.dialog:85
+#: Spencer.dialog:91
 msgid ""
 "Look, I'm just fooling around. We don't let just anyone join the Red Guard."
 msgstr ""
 "Écoute, c'était une blague. Nous ne laissons pas n'importe qui entrer dans "
 "la Garde Rouge."
 
-#: Spencer.dialog:86
+#: Spencer.dialog:92
 msgid ""
 "If you seriously want to join, you have to prove yourself first. You might "
 "want to ask around town for things you can do."
@@ -108,11 +108,11 @@ msgstr ""
 "Si tu veux vraiment nous joindre, tu dois d'abord t'en montrer digne. Tu "
 "peux demander aux gens alentours les choses que tu peux faire."
 
-#: Spencer.dialog:92
+#: Spencer.dialog:98
 msgid "Maybe I could help somehow?"
 msgstr " Peut être puis-je t'aider d'une quelconque façon ?"
 
-#: Spencer.dialog:94
+#: Spencer.dialog:100
 msgid ""
 "That would be most kind of you, but I doubt that you will be able to clear "
 "out the warehouse for us."
@@ -121,7 +121,7 @@ msgstr ""
 "actuellement en mesure de nettoyer le hangar de tous ces robots, à toi tout "
 "seul."
 
-#: Spencer.dialog:95
+#: Spencer.dialog:101
 msgid ""
 "But since you are said to be powerful and a former hero, I'll once more put "
 "trust into a stranger."
@@ -129,7 +129,7 @@ msgstr ""
 "Mais étant donné qu'on dit de toi que tu es puissant et que tu as été, dans "
 "le passé, un héros, je vais encore une fois faire confiance à un inconnu."
 
-#: Spencer.dialog:96
+#: Spencer.dialog:102
 msgid ""
 "I've unlocked the access-way to the warehouse. It's to the north of this "
 "town, somewhat hidden in the woods northeast."
@@ -137,7 +137,7 @@ msgstr ""
 "J'ai déverrouillé la voie d'accès vers le hangar. C'est au nord de la ville, "
 "caché quelque part dans les bois du nord-est."
 
-#: Spencer.dialog:97
+#: Spencer.dialog:103
 msgid ""
 "The stuff we need is on the first floor. Don't go any deeper, there are only "
 "bots in there."
@@ -145,16 +145,16 @@ msgstr ""
 "Le matériel dont nous avons besoin est au premier sous-sol. Ne descends pas "
 "plus profond, tu n'y trouveras que des robots."
 
-#: Spencer.dialog:98
+#: Spencer.dialog:104
 msgid "I wish you the best of luck."
 msgstr "Je te souhaite bonne chance."
 
-#: Spencer.dialog:99 Spencer.dialog:107 Spencer.dialog:108 Spencer.dialog:118
-#: Spencer.dialog:183
+#: Spencer.dialog:105 Spencer.dialog:113 Spencer.dialog:114 Spencer.dialog:124
+#: Spencer.dialog:189
 msgid "Opening a can of bots..."
 msgstr "Ouverture d'une cannette de robots…"
 
-#: Spencer.dialog:99
+#: Spencer.dialog:105
 msgid ""
 "I am supposed to clean out the first level of some warehouse. Sounds easy. "
 "It lies nearby, somewhat hidden in the woods north-east of town."
@@ -163,11 +163,11 @@ msgstr ""
 "facile. C'est assez proche, quelque part caché dans les bois du nord-est de "
 "la ville."
 
-#: Spencer.dialog:105
+#: Spencer.dialog:111
 msgid "How is it going?"
 msgstr " Comment ça va ?"
 
-#: Spencer.dialog:110
+#: Spencer.dialog:116
 msgid ""
 "Thanks to you, we've been able to transport all the goods we need right now. "
 "You've really helped us out there."
@@ -175,21 +175,21 @@ msgstr ""
 "Merci, nous avons été capable de transporter tout les denrées dont nous "
 "avons besoin en ce moment. Tu nous as réellement tiré d'affaire."
 
-#: Spencer.dialog:111
+#: Spencer.dialog:117
 msgid ""
 "Rest assured that we will never forget your brave activity for our community."
 msgstr ""
 "Crois bien que nous n'oublierons jamais tes courageuses prouesses réalisées "
 "en faveur de notre communauté."
 
-#: Spencer.dialog:113
+#: Spencer.dialog:119
 msgid ""
 "Man, you really did it! I can hardly believe it, but all the bots are gone!"
 msgstr ""
 "Eh mec, t'as vraiment réussi ! J'ai du mal à y croire, mais tous les robots "
 "sont partis !"
 
-#: Spencer.dialog:114
+#: Spencer.dialog:120
 msgid ""
 "Take these 500 circuits as a reward. And be assured that you've earned my "
 "deepest respect, Linarian."
@@ -197,7 +197,7 @@ msgstr ""
 "Tiens, prends ces 500 tribucks en guise de récompense. Crois bien que tu as "
 "mérité mon plus profond respect, Linarien."
 
-#: Spencer.dialog:115
+#: Spencer.dialog:121
 msgid ""
 "Our people are transporting the goods as we speak. It can't be too long "
 "until new bots from ships in the orbit of the planet will beam down to "
@@ -207,14 +207,14 @@ msgstr ""
 "nouveaux robots provenant des vaisseaux en orbite autour de la planète "
 "viendront remplacer les robots détruits."
 
-#: Spencer.dialog:118
+#: Spencer.dialog:124
 msgid ""
 "Ouch. It wasn't. At least I am alive, and the warehouse is clear. *Whew*."
 msgstr ""
 "Ouh. Ça n'était pas là. Au moins, je suis en vie, et l'entrepôt est nettoyé. "
 "Whouw."
 
-#: Spencer.dialog:121
+#: Spencer.dialog:127
 msgid ""
 "Not too good. Without the supplies from the warehouse we are doomed. So my "
 "problems are still the same."
@@ -222,7 +222,7 @@ msgstr ""
 "Pas très bon. Sans l'alimentation de l'entrepôt nous sommes condamnés. Donc "
 "mes problèmes ne changent pas."
 
-#: Spencer.dialog:122
+#: Spencer.dialog:128
 msgid ""
 "Maybe later, when you grow more experienced you might be able to help us "
 "after all."
@@ -230,7 +230,7 @@ msgstr ""
 "Plus tard, quand tu auras plus d'expérience, peut-être pourras-tu nous "
 "aider, après tout."
 
-#: Spencer.dialog:125
+#: Spencer.dialog:131
 msgid ""
 "These are bad times. Interplanetary travel is made impossible by bot ships, "
 "so we need to stick to our local resources."
@@ -239,7 +239,7 @@ msgstr ""
 "est impossible d'accéder aux autres planètes, ce qui nous oblige à nous "
 "contenter de nos ressources locales."
 
-#: Spencer.dialog:126
+#: Spencer.dialog:132
 msgid ""
 "We've got a list of stuff we need from the automated underground storage "
 "north of town. But the bots there are numerous."
@@ -248,7 +248,7 @@ msgstr ""
 "hangar souterrain automatisé, au nord de la ville. Mais les robots y sont "
 "nombreux."
 
-#: Spencer.dialog:127
+#: Spencer.dialog:133
 msgid ""
 "And currently I can't spare a single man from the city defenses. It's quite "
 "a difficult situation."
@@ -257,16 +257,16 @@ msgstr ""
 "un poste de défense, au frontières de la ville. C'est une situation assez "
 "difficile."
 
-#: Spencer.dialog:133
+#: Spencer.dialog:139
 msgid "Have I done enough quests to become a member now?"
 msgstr ""
 " Ai-je réussi suffisamment de quêtes pour devenir un membre de la Garde ?"
 
-#: Spencer.dialog:135
+#: Spencer.dialog:141
 msgid "The yellow toolkit"
 msgstr "La boîte à outils jaune."
 
-#: Spencer.dialog:136
+#: Spencer.dialog:142
 msgid ""
 "I think our teleporter service man, Dixon, has some problem. You might want "
 "to talk to him."
@@ -274,11 +274,11 @@ msgstr ""
 "Je crois que notre préposé au téléporteur, Dixon, a un problème. Tu devrais "
 "peut-être aller lui parler."
 
-#: Spencer.dialog:139 Spencer.dialog:146 Spencer.dialog:153
+#: Spencer.dialog:145 Spencer.dialog:152 Spencer.dialog:159
 msgid "Dixon has his toolkit back."
 msgstr "Dixon a récupéré sa boîte à outils."
 
-#: Spencer.dialog:140
+#: Spencer.dialog:146
 msgid ""
 "He was in bad mood and told me he had to pay you for getting his own "
 "property back."
@@ -286,19 +286,19 @@ msgstr ""
 "Il était de mauvaise humeur et m'a dit qu'il avait du te payer pour "
 "récupérer son bien."
 
-#: Spencer.dialog:141
+#: Spencer.dialog:147
 msgid "I think it is the best for him if we leave him alone the next days."
 msgstr "Je pense que c'est mieux pour lui de le laisser seul quelques jours."
 
-#: Spencer.dialog:142
+#: Spencer.dialog:148
 msgid "I'm sure he has to do a lot now."
 msgstr "Je suis sûr qu'il a beaucoup de choses à faire maintenant."
 
-#: Spencer.dialog:147
+#: Spencer.dialog:153
 msgid "He seemed quite aggressive and stressed."
 msgstr "Il avait l'air assez agressif et stressé."
 
-#: Spencer.dialog:148
+#: Spencer.dialog:154
 msgid ""
 "Poor guy, if we weren't in such a bad situation, he could have some work-"
 "free days, but bot attacks continue all the time."
@@ -307,11 +307,11 @@ msgstr ""
 "pu prendre quelques jours de congés, mais les attaques de robots sont "
 "continuelles."
 
-#: Spencer.dialog:149
+#: Spencer.dialog:155
 msgid "You better don't bother him the next days."
 msgstr "Tu ferais mieux de le laisser tranquille les prochains jours."
 
-#: Spencer.dialog:154
+#: Spencer.dialog:160
 msgid ""
 "He did rail against you though. He said he had to give you 400 circuits to "
 "get his toolkit back, his own property."
@@ -319,7 +319,7 @@ msgstr ""
 "Il était furieux contre toi. Il a apparement du te donner 400 tribucks pour "
 "récupérer sa boîte à outils, son propre bien."
 
-#: Spencer.dialog:155
+#: Spencer.dialog:161
 msgid ""
 "That was nearly all money he had. He said you were too greedy to become a "
 "good member and he doesn't want to see you anymore."
@@ -327,7 +327,7 @@ msgstr ""
 "C'était presque tout l'argent qu'il avait. Il trouve que tu est trop avide "
 "pour devenir un bon membre et ne souhaite plus te revoir."
 
-#: Spencer.dialog:156
+#: Spencer.dialog:162
 msgid ""
 "I think everybody has to get a chance. But look ahead! When you are "
 "negatively conspicuous again, we will ban you from our town!"
@@ -336,7 +336,7 @@ msgstr ""
 "seras encore a te faire remarque de façon inopportune, nous te bannirons de "
 "notre ville."
 
-#: Spencer.dialog:159
+#: Spencer.dialog:165
 msgid ""
 "Dixon told me about the matter with his toolkit. He seemed pretty impressed "
 "by you."
@@ -344,11 +344,11 @@ msgstr ""
 "Dixon m'a parlé de l'histoire avec sa boîte à outils. Il semblait être "
 "sacrément impressionné par ta prouesse."
 
-#: Spencer.dialog:165
+#: Spencer.dialog:171
 msgid "Anything but the army snacks, please!"
 msgstr "Tout mais pas les rations militaires, s'il vous plaît."
 
-#: Spencer.dialog:166
+#: Spencer.dialog:172
 msgid ""
 "When I was eating, Michelangelo told me about his renewed oven energy "
 "supply. He seemed very pleased, and so was I."
@@ -356,7 +356,7 @@ msgstr ""
 "Pendant que je mangeais, Michelangelo m'a parlé de son four enfin réalimenté "
 "en énergie. Il semblait très satisfait, et moi aussi."
 
-#: Spencer.dialog:168
+#: Spencer.dialog:174
 msgid ""
 "I think you should visit the camp's cook sometime. He's usually in the "
 "restaurant kitchen."
@@ -364,17 +364,17 @@ msgstr ""
 "Je pense que tu devrais rendre visite au cuisinier du camp, un de ces jours. "
 "Il est habituellement dans la cuisine du restaurant."
 
-#: Spencer.dialog:171
+#: Spencer.dialog:177
 msgid "Novice Arena"
 msgstr "Arène débutant."
 
-#: Spencer.dialog:172
+#: Spencer.dialog:178
 msgid "From Butch I hear you've become a novice arena master. Congratulations."
 msgstr ""
 "J'ai appris grâce à Butch que tu es devenu un maître d'arène novice. "
 "Félicitations!"
 
-#: Spencer.dialog:174
+#: Spencer.dialog:180
 msgid ""
 "You might want to score some arena victories. That could also help your "
 "reputation a lot."
@@ -382,11 +382,11 @@ msgstr ""
 "Tu devrais obtenir des victoires dans l'arène. Ça ferait beaucoup de bien à "
 "ta réputation."
 
-#: Spencer.dialog:177
+#: Spencer.dialog:183
 msgid "Bender's problem"
 msgstr "Le problème de Bender."
 
-#: Spencer.dialog:178
+#: Spencer.dialog:184
 msgid ""
 "Helping Bender along was also a smart move. But you should be very careful "
 "with that one. He can get mad rather easily. A bit of a security threat, but "
@@ -396,11 +396,11 @@ msgstr ""
 "pète les plombs assez facilement. C'est un peu un problème pour la sécurité, "
 "mais nous ne pouvons pas nous permettre d'être trop exigeants."
 
-#: Spencer.dialog:180
+#: Spencer.dialog:186
 msgid "As far as I know, Bender is still very sick."
 msgstr "D'après ce que je sais, Bender est toujours très malade."
 
-#: Spencer.dialog:184
+#: Spencer.dialog:190
 msgid ""
 "But most importantly, I was very impressed with you when you cleared out the "
 "warehouse. That was a huge deed I will never forget."
@@ -408,7 +408,7 @@ msgstr ""
 "Mais avant tout, tu m'as beaucoup impressionné quand tu as nettoyé le hangar "
 "de tous ces robots. Je n'oublierai jamais cette prouesse."
 
-#: Spencer.dialog:186
+#: Spencer.dialog:192
 msgid ""
 "Personally I'm also worrying about how we will manage to get some necessary "
 "supplies from our warehouse. It's filled with bots and we just don't have "
@@ -419,7 +419,7 @@ msgstr ""
 "entrepôts. Ces lieux sont remplis de robots et nous n'avons simplement pas "
 "les ressources humaines nécessaires pour les nettoyer."
 
-#: Spencer.dialog:191
+#: Spencer.dialog:197
 msgid ""
 "OK. Your list of achievements is long enough. You can join us. So I hereby "
 "declare you a member of the Red Guard."
@@ -427,7 +427,7 @@ msgstr ""
 "D'accord, c'est bon. Ta liste de tâches accomplies est suffisamment longue. "
 "Tu peux te joindre à nous. Je te déclare membre de la Garde rouge."
 
-#: Spencer.dialog:192
+#: Spencer.dialog:198
 msgid ""
 "But now that you are in the Guard, know this: There is only one rule for us "
 "guards: We stick together. We survive together or we die together. But we do "
@@ -438,7 +438,7 @@ msgstr ""
 "nous survivions ou que nous mourrions. Ensemble nous sommes, ensemble nous "
 "restons."
 
-#: Spencer.dialog:193
+#: Spencer.dialog:199
 msgid ""
 "And now you might want to inspect the guard house. Tell Tybalt to open the "
 "door for you. Lukas at the arms counter will give you your armor."
@@ -446,15 +446,15 @@ msgstr ""
 "Peut-être veux-tu visiter les locaux des gardes. Demande à Tybalt de "
 "t'ouvrir la porte. Lukas, de l'armurerie, te donnera ton armure."
 
-#: Spencer.dialog:194
+#: Spencer.dialog:200
 msgid "I hope you will prove yourself a worthy member of the Red Guard."
 msgstr "J'espère que tu sauras te montrer digne de ton nouveau poste."
 
-#: Spencer.dialog:195
+#: Spencer.dialog:201
 msgid "Joined Town Guard!!"
 msgstr "Garde Rouge rejointe !"
 
-#: Spencer.dialog:201
+#: Spencer.dialog:207
 msgid ""
 "All in all, not quite so bad. But you still need to do the one thing or the "
 "other. Then we can talk about it."
@@ -462,7 +462,7 @@ msgstr ""
 "Somme toute, ce n'est pas si mal. Mais il y a toujours quelques petites "
 "choses que tu dois encore faire. Après, nous verrons."
 
-#: Spencer.dialog:203
+#: Spencer.dialog:209
 msgid ""
 "I can't accept you into the guard like this. Get going. There are still many "
 "things to do for you."
@@ -470,12 +470,12 @@ msgstr ""
 "Je ne peux pas t'accepter au sein de la garde dans l'état actuel des choses. "
 "Va. Il y a toujours un grand nombre de choses à faire pour toi."
 
-#: Spencer.dialog:209
+#: Spencer.dialog:215
 msgid "I've heard Richard obtained new information on the town."
 msgstr ""
 "On m'a dit que Richard avait obtenu de nouvelles informations sur la ville."
 
-#: Spencer.dialog:211
+#: Spencer.dialog:217
 msgid ""
 "Yes, that's right, and in fact it might be crucial. As you may have heard, "
 "the MS office is defended by a disruptor shield. They open it only to let "
@@ -485,7 +485,7 @@ msgstr ""
 "l'avoir entendu, le bureau de Microsof est défendu par un champ disrupteur. "
 "Ils ouvrent seulement pour faire sortir les nouvelles armées robot."
 
-#: Spencer.dialog:212
+#: Spencer.dialog:218
 msgid ""
 "The data on the cube he obtained indicates the existence of a secret "
 "experimental facility in this region. Our findings suggest that they were "
@@ -497,7 +497,7 @@ msgstr ""
 "étaient en train de tester une nouvelle forme de bouclier brouilleur pour "
 "MS, et que le bouclier doit pouvoir être contrôlé depuis cette installation."
 
-#: Spencer.dialog:213
+#: Spencer.dialog:219
 msgid ""
 "If the information is true, then you can take over the control droid and "
 "disable the shield permanently so we can get in."
@@ -506,7 +506,7 @@ msgstr ""
 "désactiver le bouclier de façon permanente, de façon à ce que nous "
 "pénétrions à l'intérieur."
 
-#: Spencer.dialog:214
+#: Spencer.dialog:220
 msgid ""
 "We know that MS had a firmware update system, which could be used to "
 "propagate a malicious update to disable all bots. It is very alluring, but "
@@ -519,7 +519,7 @@ msgstr ""
 "contrôle, qui est au coeur de la Forteresse d'Enfer. Et pour entrer dans la "
 "Forteresse, il faut d'abord désactiver le bouclier brouilleur."
 
-#: Spencer.dialog:215
+#: Spencer.dialog:221
 msgid ""
 "This seems like a gift sent from the heavens. Cleaning the Hell Fortress is "
 "not going to be easy, though.."
@@ -527,11 +527,11 @@ msgstr ""
 "Cela ressemble à un don du ciel. Nettoyer la Forteresse de l'enfer ne va pas "
 "être facile, malgré tout."
 
-#: Spencer.dialog:220
+#: Spencer.dialog:226
 msgid "I'd like to participate in this operation."
 msgstr " J'aimerais participer à cette opération."
 
-#: Spencer.dialog:222
+#: Spencer.dialog:228
 msgid ""
 "That's most kind of you to volunteer. So far, I've sent two scouts into the "
 "area. They have found the facility entrance and unlocked the gate."
@@ -540,7 +540,7 @@ msgstr ""
 "envoyé deux explorateurs dans cette zone. Il ont trouvé l'entrée de "
 "l'installation et déverrouillé la porte."
 
-#: Spencer.dialog:223
+#: Spencer.dialog:229
 msgid ""
 "That is a good sign, because it shows that the key combinations from the "
 "data cube were correct."
@@ -548,7 +548,7 @@ msgstr ""
 "C'est bon signe, parce que ça montre que les clefs fournies par le cube de "
 "données étaient valides."
 
-#: Spencer.dialog:224
+#: Spencer.dialog:230
 msgid ""
 "However, we lost contact with them shortly after they went inside. They also "
 "reported heavy bot resistance."
@@ -556,7 +556,7 @@ msgstr ""
 "Cependant, nous avons perdu contact avec eux peu après leur entrée. Ils nous "
 "ont indiqué une forte concentration de robots."
 
-#: Spencer.dialog:225
+#: Spencer.dialog:231
 msgid ""
 "I'd be glad if you could take a look. But use the utmost care. We can't "
 "afford to lose another guard."
@@ -564,11 +564,11 @@ msgstr ""
 "Je serai très heureux que tu y jettes un oeil. Mais soit extrêmement "
 "prudent. Nous ne pouvons pas nous permettre de perdre un autre garde."
 
-#: Spencer.dialog:230
+#: Spencer.dialog:236
 msgid "OK. I'll be careful. But I'll do it."
 msgstr " D'accord, je ferai attention. Mais je le ferai."
 
-#: Spencer.dialog:232
+#: Spencer.dialog:238
 msgid ""
 "Good. The base entrance is somewhat hidden in the caves to the northeast. "
 "Best to use the north gate out of town, then head east, and turn north again "
@@ -579,7 +579,7 @@ msgstr ""
 "de se tourner vers l'ouest, enfin de tourner au nord encore le long de la "
 "bordure."
 
-#: Spencer.dialog:233
+#: Spencer.dialog:239
 msgid ""
 "I wish you the best of luck for this operation. It might be that our "
 "survival depends on it. Don't wait for assistance."
@@ -587,7 +587,7 @@ msgstr ""
 "Je te souhaite bonne chance pour cette opération. C'est peut-être notre "
 "survie qui en dépend. N'hésite pas à demander de l'aide."
 
-#: Spencer.dialog:234
+#: Spencer.dialog:240
 msgid ""
 "Try to get control over the disruptor shield if you can. The control droid "
 "should be somewhere on the lowest level of the installation. Simply "
@@ -598,7 +598,7 @@ msgstr ""
 "l'installation. Détruire simplement le droïde pourrait suffire dans la "
 "désactivation du bouclier."
 
-#: Spencer.dialog:235
+#: Spencer.dialog:241
 msgid ""
 "Spencer has revealed the information from the data cube evaluation to me. It "
 "seems there is an old military research facility near the town. By taking "
@@ -619,19 +619,19 @@ msgstr ""
 "dans la forteresse, jusqu'à atteindre le droïde de contrôle puis le mettre à "
 "jour, désactivant ainsi tous les robots de la zone en une seule fois."
 
-#: Spencer.dialog:241
+#: Spencer.dialog:247
 msgid "I don't feel like doing it now. I'd rather prepare some more."
 msgstr ""
 " Je ne me sens pas de le faire tout de suite. Je préfère continuer â  me "
 "préparer."
 
-#: Spencer.dialog:243
+#: Spencer.dialog:249
 msgid "Good. You should be well prepared if you intend to go."
 msgstr ""
 "Bien. Si tu as vraiment l'intention d'y aller, tu ferais mieux d'être bien "
 "préparé."
 
-#: Spencer.dialog:244
+#: Spencer.dialog:250
 msgid ""
 "Also there is no need to hurry with this. After all, the installation is not "
 "running away, so it's best to take a cautious approach."
@@ -639,7 +639,7 @@ msgstr ""
 "Par ailleurs, il est inutile de se presser. Après tout, l'installation ne va "
 "pas s'enfuir en courant, donc privilégie une approche prudente."
 
-#: Spencer.dialog:249
+#: Spencer.dialog:255
 msgid ""
 "It's done. Your soldiers were killed, but I managed to have a word with the "
 "shield control droid. The access to the bot factory is now open."
@@ -648,7 +648,7 @@ msgstr ""
 "discussion avec le droïde de contrôle du bouclier. L'accès à la fabrique est "
 "maintenant ouvert."
 
-#: Spencer.dialog:251
+#: Spencer.dialog:257
 msgid ""
 "Good. We cannot help you much in this final mission, but I can tell you what "
 "our recon teams gathered behind the factory doors. You will enter a zone "
@@ -659,7 +659,7 @@ msgstr ""
 "derrière les portes de l'usine. Tu entreras dans une zone qui a été un "
 "bureau de MS."
 
-#: Spencer.dialog:252
+#: Spencer.dialog:258
 msgid ""
 "They carried out some development there, and had part of their patching "
 "division and update management department. The actual factory is located "
@@ -669,7 +669,7 @@ msgstr ""
 "division « patchs et mises à jours » . La fabrique actuelle est localisée "
 "derrière le bureau."
 
-#: Spencer.dialog:253
+#: Spencer.dialog:259
 msgid ""
 "With a bit of luck, you might not need to access it. We know they have their "
 "update server in the office."
@@ -677,7 +677,7 @@ msgstr ""
 "Avec un peu de chance, on pourrait ne pas avoir besoin d'y accéder. On sait "
 "qu'il y a un serveur de mise à jour dans le bureau."
 
-#: Spencer.dialog:254
+#: Spencer.dialog:260
 msgid ""
 "If you can find it and get it to propagate a faulty update, this could "
 "suffice to stopping bots dead in their tracks."
@@ -685,7 +685,7 @@ msgstr ""
 "Si tu peux le trouver et propager un firmware corrompu, cela suffirait à "
 "stoppé les robots morts dans leurs pistes."
 
-#: Spencer.dialog:255
+#: Spencer.dialog:261
 msgid ""
 "Look for the entrance of the office in the crystal fields. I will send a "
 "message to the guards so they let you pass. Then you will be on your own."
@@ -694,15 +694,15 @@ msgstr ""
 "aux gardes pour qu'ils te laissent passer. Ensuite, tu devras te débrouiller "
 "seul."
 
-#: Spencer.dialog:256
+#: Spencer.dialog:262
 msgid "Good luck."
 msgstr "Bonne chance."
 
-#: Spencer.dialog:257
+#: Spencer.dialog:263
 msgid "Propagating a faulty firmware"
 msgstr "Propagation du firmware corrompu."
 
-#: Spencer.dialog:257
+#: Spencer.dialog:263
 msgid ""
 "I can now enter the fortress and find the upgrade server bot. The fortress "
 "gates are in the Crystal Fields. Spencer told the guards to open the doors "
@@ -712,7 +712,7 @@ msgstr ""
 "mise à jour. Les portes de la forteresse sont dans les champs de cristaux. "
 "Spencer a dit aux gardes d'ouvrir les portes pour moi."
 
-#: Spencer.dialog:262
+#: Spencer.dialog:268
 msgid ""
 "I will need some time to get myself ready before I clean up the Hell "
 "Fortress."
@@ -720,15 +720,158 @@ msgstr ""
 "J'aurai besoin d'un peu de temps pour me préparer avant d'aller nettoyer "
 "cette Forteresse de l'Enfer."
 
-#: Spencer.dialog:264
+#: Spencer.dialog:270
 msgid "You had better be ready."
 msgstr "Tu ferais mieux d'être prêt."
 
-#: Spencer.dialog:268
+#: Spencer.dialog:274
+msgid "I found someone out in the desert."
+msgstr ""
+
+#: Spencer.dialog:276
+#, fuzzy
+msgid "Great, another mouth to feed."
+msgstr "Oh, génial. Encore un autre loufoque."
+
+#: Spencer.dialog:277
+#, fuzzy
+msgid "What is this person's name?"
+msgstr " Quel est cet endroit ?"
+
+#: Spencer.dialog:282
+msgid "Tania"
+msgstr ""
+
+#: Spencer.dialog:285
+msgid ""
+"Well, since you are a guard member, I'll let you vouch for this Tania person."
+msgstr ""
+
+#: Spencer.dialog:287
+msgid "Well, we have enough food for now. I'll let this Tania person in."
+msgstr ""
+
+#: Spencer.dialog:291
+msgid ""
+"I'd say you should take her straight away to Doc Moore, but he was found "
+"dead earlier."
+msgstr ""
+
+#: Spencer.dialog:292
+msgid "You wouldn't happen to know anything about that, would you?"
+msgstr ""
+
+#: Spencer.dialog:298
+msgid ""
+"You must take her straight away to Doc Moore. We can't have a disease "
+"breaking out."
+msgstr ""
+
+#: Spencer.dialog:300 Spencer.dialog:313 Spencer.dialog:315 Spencer.dialog:330
+#: Spencer.dialog:334 Spencer.dialog:346
+msgid "Tania's Escape"
+msgstr ""
+
+#: Spencer.dialog:300
+msgid ""
+"Spencer said it was OK for Tania to enter the town. As long as she goes to "
+"see Doc Moore first thing. Now all I have to do is tell her and Pendragon."
+msgstr ""
+
+#: Spencer.dialog:306
+msgid "No, of course not."
+msgstr ""
+
+#: Spencer.dialog:308
+#, fuzzy
+msgid "Good."
+msgstr "Au revoir."
+
+#: Spencer.dialog:309
+msgid "I didn't think it was you, but you never know."
+msgstr ""
+
+#: Spencer.dialog:310
+msgid ""
+"About your friend, she can come in provided that she pulls her weight around "
+"here."
+msgstr ""
+
+#: Spencer.dialog:313
+msgid ""
+"When I asked about Tania entering the town, Spencer confronted me about Doc "
+"Moore's death. I denyed everything and he bought it! He says it is OK for "
+"Tania to enter the town: I should tell her and Pendragon."
+msgstr ""
+
+#: Spencer.dialog:315
+msgid ""
+"When I asked about Tania entering the town, Spencer said Doc Moore was found "
+"dead! Oh, and Tania can enter the town. I should go tell her that."
+msgstr ""
+
+#: Spencer.dialog:321
+msgid "He and I had a disagreement, which we settled."
+msgstr ""
+
+#: Spencer.dialog:323
+msgid "I am the law here. If you have a problem, you come to me."
+msgstr ""
+
+#: Spencer.dialog:325
+#, fuzzy
+msgid "I'm going to strip you of your membership in the Red Guard."
+msgstr "J'espère que tu sauras te montrer digne de ton nouveau poste."
+
+#: Spencer.dialog:328
+msgid ""
+"Your friend can come in, but we will be watching the two of you closely."
+msgstr ""
+
+#: Spencer.dialog:330
+msgid ""
+"When I asked about Tania entering the town, Spencer confronted me about Doc "
+"Moore's death. I told him the truth, and he kicked me out of the Red Guard. "
+"But he let Tania in, Now all I have to do is tell her and Pendragon."
+msgstr ""
+
+#: Spencer.dialog:332
+msgid "As the law, I pronounce you GUILTY of MURDER."
+msgstr ""
+
+#: Spencer.dialog:333
+msgid "The punishment is death."
+msgstr ""
+
+#: Spencer.dialog:334
+msgid ""
+"When I asked about Tania entering the town, Spencer confronted me about Doc "
+"Moore's death. He found me guilty of murder, and sentenced me to death."
+msgstr ""
+
+#: Spencer.dialog:342
+msgid "I killed him just to see what it was like. It was awesome."
+msgstr ""
+
+#: Spencer.dialog:344
+msgid "You are a sociopath, and a danger to us all!"
+msgstr ""
+
+#: Spencer.dialog:345
+msgid "We must stop you before you kill again."
+msgstr ""
+
+#: Spencer.dialog:346
+msgid ""
+"When I asked about Tania entering the town, Spencer confronted me about Doc "
+"Moore's death. He found me too dangerous to live."
+msgstr ""
+
+#: Spencer.dialog:353
 msgid "I'll be going then."
 msgstr "Alors j'y vais."
 
-#: Spencer.dialog:270
+#: Spencer.dialog:355
 msgid "See you later."
 msgstr "À plus tard."
 
@@ -1811,9 +1954,6 @@ msgstr "À plus tard."
 #~ msgid "I'll be going, then."
 #~ msgstr " J'y vais alors."
 
-#~ msgid "Goodbye."
-#~ msgstr "Au revoir."
-
 #~ msgid "Give me the novice arena."
 #~ msgstr " Donne moi l'arène pour novice."
 
@@ -2171,9 +2311,6 @@ msgstr "À plus tard."
 
 #~ msgid "Hey you! Linarian! What do you want here?"
 #~ msgstr "Hé toi ! Linarien ! Qu'est-ce que tu veux ?"
-
-#~ msgid "Oh, great. Another curious one."
-#~ msgstr "Oh, génial. Encore un autre loufoque."
 
 #~ msgid ""
 #~ "About a week ago I let in a stranger who also said he was just taking a "
@@ -6260,9 +6397,6 @@ msgstr "À plus tard."
 
 #~ msgid "SECONDARY TARGET: prevent secret information leakage"
 #~ msgstr " OBJECTIF SECONDAIRE : prévention de la fuite d'information"
-
-#~ msgid "What is this place?"
-#~ msgstr " Quel est cet endroit ?"
 
 #~ msgid "*INFO* secret information theft attempt detected"
 #~ msgstr " *INFO* vol d'informations secrètes détecté !"

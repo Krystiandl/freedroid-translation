@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2008-12-16 05:43+0000\n"
 "Last-Translator: Dmitry Tumaikin <nevly@mail.ru>\n"
 "Language-Team: Russian\n"
@@ -19,7 +19,7 @@ msgstr ""
 msgid "Hello. Any idea where I can get some help here?"
 msgstr ""
 
-#: Geist.dialog:43 Geist.dialog:69
+#: Geist.dialog:43 Geist.dialog:68
 #, fuzzy
 msgid "Verschwinde!"
 msgstr "Verschwinde."
@@ -40,35 +40,31 @@ msgstr "Und das mit Recht; denn alles, was entsteht,"
 msgid "ist wert, dass es zugrunde geht."
 msgstr "ist wert, dass es zugrunde geht."
 
-#: Geist.dialog:53
-msgid "Geist -- Hunter"
-msgstr ""
-
-#: Geist.dialog:58
+#: Geist.dialog:57
 msgid "I really do not understand you."
 msgstr ""
 
-#: Geist.dialog:60
+#: Geist.dialog:59
 msgid "Wer sie nicht kennte, die Elemente,"
 msgstr "Wer sie nicht kennte, die Elemente,"
 
-#: Geist.dialog:61
+#: Geist.dialog:60
 msgid "ihre Kraft und Eigenschaft,"
 msgstr "ihre Kraft und Eigenschaft,"
 
-#: Geist.dialog:62
+#: Geist.dialog:61
 msgid "waere kein Meister ueber die Geister."
 msgstr "waere kein Meister ueber die Geister."
 
-#: Geist.dialog:67
+#: Geist.dialog:66
 msgid "I wish I knew what you are talking about."
 msgstr ""
 
-#: Geist.dialog:75
+#: Geist.dialog:74
 msgid "I need to go now."
 msgstr ""
 
-#: Geist.dialog:77
+#: Geist.dialog:76
 msgid " . . ."
 msgstr " . . ."
 

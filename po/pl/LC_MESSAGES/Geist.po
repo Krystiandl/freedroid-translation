@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-07-08 02:48+0100\n"
 "Last-Translator: Angelika Maria Piątkowska <piatkosia.apt@interia.pl>\n"
 "Language-Team: freedroid team\n"
@@ -21,7 +21,7 @@ msgid "Hello. Any idea where I can get some help here?"
 msgstr "Cześć. Jakiś pomysł gdzie mogę szukać jakiejś pomocy?"
 
 # Zostawiłam wersję niemiecką jako niezrozumiałą przez tuxa, niech będzie jak w oryginale
-#: Geist.dialog:43 Geist.dialog:69
+#: Geist.dialog:43 Geist.dialog:68
 msgid "Verschwinde!"
 msgstr "Verschwinde!"
 
@@ -41,34 +41,33 @@ msgstr "Und das mit Recht; denn alles, was entsteht,"
 msgid "ist wert, dass es zugrunde geht."
 msgstr "ist wert, dass es zugrunde geht."
 
-#: Geist.dialog:53
-msgid "Geist -- Hunter"
-msgstr "Geist -- Myśliwy"
-
-#: Geist.dialog:58
+#: Geist.dialog:57
 msgid "I really do not understand you."
 msgstr "Serio cię nie rozumiem."
 
-#: Geist.dialog:60
+#: Geist.dialog:59
 msgid "Wer sie nicht kennte, die Elemente,"
 msgstr "Wer sie nicht kennte, die Elemente,"
 
-#: Geist.dialog:61
+#: Geist.dialog:60
 msgid "ihre Kraft und Eigenschaft,"
 msgstr "ihre Kraft und Eigenschaft,"
 
-#: Geist.dialog:62
+#: Geist.dialog:61
 msgid "waere kein Meister ueber die Geister."
 msgstr "waere kein Meister ueber die Geister."
 
-#: Geist.dialog:67
+#: Geist.dialog:66
 msgid "I wish I knew what you are talking about."
 msgstr "Pragnę dowiedzieć się o czym do mnie mówisz."
 
-#: Geist.dialog:75
+#: Geist.dialog:74
 msgid "I need to go now."
 msgstr "Muszę już iść"
 
-#: Geist.dialog:77
+#: Geist.dialog:76
 msgid " . . ."
 msgstr "..."
+
+#~ msgid "Geist -- Hunter"
+#~ msgstr "Geist -- Myśliwy"

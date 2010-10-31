@@ -69,23 +69,23 @@ msgid "***** Proximity Scan Results *****"
 msgstr ""
 
 #: 614_cryo.dialog:60
-msgid "Hostile Numeric Presence: HIGH"
+msgid "Hostile Numeric Presence: [b]HIGH[/b]"
 msgstr ""
 
 #: 614_cryo.dialog:61
-msgid "Enemy Energy Levels: LOW"
+msgid "Enemy Energy Levels: [b]LOW[/b]"
 msgstr ""
 
 #: 614_cryo.dialog:62
-msgid "Threat Degree Analysis: MODERATE"
+msgid "Threat Degree Analysis: [b]MODERATE[/b]"
 msgstr ""
 
 #: 614_cryo.dialog:64
-msgid "Cryo Complex Gates Status: CLOSED"
+msgid "Cryo Complex Gates Status: [b]CLOSED[/b]"
 msgstr ""
 
 #: 614_cryo.dialog:66
-msgid "Cryo Complex Gates Status: OPEN"
+msgid "Cryo Complex Gates Status: [b]OPEN[/b]"
 msgstr ""
 
 #: 614_cryo.dialog:72
@@ -109,53 +109,82 @@ msgstr ""
 msgid "So don't worry. I'm still in pretty good shape."
 msgstr ""
 
+#: 614_cryo.dialog:78
+msgid "The latest version of the security line is the 615."
+msgstr ""
+
+#: 614_cryo.dialog:80
+msgid ""
+"Unfortunately its development was not finished when the great assault "
+"started."
+msgstr ""
+
+#: 614_cryo.dialog:81
+msgid ""
+"The lack of security options on the system of the 615 lead to a malfunction."
+msgstr ""
+
 #: 614_cryo.dialog:82
-msgid "What are your orders?"
+msgid ""
+"Circumstances that led to the great assault even made the 615 go crazy and "
+"attack people."
+msgstr ""
+
+#: 614_cryo.dialog:83
+msgid "For the sake of your health, you should stay away from the 615 droids."
 msgstr ""
 
 #: 614_cryo.dialog:84
+msgid "You have been warned!"
+msgstr ""
+
+#: 614_cryo.dialog:89
+msgid "What are your orders?"
+msgstr ""
+
+#: 614_cryo.dialog:91
 msgid ""
 "Primary objective: Protect the living beings inside this complex from "
 "attacks by hostile bots."
 msgstr ""
 
-#: 614_cryo.dialog:85
+#: 614_cryo.dialog:92
 msgid ""
 "Secondary objective: Protect facility by locking outer gates if Threat "
-"Degree Analysis: HIGH."
+"Degree Analysis: [b]HIGH[/b]."
 msgstr ""
 
-#: 614_cryo.dialog:91
+#: 614_cryo.dialog:98
 msgid "Why are you not hostile as are all the other bots?"
 msgstr ""
 
-#: 614_cryo.dialog:93
+#: 614_cryo.dialog:100
 msgid ""
 "I belong to a an older generation of bots, running a custom-made security "
 "guard operating system."
 msgstr ""
 
-#: 614_cryo.dialog:94
+#: 614_cryo.dialog:101
 msgid ""
 "None of the bots of this generation were affected by the proceedings that "
 "led to bots attacking, generally known as the Great Assault."
 msgstr ""
 
-#: 614_cryo.dialog:95
+#: 614_cryo.dialog:102
 msgid ""
 "Even though discontinued from Nicholson, Inc. long ago, today, some people "
 "have picked up the work and are even trying to improve the operating system "
 "running on my series."
 msgstr ""
 
-#: 614_cryo.dialog:96
+#: 614_cryo.dialog:103
 msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
 msgstr ""
 
-#: 614_cryo.dialog:101
+#: 614_cryo.dialog:108
 msgid "See you later."
 msgstr ""
 
-#: 614_cryo.dialog:103
+#: 614_cryo.dialog:110
 msgid "Resuming guard program."
 msgstr ""

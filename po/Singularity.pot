@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
+"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ./Singularity.dialog:40
+msgid "I must have the toolbox."
+msgstr ""
+
+#: ./Singularity.dialog:42
+msgid "If you choose to be our enemy, so be it."
+msgstr ""
+
+#: ./Singularity.dialog:45
+#: ./Singularity.dialog:57
+msgid "The yellow toolkit"
+msgstr ""
+
+#: ./Singularity.dialog:45
+msgid ""
+"The bots in the tunnels refused to give me the toolkit. I will seize it from t"
+"hem by force."
+msgstr ""
+
+#: ./Singularity.dialog:51
+msgid "I need your help."
+msgstr ""
+
+#: ./Singularity.dialog:53
+msgid "We shall help you in repelling the other bots."
+msgstr ""
+
+#: ./Singularity.dialog:57
+msgid ""
+"The bots in the tunnels refused to give me the toolkit, but I managed to enlis"
+"t their aid against the other bots."
+msgstr ""
+

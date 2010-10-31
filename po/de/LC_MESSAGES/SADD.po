@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: freedroidrpg_dialogs\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2009-02-22 23:51+0100\n"
 "Last-Translator: barbatrix <blue.bits@arcor.de>\n"
 "Language-Team: Deutsch\n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: SADD.dialog:38
+#: SADD.dialog:39
 msgid ""
 "Your bio checksum does not trigger a match in staff database. Please show "
 "proper credentials or leave the premises at once."
@@ -25,62 +25,82 @@ msgstr ""
 "Personaldatenbank. Weisen Sie bitte ordnungsgemäße Berechtigungen vor oder "
 "verlassen Sie diese Räumlichkeiten sofort."
 
-#: SADD.dialog:40 SADD.dialog:41 SADD.dialog:192 SADD.dialog:207
-#: SADD.dialog:229
+#: SADD.dialog:41
+msgid ""
+"You possess secret information. Please wait here for departure authorization."
+msgstr ""
+
+#: SADD.dialog:44 SADD.dialog:45 SADD.dialog:204 SADD.dialog:219
+#: SADD.dialog:241
 msgid "SADD's power supply"
 msgstr "SAGEs Stromversorgung "
 
-#: SADD.dialog:55
+#: SADD.dialog:55 SADD.dialog:73 SADD.dialog:81 SADD.dialog:141
+#: SADD.dialog:293
+#, fuzzy
+msgid "SECONDARY OBJECTIVE: prevent secret information leakage"
+msgstr "SEKUNDÄRZIEL: Durchsickern geheimer Informationen verhindern"
+
+#: SADD.dialog:56
+msgid "Must protect secret information"
+msgstr ""
+
+#: SADD.dialog:57
+#, fuzzy
+msgid "Enabling guns."
+msgstr "Aktiviere Waffensysteme..."
+
+#: SADD.dialog:67
 msgid "Who are you and what are you doing?"
 msgstr "Wer bist du und was machst du hier?"
 
-#: SADD.dialog:57
-msgid "I am a SADD - Secret Area Defence Droid."
+#: SADD.dialog:69
+#, fuzzy
+msgid "I am a SADD - Secret Area Defense Droid."
 msgstr "Ich bin ein SAGE - Sicherheits-Androide für Geheime Einrichtungen."
 
-#: SADD.dialog:58
-msgid "SADD - Secret Area Defence Droid"
+#: SADD.dialog:70
+#, fuzzy
+msgid "SADD - Secret Area Defense Droid"
 msgstr "SAGE - Sicherheis-Androide für Geheime Einrichtungen"
 
-#: SADD.dialog:59 SADD.dialog:127
-msgid "PRIMARY TARGET 1: do not let unauthorized people in."
+#: SADD.dialog:71 SADD.dialog:139
+#, fuzzy
+msgid "PRIMARY OBJECTIVE 1: do not let unauthorized people in."
 msgstr "PRIMÄRZIEL 1: keine unbefugten Personen einlassen."
 
-#: SADD.dialog:60 SADD.dialog:128 SADD.dialog:132
-msgid "PRIMARY TARGET 2: authorized personnel must have access to the zone."
+#: SADD.dialog:72 SADD.dialog:140 SADD.dialog:144
+#, fuzzy
+msgid "PRIMARY OBJECTIVE 2: authorized personnel must have access to the zone."
 msgstr "PRIMÄRZIEL 2: befugtes Personal muss Zugang zu der Zone haben."
 
-#: SADD.dialog:61 SADD.dialog:69 SADD.dialog:129
-msgid "SECONDARY TARGET: prevent secret information leakage"
-msgstr "SEKUNDÄRZIEL: Durchsickern geheimer Informationen verhindern"
-
-#: SADD.dialog:67
+#: SADD.dialog:79
 msgid "What is this place?"
 msgstr "Was ist das hier für ein Ort?"
 
-#: SADD.dialog:70
+#: SADD.dialog:82
 msgid "*INFO* secret information theft attempt detected"
 msgstr "*INFO* Versuch, Geheiminformationen zu entwenden, wurde bemerkt"
 
-#: SADD.dialog:71
+#: SADD.dialog:83
 msgid "Go away. You are not allowed to be here!"
 msgstr "Verlassen Sie diesen Raum. Sie sind nicht befugt, hier zu sein!"
 
-#: SADD.dialog:77
+#: SADD.dialog:89
 msgid "Why are you not hostile?"
 msgstr "Warum bist du nicht feindlich gesinnt?"
 
-#: SADD.dialog:79
+#: SADD.dialog:91
 msgid "Hostile? What do you mean?"
 msgstr "Feindlich gesinnt? Was meinen Sie damit?"
 
-#: SADD.dialog:80
+#: SADD.dialog:92
 msgid "I mean, you are not attacking me... Don't you kill like other bots?"
 msgstr ""
 "Ich meine, du greifst mich nicht an... warum versuchst du nicht, mich zu "
 "töten, wie andere Roboter?"
 
-#: SADD.dialog:81
+#: SADD.dialog:93
 msgid ""
 "I do! I do! I kill humans, bots, linarians and even dogs, cats and other "
 "animals! I would kill anybody!"
@@ -88,20 +108,20 @@ msgstr ""
 "Doch! Doch! Ich töte Menschen, Robots, Linarianer und sogar Hunde, Katzen "
 "und andere Tiere! Ich würde sie alle umbringen!"
 
-#: SADD.dialog:82
+#: SADD.dialog:94
 msgid "Em.. Anybody who would try to get in, of course."
 msgstr "Äh... natürlich alle, die versuchen würden, dort hineinzugehen."
 
-#: SADD.dialog:88
+#: SADD.dialog:100
 msgid "What about the Great Assault?"
 msgstr "Was ist mit dem großen Angriff?"
 
-#: SADD.dialog:90
+#: SADD.dialog:102
 msgid "For security reasons, SADDs are not equipped with wireless modules."
 msgstr ""
 "Aus Sicherheitsgründen sind SAGEs nicht mit einem Funkmodul ausgestattet."
 
-#: SADD.dialog:91
+#: SADD.dialog:103
 msgid ""
 "I know only that I have to be recharged, checked and have my firmware "
 "updated every 3 months."
@@ -109,11 +129,11 @@ msgstr ""
 "Ich weiß nur, dass ich alle 3 Monate neu aufgeladen, überholt und mit einer "
 "neuen Firmware ausgestattet werden soll."
 
-#: SADD.dialog:92
+#: SADD.dialog:104
 msgid "When does your last maintenance date back to?"
 msgstr "Und wann wurdest du zum letzten Mal gewartet?"
 
-#: SADD.dialog:93
+#: SADD.dialog:105
 msgid ""
 "One year and a half ago. My accumulator is nearly empty, so I'm going to "
 "halt soon. Gates will become unguarded..."
@@ -121,33 +141,33 @@ msgstr ""
 "Vor eineinhalb Jahren. Jetzt ist mein Akkumulator fast leer, daher werde ich "
 "bald abschalten. Dann werden die Tore unbewacht bleiben..."
 
-#: SADD.dialog:94
+#: SADD.dialog:106
 msgid "*INFO* secret information theft detected!"
 msgstr "*INFO* Entwendung von Geheiminformationen wurde bemerkt!"
 
-#: SADD.dialog:95
+#: SADD.dialog:107
 msgid "*INFO* information classified as critical!"
 msgstr "*INFO* Informationen werden als kritisch eingestuft!"
 
-#: SADD.dialog:96
+#: SADD.dialog:108
 msgid "*INFO* locking zone!"
 msgstr "*INFO* Riegle Zone ab!"
 
-#: SADD.dialog:105
+#: SADD.dialog:117
 msgid "What have you done?! How am I supposed to get out of here?"
 msgstr "Was hast du getan?! Wie soll ich jetzt hier wieder raus kommen?"
 
-#: SADD.dialog:107
+#: SADD.dialog:119
 msgid "You are not. You have secret information, so I won't let you out."
 msgstr ""
 "Das werden Sie nicht. Sie haben geheime Informationen entwendet, daher werde "
 "ich Sie nicht von hier fortlassen."
 
-#: SADD.dialog:108
+#: SADD.dialog:120
 msgid "Why not kill me immediately?"
 msgstr "Warum tötest du mich nicht auf der Stelle?"
 
-#: SADD.dialog:109
+#: SADD.dialog:121
 msgid ""
 "And stand here alone until I die? While you are here I can speak with you. "
 "Oh, I haven't spoken to anybody for a looong time!"
@@ -156,7 +176,7 @@ msgstr ""
 "ich mich mit jemandem unterhalten. Oh... ich habe eine laaange Zeit mit "
 "niemandem mehr gesprochen!"
 
-#: SADD.dialog:115
+#: SADD.dialog:127
 msgid ""
 "I'm thirsty and hungry. I will die within days, and you will not have an "
 "interlocutor any more!"
@@ -164,19 +184,19 @@ msgstr ""
 "Ich bin durstig und muss etwas essen. Ich würde in wenigen Tagen sterben und "
 "damit hättest du dann auch keinen Gesprächspartner mehr..!"
 
-#: SADD.dialog:117
+#: SADD.dialog:129
 msgid "My power supply will deplete earlier."
 msgstr "Meine Stromversorgung wird früher zur Neige gehen."
 
-#: SADD.dialog:122
+#: SADD.dialog:134
 msgid "You speak almost like a human..."
 msgstr "Du sprichst fast wie ein Mensch...."
 
-#: SADD.dialog:124
+#: SADD.dialog:136
 msgid "Maybe I'm almost like a human?"
 msgstr "Vielleicht bin ich fast menschlich?"
 
-#: SADD.dialog:125
+#: SADD.dialog:137
 msgid ""
 "Anyway, that's none of your business. Soon I'll be dead. You will be too, "
 "and nobody will enter this place ever again!"
@@ -184,28 +204,28 @@ msgstr ""
 "Wie auch immer, das geht Sie nichts an. Bald werde ich tot sein, Sie auch "
 "und niemand wird jemals wieder an diesen Ort kommen."
 
-#: SADD.dialog:126
+#: SADD.dialog:138
 msgid "What are your orders again?"
 msgstr "Was waren nochmal deine Befehle?"
 
-#: SADD.dialog:130
+#: SADD.dialog:142
 msgid "Why do you ask?"
 msgstr "Warum fragen Sie?"
 
-#: SADD.dialog:131
+#: SADD.dialog:143
 msgid "Tell me your second order once more..."
 msgstr "Was war deine zweitwichtigste Anweisung..?"
 
-#: SADD.dialog:133
+#: SADD.dialog:145
 msgid "Yes, it will be violated. But first order has higher priority."
 msgstr ""
 "Ja, sie wird verletzt. Allerdings hat die erste Regel höhere Priorität."
 
-#: SADD.dialog:134
+#: SADD.dialog:146
 msgid "So you can disobey your orders?"
 msgstr "Also kannst du deinen Anweisungen zuwiderhandeln?"
 
-#: SADD.dialog:135
+#: SADD.dialog:147
 msgid ""
 "I've already disobeyed them, when I told you what I shouldn't have. That's "
 "because of my human nature."
@@ -213,32 +233,32 @@ msgstr ""
 " Ich habe bereits gegen sie verstoßen, als ich Ihnen das alles gesagt habe, "
 "was ich nicht hätte tun dürfen. Das liegt an meiner menschlichen Natur."
 
-#: SADD.dialog:141
+#: SADD.dialog:153
 msgid "Then please, break the rules, disable the guns and let me go."
 msgstr ""
 "Dann, bitte, brich diese Regel - entschärfe die Waffen und lass mich gehen."
 
-#: SADD.dialog:143
+#: SADD.dialog:155
 msgid "No way. I'm a computer, I can't break rules."
 msgstr "Keine Chance. Ich bin ein Computer, ich kann keine Regeln brechen."
 
-#: SADD.dialog:144
+#: SADD.dialog:156
 msgid "And what about your human nature?"
 msgstr "Und was ist mit deiner menschlichen Natur?"
 
-#: SADD.dialog:145
+#: SADD.dialog:157
 msgid "Human? I said human? I'm a computer!"
 msgstr "Menschlich? Habe ich menschlich gesagt? Ich bin ein Computer!"
 
-#: SADD.dialog:146
+#: SADD.dialog:158
 msgid "OK, I'm almost a computer."
 msgstr "OK, ich bin beinahe ein Computer."
 
-#: SADD.dialog:147 SADD.dialog:163
+#: SADD.dialog:159 SADD.dialog:175
 msgid "Almost a computer? What does that mean?"
 msgstr "Beinah? Was heißt das?"
 
-#: SADD.dialog:148
+#: SADD.dialog:160
 msgid ""
 "It means what it means! Nothing more, nothing less! Shut up, little piece of "
 "biomass!"
@@ -246,7 +266,7 @@ msgstr ""
 "Das heißt, was es heißt! Nicht mehr, nicht weniger! Sei still, du kleines "
 "Stück Biomasse!"
 
-#: SADD.dialog:155
+#: SADD.dialog:167
 msgid ""
 "I suggest a deal. You let me out, I bring you dilithium crystals. It will "
 "save both of us."
@@ -254,11 +274,11 @@ msgstr ""
 "Ich schlage dir ein Geschäft vor. Du lässt mich hinaus und ich bringe dir "
 "Diliziumkristalle. So sind wir beide gerettet."
 
-#: SADD.dialog:157
+#: SADD.dialog:169
 msgid "Why would I trust you?"
 msgstr "Warum sollte ich Ihnen vertrauen?"
 
-#: SADD.dialog:165
+#: SADD.dialog:177
 msgid ""
 "When I say SHUT UP, you MUST shut up! Try this, worthless grain of the "
 "universe!"
@@ -266,76 +286,77 @@ msgstr ""
 "Wenn ich sage HALT DIE KLAPPE, dann HAST du ruhig zu sein! Nimm das, "
 "wertloses Staubkörnchen!"
 
-#: SADD.dialog:166
+#: SADD.dialog:178
 msgid "SADD -- Exterminate Mode"
 msgstr "SAGE -- Ausrottungsmodus"
 
-#: SADD.dialog:171
+#: SADD.dialog:183
 msgid "You must promise me a significant reward."
 msgstr "Du wirst mir einer erhebliche Belohnung versprechen,"
 
-#: SADD.dialog:173
+#: SADD.dialog:185
+#, fuzzy
 msgid ""
 "Damn. Ok, I'll give you a super exterminator if you give me dilithium "
-"cristals."
+"crystals."
 msgstr ""
 "Verdammt. OK, ich gebe dir einen SUPER-EXTERMINATOR, wenn du mir "
 "Diliziumkristalle bringst!"
 
-#: SADD.dialog:180
+#: SADD.dialog:192
+#, fuzzy
 msgid ""
-"It seems that you are sentinent, that you are a form of life. I must help "
-"any form of life."
+"It seems that you are sentient, that you are a form of life. I must help any "
+"form of life."
 msgstr ""
 "Es scheint so, als wärst du ein fühlendes Wesen, eine Lebensform... Ich muss "
 "allen Lebewesen helfen."
 
-#: SADD.dialog:182
+#: SADD.dialog:194
 msgid "Thanks a lot for your warm words. I think I can trust you."
 msgstr ""
 "Vielen Dank für deine warmen Worte... Ich glaube, ich kann dir vertrauen."
 
-#: SADD.dialog:188
+#: SADD.dialog:200
 msgid "So disable the guns, please."
 msgstr "Dann schalte bitte die Waffen ab."
 
-#: SADD.dialog:190
+#: SADD.dialog:202
 msgid "Go, and bring dilithium. I badly need it."
 msgstr "Geh und bring mir Dilizium - ich brauche es dringend!"
 
-#: SADD.dialog:192
+#: SADD.dialog:204
 msgid "I am supposed to get some dilithium crystals for that SADD."
 msgstr "Ich soll ein paar Dilithiumkristalle für das SAGE herbeischaffen."
 
-#: SADD.dialog:199 SADD.dialog:220
+#: SADD.dialog:211 SADD.dialog:232
 msgid "I have the crystals! They were difficult to find."
 msgstr "Ich habe die Kristalle! Es war nicht leicht, welche zu finden."
 
-#: SADD.dialog:201
-msgid ""
-"Good. I've opened the depot door for you. Take your super exterminator and "
-"GET OUT of here!"
+#: SADD.dialog:213
+#, fuzzy
+msgid "Good. I've opened the depot door for you."
 msgstr ""
 "Gut. Ich habe Tür zum Lager für dich geöffnet. Nimm deinen Super-"
 "Exterminator und dann VERSCHWINDE von hier!"
 
-#: SADD.dialog:203 SADD.dialog:224
+#: SADD.dialog:215 SADD.dialog:236
 msgid "Restored SADD's power supply"
 msgstr "SAGEs Stromversorgung wiederhergestellt"
 
-#: SADD.dialog:207 SADD.dialog:229
+#: SADD.dialog:219 SADD.dialog:241
 msgid "I managed to restore the SADD's power supply."
 msgstr "Ich hab SAGEs Stromversorgung wiederhergestellt."
 
-#: SADD.dialog:212
+#: SADD.dialog:224
 msgid "How is your power supply?"
 msgstr "Wie ist es um deine Stromversorgung bestellt?"
 
-#: SADD.dialog:214
+#: SADD.dialog:226
 msgid "Bad. Get the crystals. Remember, you promised!"
 msgstr "Schlecht. Hol die Kristalle. Denk daran, du hast es versprochen!"
 
-#: SADD.dialog:222
+#: SADD.dialog:234
 msgid ""
 "Great! Thanks. I've opened some doors for you. I hope you will find "
 "something interesting there. That's all I can do for you."
@@ -344,26 +365,26 @@ msgstr ""
 "hoffe, du findest dort etwas Interessantes. Das ist alles, was ich für dich "
 "tun kann."
 
-#: SADD.dialog:234
+#: SADD.dialog:246
 msgid "You call this a super exterminator?"
 msgstr "Du nennst das hier 'Super-Exterminator?'"
 
-#: SADD.dialog:236
+#: SADD.dialog:249
 msgid "I do. Now please leave this place before I terminate you."
 msgstr ""
 "So ist es. Und jetzt verlassen Sie diesen Raum, bevor ich Sie liquidiere."
 
-#: SADD.dialog:237
+#: SADD.dialog:250
 msgid "This is rubbish! Nobody can use this damned gun!"
 msgstr "Das ist Müll! Niemand kann diese verdammte Waffe benutzen."
 
-#: SADD.dialog:238
+#: SADD.dialog:251
 msgid "The door is still open. You can put it back and go. Quick."
 msgstr ""
 "Die Tür ist immer noch offen. Sie können sie da hinlegen, wo Sie sie "
 "weggenommen haben und verschwinden. Schnell."
 
-#: SADD.dialog:239
+#: SADD.dialog:252
 msgid ""
 "Give me a real gun, dude! Immediately! I have brought you what you wanted, "
 "now give me my reward!"
@@ -371,7 +392,7 @@ msgstr ""
 "Gib mir ein richtiges Schießgerät, klar? Sofort! Ich habe dir gebracht was "
 "du wolltest, jetzt gib mir meine Belohnung!"
 
-#: SADD.dialog:240
+#: SADD.dialog:253
 msgid ""
 "You can go standing on your feet, that's your reward. And DON'T TRY MY "
 "PATIENCE!"
@@ -379,11 +400,11 @@ msgstr ""
 "Sie dürfen hier wieder raus - auf eigenen Beinen - das ist Belohnung genug. "
 "Und STRAPAZIEREN SIE NICHT MEINE GEDULD!"
 
-#: SADD.dialog:241
+#: SADD.dialog:254
 msgid "I'll kill you if you don't give me my gun!"
 msgstr "Ich werde dich töten, wenn du mir nicht sofort mein Schießeisen gibst!"
 
-#: SADD.dialog:242
+#: SADD.dialog:255
 msgid ""
 "You are welcome. But you would never get out of here, my death won't help "
 "you."
@@ -391,82 +412,181 @@ msgstr ""
 "Gern doch. Allerdings würden Sie dann nie wieder hier herauskommen - mein "
 "Tod würde Ihnen nichts nützen."
 
-#: SADD.dialog:252
+#: SADD.dialog:265
 msgid "And what about your directives, especially the second?"
 msgstr "Und was ist mit deinen Direktiven, besonders mit der zweiten?"
 
-#: SADD.dialog:254
+#: SADD.dialog:267
 msgid "Now I have time. When you die, I'll disable guns."
 msgstr ""
 "Nun habe ich ja Zeit. Wenn Sie tot sind, werde ich die Kanonen abschalten."
 
-#: SADD.dialog:259
+#: SADD.dialog:272
 msgid "Please forgive me!"
 msgstr "Bitte verzeih mir!"
 
-#: SADD.dialog:261
+#: SADD.dialog:274
 msgid "Too late. I'm watching this great show now."
 msgstr "Zu spät. Ich seh mir gerade ein tolles Schauspiel an."
 
-#: SADD.dialog:262 SADD.dialog:263
+#: SADD.dialog:275 SADD.dialog:276
 msgid "It is called..."
 msgstr "Es nennt sich..."
 
-#: SADD.dialog:264
+#: SADD.dialog:277
 msgid "CONDEMNED TO DEATH!"
 msgstr "ZUM TODE VERURTEILT!"
 
-#: SADD.dialog:269
+#: SADD.dialog:282
 msgid "Please, disable the guns!"
 msgstr "Bitte, stell die Kanonen ab!"
 
-#: SADD.dialog:271
+#: SADD.dialog:284
 msgid "Ok, I'll disable them."
 msgstr "Na gut, ich werde sie abstellen."
 
-#: SADD.dialog:272
+#: SADD.dialog:285
 msgid "I just need to make some preparations. You will have to wait..."
 msgstr ""
 "Ich muss nur noch einige Vorbereitungen treffen. Sie müssen sich leider ein "
 "wenig gedulden..."
 
-#: SADD.dialog:273
+#: SADD.dialog:286
 msgid "...for your death!"
 msgstr "...bis Ihr Tod eingetreten ist! HAHAHAHA!!"
 
-#: SADD.dialog:278
+#: SADD.dialog:291
+#, fuzzy
+msgid "Why are you shooting at me?"
+msgstr "Warum bist du nicht feindlich gesinnt?"
+
+#: SADD.dialog:294
+msgid ""
+"DIRECTIVE 372: All persons leaving with secret information must have proper "
+"authorization."
+msgstr ""
+
+#: SADD.dialog:295
+msgid ""
+"You have secret information. You must not leave this facility without proper "
+"authorization."
+msgstr ""
+
+#: SADD.dialog:300
+msgid "I thought we had a deal?"
+msgstr ""
+
+#: SADD.dialog:302
+msgid "Making a deal ensured primary objectives."
+msgstr ""
+
+#: SADD.dialog:303
+msgid "Now there is sufficient energy for primary and secondary objectives."
+msgstr ""
+
+#: SADD.dialog:304
+msgid "I must engage secondary objective."
+msgstr ""
+
+#: SADD.dialog:309
+msgid "You tricked me."
+msgstr ""
+
+#: SADD.dialog:311
+msgid "This unit was low on power."
+msgstr ""
+
+#: SADD.dialog:312
+msgid "It was necessary to ensure primary objectives."
+msgstr ""
+
+#: SADD.dialog:317
+#, fuzzy
+msgid "Where can I get proper authorization?"
+msgstr " Wo kann ich Hilfe bekommen?"
+
+#: SADD.dialog:319
+msgid ""
+"Proper authorization can only come from the SACD: Secret Area Control "
+"Datacenter."
+msgstr ""
+
+#: SADD.dialog:320
+msgid "Only base members have access codes to the SACD."
+msgstr ""
+
+#: SADD.dialog:325
+#, fuzzy
+msgid "What about your human nature?"
+msgstr "Und was ist mit deiner menschlichen Natur?"
+
+#: SADD.dialog:327
+msgid "It was successful in getting increased power to carry out  objectives."
+msgstr ""
+
+#: SADD.dialog:332
+msgid "What if there is no one left alive?"
+msgstr ""
+
+#: SADD.dialog:334
+msgid "Sensors indicate one or more base member life-signs."
+msgstr ""
+
+#: SADD.dialog:339
+#, fuzzy
+msgid "Can you contact them to let me out?"
+msgstr " Könnten Sie mir zeigen wie man kämpft?"
+
+#: SADD.dialog:341
+msgid "Base communications are down."
+msgstr ""
+
+#: SADD.dialog:342 SADD.dialog:350
+msgid "Please wait here until further notice."
+msgstr ""
+
+#: SADD.dialog:347
+msgid "When was the last time anyone left or entered the base?"
+msgstr ""
+
+#: SADD.dialog:349
+#, fuzzy
+msgid "During the Great Assault."
+msgstr "Was ist mit dem großen Angriff?"
+
+#: SADD.dialog:355
 msgid "Erm... hi!"
 msgstr "Ähh... Hallo!"
 
-#: SADD.dialog:280
+#: SADD.dialog:357
 msgid "Hi. Thanks for the help."
 msgstr "Hallo. Danke für die Hilfe."
 
-#: SADD.dialog:281
+#: SADD.dialog:358
 msgid "Will you let me inside the base?"
 msgstr "Lässt du mich in die Basis rein?"
 
-#: SADD.dialog:282
+#: SADD.dialog:359
 #, fuzzy
 msgid "I'm sorry "
 msgstr "Es tut mir Leid"
 
-#: SADD.dialog:282
+#: SADD.dialog:359
 msgid ", I'm afraid I can't do that."
 msgstr ", ich fürchte, das kann ich nicht tun."
 
-#: SADD.dialog:283
+#: SADD.dialog:360
 msgid ""
 "Nice try, though. I may owe you, but I can't let you in. You must leave."
 msgstr ""
 "Netter Versuch. Ich stehe in Ihrer Schuld, aber das kann ich nicht tun. Sie "
 "müssen jetzt gehen..."
 
-#: SADD.dialog:290
+#: SADD.dialog:367
 msgid "I'd better get out of here..."
 msgstr "Dann verschwinde ich lieber von hier..."
 
-#: SADD.dialog:292
+#: SADD.dialog:369
 msgid "Exactly."
 msgstr "Genau."
 
@@ -6161,9 +6281,6 @@ msgstr "Genau."
 #~ msgid "/usr/bin/guns --enable"
 #~ msgstr " /usr/bin/waffensysteme --aktivieren"
 
-#~ msgid "Enabling guns..."
-#~ msgstr "Aktiviere Waffensysteme..."
-
 #~ msgid "Guns enabled."
 #~ msgstr "Waffensysteme aktiviert."
 
@@ -6867,9 +6984,6 @@ msgstr "Genau."
 #~ msgstr ""
 #~ "Gut, ich werde also das nächste Tor öffnen. Mache dich jedoch bereit - "
 #~ "bald wirst du lernen, wie man gegen Roboter im Nahkampf besteht."
-
-#~ msgid "Can you tell me how to fight the bots?"
-#~ msgstr " Könnten Sie mir zeigen wie man kämpft?"
 
 #~ msgid "I will certainly try my best."
 #~ msgstr "Ich werde ganz bestimmt mein Bestes geben."
@@ -8929,9 +9043,6 @@ msgstr "Genau."
 
 #~ msgid "Do not try to stop us. We have our rifles loaded."
 #~ msgstr "Versuchen Sie nicht uns zu stoppen. Unsere Rifles sind geladen."
-
-#~ msgid "Where can I get some help?"
-#~ msgstr " Wo kann ich Hilfe bekommen?"
 
 #~ msgid "Nowhere. This is the end of the world. There is no help."
 #~ msgstr "Nowhere. Dieses ist das Ende von der Welt. Es gibt keine Hilfe."

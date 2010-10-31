@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CHANGE THIS\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-04-24 11:46+0000\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -60,7 +60,11 @@ msgid "Currently deployed firmware is v. 5.0.8+worldto-nogpl."
 msgstr ""
 
 #: HF-FirmwareUpdateServer.dialog:70
-msgid "Currently deployed firmware is v. 5.0.8+tuxwashere+gpl"
+msgid "Currently deployed firmware is v. 5.0.8+"
+msgstr ""
+
+#: HF-FirmwareUpdateServer.dialog:70
+msgid "washere+gpl"
 msgstr ""
 
 #: HF-FirmwareUpdateServer.dialog:76

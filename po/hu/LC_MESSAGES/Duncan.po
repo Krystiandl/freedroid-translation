@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"POT-Creation-Date: 2010-10-31 08:30+0000\n"
 "PO-Revision-Date: 2010-07-05 15:49+0100\n"
 "Last-Translator: Siliana <tuxxy@freemail.hu>\n"
 "Language-Team: none\n"
@@ -20,7 +20,7 @@ msgstr "Üdv... Öööö... Ki vagy te?"
 msgid "Duncan McNamara, The Red Guard's resident bomb maker, at your service."
 msgstr "Duncan McNamara, a Vörös Őrség állandó bombakészítője, szolgálatodra."
 
-#: Duncan.dialog:56 Duncan.dialog:261
+#: Duncan.dialog:56 Duncan.dialog:263
 msgid "Duncan -- Bombmaker"
 msgstr "Duncan -- Bombagyártó"
 
@@ -36,23 +36,23 @@ msgstr "Igen, biztos vagyok benne, hogy meg tudunk egyezni. Ime a választék."
 msgid "Sure. These are my offers today."
 msgstr "Persze. Ez a mai ajánlatom."
 
-#: Duncan.dialog:69
+#: Duncan.dialog:71
 msgid "I see only grenades. Do you have something bigger?"
 msgstr "Csak gránátokat látok. Van valamid, ami nagyobb?"
 
-#: Duncan.dialog:71
+#: Duncan.dialog:73
 msgid "My deepest apologies, I do not."
 msgstr "Mélységes sajnálattal, de nincs."
 
-#: Duncan.dialog:72
+#: Duncan.dialog:74
 msgid "The Red Guard prohibits the sales of extremely destructive munitions."
 msgstr "A vörös Őrség korlátozza az extrém robbanószerek kereskedelmét."
 
-#: Duncan.dialog:73
+#: Duncan.dialog:75
 msgid "It is not yet the time for the fall of their rule, so I remain loyal."
 msgstr "Még nincs itt az ideje, hogy elbukjanak, tehát maradj lojális."
 
-#: Duncan.dialog:78
+#: Duncan.dialog:80
 msgid ""
 "The fall of the Red Guard? I am going to report that you are preparing a "
 "revolution!"
@@ -60,28 +60,28 @@ msgstr ""
 "A Vörös Őrség bukásáról beszélsz? Jelenteni fogom, hogy forradalomra "
 "készülsz."
 
-#: Duncan.dialog:80
+#: Duncan.dialog:82
 msgid "My word against yours. If you wish to try it, please, be my guest."
 msgstr ""
 "A te szavad áll szemben az enyémmel. Ha próbát akarsz tenni, ám legyen."
 
-#: Duncan.dialog:81
+#: Duncan.dialog:83
 msgid ""
 "I am not preparing anything. I am just stating what I see as inevitable in "
 "the future."
 msgstr "Nem készülök semmire. Csak megállapítottam, mi várható a jövőben."
 
-#: Duncan.dialog:82
+#: Duncan.dialog:84
 msgid ""
 "I have taken part in many conflicts and I have seen how governments collapse."
 msgstr ""
 "Sok konfliktusban volt már részem, és láttam már kormányokat összeomlani."
 
-#: Duncan.dialog:83
+#: Duncan.dialog:85
 msgid "As soon as the war is over, the Red Guard will disband."
 msgstr "Ahogy a háború véget ér, a Vörös Őrség fel fog oszlani."
 
-#: Duncan.dialog:84
+#: Duncan.dialog:86
 msgid ""
 "Of course, I am making the assumption of victory, which is highly unlikely "
 "with the current state of affairs."
@@ -89,11 +89,11 @@ msgstr ""
 "Természetesen tudom, hogy a jelenlegi állapotban a győzelem csak "
 "feltételezés, és elég valószínűtlen."
 
-#: Duncan.dialog:89
+#: Duncan.dialog:91
 msgid "The fall of the Red Guard? Tell me more about it."
 msgstr "A Vörös Őrség bukása? Beszélj még erről."
 
-#: Duncan.dialog:91
+#: Duncan.dialog:93
 msgid ""
 "It is not the time to speak of such things yet. Come another day, and we "
 "shall talk about it in more detail."
@@ -101,7 +101,7 @@ msgstr ""
 "Még nincs itt az ideje erről beszélni. Gyere pár nappal később, és "
 "beszélhetünk róla részletesebben."
 
-#: Duncan.dialog:92
+#: Duncan.dialog:94
 msgid ""
 "The Red Guard can have their great laser beams and plasma cannons... But "
 "nothing can save them."
@@ -109,93 +109,93 @@ msgstr ""
 "A Vörös Őrségnek nagyszerű lézerei és plazmaágyúi vannak... Ám semmi nem "
 "mentheti meg őket."
 
-#: Duncan.dialog:97
+#: Duncan.dialog:99
 msgid "I want to buy some grenades."
 msgstr "Vásárolnék pár gránátot."
 
-#: Duncan.dialog:99
+#: Duncan.dialog:101
 msgid "Certainly."
 msgstr "Rendben."
 
-#: Duncan.dialog:99
+#: Duncan.dialog:101
 msgid "Sure."
 msgstr "Persze."
 
-#: Duncan.dialog:99
+#: Duncan.dialog:101
 msgid "With pleasure I am showing you my offers."
 msgstr "Boldogan mutatom meg az ajánlataimat."
 
-#: Duncan.dialog:104
+#: Duncan.dialog:106
 msgid "What kind of grenade is the best?"
 msgstr "Melyik a legjobb gránát?"
 
-#: Duncan.dialog:106
+#: Duncan.dialog:108
 msgid "You get what you pay for."
 msgstr "Azt kapod, amiért fizetsz."
 
-#: Duncan.dialog:111
+#: Duncan.dialog:113
 msgid "How did you get into making explosives?"
 msgstr "Hogyan jutottál a bombagyártásig?"
 
-#: Duncan.dialog:113
+#: Duncan.dialog:115
 msgid "Twenty years ago there was a conflict."
 msgstr "Húsz évvel ezelőtt volt egy konfliktus."
 
-#: Duncan.dialog:114
+#: Duncan.dialog:116
 msgid "A grenade I threw destroyed a being which killed many of... my people."
 msgstr ""
 "Egy általam eldobott gránát elpusztította a lényt, ami több emberemet "
 "megölte."
 
-#: Duncan.dialog:115
+#: Duncan.dialog:117
 msgid "Now I make more to smash the destroyers."
 msgstr "Most még több gránátot készítek, hogy elpusztíthassam őket."
 
-#: Duncan.dialog:123
+#: Duncan.dialog:125
 msgid "Ah. Welcome again Linarian."
 msgstr "Á, üdv újra, Lináriai."
 
-#: Duncan.dialog:124
+#: Duncan.dialog:126
 msgid "I have a little request for you."
 msgstr "Lenne egy kérésem feléd."
 
-#: Duncan.dialog:125
+#: Duncan.dialog:127
 msgid "I know someone who needs to be taught a lesson."
 msgstr "Ismerek valakit, akit meg kellene leckéztetni."
 
-#: Duncan.dialog:126
+#: Duncan.dialog:128
 msgid "Interested?"
 msgstr "Érdekel?"
 
-#: Duncan.dialog:131
+#: Duncan.dialog:133
 msgid "Tell me more."
 msgstr "Fejtsd ki bővebben."
 
-#: Duncan.dialog:133
+#: Duncan.dialog:135
 msgid "Ah, excellent."
 msgstr "Ó, nagyszerű."
 
-#: Duncan.dialog:134
+#: Duncan.dialog:136
 msgid "A... friend of mine, Koan, stole something of great value to me."
 msgstr "Egy... barátom, Koan ellopott valamit, ami nagyon értékes számomra."
 
-#: Duncan.dialog:135
+#: Duncan.dialog:137
 msgid "He is hiding somewhere in the desert, I don't know exactly where."
 msgstr "Valahol a sivatagban bújkál, de pontosan nem tudom, hol."
 
-#: Duncan.dialog:140
+#: Duncan.dialog:142
 msgid "I will get your property back."
 msgstr "Visszaszerzem a tulajdonodat."
 
-#: Duncan.dialog:142
+#: Duncan.dialog:144
 msgid "Excellent. I am pleased to hear this."
 msgstr "Nagyszerű. Boldog vagyok, hogy ezt hallom."
 
-#: Duncan.dialog:143
+#: Duncan.dialog:145
 msgid "There is something you must know."
 msgstr "Van valami, amit tudnod kell."
 
-#: Duncan.dialog:144
+#: Duncan.dialog:146
 #, fuzzy
 msgid ""
 "There are not too many bots in the desert, but they are invincible. It is "
@@ -204,28 +204,28 @@ msgstr ""
 "Nem sok bot van a sivatagban, de legyőzhetetlenek. Legjobb, ha elkerülöd "
 "őket."
 
-#: Duncan.dialog:145
+#: Duncan.dialog:147
 msgid "I will be waiting here for your return."
 msgstr "Itt várok az érkezésedre."
 
-#: Duncan.dialog:146 Duncan.dialog:188 Duncan.dialog:238 Duncan.dialog:249
+#: Duncan.dialog:148 Duncan.dialog:190 Duncan.dialog:240 Duncan.dialog:251
 #, fuzzy
 msgid "Doing Duncan a favor"
 msgstr "Szívességet tenni Duncannek."
 
-#: Duncan.dialog:146
+#: Duncan.dialog:148
 msgid "Find Koan in the desert."
 msgstr "Megtalálni Koant a sivatagban."
 
-#: Duncan.dialog:147
+#: Duncan.dialog:149
 msgid "That is all I need to know. I will find Koan."
 msgstr "Ennyit elég tudnom. Megtalálom Koant."
 
-#: Duncan.dialog:148
+#: Duncan.dialog:150
 msgid "Only time will tell."
 msgstr "Csak az idő a megmondhatója."
 
-#: Duncan.dialog:149
+#: Duncan.dialog:151
 msgid ""
 "In any case, I'll let the Red Guard know to open the western gate to the "
 "desert."
@@ -233,27 +233,27 @@ msgstr ""
 "Mindenesetre Szólok a Vörös Őrségnek, hogy nyissa ki a nyugati kaput a "
 "sivatag felé."
 
-#: Duncan.dialog:150
+#: Duncan.dialog:152
 msgid "Good luck!"
 msgstr "Sok szerencsét!"
 
-#: Duncan.dialog:156
+#: Duncan.dialog:158
 msgid "What are those bots?"
 msgstr "Milyenek azok a botok?"
 
-#: Duncan.dialog:158
+#: Duncan.dialog:160
 msgid "We call them 'Harvester'."
 msgstr "Fűrésznek hívjuk őket."
 
-#: Duncan.dialog:159
+#: Duncan.dialog:161
 msgid "They were designed to chop down trees in the mountains."
 msgstr "Arra lettek tervezve, hogy fát vágjanak a helyekben."
 
-#: Duncan.dialog:160
+#: Duncan.dialog:162
 msgid "Now they chop down people."
 msgstr "Most embereket vágnak. Le."
 
-#: Duncan.dialog:161
+#: Duncan.dialog:163
 msgid ""
 "Their only weak point is their security system. But no one has managed to "
 "stay alive long enough to hack them."
@@ -261,59 +261,59 @@ msgstr ""
 "Az egyetlen gyenge pontjuk, a biztonsági rendszerük. De senki sem maradt "
 "elég ideig életben, hogy hackelje őket."
 
-#: Duncan.dialog:166
+#: Duncan.dialog:168
 msgid "What is it that he took from you?"
 msgstr "Mi az, amit elvett tőled?"
 
-#: Duncan.dialog:168
+#: Duncan.dialog:170
 msgid "A cube. Trust me, you can't miss it."
 msgstr "Egy kocka. Bizz bennem, fel fogod ismerni."
 
-#: Duncan.dialog:173
+#: Duncan.dialog:175
 msgid "No, I don't find bloodshed a pleasurable activity."
 msgstr "Nem, köszönöm, nem tartom élvezetesnek az embervadászatot."
 
-#: Duncan.dialog:175
+#: Duncan.dialog:177
 msgid "That is fine. I will find someone else."
 msgstr "Rendben. Találok valaki mást."
 
-#: Duncan.dialog:183
+#: Duncan.dialog:185
 msgid "So... Any news on the Koan matter?"
 msgstr "Na.. Valami hír a Koan támában?"
 
-#: Duncan.dialog:186
+#: Duncan.dialog:188
 msgid ""
 "I could not find him anywhere in the desert. I don't think he is there "
 "anymore."
 msgstr "Sehol sem találtam a sivatagban. Nem hiszem, hogy még ott lenne."
 
-#: Duncan.dialog:187
+#: Duncan.dialog:189
 msgid "I see."
 msgstr "Értem."
 
-#: Duncan.dialog:188
+#: Duncan.dialog:190
 msgid "I lied to Duncan about not finding Koan."
 msgstr "Hazudtam Duncannak, hogy nem találtam Koant."
 
-#: Duncan.dialog:198
+#: Duncan.dialog:200
 msgid "Yeah. I got him. I think this is your cube."
 msgstr "Ja, elkaptam. Azt hiszem, ez a te kockád."
 
-#: Duncan.dialog:200
+#: Duncan.dialog:202
 msgid "Yes. I appreciate your help."
 msgstr "Igen. Értékelem a segítséged."
 
-#: Duncan.dialog:206
+#: Duncan.dialog:208
 msgid ""
 "Yeah, I got him. Now, what is this big cube that you had me carry all the "
 "way here?"
 msgstr "Aha, elkaptam. És most mondd el, mi ez a kozka, amit idáig cipeltem?"
 
-#: Duncan.dialog:208
+#: Duncan.dialog:210
 msgid "Just a memento from a friend."
 msgstr "Csak egy emlék egy baráttól."
 
-#: Duncan.dialog:209
+#: Duncan.dialog:211
 msgid ""
 "A little more than a portable end of the world, which I am looking forward "
 "to disassembling and learning its secrets."
@@ -321,16 +321,16 @@ msgstr ""
 "Kicsit több, mint egy hordozható világvége, amit azért kerestem, hogy "
 "szétszereljem, és feltárjam a titkait."
 
-#: Duncan.dialog:210
+#: Duncan.dialog:212
 msgid "Nothing that important."
 msgstr "Semmi különös."
 
-#: Duncan.dialog:215
+#: Duncan.dialog:217
 msgid ""
 "A 'few' bots? The place was crawling with Harvesters! I nearly got killed!"
 msgstr "Néhány bot? Az a hely tele volt Fűrészekkel! Majdnem megöltek!"
 
-#: Duncan.dialog:217
+#: Duncan.dialog:219
 msgid ""
 "There were only one hundred and twenty bots in the entire desert region. "
 "This hardly qualifies as many, considering the size of the area."
@@ -338,7 +338,7 @@ msgstr ""
 "Csak százhúsz bot van a teljes sivatagi régióban. A terület nagyságához "
 "mérten ez csak néhány."
 
-#: Duncan.dialog:218
+#: Duncan.dialog:220
 msgid ""
 "What? You know exactly how many bots were in the desert? Without being "
 "there? I don't like this."
@@ -346,127 +346,127 @@ msgstr ""
 "Micsoda? Te pontosan tudtad, mennyi bot van a sivatagban? Úgy, hogy ott sem "
 "voltál? Ez nem tetszik."
 
-#: Duncan.dialog:219
+#: Duncan.dialog:221
 msgid "I just know a lot of things. You do not need to worry about it."
 msgstr "Tudok pár dolgot. Emiatt nem kell aggódnod."
 
-#: Duncan.dialog:220
+#: Duncan.dialog:222
 msgid "I don't like this at all. I'm getting out of here."
 msgstr "Nem tetszik ez az egész. Elmegyek innen."
 
-#: Duncan.dialog:221
+#: Duncan.dialog:223
 msgid "As you wish."
 msgstr "Ahogy kívánod."
 
-#: Duncan.dialog:227
+#: Duncan.dialog:229
 msgid ""
 "Hey, that is really neat. Here is your cube. Enjoy disassembling it and have "
 "fun with it."
 msgstr ""
 "Hé, ez igazán kedves. Tessék, a kockád. Szedd szét és játssz vele kedvedre."
 
-#: Duncan.dialog:229
+#: Duncan.dialog:231
 msgid "I will."
 msgstr "Azt fogom tenni."
 
-#: Duncan.dialog:235
+#: Duncan.dialog:237
 msgid "WHAT? No way I am giving you a doomsday device! Forget about it."
 msgstr ""
 "MICSODA? Nem fogok a kezedbe adni egy világvégét hozó eszközt. Felejtsd el."
 
-#: Duncan.dialog:237
+#: Duncan.dialog:239
 msgid "I understand. So be it."
 msgstr "Értem. Hát legyen."
 
-#: Duncan.dialog:238
+#: Duncan.dialog:240
 msgid ""
 "No way am I giving Duncan that cube thingie. Who knows what he would do with "
 "it."
 msgstr ""
 "Semmi esetre sem adom Duncannek azt a kocka izét. Ki tudja mire használná."
 
-#: Duncan.dialog:249
+#: Duncan.dialog:251
 msgid "I gave Duncan the cube thingie. It feels nice to help people."
 msgstr "Odaadtam Duncannek azt a kocka izét. Jó érzés segíteni másokon."
 
-#: Duncan.dialog:254
+#: Duncan.dialog:256
 msgid "I feel you are... Different."
 msgstr "Úgy érzem, te.. különböző vagy."
 
-#: Duncan.dialog:256
+#: Duncan.dialog:258
 msgid "What a great way to start a conversation."
 msgstr "Milyen jó módja ez a beszélgetés kezdeményezésnek."
 
-#: Duncan.dialog:257
+#: Duncan.dialog:259
 msgid "Yes, that is true. I am not who I seem to be."
 msgstr "Igen, ez igaz. Nem az vagyok, akinek látszom."
 
-#: Duncan.dialog:258
+#: Duncan.dialog:260
 msgid "But then again, neither are you, so my thoughts are we are even."
 msgstr "Ha te nem is, én úgy érzem, a gondolataink azonosak."
 
-#: Duncan.dialog:259
+#: Duncan.dialog:261
 msgid "What do you mean? I am "
 msgstr "Hogy érted? Én"
 
-#: Duncan.dialog:259
+#: Duncan.dialog:261
 msgid " and not anyone else."
 msgstr " és senki másnak sem."
 
-#: Duncan.dialog:260
+#: Duncan.dialog:262
 msgid "And I am Duncan McNamara, the maker of grenades and nothing else."
 msgstr "Én pedig Duncan Mc Namara, a gránátkészítő, és semmi más."
 
-#: Duncan.dialog:262
+#: Duncan.dialog:264
 msgid "I believe the topic is thoroughly exhausted now."
 msgstr "Úgy érzem, ez a téma már teljesen kimerült."
 
-#: Duncan.dialog:267
+#: Duncan.dialog:269
 msgid "Tell me who you are. I need to know."
 msgstr "Mondd el ki vagy. Tudnom kell."
 
-#: Duncan.dialog:269
+#: Duncan.dialog:271
 msgid "Twenty years ago, the people were kinder to each other."
 msgstr "Húsz évvel ezelőtt az emberek kedvesebbek voltak egymással."
 
-#: Duncan.dialog:270
+#: Duncan.dialog:272
 msgid "I suggest you be kind to me as well, and I will be kind to you."
 msgstr "Javaslom, légy te is kedves velem, és én is az leszek veled."
 
-#: Duncan.dialog:271
+#: Duncan.dialog:273
 msgid "That way I get to keep my secret, and you get to keep yours."
 msgstr ""
 "Ezáltal én megtartom a titkaimat magamnak, és te is megtarthatod a tieidet."
 
-#: Duncan.dialog:276
+#: Duncan.dialog:278
 msgid "I don't have any secrets."
 msgstr "Nincsenek titkaim."
 
-#: Duncan.dialog:278
+#: Duncan.dialog:280
 msgid "And neither do I."
 msgstr "Nekem sincsenek."
 
-#: Duncan.dialog:286 Duncan.dialog:295
+#: Duncan.dialog:288 Duncan.dialog:297
 msgid "I wish you cold winds."
 msgstr "Hűvös szelet kívánok."
 
-#: Duncan.dialog:287
+#: Duncan.dialog:289
 msgid ""
 "Huh? How do you know the Linarian farewell? No one around here knows it."
 msgstr "Mi? Honnan ismered a Lináriai köszönést? Itt ezt senki sem tudja."
 
-#: Duncan.dialog:288
+#: Duncan.dialog:290
 msgid "I read many books on Linarians. That is all."
 msgstr "Sok könyvet olvastam a Lináriaiakról. Ennyi."
 
-#: Duncan.dialog:289
+#: Duncan.dialog:291
 msgid "Nothing more and nothing less."
 msgstr "Se több, se kevesebb."
 
-#: Duncan.dialog:297
+#: Duncan.dialog:299
 msgid "May the ice bring you wisdom."
 msgstr "A jég adjon neked bölcseséget."
 
-#: Duncan.dialog:302 Duncan.dialog:308
+#: Duncan.dialog:304 Duncan.dialog:310
 msgid "See you later."
 msgstr "Később találkozunk."

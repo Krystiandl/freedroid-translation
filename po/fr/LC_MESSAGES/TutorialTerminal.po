@@ -6,15 +6,15 @@ msgstr ""
 msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
 msgstr ""
 
-#: TutorialTerminal.dialog:45 TutorialTerminal.dialog:74
+#: TutorialTerminal.dialog:44 TutorialTerminal.dialog:74
 msgid "Gate status: CLOSED"
 msgstr ""
 
-#: TutorialTerminal.dialog:48 TutorialTerminal.dialog:62
+#: TutorialTerminal.dialog:47 TutorialTerminal.dialog:62
 msgid "Gate status: OPEN"
 msgstr ""
 
-#: TutorialTerminal.dialog:51
+#: TutorialTerminal.dialog:50
 msgid "GAME BUG. PLEASE REPORT."
 msgstr ""
 
