@@ -2,84 +2,84 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-04 18:58+0000\n"
-"Last-Translator: Automatically generated\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"PO-Revision-Date: 2010-11-06 22:33+0800\n"
+"Last-Translator: Pin-hsien Li <pspeter9931@gmail.com>\n"
 "Language-Team: none\n"
-"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
 
 #: HF-GateGuard.dialog:41
 msgid "Hi! I'm new here."
-msgstr ""
+msgstr "嗨！我是新來的。"
 
 #: HF-GateGuard.dialog:43
 msgid "Great. Now back to where you came from. This is no place for you."
-msgstr ""
+msgstr "好極了。現在馬上回去。這裡不是你該來的地方。"
 
 #: HF-GateGuard.dialog:48
 msgid "What's the matter with this gate?"
-msgstr ""
+msgstr "這道門是怎麼了嗎？"
 
 #: HF-GateGuard.dialog:50
 msgid "This is a gate to an automated bot factory we call the Hell Fortress."
-msgstr ""
+msgstr "這道門通往一間自動化的機器人工廠，我們稱之為地獄堡壘。"
 
 #: HF-GateGuard.dialog:51
-msgid ""
-"You must be crazy if you want to get in there. That place is full of bots."
-msgstr ""
+msgid "You must be crazy if you want to get in there. That place is full of bots."
+msgstr "只有瘋子才想要進去。這裡面到處都是機器人。"
 
 #: HF-GateGuard.dialog:52
 msgid "Get out of here. They might attack at any moment!"
-msgstr ""
+msgstr "趕快離開這兒。他們可能隨時會發動攻擊！"
 
 #: HF-GateGuard.dialog:57
 msgid "What if I just walk in there? Will you try to stop me?"
-msgstr ""
+msgstr "要是我就這樣進去呢？你們會阻止我嗎？"
 
 #: HF-GateGuard.dialog:59
 msgid "Of course not. Murdering you would be a complete waste of time."
-msgstr ""
+msgstr "當然不會。殺掉你純粹是浪費時間。"
 
 #: HF-GateGuard.dialog:60
 msgid "The bots and disruptor shield will take care of that for me."
-msgstr ""
+msgstr "那票機器人和防護盾就可以幫我搞定。"
 
 #: HF-GateGuard.dialog:61
 msgid "Just remember to give me your valuables before you commit suicide."
-msgstr ""
+msgstr "你要找死的話，記得把身上值錢的東西交出來啊。"
 
 #: HF-GateGuard.dialog:62
 msgid "You won't need any money once you're damn dead, and I could use it, eh?"
-msgstr ""
+msgstr "等你掛掉之後就沒必要用到錢啦，至少我可以幫你花掉，嘎？"
 
 #: HF-GateGuard.dialog:67
 msgid "Thanks for the advice."
-msgstr ""
+msgstr "謝謝你的建議。"
 
 #: HF-GateGuard.dialog:69
 msgid "You're dead if you don't take it."
-msgstr ""
+msgstr "你要是不接受的話就準備去死吧。"
 
 #: HF-GateGuard.dialog:74
 msgid "I'll be going then."
-msgstr ""
+msgstr "我得離開了。"
 
 #: HF-GateGuard.dialog:76
 msgid "Finally."
-msgstr ""
+msgstr "很好。"
 
 #: HF-GateGuard.dialog:76
 msgid "Don't come back."
-msgstr ""
+msgstr "不要再回來。"
 
 #: HF-GateGuard.dialog:76
 msgid "It is dangerous here."
-msgstr ""
+msgstr "這裡很危險。"
 
 #: HF-GateGuard.dialog:76
 msgid "Leave and stay away."
-msgstr ""
+msgstr "離開，不要再靠近了。"
+
