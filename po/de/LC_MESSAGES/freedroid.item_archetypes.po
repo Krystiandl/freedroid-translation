@@ -1177,7 +1177,6 @@ msgid "A miniaturised laser powered by a nuclear battery. When attached parallel
 msgstr "Ein Miniaturlaser der von einer Nuklearbatterie betrieben wird. Wenn man ihn parallel zu dem Schussrohr eines Schießprügels anbringt, führt dies zu einem kleinen roten Punkt auf dem Ziel und erleichtert so das Zielen."
 
 #: freedroid.item_archetypes:4162
-#, fuzzy
 msgid "Exoskeletal joint"
 msgstr "Exoskeletales Gelenk"
 
@@ -1202,22 +1201,18 @@ msgid "A thermoelectric device that increases your cooling rate."
 msgstr "Dieses thermoelektrische Gerät erhöht deine Kühlrate."
 
 #: freedroid.item_archetypes:4203
-#, fuzzy
 msgid "Steel mesh"
 msgstr "Stahlgewebe"
 
 #: freedroid.item_archetypes:4212
-#, fuzzy
 msgid "A sturdy metal mesh that provides an extra protective layer to your armor."
 msgstr "Dieser Gegenstand fügt Rüstungen eine zusätzliche Schutzlage hinzu."
 
 #: freedroid.item_archetypes:4216
-#, fuzzy
 msgid "Shock discharger"
 msgstr "Stromentlader"
 
 #: freedroid.item_archetypes:4225
-#, fuzzy
 msgid "When installed to a melee weapon, this nifty device gives a small electric shock to enemies you hit."
 msgstr "Wenn es einer Nahkampfwaffe angebaut wird, kann dieses Teil Gegnern einen kleinen elektrischen Schlag verpassen."
 
@@ -1242,12 +1237,10 @@ msgid "Pedometer"
 msgstr "Schrittzähler"
 
 #: freedroid.item_archetypes:4264
-#, fuzzy
 msgid "A device that helps you to move dexterously by giving feedback on your foot movement."
 msgstr "Dieses Gerät hilft dir, dich ausdauernder zu Bewegen, indem es dir ein Feedback über deine Bewegungen gibt."
 
 #: freedroid.item_archetypes:4268
-#, fuzzy
 msgid "Foot warmer"
 msgstr "Fußwärmer"
 
@@ -1256,7 +1249,6 @@ msgid "This item helps you to be more comfortable in your shoes."
 msgstr "Dieses Ding macht deine Schuhe gemütlicher."
 
 #: freedroid.item_archetypes:4281
-#, fuzzy
 msgid "Circuit jammer"
 msgstr "Schaltkreise-Störsender"
 
@@ -1265,7 +1257,6 @@ msgid "This item improves your melee weapon by blasting the enemies you hit with
 msgstr "Dieses Gerät verbessert die Nahkampfwaffe indem es die Gegner mit einem elektromagnetischen Impuls trifft. Dieser Impuls ist kräftig genug, um die Schaltkreise des Roboters zeitweise außer Gefecht zu setzen."
 
 #: freedroid.item_archetypes:4294
-#, fuzzy
 msgid "Sensor disruptor"
 msgstr "Sensorendisruptor"
 
@@ -1275,19 +1266,19 @@ msgstr "Wenn es einer Nahkampfwaffe angebaut wird, kann diese Erweiterung die Se
 
 #: freedroid.item_archetypes:4307
 msgid "Headlamp"
-msgstr ""
+msgstr "Helmlampe"
 
 #: freedroid.item_archetypes:4316
 msgid "When fastened to your helmet, this lamp allows you to see better in dark environments."
-msgstr ""
+msgstr "Am Helm befestigt ermöglicht es diese Lampe, besser in der Dunkelheit zu sehen."
 
 #: freedroid.item_archetypes:4320
 msgid "Brain stimulator"
-msgstr ""
+msgstr "Gehirnstimulator"
 
 #: freedroid.item_archetypes:4329
 msgid "A chip that allows you to learn faster by providing additional feedback on your actions."
-msgstr ""
+msgstr "Ein Chip der schnelleres Lernen ernöglicht indem er dem Gehirn mehr Rückmeldung über Handlungen gibt."
 
 #~ msgid "Very strong for its size, does a good job of absorbing basic blows."
 #~ msgstr "Für ihre Ausführung sehr haltbar, bietet diese Weste aus Shootex(TM) guten Schutz vor leichten bis mittelstarken Treffern; geeignet für leichte Erkundungseinsätze in unwegsamem Gelände und Ähnliches."
