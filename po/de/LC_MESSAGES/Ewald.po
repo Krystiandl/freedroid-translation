@@ -294,51 +294,48 @@ msgid "I want to bet 200 circuits"
 msgstr " Ich will Hacker werden!"
 
 #: Ewald.dialog:258
-#, fuzzy
 msgid "Name your game."
-msgstr "Verlieren Sie nicht den Mut!"
+msgstr "Nenne ein Spiel."
 
 #: Ewald.dialog:263
 msgid "Dice"
-msgstr ""
+msgstr "Würfel"
 
 #: Ewald.dialog:269
 msgid "Coin-flipping"
-msgstr ""
+msgstr "Münze"
 
 #: Ewald.dialog:278
-#, fuzzy
 msgid "Dice it is. Roll your first die."
-msgstr "Die erste ist, das Teil zu verkaufen oder wegzuwerfen."
+msgstr "Also Würfel. Werfe deinen ersten Würfel."
 
 #: Ewald.dialog:280 Ewald.dialog:313 Ewald.dialog:317
 msgid "I rolled a "
-msgstr ""
+msgstr "Ich würfelte eine"
 
 #: Ewald.dialog:281
-#, fuzzy
 msgid "What multiplier are you going to bet?"
-msgstr " Weshalb seid ihr hier draußen?"
+msgstr "Welchen Multiplikator wettest du?"
 
 #: Ewald.dialog:309
 msgid "You've bet "
-msgstr ""
+msgstr "Du weteste"
 
 #: Ewald.dialog:309
 msgid " valuable circuits."
-msgstr ""
+msgstr "wertvolle Schaltkreise"
 
 #: Ewald.dialog:311
 msgid "My first roll is a "
-msgstr ""
+msgstr "Mein erster Wurf ist eine"
 
 #: Ewald.dialog:315
 msgid "My second roll is a "
-msgstr ""
+msgstr "Mein zweiter Wurf ist eine"
 
 #: Ewald.dialog:319
 msgid "My third roll is a "
-msgstr ""
+msgstr "Mein dritter Wurf ist eine"
 
 #: Ewald.dialog:321
 msgid "It looks like I scored "
@@ -351,15 +348,15 @@ msgstr " Warum sind Sie so freundlich?"
 
 #: Ewald.dialog:324
 msgid "You won! Good job."
-msgstr ""
+msgstr "Du hast gewonnen! Gute Arbeit."
 
 #: Ewald.dialog:324
 msgid "You won! Man you are lucky!"
-msgstr ""
+msgstr "Du hast gewonnen. Man, Glückspilz!"
 
 #: Ewald.dialog:324
 msgid "You won!"
-msgstr ""
+msgstr "Du hast gewonnen."
 
 #: Ewald.dialog:333 Ewald.dialog:500
 msgid "You won "
@@ -370,40 +367,36 @@ msgid " valuable circuits by gambling dice with Ewald."
 msgstr ""
 
 #: Ewald.dialog:335
-#, fuzzy
 msgid "You lost. Bad luck."
-msgstr "Viel Glück!"
+msgstr "Du hast verloren. So ein Pech."
 
 #: Ewald.dialog:335
-#, fuzzy
 msgid "You lost. Better luck next time."
-msgstr "Viel Glück!"
+msgstr "Du hast verloren. Vielleicht hast du nächstes mal mehr Glück."
 
 #: Ewald.dialog:335
 msgid "You lost, try again?"
-msgstr ""
+msgstr "Du hast verloren. Nochmal versuchen?"
 
 #: Ewald.dialog:335
 msgid "You lost. Maybe you might like coin-flipping better?"
-msgstr ""
+msgstr "Du hast verloren, vielleicht gefällt dir das Münzspiel lieber?"
 
 #: Ewald.dialog:337 Ewald.dialog:514 Ewald.dialog:518
-#, fuzzy
 msgid "You lost "
-msgstr "Viel Glück!"
+msgstr "Du hast verloren"
 
 #: Ewald.dialog:346
 msgid "Coin flipping it is."
-msgstr ""
+msgstr "Münzwerfen."
 
 #: Ewald.dialog:347
 msgid "So. What do you think? Heads or tails?"
-msgstr ""
+msgstr "Also, was denkst du, Kopf oder Zahl?"
 
 #: Ewald.dialog:352
-#, fuzzy
 msgid "Heads"
-msgstr "Ja."
+msgstr "Kopf"
 
 #: Ewald.dialog:354
 msgid "Heads, eh? I always like heads."
@@ -427,7 +420,7 @@ msgstr ""
 
 #: Ewald.dialog:360
 msgid "Tails"
-msgstr ""
+msgstr "Zahl"
 
 #: Ewald.dialog:362
 msgid "Tails? Fits, since you've got one."
