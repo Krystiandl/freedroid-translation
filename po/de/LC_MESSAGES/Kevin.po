@@ -197,7 +197,7 @@ msgstr "Nun, was möchten Sie?"
 
 #: Kevin.dialog:137
 msgid "I want to become a hacker."
-msgstr "Ich will Hacker werden!"
+msgstr " Ich will Hacker werden!"
 
 #: Kevin.dialog:139
 #, fuzzy
