@@ -1142,7 +1142,7 @@ msgstr "Gummiente"
 
 #: freedroid.item_archetypes:4095
 msgid "It appears that humans enjoy bathing with squeaky little pieces of plastic shaped like waterfowl. As a penguinoid, you should probably be disturbed, but you have to admit this thing is actually quite adorable."
-msgstr ""
+msgstr "Es scheint, als würden Menschen gerne mit quitschenden kleinen Plastikstückchen die wie Wasservögel geformt sind baden. Als Pinguiner solltest du eigendlich beunruhigt sein, aber du musst zugeben, dass es eigentlich ganz reizend ist."
 
 #: freedroid.item_archetypes:4106
 msgid "Linarian power crank"
@@ -1190,7 +1190,7 @@ msgstr "Wärmeableitblech"
 
 #: freedroid.item_archetypes:4186
 msgid "A simple heatsink add-on that keeps you cooler by dissipating heat from your armor."
-msgstr ""
+msgstr "Ein einfaches Wärmeableitblech, was dich kühl hält, indem es die Wärme von deiner Rüstung ableitet."
 
 #: freedroid.item_archetypes:4190
 msgid "Peltier element"
