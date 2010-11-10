@@ -121,12 +121,10 @@ msgid "forkBOMB.sh -execute"
 msgstr "forkBOMB.sh -ausführen"
 
 #: c-net.dialog:308
-#, fuzzy
 msgid "Script run. After logout this terminal will be disabled."
 msgstr "Skript ausgeführt. Nach dem Ausloggen wird dieses Terminal abgeschaltet."
 
 #: c-net.dialog:309
-#, fuzzy
 msgid "root@c-net:~$"
 msgstr "root@c-net:~$"
 
@@ -135,12 +133,10 @@ msgid "global_thermonuclear_war"
 msgstr "globaler_thermonuklearer_krieg"
 
 #: c-net.dialog:346
-#, fuzzy
 msgid "./global_thermonuclear_war"
 msgstr "./global_thermonuclear_war"
 
 #: c-net.dialog:347
-#, fuzzy
 msgid "Sorry, only winning move is not to play. New game?"
 msgstr "Entschuldigung, dieses Spiel kann nicht gewonnen werden. Nochmal spielen?"
 
