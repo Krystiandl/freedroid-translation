@@ -121,7 +121,7 @@ msgstr ""
 
 #: AfterTakeover_sub.dialog:137
 msgid "Version: 0.15.01"
-msgstr ""
+msgstr "Version: 0.15.01"
 
 #: AfterTakeover_sub.dialog:138
 msgid "Current botname: [b]"
@@ -133,184 +133,215 @@ msgstr ""
 
 #: AfterTakeover_sub.dialog:145 AfterTakeover_sub.dialog:148
 #: AfterTakeover_sub.dialog:178 AfterTakeover_sub.dialog:181
-#, fuzzy
 msgid "Yes"
 msgstr "Ja."
 
 #: AfterTakeover_sub.dialog:149
 msgid "New Name: "
-msgstr ""
+msgstr "Neuer Name:"
 
 #: AfterTakeover_sub.dialog:151
+#, fuzzy
 msgid "Bald"
-msgstr ""
+msgstr "Kahl"
 
 #: AfterTakeover_sub.dialog:151
+#, fuzzy
 msgid "Chic"
-msgstr ""
+msgstr "Schick"
 
 #: AfterTakeover_sub.dialog:151
+#, fuzzy
 msgid "Fuzzy"
-msgstr ""
+msgstr "Fuzzy"
 
 #: AfterTakeover_sub.dialog:151
+#, fuzzy
 msgid "Fluffy"
-msgstr ""
+msgstr "Flauschig"
 
 #: AfterTakeover_sub.dialog:151
+#, fuzzy
 msgid "Cuddly"
-msgstr ""
+msgstr "Anschmiegsam"
 
 #: AfterTakeover_sub.dialog:151
+#, fuzzy
 msgid "Laughing"
-msgstr ""
+msgstr "Lachen"
 
 #: AfterTakeover_sub.dialog:151
+#, fuzzy
 msgid "Fickle"
-msgstr ""
+msgstr "Launisch"
 
 #: AfterTakeover_sub.dialog:151
+#, fuzzy
 msgid "Hyper"
-msgstr ""
+msgstr "Hyper"
 
 #: AfterTakeover_sub.dialog:151
+#, fuzzy
 msgid "Machavellian"
-msgstr ""
+msgstr "Machavellian"
 
 #: AfterTakeover_sub.dialog:151
+#, fuzzy
 msgid "Happy"
-msgstr ""
+msgstr "Glücklich"
 
 #: AfterTakeover_sub.dialog:151
+#, fuzzy
 msgid "Ornery"
-msgstr ""
+msgstr "Störrischer"
 
 #: AfterTakeover_sub.dialog:152
+#, fuzzy
 msgid "Bunny"
-msgstr ""
+msgstr "Bunny"
 
 #: AfterTakeover_sub.dialog:152
+#, fuzzy
 msgid "Koala"
-msgstr ""
+msgstr "Koala"
 
 #: AfterTakeover_sub.dialog:152
+#, fuzzy
 msgid "Lemur"
-msgstr ""
+msgstr "Lemur"
 
 #: AfterTakeover_sub.dialog:152
+#, fuzzy
 msgid "Aardvark"
-msgstr ""
+msgstr "Erdferkel"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Fox"
-msgstr ""
+msgstr "Fuchs"
 
 #: AfterTakeover_sub.dialog:152
+#, fuzzy
 msgid "Gnu"
-msgstr ""
+msgstr "Gnu"
 
 #: AfterTakeover_sub.dialog:152
+#, fuzzy
 msgid "Puffin"
-msgstr ""
+msgstr "Papageientaucher"
 
 #: AfterTakeover_sub.dialog:152
+#, fuzzy
 msgid "Herring"
-msgstr ""
+msgstr "Hering"
 
 #: AfterTakeover_sub.dialog:152
+#, fuzzy
 msgid "Halibut"
-msgstr ""
+msgstr "Heilbutt"
 
 #: AfterTakeover_sub.dialog:152
+#, fuzzy
 msgid "Mackerel"
-msgstr ""
+msgstr "Makrele"
 
 #: AfterTakeover_sub.dialog:152
+#, fuzzy
 msgid "Trout"
-msgstr ""
+msgstr "Forelle"
 
 #: AfterTakeover_sub.dialog:152
+#, fuzzy
 msgid "Tuna"
-msgstr ""
+msgstr "Thunfisch"
 
 #: AfterTakeover_sub.dialog:152
+#, fuzzy
 msgid "Barracuda"
-msgstr ""
+msgstr "Barrakuda"
 
 #: AfterTakeover_sub.dialog:152
+#, fuzzy
 msgid "Shrew"
-msgstr ""
+msgstr "Spitzmaus"
 
 #: AfterTakeover_sub.dialog:152
+#, fuzzy
 msgid "Bat"
-msgstr ""
+msgstr "Fledermaus"
 
 #: AfterTakeover_sub.dialog:152
+#, fuzzy
 msgid "Kitten"
-msgstr ""
+msgstr "Kätzchen"
 
 #: AfterTakeover_sub.dialog:152
 msgid "Duck"
-msgstr ""
+msgstr "Ente"
 
 #: AfterTakeover_sub.dialog:152
+#, fuzzy
 msgid "Platypus"
-msgstr ""
+msgstr "Schnabeltier"
 
 #: AfterTakeover_sub.dialog:152
+#, fuzzy
 msgid "Armadillo"
-msgstr ""
+msgstr "Gürteltier"
 
 #: AfterTakeover_sub.dialog:152
+#, fuzzy
 msgid "Panda"
-msgstr ""
+msgstr "Panda"
 
 #: AfterTakeover_sub.dialog:152
+#, fuzzy
 msgid "Hedgehog"
-msgstr ""
+msgstr "Igel"
 
 #: AfterTakeover_sub.dialog:152
+#, fuzzy
 msgid "Otter"
-msgstr ""
+msgstr "Otter"
 
 #: AfterTakeover_sub.dialog:154
+#, fuzzy
 msgid "Type a new name for this "
-msgstr ""
+msgstr "Geben Sie einen neuen Namen für diese"
 
 #: AfterTakeover_sub.dialog:159 AfterTakeover_sub.dialog:162
 #: AfterTakeover_sub.dialog:190 AfterTakeover_sub.dialog:193
-#, fuzzy
 msgid "No"
-msgstr "No."
+msgstr "Nein."
 
 #: AfterTakeover_sub.dialog:172
 msgid "Confirm renaming from [b]"
-msgstr ""
+msgstr "Umbenennung von [b] bestätigen"
 
 #: AfterTakeover_sub.dialog:172 AfterTakeover_sub.dialog:182
 msgid "[/b] to [b]"
-msgstr ""
+msgstr "[/b] nach [b]"
 
 #: AfterTakeover_sub.dialog:172
 msgid "[/b]? [Y/N]"
-msgstr ""
+msgstr "[/b]? [J/N]"
 
 #: AfterTakeover_sub.dialog:182
+#, fuzzy
 msgid "Renamed [b]"
-msgstr ""
+msgstr "Umbenannt [b]"
 
 #: AfterTakeover_sub.dialog:184
 msgid "This "
-msgstr ""
+msgstr "Dieses"
 
 #: AfterTakeover_sub.dialog:184
 msgid " unit is now designated: [b]"
-msgstr ""
+msgstr "Einheit ist jetzt bestimmt: [b]"
 
 #: AfterTakeover_sub.dialog:202
 #, fuzzy
 msgid "cd .."
-msgstr ". . ."
+msgstr "cd .."
 
 #~ msgid "Closing remote connection..."
 #~ msgstr "Warte alle Verbindungen ab...."
