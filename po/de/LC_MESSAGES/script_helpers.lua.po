@@ -18,7 +18,7 @@ msgstr ""
 
 #: script_helpers.lua:132
 msgid "New Quest assigned."
-msgstr ""
+msgstr "Neue Aufgabe zugeteilt."
 
 #: script_helpers.lua:138
 msgid "Quest log updated."
