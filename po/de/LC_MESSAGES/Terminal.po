@@ -19,7 +19,7 @@ msgstr ""
 
 #: Terminal.dialog:38
 msgid "Welcome to this terminal."
-msgstr ""
+msgstr "Willkommen im Terminal."
 
 #: Terminal.dialog:40
 msgid "Hello."
@@ -27,32 +27,32 @@ msgstr "Hallo."
 
 #: Terminal.dialog:40
 msgid "Hi there."
-msgstr ""
+msgstr "Hallo."
 
 #: Terminal.dialog:41
 msgid "Well, hello again."
-msgstr ""
+msgstr "Hallo nochmal."
 
 #: Terminal.dialog:41
 msgid "Hello hello."
-msgstr ""
+msgstr "Moin moin."
 
 #: Terminal.dialog:41
 msgid "Welcome back."
-msgstr ""
+msgstr "Willkommen zurück."
 
 #: Terminal.dialog:47
 msgid "help"
-msgstr ""
+msgstr "hilfe"
 
 #: Terminal.dialog:49
 msgid "Available commands: logout"
-msgstr ""
+msgstr "Verfügbare Befehle: logout"
 
 #: Terminal.dialog:53
 msgid "logout"
-msgstr ""
+msgstr "logout"
 
 #: Terminal.dialog:55
 msgid "Goodbye"
-msgstr ""
+msgstr "Tschüss"
