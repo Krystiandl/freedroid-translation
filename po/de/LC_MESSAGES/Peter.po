@@ -1,59 +1,80 @@
+# translation of freedroidrpg_dialogs.po to Deutsch
+# Ronny Standtke <Ronny.Standtke@gmx.net>, 2008.
+# Armin Winterer <blue.bits@arcor.de>, 2007, 2008
+msgid ""
+msgstr ""
+"Project-Id-Version: freedroidrpg_dialogs\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"PO-Revision-Date: 2009-02-22 23:51+0100\n"
+"Last-Translator: barbatrix <blue.bits@arcor.de>\n"
+"Language-Team: Deutsch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
+"X-Generator: KBabel 1.11.4\n"
+
+
 #: Peter.dialog:39
 msgid "Hello."
-msgstr ""
+msgstr "Hallo."
 
 #: Peter.dialog:39
 msgid "Hi there."
-msgstr ""
+msgstr "Hallo!"
 
 #: Peter.dialog:40
 msgid "Well, hello again."
-msgstr ""
+msgstr "Gut, nochmal hallo."
 
 #: Peter.dialog:40
 msgid "Hello hello."
-msgstr ""
+msgstr "Hallo hallo."
 
 #: Peter.dialog:40
 msgid "Welcome back."
-msgstr ""
+msgstr "Willkommen zurück."
 
 #: Peter.dialog:46
 msgid "Why are you here?"
-msgstr ""
+msgstr "warum bist du hier?"
 
 #: Peter.dialog:48
 msgid "I'm a political prisoner."
-msgstr ""
+msgstr "Ich bin ein politischer Gefangener."
 
 #: Peter.dialog:49
 msgid "Those red fascists put me here."
-msgstr ""
+msgstr "Diese roten Faschisten haben mich hier reingesteckt."
 
 #: Peter.dialog:50
 msgid ""
 "And I guess you are a fascists too, as only Red Guard members are allowed in "
 "here."
 msgstr ""
+"Und ich nehme an, dass du auch so ein Faschist bist, da hier nur Rote Wachen"
+"reinfürfen."
 
 #: Peter.dialog:55
 msgid "What is a fascist?"
-msgstr ""
+msgstr "Was ist ein Faschist?"
 
 #: Peter.dialog:58
 msgid "What is ..."
-msgstr ""
+msgstr "Was ist ...."
 
 #: Peter.dialog:59
 msgid ""
 "LALALALALA - I'm not hearing you. I have my fingers in my ears and just go - "
 "LALALALALA"
-msgstr ""
-
+msgstr "LALALALAL - Ich hör' dich nicht. Ich hab die Finger in den Ohren und singe nur -"
+"LALALALA"
 #: Peter.dialog:63
 msgid "Talk to you later."
-msgstr ""
+msgstr "Ich sprech' später nochmal mit dir."
 
 #: Peter.dialog:65
 msgid "Not in your life, Fascist!"
-msgstr ""
+msgstr "Nicht in diesem Leben, Faschist!"

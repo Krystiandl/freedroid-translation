@@ -1,11 +1,29 @@
-#: script_helpers.lua:135
-msgid "New Quest assigned."
+# translation of freedroidrpg_dialogs.po to Deutsch
+# Ronny Standtke <Ronny.Standtke@gmx.net>, 2008.
+# Armin Winterer <blue.bits@arcor.de>, 2007, 2008
+msgid ""
 msgstr ""
+"Project-Id-Version: freedroidrpg_dialogs\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"PO-Revision-Date: 2009-02-22 23:51+0100\n"
+"Last-Translator: barbatrix <blue.bits@arcor.de>\n"
+"Language-Team: Deutsch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
+"Language: \n"
+"X-Generator: KBabel 1.11.4\n"
 
-#: script_helpers.lua:141
+#: script_helpers.lua:132
+msgid "New Quest assigned."
+msgstr "Neue Aufgabe zugeteilt."
+
+#: script_helpers.lua:138
 msgid "Quest log updated."
 msgstr ""
 
-#: script_helpers.lua:147
+#: script_helpers.lua:144
 msgid "Quest completed."
-msgstr ""
+msgstr "Aufgabe erfüllt"

@@ -41,9 +41,8 @@ msgid "Name : "
 msgstr "Name :"
 
 #: c-net.dialog:57
-#, fuzzy
 msgid "Please set password for your personalized guest login "
-msgstr "Bitte geben Sie ein Passwort für ihren persönliche Sitzung als Gast ein"
+msgstr "Bitte geben Sie ein Passwort für ihren persönliche Gastsitzung ein"
 
 #: c-net.dialog:58
 msgid "Use at least one lower case letter, one upper case letter, one number, and one symbol."
@@ -62,12 +61,10 @@ msgid "Password: "
 msgstr "Passwort:"
 
 #: c-net.dialog:132
-#, fuzzy
 msgid "Login incorrect"
 msgstr "Einloggen fehlgeschlagen"
 
 #: c-net.dialog:133
-#, fuzzy
 msgid "Connection to c-net terminated."
 msgstr "Verbinden zum c-net fehlgeschlagen."
 
@@ -92,9 +89,8 @@ msgid "statistics.pl"
 msgstr "statistiken.pl"
 
 #: c-net.dialog:255
-#, fuzzy
 msgid "Corrupted file."
-msgstr "Verdorbene Datei."
+msgstr "Beschädigte Datei."
 
 #: c-net.dialog:256
 msgid "Bot #Dead# Tux #Hacked/Failed#Ratio"
@@ -106,7 +102,7 @@ msgstr "Gast"
 
 #: c-net.dialog:288
 msgid "forkBOMB.sh -arm bomb"
-msgstr ""
+msgstr "forkBOMB.sh -schärfe bomb"
 
 #: c-net.dialog:290
 msgid "bomb armed"
@@ -114,7 +110,7 @@ msgstr "Bombe schatf"
 
 #: c-net.dialog:296
 msgid "forkBOMB.sh -disarm bomb"
-msgstr ""
+msgstr "forkBOMB.sh -entschärfe bomb"
 
 #: c-net.dialog:298
 msgid "bomb defused"
@@ -122,15 +118,15 @@ msgstr "Bolbe entschärft"
 
 #: c-net.dialog:304
 msgid "forkBOMB.sh -execute"
-msgstr ""
+msgstr "forkBOMB.sh -ausführen"
 
 #: c-net.dialog:308
 msgid "Script run. After logout this terminal will be disabled."
-msgstr ""
+msgstr "Skript ausgeführt. Nach dem Ausloggen wird dieses Terminal abgeschaltet."
 
 #: c-net.dialog:309
 msgid "root@c-net:~$"
-msgstr ""
+msgstr "root@c-net:~$"
 
 #: c-net.dialog:343
 msgid "global_thermonuclear_war"
@@ -138,11 +134,11 @@ msgstr "globaler_thermonuklearer_krieg"
 
 #: c-net.dialog:346
 msgid "./global_thermonuclear_war"
-msgstr ""
+msgstr "./global_thermonuclear_war"
 
 #: c-net.dialog:347
 msgid "Sorry, only winning move is not to play. New game?"
-msgstr ""
+msgstr "Entschuldigung, dieses Spiel kann nicht gewonnen werden. Nochmal spielen?"
 
 #: c-net.dialog:347
 msgid "Mankind exterminated. You lost!"
@@ -158,7 +154,7 @@ msgstr "Alle sterben, neues Spiel?"
 
 #: c-net.dialog:356
 msgid "Connection to c-net closed."
-msgstr ""
+msgstr "Verbindung zum c-net aufgegeben."
 
 #~ msgid "root"
 #~ msgstr " logout"

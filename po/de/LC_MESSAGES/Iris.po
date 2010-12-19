@@ -1,47 +1,65 @@
+# translation of freedroidrpg_dialogs.po to Deutsch
+# Ronny Standtke <Ronny.Standtke@gmx.net>, 2008.
+# Armin Winterer <blue.bits@arcor.de>, 2007, 2008
+msgid ""
+msgstr ""
+"Project-Id-Version: freedroidrpg_dialogs\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2010-10-04 18:58+0000\n"
+"PO-Revision-Date: 2009-02-22 23:51+0100\n"
+"Last-Translator: barbatrix <blue.bits@arcor.de>\n"
+"Language-Team: Deutsch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"X-Launchpad-Export-Date: 2008-09-14 12:33+0000\n"
+"X-Generator: KBabel 1.11.4\n"
+
 #: Iris.dialog:39
 msgid "Hello."
-msgstr ""
+msgstr "Hallo."
 
 #: Iris.dialog:39
 msgid "Hi there."
-msgstr ""
+msgstr "Hallo."
 
 #: Iris.dialog:40
 msgid "Well, hello again."
-msgstr ""
+msgstr "Hallo nochmal."
 
 #: Iris.dialog:40
 msgid "Hello hello."
-msgstr ""
+msgstr "Moin moin."
 
 #: Iris.dialog:40
 msgid "Welcome back."
-msgstr ""
+msgstr "Willkommen zurück."
 
 #: Iris.dialog:46
 msgid "Who are you?"
-msgstr ""
+msgstr "Wer bist du?"
 
 #: Iris.dialog:48
 msgid "I'm Iris"
-msgstr ""
+msgstr "Ich bin Iris."
 
 #: Iris.dialog:49
 msgid "Iris"
-msgstr ""
+msgstr "Iris"
 
 #: Iris.dialog:54
 msgid "What are you doing here?"
-msgstr ""
+msgstr "Was machst du hier?"
 
 #: Iris.dialog:56
 msgid "None of your business!"
-msgstr ""
+msgstr "Nichts was dich angeht!"
 
 #: Iris.dialog:61
 msgid "See you later."
-msgstr ""
+msgstr "Bis später"
 
 #: Iris.dialog:63
 msgid "In your dreams, Pinguin!"
-msgstr ""
+msgstr "In deinen Träumen, Pinguin!"
