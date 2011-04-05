@@ -1,0 +1,259 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ./Kevin-Lawnmower.dialog:32
+msgid "Welcome to Kevin's personal lawnmower."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:33
+msgid "Your connection with this bot has been logged and reported to Kevin."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:34
+msgid "Please state your name for identification."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:35
+msgid "WARNING: ANY ABUSE WILL BE PUNISHED!"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:39
+msgid "WARNING:"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:40
+msgid "Less than [b]5%[/b] fuel remaining!"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:41
+msgid "All movement suppressed..."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:42
+msgid "Scanning area for possible compatible energy sources..."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:45
+msgid "Compatible energy source found!"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:46
+msgid "[b]Barf's Energy Drink[/b]"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:49
+msgid "Could not detect compatible energy source."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:50
+msgid "Recommended energy source: [b]Barf's Energy Drink[/b]"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:51
+#: ./Kevin-Lawnmower.dialog:196
+msgid "Resuming hibernation..."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:81
+msgid "I'll state my name."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:85
+msgid "Identifying as "
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:87
+msgid "Welcome to Kevin's lawnmower."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:91
+msgid "Verification failed!"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:92
+msgid "WARNING: LOGIN ATTEMPT REPORTED. THERE WILL BE CONSEQUENCES!"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:100
+msgid "I'll try 'Kevin'."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:103
+msgid "Kevin"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:104
+msgid "Identifying as Kevin..."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:105
+msgid "Identification failed!"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:106
+msgid "Liar!"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:107
+msgid "WARNING: ABUSE REPORTED!"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:108
+msgid "PUNISHMENT IN 3 SECONDS!"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:109
+msgid "IN 2 SECONDS!"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:110
+msgid "IN 1 SECOND!"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:111
+msgid "DIE!"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:118
+#: ./Kevin-Lawnmower.dialog:121
+msgid "help"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:120
+msgid "Available commands:"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:122
+#: ./Kevin-Lawnmower.dialog:129
+#: ./Kevin-Lawnmower.dialog:132
+msgid "version"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:123
+#: ./Kevin-Lawnmower.dialog:139
+#: ./Kevin-Lawnmower.dialog:142
+msgid "fuel_level"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:124
+msgid "exit"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:133
+msgid "printing version..."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:134
+msgid "MowOS 0.4.2"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:143
+msgid "Printing fuel level..."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:145
+#: ./Kevin-Lawnmower.dialog:195
+msgid "WARNING, less than [b]5%[/b] fuel remaining!"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:147
+msgid "[b]9[/b]% remaining"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:149
+msgid "[b]11[/b]% remaining"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:151
+msgid "[b]20[/b]% remaining"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:153
+msgid "[b]38[/b]% remaining"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:155
+msgid "[b]43[/b]% remaining"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:157
+msgid "[b]64[/b]% remaining"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:159
+msgid "[b]97[/b]% remaining"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:161
+msgid "Tank completely refilled."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:167
+msgid "It can have one drink..."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:170
+msgid "So, where do I have to put in the drink...?"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:171
+msgid "Ah, here!"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:172
+msgid "[b]glug glug glug[/b]"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:173
+msgid "Tank refilled."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:174
+msgid "Fuel status:"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:175
+msgid "[b]100[/b]%!"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:176
+msgid "This will approximately suffice for:"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:177
+msgid "1 month and 14 days."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:178
+msgid "Dropping waste product of last fuel filling..."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:179
+msgid "Done."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:190
+msgid "No, I cannot spare any drinks!"
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:193
+msgid "Sorry, tin can."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:194
+msgid "Import error: [b]null[/b] fuel received."
+msgstr ""
+
+#: ./Kevin-Lawnmower.dialog:206
+msgid "exiting..."
+msgstr ""
+

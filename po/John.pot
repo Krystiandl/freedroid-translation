@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ./John.dialog:32
+msgid "I am s-"
+msgstr ""
+
+#: ./John.dialog:33
+msgid "Go away please."
+msgstr ""
+
+#: ./John.dialog:45
+msgid "Congratulations, you solved my little puzzle."
+msgstr ""
+
+#: ./John.dialog:46
+msgid "I give you this as a small reward."
+msgstr ""
+
+#: ./John.dialog:50
+msgid "Wow... you solved it, and on your first time, too."
+msgstr ""
+
+#: ./John.dialog:51
+msgid "That's pretty good."
+msgstr ""
+
+#: ./John.dialog:52
+msgid "Here, take this as reward."
+msgstr ""
+
+#: ./John.dialog:53
+msgid "Oh, thank you."
+msgstr ""
+
+#: ./John.dialog:64
+msgid "What was that?!"
+msgstr ""
+
+#: ./John.dialog:65
+msgid "See..?"
+msgstr ""
+
+#: ./John.dialog:66
+msgid "It's not as easy as you thought."
+msgstr ""
+
+#: ./John.dialog:67
+msgid "Take a closer look at the storage room again..."
+msgstr ""
+
+#: ./John.dialog:68
+msgid "Okay."
+msgstr ""
+
+#: ./John.dialog:81
+msgid "Looks like you had some problems?"
+msgstr ""
+
+#: ./John.dialog:82
+msgid "Yes..."
+msgstr ""
+
+#: ./John.dialog:83
+msgid "Ok, I'll give you another chance."
+msgstr ""
+
+#: ./John.dialog:84
+msgid "But it will be your last chance, so take care..."
+msgstr ""
+
+#: ./John.dialog:85
+msgid "Thanks."
+msgstr ""
+
+#: ./John.dialog:99
+msgid "Dude!"
+msgstr ""
+
+#: ./John.dialog:100
+msgid "You made the same mistake twice."
+msgstr ""
+
+#: ./John.dialog:101
+msgid "You walked through the same teleporter twice!"
+msgstr ""
+
+#: ./John.dialog:102
+msgid "What's wrong with your mind?"
+msgstr ""
+
+#: ./John.dialog:103
+msgid "I-"
+msgstr ""
+
+#: ./John.dialog:104
+msgid "How is that ever going to work?"
+msgstr ""
+
+#: ./John.dialog:105
+msgid "I locked the puzzle."
+msgstr ""
+
+#: ./John.dialog:106
+msgid "It doesn't seem like you'd ever be able to solve it."
+msgstr ""
+
+#: ./John.dialog:115
+msgid "Sorry, seems like that puzzle was too hard for you."
+msgstr ""
+
+#: ./John.dialog:116
+msgid "But I-"
+msgstr ""
+
+#: ./John.dialog:117
+msgid "It is locked now."
+msgstr ""
+
+#: ./John.dialog:118
+msgid "I was very close to the solution."
+msgstr ""
+
+#: ./John.dialog:119
+msgid "Well, why did you still fail if you were so close?"
+msgstr ""
+
+#: ./John.dialog:120
+msgid "Hmpf.."
+msgstr ""
+
+#: ./John.dialog:134
+#: ./John.dialog:136
+msgid "Hello."
+msgstr ""
+
+#: ./John.dialog:137
+msgid "Errr... How did you get in here?!"
+msgstr ""
+
+#: ./John.dialog:138
+msgid "I just walked through the door."
+msgstr ""
+
+#: ./John.dialog:139
+msgid "And your name?"
+msgstr ""
+
+#: ./John.dialog:140
+msgid "I'm "
+msgstr ""
+
+#: ./John.dialog:140
+msgid "."
+msgstr ""
+
+#: ./John.dialog:141
+msgid "And you were not slaughtered by the bots outside?"
+msgstr ""
+
+#: ./John.dialog:142
+msgid "Apparently, I am still alive."
+msgstr ""
+
+#: ./John.dialog:143
+msgid "Does that answer your question?"
+msgstr ""
+
+#: ./John.dialog:144
+msgid "It does... smart aleck."
+msgstr ""
+
+#: ./John.dialog:149
+msgid "What do you do here?"
+msgstr ""
+
+#: ./John.dialog:151
+msgid "I'm living here."
+msgstr ""
+
+#: ./John.dialog:152
+msgid "What did you expect?"
+msgstr ""
+
+#: ./John.dialog:153
+msgid "Okay, that question was a little stupid."
+msgstr ""
+
+#: ./John.dialog:158
+msgid "Are there any other people around here?"
+msgstr ""
+
+#: ./John.dialog:160
+msgid "Not that I know."
+msgstr ""
+
+#: ./John.dialog:161
+msgid "Only you and me."
+msgstr ""
+
+#: ./John.dialog:162
+msgid "Okay, that question was also a little stupid."
+msgstr ""
+
+#: ./John.dialog:167
+msgid "Isn't it a little boring in here, isolated from the outer world?"
+msgstr ""
+
+#: ./John.dialog:169
+msgid "I'm fine."
+msgstr ""
+
+#: ./John.dialog:170
+msgid "When I'm bored, I try to make up some puzzles..."
+msgstr ""
+
+#: ./John.dialog:175
+msgid "'Puzzles'?"
+msgstr ""
+
+#: ./John.dialog:177
+msgid "Yeah, puzzles."
+msgstr ""
+
+#: ./John.dialog:178
+msgid "Do you want to try one?"
+msgstr ""
+
+#: ./John.dialog:183
+msgid "Sounds interesting."
+msgstr ""
+
+#: ./John.dialog:185
+msgid "Can you tell me more about it?"
+msgstr ""
+
+#: ./John.dialog:186
+msgid "No."
+msgstr ""
+
+#: ./John.dialog:187
+msgid "But you can experience it for yourself."
+msgstr ""
+
+#: ./John.dialog:188
+msgid "Interested?"
+msgstr ""
+
+#: ./John.dialog:193
+msgid "Yeah, sure!"
+msgstr ""
+
+#: ./John.dialog:195
+msgid "Ok, so the entrance is in my storage room."
+msgstr ""
+
+#: ./John.dialog:196
+msgid "Shouldn't be too difficult to find."
+msgstr ""
+
+#: ./John.dialog:197
+msgid "Ok, let me take a look."
+msgstr ""
+
+#: ./John.dialog:198
+msgid "Wait, wait. I'll give you a hint:"
+msgstr ""
+
+#: ./John.dialog:199
+msgid "'Looking from above hostiles may appear as salvation.'"
+msgstr ""
+
+#: ./John.dialog:200
+msgid "Uh, ok, thanks."
+msgstr ""
+
+#: ./John.dialog:207
+msgid "Hmm... I don't trust you."
+msgstr ""
+
+#: ./John.dialog:209
+msgid "I think, it's a trap!"
+msgstr ""
+
+#: ./John.dialog:210
+msgid "Well, you can leave at any time."
+msgstr ""
+
+#: ./John.dialog:211
+msgid "I wish you would!"
+msgstr ""
+
+#: ./John.dialog:218
+msgid "See you."
+msgstr ""
+
+#: ./John.dialog:221
+msgid "I don't think so..."
+msgstr ""
+
+#: ./John.dialog:223
+msgid "See you later."
+msgstr ""
+

@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ./WillGapes.dialog:28
+msgid "Don't come any closer! Or I'll turn you into scrap metal!"
+msgstr ""
+
+#: ./WillGapes.dialog:29
+msgid "Wait... You're not a robot. Who are you? What are you doing here?"
+msgstr ""
+
+#: ./WillGapes.dialog:32
+#: ./WillGapes.dialog:106
+#: ./WillGapes.dialog:130
+msgid "Gapes Gluttony"
+msgstr ""
+
+#: ./WillGapes.dialog:37
+msgid "Have you brought me some food?"
+msgstr ""
+
+#: ./WillGapes.dialog:38
+msgid "No, not yet."
+msgstr ""
+
+#: ./WillGapes.dialog:39
+msgid "Hurry... I'm starting to feel weak."
+msgstr ""
+
+#: ./WillGapes.dialog:42
+msgid "Hey, are you all right? It looks like the robots are winning."
+msgstr ""
+
+#: ./WillGapes.dialog:43
+msgid "I found this in the First Aid kit. Maybe it will help."
+msgstr ""
+
+#: ./WillGapes.dialog:47
+msgid "I see you're still alive. Maybe the robots won't win after all."
+msgstr ""
+
+#: ./WillGapes.dialog:53
+msgid "A friend..."
+msgstr ""
+
+#: ./WillGapes.dialog:55
+msgid "My name is "
+msgstr ""
+
+#: ./WillGapes.dialog:55
+msgid ", and I'm here to stop the robots!"
+msgstr ""
+
+#: ./WillGapes.dialog:56
+msgid "Stop them!? You can't. It's too late. The robots have killed everyone."
+msgstr ""
+
+#: ./WillGapes.dialog:61
+msgid "I am Luke Skywalker, a Jedi Knight, and I'm here to save you!"
+msgstr ""
+
+#: ./WillGapes.dialog:63
+msgid "Huh? Am I dreaming?"
+msgstr ""
+
+#: ./WillGapes.dialog:64
+msgid "Sorry, I've always wanted to say that."
+msgstr ""
+
+#: ./WillGapes.dialog:65
+#: ./WillGapes.dialog:73
+msgid "Who are you really?"
+msgstr ""
+
+#: ./WillGapes.dialog:70
+msgid "Your worst nightmare! I'm here to punish you for your crimes against humanity."
+msgstr ""
+
+#: ./WillGapes.dialog:72
+msgid ""
+"Wait, Stop! I'm worth billions of circuits... I'll give you anything. Just don"
+"'t kill me!"
+msgstr ""
+
+#: ./WillGapes.dialog:78
+msgid "There are still some alive in the town."
+msgstr ""
+
+#: ./WillGapes.dialog:80
+msgid "Ha, they won't last long. The robots will destroy them all. It's hopeless!"
+msgstr ""
+
+#: ./WillGapes.dialog:85
+msgid "But you're still alive?"
+msgstr ""
+
+#: ./WillGapes.dialog:87
+msgid ""
+"Barely, all I've had to eat for the past few months were energy bars from the "
+"snack machine."
+msgstr ""
+
+#: ./WillGapes.dialog:88
+msgid ""
+"Now all that's left are military rations, and I would rather starve than eat t"
+"hose!"
+msgstr ""
+
+#: ./WillGapes.dialog:93
+msgid "Who are you?"
+msgstr ""
+
+#: ./WillGapes.dialog:95
+msgid ""
+"My name is Will Gapes. I'm the chief software architect for MegaSys. I helped "
+"start the company."
+msgstr ""
+
+#: ./WillGapes.dialog:96
+msgid "Without my help this company would still be learning BASIC!"
+msgstr ""
+
+#: ./WillGapes.dialog:97
+msgid "Will Gapes -- MegaSys CSA"
+msgstr ""
+
+#: ./WillGapes.dialog:102
+msgid "Maybe I could find you some food?"
+msgstr ""
+
+#: ./WillGapes.dialog:104
+msgid "If you bring me a well-cooked meal, I will tell you about Hell's Fortress."
+msgstr ""
+
+#: ./WillGapes.dialog:105
+msgid "Trust me, you won't survive long in there without my help."
+msgstr ""
+
+#: ./WillGapes.dialog:106
+msgid ""
+"I found a man who is starving. He is willing to tell me about Hell's Fortress "
+"if I will bring him some food. I should speak to Michelangelo about this."
+msgstr ""
+
+#: ./WillGapes.dialog:111
+msgid "So these murderous robots are your creation?"
+msgstr ""
+
+#: ./WillGapes.dialog:113
+msgid "NO! It was the company's fault!"
+msgstr ""
+
+#: ./WillGapes.dialog:114
+msgid "I told them the upgrade wasn't ready. It hadn't been fully tested."
+msgstr ""
+
+#: ./WillGapes.dialog:115
+msgid "They wouldn't listen to me. They called me a fool! ME!?"
+msgstr ""
+
+#: ./WillGapes.dialog:116
+msgid "Now they are all dead. Serves them right too!"
+msgstr ""
+
+#: ./WillGapes.dialog:121
+msgid "I've brought you some food."
+msgstr ""
+
+#: ./WillGapes.dialog:123
+msgid "It's about time! I'm starving."
+msgstr ""
+
+#: ./WillGapes.dialog:124
+msgid "Oh, this is delicious!"
+msgstr ""
+
+#: ./WillGapes.dialog:125
+msgid "om nom nom"
+msgstr ""
+
+#: ./WillGapes.dialog:126
+msgid "Um...You're welcome?"
+msgstr ""
+
+#: ./WillGapes.dialog:127
+msgid "..."
+msgstr ""
+
+#: ./WillGapes.dialog:128
+msgid "Now, how about some information?"
+msgstr ""
+
+#: ./WillGapes.dialog:129
+msgid "OK, so what do you want to know?"
+msgstr ""
+
+#: ./WillGapes.dialog:130
+msgid ""
+"I brought the full picnic basket to Gapes, and he tore into it like a wild ani"
+"mal. It was a disgusting sight, but thankfully it ended quickly."
+msgstr ""
+
+#: ./WillGapes.dialog:138
+msgid "Tell me about this upgrade. Is that why all the robots are killing people?"
+msgstr ""
+
+#: ./WillGapes.dialog:140
+msgid "I'm afraid so... It wasn't finished yet."
+msgstr ""
+
+#: ./WillGapes.dialog:141
+msgid ""
+"The upgrade was supposed to revolutionize the world, but instead, it seems to "
+"have destroyed it."
+msgstr ""
+
+#: ./WillGapes.dialog:146
+msgid "How can I shut down the factory?"
+msgstr ""
+
+#: ./WillGapes.dialog:148
+msgid "You must deactivate the energy supply."
+msgstr ""
+
+#: ./WillGapes.dialog:149
+msgid "But the robots have sealed the doors shut."
+msgstr ""
+
+#: ./WillGapes.dialog:154
+msgid "Is there another way to get in?"
+msgstr ""
+
+#: ./WillGapes.dialog:156
+msgid "You might be able to get guest access."
+msgstr ""
+
+#: ./WillGapes.dialog:157
+msgid ""
+"It was created to give clearance to the tourists when the factory was first bu"
+"ilt."
+msgstr ""
+
+#: ./WillGapes.dialog:158
+msgid ""
+"Because the program hasn't been used in years, maybe the robots haven't disabl"
+"ed it."
+msgstr ""
+
+#: ./WillGapes.dialog:159
+msgid ""
+"But you will have to find some other way into the headquarters. Guests were ne"
+"ver given clearance."
+msgstr ""
+
+#: ./WillGapes.dialog:164
+msgid "I'll be going then."
+msgstr ""
+
+#: ./WillGapes.dialog:166
+msgid "Be careful!"
+msgstr ""
+

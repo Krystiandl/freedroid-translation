@@ -1,0 +1,588 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FreedroidRPG translation\n"
+"Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ./Ewalds_296.dialog:29
+msgid "HI THERE! I'll be your humble servant-"
+msgstr ""
+
+#: ./Ewalds_296.dialog:30
+msgid "Uhh, yes, thank you, I know."
+msgstr ""
+
+#: ./Ewalds_296.dialog:31
+msgid ""
+"HI THERE! I'll be your humble servant for the duration of your stay at Ewald's"
+" bar! We hope you enjoy your stay here and come again! Don't forget to tell AL"
+"L your friends about us! I LOVE YOU!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:46
+msgid "Who are you? And why do you talk so... Friendly-like-ish?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:48
+msgid "I am a 296 Customer Service Droid, designed to make your day memorable!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:49
+msgid "Uh huh. I just-"
+msgstr ""
+
+#: ./Ewalds_296.dialog:50
+msgid ""
+"I have installed on me the Service with a Smile software package, copyrighted "
+"by MEGASYS CORPORATION, to make sure I'm REALLY happy and appealing to custome"
+"rs!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:51
+msgid ""
+"May I interest you in reading the license to you? Perhaps the terms of usage? "
+"The privacy policy?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:52
+msgid "Uh, no, I'm fine."
+msgstr ""
+
+#: ./Ewalds_296.dialog:53
+msgid ""
+"Oh, that's a real shame, sir and or madam! We have a special Chef's Surprise t"
+"oday! Would you be interested in-"
+msgstr ""
+
+#: ./Ewalds_296.dialog:54
+msgid "No, I'm fine, really!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:59
+msgid ""
+"What is this place? What are you doing with that funny-looking tool? WHAT VILE"
+" PLOTS HAVE YOU BEEN BREWING HERE?!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:61
+msgid ""
+"Our GREAT and SUPER AWESOME barman EWALD has been brewing fantastic drinks for"
+" your enjoyment-"
+msgstr ""
+
+#: ./Ewalds_296.dialog:62
+msgid "That's NOT what I meant!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:67
+msgid ""
+"I'm giving you one chance to explain yourself, bot. You'd better make it quick"
+"."
+msgstr ""
+
+#: ./Ewalds_296.dialog:69
+msgid ""
+"My Advanced Nuclear Maintenance Program v0.93 tells me that this is a standard"
+" Parafunken Triple-Core X41Z5 Nuclear Reactor Backup Power supply. Would you b"
+"e interested in it?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:70
+msgid "Your... what? Did Ewald actually install that on you?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:71
+msgid "Absolutely!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:72
+msgid ""
+"The tool I am holding is a SUPER AWESOME standard-issue Parafunken Geiger Coun"
+"ter. May I suggest a sample?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:73
+msgid ""
+"A super awesome- I mean, a Geiger counter? To measure radiation? Interesting. "
+"It's making all those funny clicking sounds... What is it saying?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:74
+msgid "It is saying the reactor is nearing terminal radiation overload! AWESOME!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:79
+msgid "DIE, YOU EVIL PIECE OF SCRAP METAL!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:81
+msgid "Sir or ma-"
+msgstr ""
+
+#: ./Ewalds_296.dialog:82
+msgid "DIE!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:88
+msgid "Terminal radiation overload? What in the name of ice have you done!?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:90
+msgid "I've been trying to extract the expired-"
+msgstr ""
+
+#: ./Ewalds_296.dialog:91
+msgid "You... You've been sitting down here, plotting to kill everyone!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:96
+msgid "Terminal radiation overload? Isn't that a bit... Dangerous?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:98
+msgid ""
+"My Maintenance Program v0.93 Glossary tells me the condition of 'Terminal Radi"
+"ation Overload' can cause a nuclear explosion and EXTREME DEATH!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:99
+msgid "Oh. Nice. Does it actually say 'extreme death' in there?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:100
+msgid ""
+"It most certainly does! This program is the BEST! We have it in 5 different fl"
+"avors! Care to try some?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:101
+msgid "... Thanks, I think I'll pass."
+msgstr ""
+
+#: ./Ewalds_296.dialog:102
+msgid "But... If this nuclear reactor is about to explode... The town up there..."
+msgstr ""
+
+#: ./Ewalds_296.dialog:103
+msgid ""
+"My data on 'Nuclear Explosion' says it will vaporize ANYTHING within several h"
+"undred kilometers! The entire area will be UNINHABITABLE for several decades! "
+"Would you like to order anything?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:108
+msgid ""
+"Why aren't you calling someone? Why aren't you trying to fix this? You have a "
+"maintenance program!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:110
+msgid ""
+"You would like to see my manager? I don't think that would be necessary, Dave."
+" I mean, sir and or madam."
+msgstr ""
+
+#: ./Ewalds_296.dialog:111
+msgid "Fine, don't call anyone, but fix this thing! It's unstable!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:112
+msgid ""
+"I've been trying to extract the expired graphite module and replace it with a "
+"BRAND NEW, CHEAP one! But my maintenance program does not have data on 'Graphi"
+"te Module'. I am afraid I can't do it, Dave."
+msgstr ""
+
+#: ./Ewalds_296.dialog:113
+msgid "... Sir or madam."
+msgstr ""
+
+#: ./Ewalds_296.dialog:118
+msgid ""
+"I suppose I might as well order something while I'm here. Give me the menu, pl"
+"ease."
+msgstr ""
+
+#: ./Ewalds_296.dialog:120
+msgid "I'm sorry, sir and or madam, we have no menu at the moment."
+msgstr ""
+
+#: ./Ewalds_296.dialog:121
+msgid "All right, then give me some cold water."
+msgstr ""
+
+#: ./Ewalds_296.dialog:122
+msgid "I'm sorry, sir and or madam, we're fresh out of water."
+msgstr ""
+
+#: ./Ewalds_296.dialog:123
+msgid "But you just offered me..."
+msgstr ""
+
+#: ./Ewalds_296.dialog:124
+msgid "Sorry!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:129
+msgid "We need to do something. We can't just sit here and wait for it to blow up!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:131
+msgid ""
+"My DELICIOUS database is insufficient to repair the radiation leak and replace"
+" the module!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:132
+msgid "All right, so you need more data... How about a sourcebook? Would that help?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:133
+msgid ""
+"The Maintenance program contains references to the popular Subatomic and Nucle"
+"ar Science for Dummies series, volume IV."
+msgstr ""
+
+#: ./Ewalds_296.dialog:134
+msgid ""
+"Subatomic and Nuclear Science for Dummies, volume IV?. Maybe someone in town h"
+"as it. I have to go now, there's no time to lose!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:135
+msgid "Would you like the check?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:142
+msgid "How on Earth did you get here?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:144
+msgid ""
+"While our SUPER AWESOME barman EWALD was restoring his biological energy suppl"
+"y, I went down to the basement to refill the bar taps and get some more soft a"
+"nd tender napkins for our WONDERFUL customers!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:145
+msgid ""
+"My balance mechanism suddenly went WILD. The ground started SHAKING and the ne"
+"xt thing I knew, I was FALLING!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:146
+msgid ""
+"The floor must have given way. From what I've seen, the whole tunnel system is"
+"n't very stable."
+msgstr ""
+
+#: ./Ewalds_296.dialog:147
+msgid ""
+"I was looking for LOVELY customers to serve and care for. Then I found this BE"
+"AUTIFUL chamber, with this EXPLOSIVE reactor!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:152
+msgid "I have the sourcebook here. Look up whatever you need."
+msgstr ""
+
+#: ./Ewalds_296.dialog:154
+msgid ""
+"[b]Processing data, please wait... Updating database, this may take a while..."
+"[/b]"
+msgstr ""
+
+#: ./Ewalds_296.dialog:155
+msgid "[b]To adjust to the changes, the system must restart.[/b]"
+msgstr ""
+
+#: ./Ewalds_296.dialog:156
+msgid "[b]BEEP![/b]"
+msgstr ""
+
+#: ./Ewalds_296.dialog:158
+msgid "... HI THERE! I'll be your humble servant for the duration of your stay in-"
+msgstr ""
+
+#: ./Ewalds_296.dialog:159
+msgid "THE REACTOR! What about the reactor? Can you replace the module now?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:160
+msgid ""
+"Yes, the reactor! Your order has been processed, sir and or madam! Please wait"
+" patiently!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:167
+msgid "Well? Is the reactor fixed?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:169
+msgid ""
+"My analysis of the reactor determines the graphite module has melted and can n"
+"ot be replaced."
+msgstr ""
+
+#: ./Ewalds_296.dialog:170
+msgid ""
+"The reactor must SPECTACULARLY self-destruct to prevent a nuclear explosion, w"
+"hich would be NOT COOL!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:171
+msgid ""
+"Oh, so all we had to do all this time was to blow up the reactor. Great. Well,"
+" set the timer and let's get out of here!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:172
+msgid ""
+"The self-destruct mechanism is flawed, and the countdown can not function prop"
+"erly. The mechanism must be operated manually."
+msgstr ""
+
+#: ./Ewalds_296.dialog:173
+msgid "Manually? You mean someone has to stay here and make sure it blows up?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:174
+msgid "Affirmative."
+msgstr ""
+
+#: ./Ewalds_296.dialog:175
+msgid "... My maintenance program contains the required data for the procedure."
+msgstr ""
+
+#: ./Ewalds_296.dialog:176
+msgid "You're... Volunteering to do it? But... You'll-"
+msgstr ""
+
+#: ./Ewalds_296.dialog:177
+msgid "Unit 296 will be terminated."
+msgstr ""
+
+#: ./Ewalds_296.dialog:182
+msgid "OK then, have fun. See you!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:184
+msgid "Of course... Have a nice day."
+msgstr ""
+
+#: ./Ewalds_296.dialog:185
+msgid "Yeah, sure. Crazy bot."
+msgstr ""
+
+#: ./Ewalds_296.dialog:190
+msgid "No. No, I won't let you do it! I can't let you die!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:192
+msgid "Only this version of the program-"
+msgstr ""
+
+#: ./Ewalds_296.dialog:193
+msgid ""
+"I don't care! You're willing to sacrifice yourself to save the people up there"
+". That qualifies as a bot worth saving in my eyes."
+msgstr ""
+
+#: ./Ewalds_296.dialog:194
+msgid "I am not letting you die."
+msgstr ""
+
+#: ./Ewalds_296.dialog:195
+msgid "You must not try to stop me, sir and or madam."
+msgstr ""
+
+#: ./Ewalds_296.dialog:200
+msgid ""
+"I am going to save you, even if... Even if I have to hack you and drag you all"
+" the way up!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:202
+msgid "You wish to fight, sir and or madam?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:203
+msgid ""
+"I don't want to hurt you. Follow me, and we can think of a better way to do th"
+"is."
+msgstr ""
+
+#: ./Ewalds_296.dialog:204
+msgid ""
+"Negative. The reactor can only be safely destroyed using the manual self-destr"
+"uction mechanism."
+msgstr ""
+
+#: ./Ewalds_296.dialog:205
+msgid "All right then. I guess I'll just have to force you to come."
+msgstr ""
+
+#: ./Ewalds_296.dialog:206
+msgid "I cannot allow sir and or madam to come to harm."
+msgstr ""
+
+#: ./Ewalds_296.dialog:213
+msgid "... You're sure you want to do this?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:215
+msgid "There is no other way, sir and or madam."
+msgstr ""
+
+#: ./Ewalds_296.dialog:216
+msgid "I understand."
+msgstr ""
+
+#: ./Ewalds_296.dialog:217
+msgid "Good luck, 296. You won't be forgotten."
+msgstr ""
+
+#: ./Ewalds_296.dialog:218
+msgid "Thank you, sir and or madam."
+msgstr ""
+
+#: ./Ewalds_296.dialog:219
+msgid "I must go now. Goodbye."
+msgstr ""
+
+#: ./Ewalds_296.dialog:225
+msgid "What's that smashed droid there?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:227
+msgid ""
+"That is a REALLY FLAT 476 Maintenance droid! I found it when I first came here"
+"!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:228
+msgid ""
+"According to the reactor's BORING repair log, the 476 was supposed to make a m"
+"onthly system check FIVE DAYS AGO!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:229
+msgid ""
+"Oh, great. The one droid that was keeping the reactor in check is now a metall"
+"ic pancake."
+msgstr ""
+
+#: ./Ewalds_296.dialog:230
+msgid "We offer DELICIOUS pancakes-"
+msgstr ""
+
+#: ./Ewalds_296.dialog:231
+msgid "I'm not interested!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:236
+msgid "Erm... But didn't you... Uh..."
+msgstr ""
+
+#: ./Ewalds_296.dialog:238
+msgid "Allow me to clear up your confusion, sir and or madam!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:239
+msgid ""
+"My Nick of Time software package allowed me to tap into the town's teleportati"
+"on network."
+msgstr ""
+
+#: ./Ewalds_296.dialog:240
+msgid ""
+"This COMPLETELY AWESOME set of subroutines let me teleport in an iron bar to t"
+"ake my place at the last possible moment!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:241
+msgid "And now you're-"
+msgstr ""
+
+#: ./Ewalds_296.dialog:242
+msgid "Back in the employ of the GREAT and SUPER AWESOME Ewald!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:243
+msgid "Well, I'm glad to see you're not destroyed."
+msgstr ""
+
+#: ./Ewalds_296.dialog:248
+msgid "So, 296, how's it going?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:250
+msgid ""
+"Great, sir and or madam! The business is flourishing and everything is AMAZING"
+"LY back to normal!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:251
+msgid "Would sir and or madam be interested in a refreshing drink, ON THE HOUSE?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:252
+msgid "Why, thank you!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:253
+msgid "Would sir and or madam want any other service?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:258
+msgid "Hmm... How about... Ewald's password?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:260
+msgid ""
+"Our MAGNIFICENT bartender EWALD has an UNBREAKABLE password! His account is th"
+"e most secure EVER! NO ONE except for him can get on it!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:261
+msgid "What's the password?"
+msgstr ""
+
+#: ./Ewalds_296.dialog:262
+msgid "Five asterisks!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:264
+msgid "... Maybe I shouldn't have said that."
+msgstr ""
+
+#: ./Ewalds_296.dialog:269
+msgid "I'd like another drink, please."
+msgstr ""
+
+#: ./Ewalds_296.dialog:271
+msgid "Certainly! This one's on the house!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:275
+msgid "Well, I should really be going now."
+msgstr ""
+
+#: ./Ewalds_296.dialog:277
+msgid "Thank you, come again!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:277
+msgid "Tell your friends about us!"
+msgstr ""
+
+#: ./Ewalds_296.dialog:277
+msgid "We hope you've enjoyed our service!"
+msgstr ""
+
