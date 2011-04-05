@@ -2,71 +2,71 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./Peter.dialog:39
+#: ./Peter.dialog:35
 msgid "Hello."
 msgstr ""
 
-#: ./Peter.dialog:39
+#: ./Peter.dialog:35
 msgid "Hi there."
 msgstr ""
 
-#: ./Peter.dialog:40
+#: ./Peter.dialog:36
 msgid "Well, hello again."
 msgstr ""
 
-#: ./Peter.dialog:40
+#: ./Peter.dialog:36
 msgid "Hello hello."
 msgstr ""
 
-#: ./Peter.dialog:40
+#: ./Peter.dialog:36
 msgid "Welcome back."
 msgstr ""
 
-#: ./Peter.dialog:46
+#: ./Peter.dialog:42
 msgid "Why are you here?"
 msgstr ""
 
-#: ./Peter.dialog:48
+#: ./Peter.dialog:44
 msgid "I'm a political prisoner."
 msgstr ""
 
-#: ./Peter.dialog:49
+#: ./Peter.dialog:45
 msgid "Those red fascists put me here."
 msgstr ""
 
-#: ./Peter.dialog:50
+#: ./Peter.dialog:46
 msgid ""
-"And I guess you are a fascists too, as only Red Guard members are allowed in h"
-"ere."
+"And I guess you are a fascist too, as only Red Guard members are allowed in he"
+"re."
 msgstr ""
 
-#: ./Peter.dialog:55
+#: ./Peter.dialog:51
 msgid "What is a fascist?"
 msgstr ""
 
-#: ./Peter.dialog:58
+#: ./Peter.dialog:54
 msgid "What is ..."
 msgstr ""
 
-#: ./Peter.dialog:59
+#: ./Peter.dialog:55
 msgid ""
 "LALALALALA - I'm not hearing you. I have my fingers in my ears and just go - L"
 "ALALALALA"
 msgstr ""
 
-#: ./Peter.dialog:63
+#: ./Peter.dialog:59
 msgid "Talk to you later."
 msgstr ""
 
-#: ./Peter.dialog:65
+#: ./Peter.dialog:61
 msgid "Not in your life, Fascist!"
 msgstr ""
 

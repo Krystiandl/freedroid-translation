@@ -2,46 +2,46 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./SACD.dialog:33
-msgid "Login : "
+#: ./SACD.dialog:34
+msgid "Tania's Escape"
 msgstr ""
 
 #: ./SACD.dialog:34
+msgid "I have found the Secret Area Control Datacenter."
+msgstr ""
+
+#: ./SACD.dialog:38
+msgid "Login : "
+msgstr ""
+
+#: ./SACD.dialog:39
 msgid "admin"
 msgstr ""
 
-#: ./SACD.dialog:35
+#: ./SACD.dialog:40
 msgid " Password : "
 msgstr ""
 
-#: ./SACD.dialog:36
+#: ./SACD.dialog:41
 msgid "*******"
 msgstr ""
 
-#: ./SACD.dialog:37
+#: ./SACD.dialog:42
 msgid "Last login from /dev/ttyS0 on Sun, 23 mar 2057."
-msgstr ""
-
-#: ./SACD.dialog:38
-msgid "Tania's sanitary"
-msgstr ""
-
-#: ./SACD.dialog:38
-msgid "I have found the Secret Area Control Datacenter."
 msgstr ""
 
 #: ./SACD.dialog:43
 #: ./SACD.dialog:56
-#: ./SACD.dialog:69
-#: ./SACD.dialog:81
+#: ./SACD.dialog:66
+#: ./SACD.dialog:92
 msgid "admin@sadefence: ~ #"
 msgstr ""
 
@@ -55,7 +55,7 @@ msgstr ""
 
 #: ./SACD.dialog:51
 #: ./SACD.dialog:64
-#: ./SACD.dialog:77
+#: ./SACD.dialog:73
 msgid "Connecting to peripheral controller..."
 msgstr ""
 
@@ -72,30 +72,50 @@ msgid "Enabling guns..."
 msgstr ""
 
 #: ./SACD.dialog:65
-msgid "Guns enabled."
+msgid "ERROR: Guns cannot be enabled."
 msgstr ""
 
-#: ./SACD.dialog:74
+#: ./SACD.dialog:70
 msgid "/usr/bin/hermodoors --open"
 msgstr ""
 
-#: ./SACD.dialog:76
+#: ./SACD.dialog:72
 msgid "Opening doors..."
 msgstr ""
 
-#: ./SACD.dialog:78
-msgid "Please enter unlock security password:"
+#: ./SACD.dialog:82
+msgid "ERROR: An error occured while opening some doors."
 msgstr ""
 
-#: ./SACD.dialog:79
+#: ./SACD.dialog:83
+msgid "Please enter unlock security override password:"
+msgstr ""
+
+#: ./SACD.dialog:84
 msgid "CTRL+C"
 msgstr ""
 
-#: ./SACD.dialog:80
-msgid "An error occured while opening doors."
+#: ./SACD.dialog:85
+msgid "Invalid password. Entering lockdown mode."
 msgstr ""
 
-#: ./SACD.dialog:85
+#: ./SACD.dialog:86
+msgid "ERROR: Lockdown mode has an error."
+msgstr ""
+
+#: ./SACD.dialog:87
+msgid "ERROR: error has an error."
+msgstr ""
+
+#: ./SACD.dialog:88
+msgid "ERROR: SADD droids now set to search-and-destroy mode."
+msgstr ""
+
+#: ./SACD.dialog:90
+msgid "SADD -- Exterminate Mode"
+msgstr ""
+
+#: ./SACD.dialog:97
 msgid "logout"
 msgstr ""
 

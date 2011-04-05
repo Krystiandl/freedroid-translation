@@ -2,168 +2,168 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./Town-614.dialog:35
+#: ./Town-614.dialog:31
 msgid "Who are you?"
 msgstr ""
 
-#: ./Town-614.dialog:37
+#: ./Town-614.dialog:33
 msgid ""
 "I am a 614 security bot, once one of the best-selling products of Nicholson, I"
 "nc.."
 msgstr ""
 
-#: ./Town-614.dialog:41
+#: ./Town-614.dialog:37
 msgid "What can you tell me about the Nicholson company?"
 msgstr ""
 
-#: ./Town-614.dialog:43
+#: ./Town-614.dialog:39
 msgid "Nicholson, Inc. produces security bots."
 msgstr ""
 
-#: ./Town-614.dialog:44
+#: ./Town-614.dialog:40
 msgid ""
 "It was founded by Karl Nicholson, a former Kernel hacker who was not satisfied"
 " with the development of the GPL license."
 msgstr ""
 
-#: ./Town-614.dialog:45
+#: ./Town-614.dialog:41
 msgid ""
 "Nicholson decided to stick to one GPL version because he saw things getting wo"
 "rse."
 msgstr ""
 
-#: ./Town-614.dialog:46
+#: ./Town-614.dialog:42
 msgid "Others were warned, but nobody listened to Nicholsons announcements."
 msgstr ""
 
-#: ./Town-614.dialog:47
+#: ./Town-614.dialog:43
 msgid "He built up a team and developed an own Kernel called 'Nkernel'."
 msgstr ""
 
-#: ./Town-614.dialog:48
+#: ./Town-614.dialog:44
 msgid ""
 "The Nkernel development team grew fast and technicians started to produce thei"
 "r own droids optimized for the Nkernel."
 msgstr ""
 
-#: ./Town-614.dialog:49
+#: ./Town-614.dialog:45
 msgid ""
 "The team became a company which released their first security droid, called 61"
 "0"
 msgstr ""
 
-#: ./Town-614.dialog:50
+#: ./Town-614.dialog:46
 msgid "I am the 4th generation version of their security droid line."
 msgstr ""
 
-#: ./Town-614.dialog:55
+#: ./Town-614.dialog:51
 msgid "Have you detected any hostile bot activity?"
 msgstr ""
 
-#: ./Town-614.dialog:57
+#: ./Town-614.dialog:53
 msgid "No. The hostiles have not shown up within the last 24 hours."
 msgstr ""
 
-#: ./Town-614.dialog:62
+#: ./Town-614.dialog:58
 msgid "What can you tell me about the 614 type? "
 msgstr ""
 
-#: ./Town-614.dialog:64
+#: ./Town-614.dialog:60
 msgid "The official manual classifies the 614 as a high class security droid."
 msgstr ""
 
-#: ./Town-614.dialog:65
+#: ./Town-614.dialog:61
 msgid "It was mainly used within ships to protect certain areas from intruders."
 msgstr ""
 
-#: ./Town-614.dialog:66
+#: ./Town-614.dialog:62
 msgid "It is considered an old but reliable device."
 msgstr ""
 
-#: ./Town-614.dialog:67
+#: ./Town-614.dialog:63
 msgid "So don't worry. I'm still in pretty good shape."
 msgstr ""
 
-#: ./Town-614.dialog:68
+#: ./Town-614.dialog:64
 msgid "The latest version of the security line is the 615."
 msgstr ""
 
-#: ./Town-614.dialog:70
+#: ./Town-614.dialog:66
 msgid "Unfortunately its development was not finished when the great assault started."
 msgstr ""
 
-#: ./Town-614.dialog:71
+#: ./Town-614.dialog:67
 msgid "The lack of security options on the system of the 615 lead to a malfunction."
 msgstr ""
 
-#: ./Town-614.dialog:72
+#: ./Town-614.dialog:68
 msgid ""
 "Circumstances that led to the great assault even made the 615 go crazy and att"
 "ack people."
 msgstr ""
 
-#: ./Town-614.dialog:73
+#: ./Town-614.dialog:69
 msgid "For the sake of your health, you should stay away from the 615 droids."
 msgstr ""
 
-#: ./Town-614.dialog:74
+#: ./Town-614.dialog:70
 msgid "You have been warned!"
 msgstr ""
 
-#: ./Town-614.dialog:79
+#: ./Town-614.dialog:75
 msgid "What are your orders?"
 msgstr ""
 
-#: ./Town-614.dialog:81
+#: ./Town-614.dialog:77
 msgid ""
-"My orders are to protect the living beings in this camp from attacks by hostil"
+"My orders are to protect the living beings in this town from attacks by hostil"
 "e bots."
 msgstr ""
 
-#: ./Town-614.dialog:82
+#: ./Town-614.dialog:78
 msgid "This has top priority. There are no other priorities."
 msgstr ""
 
-#: ./Town-614.dialog:87
+#: ./Town-614.dialog:83
 msgid "Why are you not hostile, as are all the other bots?"
 msgstr ""
 
-#: ./Town-614.dialog:89
+#: ./Town-614.dialog:85
 msgid ""
 "I belong to a an older generation of bots, running a custom-made security guar"
 "d operating system."
 msgstr ""
 
-#: ./Town-614.dialog:90
+#: ./Town-614.dialog:86
 msgid ""
 "None of the bots of this generation were affected by the proceedings that led "
 "to bots attacking, generally known as the Great Assault."
 msgstr ""
 
-#: ./Town-614.dialog:91
+#: ./Town-614.dialog:87
 msgid ""
 "Even though discontinued by the Nicholson, Inc. long ago, today, some people h"
 "ave picked up the work and are even trying to improve the operating system run"
 "ning on my series."
 msgstr ""
 
-#: ./Town-614.dialog:92
+#: ./Town-614.dialog:88
 msgid "Don't forget to buy products from Nicholson, Inc.. They are the best."
 msgstr ""
 
-#: ./Town-614.dialog:97
+#: ./Town-614.dialog:93
 msgid "See you later."
 msgstr ""
 
-#: ./Town-614.dialog:99
+#: ./Town-614.dialog:95
 msgid "Resuming guard program."
 msgstr ""
 

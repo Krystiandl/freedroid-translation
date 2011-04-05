@@ -2,446 +2,561 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./DocMoore.dialog:37
-#: ./DocMoore.dialog:38
-#: ./DocMoore.dialog:68
-#: ./DocMoore.dialog:105
+#: ./DocMoore.dialog:33
+#: ./DocMoore.dialog:35
+#: ./DocMoore.dialog:100
+#: ./DocMoore.dialog:137
 msgid "Bender's problem"
 msgstr ""
 
+#: ./DocMoore.dialog:54
+msgid "You look gravely injured."
+msgstr ""
+
+#: ./DocMoore.dialog:55
+msgid "I will help you."
+msgstr ""
+
+#: ./DocMoore.dialog:56
+msgid "I..."
+msgstr ""
+
+#: ./DocMoore.dialog:57
+msgid "It's ok, you'll be fine soon."
+msgstr ""
+
+#: ./DocMoore.dialog:58
+msgid "A little spray here..."
+msgstr ""
+
 #: ./DocMoore.dialog:59
-msgid "Hello!"
+msgid "An injection there..."
+msgstr ""
+
+#: ./DocMoore.dialog:60
+msgid "OW!"
 msgstr ""
 
 #: ./DocMoore.dialog:61
-msgid "Hello. I'm Doc Moore. I'm the medic of this town. I don't believe we've met?"
+msgid "Now, swallow this pill."
 msgstr ""
 
 #: ./DocMoore.dialog:62
-msgid "I'm "
+msgid "*glup*"
 msgstr ""
 
 #: ./DocMoore.dialog:63
-msgid "Um, what are you? Some kind of overgrown penguin?"
+msgid "Ok, you are fixed now."
 msgstr ""
 
 #: ./DocMoore.dialog:64
-msgid "I'm a Linarian."
+msgid "Oh, thank you!"
 msgstr ""
 
 #: ./DocMoore.dialog:65
+msgid "Take better care of yourself, Linarian."
+msgstr ""
+
+#: ./DocMoore.dialog:70
+msgid "You don't look too good..."
+msgstr ""
+
+#: ./DocMoore.dialog:71
+msgid "I can help you if you want."
+msgstr ""
+
+#: ./DocMoore.dialog:73
+msgid "You should take better care of yourself out there."
+msgstr ""
+
+#: ./DocMoore.dialog:83
+msgid ""
+"Oh, did you by any chance see a bright yellow item made out of polyvinyl chlor"
+"ide?"
+msgstr ""
+
+#: ./DocMoore.dialog:91
+msgid "Hello!"
+msgstr ""
+
+#: ./DocMoore.dialog:93
+msgid "Hello. I'm Doc Moore. I'm the medic of this town. I don't believe we've met?"
+msgstr ""
+
+#: ./DocMoore.dialog:94
+msgid "I'm "
+msgstr ""
+
+#: ./DocMoore.dialog:95
+msgid "Um, what are you? Some kind of overgrown penguin?"
+msgstr ""
+
+#: ./DocMoore.dialog:96
+msgid "I'm a Linarian."
+msgstr ""
+
+#: ./DocMoore.dialog:97
 msgid ""
 "Oh, I vaguely remember reading something about Linarian biology back in my uni"
 "versity days..."
 msgstr ""
 
-#: ./DocMoore.dialog:66
+#: ./DocMoore.dialog:98
 msgid "I should be able to heal you if you get hurt."
 msgstr ""
 
-#: ./DocMoore.dialog:71
+#: ./DocMoore.dialog:103
 msgid "Doc Moore -- Medic"
 msgstr ""
 
-#: ./DocMoore.dialog:76
+#: ./DocMoore.dialog:108
 msgid "Do you also sell medical equipment?"
 msgstr ""
 
-#: ./DocMoore.dialog:78
+#: ./DocMoore.dialog:110
 msgid "Yes. Here is what I can offer today."
 msgstr ""
 
-#: ./DocMoore.dialog:84
+#: ./DocMoore.dialog:116
 msgid "May I buy some medical equipment?"
 msgstr ""
 
-#: ./DocMoore.dialog:86
+#: ./DocMoore.dialog:118
 msgid "Sure. Here is what I can offer today."
 msgstr ""
 
-#: ./DocMoore.dialog:91
+#: ./DocMoore.dialog:123
 msgid "Doc, I took some of those brain enlargement pills..."
 msgstr ""
 
-#: ./DocMoore.dialog:94
+#: ./DocMoore.dialog:126
 msgid "Sorry, but I already gave you some medical help."
 msgstr ""
 
-#: ./DocMoore.dialog:95
+#: ./DocMoore.dialog:127
 msgid ""
 "To poison yourself, 1 more time, that's entirely your own business and I'm not"
 " responsible."
 msgstr ""
 
-#: ./DocMoore.dialog:96
+#: ./DocMoore.dialog:128
 msgid "As far as I am concerned, in this town everyone gets everything equally."
 msgstr ""
 
-#: ./DocMoore.dialog:99
+#: ./DocMoore.dialog:131
 msgid "Oh no, not another one. Those pills are almost pure biological waste."
 msgstr ""
 
-#: ./DocMoore.dialog:100
+#: ./DocMoore.dialog:132
 msgid "Taking that stuff almost always equals delayed suicide."
 msgstr ""
 
-#: ./DocMoore.dialog:101
+#: ./DocMoore.dialog:133
 msgid ""
 "Now, take this antidote. It should remove the dangerous substances within your"
 " body."
 msgstr ""
 
-#: ./DocMoore.dialog:102
+#: ./DocMoore.dialog:134
 msgid ""
 "But remember, I'll only give you this help once, because you didn't know the e"
 "ffects."
 msgstr ""
 
-#: ./DocMoore.dialog:103
+#: ./DocMoore.dialog:135
 msgid ""
 "Should you take that junk again, I won't feel responsible for what happens to "
 "you any more."
 msgstr ""
 
-#: ./DocMoore.dialog:105
+#: ./DocMoore.dialog:137
 msgid "The doctor was easily fooled. I have the pills that Bender needs."
 msgstr ""
 
-#: ./DocMoore.dialog:112
+#: ./DocMoore.dialog:144
 msgid "Doctor, how can I keep healthy and alive?"
 msgstr ""
 
-#: ./DocMoore.dialog:114
+#: ./DocMoore.dialog:146
 msgid "Always remember L-I-F-E"
 msgstr ""
 
-#: ./DocMoore.dialog:115
+#: ./DocMoore.dialog:147
 msgid "L - Look at your health status regularly."
 msgstr ""
 
-#: ./DocMoore.dialog:116
+#: ./DocMoore.dialog:148
 msgid "I - Ingest cold water if you are overheating."
 msgstr ""
 
-#: ./DocMoore.dialog:117
+#: ./DocMoore.dialog:149
 msgid "F - Flee if you cannot fight."
 msgstr ""
 
-#: ./DocMoore.dialog:118
+#: ./DocMoore.dialog:150
 msgid "E - Evacuate to the town if you cannot flee."
 msgstr ""
 
-#: ./DocMoore.dialog:123
+#: ./DocMoore.dialog:155
 msgid "Can you fix me up?"
 msgstr ""
 
-#: ./DocMoore.dialog:125
+#: ./DocMoore.dialog:157
 msgid ""
 "Sure, as the only doctor of this slowly growing community, I take responsibili"
 "ty for everyone's health."
 msgstr ""
 
-#: ./DocMoore.dialog:127
+#: ./DocMoore.dialog:159
 msgid ""
 "However, self-inflicted damage might be exempted from this rule in some cases."
 ".."
 msgstr ""
 
-#: ./DocMoore.dialog:130
+#: ./DocMoore.dialog:162
 msgid "There, it's done. You're completely fixed. You can go now."
 msgstr ""
 
-#: ./DocMoore.dialog:130
+#: ./DocMoore.dialog:162
 msgid ""
 "You need to keep better care of yourself. You're completely fixed. You can go "
 "now."
 msgstr ""
 
-#: ./DocMoore.dialog:136
+#: ./DocMoore.dialog:168
 msgid "What do you mean, self-inflicted damage?"
 msgstr ""
 
-#: ./DocMoore.dialog:138
+#: ./DocMoore.dialog:170
 msgid "Well, you see that idiotic Bender character on my doorstep?"
 msgstr ""
 
-#: ./DocMoore.dialog:139
+#: ./DocMoore.dialog:171
 msgid "What can you tell me about Bender?"
 msgstr ""
 
-#: ./DocMoore.dialog:140
+#: ./DocMoore.dialog:172
 msgid ""
 "Bender asked my advice about some pills he saw advertised in an e-mail. I told"
 " him not to buy them."
 msgstr ""
 
-#: ./DocMoore.dialog:141
+#: ./DocMoore.dialog:173
 msgid ""
 "But guess what? He bought and took the stupid pills anyways, and then he came "
 "back to me to fix him."
 msgstr ""
 
-#: ./DocMoore.dialog:142
+#: ./DocMoore.dialog:174
 msgid ""
 "If he, or anyone, is going to completely disregard my medical advice, and then"
 " think they are going to get my medical supplies, then they are wrong."
 msgstr ""
 
-#: ./DocMoore.dialog:143
+#: ./DocMoore.dialog:175
 msgid ""
 "He won't get anything from me anymore. It would be unfair to the community to "
 "waste all the supplies on him, and that's my final word on that."
 msgstr ""
 
-#: ./DocMoore.dialog:149
+#: ./DocMoore.dialog:181
 msgid "Doc... I really want the antidote."
 msgstr ""
 
-#: ./DocMoore.dialog:151
+#: ./DocMoore.dialog:183
 msgid "No! I am not giving it to you. Forget about it."
 msgstr ""
 
-#: ./DocMoore.dialog:156
+#: ./DocMoore.dialog:188
 msgid "My patience is running out. Give me the antidote. Now."
 msgstr ""
 
-#: ./DocMoore.dialog:158
+#: ./DocMoore.dialog:190
 msgid "No! Over my dead body."
 msgstr ""
 
-#: ./DocMoore.dialog:163
+#: ./DocMoore.dialog:195
 msgid "Your wish is my command!"
 msgstr ""
 
-#: ./DocMoore.dialog:165
+#: ./DocMoore.dialog:197
 msgid "Huh? What?"
 msgstr ""
 
-#: ./DocMoore.dialog:166
+#: ./DocMoore.dialog:198
 msgid ""
 "Humans... You are so interesting. I always wanted to know exactly how much blo"
 "od you have."
 msgstr ""
 
-#: ./DocMoore.dialog:167
+#: ./DocMoore.dialog:199
 msgid "Don't do this. Don't do this."
 msgstr ""
 
-#: ./DocMoore.dialog:168
+#: ./DocMoore.dialog:200
 msgid "Prepare, Doc. The experiment begins."
 msgstr ""
 
-#: ./DocMoore.dialog:169
+#: ./DocMoore.dialog:201
 msgid "Don't do this! DON'T DO THIS!"
 msgstr ""
 
-#: ./DocMoore.dialog:170
+#: ./DocMoore.dialog:202
 msgid "AAAAAAAAAAAA!"
 msgstr ""
 
-#: ./DocMoore.dialog:171
+#: ./DocMoore.dialog:203
 msgid "Ugh. Human blood is disgusting. At least four liters. I feel sick."
 msgstr ""
 
-#: ./DocMoore.dialog:172
-#: ./DocMoore.dialog:174
-#: ./DocMoore.dialog:176
+#: ./DocMoore.dialog:204
+#: ./DocMoore.dialog:206
+#: ./DocMoore.dialog:208
 msgid " . . ."
 msgstr ""
 
-#: ./DocMoore.dialog:173
+#: ./DocMoore.dialog:205
 msgid ""
 "I guess this means I get to inherit all your stuff. I hope you don't mind if I"
 " take everything?"
 msgstr ""
 
-#: ./DocMoore.dialog:175
+#: ./DocMoore.dialog:207
 msgid "Good. I am very glad not to hear a disapproval."
 msgstr ""
 
-#: ./DocMoore.dialog:193
+#: ./DocMoore.dialog:224
 msgid "Is Tania OK?"
 msgstr ""
 
-#: ./DocMoore.dialog:195
+#: ./DocMoore.dialog:226
 msgid "Haven't you heard of doctor-patient confidentiality?"
 msgstr ""
 
-#: ./DocMoore.dialog:196
+#: ./DocMoore.dialog:227
 msgid "Ummm..."
 msgstr ""
 
-#: ./DocMoore.dialog:197
+#: ./DocMoore.dialog:228
 msgid "No worries. She is fine."
 msgstr ""
 
-#: ./DocMoore.dialog:203
+#: ./DocMoore.dialog:234
 msgid "Forget it. Getting the antidote is not worth the effort."
 msgstr ""
 
-#: ./DocMoore.dialog:205
+#: ./DocMoore.dialog:236
 msgid "I am not giving it to you, and that won't change."
 msgstr ""
 
-#: ./DocMoore.dialog:210
+#: ./DocMoore.dialog:241
+msgid "Hmm. I cannot remember."
+msgstr ""
+
+#: ./DocMoore.dialog:243
+msgid "I'm sorry."
+msgstr ""
+
+#: ./DocMoore.dialog:244
+msgid "No problem. Thanks anyway."
+msgstr ""
+
+#: ./DocMoore.dialog:250
+#: ./DocMoore.dialog:254
+msgid "I think I did."
+msgstr ""
+
+#: ./DocMoore.dialog:253
+msgid "Hmm... Yellow, bright, PVC...?"
+msgstr ""
+
+#: ./DocMoore.dialog:255
+msgid "Do you mean this rubber duck by any chance?"
+msgstr ""
+
+#: ./DocMoore.dialog:256
+msgid "Ooh, you found it."
+msgstr ""
+
+#: ./DocMoore.dialog:257
+msgid "Here, take it if it's yours."
+msgstr ""
+
+#: ./DocMoore.dialog:258
+msgid "Thanks."
+msgstr ""
+
+#: ./DocMoore.dialog:259
+msgid "Take this healthy drink as reward."
+msgstr ""
+
+#: ./DocMoore.dialog:260
+msgid "Looks.. erm... interesting..."
+msgstr ""
+
+#: ./DocMoore.dialog:261
+msgid "Thank you. I am sure it ... can be quite useful in some situations."
+msgstr ""
+
+#: ./DocMoore.dialog:268
 msgid "What can you tell me about Strength Pills?"
 msgstr ""
 
-#: ./DocMoore.dialog:217
+#: ./DocMoore.dialog:275
 msgid "What can you tell me about Dexterity Pills?"
 msgstr ""
 
-#: ./DocMoore.dialog:224
+#: ./DocMoore.dialog:282
 msgid "What can you tell me about Code Pills?"
 msgstr ""
 
-#: ./DocMoore.dialog:231
-msgid "THIS WILL NEVER BE VISIBLE"
+#: ./DocMoore.dialog:289
+msgid "BUG REPORT ME! Francis node 53!"
 msgstr ""
 
-#: ./DocMoore.dialog:234
+#: ./DocMoore.dialog:292
 msgid ""
 "Those pills are only one variant of a fantastic scientific breakthrough that h"
 "appened shortly before the Great Assault."
 msgstr ""
 
-#: ./DocMoore.dialog:235
+#: ./DocMoore.dialog:293
 msgid ""
 "Three kinds of enhancement pills were developed. One for strength, one for dex"
 "terity and one for programming abilities."
 msgstr ""
 
-#: ./DocMoore.dialog:236
+#: ./DocMoore.dialog:294
 msgid ""
 "These pills work on a nanotechnological basis with small machines connecting t"
 "o your muscle and nerve tissue."
 msgstr ""
 
-#: ./DocMoore.dialog:237
+#: ./DocMoore.dialog:295
 msgid ""
 "The machines connect together and form some inorganic artificial tissue that h"
 "as been optimized for certain qualities."
 msgstr ""
 
-#: ./DocMoore.dialog:238
+#: ./DocMoore.dialog:296
 msgid ""
 "Since this invention only came about shortly before the Great Assault, these p"
 "ills are now very rare."
 msgstr ""
 
-#: ./DocMoore.dialog:239
+#: ./DocMoore.dialog:297
 msgid ""
 "But if you should get them, even better, because the effects are permanent, an"
 "d as far as we can tell, there aren't any side effects!"
 msgstr ""
 
-#: ./DocMoore.dialog:244
+#: ./DocMoore.dialog:302
 msgid "What can you tell me about Brain Pills?"
 msgstr ""
 
-#: ./DocMoore.dialog:247
+#: ./DocMoore.dialog:305
 msgid "I already warned you about those!"
 msgstr ""
 
-#: ./DocMoore.dialog:249
+#: ./DocMoore.dialog:307
 msgid ""
 "Those pills are almost pure biological waste! They are sold to stupid ignorant"
 " gullible people. Never EVER take one."
 msgstr ""
 
-#: ./DocMoore.dialog:254
+#: ./DocMoore.dialog:312
 msgid "What can you tell me about Diet supplements?"
 msgstr ""
 
-#: ./DocMoore.dialog:256
+#: ./DocMoore.dialog:314
 msgid ""
 "Have you tasted the army snacks that the cook, Michelangelo, has been handing "
 "out?"
 msgstr ""
 
-#: ./DocMoore.dialog:258
+#: ./DocMoore.dialog:316
 msgid "Yes, those were horrible. They had a nice color though."
 msgstr ""
 
-#: ./DocMoore.dialog:259
+#: ./DocMoore.dialog:317
 msgid "The dye used to make that color is a known carcinogen."
 msgstr ""
 
-#: ./DocMoore.dialog:261
+#: ./DocMoore.dialog:319
 msgid "No, should I?"
 msgstr ""
 
-#: ./DocMoore.dialog:262
+#: ./DocMoore.dialog:320
 msgid "Not if you can avoid it."
 msgstr ""
 
-#: ./DocMoore.dialog:264
+#: ./DocMoore.dialog:322
 msgid ""
 "Well, unlike the army snacks, the Diet Supplements actually have a slight nutr"
 "itional benefit."
 msgstr ""
 
-#: ./DocMoore.dialog:265
+#: ./DocMoore.dialog:323
 msgid "After taking one your health should improve slightly."
 msgstr ""
 
-#: ./DocMoore.dialog:270
+#: ./DocMoore.dialog:328
 msgid "What can you tell me about Antibiotics?"
 msgstr ""
 
-#: ./DocMoore.dialog:272
+#: ./DocMoore.dialog:330
 msgid "Basically it is bottled up poison made by bacteria."
 msgstr ""
 
-#: ./DocMoore.dialog:273
+#: ./DocMoore.dialog:331
 msgid "And that is good for me?"
 msgstr ""
 
-#: ./DocMoore.dialog:274
+#: ./DocMoore.dialog:332
 msgid ""
 "Yep. It kills the bacteria that want to kill you. It improves your health sign"
 "ificantly."
 msgstr ""
 
-#: ./DocMoore.dialog:279
+#: ./DocMoore.dialog:337
 msgid "What is a Doc-in-a-can?"
 msgstr ""
 
-#: ./DocMoore.dialog:281
+#: ./DocMoore.dialog:339
 msgid ""
 "It is a device that releases millions of short-lived nanobots that swarm all o"
 "ver your body inside and out repairing and fixing almost all but the most seri"
 "ous wounds."
 msgstr ""
 
-#: ./DocMoore.dialog:282
+#: ./DocMoore.dialog:340
 msgid "Wouldn't long-lived nanobots work better?"
 msgstr ""
 
-#: ./DocMoore.dialog:283
+#: ./DocMoore.dialog:341
 msgid ""
 "They found that long-lived nanobots evolve self-replication and act like a can"
 "cer. A cancer of gray goo that eats everything."
 msgstr ""
 
-#: ./DocMoore.dialog:284
+#: ./DocMoore.dialog:342
 msgid "Several planets were made uninhabitable before they figured that one out."
 msgstr ""
 
-#: ./DocMoore.dialog:289
-#: ./DocMoore.dialog:291
+#: ./DocMoore.dialog:347
+#: ./DocMoore.dialog:349
 msgid "See you later."
 msgstr ""
 
-#: ./DocMoore.dialog:291
+#: ./DocMoore.dialog:349
 msgid "Keep healthy!"
 msgstr ""
 

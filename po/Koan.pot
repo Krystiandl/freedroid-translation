@@ -2,134 +2,218 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./Koan.dialog:36
+#: ./Koan.dialog:30
+msgid "Tania's Escape"
+msgstr ""
+
+#: ./Koan.dialog:39
 msgid "So you have come. I knew Duncan would not let me live for too long."
 msgstr ""
 
-#: ./Koan.dialog:37
+#: ./Koan.dialog:40
 msgid "Once I am gone this oasis of peace in the world will dry up and die. A shame."
 msgstr ""
 
-#: ./Koan.dialog:38
+#: ./Koan.dialog:41
 msgid ""
 "I hoped to turn the whole desert into a sanctuary. And now my dream will never"
 " come true."
 msgstr ""
 
-#: ./Koan.dialog:39
+#: ./Koan.dialog:42
 msgid "Do what you must."
 msgstr ""
 
-#: ./Koan.dialog:41
+#: ./Koan.dialog:54
 msgid "It's a pleasure to meet you again."
 msgstr ""
 
-#: ./Koan.dialog:46
-msgid "With pleasure."
-msgstr ""
-
-#: ./Koan.dialog:49
-#: ./Koan.dialog:60
-msgid "Doing Duncan a favor"
-msgstr ""
-
-#: ./Koan.dialog:49
-msgid "I took revenge for Duncan by killing Koan."
-msgstr ""
-
 #: ./Koan.dialog:54
-msgid "No. I have not come here to kill you."
+msgid "I am happy to see you've returned."
 msgstr ""
 
 #: ./Koan.dialog:56
-msgid "Thank you."
+msgid "I see you have brought a friend along with you."
 msgstr ""
 
-#: ./Koan.dialog:57
-msgid "Feel free to stay here. There is no danger."
+#: ./Koan.dialog:59
+msgid "I see the troubles of the world in your eyes."
 msgstr ""
 
-#: ./Koan.dialog:58
-msgid "The water is safe to drink and the fruit from the tree is quite delicious."
+#: ./Koan.dialog:63
+msgid "Come sitdown my friend."
 msgstr ""
 
-#: ./Koan.dialog:60
-msgid "I met and talked to Koan, but didn't kill him."
+#: ./Koan.dialog:63
+msgid "Please take some time and relax here in the cool."
 msgstr ""
 
 #: ./Koan.dialog:65
+msgid "I see you've brought a friend along with you."
+msgstr ""
+
+#: ./Koan.dialog:71
+msgid "With pleasure."
+msgstr ""
+
+#: ./Koan.dialog:74
+#: ./Koan.dialog:118
+#: ./Koan.dialog:138
+msgid "Doing Duncan a favor"
+msgstr ""
+
+#: ./Koan.dialog:74
+#: ./Koan.dialog:118
+msgid "I took revenge for Duncan by killing Koan."
+msgstr ""
+
+#: ./Koan.dialog:83
+msgid "No. I have not come here to kill you."
+msgstr ""
+
+#: ./Koan.dialog:85
+msgid "Thank you."
+msgstr ""
+
+#: ./Koan.dialog:86
+msgid "Feel free to stay here. There is no danger."
+msgstr ""
+
+#: ./Koan.dialog:87
+msgid "The water is safe to drink and the fruit from the tree is quite delicious."
+msgstr ""
+
+#: ./Koan.dialog:95
+msgid "Who are you? Who is Duncan?"
+msgstr ""
+
+#: ./Koan.dialog:97
+#: ./Koan.dialog:107
+msgid "Koan"
+msgstr ""
+
+#: ./Koan.dialog:98
+#: ./Koan.dialog:108
+msgid "I am Koan."
+msgstr ""
+
+#: ./Koan.dialog:99
+msgid "Duncan is one obsessed with destroying things, while I create."
+msgstr ""
+
+#: ./Koan.dialog:100
+msgid "Therefore he desires my destruction."
+msgstr ""
+
+#: ./Koan.dialog:105
+msgid "Who are you?"
+msgstr ""
+
+#: ./Koan.dialog:109
+msgid "Beyond that I am a creator."
+msgstr ""
+
+#: ./Koan.dialog:110
+msgid "I give life to things, even if they eventually will be destroyed."
+msgstr ""
+
+#: ./Koan.dialog:115
+msgid "You shall die."
+msgstr ""
+
+#: ./Koan.dialog:127
+msgid "Duncan sent me to kill you, but I came to make certain you were safe."
+msgstr ""
+
+#: ./Koan.dialog:129
+msgid "Thanks for checking up on me."
+msgstr ""
+
+#: ./Koan.dialog:134
+msgid "BUG, REPORT ME! Koan node12 -- UPDATE QUEST"
+msgstr ""
+
+#: ./Koan.dialog:138
+msgid "I met and talked to Koan, but didn't kill him."
+msgstr ""
+
+#: ./Koan.dialog:143
+msgid "Why does Duncan want you dead?"
+msgstr ""
+
+#: ./Koan.dialog:145
+msgid "Very simple. He likes destruction, and I am creation."
+msgstr ""
+
+#: ./Koan.dialog:146
+msgid "There is nothing more to it."
+msgstr ""
+
+#: ./Koan.dialog:151
 msgid "What is this place? Why is there grass and water under the desert?"
 msgstr ""
 
-#: ./Koan.dialog:67
+#: ./Koan.dialog:153
 msgid "Ah, yes. That is my fault, I am afraid."
 msgstr ""
 
-#: ./Koan.dialog:68
+#: ./Koan.dialog:154
 msgid "Wherever I go, life follows me."
 msgstr ""
 
-#: ./Koan.dialog:69
+#: ./Koan.dialog:155
 msgid "I thought I could hide from Duncan in this old bunker."
 msgstr ""
 
-#: ./Koan.dialog:70
+#: ./Koan.dialog:156
 msgid "When I woke up the next day, things were as you see them now."
 msgstr ""
 
-#: ./Koan.dialog:75
+#: ./Koan.dialog:161
 msgid "This was a bunker?"
 msgstr ""
 
-#: ./Koan.dialog:77
+#: ./Koan.dialog:163
 msgid "Yes. The place has changed a bit, as you can see."
 msgstr ""
 
-#: ./Koan.dialog:78
+#: ./Koan.dialog:164
 msgid ""
 "I like the way it is right now. The water cools everything down and the plants"
 " give the air a very fresh smell."
 msgstr ""
 
-#: ./Koan.dialog:79
+#: ./Koan.dialog:165
 msgid "As soon as I leave, everything will die. I have seen that happen before."
 msgstr ""
 
-#: ./Koan.dialog:80
+#: ./Koan.dialog:166
 msgid ""
 "Because this place is just like a small bit of paradise, I decided to stay her"
 "e."
 msgstr ""
 
-#: ./Koan.dialog:81
+#: ./Koan.dialog:167
 msgid "I do not want this wonderful bunker to become devoid of life again."
 msgstr ""
 
-#: ./Koan.dialog:86
-msgid "Why does Duncan want you dead?"
-msgstr ""
-
-#: ./Koan.dialog:88
-msgid "Very simple. He likes destruction, and I am creation."
-msgstr ""
-
-#: ./Koan.dialog:89
-msgid "There is nothing more to it."
-msgstr ""
-
-#: ./Koan.dialog:94
+#: ./Koan.dialog:172
 msgid "I will go now."
 msgstr ""
 
-#: ./Koan.dialog:96
+#: ./Koan.dialog:174
 msgid "This place will always wait for you."
+msgstr ""
+
+#: ./Koan.dialog:174
+msgid "This is a sanctuary from the desert above."
 msgstr ""
 

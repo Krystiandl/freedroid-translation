@@ -2,64 +2,64 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./Geist.dialog:41
+#: ./Geist.dialog:37
 msgid "Hello. Any idea where I can get some help here?"
 msgstr ""
 
-#: ./Geist.dialog:43
-#: ./Geist.dialog:68
+#: ./Geist.dialog:39
+#: ./Geist.dialog:64
 msgid "Verschwinde!"
 msgstr ""
 
-#: ./Geist.dialog:48
+#: ./Geist.dialog:44
 msgid "Erm... What do you mean?"
 msgstr ""
 
-#: ./Geist.dialog:50
+#: ./Geist.dialog:46
 msgid "Ich bin der Geist, der stets verneint."
 msgstr ""
 
-#: ./Geist.dialog:51
+#: ./Geist.dialog:47
 msgid "Und das mit Recht; denn alles, was entsteht,"
 msgstr ""
 
-#: ./Geist.dialog:52
+#: ./Geist.dialog:48
 msgid "ist wert, dass es zugrunde geht."
 msgstr ""
 
-#: ./Geist.dialog:57
+#: ./Geist.dialog:53
 msgid "I really do not understand you."
 msgstr ""
 
-#: ./Geist.dialog:59
+#: ./Geist.dialog:55
 msgid "Wer sie nicht kennte, die Elemente,"
 msgstr ""
 
-#: ./Geist.dialog:60
+#: ./Geist.dialog:56
 msgid "ihre Kraft und Eigenschaft,"
 msgstr ""
 
-#: ./Geist.dialog:61
+#: ./Geist.dialog:57
 msgid "waere kein Meister ueber die Geister."
 msgstr ""
 
-#: ./Geist.dialog:66
+#: ./Geist.dialog:62
 msgid "I wish I knew what you are talking about."
 msgstr ""
 
-#: ./Geist.dialog:74
+#: ./Geist.dialog:70
 msgid "I need to go now."
 msgstr ""
 
-#: ./Geist.dialog:76
+#: ./Geist.dialog:72
 msgid " . . ."
 msgstr ""
 

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -15,347 +15,433 @@ msgid "Hi! I'm new here."
 msgstr ""
 
 #: ./Stone.dialog:50
-msgid "Welcome to this camp! I'm Ms. Stone. I run this shop."
+msgid "Welcome to our town! I'm Ms. Stone. I run this shop."
 msgstr ""
 
 #: ./Stone.dialog:51
 msgid "Stone -- Shopowner"
 msgstr ""
 
-#: ./Stone.dialog:58
+#: ./Stone.dialog:56
 msgid "I would like to trade with you."
 msgstr ""
 
-#: ./Stone.dialog:60
+#: ./Stone.dialog:58
 msgid "Good! Here is the selection of items I have for sale."
 msgstr ""
 
-#: ./Stone.dialog:66
+#: ./Stone.dialog:68
 msgid "Swords, clubs and maces? What is this? I want guns!"
 msgstr ""
 
-#: ./Stone.dialog:68
+#: ./Stone.dialog:71
+msgid "I think the Red Guard has their own store somewhere."
+msgstr ""
+
+#: ./Stone.dialog:72
+msgid "At least, they somehow get supplement I don't sell."
+msgstr ""
+
+#: ./Stone.dialog:73
+msgid ""
+"However, I'm quite sure, they don't offer the same range of products that I do"
+"."
+msgstr ""
+
+#: ./Stone.dialog:75
 msgid ""
 "Sorry, this is all we have for now. The Red Guard took away all of our poppers"
 "."
 msgstr ""
 
-#: ./Stone.dialog:69
+#: ./Stone.dialog:76
 msgid "For our own good. Of course."
 msgstr ""
 
-#: ./Stone.dialog:75
+#: ./Stone.dialog:83
 msgid "What can you tell me about the guards here?"
 msgstr ""
 
-#: ./Stone.dialog:77
+#: ./Stone.dialog:85
 msgid "Ah, the Red Guard."
 msgstr ""
 
-#: ./Stone.dialog:78
-msgid "Stranger, best if you don't ask such questions."
-msgstr ""
-
-#: ./Stone.dialog:79
-msgid "They keep us alive and safe from the bots, but..."
-msgstr ""
-
-#: ./Stone.dialog:84
-msgid "But...?"
-msgstr ""
-
-#: ./Stone.dialog:86
-msgid "They run the city with strict laws and demand total obedience."
-msgstr ""
-
 #: ./Stone.dialog:87
-msgid "We all need to obey their rules. We need to work hard or they hurt us."
+msgid "Well, they keep the town safe."
 msgstr ""
 
 #: ./Stone.dialog:88
+msgid "Without them, everything would drown in chaos, but..."
+msgstr ""
+
+#: ./Stone.dialog:91
+msgid "Well, you ARE a red guard."
+msgstr ""
+
+#: ./Stone.dialog:92
+msgid "What should I tell you about them that you don't know yet?"
+msgstr ""
+
+#: ./Stone.dialog:93
+msgid "Uhm, right."
+msgstr ""
+
+#: ./Stone.dialog:95
+msgid "Stranger, best if you don't ask such questions."
+msgstr ""
+
+#: ./Stone.dialog:96
+msgid "They keep us alive and safe from the bots, but..."
+msgstr ""
+
+#: ./Stone.dialog:104
+msgid "But...?"
+msgstr ""
+
+#: ./Stone.dialog:107
+msgid "But nothing."
+msgstr ""
+
+#: ./Stone.dialog:108
+msgid "I'm busy right now."
+msgstr ""
+
+#: ./Stone.dialog:109
+msgid "We should talk again later..."
+msgstr ""
+
+#: ./Stone.dialog:112
+msgid "But nothing!"
+msgstr ""
+
+#: ./Stone.dialog:113
+msgid "I don't know what you are talking about."
+msgstr ""
+
+#: ./Stone.dialog:116
+msgid "The Guards run the town with very strict laws and demand total obedience."
+msgstr ""
+
+#: ./Stone.dialog:117
+msgid "We all need to obey their rules. We need to work hard or they hurt us."
+msgstr ""
+
+#: ./Stone.dialog:118
 msgid ""
 "I guess I should not complain. The bots are far worse than the guards can be, "
 "but..."
 msgstr ""
 
-#: ./Stone.dialog:89
+#: ./Stone.dialog:119
 msgid ""
 "Sucked dry by a bloodthirsty regime over many years or just sliced into bits b"
 "y our former servants..."
 msgstr ""
 
-#: ./Stone.dialog:90
+#: ./Stone.dialog:120
 msgid "... What's the difference?"
 msgstr ""
 
-#: ./Stone.dialog:95
+#: ./Stone.dialog:127
 msgid "If things are so bad right now, why don't you leave?"
 msgstr ""
 
-#: ./Stone.dialog:102
+#: ./Stone.dialog:130
 msgid "If things are so bad right now, why --"
 msgstr ""
 
-#: ./Stone.dialog:104
+#: ./Stone.dialog:131
 msgid "I don't want to hear this jabberwocky."
 msgstr ""
 
-#: ./Stone.dialog:105
+#: ./Stone.dialog:132
 msgid ""
 "A hint, Linarian: We don't have much, but we're alive and we'd rather stay tha"
 "t way."
 msgstr ""
 
-#: ./Stone.dialog:106
+#: ./Stone.dialog:134
+msgid ""
+"You are a Red Guardian now, feel free to make attempts on making our situation"
+" better here in this town."
+msgstr ""
+
+#: ./Stone.dialog:136
 msgid "If you want to start a revolution, you're on your own."
 msgstr ""
 
-#: ./Stone.dialog:110
+#: ./Stone.dialog:142
 msgid "How is your business going?"
 msgstr ""
 
-#: ./Stone.dialog:113
+#: ./Stone.dialog:145
 msgid "Thanks to you I have a chance now."
 msgstr ""
 
-#: ./Stone.dialog:114
+#: ./Stone.dialog:146
 msgid ""
 "Ha! It's time to show the world that Lily Stone is not going down without putt"
-"ing up a damn good fight."
+"ing up a REAL good fight."
 msgstr ""
 
-#: ./Stone.dialog:116
+#: ./Stone.dialog:147
+#: ./Stone.dialog:228
+msgid "Lily Stone -- Shopowner"
+msgstr ""
+
+#: ./Stone.dialog:149
 msgid "I'll be finished in about a week."
 msgstr ""
 
-#: ./Stone.dialog:117
+#: ./Stone.dialog:150
 msgid ""
 "The Stone family always bought cheap and sold at a low profit. The times have "
 "changed, but not my prices."
 msgstr ""
 
-#: ./Stone.dialog:118
+#: ./Stone.dialog:151
 msgid ""
 "The new taxes, the worldwide economic collapse and other factors are slowly mu"
 "rdering the family store."
 msgstr ""
 
-#: ./Stone.dialog:125
+#: ./Stone.dialog:158
 msgid "Can I help you somehow Ms. Stone?"
 msgstr ""
 
-#: ./Stone.dialog:127
+#: ./Stone.dialog:160
 msgid ""
 "No, there's nothing that can be done anymore. I don't have enough money to lif"
 "t the shop from the downward spiral."
 msgstr ""
 
-#: ./Stone.dialog:128
+#: ./Stone.dialog:161
 msgid "I'd need thousands to just survive the month."
 msgstr ""
 
-#: ./Stone.dialog:129
+#: ./Stone.dialog:162
 msgid "The shop is dying, and there's nothing either of us can do about it."
 msgstr ""
 
-#: ./Stone.dialog:134
+#: ./Stone.dialog:167
 msgid "Maybe there is still hope, Ms. Stone. How much exactly do you need?"
 msgstr ""
 
-#: ./Stone.dialog:136
+#: ./Stone.dialog:169
 msgid ""
 "I couldn't get myself to look at my finance logs for a while now. I guess abou"
 "t two thousand circuits."
 msgstr ""
 
-#: ./Stone.dialog:138
-#: ./Stone.dialog:184
-#: ./Stone.dialog:194
-#: ./Stone.dialog:207
+#: ./Stone.dialog:171
+#: ./Stone.dialog:230
+#: ./Stone.dialog:240
+#: ./Stone.dialog:253
 msgid "Saving the shop"
 msgstr ""
 
-#: ./Stone.dialog:138
+#: ./Stone.dialog:171
 msgid ""
 "Ms. Stone can't afford to pay her taxes, and it looks like the family business"
 " will be going under soon. She needs 2000 in cash to stay afloat. I could try "
 "to help her out."
 msgstr ""
 
-#: ./Stone.dialog:144
+#: ./Stone.dialog:177
 msgid "A pity that nothing can be done about your store."
 msgstr ""
 
-#: ./Stone.dialog:146
+#: ./Stone.dialog:179
 msgid "Yes. A tradition of six generations will die with this shop..."
 msgstr ""
 
-#: ./Stone.dialog:147
+#: ./Stone.dialog:180
 msgid "I guess it just had to happen one day..."
 msgstr ""
 
-#: ./Stone.dialog:152
+#: ./Stone.dialog:185
 msgid "I have the money you need Ms. Stone. You can have it."
 msgstr ""
 
-#: ./Stone.dialog:154
+#: ./Stone.dialog:187
 msgid "Is... Is this a joke? So much money? And you just give it to me?"
 msgstr ""
 
-#: ./Stone.dialog:155
+#: ./Stone.dialog:188
 msgid "Thank you! Thank you! Thank you! Savior!"
 msgstr ""
 
-#: ./Stone.dialog:156
+#: ./Stone.dialog:190
+msgid "Are you sure you really have the sum of 2000 circuits?"
+msgstr ""
+
+#: ./Stone.dialog:192
+msgid "Yes, I have it."
+msgstr ""
+
+#: ./Stone.dialog:193
+msgid "Oh thank you!"
+msgstr ""
+
+#: ./Stone.dialog:196
+#: ./Stone.dialog:211
+msgid "Hold on a minute, you are still a bit short on money."
+msgstr ""
+
+#: ./Stone.dialog:197
+msgid "Don't try to trick me."
+msgstr ""
+
+#: ./Stone.dialog:200
 msgid ""
 "But this isn't fair to you. The Stones are a family of fair merchants and I in"
 "tend to uphold that tradition."
 msgstr ""
 
-#: ./Stone.dialog:157
+#: ./Stone.dialog:201
 msgid ""
 "I need 1,547 circuits to get through the month. I will accept only that and no"
 "t a transistor more."
 msgstr ""
 
-#: ./Stone.dialog:159
+#: ./Stone.dialog:203
 msgid "Now it's fair. Thank you."
 msgstr ""
 
-#: ./Stone.dialog:160
+#: ./Stone.dialog:204
 msgid "You've given me a bit of hope.. "
 msgstr ""
 
-#: ./Stone.dialog:161
+#: ./Stone.dialog:205
 msgid "Wait a second... I think I recognize you..."
 msgstr ""
 
-#: ./Stone.dialog:162
+#: ./Stone.dialog:206
 msgid "You are "
 msgstr ""
 
-#: ./Stone.dialog:162
-msgid ", aren't you..."
+#: ./Stone.dialog:206
+msgid ", aren't you...?"
 msgstr ""
 
-#: ./Stone.dialog:163
+#: ./Stone.dialog:207
 msgid "The hero..."
 msgstr ""
 
-#: ./Stone.dialog:167
-msgid "Hold on a minute, you are still a bit short on money."
-msgstr ""
-
-#: ./Stone.dialog:168
+#: ./Stone.dialog:212
 msgid "Please return with the full amount if you want to help."
 msgstr ""
 
-#: ./Stone.dialog:169
+#: ./Stone.dialog:213
 msgid ""
 "Otherwise you're throwing good money after bad, and I couldn't let you do that"
 "."
 msgstr ""
 
-#: ./Stone.dialog:175
+#: ./Stone.dialog:220
 msgid "Yes, its me."
 msgstr ""
 
-#: ./Stone.dialog:177
+#: ./Stone.dialog:222
 msgid ""
 "I thought so. My grandfather used to tell me stories about you. He said you wo"
 "uld come here in a time of despair."
 msgstr ""
 
-#: ./Stone.dialog:178
+#: ./Stone.dialog:223
 msgid "And here you are."
 msgstr ""
 
-#: ./Stone.dialog:179
+#: ./Stone.dialog:224
 msgid "I hope your arrival changes the tide of this war..."
 msgstr ""
 
-#: ./Stone.dialog:180
+#: ./Stone.dialog:225
 msgid ""
 "I have something here for you. I managed to hide this Shotgun from the Red Gua"
 "rd."
 msgstr ""
 
-#: ./Stone.dialog:181
+#: ./Stone.dialog:226
 msgid ""
 "It used to belong to my grandfather, so it's very dear to me, but I'm sure he "
 "would have like you to have it on your journey to save us all."
 msgstr ""
 
-#: ./Stone.dialog:182
+#: ./Stone.dialog:227
 msgid ""
-", if you ever find out who started the Great Assault... GIVE THEM A KICK IN TH"
-"E ASS, FROM LILY STONE!!!"
+", if you ever find out who started the Great Assault... GIVE THEM A SWIFT KICK"
+" FROM LILY STONE!!!"
 msgstr ""
 
-#: ./Stone.dialog:184
+#: ./Stone.dialog:230
 msgid ""
 "Ms. Stone was really grateful for my help. She took only what she needed from "
 "me, and still rewarded me with a shotgun she had been hiding from the Red Guar"
 "d."
 msgstr ""
 
-#: ./Stone.dialog:190
+#: ./Stone.dialog:236
 msgid "It's not important who I am."
 msgstr ""
 
-#: ./Stone.dialog:192
+#: ./Stone.dialog:238
 msgid "If you want to remain a stranger, I will respect your wishes."
 msgstr ""
 
-#: ./Stone.dialog:193
+#: ./Stone.dialog:239
 msgid "So be it."
 msgstr ""
 
-#: ./Stone.dialog:194
+#: ./Stone.dialog:240
 msgid ""
 "Ms. Stone was really grateful for my help. She took only what she needed from "
 "me."
 msgstr ""
 
-#: ./Stone.dialog:200
+#: ./Stone.dialog:246
 msgid "Ha ha ha, You fell for it! You get nothing from me! Hahahahah!"
 msgstr ""
 
-#: ./Stone.dialog:202
+#: ./Stone.dialog:248
 msgid "You... monster..."
 msgstr ""
 
-#: ./Stone.dialog:203
+#: ./Stone.dialog:249
 msgid "No one makes fun of Lily Stone's family store!"
 msgstr ""
 
-#: ./Stone.dialog:204
+#: ./Stone.dialog:250
 msgid "Say your prayers, you oversized duck!!!"
 msgstr ""
 
-#: ./Stone.dialog:206
-msgid "Stone -- Bird Hunting"
+#: ./Stone.dialog:252
+msgid "Lily Stone -- Bird Hunter"
 msgstr ""
 
-#: ./Stone.dialog:207
+#: ./Stone.dialog:253
 msgid ""
 "I tricked that Ms. Stone into believing I was going to help her out. It was fu"
 "nny to see her get angry."
 msgstr ""
 
-#: ./Stone.dialog:213
+#: ./Stone.dialog:259
 msgid "See you later."
 msgstr ""
 
-#: ./Stone.dialog:215
+#: ./Stone.dialog:261
 msgid "Have a nice day!"
 msgstr ""
 
-#: ./Stone.dialog:215
+#: ./Stone.dialog:261
 msgid "Take care that you don't void any warranties."
 msgstr ""
 
-#: ./Stone.dialog:215
-msgid "Please come back if you have any questions regarding any goods."
+#: ./Stone.dialog:261
+msgid "Please come back if you have any questions regarding my goods."
+msgstr ""
+
+#: ./Stone.dialog:261
+msgid "I hope to see you again, soon!"
 msgstr ""
 

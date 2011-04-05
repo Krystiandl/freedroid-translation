@@ -2,217 +2,468 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./Bruce.dialog:38
+#: ./Bruce.dialog:34
 msgid "I am tired."
 msgstr ""
 
-#: ./Bruce.dialog:39
+#: ./Bruce.dialog:35
 msgid "Go away."
 msgstr ""
 
 #: ./Bruce.dialog:46
-msgid "Hi. Are you all right? You don't look too good."
+msgid "So, what about the helmet now?"
 msgstr ""
 
-#: ./Bruce.dialog:48
-msgid "Good day. I am Bruce."
-msgstr ""
-
-#: ./Bruce.dialog:49
-msgid "I am unwell."
+#: ./Bruce.dialog:47
+msgid "I offered you 20 circuits for it."
 msgstr ""
 
 #: ./Bruce.dialog:50
-msgid "Bruce -- Mine Worker"
+msgid "You agreed."
+msgstr ""
+
+#: ./Bruce.dialog:51
+msgid "Indeed."
+msgstr ""
+
+#: ./Bruce.dialog:53
+msgid "You suggested 100 circuits as a prize."
+msgstr ""
+
+#: ./Bruce.dialog:54
+msgid "That is acceptable to me."
 msgstr ""
 
 #: ./Bruce.dialog:55
-msgid "How is it going?"
+msgid "Excellent."
 msgstr ""
 
 #: ./Bruce.dialog:57
-msgid "I am very tired, but otherwise well."
+msgid "You said you would give me the helmet for free."
+msgstr ""
+
+#: ./Bruce.dialog:58
+msgid "Yes, that's true."
+msgstr ""
+
+#: ./Bruce.dialog:61
+msgid "Please unequip it, so we can proceed."
 msgstr ""
 
 #: ./Bruce.dialog:62
-msgid "You don't talk much, eh?"
+msgid "I don't want to rip it off your head."
 msgstr ""
 
-#: ./Bruce.dialog:64
-msgid ""
-"No, I am just too tired now. I have been working in the mine for two weeks now"
-"."
+#: ./Bruce.dialog:67
+msgid "Here you go."
 msgstr ""
 
-#: ./Bruce.dialog:65
-msgid "I feel really wiped, so maybe it would be better if you came some other day."
+#: ./Bruce.dialog:68
+msgid "Oh, thank you!"
+msgstr ""
+
+#: ./Bruce.dialog:69
+msgid "Here, take this Lamp, as a token of my esteem."
 msgstr ""
 
 #: ./Bruce.dialog:70
-msgid "Why do you work so hard in the mine?"
+msgid "Oh, thank you very much!"
 msgstr ""
 
-#: ./Bruce.dialog:72
-msgid "Because I must! The Red Guard makes everyone work up to their limits!"
+#: ./Bruce.dialog:71
+#: ./Bruce.dialog:81
+msgid "You're welcome."
 msgstr ""
 
-#: ./Bruce.dialog:73
-msgid "If you do not work for a full work period, you will be in trouble."
+#: ./Bruce.dialog:77
+msgid "Fine."
 msgstr ""
 
-#: ./Bruce.dialog:74
-msgid "But I have no choice. I do not want to be a soldier again."
+#: ./Bruce.dialog:78
+msgid "Here are your 20 circuits."
 msgstr ""
 
 #: ./Bruce.dialog:79
-msgid "You were a soldier before? "
+msgid "Here's your new helmet."
 msgstr ""
 
-#: ./Bruce.dialog:81
-msgid "Yes. I would rather not talk about it."
+#: ./Bruce.dialog:80
+msgid "Thank you."
 msgstr ""
 
-#: ./Bruce.dialog:86
-msgid "Good. Start talking. Now."
+#: ./Bruce.dialog:87
+msgid "Hmm..."
 msgstr ""
 
 #: ./Bruce.dialog:88
-msgid "Those are pretty painful and distant memories."
+msgid "Ok."
 msgstr ""
 
 #: ./Bruce.dialog:89
+msgid "Here, take the hundred bucks."
+msgstr ""
+
+#: ./Bruce.dialog:90
+msgid "Now give me that helmet!"
+msgstr ""
+
+#: ./Bruce.dialog:91
+msgid "Here, take it."
+msgstr ""
+
+#: ./Bruce.dialog:97
+msgid "Where is it?"
+msgstr ""
+
+#: ./Bruce.dialog:98
+msgid "Did you lose it?"
+msgstr ""
+
+#: ./Bruce.dialog:99
+msgid "Come back to me when you have it."
+msgstr ""
+
+#: ./Bruce.dialog:107
+msgid "Hi. Are you all right? You don't look too good."
+msgstr ""
+
+#: ./Bruce.dialog:110
+msgid ""
+"I don't have time to talk: I'm far too busy working! I'm normally at the mines"
+" this time of day but I forgot something and that's..."
+msgstr ""
+
+#: ./Bruce.dialog:111
+msgid "That's why I'm here. Now I must get back to the mines."
+msgstr ""
+
+#: ./Bruce.dialog:114
+msgid "Good day. I am Bruce."
+msgstr ""
+
+#: ./Bruce.dialog:115
+msgid "I am unwell."
+msgstr ""
+
+#: ./Bruce.dialog:116
+msgid "Bruce -- Mine Worker"
+msgstr ""
+
+#: ./Bruce.dialog:122
+msgid "How is it going?"
+msgstr ""
+
+#: ./Bruce.dialog:124
+msgid "I am very tired, but otherwise well."
+msgstr ""
+
+#: ./Bruce.dialog:129
+msgid "You don't talk much, eh?"
+msgstr ""
+
+#: ./Bruce.dialog:131
+msgid ""
+"No, I am just too tired right now. I have been working in the mine for two wee"
+"ks now."
+msgstr ""
+
+#: ./Bruce.dialog:132
+msgid "I feel totally wiped, so maybe it would be better if you came some other day."
+msgstr ""
+
+#: ./Bruce.dialog:137
+msgid "Why do you work so hard in the mine?"
+msgstr ""
+
+#: ./Bruce.dialog:139
+msgid "Because I must! The Red Guard makes everyone work up to their limits!"
+msgstr ""
+
+#: ./Bruce.dialog:140
+msgid "If you do not work for a full work period, you will be in trouble."
+msgstr ""
+
+#: ./Bruce.dialog:141
+msgid "But I have no choice. I do not want to be a soldier again."
+msgstr ""
+
+#: ./Bruce.dialog:146
+msgid "You were a soldier before?"
+msgstr ""
+
+#: ./Bruce.dialog:148
+msgid "Yes. I would rather not talk about it."
+msgstr ""
+
+#: ./Bruce.dialog:153
+msgid "Good. Start talking. Now."
+msgstr ""
+
+#: ./Bruce.dialog:155
+msgid "Those are pretty painful and distant memories."
+msgstr ""
+
+#: ./Bruce.dialog:156
 msgid ""
 "After the Great Assault, I joined the Red Guard. They needed help and were loo"
 "king for volunteers."
 msgstr ""
 
-#: ./Bruce.dialog:90
+#: ./Bruce.dialog:157
 msgid ""
 "I served there for a short while, and they even let me use an exterminator. Bu"
 "t then after a failed mission, I resigned and never wore a uniform again."
 msgstr ""
 
-#: ./Bruce.dialog:95
+#: ./Bruce.dialog:162
 msgid "You mentioned an exterminator. What is it?"
 msgstr ""
 
-#: ./Bruce.dialog:97
+#: ./Bruce.dialog:164
 msgid "It is the best weapon that the Red Guard has against the bots."
 msgstr ""
 
-#: ./Bruce.dialog:98
+#: ./Bruce.dialog:165
 msgid ""
 "A direct hit from one of those guns is enough to turn most bots into scrap met"
 "al."
 msgstr ""
 
-#: ./Bruce.dialog:99
+#: ./Bruce.dialog:166
 msgid "Many of the great victories of the Red Guard are thanks to the exterminator."
 msgstr ""
 
-#: ./Bruce.dialog:100
+#: ./Bruce.dialog:167
 msgid ""
 "Of course, because of its small clip and terribly long reloading time, equally"
 " many deaths can be attributed to it."
 msgstr ""
 
-#: ./Bruce.dialog:105
+#: ./Bruce.dialog:172
 msgid "A failed mission?"
 msgstr ""
 
-#: ./Bruce.dialog:107
+#: ./Bruce.dialog:174
 msgid ""
-"There were six of us. Me, Wilber, Anderson and three others. I do not remember"
-" the names anymore. We were team number nine."
+"There were six of us. Me, Wilbert, Anderson and three others. I do not remembe"
+"r the names anymore. We were team number nine."
 msgstr ""
 
-#: ./Bruce.dialog:108
+#: ./Bruce.dialog:175
 msgid ""
 "It was a routine scout mission. We saw an interesting building which was not t"
 "here before, and decided to take a look."
 msgstr ""
 
-#: ./Bruce.dialog:109
+#: ./Bruce.dialog:176
 msgid ""
 "It was a terrible fortress, many stories high. It had guns everywhere. When we"
 " got close the shooting started."
 msgstr ""
 
-#: ./Bruce.dialog:110
+#: ./Bruce.dialog:177
 msgid ""
 "They were waiting for us. Came in endless swarms. More and more and more. We s"
 "tood our ground and kept firing, but it was no use. More of them came."
 msgstr ""
 
-#: ./Bruce.dialog:111
+#: ./Bruce.dialog:178
 msgid ""
 "Our ammunition ran out. They got close. It was the end of team number nine. Th"
 "e Hell Fortress took their lives. I ran. I survived."
 msgstr ""
 
-#: ./Bruce.dialog:112
+#: ./Bruce.dialog:179
 msgid ""
 "After that I decided that I am not fit to be one of the Red Guard. I resigned "
 "and started to work in the mine shortly after."
 msgstr ""
 
-#: ./Bruce.dialog:113
-msgid "I do not want to face the anger of the Hell Fortress ever again. Never again."
+#: ./Bruce.dialog:180
+msgid "I do not want to face the rage of the Hell Fortress ever again. Never again."
 msgstr ""
 
-#: ./Bruce.dialog:118
+#: ./Bruce.dialog:185
 msgid "I said, I want to know about your life as a soldier."
 msgstr ""
 
-#: ./Bruce.dialog:120
+#: ./Bruce.dialog:187
 msgid ""
-"And I said that I do not want to talk about it. It hurts too much. Please stop"
-" asking about it and leave me alone."
+"And I said that I do not want to talk about it. It hurts too much. Please, sto"
+"p asking about it and leave me alone."
 msgstr ""
 
-#: ./Bruce.dialog:125
+#: ./Bruce.dialog:192
 msgid ""
 "You don't understand. I wasn't asking. Now, tell me about your life as a soldi"
 "er, or I will tell the guards you are slacking off."
 msgstr ""
 
-#: ./Bruce.dialog:127
+#: ./Bruce.dialog:194
 msgid ""
 "No! Please... I will do anything, just don't call the Red Guard! They do not l"
 "ike people who left the service. They do not like me. "
 msgstr ""
 
-#: ./Bruce.dialog:128
+#: ./Bruce.dialog:195
 msgid "I will tell you everything."
 msgstr ""
 
-#: ./Bruce.dialog:134
+#: ./Bruce.dialog:201
 msgid ""
 "I have some bad memories too. I know how hard it can be to talk about them. Ke"
-"ep your stories to yourself."
+"ep your stories for yourself."
 msgstr ""
 
-#: ./Bruce.dialog:136
+#: ./Bruce.dialog:203
 msgid "Yes. And now I would like to go to sleep. Good night Linarian."
 msgstr ""
 
-#: ./Bruce.dialog:142
+#: ./Bruce.dialog:209
+msgid "BUG! REPORT ME! BRUCE NODE 20"
+msgstr ""
+
+#: ./Bruce.dialog:212
+msgid "What do you have there?"
+msgstr ""
+
+#: ./Bruce.dialog:213
+msgid "What do you mean?"
+msgstr ""
+
+#: ./Bruce.dialog:214
+msgid "That helmet. I could make good use of it, it looks quite solid."
+msgstr ""
+
+#: ./Bruce.dialog:215
+msgid "Can I buy it from you?"
+msgstr ""
+
+#: ./Bruce.dialog:221
+msgid "Yes, sure."
+msgstr ""
+
+#: ./Bruce.dialog:223
+msgid "Good."
+msgstr ""
+
+#: ./Bruce.dialog:224
+msgid "Let's say, 20 circuits?"
+msgstr ""
+
+#: ./Bruce.dialog:226
+msgid "Please take off the helmet, so we can proceed trading."
+msgstr ""
+
+#: ./Bruce.dialog:234
+msgid "I'm sorry, but I'd like to keep it."
+msgstr ""
+
+#: ./Bruce.dialog:236
+msgid "Bummer!"
+msgstr ""
+
+#: ./Bruce.dialog:243
+msgid "20 circuits? Ok."
+msgstr ""
+
+#: ./Bruce.dialog:245
+msgid "Okay."
+msgstr ""
+
+#: ./Bruce.dialog:246
+msgid "Let me quickly go get the money."
+msgstr ""
+
+#: ./Bruce.dialog:247
+msgid "Talk to me again in a moment."
+msgstr ""
+
+#: ./Bruce.dialog:255
+msgid "20 circuits? I'll sell it to for... a hundred."
+msgstr ""
+
+#: ./Bruce.dialog:257
+msgid "Well... okay."
+msgstr ""
+
+#: ./Bruce.dialog:258
+msgid "Let me get the money."
+msgstr ""
+
+#: ./Bruce.dialog:259
+msgid "Come back to me after that."
+msgstr ""
+
+#: ./Bruce.dialog:267
+msgid "20 circuits? Do you think I'm stupid? I'll sell it for 1000!"
+msgstr ""
+
+#: ./Bruce.dialog:269
+msgid "That's way too expensive."
+msgstr ""
+
+#: ./Bruce.dialog:270
+msgid "Fine, I'll keep it than."
+msgstr ""
+
+#: ./Bruce.dialog:271
+msgid "You're the greediest penguin I've ever met."
+msgstr ""
+
+#: ./Bruce.dialog:272
+msgid "Forget about the deal!"
+msgstr ""
+
+#: ./Bruce.dialog:277
+msgid "You can have it for free."
+msgstr ""
+
+#: ./Bruce.dialog:280
+msgid "I changed my mind."
+msgstr ""
+
+#: ./Bruce.dialog:281
+msgid "You can have it. Free."
+msgstr ""
+
+#: ./Bruce.dialog:282
+msgid "Oh... Oh my! thanks!"
+msgstr ""
+
+#: ./Bruce.dialog:283
+msgid "Wait, let me go get something first."
+msgstr ""
+
+#: ./Bruce.dialog:284
+msgid "Sure."
+msgstr ""
+
+#: ./Bruce.dialog:291
 msgid "I'll be going then."
 msgstr ""
 
-#: ./Bruce.dialog:145
+#: ./Bruce.dialog:294
 msgid ". . ."
 msgstr ""
 
-#: ./Bruce.dialog:147
+#: ./Bruce.dialog:296
+msgid "Please, don't run off. I'll only be a moment."
+msgstr ""
+
+#: ./Bruce.dialog:298
+msgid "Hang tight, I'll be right back for that helmet!"
+msgstr ""
+
+#: ./Bruce.dialog:300
 msgid "Good. I need sleep."
 msgstr ""
 

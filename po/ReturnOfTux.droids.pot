@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -14,114 +14,132 @@ msgstr ""
 msgid "XXX"
 msgstr ""
 
-#: ./ReturnOfTux.droids:60
+#: ./ReturnOfTux.droids:69
 msgid "North Gate Guard"
 msgstr ""
 
-#: ./ReturnOfTux.droids:61
+#: ./ReturnOfTux.droids:70
 msgid "Gate Guardhouse Guard"
 msgstr ""
 
-#: ./ReturnOfTux.droids:62
-#: ./ReturnOfTux.droids:64
-#: ./ReturnOfTux.droids:76
-#: ./ReturnOfTux.droids:77
-#: ./ReturnOfTux.droids:81
-#: ./ReturnOfTux.droids:83
+#: ./ReturnOfTux.droids:71
+#: ./ReturnOfTux.droids:73
+#: ./ReturnOfTux.droids:85
 #: ./ReturnOfTux.droids:86
+#: ./ReturnOfTux.droids:90
+#: ./ReturnOfTux.droids:92
+#: ./ReturnOfTux.droids:95
 msgid "Red Guard Member"
 msgstr ""
 
-#: ./ReturnOfTux.droids:63
+#: ./ReturnOfTux.droids:72
 msgid "Town Teleporter Guard"
 msgstr ""
 
-#: ./ReturnOfTux.droids:65
+#: ./ReturnOfTux.droids:74
 msgid "Chandra -- Town Sage"
 msgstr ""
 
-#: ./ReturnOfTux.droids:66
+#: ./ReturnOfTux.droids:75
 msgid "Medic"
 msgstr ""
 
-#: ./ReturnOfTux.droids:67
+#: ./ReturnOfTux.droids:76
 msgid "Shopowner"
 msgstr ""
 
-#: ./ReturnOfTux.droids:68
+#: ./ReturnOfTux.droids:77
 msgid "COBAL Programmer"
 msgstr ""
 
-#: ./ReturnOfTux.droids:69
+#: ./ReturnOfTux.droids:78
 msgid "614 -- North Gate Guard Bot"
 msgstr ""
 
-#: ./ReturnOfTux.droids:70
-#: ./ReturnOfTux.droids:71
+#: ./ReturnOfTux.droids:79
+#: ./ReturnOfTux.droids:80
 msgid "614 -- South Gate Guard Bot"
 msgstr ""
 
-#: ./ReturnOfTux.droids:72
+#: ./ReturnOfTux.droids:81
 msgid "614 -- East Gate Guard Bot"
 msgstr ""
 
-#: ./ReturnOfTux.droids:73
-#: ./ReturnOfTux.droids:74
+#: ./ReturnOfTux.droids:82
+#: ./ReturnOfTux.droids:83
 msgid "614 -- Patrolling Guard Bot"
 msgstr ""
 
-#: ./ReturnOfTux.droids:75
+#: ./ReturnOfTux.droids:84
 msgid "*nix Admin"
 msgstr ""
 
-#: ./ReturnOfTux.droids:78
+#: ./ReturnOfTux.droids:87
 msgid "Cook"
 msgstr ""
 
-#: ./ReturnOfTux.droids:79
+#: ./ReturnOfTux.droids:88
 msgid "Guy with Hat"
 msgstr ""
 
-#: ./ReturnOfTux.droids:80
+#: ./ReturnOfTux.droids:89
 msgid "Sketchy Guy"
 msgstr ""
 
-#: ./ReturnOfTux.droids:82
+#: ./ReturnOfTux.droids:91
 msgid "Mine Worker"
 msgstr ""
 
-#: ./ReturnOfTux.droids:84
+#: ./ReturnOfTux.droids:93
 msgid "Spencer -- Leader of the Red Guard"
 msgstr ""
 
-#: ./ReturnOfTux.droids:85
+#: ./ReturnOfTux.droids:94
 msgid "Lukas -- Head of the Armory"
 msgstr ""
 
-#: ./ReturnOfTux.droids:87
+#: ./ReturnOfTux.droids:96
 msgid "Barkeeper"
 msgstr ""
 
-#: ./ReturnOfTux.droids:88
+#: ./ReturnOfTux.droids:97
 msgid "Librarian"
 msgstr ""
 
-#: ./ReturnOfTux.droids:89
-msgid "Peter -- Inprisoned Rebel"
+#: ./ReturnOfTux.droids:98
+msgid "Peter -- Imprisoned Rebel"
 msgstr ""
 
-#: ./ReturnOfTux.droids:111
+#: ./ReturnOfTux.droids:99
+msgid "Hot Girl"
+msgstr ""
+
+#: ./ReturnOfTux.droids:113
 msgid "Dark Apprentice of MegaSys"
 msgstr ""
 
-#: ./ReturnOfTux.droids:132
+#: ./ReturnOfTux.droids:127
 msgid "DSB Control Terminal Guard"
 msgstr ""
 
-#: ./ReturnOfTux.droids:155
+#: ./ReturnOfTux.droids:141
 msgid "The Singularity"
 msgstr ""
 
+#: ./ReturnOfTux.droids:142
+#: ./ReturnOfTux.droids:143
+#: ./ReturnOfTux.droids:144
+#: ./ReturnOfTux.droids:145
+#: ./ReturnOfTux.droids:146
+#: ./ReturnOfTux.droids:147
+#: ./ReturnOfTux.droids:148
+#: ./ReturnOfTux.droids:149
+#: ./ReturnOfTux.droids:150
+#: ./ReturnOfTux.droids:151
+#: ./ReturnOfTux.droids:152
+#: ./ReturnOfTux.droids:153
+#: ./ReturnOfTux.droids:154
+#: ./ReturnOfTux.droids:155
 #: ./ReturnOfTux.droids:156
 #: ./ReturnOfTux.droids:157
 #: ./ReturnOfTux.droids:158
@@ -129,211 +147,207 @@ msgstr ""
 #: ./ReturnOfTux.droids:160
 #: ./ReturnOfTux.droids:161
 #: ./ReturnOfTux.droids:162
-#: ./ReturnOfTux.droids:163
-#: ./ReturnOfTux.droids:164
-#: ./ReturnOfTux.droids:165
-#: ./ReturnOfTux.droids:166
-#: ./ReturnOfTux.droids:167
-#: ./ReturnOfTux.droids:168
-#: ./ReturnOfTux.droids:169
-#: ./ReturnOfTux.droids:170
-#: ./ReturnOfTux.droids:171
-#: ./ReturnOfTux.droids:172
-#: ./ReturnOfTux.droids:173
-#: ./ReturnOfTux.droids:174
-#: ./ReturnOfTux.droids:175
-#: ./ReturnOfTux.droids:176
 msgid "Singularity Drone"
 msgstr ""
 
-#: ./ReturnOfTux.droids:177
+#: ./ReturnOfTux.droids:163
 msgid "MS Emissary"
 msgstr ""
 
-#: ./ReturnOfTux.droids:197
-#: ./ReturnOfTux.droids:198
+#: ./ReturnOfTux.droids:178
+#: ./ReturnOfTux.droids:179
 msgid "Blue Guy"
 msgstr ""
 
-#: ./ReturnOfTux.droids:236
+#: ./ReturnOfTux.droids:213
 msgid "Old Guy"
 msgstr ""
 
-#: ./ReturnOfTux.droids:237
+#: ./ReturnOfTux.droids:214
 msgid "614 - Friendly Robot"
 msgstr ""
 
-#: ./ReturnOfTux.droids:246
-msgid "Hot Girl"
+#: ./ReturnOfTux.droids:222
+msgid "Friendly 296"
 msgstr ""
 
-#: ./ReturnOfTux.droids:297
+#: ./ReturnOfTux.droids:254
 msgid "Stolen 614"
 msgstr ""
 
-#: ./ReturnOfTux.droids:298
+#: ./ReturnOfTux.droids:255
 msgid "Kevin"
 msgstr ""
 
-#: ./ReturnOfTux.droids:299
+#: ./ReturnOfTux.droids:256
 msgid "Cute Girl"
 msgstr ""
 
-#: ./ReturnOfTux.droids:300
-#: ./ReturnOfTux.droids:301
-#: ./ReturnOfTux.droids:302
-#: ./ReturnOfTux.droids:303
+#: ./ReturnOfTux.droids:257
+msgid "Lawn Mower"
+msgstr ""
+
+#: ./ReturnOfTux.droids:258
+#: ./ReturnOfTux.droids:259
+#: ./ReturnOfTux.droids:260
+#: ./ReturnOfTux.droids:261
 msgid "Prisoner"
 msgstr ""
 
-#: ./ReturnOfTux.droids:368
-#: ./ReturnOfTux.droids:369
-msgid "MSCD - MegaSys Control Droid"
+#: ./ReturnOfTux.droids:322
+msgid "John"
 msgstr ""
 
-#: ./ReturnOfTux.droids:429
+#: ./ReturnOfTux.droids:353
 msgid "Race Condition"
 msgstr ""
 
-#: ./ReturnOfTux.droids:430
+#: ./ReturnOfTux.droids:354
 msgid "Undeclared Variable"
 msgstr ""
 
-#: ./ReturnOfTux.droids:431
+#: ./ReturnOfTux.droids:355
 msgid "Segmentation Fault"
 msgstr ""
 
-#: ./ReturnOfTux.droids:432
+#: ./ReturnOfTux.droids:356
 msgid "Buffer Overflow"
 msgstr ""
 
-#: ./ReturnOfTux.droids:441
+#: ./ReturnOfTux.droids:362
 msgid "Melissa.I"
 msgstr ""
 
-#: ./ReturnOfTux.droids:442
+#: ./ReturnOfTux.droids:363
 msgid "ILOVEYOU"
 msgstr ""
 
-#: ./ReturnOfTux.droids:443
+#: ./ReturnOfTux.droids:364
 msgid "W32.YourDoom"
 msgstr ""
 
-#: ./ReturnOfTux.droids:444
+#: ./ReturnOfTux.droids:365
 msgid "CIH.1103"
 msgstr ""
 
-#: ./ReturnOfTux.droids:457
+#: ./ReturnOfTux.droids:373
+msgid "Corporate Guy"
+msgstr ""
+
+#: ./ReturnOfTux.droids:374
 msgid "MSDD - MegaSys Defence Droid"
 msgstr ""
 
-#: ./ReturnOfTux.droids:458
-#: ./ReturnOfTux.droids:459
-#: ./ReturnOfTux.droids:460
-#: ./ReturnOfTux.droids:461
-#: ./ReturnOfTux.droids:462
+#: ./ReturnOfTux.droids:375
+#: ./ReturnOfTux.droids:376
+#: ./ReturnOfTux.droids:377
+#: ./ReturnOfTux.droids:378
+#: ./ReturnOfTux.droids:379
 msgid "TD"
 msgstr ""
 
-#: ./ReturnOfTux.droids:463
+#: ./ReturnOfTux.droids:380
 msgid "Update Server Guard"
 msgstr ""
 
-#: ./ReturnOfTux.droids:493
+#: ./ReturnOfTux.droids:398
 msgid "Koan"
 msgstr ""
 
-#: ./ReturnOfTux.droids:505
+#: ./ReturnOfTux.droids:405
 msgid "Hostile Droid"
 msgstr ""
 
-#: ./ReturnOfTux.droids:506
+#: ./ReturnOfTux.droids:406
 msgid "Scientist"
 msgstr ""
 
-#: ./ReturnOfTux.droids:507
-msgid "SACD - Secret Area Control Droid"
+#: ./ReturnOfTux.droids:408
+msgid "SACD - Defender"
 msgstr ""
 
-#: ./ReturnOfTux.droids:511
-msgid "Boris -- scientists leader"
-msgstr ""
-
-#: ./ReturnOfTux.droids:515
-msgid "Lina -- librarian"
-msgstr ""
-
-#: ./ReturnOfTux.droids:519
-msgid "Serge -- storehouse keeper"
-msgstr ""
-
-#: ./ReturnOfTux.droids:521
-#: ./ReturnOfTux.droids:524
+#: ./ReturnOfTux.droids:410
+#: ./ReturnOfTux.droids:413
+#: ./ReturnOfTux.droids:426
+#: ./ReturnOfTux.droids:427
+#: ./ReturnOfTux.droids:428
 msgid "SADD"
 msgstr ""
 
-#: ./ReturnOfTux.droids:522
+#: ./ReturnOfTux.droids:411
 msgid "Ashman"
 msgstr ""
 
-#: ./ReturnOfTux.droids:523
-#: ./ReturnOfTux.droids:525
-#: ./ReturnOfTux.droids:526
-#: ./ReturnOfTux.droids:527
+#: ./ReturnOfTux.droids:412
+#: ./ReturnOfTux.droids:414
+#: ./ReturnOfTux.droids:415
+#: ./ReturnOfTux.droids:416
 msgid "Guard"
 msgstr ""
 
-#: ./ReturnOfTux.droids:528
+#: ./ReturnOfTux.droids:417
 msgid "Servant"
 msgstr ""
 
-#: ./ReturnOfTux.droids:529
+#: ./ReturnOfTux.droids:418
 msgid "Criocapsules maintainer"
 msgstr ""
 
-#: ./ReturnOfTux.droids:530
+#: ./ReturnOfTux.droids:419
 msgid "Sanitary technician"
 msgstr ""
 
-#: ./ReturnOfTux.droids:531
+#: ./ReturnOfTux.droids:420
 msgid "Toilet droid"
 msgstr ""
 
-#: ./ReturnOfTux.droids:550
+#: ./ReturnOfTux.droids:422
+msgid "Boris -- scientists leader"
+msgstr ""
+
+#: ./ReturnOfTux.droids:423
+msgid "Lina -- librarian"
+msgstr ""
+
+#: ./ReturnOfTux.droids:424
+msgid "Serge -- storehouse keeper"
+msgstr ""
+
+#: ./ReturnOfTux.droids:441
 msgid "???"
 msgstr ""
 
-#: ./ReturnOfTux.droids:551
+#: ./ReturnOfTux.droids:442
 msgid "Kill Me"
 msgstr ""
 
-#: ./ReturnOfTux.droids:552
+#: ./ReturnOfTux.droids:443
 msgid "Kill Me Too"
 msgstr ""
 
-#: ./ReturnOfTux.droids:553
-#: ./ReturnOfTux.droids:554
-#: ./ReturnOfTux.droids:555
-#: ./ReturnOfTux.droids:556
-#: ./ReturnOfTux.droids:557
-#: ./ReturnOfTux.droids:558
-#: ./ReturnOfTux.droids:559
-#: ./ReturnOfTux.droids:560
-#: ./ReturnOfTux.droids:561
-#: ./ReturnOfTux.droids:562
-#: ./ReturnOfTux.droids:563
-#: ./ReturnOfTux.droids:564
-#: ./ReturnOfTux.droids:565
-#: ./ReturnOfTux.droids:566
-#: ./ReturnOfTux.droids:567
+#: ./ReturnOfTux.droids:444
+#: ./ReturnOfTux.droids:445
+#: ./ReturnOfTux.droids:446
+#: ./ReturnOfTux.droids:447
+#: ./ReturnOfTux.droids:448
+#: ./ReturnOfTux.droids:449
+#: ./ReturnOfTux.droids:450
+#: ./ReturnOfTux.droids:451
+#: ./ReturnOfTux.droids:452
+#: ./ReturnOfTux.droids:453
+#: ./ReturnOfTux.droids:454
+#: ./ReturnOfTux.droids:455
+#: ./ReturnOfTux.droids:456
+#: ./ReturnOfTux.droids:457
+#: ./ReturnOfTux.droids:458
 msgid "Target"
 msgstr ""
 
-#: ./ReturnOfTux.droids:663
+#: ./ReturnOfTux.droids:529
 msgid "Bot Factory Gate Guard"
 msgstr ""
 
-#: ./ReturnOfTux.droids:664
+#: ./ReturnOfTux.droids:530
 msgid "Bot Factory Gate Guard Leader"
 msgstr ""
 

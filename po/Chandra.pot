@@ -2,291 +2,297 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./Chandra.dialog:41
+#: ./Chandra.dialog:37
 msgid "Hi! I'm new here."
 msgstr ""
 
-#: ./Chandra.dialog:43
+#: ./Chandra.dialog:39
 msgid "Welcome. I am Chandra, the local sage in this old town."
 msgstr ""
 
-#: ./Chandra.dialog:48
+#: ./Chandra.dialog:44
 msgid "What can you tell me about this place?"
 msgstr ""
 
-#: ./Chandra.dialog:50
+#: ./Chandra.dialog:46
 msgid ""
 "This small town used to be a somewhat successful mining community, exporting r"
 "are earth materials and other resources to the rest of the solar system."
 msgstr ""
 
-#: ./Chandra.dialog:51
+#: ./Chandra.dialog:47
 msgid ""
 "The mines have depleted recently, however. The town was under a threat of bank"
 "ruptcy. Living here became harder and many left to seek new opportunities else"
 "where."
 msgstr ""
 
-#: ./Chandra.dialog:52
+#: ./Chandra.dialog:48
 msgid ""
 "But now after the Great Assault, the rest of the planet gets bombarded by auto"
 "mated bot ships every now and then, so being down here isn't so bad at all."
 msgstr ""
 
-#: ./Chandra.dialog:53
+#: ./Chandra.dialog:49
 msgid "Even with the Red Guard in charge, I suppose."
 msgstr ""
 
-#: ./Chandra.dialog:58
+#: ./Chandra.dialog:54
 msgid "Where can I get better equipment?"
 msgstr ""
 
-#: ./Chandra.dialog:60
+#: ./Chandra.dialog:56
 msgid ""
 "The shop is to the north, near the gate. Ms. Stone always has a good range of "
 "equipment there, with fair prices too."
 msgstr ""
 
-#: ./Chandra.dialog:61
+#: ./Chandra.dialog:57
 msgid "Not that you have much choice."
 msgstr ""
 
-#: ./Chandra.dialog:62
+#: ./Chandra.dialog:58
 msgid ""
 "Of course, the Red Guard always has the biggest guns and the best armor, but t"
 "hey do not sell them to non-members."
 msgstr ""
 
-#: ./Chandra.dialog:67
+#: ./Chandra.dialog:63
 msgid "So what's so strange about the attack?"
 msgstr ""
 
-#: ./Chandra.dialog:69
+#: ./Chandra.dialog:65
 msgid ""
 "According to my calculations from the Fermi estimate, there are about seven mi"
 "llion bots active in the region, everything from cleaner bots and servant droi"
 "ds to much more dangerous ones."
 msgstr ""
 
-#: ./Chandra.dialog:70
+#: ./Chandra.dialog:66
 msgid ""
 "Now, I think you will agree with me that the following statement is true: If b"
 "ots, then death to everything alive."
 msgstr ""
 
-#: ./Chandra.dialog:71
+#: ./Chandra.dialog:67
 msgid "Now, I make the assumption that you and I are alive."
 msgstr ""
 
-#: ./Chandra.dialog:72
+#: ./Chandra.dialog:68
 msgid "Now, if we are not dead, and if bots are killing everything alive..."
 msgstr ""
 
-#: ./Chandra.dialog:73
+#: ./Chandra.dialog:69
 msgid "... THEN SOMETHING IS NOT LOGICAL!"
 msgstr ""
 
-#: ./Chandra.dialog:74
+#: ./Chandra.dialog:70
 msgid "Calm down. There must be some logic behind this."
 msgstr ""
 
-#: ./Chandra.dialog:75
+#: ./Chandra.dialog:71
 msgid "There is none!"
 msgstr ""
 
-#: ./Chandra.dialog:76
-msgid "They could just enter the city and massacre everyone..."
+#: ./Chandra.dialog:72
+msgid "They could just enter the town and massacre everyone..."
 msgstr ""
 
-#: ./Chandra.dialog:77
+#: ./Chandra.dialog:73
 msgid "But they do not even seem to try!"
 msgstr ""
 
-#: ./Chandra.dialog:78
+#: ./Chandra.dialog:74
 msgid "This makes no sense at all!"
 msgstr ""
 
-#: ./Chandra.dialog:83
+#: ./Chandra.dialog:79
 msgid "What do you know about the hostile bots?"
 msgstr ""
 
-#: ./Chandra.dialog:85
+#: ./Chandra.dialog:81
 msgid ""
 "The phenomenon of hostile bots has occupied my mind for quite some time. There"
 " are some strange irrationalities in this behavior, that I cannot explain."
 msgstr ""
 
-#: ./Chandra.dialog:86
+#: ./Chandra.dialog:82
 msgid ""
 "This concerns not only the suddenness of the attack but also the methods and t"
 "he scale of it all."
 msgstr ""
 
-#: ./Chandra.dialog:91
+#: ./Chandra.dialog:87
 msgid "What types of bots are out there?"
 msgstr ""
 
-#: ./Chandra.dialog:93
+#: ./Chandra.dialog:89
 msgid ""
 "There are many. Each kind of bot has a number consisting of three digits. The "
 "first one is the most significant, the class of a bot."
 msgstr ""
 
-#: ./Chandra.dialog:94
+#: ./Chandra.dialog:90
 msgid "I know a bit about three classes."
 msgstr ""
 
-#: ./Chandra.dialog:95
+#: ./Chandra.dialog:91
 msgid ""
 "The 100s are cleaning bots of old. Being that, they are quite common. Fortunat"
 "ely for us they aren't as good at killing things as they are at cleaning up th"
 "e mess afterwards."
 msgstr ""
 
-#: ./Chandra.dialog:96
+#: ./Chandra.dialog:92
 msgid ""
 "The 200s are servant bots, designed to come quickly when summoned and be able "
 "to lift heavy weights. That makes them more dangerous under most circumstances"
 ", so beware of being attacked by more than one at the same time."
 msgstr ""
 
-#: ./Chandra.dialog:97
+#: ./Chandra.dialog:93
 msgid ""
 "Right now, an encounter with a 300 type bot equals death, so try to avoid it. "
 "They were messenger bots before the Great Assault, which means they have super"
 "b visual sensors and some are very fast."
 msgstr ""
 
-#: ./Chandra.dialog:98
+#: ./Chandra.dialog:94
 msgid ""
 "There are many more classes out there. The military used bots, of course, and "
 "they were used on ships, but I know nothing about those types."
 msgstr ""
 
-#: ./Chandra.dialog:103
+#: ./Chandra.dialog:99
 msgid "I want to leave this place."
 msgstr ""
 
-#: ./Chandra.dialog:105
+#: ./Chandra.dialog:101
 msgid "We all do, Linarian, we all do."
 msgstr ""
 
-#: ./Chandra.dialog:106
+#: ./Chandra.dialog:102
 msgid ""
 "The act in question is made impossible by the quasi-infinite bots outside of t"
-"he city walls."
+"he town walls."
 msgstr ""
 
-#: ./Chandra.dialog:107
+#: ./Chandra.dialog:103
 msgid "You cannot live for long out there."
 msgstr ""
 
-#: ./Chandra.dialog:112
+#: ./Chandra.dialog:108
 msgid "No, I meant I would like to leave this world."
 msgstr ""
 
-#: ./Chandra.dialog:114
+#: ./Chandra.dialog:110
 msgid ""
-"Simple. Walk outside the city walls, and the bots will send you to the other w"
+"Simple. Walk outside the town walls, and the bots will send you to the other w"
 "orld within a few minutes."
 msgstr ""
 
-#: ./Chandra.dialog:115
+#: ./Chandra.dialog:111
 msgid "Unless you mean leave the planet, in which case that is impossible."
 msgstr ""
 
-#: ./Chandra.dialog:116
+#: ./Chandra.dialog:112
 msgid "Most likely all of our cosmodromes have been destroyed in the bot attacks."
 msgstr ""
 
-#: ./Chandra.dialog:121
+#: ./Chandra.dialog:117
 msgid "I keep getting beaten up by the bots. What can I do?"
 msgstr ""
 
-#: ./Chandra.dialog:123
+#: ./Chandra.dialog:119
 msgid "There are many things you can do. The first is to fight more bots."
 msgstr ""
 
-#: ./Chandra.dialog:124
+#: ./Chandra.dialog:120
 msgid ""
 "Er... Wouldn't that cause me to get beaten up more and therefore be counter-pr"
 "oductive?"
 msgstr ""
 
-#: ./Chandra.dialog:125
+#: ./Chandra.dialog:121
 msgid ""
 "Your logic is infallible, Linarian, but you are forgetting one thing: the more"
 " you fight, the more experienced you become, and the better at surviving you g"
 "et."
 msgstr ""
 
-#: ./Chandra.dialog:126
+#: ./Chandra.dialog:122
 msgid ""
 "Also, if you have the money and can find a supplier, it is wise to invest in b"
 "etter equipment - more protective clothing and better weaponry."
 msgstr ""
 
-#: ./Chandra.dialog:127
+#: ./Chandra.dialog:123
 msgid ""
 "My advice is to invest in a ranged weapon. While that can create a huge hole i"
 "n your wallet, it also creates several in the bots, and is better than a huge "
 "hole in you."
 msgstr ""
 
-#: ./Chandra.dialog:128
+#: ./Chandra.dialog:124
 msgid ""
 "Currently there is a ban on selling such things. The Red Guard wants to be the"
 " only ones with good weapons."
 msgstr ""
 
-#: ./Chandra.dialog:129
+#: ./Chandra.dialog:125
 msgid ""
 "Should you fail to find something decent to shoot or swing with, there are alw"
 "ays other options."
 msgstr ""
 
-#: ./Chandra.dialog:130
+#: ./Chandra.dialog:126
 msgid ""
 "Ewald, the barkeeper, usually sells an assortment of junk, but even he sometim"
 "es has something worthwhile on display."
 msgstr ""
 
-#: ./Chandra.dialog:131
+#: ./Chandra.dialog:127
 msgid ""
 "There was a person selling grenades, too. Eh... I forgot his name, my memory i"
 "s not serving me very well today. He's a very mysterious fellow. Perhaps he ca"
 "n help you."
 msgstr ""
 
-#: ./Chandra.dialog:132
+#: ./Chandra.dialog:128
 msgid "Other than that, you are on your own."
 msgstr ""
 
-#: ./Chandra.dialog:137
+#: ./Chandra.dialog:133
 msgid "Do you think I could join the guardians of this town?"
 msgstr ""
 
-#: ./Chandra.dialog:139
+#: ./Chandra.dialog:136
+msgid ""
+"The Red Guard...? Only if you're as strong and courageous as they are! There i"
+"s no one better than the Red Guard! Nothing but top quality men there!"
+msgstr ""
+
+#: ./Chandra.dialog:138
 msgid ""
 "The Red Guard? Unlikely. You'd have to establish a reputation beforehand, and "
 "demonstrate that you can fix things."
 msgstr ""
 
-#: ./Chandra.dialog:140
+#: ./Chandra.dialog:139
 msgid ""
 "Also, the Red Guard is not a very popular organization, so if you do join them"
 " then you can expect to be hated by nearly everyone here."
 msgstr ""
 
-#: ./Chandra.dialog:141
+#: ./Chandra.dialog:140
 msgid ""
 "As the ancients said, 'Boni pastoris est tondere pecus, non deglubere'. A good"
 " tax must be a reasonable tax."

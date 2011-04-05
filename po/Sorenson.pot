@@ -2,267 +2,267 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./Sorenson.dialog:38
+#: ./Sorenson.dialog:34
 msgid "Um... Hello?"
 msgstr ""
 
-#: ./Sorenson.dialog:39
+#: ./Sorenson.dialog:35
 msgid "AH! A Visitor! Come in! Come in!"
 msgstr ""
 
-#: ./Sorenson.dialog:40
+#: ./Sorenson.dialog:36
 msgid "I think I should go now. Right now. See you later."
 msgstr ""
 
-#: ./Sorenson.dialog:41
+#: ./Sorenson.dialog:37
 msgid "No, don't go. I will not let you go before we talk. Important things."
 msgstr ""
 
-#: ./Sorenson.dialog:42
+#: ./Sorenson.dialog:38
 msgid "I can help you understand computers... Greater than ever before."
 msgstr ""
 
-#: ./Sorenson.dialog:47
+#: ./Sorenson.dialog:43
 msgid "Who are you?"
 msgstr ""
 
-#: ./Sorenson.dialog:49
+#: ./Sorenson.dialog:45
 msgid "I? Sorenson is a great computer person."
 msgstr ""
 
-#: ./Sorenson.dialog:50
+#: ./Sorenson.dialog:46
 msgid "Knows the deep codes. Walks the paths."
 msgstr ""
 
-#: ./Sorenson.dialog:51
+#: ./Sorenson.dialog:47
 msgid "Sees the light of all chips. Knows how to use every keyboard."
 msgstr ""
 
-#: ./Sorenson.dialog:52
+#: ./Sorenson.dialog:48
 msgid "Erm..."
 msgstr ""
 
-#: ./Sorenson.dialog:53
+#: ./Sorenson.dialog:49
 msgid "Sees the bit. Knows the bytes. Explores the great networks."
 msgstr ""
 
-#: ./Sorenson.dialog:54
+#: ./Sorenson.dialog:50
 msgid "The best friend of the clean and pure code."
 msgstr ""
 
-#: ./Sorenson.dialog:55
+#: ./Sorenson.dialog:51
 msgid "The great light on the night sky of the hollow web of computer power."
 msgstr ""
 
-#: ./Sorenson.dialog:56
+#: ./Sorenson.dialog:52
 msgid "Yes, I get the idea..."
 msgstr ""
 
-#: ./Sorenson.dialog:57
+#: ./Sorenson.dialog:53
 msgid "Seeker of clean languages. The great knower of obscure secrets."
 msgstr ""
 
-#: ./Sorenson.dialog:58
+#: ./Sorenson.dialog:54
 msgid "The one who speaks to hard drives. The best --"
 msgstr ""
 
-#: ./Sorenson.dialog:59
+#: ./Sorenson.dialog:55
 msgid "I KNOW! I KNOW!"
 msgstr ""
 
-#: ./Sorenson.dialog:60
+#: ./Sorenson.dialog:56
 msgid "Oh."
 msgstr ""
 
-#: ./Sorenson.dialog:61
+#: ./Sorenson.dialog:57
 msgid "Sorenson did not tell you most yet."
 msgstr ""
 
-#: ./Sorenson.dialog:62
+#: ./Sorenson.dialog:58
 msgid "She did not tell you she is the great controller of light."
 msgstr ""
 
-#: ./Sorenson.dialog:63
+#: ./Sorenson.dialog:59
 msgid "She did not tell you she is the walker of the dark corridors --"
 msgstr ""
 
-#: ./Sorenson.dialog:64
+#: ./Sorenson.dialog:60
 msgid "STOP! STOP! I CANNOT TAKE THIS ANYMORE! MY HEAD HURTS!"
 msgstr ""
 
-#: ./Sorenson.dialog:65
+#: ./Sorenson.dialog:61
 msgid "Apology is being extended by me. Sorenson overdid it."
 msgstr ""
 
-#: ./Sorenson.dialog:66
+#: ./Sorenson.dialog:62
 msgid "Sorenson the coder greets you."
 msgstr ""
 
-#: ./Sorenson.dialog:67
+#: ./Sorenson.dialog:63
 msgid "Sorenson -- Mystery coder"
 msgstr ""
 
-#: ./Sorenson.dialog:72
+#: ./Sorenson.dialog:68
 msgid "Why are you like this? What happened to you?"
 msgstr ""
 
-#: ./Sorenson.dialog:74
+#: ./Sorenson.dialog:70
 msgid "Was learning COBOL. Pain. Torture. Horrible screaming."
 msgstr ""
 
-#: ./Sorenson.dialog:75
+#: ./Sorenson.dialog:71
 msgid "Sorenson asked for help. Many days and nights."
 msgstr ""
 
-#: ./Sorenson.dialog:76
+#: ./Sorenson.dialog:72
 msgid "Light arrived. Light offered help. Sorenson changed."
 msgstr ""
 
-#: ./Sorenson.dialog:77
+#: ./Sorenson.dialog:73
 msgid "Free person now."
 msgstr ""
 
-#: ./Sorenson.dialog:82
+#: ./Sorenson.dialog:78
 msgid "What is this COBOL?"
 msgstr ""
 
-#: ./Sorenson.dialog:84
+#: ./Sorenson.dialog:80
 msgid "COBOL is the mind-crippler."
 msgstr ""
 
-#: ./Sorenson.dialog:85
+#: ./Sorenson.dialog:81
 msgid "Don't use it. Forget the cursed name. COBOL is pain. COBOL is hate."
 msgstr ""
 
-#: ./Sorenson.dialog:90
+#: ./Sorenson.dialog:86
 msgid ""
 "I see you have a huge source code book collection. Mind if I buy some from you"
 "?"
 msgstr ""
 
-#: ./Sorenson.dialog:92
+#: ./Sorenson.dialog:88
 msgid "Of course not. Trade is good."
 msgstr ""
 
-#: ./Sorenson.dialog:98
+#: ./Sorenson.dialog:94
 msgid "Can I take a look at your books again?"
 msgstr ""
 
-#: ./Sorenson.dialog:100
+#: ./Sorenson.dialog:96
 msgid "Yes. Sure. Of course."
 msgstr ""
 
-#: ./Sorenson.dialog:105
+#: ./Sorenson.dialog:101
 msgid "You got me curious. How can you help me understand computers better?"
 msgstr ""
 
-#: ./Sorenson.dialog:107
+#: ./Sorenson.dialog:103
 msgid "Simplicity! Sign this contract. No need to read it."
 msgstr ""
 
-#: ./Sorenson.dialog:108
+#: ./Sorenson.dialog:104
 msgid "You trust Sorenson, right?"
 msgstr ""
 
-#: ./Sorenson.dialog:113
+#: ./Sorenson.dialog:109
 msgid "Sure. I'll sign it."
 msgstr ""
 
-#: ./Sorenson.dialog:115
+#: ./Sorenson.dialog:111
 msgid "Go0d. H3re is th3 con7ract. S1gn it!"
 msgstr ""
 
-#: ./Sorenson.dialog:116
+#: ./Sorenson.dialog:112
 msgid "Ok, here go --"
 msgstr ""
 
-#: ./Sorenson.dialog:117
+#: ./Sorenson.dialog:113
 msgid "N0! 1n bl00d!"
 msgstr ""
 
-#: ./Sorenson.dialog:122
+#: ./Sorenson.dialog:118
 msgid "Um... Your voice sounds strange. Is everything fine?"
 msgstr ""
 
-#: ./Sorenson.dialog:124
+#: ./Sorenson.dialog:120
 msgid "519n 7h3 c0n7r4c7!!!!"
 msgstr ""
 
-#: ./Sorenson.dialog:129
+#: ./Sorenson.dialog:125
 msgid ""
 "Please calm down. You must speak clearly and slowly. Please stop breathing smo"
 "ke like that, it bothers my throat. And what is the deal with the red glowing "
 "eyes? You should see a doctor. "
 msgstr ""
 
-#: ./Sorenson.dialog:131
+#: ./Sorenson.dialog:127
 msgid "519n 17!!!!"
 msgstr ""
 
-#: ./Sorenson.dialog:136
+#: ./Sorenson.dialog:132
 msgid "Sure, no problem... Now, how shall I sign this?"
 msgstr ""
 
-#: ./Sorenson.dialog:143
+#: ./Sorenson.dialog:139
 msgid "Tux."
 msgstr ""
 
-#: ./Sorenson.dialog:148
+#: ./Sorenson.dialog:144
 msgid "Tux, the Linarian"
 msgstr ""
 
-#: ./Sorenson.dialog:153
+#: ./Sorenson.dialog:149
 msgid "I accept the contract, Tux"
 msgstr ""
 
-#: ./Sorenson.dialog:158
+#: ./Sorenson.dialog:154
 msgid "Elbereth"
 msgstr ""
 
-#: ./Sorenson.dialog:161
+#: ./Sorenson.dialog:157
 msgid "4444! 17 burn5! 7'm m3171n9!"
 msgstr ""
 
-#: ./Sorenson.dialog:162
+#: ./Sorenson.dialog:158
 msgid "44444444444444444!"
 msgstr ""
 
-#: ./Sorenson.dialog:167
+#: ./Sorenson.dialog:163
 msgid "Francis"
 msgstr ""
 
-#: ./Sorenson.dialog:169
+#: ./Sorenson.dialog:165
 msgid "H4! Y0ur s0ul 15 min3, Francis!"
 msgstr ""
 
-#: ./Sorenson.dialog:170
+#: ./Sorenson.dialog:166
 msgid "Wh47? N07 w0rk1b9?"
 msgstr ""
 
-#: ./Sorenson.dialog:171
+#: ./Sorenson.dialog:167
 msgid "Erm. I have a confession to make. My name is not Francis."
 msgstr ""
 
-#: ./Sorenson.dialog:172
+#: ./Sorenson.dialog:168
 msgid "N0000000000!!!!!!!"
 msgstr ""
 
-#: ./Sorenson.dialog:173
-#: ./Sorenson.dialog:194
-#: ./Sorenson.dialog:214
-#: ./Sorenson.dialog:223
+#: ./Sorenson.dialog:169
+#: ./Sorenson.dialog:190
+#: ./Sorenson.dialog:210
+#: ./Sorenson.dialog:219
 msgid "COBOL Programmer -- Madly Enraged"
 msgstr ""
 
-#: ./Sorenson.dialog:179
+#: ./Sorenson.dialog:175
 msgid ""
 "The great destroyer of evil, the purger of all things foul, the friend of mank"
 "ind, the third duke of Linarius, esquire, Doctorate of Computer Sciences, high"
@@ -270,73 +270,73 @@ msgid ""
 "His Great Magnificence, Tux."
 msgstr ""
 
-#: ./Sorenson.dialog:181
+#: ./Sorenson.dialog:177
 msgid "Huh?"
 msgstr ""
 
-#: ./Sorenson.dialog:182
+#: ./Sorenson.dialog:178
 msgid "I... Don't feel... good... Blood loss... So... Cold..."
 msgstr ""
 
-#: ./Sorenson.dialog:183
+#: ./Sorenson.dialog:179
 msgid "N0! Idi07!"
 msgstr ""
 
-#: ./Sorenson.dialog:189
+#: ./Sorenson.dialog:185
 msgid "X"
 msgstr ""
 
-#: ./Sorenson.dialog:192
+#: ./Sorenson.dialog:188
 msgid "N0! S7up1d illi73r4t3 p3n9u1n! D13!!"
 msgstr ""
 
-#: ./Sorenson.dialog:199
+#: ./Sorenson.dialog:195
 msgid "Huh? I d0n'7 f33l g00d."
 msgstr ""
 
-#: ./Sorenson.dialog:201
+#: ./Sorenson.dialog:197
 msgid "Yes! I am free! At last I am free!"
 msgstr ""
 
-#: ./Sorenson.dialog:201
+#: ./Sorenson.dialog:197
 msgid "Yes! I am free!"
 msgstr ""
 
-#: ./Sorenson.dialog:201
+#: ./Sorenson.dialog:197
 msgid "Yes! I am free at last!"
 msgstr ""
 
-#: ./Sorenson.dialog:202
+#: ./Sorenson.dialog:198
 msgid "W417... 1 f331... H0rr1b13..."
 msgstr ""
 
-#: ./Sorenson.dialog:203
+#: ./Sorenson.dialog:199
 msgid "Yes, fool! You have freed me! I can finally die! Goodbye idiot!"
 msgstr ""
 
-#: ./Sorenson.dialog:210
+#: ./Sorenson.dialog:206
 msgid ""
 "In blood? Yuck. I am not going to do this, blood is too messy for a binding le"
 "gal contract. Forget about it."
 msgstr ""
 
-#: ./Sorenson.dialog:212
+#: ./Sorenson.dialog:208
 msgid "N00oo00oo0! T1m3 to d1e, m0rtal foo1!"
 msgstr ""
 
-#: ./Sorenson.dialog:219
+#: ./Sorenson.dialog:215
 msgid "There is no way I will sign something without reading it. Forget about it."
 msgstr ""
 
-#: ./Sorenson.dialog:221
+#: ./Sorenson.dialog:217
 msgid "N00oo00oo0! T1m3 to d1e, m0rta1 foo1!"
 msgstr ""
 
-#: ./Sorenson.dialog:228
+#: ./Sorenson.dialog:224
 msgid "I really must be going now. Goodbye."
 msgstr ""
 
-#: ./Sorenson.dialog:230
+#: ./Sorenson.dialog:226
 msgid "Please come back later, Linarian. We must talk again."
 msgstr ""
 

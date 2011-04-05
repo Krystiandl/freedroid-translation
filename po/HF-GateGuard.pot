@@ -2,83 +2,83 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./HF-GateGuard.dialog:41
+#: ./HF-GateGuard.dialog:37
 msgid "Hi! I'm new here."
 msgstr ""
 
-#: ./HF-GateGuard.dialog:43
+#: ./HF-GateGuard.dialog:39
 msgid "Great. Now back to where you came from. This is no place for you."
 msgstr ""
 
-#: ./HF-GateGuard.dialog:48
+#: ./HF-GateGuard.dialog:44
 msgid "What's the matter with this gate?"
 msgstr ""
 
-#: ./HF-GateGuard.dialog:50
+#: ./HF-GateGuard.dialog:46
 msgid "This is a gate to an automated bot factory we call the Hell Fortress."
 msgstr ""
 
-#: ./HF-GateGuard.dialog:51
+#: ./HF-GateGuard.dialog:47
 msgid "You must be crazy if you want to get in there. That place is full of bots."
 msgstr ""
 
-#: ./HF-GateGuard.dialog:52
+#: ./HF-GateGuard.dialog:48
 msgid "Get out of here. They might attack at any moment!"
 msgstr ""
 
-#: ./HF-GateGuard.dialog:57
+#: ./HF-GateGuard.dialog:53
 msgid "What if I just walk in there? Will you try to stop me?"
 msgstr ""
 
-#: ./HF-GateGuard.dialog:59
+#: ./HF-GateGuard.dialog:55
 msgid "Of course not. Murdering you would be a complete waste of time."
 msgstr ""
 
-#: ./HF-GateGuard.dialog:60
+#: ./HF-GateGuard.dialog:56
 msgid "The bots and disruptor shield will take care of that for me."
 msgstr ""
 
-#: ./HF-GateGuard.dialog:61
+#: ./HF-GateGuard.dialog:57
 msgid "Just remember to give me your valuables before you commit suicide."
 msgstr ""
 
-#: ./HF-GateGuard.dialog:62
-msgid "You won't need any money once you're damn dead, and I could use it, eh?"
+#: ./HF-GateGuard.dialog:58
+msgid "You won't need any money once you're dead, and I could use it, eh?"
 msgstr ""
 
-#: ./HF-GateGuard.dialog:67
+#: ./HF-GateGuard.dialog:63
 msgid "Thanks for the advice."
 msgstr ""
 
-#: ./HF-GateGuard.dialog:69
+#: ./HF-GateGuard.dialog:65
 msgid "You're dead if you don't take it."
 msgstr ""
 
-#: ./HF-GateGuard.dialog:74
+#: ./HF-GateGuard.dialog:70
 msgid "I'll be going then."
 msgstr ""
 
-#: ./HF-GateGuard.dialog:76
+#: ./HF-GateGuard.dialog:72
 msgid "Finally."
 msgstr ""
 
-#: ./HF-GateGuard.dialog:76
+#: ./HF-GateGuard.dialog:72
 msgid "Don't come back."
 msgstr ""
 
-#: ./HF-GateGuard.dialog:76
+#: ./HF-GateGuard.dialog:72
 msgid "It is dangerous here."
 msgstr ""
 
-#: ./HF-GateGuard.dialog:76
+#: ./HF-GateGuard.dialog:72
 msgid "Leave and stay away."
 msgstr ""
 

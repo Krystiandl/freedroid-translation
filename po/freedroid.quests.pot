@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -18,149 +18,176 @@ msgstr ""
 msgid "The yellow toolkit"
 msgstr ""
 
-#: ./freedroid.quests:50
+#: ./freedroid.quests:60
 msgid "Anything but the army snacks, please!"
 msgstr ""
 
-#: ./freedroid.quests:57
+#: ./freedroid.quests:67
+#: ./freedroid.quests:73
 msgid "Novice Arena"
 msgstr ""
 
-#: ./freedroid.quests:61
+#: ./freedroid.quests:71
 msgid "Novice arena cleared!"
 msgstr ""
 
-#: ./freedroid.quests:62
-#: ./freedroid.quests:75
-#: ./freedroid.quests:96
+#: ./freedroid.quests:72
+#: ./freedroid.quests:86
+#: ./freedroid.quests:111
 msgid "Level cleared!"
 msgstr ""
 
-#: ./freedroid.quests:70
+#: ./freedroid.quests:81
+#: ./freedroid.quests:87
 msgid "Time to say goodnight"
 msgstr ""
 
-#: ./freedroid.quests:74
+#: ./freedroid.quests:85
 msgid "Master arena cleared. Good job, man."
 msgstr ""
 
-#: ./freedroid.quests:83
-msgid "Opening a can of bots..."
-msgstr ""
-
-#: ./freedroid.quests:91
-msgid "And there was light..."
+#: ./freedroid.quests:87
+msgid ""
+"I managed to win the fight in the master arena. Am I really that good, or did "
+"I cheat?"
 msgstr ""
 
 #: ./freedroid.quests:95
+#: ./freedroid.quests:98
+msgid "Opening a can of bots..."
+msgstr ""
+
+#: ./freedroid.quests:98
+msgid "The warehouse is now secured."
+msgstr ""
+
+#: ./freedroid.quests:106
+#: ./freedroid.quests:109
+msgid "And there was light..."
+msgstr ""
+
+#: ./freedroid.quests:109
+msgid "Hope everything is back to normal now. I better go check with Kevin."
+msgstr ""
+
+#: ./freedroid.quests:110
 msgid "All hostiles on level disabled."
 msgstr ""
 
-#: ./freedroid.quests:105
+#: ./freedroid.quests:120
 msgid "A kingdom for a cluster!"
 msgstr ""
 
-#: ./freedroid.quests:112
+#: ./freedroid.quests:127
 msgid "Opening access to MS Office"
 msgstr ""
 
-#: ./freedroid.quests:123
+#: ./freedroid.quests:138
 msgid "Propagating a faulty firmware"
 msgstr ""
 
-#: ./freedroid.quests:130
+#: ./freedroid.quests:145
 msgid "SADD's power supply"
 msgstr ""
 
-#: ./freedroid.quests:137
-msgid "Tania's sanitary"
-msgstr ""
-
-#: ./freedroid.quests:144
-#: ./freedroid.quests:151
-#: ./freedroid.quests:153
-#: ./freedroid.quests:156
+#: ./freedroid.quests:152
+#: ./freedroid.quests:159
+#: ./freedroid.quests:161
+#: ./freedroid.quests:164
 msgid "Tania's Escape"
 msgstr ""
 
-#: ./freedroid.quests:148
-#: ./freedroid.quests:149
+#: ./freedroid.quests:156
+#: ./freedroid.quests:157
 msgid "Tania died!"
 msgstr ""
 
-#: ./freedroid.quests:151
+#: ./freedroid.quests:159
 msgid ""
 "Tania died before escaping her underground bunker. I was unable to protect her"
 "."
 msgstr ""
 
-#: ./freedroid.quests:153
+#: ./freedroid.quests:161
 msgid ""
 "Tania died in the desert while trying to make it to the town. I was unable to "
 "protect her."
 msgstr ""
 
-#: ./freedroid.quests:156
+#: ./freedroid.quests:164
 msgid "Tania died while trying to make it to the town. I was unable to protect her."
 msgstr ""
 
-#: ./freedroid.quests:159
+#: ./freedroid.quests:167
 msgid "Tania made it to the town!"
 msgstr ""
 
-#: ./freedroid.quests:160
+#: ./freedroid.quests:168
 msgid "Tania successfully made it to the town!"
 msgstr ""
 
-#: ./freedroid.quests:170
+#: ./freedroid.quests:178
 msgid "Saving the shop"
 msgstr ""
 
-#: ./freedroid.quests:177
+#: ./freedroid.quests:185
 msgid "Doing Duncan a favor"
 msgstr ""
 
-#: ./freedroid.quests:184
+#: ./freedroid.quests:192
 msgid "Tutorial Movement"
 msgstr ""
 
-#: ./freedroid.quests:191
+#: ./freedroid.quests:199
 msgid "Tutorial Melee"
 msgstr ""
 
-#: ./freedroid.quests:194
+#: ./freedroid.quests:202
 msgid "Melee droids destroyed!"
 msgstr ""
 
-#: ./freedroid.quests:202
+#: ./freedroid.quests:210
 msgid "Tutorial Shooting"
 msgstr ""
 
-#: ./freedroid.quests:205
+#: ./freedroid.quests:213
 msgid "Shooting range cleared!"
 msgstr ""
 
-#: ./freedroid.quests:213
+#: ./freedroid.quests:221
 msgid "Tutorial Hacking"
 msgstr ""
 
-#: ./freedroid.quests:216
+#: ./freedroid.quests:224
 msgid "Hacking area cleared!"
 msgstr ""
 
-#: ./freedroid.quests:224
+#: ./freedroid.quests:232
 msgid "A strange guy stealing from town"
 msgstr ""
 
-#: ./freedroid.quests:233
+#: ./freedroid.quests:241
 msgid "Deliverance"
 msgstr ""
 
-#: ./freedroid.quests:240
+#: ./freedroid.quests:248
+msgid "Gapes Gluttony"
+msgstr ""
+
+#: ./freedroid.quests:255
 msgid "Tutorial Upgrading Items"
 msgstr ""
 
-#: ./freedroid.quests:242
+#: ./freedroid.quests:257
 msgid "Tutorial Upgrading Items finished!"
+msgstr ""
+
+#: ./freedroid.quests:265
+#: ./freedroid.quests:268
+msgid "Droids are my friends"
+msgstr ""
+
+#: ./freedroid.quests:268
+msgid "The old server room is now secured."
 msgstr ""
 

@@ -2,59 +2,225 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./Iris.dialog:39
+#: ./Iris.dialog:36
+msgid "Hey, remember our deal?"
+msgstr ""
+
+#: ./Iris.dialog:37
+msgid "I'll trade you a book, for that lamp and 100 credits."
+msgstr ""
+
+#: ./Iris.dialog:43
+msgid "Sure is dark around here."
+msgstr ""
+
+#: ./Iris.dialog:43
+msgid "I wish there was some decent lighting."
+msgstr ""
+
+#: ./Iris.dialog:55
 msgid "Hello."
 msgstr ""
 
-#: ./Iris.dialog:39
-msgid "Hi there."
+#: ./Iris.dialog:57
+msgid "Hello"
 msgstr ""
 
-#: ./Iris.dialog:40
-msgid "Well, hello again."
+#: ./Iris.dialog:57
+msgid "Hi there!"
 msgstr ""
 
-#: ./Iris.dialog:40
-msgid "Hello hello."
-msgstr ""
-
-#: ./Iris.dialog:40
-msgid "Welcome back."
-msgstr ""
-
-#: ./Iris.dialog:46
+#: ./Iris.dialog:62
 msgid "Who are you?"
 msgstr ""
 
-#: ./Iris.dialog:48
+#: ./Iris.dialog:64
 msgid "I'm Iris"
 msgstr ""
 
-#: ./Iris.dialog:49
+#: ./Iris.dialog:65
 msgid "Iris"
 msgstr ""
 
-#: ./Iris.dialog:54
+#: ./Iris.dialog:66
+msgid "Hello Iris."
+msgstr ""
+
+#: ./Iris.dialog:71
 msgid "What are you doing here?"
 msgstr ""
 
-#: ./Iris.dialog:56
-msgid "None of your business!"
+#: ./Iris.dialog:73
+msgid "I'm here just for vacations."
 msgstr ""
 
-#: ./Iris.dialog:61
+#: ./Iris.dialog:74
+msgid "And what do you usually do?"
+msgstr ""
+
+#: ./Iris.dialog:75
+msgid "Usually I hunt bots."
+msgstr ""
+
+#: ./Iris.dialog:76
+msgid "Iris -- Bothunter"
+msgstr ""
+
+#: ./Iris.dialog:81
+msgid "Where do you come from?"
+msgstr ""
+
+#: ./Iris.dialog:83
+msgid "Nowhere and everywhere."
+msgstr ""
+
+#: ./Iris.dialog:84
+msgid "As I already said, I walk around and kill bots."
+msgstr ""
+
+#: ./Iris.dialog:89
+msgid "Do you like it here?"
+msgstr ""
+
+#: ./Iris.dialog:93
+msgid "Yes, sure."
+msgstr ""
+
+#: ./Iris.dialog:94
+msgid "The Red Guard is very polite and keeps us safe from bots."
+msgstr ""
+
+#: ./Iris.dialog:95
+msgid "And the overall design of the town is quite clever."
+msgstr ""
+
+#: ./Iris.dialog:96
+msgid "Nevertheless this room is quite dark."
+msgstr ""
+
+#: ./Iris.dialog:97
+msgid "It could use some light."
+msgstr ""
+
+#: ./Iris.dialog:99
+msgid "Not really."
+msgstr ""
+
+#: ./Iris.dialog:100
+msgid "The town is quite ugly and dark."
+msgstr ""
+
+#: ./Iris.dialog:101
+msgid "And there are very strange people here."
+msgstr ""
+
+#: ./Iris.dialog:102
+msgid "I know exactly what you are talking about..."
+msgstr ""
+
+#: ./Iris.dialog:103
+msgid "I think this room could use some decoration."
+msgstr ""
+
+#: ./Iris.dialog:104
+msgid "It looks so cold and dark..."
+msgstr ""
+
+#: ./Iris.dialog:111
+msgid "Perhaps what I need is a lamp."
+msgstr ""
+
+#: ./Iris.dialog:118
+msgid "Look, I have this Lamp."
+msgstr ""
+
+#: ./Iris.dialog:120
+msgid "Wow, nice."
+msgstr ""
+
+#: ./Iris.dialog:125
+msgid "You can have it."
+msgstr ""
+
+#: ./Iris.dialog:127
+msgid "Oh great, thanks!"
+msgstr ""
+
+#: ./Iris.dialog:128
+msgid "Hmm, what can I give you as thank-you...?"
+msgstr ""
+
+#: ./Iris.dialog:129
+msgid "Oh, I have a nice book here."
+msgstr ""
+
+#: ./Iris.dialog:130
+msgid "But it's not worth the old dusty lamp."
+msgstr ""
+
+#: ./Iris.dialog:131
+msgid "I give it to you for the lamp and 100 circuits."
+msgstr ""
+
+#: ./Iris.dialog:137
+msgid "I don't have that much right now."
+msgstr ""
+
+#: ./Iris.dialog:138
+msgid "Let me get back to you about that."
+msgstr ""
+
+#: ./Iris.dialog:144
+msgid "Sure, sounds like a fair trade."
+msgstr ""
+
+#: ./Iris.dialog:147
+msgid "Take these 100 valuable circuits."
+msgstr ""
+
+#: ./Iris.dialog:148
+msgid "Ok, here it is. Take this book."
+msgstr ""
+
+#: ./Iris.dialog:149
+msgid ""
+"It's quite old and some pages are missing, but the main message is still clear"
+"."
+msgstr ""
+
+#: ./Iris.dialog:150
+msgid "Oh, thanks!"
+msgstr ""
+
+#: ./Iris.dialog:156
+msgid "Don't try to trick me, fat bird."
+msgstr ""
+
+#: ./Iris.dialog:157
+msgid "I know you can't afford it."
+msgstr ""
+
+#: ./Iris.dialog:158
+msgid "Eff off until you have the right sum!"
+msgstr ""
+
+#: ./Iris.dialog:164
 msgid "See you later."
 msgstr ""
 
-#: ./Iris.dialog:63
-msgid "In your dreams, Pinguin!"
+#: ./Iris.dialog:167
+msgid "Bye."
+msgstr ""
+
+#: ./Iris.dialog:169
+msgid "In your dreams, Penguin!"
 msgstr ""
 

@@ -2,236 +2,238 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./Skippy.dialog:40
+#: ./Skippy.dialog:36
 msgid "What? You again? I don't want you here, get out."
 msgstr ""
 
-#: ./Skippy.dialog:41
-#: ./Skippy.dialog:164
+#: ./Skippy.dialog:37
+#: ./Skippy.dialog:160
 msgid "See you later."
 msgstr ""
 
-#: ./Skippy.dialog:42
+#: ./Skippy.dialog:38
 msgid "Don't come back. I hate you."
 msgstr ""
 
-#: ./Skippy.dialog:48
+#: ./Skippy.dialog:44
 msgid "Hi! I'm new here."
 msgstr ""
 
-#: ./Skippy.dialog:50
+#: ./Skippy.dialog:46
 msgid "Great! A newcomer! Welcome! Welcome! I'm Skippy, and I'm your new best friend!"
 msgstr ""
 
-#: ./Skippy.dialog:51
+#: ./Skippy.dialog:47
 msgid "I already saw you coming. Due to my mapping device! It's great stuff!"
 msgstr ""
 
-#: ./Skippy.dialog:52
+#: ./Skippy.dialog:48
 msgid "And as a special favour, I'll sell you a mapping device for half price!"
 msgstr ""
 
-#: ./Skippy.dialog:53
+#: ./Skippy.dialog:49
 msgid "What a GREAT offer! You're so lucky!"
 msgstr ""
 
-#: ./Skippy.dialog:54
+#: ./Skippy.dialog:50
 msgid "Skippy -- Map-Maker Maker"
 msgstr ""
 
-#: ./Skippy.dialog:59
+#: ./Skippy.dialog:55
 msgid "Ok, if I want to buy me one of those mapping pills. How much are they?"
 msgstr ""
 
-#: ./Skippy.dialog:61
-msgid "They only cost 50. Special price only for you!"
+#: ./Skippy.dialog:57
+msgid "They only cost 50 circuits. Special price only for you!"
 msgstr ""
 
-#: ./Skippy.dialog:61
-msgid "You're so lucky! I just decided to cut the price in half!"
+#: ./Skippy.dialog:57
+msgid ""
+"You're so lucky! I just decided to cut the price in half! One of those devices"
+" only costs 50 circuits now!"
 msgstr ""
 
-#: ./Skippy.dialog:66
+#: ./Skippy.dialog:62
 msgid "How do I activate a mapping device?"
 msgstr ""
 
-#: ./Skippy.dialog:68
+#: ./Skippy.dialog:64
 msgid "Oh, that's so simple. No need to activate anything at all."
 msgstr ""
 
-#: ./Skippy.dialog:69
+#: ./Skippy.dialog:65
 msgid "Just swallow the pill and the nanotechnological bots will enter your body."
 msgstr ""
 
-#: ./Skippy.dialog:70
+#: ./Skippy.dialog:66
 msgid ""
 "They'll merge with your eyes and transmit data to your brain using the optical"
 " nerves. Nice, eh?"
 msgstr ""
 
-#: ./Skippy.dialog:71
+#: ./Skippy.dialog:67
 msgid "Everything within 50 meters of you will be displayed on your retinas."
 msgstr ""
 
-#: ./Skippy.dialog:76
+#: ./Skippy.dialog:72
 msgid "You said you make these things yourself? How do you do that?"
 msgstr ""
 
-#: ./Skippy.dialog:78
+#: ./Skippy.dialog:74
 msgid ""
 "Oh, I've always been a geek. And I got blueprints from before the Great Assaul"
 "t."
 msgstr ""
 
-#: ./Skippy.dialog:79
+#: ./Skippy.dialog:75
 msgid "You can't order anything from a catalogue anymore."
 msgstr ""
 
-#: ./Skippy.dialog:80
+#: ./Skippy.dialog:76
 msgid "The only source of these gizmos is here. It's me!"
 msgstr ""
 
-#: ./Skippy.dialog:85
+#: ./Skippy.dialog:81
 msgid "Nanotechnology? Isn't that dangerous?"
 msgstr ""
 
-#: ./Skippy.dialog:87
+#: ./Skippy.dialog:83
 msgid "No way, man, I guarantee it. Don't believe anything you might have heard."
 msgstr ""
 
-#: ./Skippy.dialog:88
+#: ./Skippy.dialog:84
 msgid "This is a perfectly safe and tried technology. No risk at all! Really!"
 msgstr ""
 
-#: ./Skippy.dialog:89
+#: ./Skippy.dialog:85
 msgid ""
 "There is no risk of your head being eaten by a nanotechnological nightmare, or"
 " anything funny like that."
 msgstr ""
 
-#: ./Skippy.dialog:90
+#: ./Skippy.dialog:86
 msgid ""
 "I've used one myself for many years now: no side effects! It works just as gre"
 "at as on the first day!"
 msgstr ""
 
-#: ./Skippy.dialog:91
+#: ./Skippy.dialog:87
 msgid "Trust me! I'm your best friend and I wouldn't lie to you! Never!"
 msgstr ""
 
-#: ./Skippy.dialog:96
+#: ./Skippy.dialog:92
 msgid "I don't trust you."
 msgstr ""
 
-#: ./Skippy.dialog:98
+#: ./Skippy.dialog:94
 msgid "WHAT? But I'm your best friend! You must trust me!"
 msgstr ""
 
-#: ./Skippy.dialog:103
+#: ./Skippy.dialog:99
 msgid "I still do not trust you. You are selling junk to people."
 msgstr ""
 
-#: ./Skippy.dialog:105
+#: ./Skippy.dialog:101
 msgid ""
 "WHAT? Fine, you can forget about my great deals now! I don't want to trade wit"
 "h you anymore!"
 msgstr ""
 
-#: ./Skippy.dialog:106
+#: ./Skippy.dialog:102
 msgid "I'm no longer your best friend. Go away, you dirty hoser!"
 msgstr ""
 
-#: ./Skippy.dialog:113
+#: ./Skippy.dialog:109
 msgid "Do you sell anything else?"
 msgstr ""
 
-#: ./Skippy.dialog:115
+#: ./Skippy.dialog:111
 msgid ""
 "Sure! I also build some electronics devices, depending on what parts I can get"
 " my hands on."
 msgstr ""
 
-#: ./Skippy.dialog:117
-msgid "Resources are a bit scarce nowdays though."
+#: ./Skippy.dialog:113
+msgid "Resources are a bit scarce nowadays though."
 msgstr ""
 
-#: ./Skippy.dialog:122
+#: ./Skippy.dialog:118
 msgid "Ok, I'll take one."
 msgstr ""
 
-#: ./Skippy.dialog:125
+#: ./Skippy.dialog:121
 msgid "Here is your pill."
 msgstr ""
 
-#: ./Skippy.dialog:126
+#: ./Skippy.dialog:122
 msgid "Just swallow it, and it should work."
 msgstr ""
 
-#: ./Skippy.dialog:127
+#: ./Skippy.dialog:123
 msgid "I give a 30 day warranty and adjustments, in case it doesn't work as expected."
 msgstr ""
 
-#: ./Skippy.dialog:129
-msgid "Swallow pill and Press tab to see automap."
+#: ./Skippy.dialog:125
+msgid "Swallow pill and press tab to see automap."
 msgstr ""
 
-#: ./Skippy.dialog:131
+#: ./Skippy.dialog:127
 msgid "Hey, I'm not a bank!"
 msgstr ""
 
-#: ./Skippy.dialog:132
+#: ./Skippy.dialog:128
 msgid "Come back when you can afford it."
 msgstr ""
 
-#: ./Skippy.dialog:139
+#: ./Skippy.dialog:135
 msgid "Nah, don't think so. "
 msgstr ""
 
-#: ./Skippy.dialog:141
+#: ./Skippy.dialog:137
 msgid "Your loss."
 msgstr ""
 
-#: ./Skippy.dialog:142
+#: ./Skippy.dialog:138
 msgid "Hope you won't get lost and killed out there."
 msgstr ""
 
-#: ./Skippy.dialog:143
+#: ./Skippy.dialog:139
 msgid "But don't count on it."
 msgstr ""
 
-#: ./Skippy.dialog:148
+#: ./Skippy.dialog:144
 msgid "Why are you so friendly?"
 msgstr ""
 
-#: ./Skippy.dialog:150
+#: ./Skippy.dialog:146
 msgid "Because you are my best friend!"
 msgstr ""
 
-#: ./Skippy.dialog:151
+#: ./Skippy.dialog:147
 msgid "I always take good care of my special buddies!"
 msgstr ""
 
-#: ./Skippy.dialog:156
+#: ./Skippy.dialog:152
 msgid "You are friendly only to sell me your stuff, aren't you?"
 msgstr ""
 
-#: ./Skippy.dialog:158
+#: ./Skippy.dialog:154
 msgid "No, never! I would never be so shallow!"
 msgstr ""
 
-#: ./Skippy.dialog:159
+#: ./Skippy.dialog:155
 msgid "I am friendly because I like you."
 msgstr ""
 
-#: ./Skippy.dialog:166
+#: ./Skippy.dialog:162
 msgid "Yes, we'll meet again, my friend, and I'll have other great deals for you."
 msgstr ""
 

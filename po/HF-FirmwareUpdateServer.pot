@@ -2,101 +2,101 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./HF-FirmwareUpdateServer.dialog:38
+#: ./HF-FirmwareUpdateServer.dialog:34
 msgid "one"
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:40
+#: ./HF-FirmwareUpdateServer.dialog:36
 msgid "two"
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:42
+#: ./HF-FirmwareUpdateServer.dialog:38
 msgid "three"
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:44
+#: ./HF-FirmwareUpdateServer.dialog:40
 msgid "four"
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:46
+#: ./HF-FirmwareUpdateServer.dialog:42
 msgid "five"
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:48
+#: ./HF-FirmwareUpdateServer.dialog:44
 msgid "six"
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:50
+#: ./HF-FirmwareUpdateServer.dialog:46
 msgid "CAPTCHA: Please write the lowercase word that answers the following: "
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:52
+#: ./HF-FirmwareUpdateServer.dialog:48
 msgid "Non-human detected. Administering paralyzing shock."
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:58
+#: ./HF-FirmwareUpdateServer.dialog:54
 msgid "Welcome to MS firmware upgrade server for region #54658."
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:59
+#: ./HF-FirmwareUpdateServer.dialog:55
 msgid "Please select action"
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:65
+#: ./HF-FirmwareUpdateServer.dialog:61
 msgid "Get current OS version"
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:68
+#: ./HF-FirmwareUpdateServer.dialog:64
 msgid "Currently deployed firmware is v. 5.0.8+worldto-nogpl."
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:70
+#: ./HF-FirmwareUpdateServer.dialog:66
 msgid "Currently deployed firmware is v. 5.0.8+"
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:70
+#: ./HF-FirmwareUpdateServer.dialog:66
 msgid "washere+gpl"
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:76
+#: ./HF-FirmwareUpdateServer.dialog:71
 msgid "Propagate firmware update"
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:78
+#: ./HF-FirmwareUpdateServer.dialog:73
 msgid "Compressing image...."
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:79
+#: ./HF-FirmwareUpdateServer.dialog:74
 msgid "Advertising update to clients..."
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:80
+#: ./HF-FirmwareUpdateServer.dialog:75
 msgid "Waiting for all connections...."
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:83
+#: ./HF-FirmwareUpdateServer.dialog:78
 msgid "Firmware update propagated!"
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:85
+#: ./HF-FirmwareUpdateServer.dialog:80
 msgid "Propagating a faulty firmware"
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:85
+#: ./HF-FirmwareUpdateServer.dialog:80
 msgid ""
 "I managed to upload the faulty firmware to all bots within transmission range."
 " Victory is mine!"
 msgstr ""
 
-#: ./HF-FirmwareUpdateServer.dialog:89
+#: ./HF-FirmwareUpdateServer.dialog:85
 msgid "Logout"
 msgstr ""
 

@@ -2,129 +2,129 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./HF-GateGuardLeader.dialog:33
-#: ./HF-GateGuardLeader.dialog:41
+#: ./HF-GateGuardLeader.dialog:29
+#: ./HF-GateGuardLeader.dialog:37
 msgid "Hey, Linarian! What do you want here?"
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:37
-#: ./HF-GateGuardLeader.dialog:67
+#: ./HF-GateGuardLeader.dialog:33
+#: ./HF-GateGuardLeader.dialog:63
 msgid "Opening access to MS Office"
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:44
+#: ./HF-GateGuardLeader.dialog:40
 msgid "GET OUT OF HERE YOU IDIOT!"
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:52
+#: ./HF-GateGuardLeader.dialog:48
 msgid "Just taking a look around."
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:54
+#: ./HF-GateGuardLeader.dialog:50
 msgid "Oh, look. The bird wants to go for a walk."
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:55
+#: ./HF-GateGuardLeader.dialog:51
 msgid "We don't call this place 'hell' for nothing."
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:56
+#: ./HF-GateGuardLeader.dialog:52
 msgid "Get outta here!"
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:61
+#: ./HF-GateGuardLeader.dialog:57
 msgid "I'd like to go through that gate."
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:63
+#: ./HF-GateGuardLeader.dialog:59
 msgid "Are you totally out of your mind?"
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:64
+#: ./HF-GateGuardLeader.dialog:60
 msgid "There are trillions of millions of quintillions of bots in there!"
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:65
+#: ./HF-GateGuardLeader.dialog:61
 msgid ""
 "Besides that, on the other side of the door is a disruptor shield, which we ca"
 "n't control."
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:66
+#: ./HF-GateGuardLeader.dialog:62
 msgid "* Throws a stone through the door"
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:68
+#: ./HF-GateGuardLeader.dialog:64
 msgid ""
 "* Stone freely flies through the gate and drops on the ground on the other sid"
 "e"
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:69
-msgid "SHIT! SHIELD DISABLED! PREPARE FOR BOT ATTACK!"
+#: ./HF-GateGuardLeader.dialog:65
+msgid "HOLY MECHANICAL MARVEL! SHIELD DISABLED! PREPARE FOR BOT ATTACK!"
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:72
+#: ./HF-GateGuardLeader.dialog:68
 msgid "* Stone disappears leaving a small cloud of dust"
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:73
+#: ./HF-GateGuardLeader.dialog:69
 msgid "Find a different gate to go through."
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:80
+#: ./HF-GateGuardLeader.dialog:76
 msgid "I have some business on the other side!"
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:82
+#: ./HF-GateGuardLeader.dialog:78
 msgid "Are you in a rush to die?"
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:83
+#: ./HF-GateGuardLeader.dialog:79
 msgid "Go away!"
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:88
+#: ./HF-GateGuardLeader.dialog:84
 msgid ""
 "Calm down. This is not an attack. I've disabled the shield and I'm going to di"
 "sable all the bots around! Didn't Spencer inform you?"
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:90
+#: ./HF-GateGuardLeader.dialog:86
 msgid "WHAT?! Not an attack?!"
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:91
+#: ./HF-GateGuardLeader.dialog:87
 msgid "I hope you are telling the truth. One second..."
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:92
+#: ./HF-GateGuardLeader.dialog:88
 msgid "Propagating a faulty firmware"
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:97
+#: ./HF-GateGuardLeader.dialog:93
 msgid "Nothing from Spencer, ya fat duck. Now leave."
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:106
+#: ./HF-GateGuardLeader.dialog:102
 msgid ""
 "Right, there is a message from Spencer, you can enter Hell Fortress. And may t"
 "he source be with you!"
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:111
+#: ./HF-GateGuardLeader.dialog:107
 msgid "Relax, I'm leaving."
 msgstr ""
 
-#: ./HF-GateGuardLeader.dialog:113
+#: ./HF-GateGuardLeader.dialog:109
 msgid "You better be. AND DON'T COME BACK!"
 msgstr ""
 

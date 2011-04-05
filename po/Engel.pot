@@ -2,203 +2,260 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./Engel.dialog:41
+#: ./Engel.dialog:33
 msgid "Hi! I'm new here. "
 msgstr ""
 
-#: ./Engel.dialog:43
+#: ./Engel.dialog:35
 msgid "Hello. We are the Fleischer brothers."
 msgstr ""
 
-#: ./Engel.dialog:44
+#: ./Engel.dialog:36
 msgid "I am Engel. He is Geist, and he does not know the language."
 msgstr ""
 
-#: ./Engel.dialog:45
+#: ./Engel.dialog:37
 msgid "Engel -- Hunter"
 msgstr ""
 
-#: ./Engel.dialog:46
+#: ./Engel.dialog:38
 msgid "Geist -- Hunter"
 msgstr ""
 
-#: ./Engel.dialog:51
+#: ./Engel.dialog:43
 msgid "What are you doing here?"
 msgstr ""
 
-#: ./Engel.dialog:53
+#: ./Engel.dialog:45
 msgid "Revenge."
 msgstr ""
 
-#: ./Engel.dialog:54
+#: ./Engel.dialog:46
 msgid "The bots have killed our mother. Now we kill them."
 msgstr ""
 
-#: ./Engel.dialog:55
+#: ./Engel.dialog:47
 msgid "No mercy. We hunt them."
 msgstr ""
 
-#: ./Engel.dialog:60
+#: ./Engel.dialog:52
 msgid "Can I help you somehow?"
 msgstr ""
 
-#: ./Engel.dialog:62
+#: ./Engel.dialog:54
 msgid "Nein. Let us die as warriors. That is all we ask for."
 msgstr ""
 
-#: ./Engel.dialog:67
+#: ./Engel.dialog:59
 msgid ""
 "If you keep standing here more bots will come and they will kill you. Go somew"
 "here safe, and set up defense there."
 msgstr ""
 
-#: ./Engel.dialog:75
+#: ./Engel.dialog:62
 msgid "If you keep standing here more bots will come and --"
 msgstr ""
 
-#: ./Engel.dialog:77
+#: ./Engel.dialog:63
 msgid "Sehr gut. Let them come. We are ready."
 msgstr ""
 
-#: ./Engel.dialog:78
+#: ./Engel.dialog:64
 msgid "What a beautiful day. Yes."
 msgstr ""
 
-#: ./Engel.dialog:83
+#: ./Engel.dialog:69
 msgid "You are insane. Get out of here while you still can."
 msgstr ""
 
-#: ./Engel.dialog:85
+#: ./Engel.dialog:71
 msgid "No."
 msgstr ""
 
-#: ./Engel.dialog:86
+#: ./Engel.dialog:72
 msgid "Every day since the mess started I come here to fight the bots."
 msgstr ""
 
-#: ./Engel.dialog:87
+#: ./Engel.dialog:73
 msgid "Today will be no different."
 msgstr ""
 
-#: ./Engel.dialog:88
+#: ./Engel.dialog:74
 msgid "Do not try to stop us. We have our rifles loaded."
 msgstr ""
 
-#: ./Engel.dialog:93
+#: ./Engel.dialog:79
 msgid "Where can I get some help?"
 msgstr ""
 
-#: ./Engel.dialog:95
+#: ./Engel.dialog:81
 msgid "Nowhere. This is the end of the world. There is no help."
 msgstr ""
 
-#: ./Engel.dialog:96
+#: ./Engel.dialog:82
 msgid ""
-"There is a city a bit south from here, but if I were you, I would not go there"
+"There is a town a bit south from here, but if I were you, I would not go there"
 "."
 msgstr ""
 
-#: ./Engel.dialog:97
+#: ./Engel.dialog:83
 msgid "The Rot Guard is the ruler there, and cruelty is their solution to everything."
 msgstr ""
 
-#: ./Engel.dialog:98
+#: ./Engel.dialog:84
 msgid "Real freedom is really dead."
 msgstr ""
 
-#: ./Engel.dialog:103
+#: ./Engel.dialog:89
 msgid "You guys are totally nuts. Get a life."
 msgstr ""
 
-#: ./Engel.dialog:111
+#: ./Engel.dialog:92
 msgid "You guys are tota --"
 msgstr ""
 
-#: ./Engel.dialog:113
+#: ./Engel.dialog:93
 msgid "WHAT?! What is it that you want to say?"
 msgstr ""
 
-#: ./Engel.dialog:114
+#: ./Engel.dialog:94
 msgid "Erm... I --"
 msgstr ""
 
-#: ./Engel.dialog:115
+#: ./Engel.dialog:95
 msgid "WHAT!? SPIT IT OUT!"
 msgstr ""
 
-#: ./Engel.dialog:116
+#: ./Engel.dialog:96
 msgid ""
 "Er... You guys are really great and I admire your bravery in the face of certa"
 "in death."
 msgstr ""
 
-#: ./Engel.dialog:117
+#: ./Engel.dialog:97
 msgid "Donnerwetter, you are a funny one."
 msgstr ""
 
-#: ./Engel.dialog:118
+#: ./Engel.dialog:98
 msgid "I hope that one day we shall meet again, maybe in a better time."
 msgstr ""
 
-#: ./Engel.dialog:119
+#: ./Engel.dialog:99
 msgid "Maybe then you will tell us other gut jokes that you know."
 msgstr ""
 
-#: ./Engel.dialog:120
+#: ./Engel.dialog:100
 msgid "Maybe one day..."
 msgstr ""
 
-#: ./Engel.dialog:125
+#: ./Engel.dialog:105
 msgid "What did you use to do before you became a hunter?"
 msgstr ""
 
-#: ./Engel.dialog:127
+#: ./Engel.dialog:107
 msgid "I was a bot constructor. Built the killers of my mother."
 msgstr ""
 
-#: ./Engel.dialog:128
+#: ./Engel.dialog:108
 msgid ""
 "Now I sell the parts that I remove from the bots to buy more ammunition and fo"
 "od."
 msgstr ""
 
-#: ./Engel.dialog:133
+#: ./Engel.dialog:113
 msgid "I want to know how to extract modules from the bots."
 msgstr ""
 
-#: ./Engel.dialog:138
+#: ./Engel.dialog:117
+msgid "I schon told you alles I know about that."
+msgstr ""
+
+#: ./Engel.dialog:123
+#: ./Engel.dialog:147
 msgid "Yes."
 msgstr ""
 
-#: ./Engel.dialog:139
+#: ./Engel.dialog:124
 msgid "I will sell the information for a lot of Schaltkreise."
 msgstr ""
 
-#: ./Engel.dialog:140
+#: ./Engel.dialog:125
 msgid "Interested?"
 msgstr ""
 
-#: ./Engel.dialog:145
+#: ./Engel.dialog:131
 msgid "Can I join your hunt?"
 msgstr ""
 
-#: ./Engel.dialog:147
+#: ./Engel.dialog:133
 msgid "Nein. Our problem. Our hunt."
 msgstr ""
 
-#: ./Engel.dialog:152
-msgid "I'll be going then."
+#: ./Engel.dialog:138
+msgid "What happens to these bot parts?"
+msgstr ""
+
+#: ./Engel.dialog:140
+msgid "Are they used to build other bots?"
+msgstr ""
+
+#: ./Engel.dialog:141
+msgid "Most of them are used to bauen little nette gadgets."
+msgstr ""
+
+#: ./Engel.dialog:142
+msgid "You can use them to make weapons better or make you stronger."
+msgstr ""
+
+#: ./Engel.dialog:143
+msgid "How does this work?"
+msgstr ""
+
+#: ./Engel.dialog:144
+msgid "I don't know."
+msgstr ""
+
+#: ./Engel.dialog:145
+msgid "But these gadgets are very nice for making your equipment better."
+msgstr ""
+
+#: ./Engel.dialog:146
+msgid "So they are kind of add-ons?"
+msgstr ""
+
+#: ./Engel.dialog:148
+msgid "Ask the Stadtmenschen if you want to know more."
+msgstr ""
+
+#: ./Engel.dialog:150
+msgid "I think the Rot Guard makes them."
+msgstr ""
+
+#: ./Engel.dialog:151
+msgid "If you have Gluck, they won't kill you directly."
+msgstr ""
+
+#: ./Engel.dialog:153
+msgid "But I don't know more about these gadgets."
 msgstr ""
 
 #: ./Engel.dialog:154
+msgid "Asking me more questions about that makes no sense..."
+msgstr ""
+
+#: ./Engel.dialog:159
+msgid "I'll be going then."
+msgstr ""
+
+#: ./Engel.dialog:161
 msgid "Goodbye and viel Gluck."
 msgstr ""
 

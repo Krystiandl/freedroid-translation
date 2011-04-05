@@ -2,295 +2,394 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./Pendragon.dialog:35
+#: ./Pendragon.dialog:37
 msgid "Tania's Escape"
 msgstr ""
 
-#: ./Pendragon.dialog:36
+#: ./Pendragon.dialog:38
 msgid "Tania has been waiting to talk to you."
 msgstr ""
 
-#: ./Pendragon.dialog:38
+#: ./Pendragon.dialog:40
 msgid "Spencer says it is OK?"
 msgstr ""
 
-#: ./Pendragon.dialog:39
+#: ./Pendragon.dialog:41
 msgid "Well that is good enough for me."
 msgstr ""
 
-#: ./Pendragon.dialog:40
+#: ./Pendragon.dialog:42
 msgid "She may enter."
 msgstr ""
 
-#: ./Pendragon.dialog:46
+#: ./Pendragon.dialog:48
 msgid "Halt! Who goes there?"
 msgstr ""
 
-#: ./Pendragon.dialog:47
+#: ./Pendragon.dialog:49
 msgid "Someone I found in the desert, Tania."
 msgstr ""
 
-#: ./Pendragon.dialog:49
+#: ./Pendragon.dialog:51
 msgid ", you may enter."
 msgstr ""
 
-#: ./Pendragon.dialog:50
+#: ./Pendragon.dialog:52
 msgid ""
 "However, you will have to talk to Spencer before you bring your friend, Tania,"
-" into the city."
-msgstr ""
-
-#: ./Pendragon.dialog:69
-msgid "Hi! I'm new here."
+" into the town."
 msgstr ""
 
 #: ./Pendragon.dialog:71
+#: ./Pendragon.dialog:78
+msgid "Got the money?"
+msgstr ""
+
+#: ./Pendragon.dialog:101
+msgid "Hi! I'm new here."
+msgstr ""
+
+#: ./Pendragon.dialog:103
 msgid "You don't say. I'm not living here either. I'm just on vacation."
 msgstr ""
 
-#: ./Pendragon.dialog:72
+#: ./Pendragon.dialog:104
 msgid ""
 "Normally I'm a fighter. But now I try to relax, chill, take it easy and have a"
 " lot of fun."
 msgstr ""
 
-#: ./Pendragon.dialog:73
+#: ./Pendragon.dialog:105
 msgid "And in case you couldn't tell, that was sarcasm."
 msgstr ""
 
-#: ./Pendragon.dialog:74
+#: ./Pendragon.dialog:106
 msgid "Fighter"
 msgstr ""
 
-#: ./Pendragon.dialog:79
+#: ./Pendragon.dialog:111
 msgid "Could you teach me how to fight?"
 msgstr ""
 
-#: ./Pendragon.dialog:82
+#: ./Pendragon.dialog:114
 msgid "NO! NO! Er... I mean, not right now. I am busy. Come again later."
 msgstr ""
 
-#: ./Pendragon.dialog:84
+#: ./Pendragon.dialog:116
 msgid "Sure. I can help you."
 msgstr ""
 
-#: ./Pendragon.dialog:85
+#: ./Pendragon.dialog:117
 msgid "For a price. Hundred circuits should be enough."
 msgstr ""
 
-#: ./Pendragon.dialog:90
+#: ./Pendragon.dialog:122
 msgid "Do you have a name?"
 msgstr ""
 
-#: ./Pendragon.dialog:92
+#: ./Pendragon.dialog:124
 msgid "I go by Pendragon, because I can pull a knife from thin air."
 msgstr ""
 
-#: ./Pendragon.dialog:93
+#: ./Pendragon.dialog:125
 msgid "And you?"
 msgstr ""
 
-#: ./Pendragon.dialog:94
+#: ./Pendragon.dialog:126
 msgid ", because it is my name?"
 msgstr ""
 
-#: ./Pendragon.dialog:95
+#: ./Pendragon.dialog:127
 msgid "Pendragon -- Fighter"
 msgstr ""
 
-#: ./Pendragon.dialog:100
+#: ./Pendragon.dialog:132
 msgid "Teach me the basic stuff."
 msgstr ""
 
-#: ./Pendragon.dialog:102
+#: ./Pendragon.dialog:134
 msgid "Are you sure?"
 msgstr ""
 
-#: ./Pendragon.dialog:103
+#: ./Pendragon.dialog:135
 msgid "I only accept students that already have some experience in fighting bots."
 msgstr ""
 
-#: ./Pendragon.dialog:108
+#: ./Pendragon.dialog:140
 msgid "Yes (cost 100 valuable circuits, 5 ability points)"
 msgstr ""
 
-#: ./Pendragon.dialog:113
+#: ./Pendragon.dialog:145
 msgid "Let us begin then."
 msgstr ""
 
-#: ./Pendragon.dialog:114
+#: ./Pendragon.dialog:146
 msgid "Come closer..."
 msgstr ""
 
-#: ./Pendragon.dialog:115
+#: ./Pendragon.dialog:147
 msgid "HA!"
 msgstr ""
 
-#: ./Pendragon.dialog:116
+#: ./Pendragon.dialog:148
 msgid "Ouch! What the hell are you doing?"
 msgstr ""
 
-#: ./Pendragon.dialog:117
+#: ./Pendragon.dialog:149
 msgid "Lesson number one. Never trust the opponent."
 msgstr ""
 
-#: ./Pendragon.dialog:118
+#: ./Pendragon.dialog:150
 msgid "Just let me get up an -- ouch! Stop it."
 msgstr ""
 
-#: ./Pendragon.dialog:119
+#: ./Pendragon.dialog:151
 msgid "Lesson number two. The bots have no mercy."
 msgstr ""
 
-#: ./Pendragon.dialog:120
+#: ./Pendragon.dialog:152
 msgid "They won't let you get up if you fall down. They will kill you."
 msgstr ""
 
-#: ./Pendragon.dialog:121
+#: ./Pendragon.dialog:153
 msgid "Now, lesson number -- ugh! That hurt!"
 msgstr ""
 
-#: ./Pendragon.dialog:122
+#: ./Pendragon.dialog:154
 msgid "Lesson number three. Never underestimate the enemy."
 msgstr ""
 
-#: ./Pendragon.dialog:123
+#: ./Pendragon.dialog:155
 msgid "Ugh. Yes. You are correct."
 msgstr ""
 
-#: ./Pendragon.dialog:124
+#: ./Pendragon.dialog:156
 msgid "I need to... Lie down for a while... My head hurts..."
 msgstr ""
 
-#: ./Pendragon.dialog:125
+#: ./Pendragon.dialog:157
 msgid "Lesson number four. Never hit your sparring partner with full force."
 msgstr ""
 
-#: ./Pendragon.dialog:126
+#: ./Pendragon.dialog:158
 msgid "I think you broke my ribs..."
 msgstr ""
 
-#: ./Pendragon.dialog:127
+#: ./Pendragon.dialog:159
 msgid "This is enough training for today."
 msgstr ""
 
-#: ./Pendragon.dialog:131
+#: ./Pendragon.dialog:163
 msgid "You don't have enough experience. I can't teach you anything more right now."
 msgstr ""
 
-#: ./Pendragon.dialog:132
+#: ./Pendragon.dialog:164
 msgid "First collect more experience. Then we can go on."
 msgstr ""
 
-#: ./Pendragon.dialog:134
+#: ./Pendragon.dialog:166
 msgid ""
 "You don't have enough valuable circuits on you! Come back when you have the mo"
 "ney."
 msgstr ""
 
-#: ./Pendragon.dialog:138
+#: ./Pendragon.dialog:170
 msgid ""
 "Hey, wake up! I taught you that stuff already. Go practice on the bots, if you"
 " really want more training."
 msgstr ""
 
-#: ./Pendragon.dialog:144
+#: ./Pendragon.dialog:176
 msgid "Teach me how to smash concrete blocks with my bare hands."
 msgstr ""
 
-#: ./Pendragon.dialog:146
+#: ./Pendragon.dialog:178
 msgid "Oh, Linarian, you amuse me so."
 msgstr ""
 
-#: ./Pendragon.dialog:147
+#: ./Pendragon.dialog:179
 msgid "You are quite an ambitious fellow."
 msgstr ""
 
-#: ./Pendragon.dialog:148
+#: ./Pendragon.dialog:180
 msgid ""
 "First learn the basics. Spend a year working on that, and then I'll be able to"
 " teach you some advanced tricks."
 msgstr ""
 
-#: ./Pendragon.dialog:153
+#: ./Pendragon.dialog:185
 msgid "Teach me Ninjitsu."
 msgstr ""
 
-#: ./Pendragon.dialog:155
+#: ./Pendragon.dialog:187
 msgid "Go away."
 msgstr ""
 
-#: ./Pendragon.dialog:160
+#: ./Pendragon.dialog:192
 msgid ""
 "I want to know the Crazy Double-Fang Wolf-Sunlight I-Like-Tea Death Touch of M"
 "ajor Destruction Flesh-Bursting Attack!"
 msgstr ""
 
-#: ./Pendragon.dialog:162
+#: ./Pendragon.dialog:194
 msgid "Wow."
 msgstr ""
 
-#: ./Pendragon.dialog:163
+#: ./Pendragon.dialog:195
 msgid "You have a very rich imagination. There is no such thing. Get a life."
 msgstr ""
 
-#: ./Pendragon.dialog:168
+#: ./Pendragon.dialog:200
 msgid "I want to know the forbidden skill of furuike ya kawazu tobikomu mizu no oto."
 msgstr ""
 
-#: ./Pendragon.dialog:170
+#: ./Pendragon.dialog:202
 msgid "This is starting to make me angry. Shut up and go away."
 msgstr ""
 
-#: ./Pendragon.dialog:175
+#: ./Pendragon.dialog:207
 msgid "Teach me how to flip out and kill people!"
 msgstr ""
 
-#: ./Pendragon.dialog:177
+#: ./Pendragon.dialog:209
 msgid "*sigh*"
 msgstr ""
 
-#: ./Pendragon.dialog:178
-msgid "Very well. Observe very carefully."
+#: ./Pendragon.dialog:210
+msgid "I will teach you to keep your mouth shut when told to. Observe very carefully."
 msgstr ""
 
-#: ./Pendragon.dialog:179
-msgid "You will see this only once, so make sure to pay attention."
+#: ./Pendragon.dialog:211
+msgid "Make sure you pay attention."
 msgstr ""
 
-#: ./Pendragon.dialog:180
-msgid "DIEEEE!"
+#: ./Pendragon.dialog:212
+msgid "TAKE THIS!"
 msgstr ""
 
-#: ./Pendragon.dialog:181
-msgid "Pendragon -- Teaching you death"
+#: ./Pendragon.dialog:213
+msgid "OW!"
 msgstr ""
 
-#: ./Pendragon.dialog:187
+#: ./Pendragon.dialog:219
+msgid "Now go away."
+msgstr ""
+
+#: ./Pendragon.dialog:225
 msgid "Enough for now."
 msgstr ""
 
-#: ./Pendragon.dialog:189
+#: ./Pendragon.dialog:227
+#: ./Pendragon.dialog:234
 msgid "Fine."
 msgstr ""
 
-#: ./Pendragon.dialog:194
+#: ./Pendragon.dialog:232
+msgid "I want to pass the gate."
+msgstr ""
+
+#: ./Pendragon.dialog:235
+msgid "Can you open it please?"
+msgstr ""
+
+#: ./Pendragon.dialog:236
+msgid "Yes, I can."
+msgstr ""
+
+#: ./Pendragon.dialog:237
+msgid "Thanks."
+msgstr ""
+
+#: ./Pendragon.dialog:238
+msgid "Uhm..."
+msgstr ""
+
+#: ./Pendragon.dialog:239
+msgid "Will you do it?"
+msgstr ""
+
+#: ./Pendragon.dialog:240
+msgid "Yes. But you have to pay a one-time tax for it first."
+msgstr ""
+
+#: ./Pendragon.dialog:242
+msgid "Pay 30 circuits and you may pass."
+msgstr ""
+
+#: ./Pendragon.dialog:248
+msgid "You can enter the desert, but first you'll have to pay 40 circuits."
+msgstr ""
+
+#: ./Pendragon.dialog:258
+msgid "Yes, I've got the money."
+msgstr ""
+
+#: ./Pendragon.dialog:262
+msgid "Good."
+msgstr ""
+
+#: ./Pendragon.dialog:263
+msgid "Here, take it."
+msgstr ""
+
+#: ./Pendragon.dialog:264
+msgid "You may pass."
+msgstr ""
+
+#: ./Pendragon.dialog:268
+#: ./Pendragon.dialog:278
+msgid "Doing Duncan a favor"
+msgstr ""
+
+#: ./Pendragon.dialog:268
+msgid "Pendragon opened the gate for me, but I had to pay a little tax."
+msgstr ""
+
+#: ./Pendragon.dialog:271
+msgid "At last."
+msgstr ""
+
+#: ./Pendragon.dialog:272
+msgid "Here, let me pass now."
+msgstr ""
+
+#: ./Pendragon.dialog:273
+msgid "You may pass, Loon."
+msgstr ""
+
+#: ./Pendragon.dialog:274
+msgid "But don't expect any help in there."
+msgstr ""
+
+#: ./Pendragon.dialog:278
+msgid "Pendragon opened the gate for me, but I had to pay a tax."
+msgstr ""
+
+#: ./Pendragon.dialog:280
+msgid "Don't try to trick me, duck."
+msgstr ""
+
+#: ./Pendragon.dialog:281
+msgid "Come back if you have the bucks!"
+msgstr ""
+
+#: ./Pendragon.dialog:288
 msgid "See you later."
 msgstr ""
 
-#: ./Pendragon.dialog:196
+#: ./Pendragon.dialog:290
 msgid "Have courage."
 msgstr ""
 
-#: ./Pendragon.dialog:196
+#: ./Pendragon.dialog:290
 msgid "Be strong."
 msgstr ""
 

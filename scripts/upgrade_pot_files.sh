@@ -5,7 +5,8 @@
 # update the pot files for any msg string in the dialogs directory
 
 # go in the dialogs directory
-cd ${HOME}/src/freedroid-translation/dialogs ;
+export pref=${HOME}/src/freedroid_work/freedroid-translation/
+cd ${pref}dialogs ;
 
 for i in *.dialog ; do  # update the pot files
     echo "extracting translatable strings in ${i}"
@@ -19,7 +20,7 @@ done ;
 # update the pot files for any msg strings in the map directory
 
 # go in the map directory
-cd ${HOME}/src/freedroid-translation/map
+cd ${pref}map
 
 # 
 for i in $(grep -l '_"' *) ; do # update the pot files for items and title files
@@ -32,3 +33,4 @@ for i in $(grep -l '_"' *) ; do # update the pot files for items and title files
 done ;
 
 echo "update pot files done"
+cd ${pref}

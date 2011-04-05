@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -26,200 +26,300 @@ msgstr ""
 msgid "Escort Tux N"
 msgstr ""
 
-#: ./freedroid.events:57
+#: ./freedroid.events:61
 msgid "Escort Tux N2"
 msgstr ""
 
-#: ./freedroid.events:68
+#: ./freedroid.events:76
 msgid "Escort Tux N3"
 msgstr ""
 
-#: ./freedroid.events:79
+#: ./freedroid.events:91
 msgid "Escort Tux N4"
 msgstr ""
 
-#: ./freedroid.events:90
+#: ./freedroid.events:106
 msgid "Escort Tux N-e1"
 msgstr ""
 
-#: ./freedroid.events:101
+#: ./freedroid.events:121
 msgid "Escort Tux N-e2"
 msgstr ""
 
-#: ./freedroid.events:112
+#: ./freedroid.events:136
 msgid "Escort Tux N-e3"
 msgstr ""
 
-#: ./freedroid.events:123
+#: ./freedroid.events:151
 msgid "Escort Tux N-e4"
 msgstr ""
 
-#: ./freedroid.events:134
+#: ./freedroid.events:166
 msgid "Tania Escort W-1"
 msgstr ""
 
-#: ./freedroid.events:138
-#: ./freedroid.events:150
-#: ./freedroid.events:162
-#: ./freedroid.events:494
-#: ./freedroid.events:498
+#: ./freedroid.events:170
+#: ./freedroid.events:182
+#: ./freedroid.events:194
+#: ./freedroid.events:731
+#: ./freedroid.events:761
+#: ./freedroid.events:765
+#: ./freedroid.events:869
 msgid "Tania's Escape"
 msgstr ""
 
-#: ./freedroid.events:146
+#: ./freedroid.events:178
 msgid "Tania Escort W-2"
 msgstr ""
 
-#: ./freedroid.events:158
+#: ./freedroid.events:190
 msgid "Tania Escort W-3"
 msgstr ""
 
-#: ./freedroid.events:173
+#: ./freedroid.events:202
+msgid "DocFront-inner-N"
+msgstr ""
+
+#: ./freedroid.events:214
+msgid "DocFront-inner-S"
+msgstr ""
+
+#: ./freedroid.events:226
+msgid "DocBack-inner-W"
+msgstr ""
+
+#: ./freedroid.events:238
+msgid "DocBack-inner-E"
+msgstr ""
+
+#: ./freedroid.events:250
+msgid "DocFront-out-N"
+msgstr ""
+
+#: ./freedroid.events:262
+msgid "DocFront-out-S"
+msgstr ""
+
+#: ./freedroid.events:274
+msgid "DocBack-out-W"
+msgstr ""
+
+#: ./freedroid.events:286
+msgid "DocBack-out-E"
+msgstr ""
+
+#: ./freedroid.events:301
 msgid "Exit Warehouse"
 msgstr ""
 
-#: ./freedroid.events:182
+#: ./freedroid.events:310
 msgid "To Warehouse Level 2"
 msgstr ""
 
-#: ./freedroid.events:194
+#: ./freedroid.events:322
 msgid "To Warehouse Level 1"
 msgstr ""
 
-#: ./freedroid.events:206
+#: ./freedroid.events:334
 msgid "Back to Kevin's Garden"
 msgstr ""
 
-#: ./freedroid.events:215
+#: ./freedroid.events:343
 msgid "To Energy Station"
 msgstr ""
 
-#: ./freedroid.events:227
+#: ./freedroid.events:355
 msgid "Back to Lower Catacombs"
 msgstr ""
 
-#: ./freedroid.events:239
+#: ./freedroid.events:367
 msgid "Way to Disruptor Machine Deck"
 msgstr ""
 
-#: ./freedroid.events:251
+#: ./freedroid.events:379
 msgid "Back to Town"
 msgstr ""
 
-#: ./freedroid.events:267
+#: ./freedroid.events:388
+msgid "Singularity-Alive-Check-N"
+msgstr ""
+
+#: ./freedroid.events:397
+#: ./freedroid.events:413
+msgid "The yellow toolkit"
+msgstr ""
+
+#: ./freedroid.events:397
+#: ./freedroid.events:413
+msgid "The main Singularity bot is dead. The rest are now attacking me!"
+msgstr ""
+
+#: ./freedroid.events:404
+msgid "Singularity-Alive-Check-S"
+msgstr ""
+
+#: ./freedroid.events:420
+msgid "To Old Server Room"
+msgstr ""
+
+#: ./freedroid.events:436
 msgid "Enter Warehouse"
 msgstr ""
 
-#: ./freedroid.events:279
+#: ./freedroid.events:448
 msgid "Down into Crystal Caves"
 msgstr ""
 
-#: ./freedroid.events:319
+#: ./freedroid.events:473
+msgid "Get me out of here!"
+msgstr ""
+
+#: ./freedroid.events:497
+msgid "Kevin Guard Rush-1"
+msgstr ""
+
+#: ./freedroid.events:507
+msgid "Kevin Guard Rush-2"
+msgstr ""
+
+#: ./freedroid.events:517
+msgid "Kevin Guard Rush-3"
+msgstr ""
+
+#: ./freedroid.events:528
 msgid "To Kevin's Underground Station"
 msgstr ""
 
-#: ./freedroid.events:331
+#: ./freedroid.events:540
 msgid "To Underground Station"
 msgstr ""
 
-#: ./freedroid.events:367
+#: ./freedroid.events:576
 msgid "Hatch with broken ladder"
 msgstr ""
 
-#: ./freedroid.events:391
-msgid "Exit Novice Arena"
-msgstr ""
-
-#: ./freedroid.events:403
-msgid "Exit Master Arena"
-msgstr ""
-
-#: ./freedroid.events:415
-msgid "lock player inside firmware room"
-msgstr ""
-
-#: ./freedroid.events:425
-msgid "Open firmware upgrade room"
-msgstr ""
-
-#: ./freedroid.events:438
-msgid "FIXME2"
-msgstr ""
-
-#: ./freedroid.events:451
-msgid "Exit Crystal Caves"
-msgstr ""
-
-#: ./freedroid.events:463
-#: ./freedroid.events:475
-#: ./freedroid.events:490
-msgid "Back to the Desert"
-msgstr ""
-
-#: ./freedroid.events:479
-msgid "SADD's power supply"
-msgstr ""
-
-#: ./freedroid.events:498
-msgid "Tania has made it to the surface for the first time in a very long time."
-msgstr ""
-
-#: ./freedroid.events:505
-#: ./freedroid.events:514
-msgid "To the Secret Area Service Tunnels"
-msgstr ""
-
-#: ./freedroid.events:526
-#: ./freedroid.events:535
-msgid "Back to the Secret Area"
-msgstr ""
-
-#: ./freedroid.events:547
-msgid "Red Square"
-msgstr ""
-
-#: ./freedroid.events:553
-msgid "Good, now move to the black grating to the East."
-msgstr ""
-
-#: ./freedroid.events:554
-#: ./freedroid.events:566
-msgid "Quest log updated"
-msgstr ""
-
-#: ./freedroid.events:560
-msgid "Black Dot"
-msgstr ""
-
-#: ./freedroid.events:565
-msgid "Good, now talk to Tutorial Tom again."
-msgstr ""
-
-#: ./freedroid.events:575
-msgid "To a Forgotten Bunker"
-msgstr ""
-
-#: ./freedroid.events:591
-msgid "Unknown place"
+#: ./freedroid.events:596
+msgid "From32to28"
 msgstr ""
 
 #: ./freedroid.events:611
-msgid "Hidden way out"
+msgid "From28to28"
 msgstr ""
 
-#: ./freedroid.events:667
-msgid "Back to Disruptor Shield Control"
+#: ./freedroid.events:635
+msgid "Exit Novice Arena"
+msgstr ""
+
+#: ./freedroid.events:647
+msgid "Exit Master Arena"
+msgstr ""
+
+#: ./freedroid.events:663
+msgid "Falseteleporter1"
 msgstr ""
 
 #: ./freedroid.events:676
-msgid "To Mashine Deck Lower Catacombs"
+msgid "Falseteleporter2"
 msgstr ""
 
-#: ./freedroid.events:688
+#: ./freedroid.events:689
+msgid "Falseteleporter3"
+msgstr ""
+
+#: ./freedroid.events:702
+msgid "32to38riddlesolved"
+msgstr ""
+
+#: ./freedroid.events:715
+msgid "Exit Crystal Caves"
+msgstr ""
+
+#: ./freedroid.events:727
+#: ./freedroid.events:742
+#: ./freedroid.events:757
+msgid "Back to the Desert"
+msgstr ""
+
+#: ./freedroid.events:746
+msgid "SADD's power supply"
+msgstr ""
+
+#: ./freedroid.events:765
+msgid "Tania has made it to the surface for the first time in a very long time."
+msgstr ""
+
+#: ./freedroid.events:772
+#: ./freedroid.events:781
+msgid "To the Secret Area Service Tunnels"
+msgstr ""
+
+#: ./freedroid.events:793
+#: ./freedroid.events:802
+msgid "Back to the Secret Area"
+msgstr ""
+
+#: ./freedroid.events:814
+msgid "Red Square"
+msgstr ""
+
+#: ./freedroid.events:820
+msgid "Good, now move to the black grating to the East."
+msgstr ""
+
+#: ./freedroid.events:821
+#: ./freedroid.events:833
+msgid "Quest log updated"
+msgstr ""
+
+#: ./freedroid.events:827
+msgid "Black Dot"
+msgstr ""
+
+#: ./freedroid.events:832
+msgid "Good, now talk to Tutorial Tom again."
+msgstr ""
+
+#: ./freedroid.events:839
+msgid "PastWall-N"
+msgstr ""
+
+#: ./freedroid.events:851
+msgid "PastWall-S"
+msgstr ""
+
+#: ./freedroid.events:865
+msgid "To a Forgotten Bunker"
+msgstr ""
+
+#: ./freedroid.events:884
+msgid "Unknown place"
+msgstr ""
+
+#: ./freedroid.events:904
+msgid "Hidden way out"
+msgstr ""
+
+#: ./freedroid.events:960
+msgid "Back to Disruptor Shield Control"
+msgstr ""
+
+#: ./freedroid.events:969
+msgid "To Machine Deck Lower Catacombs"
+msgstr ""
+
+#: ./freedroid.events:981
 msgid "Back to Machine Deck Upper Catacombs"
 msgstr ""
 
-#: ./freedroid.events:697
-msgid "To Disruptor Mashine Deck"
+#: ./freedroid.events:990
+msgid "To Disruptor Machine Deck"
+msgstr ""
+
+#: ./freedroid.events:1006
+msgid "Back To Maintenance Tunnel"
+msgstr ""
+
+#: ./freedroid.events:1015
+msgid "We need to go deeper..."
 msgstr ""
 

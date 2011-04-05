@@ -1,15 +1,19 @@
-#!/bin/bash
+#!/bin/bash -x
 
-cd ${HOME}/src/freedroid-translation/dialogs
-git svn rebase
-cd ${HOME}/src/freedroid-translation/src
-git svn rebase
-cd ${HOME}/src/freedroid-translation/map
-git svn rebase
-cd ${HOME}/src/freedroid-translation/po
 
-cd ${HOME}/src/freedroid-translation
-git commit src map dialogs -m "synchronization with the main repository"
+export pref="${HOME}/src/freedroid_work/freedroid-translation"
 
-git pull
-git push
+cd ${pref}/dialogs
+git svn rebase
+cd ${pref}/src
+git svn rebase
+cd ${pref}/map
+git svn rebase
+
+
+cd ${pref}
+
+#git commit src map dialogs -m "synchronization with the main repository"
+
+#git pull
+#git push

@@ -2,172 +2,188 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./c-net.dialog:34
+#: ./c-net.dialog:30
 msgid " . "
 msgstr ""
 
-#: ./c-net.dialog:37
+#: ./c-net.dialog:33
 msgid "Welcome to the Community Network."
 msgstr ""
 
-#: ./c-net.dialog:38
+#: ./c-net.dialog:34
 msgid "Login : "
 msgstr ""
 
-#: ./c-net.dialog:53
+#: ./c-net.dialog:49
 msgid "First time login detected."
 msgstr ""
 
-#: ./c-net.dialog:54
+#: ./c-net.dialog:50
 msgid "Please enter your name"
 msgstr ""
 
-#: ./c-net.dialog:55
-#: ./c-net.dialog:62
+#: ./c-net.dialog:51
+#: ./c-net.dialog:58
 msgid "Name : "
 msgstr ""
 
-#: ./c-net.dialog:57
+#: ./c-net.dialog:53
 msgid "Please set password for your personalized guest login "
 msgstr ""
 
-#: ./c-net.dialog:58
+#: ./c-net.dialog:54
 msgid ""
 "Use at least one lower case letter, one upper case letter, one number, and one"
 " symbol."
 msgstr ""
 
-#: ./c-net.dialog:59
-#: ./c-net.dialog:64
-#: ./c-net.dialog:77
-#: ./c-net.dialog:96
+#: ./c-net.dialog:55
+#: ./c-net.dialog:60
+#: ./c-net.dialog:73
+#: ./c-net.dialog:91
 msgid "Password : "
 msgstr ""
 
-#: ./c-net.dialog:67
-#: ./c-net.dialog:84
-#: ./c-net.dialog:103
-#: ./c-net.dialog:122
+#: ./c-net.dialog:63
+#: ./c-net.dialog:80
+#: ./c-net.dialog:98
+#: ./c-net.dialog:117
 msgid "Last login from dev/tty3 on unknown"
 msgstr ""
 
-#: ./c-net.dialog:114
+#: ./c-net.dialog:109
 msgid "Password: "
 msgstr ""
 
-#: ./c-net.dialog:132
+#: ./c-net.dialog:127
 msgid "Login incorrect"
 msgstr ""
 
-#: ./c-net.dialog:133
+#: ./c-net.dialog:128
 msgid "Connection to c-net terminated."
 msgstr ""
 
-#: ./c-net.dialog:163
+#: ./c-net.dialog:158
 msgid "Date unknown"
 msgstr ""
 
-#: ./c-net.dialog:242
+#: ./c-net.dialog:237
 msgid "mountdisk.sh"
 msgstr ""
 
-#: ./c-net.dialog:245
+#: ./c-net.dialog:240
 msgid "./mountdisk.sh"
 msgstr ""
 
-#: ./c-net.dialog:247
+#: ./c-net.dialog:242
 msgid "Mounting volume \"
 msgstr ""
 
-#: ./c-net.dialog:248
+#: ./c-net.dialog:243
 msgid "Private memory and/or virtual address space exhausted."
 msgstr ""
 
-#: ./c-net.dialog:249
+#: ./c-net.dialog:244
 msgid "Not enough free memory to load data file."
 msgstr ""
 
-#: ./c-net.dialog:251
+#: ./c-net.dialog:245
+msgid "Deliverance"
+msgstr ""
+
+#: ./c-net.dialog:246
+msgid "List for Spencer:"
+msgstr ""
+
+#: ./c-net.dialog:277
 msgid "no disk found"
 msgstr ""
 
-#: ./c-net.dialog:257
+#: ./c-net.dialog:283
 msgid "statistics.pl"
 msgstr ""
 
-#: ./c-net.dialog:261
+#: ./c-net.dialog:287
 msgid "Corrupted file."
 msgstr ""
 
-#: ./c-net.dialog:262
+#: ./c-net.dialog:288
 msgid "Bot #Dead# Tux #Hacked/Failed#Ratio"
 msgstr ""
 
-#: ./c-net.dialog:273
+#: ./c-net.dialog:299
 msgid "guest"
 msgstr ""
 
-#: ./c-net.dialog:294
+#: ./c-net.dialog:320
 msgid "forkBOMB.sh -arm bomb"
 msgstr ""
 
-#: ./c-net.dialog:296
+#: ./c-net.dialog:322
 msgid "bomb armed"
 msgstr ""
 
-#: ./c-net.dialog:302
+#: ./c-net.dialog:328
 msgid "forkBOMB.sh -disarm bomb"
 msgstr ""
 
-#: ./c-net.dialog:304
+#: ./c-net.dialog:330
 msgid "bomb defused"
 msgstr ""
 
-#: ./c-net.dialog:310
+#: ./c-net.dialog:336
 msgid "forkBOMB.sh -execute"
 msgstr ""
 
-#: ./c-net.dialog:314
+#: ./c-net.dialog:340
 msgid "Script run. After logout this terminal will be disabled."
 msgstr ""
 
-#: ./c-net.dialog:315
+#: ./c-net.dialog:341
 msgid "root@c-net:~$"
 msgstr ""
 
-#: ./c-net.dialog:349
+#: ./c-net.dialog:375
 msgid "global_thermonuclear_war"
 msgstr ""
 
-#: ./c-net.dialog:352
+#: ./c-net.dialog:378
 msgid "./global_thermonuclear_war"
 msgstr ""
 
-#: ./c-net.dialog:353
+#: ./c-net.dialog:379
 msgid "Sorry, only winning move is not to play. New game?"
 msgstr ""
 
-#: ./c-net.dialog:353
+#: ./c-net.dialog:379
 msgid "Mankind exterminated. You lost!"
 msgstr ""
 
-#: ./c-net.dialog:353
+#: ./c-net.dialog:379
 msgid "No victory possible. LOSER! Play again?"
 msgstr ""
 
-#: ./c-net.dialog:353
+#: ./c-net.dialog:379
 msgid "Everyone dies, new game?"
 msgstr ""
 
-#: ./c-net.dialog:362
+#: ./c-net.dialog:384
+msgid "tetris"
+msgstr ""
+
+#: ./c-net.dialog:387
+msgid "./tetris"
+msgstr ""
+
+#: ./c-net.dialog:405
 msgid "Connection to c-net closed."
 msgstr ""
 

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -68,7 +68,7 @@ msgstr ""
 #: ./freedroid.program_archetypes:64
 msgid ""
 "Effect: Teleport to town or back \nThe art of rapidly moving away from danger "
-"is very useful. Even when used in reverse it has it's uses."
+"is very useful. Even when used in reverse it has its uses."
 msgstr ""
 
 #: ./freedroid.program_archetypes:73
@@ -177,75 +177,90 @@ msgid ""
 " always active even when not selected."
 msgstr ""
 
-#: ./freedroid.program_archetypes:229
+#: ./freedroid.program_archetypes:233
 msgid "Nethack"
 msgstr ""
 
-#: ./freedroid.program_archetypes:230
+#: ./freedroid.program_archetypes:234
 msgid ""
 "NOT IMPLEMENTED YET The open source game called Nethack is one of the world's "
 "greatest wasters of time. Machines don't care about it, but humans can get suc"
 "ked in quite deeply."
 msgstr ""
 
-#: ./freedroid.program_archetypes:245
+#: ./freedroid.program_archetypes:249
 msgid "Reverse-engineer"
 msgstr ""
 
-#: ./freedroid.program_archetypes:246
+#: ./freedroid.program_archetypes:250
 msgid ""
 "NOT IMPLEMENTED YET There is some dark magic in the art of turning devices or "
 "programs inside-out, picking them apart to learn all their secrets and putting"
 " them back again."
 msgstr ""
 
-#: ./freedroid.program_archetypes:257
+#: ./freedroid.program_archetypes:261
 msgid "Ricer CFLAGS"
 msgstr ""
 
-#: ./freedroid.program_archetypes:258
+#: ./freedroid.program_archetypes:262
 msgid ""
 "NOT IMPLEMENTED YET Optimization is the root of all evil. You can gain some te"
 "mporary speed improvements to your system, but in the end you will likely over"
 "heat and cause permanent damage if you are not careful."
 msgstr ""
 
-#: ./freedroid.program_archetypes:266
+#: ./freedroid.program_archetypes:270
 msgid "Light"
 msgstr ""
 
-#: ./freedroid.program_archetypes:267
+#: ./freedroid.program_archetypes:271
 msgid "Let there be light..."
 msgstr ""
 
-#: ./freedroid.program_archetypes:278
-msgid "Satellite image"
+#: ./freedroid.program_archetypes:282
+msgid "Network Mapper"
 msgstr ""
 
-#: ./freedroid.program_archetypes:279
+#: ./freedroid.program_archetypes:283
 msgid ""
-"NOT IMPLEMENTED YET Getting a map of an area is pretty easy when you can look "
-"at everything from above."
+"Knowing what your enemies are up to is easy with a little signal intelligence."
+" Displays enemy locations on your automap."
 msgstr ""
 
-#: ./freedroid.program_archetypes:287
-msgid "Plasma grenade"
+#: ./freedroid.program_archetypes:299
+msgid "Small Plasma grenade"
 msgstr ""
 
-#: ./freedroid.program_archetypes:288
 #: ./freedroid.program_archetypes:300
 #: ./freedroid.program_archetypes:312
+#: ./freedroid.program_archetypes:324
+#: ./freedroid.program_archetypes:336
+#: ./freedroid.program_archetypes:348
+#: ./freedroid.program_archetypes:360
 msgid ""
 "If you see this in game it is a bug. Please report this to the developers, unl"
 "ess you cheated, in which case you deserve to see this silly nonsense descript"
 "ion."
 msgstr ""
 
-#: ./freedroid.program_archetypes:299
+#: ./freedroid.program_archetypes:311
+msgid "Plasma grenade"
+msgstr ""
+
+#: ./freedroid.program_archetypes:323
 msgid "Gas grenade"
 msgstr ""
 
-#: ./freedroid.program_archetypes:311
+#: ./freedroid.program_archetypes:335
+msgid "Small EMP grenade"
+msgstr ""
+
+#: ./freedroid.program_archetypes:347
 msgid "EMP grenade"
+msgstr ""
+
+#: ./freedroid.program_archetypes:359
+msgid "Electronic Noise"
 msgstr ""
 

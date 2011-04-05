@@ -2,39 +2,59 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FreedroidRPG translation\n"
 "Report-Msgid-Bugs-To: Ooh2iej7Ae@gmail.com\n"
-"POT-Creation-Date: 2010-10-31 08:30+0000\n"
-"PO-Revision-Date: 2010-10-31 08:30+0000\n"
+"POT-Creation-Date: 2011-04-05 22:02+0000\n"
+"PO-Revision-Date: 2011-04-05 22:02+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ./Town-TuxGuard.dialog:33
+#: ./Town-TuxGuard.dialog:29
 msgid "I'm to keep an eye on you until you talk to Spencer."
 msgstr ""
 
-#: ./Town-TuxGuard.dialog:34
+#: ./Town-TuxGuard.dialog:30
 msgid "Red Guard Escort"
 msgstr ""
 
-#: ./Town-TuxGuard.dialog:36
+#: ./Town-TuxGuard.dialog:32
 msgid "Now that you are one of us, I don't have to be suspicious of you."
 msgstr ""
 
-#: ./Town-TuxGuard.dialog:38
+#: ./Town-TuxGuard.dialog:34
 msgid "Spencer seems to think that you are harmless. Go about your business."
 msgstr ""
 
+#: ./Town-TuxGuard.dialog:40
+msgid "Where can I find Spencer?"
+msgstr ""
+
+#: ./Town-TuxGuard.dialog:42
+msgid "He's usually in his office in the citadel."
+msgstr ""
+
+#: ./Town-TuxGuard.dialog:43
+msgid "Head down the main corridor until you pass the citadel gates."
+msgstr ""
+
 #: ./Town-TuxGuard.dialog:44
+msgid "His office has purple walls, you won't miss it."
+msgstr ""
+
+#: ./Town-TuxGuard.dialog:45
+msgid "Okay."
+msgstr ""
+
+#: ./Town-TuxGuard.dialog:50
 msgid "I'll be going then."
 msgstr ""
 
-#: ./Town-TuxGuard.dialog:46
+#: ./Town-TuxGuard.dialog:52
 msgid "Mhmmm."
 msgstr ""
 
-#: ./Town-TuxGuard.dialog:49
+#: ./Town-TuxGuard.dialog:55
 msgid "... the Loon"
 msgstr ""
 
