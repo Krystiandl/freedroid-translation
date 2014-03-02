@@ -15,46 +15,49 @@ msgstr ""
 
 #: Benjamin.dialog:35
 msgid "Hello."
-msgstr ""
+msgstr "Cześć"
 
 #: Benjamin.dialog:35
 msgid "Greetings master Benjamin."
-msgstr ""
+msgstr "Pozdrowienia, mistrzu Benjamin."
 
 #: Benjamin.dialog:36
 msgid "Well, hello again."
-msgstr ""
+msgstr "Więc, witaj ponownie."
 
 #: Benjamin.dialog:36
 msgid "Hello hello."
-msgstr ""
+msgstr "Czołem."
 
 #: Benjamin.dialog:36
 msgid "Welcome back."
-msgstr ""
+msgstr "Witaj spowrotem."
 
 #: Benjamin.dialog:42
 msgid "Hello!"
-msgstr ""
+msgstr "Dobry!"
 
 #: Benjamin.dialog:44
 msgid ""
 "Ah, so you are the new member. Welcome. My name is Benjamin, and I take care "
 "of our ranged weaponry here in the citadel."
 msgstr ""
+"Ach, tak więc jesteś nowym członkiem. Witam. Nazywam się benjamin, "
+"i zajmuję się bronią dalekiego zasięgu tu w cytadeli."
 
 #: Benjamin.dialog:45
 msgid "Benjamin -- Gunsmith"
-msgstr ""
+msgstr "Benjamin -- Rusznikarz"
 
 #: Benjamin.dialog:50
 msgid "What are you doing here alone? "
-msgstr ""
+msgstr "Co tu robisz samotnie?"
 
 #: Benjamin.dialog:52
 msgid ""
 "I'm experimenting with new designs. I want to redesign the laser pistol."
 msgstr ""
+"Eksperymentuję z nowymi projektami. Chcę ulepszyć pistolet laserowy."
 
 #: Benjamin.dialog:53
 msgid ""
